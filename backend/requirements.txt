@@ -1,0 +1,7 @@
+django>=5.0,<6.0
+djangorestframework
+psycopg2-binary
+celery[redis]
+django-seed
+faker
+python-dotenv
