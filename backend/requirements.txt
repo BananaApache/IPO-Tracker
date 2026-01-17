@@ -5,3 +5,4 @@ celery[redis]
 django-seed
 faker
 python-dotenv
+django-filter==24.3
