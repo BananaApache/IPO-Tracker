@@ -11,6 +11,9 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 """
 
 from pathlib import Path
+import os
+from celery.schedules import crontab
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -162,3 +165,15 @@ CACHES = {
 CELERY_BROKER_URL = 'amqp://guest:guest@rabbitmq:5672//'
 CELERY_RESULT_BACKEND = 'redis://redis:6379/0'
 
+CELERY_BEAT_SCHEDULE = {
+    'sync-ipos-every-morning': {
+        'task': 'ipos.tasks.update_ipos_task',
+        'schedule': crontab(hour=8, minute=0),  
+    },
+    'sync-ipos-heartbeat': {
+        'task': 'ipos.tasks.update_ipos_task',
+        'schedule': 3600.0,
+    },
+}
+
+FINNHUB_API_KEY = os.getenv('FINNHUB_API_KEY', '')

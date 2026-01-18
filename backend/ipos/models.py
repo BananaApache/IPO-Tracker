@@ -11,3 +11,11 @@ class IPO(models.Model):
 
     def __str__(self):
         return f"{self.company_name} ({self.ticker})"
+    
+class SyncLog(models.Model):
+    last_sync = models.DateTimeField(auto_now=True)
+    status = models.CharField(max_length=20, default="Success")
+
+    class Meta:
+        verbose_name_plural = "Sync Logs"
+        
