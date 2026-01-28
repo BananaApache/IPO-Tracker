@@ -39,3 +39,8 @@ The frontend utilizes Next.js revalidation. Instead of querying the database for
 3. Build and start the containers:
    docker-compose up -d --build
 4. Access the dashboard at http://localhost:3000.
+
+## API Documentation
+
+The API is fully documented using Swagger/OpenAPI. Once the system is running, you can access the interactive documentation at:
+* Swagger UI: http://localhost:8000/api/docs/

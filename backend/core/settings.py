@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     
     'rest_framework',
     'django_filters',
+    'drf_spectacular',
     
     'ipos',
 ]
@@ -135,6 +136,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # MY OWN SETTINGS
 
 REST_FRAMEWORK = {
+    'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
     'PAGE_SIZE': 20,
     'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend'],
@@ -148,6 +150,13 @@ REST_FRAMEWORK = {
         'anon': '100/day',  
         'user': '1000/day'
     }
+}
+
+SPECTACULAR_SETTINGS = {
+    'TITLE': 'IPO Tracker API',
+    'DESCRIPTION': 'API for tracking IPO data and managing background sync tasks.',
+    'VERSION': '1.0.0',
+    'SERVE_INCLUDE_SCHEMA': False,
 }
 
 

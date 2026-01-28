@@ -11,3 +11,4 @@ redis==5.0.1
 celery==5.3.6
 beautifulsoup4==4.12.3
 requests==2.31.0
+drf-spectacular==0.27.1
