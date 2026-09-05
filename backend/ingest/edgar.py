@@ -27,9 +27,23 @@ from backend.sec.submissions import fetch_profile
 
 logger = logging.getLogger(__name__)
 
-# A 424B4 is the final prospectus -- the deal priced. Everything else we track
-# is a registration or an amendment to one.
-_PRICING_FORMS = frozenset({"424B4"})
+# Why ingestion never infers 'priced' from a 424B4:
+#
+# A 424B4 is a final prospectus, but it is used for far more than IPO pricing --
+# shelf takedowns, at-the-market programmes and resale prospectuses from
+# companies that have traded for years all arrive as 424B4. In the first live
+# run, six of seven issuers a form-type rule marked 'priced' already had Nasdaq
+# tickers; one was a prospectus supplement attaching a quarterly report, whose
+# only dollar figure was the previous day's closing price.
+#
+# So form type alone is not evidence that a deal priced. Advancing past 'filed'
+# requires reading the prospectus and confirming it is an IPO -- Phase 2b. Until
+# then the status stays where the registration put it. A gap beats a
+# plausible-looking wrong value.
+
+# Forms that establish a company is on file to go public. A 424B4 is NOT here,
+# and that is the whole point -- see _status_for().
+_REGISTRATION_FORMS = frozenset({"S-1", "S-1/A", "F-1", "F-1/A"})
 
 
 @dataclass
@@ -57,7 +71,7 @@ class IngestReport:
 _UPSERT_ISSUER = """
     INSERT INTO issuers (cik, legal_name, normalized_name, sector, ticker, exchange,
                          status, first_filed_at)
-    VALUES ($1, $2, $3, $4, $5, $6, $7, $8)
+    VALUES ($1, $2, $3, $4, $5, $6, COALESCE($7, 'filed'), $8)
     ON CONFLICT (cik) DO UPDATE SET
         legal_name      = EXCLUDED.legal_name,
         normalized_name = EXCLUDED.normalized_name,
@@ -67,6 +81,7 @@ _UPSERT_ISSUER = """
         ticker          = COALESCE(EXCLUDED.ticker, issuers.ticker),
         exchange        = COALESCE(EXCLUDED.exchange, issuers.exchange),
         status          = CASE
+            WHEN EXCLUDED.status IS NULL THEN issuers.status
             WHEN issuers.status = 'withdrawn' THEN issuers.status
             WHEN array_position(ARRAY['filed','priced','listed'], EXCLUDED.status)
                > array_position(ARRAY['filed','priced','listed'], issuers.status)
@@ -132,10 +147,10 @@ async def ingest_recent(
         for entry in entries:
             profile = profiles.get(entry.cik)
             legal_name = profile.name if profile else entry.company_name
-            status = "priced" if entry.form_type in _PRICING_FORMS else "filed"
-            # Only a registration establishes a first-filed date; a prospectus
-            # says when the deal priced, not when the company got on file.
-            first_filed = None if entry.form_type in _PRICING_FORMS else entry.filed_at
+            is_registration = entry.form_type in _REGISTRATION_FORMS
+            status = "filed" if is_registration else None
+            # Only a registration establishes a first-filed date.
+            first_filed = entry.filed_at if is_registration else None
 
             async with connection.transaction():
                 issuer_id, inserted = await connection.fetchrow(
