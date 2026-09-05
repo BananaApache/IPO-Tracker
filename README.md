@@ -74,6 +74,90 @@ subject to the same hashing and retention rules as every other source.
 
 ---
 
+## Architecture
+
+Three processes and one database. The API never computes anything expensive; the
+worker never serves a request.
+
+```mermaid
+flowchart LR
+    EDGAR[SEC EDGAR]:::ext
+    HN[Hacker News]:::ext
+    GDELT[GDELT]:::ext
+
+    subgraph W["worker process (APScheduler)"]
+        ING[ingest: filings, mentions]
+        EXT[extract: cover-page terms]
+        SCORE[score: nightly rollup]
+    end
+
+    DB[(Postgres 17)]
+
+    subgraph A["api process (FastAPI)"]
+        API["/api/v1"]
+    end
+
+    NEXT[Next.js server components]:::ui
+
+    EDGAR --> ING
+    HN --> ING
+    GDELT --> ING
+    ING --> EXT --> DB
+    ING --> DB
+    DB --> SCORE --> DB
+    DB --> API --> NEXT
+
+    classDef ext fill:#eef,stroke:#88a
+    classDef ui fill:#efe,stroke:#8a8
+```
+
+**Why the worker is a separate process.** Ingestion spends most of its wall-clock
+asleep against a rate limiter, and a crash while parsing a 3 MB prospectus should
+not take request-serving down with it. They share only the database.
+
+**Why scores are precomputed.** A hype score is cohort-relative — a z-score needs
+every peer's mention volume — so computing it per request would scan the cohort
+on every page load, and two users hitting the same page would see different
+numbers.
+
+**Why the frontend has no direct database access.** Next.js server components
+call FastAPI over HTTP. That keeps one implementation of every query and one
+place where authorisation will live, rather than two.
+
+**Idempotency is structural.** No watermarks, no "already processed" bookkeeping.
+The poller re-reads a rolling window and leans on `filings.accession_no` and
+`mentions(source, source_uid)` being UNIQUE. That is what makes the worker safe
+to restart mid-run or leave off for a week.
+
+---
+
+## Measurement, and what it cost
+
+The prospectus extractor is evaluated against 32 hand-labelled filings. Some of
+what that measurement says is unflattering, and it is reported that way on
+purpose:
+
+- **75%**, not 92%, is the honest generalisation number. The held-out set scored
+  9/12 before any tuning; 92% is what it reads *after* two defects it exposed
+  were fixed, on a set that is no longer clean.
+- **The dev set's 100% should be ignored.** It stopped being a test set the
+  moment three bugs were found by reading its failures.
+- **Underwriter recall is two different numbers.** 1.00 over banks the
+  dictionary contains, 0.79 end-to-end. Conflating them would flatter the
+  result; recall here is a dictionary-coverage problem, not a matching problem.
+- **A 7% price fill rate is the correct outcome.** Across 67 live filings, 44
+  were not offerings at all — resale registrations, rights offerings, shelf base
+  prospectuses, Part II-only amendments. Every one records *why* in
+  `extraction_method`.
+- **One known failure is kept rather than tuned away.** A $0.02 shell offering is
+  rejected by the $1.00 plausibility floor. That floor is what rejects par value;
+  lowering it would trade a precision failure for a recall failure on exactly the
+  issuers this project cares least about.
+
+Full write-up: [`docs/extraction-eval.md`](docs/extraction-eval.md).
+
+---
+
 ## Status
 
 | Phase | Scope | State |

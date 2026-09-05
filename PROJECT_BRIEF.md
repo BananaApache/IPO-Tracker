@@ -228,6 +228,12 @@ pytest suite with a test DB, structured logging, error handling, Dockerfiles, de
   `mentions.author_hash`, a salted SHA-256. The only supported use is counting
   distinct authors. Do not attempt to profile, re-identify, or derive
   characteristics of any user.
+- **No third-party search-scraper APIs.** SerpAPI and equivalents are not an
+  acceptable proxy for Reddit or any other source. Search-result counts are
+  estimates, not measurements, and building on them would mean a hype score
+  derived from a number nobody can reproduce. Routing around a platform's terms
+  through a scraper also contradicts the API access request submitted for this
+  project.
 - **Read-only, non-commercial.** This system ingests public filings and public
   posts for aggregate analysis. It does not post, vote, message, or write to any
   external platform.

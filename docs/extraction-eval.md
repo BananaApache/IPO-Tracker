@@ -145,8 +145,12 @@ Labels: `tests/fixtures/extraction_labels.py` (dev),
 
 ## What would make this stronger
 
-- The held-out set is contaminated now. A third set is needed before quoting a
-  clean number again.
+- **The held-out set is contaminated.** Both sets have now been tuned against,
+  so neither can produce a clean generalisation number again. Quoting one
+  requires a *third* labelled set, drawn from a **different EDGAR window than
+  the first two** -- both of these came from the same five days, so a fresh set
+  from the same window would inherit their mix of shells, SPACs and real IPOs
+  and would not be independent in the way that matters.
 - 32 filings is small; a single label error moves a figure by 3 points.
 - Both sets come from one 5-day window of EDGAR, so the mix of shells, SPACs and
   real IPOs reflects that window rather than the market.
