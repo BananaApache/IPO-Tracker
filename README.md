@@ -19,14 +19,69 @@ Two views fall out of the pair: **Hidden Gems** (quality without attention) and
 
 ---
 
+## Scope and data handling
+
+This is a personal, **non-commercial** learning project. It is not a product, it
+is not monetised, it has no users other than its author, and nothing it produces
+is sold or served to third parties.
+
+**Read-only.** The system consumes public data and writes nothing back. It does
+not post, comment, vote, message, follow, or modify anything on any external
+platform. There is no code path that issues a write to a social API — the source
+adapter interface exposes a single method, `fetch(since) -> list[RawMention]`.
+
+**Usernames are never stored.** Social authors are persisted only as
+`mentions.author_hash`, a SHA-256 salted with a value held outside the database
+(`MENTION_HASH_SALT`). The raw username is discarded at ingestion and never
+written to disk or logged. The only supported use of the hash is counting
+*distinct* authors per issuer per day, so that ten posts from one account are not
+mistaken for ten people talking. The system does not profile users, infer user
+characteristics, build user-level histories, or attempt re-identification.
+
+**90-day retention on raw content.** Individual `mentions` rows — title, excerpt,
+URL, author hash — are deleted 90 days after `posted_at` by a scheduled sweep.
+The daily aggregates in `mention_daily` (counts and distinct-author totals)
+persist, because the long-run signal lives there. This is what keeps the project
+a metrics pipeline rather than an archive of other people's posts. The policy is
+recorded in the database itself as a `COMMENT ON TABLE`, so it survives a
+`pg_dump` and is visible to anyone auditing the schema.
+
+**Aggregate analysis only.** The unit of analysis is the *issuer*, never the
+person. Posts are counted and their engagement is summed; they are not
+republished. Stored excerpts exist so a human reviewer can audit whether a
+company-name match was correct, which is the review queue's entire purpose.
+
+**Identified, rate-limited traffic.** Every outbound request carries a
+descriptive `User-Agent` with a real contact address, and each source's rate
+limit is enforced in one place with exponential backoff. SEC EDGAR is capped at
+its published 10 requests/second.
+
+### Sources
+
+| Source | Auth | Status |
+|---|---|---|
+| SEC EDGAR | none required; identified `User-Agent` | in use |
+| Hacker News (Algolia) | none required | Phase 3 |
+| GDELT | none required | Phase 3 |
+| Reddit | OAuth, pending approved API access | **not implemented** |
+
+Reddit is deliberately absent from the codebase. There is no Reddit client, no
+credentials, and no calls to `reddit.com`. Unauthenticated JSON endpoints
+(`reddit.com/*.json`) are prohibited by this project's own rules — see
+"Hard constraints" in `PROJECT_BRIEF.md` §7. If API access is granted, Reddit
+becomes one more adapter behind the same interface, authenticated with OAuth,
+subject to the same hashing and retention rules as every other source.
+
+---
+
 ## Status
 
 | Phase | Scope | State |
 |---|---|---|
-| 0 | Skeleton: schema, migrations, `/health` | **current** |
-| 1 | Vertical slice: `GET /api/v1/issuers` → Next.js list | not started |
+| 0 | Skeleton: schema, migrations, `/health` | done |
+| 1 | Vertical slice: `GET /api/v1/issuers` → Next.js list | **current** |
 | 2 | EDGAR ingestion worker | not started |
-| 3 | Reddit ingestion + entity resolution | not started |
+| 3 | Social ingestion (HN, GDELT) + entity resolution | not started |
 | 4 | Scoring | not started |
 | 5 | Dashboard | not started |
 | 6 | Hardening + deploy | not started |
@@ -93,6 +148,59 @@ and a query actually ran. If the database is unreachable the endpoint returns
 `503`.
 
 Interactive API docs: <http://localhost:8000/docs>
+
+### 4. Load the starter issuers
+
+```bash
+uv run python -m backend.seed
+```
+
+Ten real SEC registrants, pulled from EDGAR — see `backend/seed.py` for the
+exact provenance of every field. Re-running it is safe; it upserts on `cik`.
+Phase 2 replaces this with the EDGAR ingestion worker.
+
+```bash
+curl -s "localhost:8000/api/v1/issuers?limit=3" | jq
+```
+
+### 5. Run the dashboard
+
+```bash
+cd frontend
+cp .env.example .env.local
+npm install
+npm run dev          # http://localhost:3000
+```
+
+---
+
+## API
+
+Versioned under `/api/v1`. Every list endpoint uses **cursor pagination** and
+returns `{ "data": [...], "meta": { "next_cursor": ... } }`.
+
+```
+GET  /health                     liveness + a real DB round-trip
+GET  /api/v1/issuers             ?status= &sort=filed_at &limit= &cursor=
+```
+
+`meta.next_cursor` is `null` on the last page — test for its presence rather
+than counting rows against `limit`.
+
+The cursor is opaque on purpose (base64 of a small JSON blob, carrying nothing
+that is not already in the response). Clients that cannot read it cannot depend
+on its shape, which leaves the sort key free to change. It also records which
+sort produced it, so replaying a cursor against a different `sort` is a `400`
+rather than a silently wrong page.
+
+Pagination is **keyset**, not `LIMIT/OFFSET`: the query jumps straight to the
+last row's position on the sort index, so page cost is constant and a
+concurrent insert cannot shift a page the reader has already passed.
+
+`sort` currently accepts only `filed_at`. `hype`, `quality`, and `gem` read from
+`scores`, which the worker does not populate until Phase 4; offering them now
+would return an arbitrary order that looked authoritative. Asking for one gets a
+`422` naming the valid values.
 
 ---
 
@@ -168,14 +276,21 @@ the allowed set with an ordinary `ALTER TABLE`.
 migrations/          numbered .sql, applied in order
   001_initial_schema.sql
 backend/
-  main.py            FastAPI app + lifespan (opens/closes the pool)
+  main.py            FastAPI app, lifespan (opens/closes the pool), CORS
   config.py          pydantic-settings; builds the DSN
   db.py              asyncpg pool, and the Depends wiring routes use
+  pagination.py      opaque cursor encode/decode
+  normalize.py       company-name normalisation for entity resolution
   migrate.py         migration runner
+  seed.py            ten real EDGAR registrants, with provenance
   api/
     health.py        GET /health
+    issuers.py       GET /api/v1/issuers
   Dockerfile
-frontend/            Next.js 16 (wired up in Phase 1)
+frontend/
+  app/page.tsx       Server Component: renders the issuer table
+  app/error.tsx      Client Component: error boundary (see the note inside)
+  lib/api.ts         typed client for the FastAPI backend
 docker-compose.yml   db + migrate + api
 .env.example         committed; .env is not
 ```
