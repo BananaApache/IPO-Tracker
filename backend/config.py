@@ -35,6 +35,23 @@ class Settings(BaseSettings):
     db_pool_min_size: int = 2
     db_pool_max_size: int = 10
 
+    # Browser origins allowed to call this API. Only consulted by the CORS
+    # middleware, which only affects browser-initiated requests -- see the note
+    # in main.py.
+    cors_origins: list[str] = ["http://localhost:3000"]
+
+    # SEC requires every automated request to identify a real contact, and
+    # 403s anything that does not. Configurable rather than hardcoded so a fork
+    # cannot accidentally send someone else's address to sec.gov.
+    sec_user_agent: str = "IPOTracker/0.1 (contact-not-configured)"
+
+    # Salt for mentions.author_hash. Kept out of the database on purpose: with
+    # the salt, hashes are reversible for any username you can guess, so
+    # database access alone must not be enough to re-identify authors. Changing
+    # it orphans every existing hash, which breaks unique-author continuity --
+    # treat it as write-once per deployment.
+    mention_hash_salt: str = "dev-only-change-me"
+
     @property
     def database_dsn(self) -> str:
         """asyncpg connection string.
