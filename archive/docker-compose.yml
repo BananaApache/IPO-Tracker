@@ -1,0 +1,85 @@
+services:
+  db:
+    image: postgres:15
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=${DB_NAME:-ipo_db}
+      - POSTGRES_USER=${DB_USER:-postgres}
+      - POSTGRES_PASSWORD=${DB_PASSWORD:-postgres_pass}
+    networks:
+      - app-network
+
+  redis:
+    image: redis:7-alpine
+    networks:
+      - app-network
+
+  web:
+    build: ./backend
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./backend/.env
+    environment:
+      - DB_HOST=db
+      - CELERY_BROKER_URL=redis://redis:6379/0
+    depends_on:
+      - db
+      - redis
+    networks:
+      - app-network
+
+  worker:
+    build: ./backend
+    command: celery -A core worker --loglevel=info
+    volumes:
+      - ./backend:/app
+    env_file:
+      - ./backend/.env
+    environment:
+      - DB_HOST=db
+      - CELERY_BROKER_URL=redis://redis:6379/0
+    depends_on:
+      - db
+      - redis
+    networks:
+      - app-network
+
+  beat:
+    build: ./backend
+    command: celery -A core beat -l info
+    volumes:
+      - ./backend:/app
+    env_file:
+      - ./backend/.env
+    depends_on:
+      - redis
+      - db
+    networks:
+      - app-network
+
+  frontend:
+    build: ./frontend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    ports:
+      - "3000:3000"
+    env_file:
+      - ./frontend/.env
+    depends_on:
+      - web
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  postgres_data:

@@ -1,0 +1,56 @@
+"""Application settings, loaded from the environment (and .env in dev).
+
+pydantic-settings reads each field from an env var of the same name,
+case-insensitively, and validates it. A missing or unparseable value fails at
+import time with a clear error, rather than at 3am as a TypeError deep in a
+query.
+"""
+
+from functools import lru_cache
+from urllib.parse import quote
+
+from pydantic_settings import BaseSettings, SettingsConfigDict
+
+
+class Settings(BaseSettings):
+    model_config = SettingsConfigDict(
+        env_file=".env",
+        env_file_encoding="utf-8",
+        # The same .env feeds docker compose (POSTGRES_* for the postgres
+        # image), so it holds keys this class does not declare. Ignore them
+        # instead of erroring.
+        extra="ignore",
+    )
+
+    # Discrete parts rather than one DATABASE_URL so a single .env can drive
+    # both the postgres container and this app. compose overrides only the host.
+    postgres_db: str = "ipo"
+    postgres_user: str = "ipo"
+    postgres_password: str = "ipo"
+    postgres_host: str = "localhost"
+    postgres_port: int = 5432
+
+    # Pool sizing. min_size connections are opened eagerly at startup so the
+    # first request does not pay TCP + TLS + auth latency.
+    db_pool_min_size: int = 2
+    db_pool_max_size: int = 10
+
+    @property
+    def database_dsn(self) -> str:
+        """asyncpg connection string.
+
+        The password is percent-encoded: an unescaped '@' or '/' in a password
+        silently reparses the DSN into the wrong host.
+        """
+        user = quote(self.postgres_user, safe="")
+        password = quote(self.postgres_password, safe="")
+        return (
+            f"postgresql://{user}:{password}"
+            f"@{self.postgres_host}:{self.postgres_port}/{self.postgres_db}"
+        )
+
+
+@lru_cache
+def get_settings() -> Settings:
+    """Cached so the .env file is parsed once per process, not per request."""
+    return Settings()

@@ -1,0 +1,24 @@
+[project]
+name = "ipotracker"
+version = "0.1.0"
+description = "IPO surveillance and anomaly detection over SEC EDGAR filings and social chatter"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.141.1",
+    "asyncpg>=0.30.0",
+    "pydantic-settings>=2.7.0",
+]
+
+# `package = false` keeps uv from trying to build/install this repo as a wheel.
+# `backend` is imported off PYTHONPATH instead, which keeps the Dockerfile simple.
+[tool.uv]
+package = false
+
+# Lets `fastapi dev` / `fastapi run` find the app with no path argument.
+[tool.fastapi]
+entrypoint = "backend.main:app"
+
+[tool.ruff]
+target-version = "py313"
+line-length = 100
