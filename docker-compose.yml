@@ -60,8 +60,25 @@ services:
       # baked image and `fastapi run` (the Dockerfile's CMD) instead.
       - ./backend:/app/backend
 
-  # A `worker` service lands here in Phase 2, when there is actually something
-  # for APScheduler to schedule.
+  # Separate process, not a thread inside the API. Ingestion spends most of its
+  # time asleep against a rate limiter, and a crash in it must not take request
+  # serving down. The two share only the database.
+  worker:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    command: ["python", "-m", "backend.worker"]
+    env_file: [.env]
+    environment:
+      POSTGRES_HOST: db
+    depends_on:
+      db:
+        condition: service_healthy
+      migrate:
+        condition: service_completed_successfully
+    volumes:
+      - ./backend:/app/backend
+    restart: unless-stopped
 
 volumes:
   pgdata:

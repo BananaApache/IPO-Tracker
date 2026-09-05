@@ -45,6 +45,17 @@ class Settings(BaseSettings):
     # cannot accidentally send someone else's address to sec.gov.
     sec_user_agent: str = "IPOTracker/0.1 (contact-not-configured)"
 
+    # SEC's published ceiling is 10 requests/second. Default sits under it: the
+    # limit is enforced per process, and the worker is not the only thing that
+    # might be talking to EDGAR.
+    sec_rate_limit_per_second: float = 6.0
+    sec_max_retries: int = 5
+    # How far back each poll re-reads EDGAR's daily indexes. The poller keeps no
+    # watermark -- idempotency comes from filings.accession_no being UNIQUE --
+    # so this window is what lets it self-heal after downtime.
+    sec_lookback_days: int = 7
+    sec_poll_interval_minutes: int = 60
+
     # Salt for mentions.author_hash. Kept out of the database on purpose: with
     # the salt, hashes are reversible for any username you can guess, so
     # database access alone must not be enough to re-identify authors. Changing

@@ -80,7 +80,8 @@ subject to the same hashing and retention rules as every other source.
 |---|---|---|
 | 0 | Skeleton: schema, migrations, `/health` | done |
 | 1 | Vertical slice: `GET /api/v1/issuers` → Next.js list | **current** |
-| 2 | EDGAR ingestion worker | not started |
+| 2a | EDGAR ingestion worker (issuers + filings) | done |
+| 2b | Prospectus extraction (underwriters, price range) | **current** |
 | 3 | Social ingestion (HN, GDELT) + entity resolution | not started |
 | 4 | Scoring | not started |
 | 5 | Dashboard | not started |
@@ -126,6 +127,7 @@ That starts three things in order:
 1. **`db`** — Postgres 17, with a healthcheck so nothing talks to it early.
 2. **`migrate`** — one-shot, applies pending migrations, exits 0.
 3. **`api`** — FastAPI on `:8000`, gated on `migrate` completing successfully.
+4. **`worker`** — EDGAR ingestion on a schedule, in its own process.
 
 ### 3. Verify
 
@@ -183,6 +185,44 @@ returns `{ "data": [...], "meta": { "next_cursor": ... } }`.
 GET  /health                     liveness + a real DB round-trip
 GET  /api/v1/issuers             ?status= &sort=filed_at &limit= &cursor=
 ```
+
+---
+
+## Ingestion
+
+```bash
+uv run python -m backend.worker --once   # one pass
+uv run python -m backend.worker          # schedule and stay up
+```
+
+The worker polls EDGAR's daily indexes for `S-1`, `S-1/A`, `F-1`, `F-1/A`, and
+`424B4`, then upserts `issuers` and `filings`.
+
+**Idempotency is structural.** There is no watermark and no "already processed"
+bookkeeping. Each run re-reads a rolling window of daily indexes
+(`SEC_LOOKBACK_DAYS`, default 7) and leans on two constraints: `accession_no` is
+UNIQUE, so a re-read inserts nothing, and `cik` is UNIQUE, so the issuer upsert
+merges. The worker is therefore safe to restart mid-run or leave off for a week —
+it catches up on its own, and a second run reports `filings(+0/skip 67)`.
+
+**Status only moves forward.** `filed → priced → listed`, enforced with
+`array_position` in the upsert. Without that ladder, the sliding lookback window
+would drag a priced issuer back to `filed` every time it re-read an old
+amendment. `withdrawn` is set by hand and never overwritten by ingestion.
+
+**Rate limiting lives in one place.** Every sec.gov request goes through
+`backend/sec/client.py`, which spaces them with a lock rather than a token
+bucket — a bucket permits a burst, and a burst is what trips SEC's throttle even
+when the average rate is legal. Default 6 req/s against a published ceiling of
+10. Retries are exponential with jitter and honour `Retry-After`.
+
+**A 403 from EDGAR is ambiguous.** A missing daily index (weekend, holiday,
+future date) returns 403 — the same status as being throttled. Rather than guess
+dates and interpret the result, the poller reads the quarter's `index.json` to
+learn which daily indexes actually exist, and requests only those. A 403 whose
+body contains `Undeclared Automated Tool` is raised as a distinct
+misconfiguration error, because no amount of retrying fixes a rejected
+`User-Agent`.
 
 `meta.next_cursor` is `null` on the last page — test for its presence rather
 than counting rows against `limit`.
@@ -283,6 +323,13 @@ backend/
   normalize.py       company-name normalisation for entity resolution
   migrate.py         migration runner
   seed.py            ten real EDGAR registrants, with provenance
+  worker.py          APScheduler process; --once for a single pass
+  sec/
+    client.py        the only place that talks to sec.gov: rate limit + backoff
+    index.py         daily-index discovery and parsing
+    submissions.py   per-issuer company metadata
+  ingest/
+    edgar.py         idempotent upserts into issuers + filings
   api/
     health.py        GET /health
     issuers.py       GET /api/v1/issuers

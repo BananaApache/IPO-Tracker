@@ -8,6 +8,7 @@ dependencies = [
     "fastapi[standard]>=0.141.1",
     "asyncpg>=0.30.0",
     "pydantic-settings>=2.7.0",
+    "apscheduler>=3.10,<4",
 ]
 
 # `package = false` keeps uv from trying to build/install this repo as a wheel.
