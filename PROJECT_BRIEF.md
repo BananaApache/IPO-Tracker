@@ -38,7 +38,7 @@ Do not re-litigate these. If you think one is wrong, say so once, briefly, then 
 - Python 3.12+, FastAPI
 - `asyncpg` with hand-written SQL. **No ORM.** No SQLAlchemy, no SQLModel, no Tortoise.
 - Migrations: numbered `.sql` files in `migrations/`, applied by a small runner script. No Alembic.
-- `pydantic-settings` for config, `httpx` for HTTP, `asyncpraw` for Reddit
+- `pydantic-settings` for config, `httpx` for HTTP (all sources; no per-platform SDKs)
 - `pytest` + `httpx.AsyncClient` for tests
 - Workers run in a **separate process** from the API, scheduled with APScheduler
 
@@ -78,11 +78,13 @@ offerings          id, issuer_id FK, price_low, price_high, price_final,
 underwriters       id, name, normalized_name
 offering_underwriters   offering_id FK, underwriter_id FK, role (lead|co_manager)
 
-mentions           id, source (reddit|news), source_uid, issuer_id FK NULL,
+mentions           id, source (hn|gdelt|reddit), source_uid, issuer_id FK NULL,
                    matched_alias_id FK NULL, match_confidence NUMERIC(3,2),
-                   needs_review BOOL, author, channel, title, body_excerpt,
+                   needs_review BOOL, author_hash, channel, title, body_excerpt,
                    url, engagement_score, posted_at, ingested_at
                    UNIQUE (source, source_uid)
+                   -- author_hash is a salted SHA-256. Raw usernames are never
+                   -- stored. Rows are deleted 90 days after posted_at.
 
 mention_daily      issuer_id FK, day DATE, source, mention_count,
                    unique_authors, weighted_engagement
@@ -99,9 +101,11 @@ scores             id, issuer_id FK, as_of, hype_score, quality_score,
 
 **Indexes required:** `mentions(issuer_id, posted_at DESC)`, `mentions(needs_review) WHERE needs_review`, `mention_daily(day DESC)`, `issuers(normalized_name)`, `aliases(normalized_alias)`.
 
-**Two design points to preserve:**
+**Design points to preserve:**
 - `mentions.issuer_id` is nullable with a `match_confidence` and `needs_review` flag. Unmatched and low-confidence matches are **kept**, not discarded. Match precision must stay auditable.
 - `scores` is precomputed by the worker, never calculated per-request.
+- `mentions.author_hash` is a salted SHA-256 of the platform username; the raw username is never written to the database. Its only supported use is `mention_daily.unique_authors`. Salt comes from `MENTION_HASH_SALT`.
+- **Retention:** individual `mentions` rows are deleted 90 days after `posted_at`. `mention_daily` aggregates are permanent. The raw text is an input to a metric, not an archive.
 
 ---
 
@@ -148,14 +152,47 @@ Respect SEC rules: max 10 req/sec, descriptive `User-Agent` with contact email, 
 
 *Done when:* the worker runs on a schedule and populates real filings without me touching the DB.
 
-### Phase 3 — Reddit ingestion + entity resolution
-`asyncpraw` ingestion from finance subreddits. Alias generation per issuer (legal name, stripped suffixes, brand name, cashtag). Matching with a confidence score.
+### Phase 3 — Social ingestion + entity resolution
 
-**Do not use naive substring matching.** Company names like "Circle" and "Figure" are ordinary English words. Build: normalize → candidate generation → scored match → threshold. Below threshold, store with `needs_review = true`.
+**Source adapters.** Define one interface and implement it per platform:
 
-Write down the precision/recall tradeoff in `docs/matching.md`. I need to explain this in interviews.
+```
+class SourceAdapter(Protocol):
+    name: str
+    async def fetch(self, since: datetime) -> list[RawMention]: ...
+```
 
-*Done when:* mentions land in the DB with confidence scores and the review queue endpoint returns the ambiguous ones.
+`RawMention` is a platform-neutral record (source, source_uid, author_hash,
+channel, title, body_excerpt, url, engagement_score, posted_at). Everything
+downstream — matching, scoring, the review queue — sees only `RawMention` and
+never a platform-specific shape.
+
+**First implementations, both keyless:**
+- **Hacker News** via the Algolia search API
+- **GDELT** for news
+
+**Reddit is not in the initial build.** Reddit now requires explicit approval
+before API access. The access request is submitted separately; if and when it is
+granted, Reddit becomes one more adapter behind the same interface, using OAuth
+with real credentials. Nothing else changes. See the hard constraint in §7.
+
+**Entity resolution.** Alias generation per issuer (legal name, stripped
+suffixes, brand name, cashtag). Matching with a confidence score.
+
+**Do not use naive substring matching.** Company names like "Circle" and
+"Figure" are ordinary English words. Build: normalize → candidate generation →
+scored match → threshold. Below threshold, store with `needs_review = true`.
+
+**Retention sweep.** Scheduled job deleting `mentions` rows older than 90 days
+by `posted_at`. `mention_daily` aggregates are permanent. The schema already
+carries this as a `COMMENT ON TABLE` and a supporting index.
+
+Write down the precision/recall tradeoff in `docs/matching.md`. I need to explain
+this in interviews.
+
+*Done when:* mentions from at least two keyless sources land in the DB with
+confidence scores, the review queue endpoint returns the ambiguous ones, and the
+retention sweep runs on a schedule.
 
 ### Phase 4 — Scoring
 Nightly rollup into `mention_daily`. Hype score from volume + velocity, z-scored across the active cohort. Quality score from revenue growth, margin, debt, underwriter tier. Store components in `scores.components` JSONB so the dashboard can explain any number it shows.
@@ -179,5 +216,23 @@ pytest suite with a test DB, structured logging, error handling, Dockerfiles, de
 - Every non-obvious decision gets a one-line comment explaining *why*, not *what*.
 - If a phase turns out bigger than expected, tell me and propose a split rather than producing 2000 lines silently.
 - When I ask "why did you do it that way," give me the real tradeoff, including the case against.
+
+**Hard constraints — these are not tradeoffs.**
+
+- **Never use unauthenticated Reddit endpoints.** No `reddit.com/*.json`, no
+  scraping, no undocumented JSON routes, with or without a User-Agent dodge. It
+  violates Reddit's Developer Terms, it contradicts the API access request I
+  have submitted, and it 403s from datacenter IPs the moment this deploys. If
+  Reddit is added it goes through OAuth with approved credentials or not at all.
+- **Never store raw usernames.** Social authors are persisted only as
+  `mentions.author_hash`, a salted SHA-256. The only supported use is counting
+  distinct authors. Do not attempt to profile, re-identify, or derive
+  characteristics of any user.
+- **Read-only, non-commercial.** This system ingests public filings and public
+  posts for aggregate analysis. It does not post, vote, message, or write to any
+  external platform.
+- **Respect every source's rate limit,** in one place per source, with backoff.
+  SEC EDGAR: max 10 req/sec and a descriptive `User-Agent` carrying a real
+  contact email.
 
 Start with Phase 0. Before you write code, restate the plan in your own words and flag anything in this brief you think is a mistake.
