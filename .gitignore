@@ -1,4 +1,22 @@
-db.sqlite3
+# Python
 __pycache__/
-.DS_Store
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Secrets -- .env.example is committed instead
 .env
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Local backup of the pre-FastAPI Django/Celery project. Kept on disk for
+# convenience only -- the same code is in git history at 81691fc and earlier.
+archive/
+
+# OS
+.DS_Store

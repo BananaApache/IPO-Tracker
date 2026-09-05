@@ -1,85 +1,67 @@
 services:
   db:
-    image: postgres:15
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
+    image: postgres:17-alpine
     environment:
-      - POSTGRES_DB=${DB_NAME:-ipo_db}
-      - POSTGRES_USER=${DB_USER:-postgres}
-      - POSTGRES_PASSWORD=${DB_PASSWORD:-postgres_pass}
-    networks:
-      - app-network
-
-  redis:
-    image: redis:7-alpine
-    networks:
-      - app-network
-
-  web:
-    build: ./backend
-    command: python manage.py runserver 0.0.0.0:8000
+      POSTGRES_DB: ${POSTGRES_DB:-ipo}
+      POSTGRES_USER: ${POSTGRES_USER:-ipo}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-ipo}
+    ports:
+      # Published so psql and the migration runner work from the host too.
+      - "${POSTGRES_PORT:-5432}:5432"
     volumes:
-      - ./backend:/app
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      # $$ escapes compose interpolation so the shell inside the container
+      # expands these, not compose.
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 2s
+      timeout: 3s
+      retries: 20
+
+  # One-shot: applies pending migrations, exits 0, and gates the api service.
+  # Kept separate from the api container so a failed migration is a visibly
+  # failed step rather than a crash loop inside the server's entrypoint.
+  migrate:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    command: ["python", "-m", "backend.migrate"]
+    env_file: [.env]
+    environment:
+      POSTGRES_HOST: db
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      # Without these the runner uses the migrations baked into the image at
+      # build time, so a newly added .sql file is silently skipped until the
+      # next `--build`. The image still carries its own copy for production.
+      - ./migrations:/app/migrations:ro
+      - ./backend:/app/backend:ro
+    restart: "no"
+
+  api:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    command: ["fastapi", "dev", "--host", "0.0.0.0", "--port", "8000"]
     ports:
       - "8000:8000"
-    env_file:
-      - ./backend/.env
+    env_file: [.env]
     environment:
-      - DB_HOST=db
-      - CELERY_BROKER_URL=redis://redis:6379/0
+      POSTGRES_HOST: db
     depends_on:
-      - db
-      - redis
-    networks:
-      - app-network
-
-  worker:
-    build: ./backend
-    command: celery -A core worker --loglevel=info
+      db:
+        condition: service_healthy
+      migrate:
+        condition: service_completed_successfully
     volumes:
-      - ./backend:/app
-    env_file:
-      - ./backend/.env
-    environment:
-      - DB_HOST=db
-      - CELERY_BROKER_URL=redis://redis:6379/0
-    depends_on:
-      - db
-      - redis
-    networks:
-      - app-network
+      # Bind mount + `fastapi dev` give reload on save. Production uses the
+      # baked image and `fastapi run` (the Dockerfile's CMD) instead.
+      - ./backend:/app/backend
 
-  beat:
-    build: ./backend
-    command: celery -A core beat -l info
-    volumes:
-      - ./backend:/app
-    env_file:
-      - ./backend/.env
-    depends_on:
-      - redis
-      - db
-    networks:
-      - app-network
-
-  frontend:
-    build: ./frontend
-    volumes:
-      - ./frontend:/app
-      - /app/node_modules
-      - /app/.next
-    ports:
-      - "3000:3000"
-    env_file:
-      - ./frontend/.env
-    depends_on:
-      - web
-    networks:
-      - app-network
-
-networks:
-  app-network:
-    driver: bridge
+  # A `worker` service lands here in Phase 2, when there is actually something
+  # for APScheduler to schedule.
 
 volumes:
-  postgres_data:
+  pgdata:

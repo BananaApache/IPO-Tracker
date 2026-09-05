@@ -1,1 +1,0 @@
-This is just to seed up the database so I can get the feel of database indexing and optimally querying
