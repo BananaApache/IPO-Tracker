@@ -41,6 +41,13 @@ class Seed:
     legal_name: str
     sector: str | None
     first_filed_at: date
+    # Provenance. Not inserted -- `issuers` has no column for either, and the
+    # filing itself belongs in `filings`, which the Phase 2 worker populates.
+    # Carried here so every row can be traced to the document it came from
+    # without leaving the file. See docs/seed-provenance.md.
+    source_form: str
+    source_accession: str
+    source_url: str
 
 
 SEED_ISSUERS: list[Seed] = [
@@ -49,60 +56,90 @@ SEED_ISSUERS: list[Seed] = [
         legal_name='ADARx Pharmaceuticals, Inc.',
         sector='Pharmaceutical Preparations',
         first_filed_at=date(2026, 9, 4),
+        source_form='S-1',
+        source_accession='0001193125-26-383838',
+        source_url='https://www.sec.gov/Archives/edgar/data/1802369/000119312526383838/d903461ds1.htm',
     ),
     Seed(
         cik='0002133022',
         legal_name='Oura Inc.',
         sector=None,
         first_filed_at=date(2026, 9, 3),
+        source_form='S-1',
+        source_accession='0001193125-26-381855',
+        source_url='https://www.sec.gov/Archives/edgar/data/2133022/000119312526381855/d119865ds1.htm',
     ),
     Seed(
         cik='0002133037',
         legal_name='SB Energy, Inc.',
         sector='Electric Services',
         first_filed_at=date(2026, 9, 1),
+        source_form='S-1',
+        source_accession='0001628280-26-059639',
+        source_url='https://www.sec.gov/Archives/edgar/data/2133037/000162828026059639/sbenergy-sx1.htm',
     ),
     Seed(
         cik='0002125056',
         legal_name='Wella Co',
         sector='Perfumes, Cosmetics & Other Toilet Preparations',
         first_filed_at=date(2026, 8, 31),
+        source_form='S-1',
+        source_accession='0001628280-26-059572',
+        source_url='https://www.sec.gov/Archives/edgar/data/2125056/000162828026059572/wellaoperations-sx1.htm',
     ),
     Seed(
         cik='0002141406',
         legal_name='Accelevation Holdings Corp.',
         sector='Electrical Industrial Apparatus',
         first_filed_at=date(2026, 9, 2),
+        source_form='S-1',
+        source_accession='0001628280-26-060083',
+        source_url='https://www.sec.gov/Archives/edgar/data/2141406/000162828026060083/accelevationllc-sx1publicf.htm',
     ),
     Seed(
         cik='0002080577',
         legal_name='LiPower New Energy Holdings Ltd',
         sector='Miscellaneous Electrical Machinery, Equipment & Supplies',
         first_filed_at=date(2026, 9, 2),
+        source_form='F-1',
+        source_accession='0001213900-26-096406',
+        source_url='https://www.sec.gov/Archives/edgar/data/2080577/000121390026096406/ea0304333-01.htm',
     ),
     Seed(
         cik='0002088082',
         legal_name='Electra Therapeutics, Inc.',
         sector='Biological Products, (No Diagnostic Substances)',
         first_filed_at=date(2026, 8, 28),
+        source_form='S-1',
+        source_accession='0001193125-26-374259',
+        source_url='https://www.sec.gov/Archives/edgar/data/2088082/000119312526374259/d61940ds1.htm',
     ),
     Seed(
         cik='0002125355',
         legal_name='Bamboo Insurance Services, Inc.',
         sector='Insurance Agents, Brokers & Service',
         first_filed_at=date(2026, 8, 28),
+        source_form='S-1',
+        source_accession='0001628280-26-059433',
+        source_url='https://www.sec.gov/Archives/edgar/data/2125355/000162828026059433/bambooinsuranceservicesinc.htm',
     ),
     Seed(
         cik='0002141616',
         legal_name='Amaero Inc.',
         sector='Miscellaneous Primary Metal Products',
         first_filed_at=date(2026, 8, 28),
+        source_form='S-1',
+        source_accession='0001193125-26-372368',
+        source_url='https://www.sec.gov/Archives/edgar/data/2141616/000119312526372368/ck0002141616-20260828.htm',
     ),
     Seed(
         cik='0002141512',
         legal_name='Spinnova Plc',
         sector='Miscellaneous Fabricated Textile Products',
         first_filed_at=date(2026, 8, 27),
+        source_form='F-1',
+        source_accession='0001185185-26-003732',
+        source_url='https://www.sec.gov/Archives/edgar/data/2141512/000118518526003732/spinnovaf1081826.htm',
     ),
 ]
 
