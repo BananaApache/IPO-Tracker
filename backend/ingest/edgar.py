@@ -23,7 +23,8 @@ from backend.config import Settings
 from backend.normalize import normalize_company_name
 from backend.sec import index as sec_index
 from backend.sec.client import SecClient
-from backend.sec.submissions import fetch_profile
+from backend.ingest.offerings import OfferingReport, extract_for_filings
+from backend.sec.submissions import fetch_primary_documents, fetch_profile
 
 logger = logging.getLogger(__name__)
 
@@ -55,12 +56,14 @@ class IngestReport:
     filings_inserted: int = 0
     filings_skipped: int = 0
     profiles_missing: list[str] = field(default_factory=list)
+    offerings: OfferingReport = field(default_factory=OfferingReport)
 
     def __str__(self) -> str:
         return (
             f"days={self.days_scanned} entries={self.entries_seen} "
             f"issuers(+{self.issuers_inserted}/~{self.issuers_updated}) "
-            f"filings(+{self.filings_inserted}/skip {self.filings_skipped})"
+            f"filings(+{self.filings_inserted}/skip {self.filings_skipped}) "
+            f"offerings[{self.offerings}]"
         )
 
 
@@ -143,6 +146,8 @@ async def ingest_recent(
         else:
             profiles[cik] = profile
 
+    new_filings: list[dict] = []
+
     async with pool.acquire() as connection:
         for entry in entries:
             profile = profiles.get(entry.cik)
@@ -182,5 +187,23 @@ async def ingest_recent(
                     report.filings_skipped += 1
                 else:
                     report.filings_inserted += 1
+                    # Only newly inserted filings get parsed. A prospectus does
+                    # not change once filed, so re-extracting the whole lookback
+                    # window each hour would download megabytes to no effect.
+                    new_filings.append({
+                        "id": filing_id,
+                        "issuer_id": issuer_id,
+                        "cik": entry.cik,
+                        "accession_no": entry.accession_no,
+                        "form_type": entry.form_type,
+                    })
+
+    if new_filings:
+        documents: dict[str, dict[str, str]] = {}
+        for cik in sorted({f["cik"] for f in new_filings}):
+            documents[cik] = await fetch_primary_documents(client, cik)
+        report.offerings = await extract_for_filings(
+            pool, client, settings, new_filings, documents
+        )
 
     return report

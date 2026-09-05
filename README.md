@@ -81,8 +81,8 @@ subject to the same hashing and retention rules as every other source.
 | 0 | Skeleton: schema, migrations, `/health` | done |
 | 1 | Vertical slice: `GET /api/v1/issuers` → Next.js list | **current** |
 | 2a | EDGAR ingestion worker (issuers + filings) | done |
-| 2b | Prospectus extraction (underwriters, price range) | **current** |
-| 3 | Social ingestion (HN, GDELT) + entity resolution | not started |
+| 2b | Prospectus extraction (underwriters, price range) | done |
+| 3 | Social ingestion (HN, GDELT) + entity resolution | **next** |
 | 4 | Scoring | not started |
 | 5 | Dashboard | not started |
 | 6 | Hardening + deploy | not started |
@@ -216,6 +216,19 @@ bucket — a bucket permits a burst, and a burst is what trips SEC's throttle ev
 when the average rate is legal. Default 6 req/s against a published ceiling of
 10. Retries are exponential with jitter and honour `Retry-After`.
 
+**Offering terms are extracted, with provenance.** Newly-inserted filings get
+their prospectus cover parsed for a price and a syndicate. Every value carries
+`extraction_confidence`, `extraction_method` (the rule that fired, or the reason
+nothing was written) and `price_disclosure` — which separates *"the issuer has
+not set a range yet"* from *"we could not read it"*. Those are different facts
+and Phase 4 needs to tell them apart.
+
+Measured against 32 hand-labelled filings: **92% price accuracy and 1.00
+underwriter precision on a held-out set** — see `docs/extraction-eval.md`, which
+also reports the pre-tuning number (75%), the one remaining failure, and why a
+7% price fill rate across the live corpus is the correct outcome rather than
+something to tune away.
+
 **A 403 from EDGAR is ambiguous.** A missing daily index (weekend, holiday,
 future date) returns 403 — the same status as being throttled. Rather than guess
 dates and interpret the result, the poller reads the quarter's `index.json` to
@@ -328,8 +341,16 @@ backend/
     client.py        the only place that talks to sec.gov: rate limit + backoff
     index.py         daily-index discovery and parsing
     submissions.py   per-issuer company metadata
+  extract/
+    text.py          HTML -> text, and locating the cover page
+    prospectus.py    price + underwriter rules, all able to give up
+    underwriters.py  curated bank dictionary
   ingest/
     edgar.py         idempotent upserts into issuers + filings
+    offerings.py     persists extracted terms with provenance
+tests/
+  fixtures/          hand-labelled validation sets (dev + held-out)
+  evaluate_extraction.py
   api/
     health.py        GET /health
     issuers.py       GET /api/v1/issuers
