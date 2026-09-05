@@ -56,6 +56,17 @@ class Settings(BaseSettings):
     sec_lookback_days: int = 7
     sec_poll_interval_minutes: int = 60
 
+    # Social ingestion.
+    social_lookback_days: int = 3
+    hn_max_items: int = 4000
+    # One broad query, matched locally. Per-issuer queries are impossible at
+    # GDELT's one-request-per-five-seconds ceiling.
+    gdelt_query: str = '"initial public offering" OR "IPO filing" OR "files for IPO"'
+
+    # Raw mentions are deleted this many days after posted_at. mention_daily
+    # aggregates are permanent. See the COMMENT ON TABLE in migration 001.
+    mention_retention_days: int = 90
+
     # Salt for mentions.author_hash. Kept out of the database on purpose: with
     # the salt, hashes are reversible for any username you can guess, so
     # database access alone must not be enough to re-identify authors. Changing

@@ -16,11 +16,13 @@ import logging
 import signal
 
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
+from apscheduler.triggers.cron import CronTrigger
 from apscheduler.triggers.interval import IntervalTrigger
 
 from backend.config import get_settings
 from backend.db import create_pool
 from backend.ingest.edgar import ingest_recent
+from backend.ingest.retention import sweep_mentions
 from backend.sec.client import SecClient, SecMisconfiguredError
 
 logging.basicConfig(
@@ -37,6 +39,11 @@ async def run_once() -> None:
         async with SecClient(settings) as client:
             report = await ingest_recent(pool, client, settings)
         logger.info("edgar ingest complete: %s", report)
+        async with pool.acquire() as connection:
+            logger.info(
+                "retention sweep: %s",
+                await sweep_mentions(connection, settings.mention_retention_days),
+            )
         if report.profiles_missing:
             logger.warning(
                 "no submissions record for %d CIK(s): %s",
@@ -45,6 +52,16 @@ async def run_once() -> None:
             )
     finally:
         await pool.close()
+
+
+async def _retention_job(pool, settings) -> None:
+    """Delete raw mentions past the retention window. Never raises."""
+    try:
+        async with pool.acquire() as connection:
+            report = await sweep_mentions(connection, settings.mention_retention_days)
+        logger.info("retention sweep: %s", report)
+    except Exception:
+        logger.exception("retention sweep failed; will retry on the next tick")
 
 
 async def _job(pool, settings) -> None:
@@ -82,6 +99,20 @@ async def serve() -> None:
         next_run_time=None,
     )
 
+    scheduler.add_job(
+        _retention_job,
+        # Daily, not hourly: the cutoff is a whole UTC day, so running it more
+        # often deletes nothing new. Offset from midnight so it does not race
+        # the nightly rollup that has to run first -- a mention deleted before
+        # its day is aggregated is gone for good, which is why sweep_mentions
+        # withholds rows that have no mention_daily row yet.
+        trigger=CronTrigger(hour=4, minute=30, timezone="UTC"),
+        args=[pool, settings],
+        id="mention_retention",
+        max_instances=1,
+        coalesce=True,
+    )
+
     stop = asyncio.Event()
     loop = asyncio.get_running_loop()
     for sig in (signal.SIGINT, signal.SIGTERM):
@@ -89,10 +120,12 @@ async def serve() -> None:
 
     scheduler.start()
     logger.info(
-        "worker up: edgar ingest every %d min, %d-day lookback, %.1f req/s to SEC",
+        "worker up: edgar ingest every %d min (%d-day lookback, %.1f req/s to SEC); "
+        "retention sweep daily at 04:30 UTC (%d-day window)",
         settings.sec_poll_interval_minutes,
         settings.sec_lookback_days,
         settings.sec_rate_limit_per_second,
+        settings.mention_retention_days,
     )
 
     # Run immediately on boot so a fresh deploy is not blind until the first

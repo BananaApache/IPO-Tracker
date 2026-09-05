@@ -61,9 +61,17 @@ its published 10 requests/second.
 | Source | Auth | Status |
 |---|---|---|
 | SEC EDGAR | none required; identified `User-Agent` | in use |
-| Hacker News (Algolia) | none required | Phase 3 |
-| GDELT | none required | Phase 3 |
+| Hacker News (Algolia) | none required | in use |
+| GDELT (DOC 2.0) | none required | adapter written, live fetch blocked — see below |
 | Reddit | OAuth, pending approved API access | **not implemented** |
+
+> **GDELT caveat, stated rather than hidden:** the adapter is written to the
+> documented DOC 2.0 `artlist` schema and its transform is unit-tested, but it
+> has never received a live response. Every request from this machine returned
+> `429` over ~10 minutes, including single requests after 150 seconds of
+> silence, while GDELT's `summary` endpoint returned `200` — so the host is
+> reachable and this is not our request rate. The field *mapping* is therefore
+> documented-but-unconfirmed. It is not counted as a working source.
 
 Reddit is deliberately absent from the codebase. There is no Reddit client, no
 credentials, and no calls to `reddit.com`. Unauthenticated JSON endpoints
@@ -166,7 +174,8 @@ Full write-up: [`docs/extraction-eval.md`](docs/extraction-eval.md).
 | 1 | Vertical slice: `GET /api/v1/issuers` → Next.js list | **current** |
 | 2a | EDGAR ingestion worker (issuers + filings) | done |
 | 2b | Prospectus extraction (underwriters, price range) | done |
-| 3 | Social ingestion (HN, GDELT) + entity resolution | **next** |
+| 3a | Retention sweep, adapter interface, HN + GDELT | done |
+| 3b | Entity resolution + matching evaluation | **next** |
 | 4 | Scoring | not started |
 | 5 | Dashboard | not started |
 | 6 | Hardening + deploy | not started |
@@ -421,6 +430,11 @@ backend/
   migrate.py         migration runner
   seed.py            ten real EDGAR registrants, with provenance
   worker.py          APScheduler process; --once for a single pass
+  http.py            shared rate limiting + retry (one limiter per source)
+  sources/
+    base.py          RawMention + the SourceAdapter protocol
+    hackernews.py    Algolia API, keyless
+    gdelt.py         DOC 2.0 API, keyless
   sec/
     client.py        the only place that talks to sec.gov: rate limit + backoff
     index.py         daily-index discovery and parsing
@@ -432,6 +446,7 @@ backend/
   ingest/
     edgar.py         idempotent upserts into issuers + filings
     offerings.py     persists extracted terms with provenance
+    retention.py     the 90-day sweep
 tests/
   fixtures/          hand-labelled validation sets (dev + held-out)
   evaluate_extraction.py
