@@ -95,13 +95,12 @@ async def main(days: int) -> None:
     seen_sub = seen_noise = 0
     since = datetime.now(UTC) - timedelta(days=days)
     # Walk the window in slices so a failure loses one slice, not the run.
-    slice_days = 3
+    slice_days = 2
     cursor = datetime.now(UTC)
     try:
         while cursor > since:
             slice_start = max(since, cursor - timedelta(days=slice_days))
-            batch = await adapter.fetch(slice_start)
-            batch = [m for m in batch if m.posted_at <= cursor]
+            batch = await adapter.fetch(slice_start, until=cursor)
             for m in batch:
                 total += 1
                 text = f"{m.title or ''} {m.body_excerpt or ''}"

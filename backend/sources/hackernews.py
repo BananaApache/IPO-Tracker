@@ -44,13 +44,23 @@ class HackerNewsAdapter:
     async def aclose(self) -> None:
         await self._client.aclose()
 
-    async def fetch(self, since: datetime) -> list[RawMention]:
+    async def fetch(
+        self, since: datetime, until: datetime | None = None
+    ) -> list[RawMention]:
+        """Items in [since, until]. `until` defaults to now.
+
+        The upper bound is not decoration. A single call is capped at
+        _MAX_BATCHES * _PER_PAGE items, and Hacker News produces ~10k items a
+        day, so a call without one silently returns only the most recent ~6 days
+        no matter how far back `since` reaches -- and a caller paging a longer
+        window by moving `since` alone gets the same recent items every time.
+        """
         cutoff = int(since.timestamp())
-        newest = None
+        newest = int(until.timestamp()) + 1 if until is not None else None
         seen: set[str] = set()
         mentions: list[RawMention] = []
 
-        for _ in range(_MAX_BATCHES):
+        for batch_index in range(_MAX_BATCHES):
             window = f"created_at_i>{cutoff}"
             if newest is not None:
                 window += f",created_at_i<{newest}"
@@ -77,6 +87,14 @@ class HackerNewsAdapter:
 
             if len(mentions) >= self._max_items or oldest <= cutoff:
                 break
+            if batch_index == _MAX_BATCHES - 1:
+                # Truncation is silent otherwise: the caller cannot tell a
+                # window that genuinely ended from one that hit the cap.
+                logger.warning(
+                    "hn: hit the %d-batch cap with items still older than %s; "
+                    "narrow the window or raise the cap",
+                    _MAX_BATCHES, since.date(),
+                )
             # +1 so an item exactly on the boundary is not skipped.
             newest = oldest + 1
 
