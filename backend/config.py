@@ -59,6 +59,7 @@ class Settings(BaseSettings):
     # Social ingestion.
     social_lookback_days: int = 3
     hn_max_items: int = 4000
+    social_poll_interval_minutes: int = 30
     # One broad query, matched locally. Per-issuer queries are impossible at
     # GDELT's one-request-per-five-seconds ceiling.
     gdelt_query: str = '"initial public offering" OR "IPO filing" OR "files for IPO"'

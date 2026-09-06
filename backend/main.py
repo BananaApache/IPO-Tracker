@@ -10,6 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from backend.api.health import router as health_router
 from backend.api.issuers import router as issuers_router
+from backend.api.review import router as review_router
 from backend.config import get_settings
 from backend.db import create_pool
 
@@ -53,3 +54,4 @@ app.add_middleware(
 
 app.include_router(health_router)
 app.include_router(issuers_router)
+app.include_router(review_router)

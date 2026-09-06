@@ -18,9 +18,12 @@ logger = logging.getLogger(__name__)
 
 _ENDPOINT = "https://hn.algolia.com/api/v1/search_by_date"
 
-# Algolia caps hitsPerPage at 1000 and stops at 50 pages of results for a query.
+# Algolia caps page * hitsPerPage at 1000, so `page=1` with a full page size
+# returns nothing at all. Deep pagination is done by walking the time window
+# backwards instead: take the oldest item of each batch and ask for everything
+# older than it.
 _PER_PAGE = 1000
-_MAX_PAGES = 50
+_MAX_BATCHES = 60
 
 _EXCERPT_CHARS = 500
 
@@ -43,29 +46,39 @@ class HackerNewsAdapter:
 
     async def fetch(self, since: datetime) -> list[RawMention]:
         cutoff = int(since.timestamp())
+        newest = None
+        seen: set[str] = set()
         mentions: list[RawMention] = []
 
-        for page in range(_MAX_PAGES):
+        for _ in range(_MAX_BATCHES):
+            window = f"created_at_i>{cutoff}"
+            if newest is not None:
+                window += f",created_at_i<{newest}"
+
             payload = await self._client.get_json(
                 _ENDPOINT,
                 params={
                     "tags": "(story,comment)",
-                    "numericFilters": f"created_at_i>{cutoff}",
+                    "numericFilters": window,
                     "hitsPerPage": _PER_PAGE,
-                    "page": page,
                 },
             )
             hits = payload.get("hits", [])
             if not hits:
                 break
 
+            oldest = min(int(h["created_at_i"]) for h in hits if h.get("created_at_i"))
             for hit in hits:
                 mention = self._to_mention(hit)
-                if mention is not None:
+                # Batches overlap on the boundary second, so dedupe by id.
+                if mention is not None and mention.source_uid not in seen:
+                    seen.add(mention.source_uid)
                     mentions.append(mention)
 
-            if len(mentions) >= self._max_items or page + 1 >= payload.get("nbPages", 0):
+            if len(mentions) >= self._max_items or oldest <= cutoff:
                 break
+            # +1 so an item exactly on the boundary is not skipped.
+            newest = oldest + 1
 
         logger.info("hn: %d items since %s", len(mentions), since.date())
         return mentions[: self._max_items]

@@ -23,6 +23,10 @@ from backend.config import get_settings
 from backend.db import create_pool
 from backend.ingest.edgar import ingest_recent
 from backend.ingest.retention import sweep_mentions
+from backend.ingest.social import ingest_social
+from backend.match.aliases import rebuild_for_all
+from backend.sources.gdelt import GdeltAdapter
+from backend.sources.hackernews import HackerNewsAdapter
 from backend.sec.client import SecClient, SecMisconfiguredError
 
 logging.basicConfig(
@@ -39,6 +43,7 @@ async def run_once() -> None:
         async with SecClient(settings) as client:
             report = await ingest_recent(pool, client, settings)
         logger.info("edgar ingest complete: %s", report)
+        await _social_job(pool, settings)
         async with pool.acquire() as connection:
             logger.info(
                 "retention sweep: %s",
@@ -52,6 +57,33 @@ async def run_once() -> None:
             )
     finally:
         await pool.close()
+
+
+def _build_adapters(settings):
+    # GDELT is included but has never returned a live response; ingest_social
+    # logs and continues when a source fails, so it costs nothing to leave in.
+    return [HackerNewsAdapter(settings), GdeltAdapter(settings)]
+
+
+async def _social_job(pool, settings) -> None:
+    """Fetch social mentions and resolve them to issuers. Never raises."""
+    try:
+        # Aliases are regenerated first: an issuer ingested from EDGAR an hour
+        # ago has none yet, and a mention of it would be unmatchable.
+        async with pool.acquire() as connection:
+            written = await rebuild_for_all(connection)
+        if written:
+            logger.info("aliases: %d new", written)
+
+        adapters = _build_adapters(settings)
+        try:
+            report = await ingest_social(pool, adapters, settings)
+        finally:
+            for adapter in adapters:
+                await adapter.aclose()
+        logger.info("social ingest complete: %s", report)
+    except Exception:
+        logger.exception("social ingest failed; will retry on the next tick")
 
 
 async def _retention_job(pool, settings) -> None:
@@ -97,6 +129,15 @@ async def serve() -> None:
         coalesce=True,
         misfire_grace_time=None,
         next_run_time=None,
+    )
+
+    scheduler.add_job(
+        _social_job,
+        trigger=IntervalTrigger(minutes=settings.social_poll_interval_minutes),
+        args=[pool, settings],
+        id="social_ingest",
+        max_instances=1,
+        coalesce=True,
     )
 
     scheduler.add_job(

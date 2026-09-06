@@ -157,6 +157,12 @@ purpose:
   were not offerings at all — resale registrations, rights offerings, shelf base
   prospectuses, Part II-only amendments. Every one records *why* in
   `extraction_method`.
+- **Entity resolution: 4.3% → 100% precision, and the honest caveat.** Naive
+  substring matching over 40,000 Hacker News items is 4.3% precise (5 of 116
+  alias-bearing items are real). The scored matcher reaches 0 false positives in
+  40,000 items — but on only **five** true positives, all the same issuer via the
+  same alias, so it really measures "does `oura` outscore `laser`". First run
+  before tuning: precision 1.000, recall 0.400.
 - **One known failure is kept rather than tuned away.** A $0.02 shell offering is
   rejected by the $1.00 plausibility floor. That floor is what rejects par value;
   lowering it would trade a precision failure for a recall failure on exactly the
@@ -175,8 +181,8 @@ Full write-up: [`docs/extraction-eval.md`](docs/extraction-eval.md).
 | 2a | EDGAR ingestion worker (issuers + filings) | done |
 | 2b | Prospectus extraction (underwriters, price range) | done |
 | 3a | Retention sweep, adapter interface, HN + GDELT | done |
-| 3b | Entity resolution + matching evaluation | **next** |
-| 4 | Scoring | not started |
+| 3b | Entity resolution + matching evaluation | done |
+| 4 | Scoring | **next** |
 | 5 | Dashboard | not started |
 | 6 | Hardening + deploy | not started |
 
@@ -277,6 +283,8 @@ returns `{ "data": [...], "meta": { "next_cursor": ... } }`.
 ```
 GET  /health                     liveness + a real DB round-trip
 GET  /api/v1/issuers             ?status= &sort=filed_at &limit= &cursor=
+GET  /api/v1/review/queue        low-confidence matches awaiting a human
+POST /api/v1/review/{mention_id} confirm or reject a proposed match
 ```
 
 ---
@@ -443,8 +451,13 @@ backend/
     text.py          HTML -> text, and locating the cover page
     prospectus.py    price + underwriter rules, all able to give up
     underwriters.py  curated bank dictionary
+  match/
+    aliases.py       alias generation per issuer
+    matcher.py       candidate -> scored match -> threshold
+    common_words.py  ordinary English words, bundled not read from the host
   ingest/
     edgar.py         idempotent upserts into issuers + filings
+    social.py        fetch, match, persist
     offerings.py     persists extracted terms with provenance
     retention.py     the 90-day sweep
 tests/
