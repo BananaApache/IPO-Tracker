@@ -28,6 +28,17 @@ def test_single_token_legal_name_outscores_single_token_brand():
     assert brand < REVIEW_THRESHOLD
 
 
+def test_ordinary_word_company_names_are_suppressed():
+    """Regression: real issuers are named Click Holdings, Track Group and
+    Pattern Group. A hand-written stoplist missed all three, and every one was
+    accepted at 0.70 against unrelated Hacker News posts."""
+    for word in ("click", "track", "pattern", "gold", "flash"):
+        alias = AliasRow(99, 99, word, "legal")
+        confidence, reasons = score(alias, f"Show HN: a tool to {word} things", "")
+        assert confidence < ACCEPT_THRESHOLD, f"{word} scored {confidence}"
+        assert "common_word-0.40" in reasons
+
+
 def test_financial_context_fires_on_normalized_text():
     """Regression: the pattern held 's-1' while normalize_text produces 's 1',
     so it could never match. Cost 3 of 5 true positives on the first run."""
@@ -46,7 +57,9 @@ def test_cashtag_is_near_certain():
 
 def test_word_boundaries_prevent_substring_bleed():
     assert score(LEGAL, "the ouroboros pattern", "")[0] == 0.0
-    assert score(BRAND, "RUIDA laser controller", "")[0] > 0.0  # 'laser' present
+    distinctive = AliasRow(7, 7, "spinnova", "brand")
+    assert score(distinctive, "Spinnova fibre process", "")[0] > 0.0
+    assert score(distinctive, "spinnovation is not a word", "")[0] == 0.0
 
 
 def test_no_candidate_returns_none():

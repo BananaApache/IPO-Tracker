@@ -109,21 +109,37 @@ _INSERT_FILING = """
 """
 
 
+def _quarter_starts(window_start: date, today: date) -> list[date]:
+    """One representative day per calendar quarter the window touches.
+
+    A 7-day window usually touches one quarter and sometimes two; a 120-day
+    backfill touches two or three. Enumerating properly is what lets the same
+    code path serve both.
+    """
+    seen: list[date] = []
+    cursor = date(window_start.year, (window_start.month - 1) // 3 * 3 + 1, 1)
+    while cursor <= today:
+        seen.append(cursor)
+        month = cursor.month + 3
+        cursor = date(cursor.year + (month > 12), month - 12 * (month > 12), 1)
+    return seen
+
+
 async def ingest_recent(
     pool: asyncpg.Pool,
     client: SecClient,
     settings: Settings,
     today: date | None = None,
+    lookback_days: int | None = None,
+    extract_offerings: bool = True,
 ) -> IngestReport:
     report = IngestReport()
     today = today or datetime.now(UTC).date()
-    window_start = today - timedelta(days=settings.sec_lookback_days)
+    window_start = today - timedelta(days=lookback_days or settings.sec_lookback_days)
 
-    published = await sec_index.available_days(client, today)
-    # Quarter boundaries: if the window reaches back past the start of this
-    # quarter, the previous quarter's listing has the rest of the days.
-    if window_start < today.replace(month=(today.month - 1) // 3 * 3 + 1, day=1):
-        published += await sec_index.available_days(client, window_start)
+    published: list[date] = []
+    for quarter_day in _quarter_starts(window_start, today):
+        published += await sec_index.available_days(client, quarter_day)
 
     days = sorted({d for d in published if window_start <= d <= today})
     logger.info("edgar: %d published index days in window", len(days))
@@ -198,12 +214,18 @@ async def ingest_recent(
                         "form_type": entry.form_type,
                     })
 
-    if new_filings:
+    if new_filings and extract_offerings:
         documents: dict[str, dict[str, str]] = {}
         for cik in sorted({f["cik"] for f in new_filings}):
             documents[cik] = await fetch_primary_documents(client, cik)
         report.offerings = await extract_for_filings(
             pool, client, settings, new_filings, documents
         )
+    elif new_filings:
+        # Backfill path. Prospectus extraction downloads 1-3 MB per filing, so
+        # over a few thousand filings it is gigabytes and an hour -- its own
+        # project. Backfill establishes issuers and filings; extraction runs on
+        # the ongoing poll.
+        logger.info("edgar: skipped extraction for %d filings (backfill)", len(new_filings))
 
     return report

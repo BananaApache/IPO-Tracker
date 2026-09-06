@@ -59,6 +59,23 @@ async def run_once() -> None:
         await pool.close()
 
 
+async def backfill_edgar(days: int) -> None:
+    """One-off historical ingest. Issuers and filings only."""
+    settings = get_settings()
+    pool = await create_pool(settings)
+    try:
+        async with SecClient(settings) as client:
+            report = await ingest_recent(
+                pool, client, settings, lookback_days=days, extract_offerings=False
+            )
+        logger.info("edgar backfill (%d days): %s", days, report)
+        async with pool.acquire() as connection:
+            written = await rebuild_for_all(connection)
+        logger.info("aliases rebuilt: %d new", written)
+    finally:
+        await pool.close()
+
+
 def _build_adapters(settings):
     # GDELT is included but has never returned a live response; ingest_social
     # logs and continues when a source fails, so it costs nothing to leave in.
@@ -184,9 +201,15 @@ async def serve() -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(description="IPO surveillance ingestion worker")
     parser.add_argument("--once", action="store_true", help="run one pass and exit")
+    parser.add_argument(
+        "--backfill-edgar", type=int, metavar="DAYS",
+        help="one-off historical EDGAR ingest, skipping prospectus extraction",
+    )
     args = parser.parse_args()
 
-    if args.once:
+    if args.backfill_edgar:
+        asyncio.run(backfill_edgar(args.backfill_edgar))
+    elif args.once:
         asyncio.run(run_once())
     else:
         with contextlib.suppress(KeyboardInterrupt):

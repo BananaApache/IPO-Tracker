@@ -157,12 +157,14 @@ purpose:
   were not offerings at all — resale registrations, rights offerings, shelf base
   prospectuses, Part II-only amendments. Every one records *why* in
   `extraction_method`.
-- **Entity resolution: 4.3% → 100% precision, and the honest caveat.** Naive
-  substring matching over 40,000 Hacker News items is 4.3% precise (5 of 116
-  alias-bearing items are real). The scored matcher reaches 0 false positives in
-  40,000 items — but on only **five** true positives, all the same issuer via the
-  same alias, so it really measures "does `oura` outscore `laser`". First run
-  before tuning: precision 1.000, recall 0.400.
+- **Entity resolution is measured against 5 true positives in 40,000 items** —
+  all of them the same issuer via the same alias. That is an existence proof
+  that scoring separates a company name from an ordinary word, not a classifier
+  evaluation, and no F1 computed over n=5 should be read as one. What the
+  comparison does show: word-bounded substring matching is **4.3% precise**
+  (5 of 116 alias-bearing items are real), while the scored matcher produces
+  **0 false positives in 40,000 items**. That gap justifies the design; the
+  sample size is why the numbers stop there.
 - **One known failure is kept rather than tuned away.** A $0.02 shell offering is
   rejected by the $1.00 plausibility floor. That floor is what rejects par value;
   lowering it would trade a precision failure for a recall failure on exactly the
