@@ -53,3 +53,90 @@ export async function listIssuers(
 
   return response.json();
 }
+
+// ---------------------------------------------------------------------------
+// Listing events and pipeline stats
+
+export type Cohort = "operating" | "spac" | "etf_or_trust" | "re_listing";
+export type EventStatus =
+  | "listed" | "awaiting_ticker" | "registered_no_trade" | "no_price_data";
+
+export interface ListingEvent {
+  issuer_id: number;
+  legal_name: string;
+  ticker: string | null;
+  exchange: string | null;
+  sector: string | null;
+  cohort: Cohort;
+  cohort_reason: string | null;
+  status: EventStatus;
+  eight_a_filed_at: string;
+  listed_on: string | null;
+  open_price: string | null;
+  ipo_price: string | null;
+  day_one_pop: number | null;
+  bars: number;
+  mentions: number;
+}
+
+export interface Accuracy {
+  name: string;
+  metric: string;
+  value: string;
+  basis: string;
+  caveat: string;
+}
+
+export interface Stats {
+  issuers: number;
+  filings: number;
+  aliases: number;
+  offerings: number;
+  offerings_with_price: number;
+  offerings_with_underwriters: number;
+  listing_events: number;
+  events_by_cohort: Record<string, number>;
+  events_by_status: Record<string, number>;
+  study_cohort: number;
+  price_bars: number;
+  mentions: number;
+  mentions_needing_review: number;
+  accuracy: Accuracy[];
+}
+
+export interface ReviewItem {
+  mention_id: number;
+  source: string;
+  url: string | null;
+  title: string | null;
+  body_excerpt: string | null;
+  posted_at: string;
+  proposed_issuer_id: number;
+  proposed_issuer_name: string;
+  matched_alias: string | null;
+  match_confidence: number | null;
+}
+
+async function get<T>(path: string): Promise<T> {
+  const response = await fetch(`${API_BASE_URL}${path}`, {
+    cache: "no-store",
+    headers: { Accept: "application/json" },
+  });
+  if (!response.ok) {
+    throw new Error(`${path} returned ${response.status} ${response.statusText}`);
+  }
+  return response.json();
+}
+
+export const getStats = () => get<Stats>("/api/v1/stats");
+
+export const listEvents = (params: { cohort?: Cohort; status?: EventStatus; limit?: number } = {}) => {
+  const q = new URLSearchParams();
+  if (params.cohort) q.set("cohort", params.cohort);
+  if (params.status) q.set("status", params.status);
+  q.set("limit", String(params.limit ?? 100));
+  return get<Page<ListingEvent>>(`/api/v1/events?${q}`);
+};
+
+export const listReviewQueue = (limit = 50) =>
+  get<Page<ReviewItem>>(`/api/v1/review/queue?limit=${limit}`);

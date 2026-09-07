@@ -43,7 +43,10 @@ _TARGETS = """
     SELECT e.id, e.issuer_id, e.ticker, e.eight_a_filed_at::date AS eight_a_on, e.ipo_price
     FROM listing_events e
     WHERE e.ticker IS NOT NULL
-      AND NOT e.re_listing_suspected
+      -- Operating companies only. SPACs, ETFs and re-listings are excluded
+      -- from the study, so spending a 12-second rate-limit slot on each is
+      -- wasted; the classification is stored and they stay queryable.
+      AND e.cohort = 'operating'
       AND e.status <> 'listed'
     ORDER BY e.eight_a_filed_at DESC
 """

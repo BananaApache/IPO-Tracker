@@ -16,7 +16,7 @@ from datetime import UTC, datetime, timedelta
 
 import asyncpg
 
-from backend.cohort import CANDIDATE_ALIAS_SQL
+from backend.cohort import STUDY_ALIAS_SQL
 from backend.config import Settings
 from backend.match.matcher import ACCEPT_THRESHOLD, AliasIndex, AliasRow, match
 from backend.sources.base import RawMention, SourceAdapter
@@ -53,14 +53,16 @@ _INSERT = """
 
 
 async def _load_aliases(connection: asyncpg.Connection) -> list[AliasRow]:
-    """Aliases of IPO candidates only.
+    """Aliases of pre-listing candidates plus every detected listing event.
 
-    Matching against every issuer put 97% of matched attention on companies
-    that already trade -- GoPro, SK hynix, Goldman Sachs. Those are real
-    mentions of real companies and completely beside the point: this system
-    watches the window before a listing exists.
+    Not every issuer: matching against all 1,024 put 97% of attention on
+    companies that already trade and have nothing to do with an IPO. But not
+    candidates only either -- an issuer leaves ipo_candidate_issuers the moment
+    it gets a ticker, which is exactly when the event study starts needing its
+    attention data. Restricting to candidates left all 108 confirmed listings
+    with zero mentions.
     """
-    rows = await connection.fetch(CANDIDATE_ALIAS_SQL)
+    rows = await connection.fetch(STUDY_ALIAS_SQL)
     return [AliasRow(r["id"], r["issuer_id"], r["normalized_alias"], r["kind"]) for r in rows]
 
 

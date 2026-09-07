@@ -48,6 +48,34 @@ REGISTRATION_FORMS = frozenset({
 # postponed rather than pending.
 NO_TRADE_AFTER_DAYS = 30
 
+# Exchange-traded products file an S-1 and an 8-A12B exactly as an IPO does.
+# SIC isolates the crypto vehicles cleanly -- all nine in the sample carry
+# "Commodity Contracts Brokers & Dealers", a sector that appears nowhere else
+# in the cohort -- and a name pattern catches the trusts SIC misses.
+ETF_SECTORS = frozenset({"Commodity Contracts Brokers & Dealers"})
+ETF_NAME_PATTERN = (
+    r"(?i)\b(ETF|Trust|Fund)\b|iShares|Grayscale|Bitwise|21Shares|VanEck"
+    r"|ProShares|Invesco|Franklin"
+)
+SPAC_SECTORS = frozenset({"Blank Checks"})
+
+
+def classify(sector: str | None, legal_name: str, prior_periodic: int) -> tuple[str, str | None]:
+    """Which cohort this event belongs to, and why.
+
+    Order matters. A re-listing that is also a trust is excluded as a
+    re-listing, because that is the stronger disqualification.
+    """
+    import re
+
+    if prior_periodic > 0:
+        return "re_listing", f"{prior_periodic} periodic reports before the 8-A"
+    if (sector or "") in ETF_SECTORS or re.search(ETF_NAME_PATTERN, legal_name):
+        return "etf_or_trust", "exchange-traded product: no revenue, no underwriter syndicate"
+    if (sector or "") in SPAC_SECTORS:
+        return "spac", "blank-check company: $10 units against a trust floor"
+    return "operating", None
+
 
 @dataclass
 class DetectionReport:
@@ -57,24 +85,25 @@ class DetectionReport:
     updated: int = 0
     re_listings: int = 0
     by_status: dict[str, int] = field(default_factory=dict)
+    by_cohort: dict[str, int] = field(default_factory=dict)
 
     def __str__(self) -> str:
         return (
             f"8-A issuers={self.eight_a_issuers} "
             f"skipped_no_registration={self.skipped_no_registration} "
             f"events(+{self.inserted}/~{self.updated}) "
-            f"re-listings={self.re_listings} status={self.by_status}"
+            f"cohorts={self.by_cohort} status={self.by_status}"
         )
 
 
 _EIGHT_A_ISSUERS = """
-    SELECT f.issuer_id, i.cik, i.legal_name, i.ticker, i.exchange,
+    SELECT f.issuer_id, i.cik, i.legal_name, i.ticker, i.exchange, i.sector,
            min(f.filed_at) AS eight_a_filed_at,
            (array_agg(f.id ORDER BY f.filed_at))[1] AS eight_a_filing_id
     FROM filings f
     JOIN issuers i ON i.id = f.issuer_id
     WHERE f.form_type = ANY($1::text[])
-    GROUP BY f.issuer_id, i.cik, i.legal_name, i.ticker, i.exchange
+    GROUP BY f.issuer_id, i.cik, i.legal_name, i.ticker, i.exchange, i.sector
 """
 
 # A 424B4-derived price, when extraction found one. Never required.
@@ -89,8 +118,9 @@ _UPSERT = """
     INSERT INTO listing_events (
         issuer_id, status, eight_a_filing_id, eight_a_filed_at, ticker, exchange,
         ipo_price, ipo_price_filing_id,
-        prior_periodic_reports, first_periodic_report_at, re_listing_suspected)
-    VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11)
+        prior_periodic_reports, first_periodic_report_at, re_listing_suspected,
+        cohort, cohort_reason)
+    VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13)
     ON CONFLICT (issuer_id) DO UPDATE SET
         -- 'listed' is terminal: once trading is confirmed from a price bar,
         -- re-running detection must not walk it back to a pending state.
@@ -105,6 +135,8 @@ _UPSERT = """
         prior_periodic_reports   = EXCLUDED.prior_periodic_reports,
         first_periodic_report_at = EXCLUDED.first_periodic_report_at,
         re_listing_suspected     = EXCLUDED.re_listing_suspected,
+        cohort                   = EXCLUDED.cohort,
+        cohort_reason            = EXCLUDED.cohort_reason,
         updated_at               = now()
     RETURNING (xmax = 0) AS inserted, status
 """
@@ -188,7 +220,7 @@ async def detect_events(
                 row["ticker"], row["exchange"],
                 price["price_final"] if price else None,
                 price["source_filing_id"] if price else None,
-                count, earliest, re_listing,
+                count, earliest, re_listing, *classify(row["sector"], row["legal_name"], count),
             )
 
         if result["inserted"]:
@@ -197,6 +229,8 @@ async def detect_events(
             report.updated += 1
         if re_listing:
             report.re_listings += 1
+        cohort, _ = classify(row["sector"], row["legal_name"], count)
+        report.by_cohort[cohort] = report.by_cohort.get(cohort, 0) + 1
         report.by_status[result["status"]] = report.by_status.get(result["status"], 0) + 1
 
     return report

@@ -15,6 +15,18 @@ CANDIDATE_ALIAS_SQL = f"""
     WHERE a.issuer_id IN (SELECT id FROM {CANDIDATE_VIEW})
 """
 
+# Issuers the study needs attention for: IPO candidates that have not listed
+# yet, plus every detected listing event. Matching only against candidates left
+# the 108 confirmed listings with no mentions at all -- an issuer leaves that
+# view the moment it acquires a ticker, which is the moment the event study
+# starts caring about it.
+STUDY_ALIAS_SQL = f"""
+    SELECT a.id, a.issuer_id, a.normalized_alias, a.kind
+    FROM aliases a
+    WHERE a.issuer_id IN (SELECT id FROM {CANDIDATE_VIEW})
+       OR a.issuer_id IN (SELECT issuer_id FROM listing_events)
+"""
+
 # Deliberately separate. Matcher *quality* is a text problem and the hard cases
 # (Track Group, Click Holdings, Fast Track Group) are all already-listed
 # companies, so the evaluation runs against every alias. Production matching
