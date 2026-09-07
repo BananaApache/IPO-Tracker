@@ -25,7 +25,6 @@ from backend.ingest.edgar import ingest_recent
 from backend.ingest.retention import sweep_mentions
 from backend.ingest.social import ingest_social
 from backend.match.aliases import rebuild_for_all
-from backend.sources.gdelt import GdeltAdapter
 from backend.sources.hackernews import HackerNewsAdapter
 from backend.sec.client import SecClient, SecMisconfiguredError
 
@@ -77,9 +76,8 @@ async def backfill_edgar(days: int) -> None:
 
 
 def _build_adapters(settings):
-    # GDELT is included but has never returned a live response; ingest_social
-    # logs and continues when a source fails, so it costs nothing to leave in.
-    return [HackerNewsAdapter(settings), GdeltAdapter(settings)]
+    # GDELT was cut -- see docs/sources.md. A licensed news adapter replaces it.
+    return [HackerNewsAdapter(settings)]
 
 
 async def _social_job(pool, settings) -> None:

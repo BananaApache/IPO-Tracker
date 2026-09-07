@@ -60,9 +60,6 @@ class Settings(BaseSettings):
     social_lookback_days: int = 3
     hn_max_items: int = 4000
     social_poll_interval_minutes: int = 30
-    # One broad query, matched locally. Per-issuer queries are impossible at
-    # GDELT's one-request-per-five-seconds ceiling.
-    gdelt_query: str = '"initial public offering" OR "IPO filing" OR "files for IPO"'
 
     # Raw mentions are deleted this many days after posted_at. mention_daily
     # aggregates are permanent. See the COMMENT ON TABLE in migration 001.

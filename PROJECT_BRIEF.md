@@ -275,6 +275,12 @@ pytest suite with a test DB, structured logging, error handling, Dockerfiles, de
   `mentions.author_hash`, a salted SHA-256. The only supported use is counting
   distinct authors. Do not attempt to profile, re-identify, or derive
   characteristics of any user.
+- **Market and news data come from a licensed source.** A provider that grants
+  this use in writing, with an API key. Not Yahoo's undocumented chart endpoint,
+  not Stooq (which serves a JavaScript proof-of-work challenge that would have
+  to be defeated). "Technically trivial and grants no permission" is the wrong
+  side of this line. If a licensed feed has gaps on recent listings, say so and
+  we decide — never silently fall back to an unlicensed one.
 - **No third-party search-scraper APIs.** SerpAPI and equivalents are not an
   acceptable proxy for Reddit or any other source. Search-result counts are
   estimates, not measurements, and building on them would mean a hype score

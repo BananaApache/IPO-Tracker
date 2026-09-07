@@ -1,6 +1,6 @@
 # Event study: proposed design
 
-**Status: proposal. Nothing here is implemented.** Written before code so the
+**Status: schema implemented (migration 005). Ingestion pending a market-data key.** Written before code so the
 event definition and the price handling can be argued with — a wrong return is
 invisible.
 
@@ -32,7 +32,7 @@ An **IPO event** exists for issuer *I* when all four hold:
 |---|---|---|
 | **a** | *I* filed an `8-A` (any subtype) on `D₈ₐ` | `8-A` registers securities on an exchange — the reliable "about to trade" marker |
 | **b** | *I* has an `S-1`/`F-1`-family filing dated before `D₈ₐ` | excludes already-listed companies registering a *new class*. LGL Group and Ocean Power Technologies both filed `8-A`s with **1,732** and **1,756** days of prior trading |
-| **c** | the ticker has no price bar more than 5 trading days before `D₈ₐ` | the evidentiary discriminator, and the one that replaces guesswork |
+| **c** | *I* filed **no periodic report** (`10-K`, `10-Q`, `20-F`, `40-F`) before `D₈ₐ` | the discriminator, and it needs no price feed — a company files these only once it is already a reporting company, which a first-time IPO candidate is not |
 | **d** | the first price bar falls within 15 calendar days after `D₈ₐ` | stops a stale `8-A` pairing with an unrelated later listing |
 
 **The listing date is the first price bar, not `D₈ₐ`.** An `8-A` precedes trading
@@ -75,54 +75,78 @@ Nothing is discarded. The funnel from `8-A` to `listed` is itself a reportable
 number, and a withdrawn IPO after an exchange registration is interesting in its
 own right.
 
-### Known failure mode: re-listings look identical to IPOs
+### Re-listings: solved with a rule, not a flag
 
-**AZUL** passes all four conditions — `8-A` 2026-05-26, first bar 2026-05-28, 70
-bars total — but Azul S.A. has been NYSE-listed since 2017. It re-listed after
-restructuring, so its price history genuinely starts two days after the `8-A`.
+The original draft of this document proposed flagging suspected re-listings for
+manual review. That was the wrong answer — manual review does not scale past one
+project, and the case matters enough to need a rule.
 
-Ticker reuse and post-bankruptcy re-listing are **indistinguishable** from an IPO
-under any rule built on "no prior price history". Mitigation: flag any event
-whose issuer has EDGAR filings predating the `8-A` by more than three years as
-`needs_review`, and hand-check. A re-listing has completely different return
-dynamics, so including one silently would corrupt the study; flagging costs a
-few manual decisions.
+**AZUL** is the problem case. It filed an `8-A` on 2026-05-26 with its first
+available price bar on 2026-05-28 and only 70 bars of history, so *every* test
+built on "no prior price history" classifies it as an IPO. Azul S.A. has been
+NYSE-listed since 2017; it re-listed after restructuring. Left in the sample it
+would sit there as an outlier with a real ticker and a real `8-A`.
 
----
+**The discriminator is periodic reports.** A company files `10-K`, `10-Q`, `20-F`
+or `40-F` only once it is already a reporting company. A first-time IPO candidate
+has none. Measured on six known cases:
 
-## 2. Price source: Yahoo Finance chart endpoint
+| ticker | periodic reports before `8-A` | earliest | verdict |
+|---|---|---|---|
+| AZUL | **12** | 2018-04-27 | re-listing |
+| LGL | 98 | 2004-08-12 | already listed |
+| OPTT | 75 | 2009-07-14 | already listed |
+| SPCX | 0 | — | genuine IPO |
+| LIME | 0 | — | genuine IPO |
+| APMD | 0 | — | genuine IPO |
 
-**Recommendation: `query1.finance.yahoo.com/v8/finance/chart/{ticker}` via
-`httpx`.**
+Clean separation, no price feed required, no manual pass. It also subsumes the
+price-history condition the first draft used, which is a strict improvement:
+classification no longer depends on the market-data provider at all, so a gap in
+the feed can no longer silently reclassify an event.
 
-Why:
+`listing_events` stores `prior_periodic_reports` and `first_periodic_report_at`
+alongside the boolean, so the study can exclude re-listings as a **documented
+cohort** rather than a manual decision, and a reader can check the call.
 
-- **No new dependency.** `yfinance` is a wrapper over this exact endpoint; adding
-  it would need sign-off and buys nothing.
-- **Verified working** for every ticker probed — SPCX, GPRO, LIME, AZUL, LGL,
-  OPTT, APMD — returning daily bars with `open`, and a 5-year range for the
-  discriminator in rule (c).
-- **One request per ticker** gives the whole 90-day window plus the history
-  needed for (c).
-
-Why not the alternatives:
-
-- **Stooq — ruled out on policy grounds, not technical ones.** It serves a
-  JavaScript proof-of-work challenge; retrieving a CSV requires computing a
-  SHA-256 nonce to satisfy browser verification. That is defeating an access
-  control, which `PROJECT_BRIEF.md` §7 prohibits. Confirmed by probe.
-- **Alpha Vantage** — free tier is 25 requests/day. ~195 events would take eight
-  days to backfill once.
-
-**Honest caveat.** Yahoo's chart endpoint is undocumented and carries no terms
-granting this use, unlike SEC EDGAR. It is not circumvention — no auth, no
-challenge, no UA spoofing, a plain request gets a plain JSON answer — but it is
-not a licensed feed either. If you want a source with explicit terms, **Tiingo**
-or **Polygon** free tier (5 req/min, workable for 195 events) are the options and
-I would switch. Rate limiting goes through the existing `RetryingClient` at 1
-req/sec, one limiter, same as every other source.
+**Residual limitation:** the submissions feed returns roughly the most recent
+1,000 filings. A company that stopped reporting long ago and has filed heavily
+since could in principle have its old periodic reports fall outside that window.
+Periodic reports are frequent enough that this is unlikely, but it is not
+impossible and is not currently detected.
 
 ---
+
+## 2. Price source: a licensed provider
+
+**Decision: Tiingo or Polygon free tier. Not Yahoo.**
+
+The first draft of this document recommended Yahoo's chart endpoint, on the
+grounds that it is technically trivial — no auth, no challenge, no User-Agent
+spoofing, and a plain request returns clean JSON for all seven tickers tested.
+That recommendation was withdrawn, and the reasoning that killed it was already
+in the draft: *"not circumvention, but not licensed either."*
+
+SEC EDGAR grants this use explicitly. Yahoo grants nothing. §7 has already
+rejected SerpAPI and unauthenticated Reddit on exactly that basis, and rejected
+Stooq for serving a proof-of-work challenge. Being consistent is worth more than
+the convenience, and 195 events at 5 requests/minute is 40 minutes once.
+
+Rejected alternatives, for the record:
+
+| source | why not |
+|---|---|
+| Yahoo chart endpoint | undocumented, grants no permission for this use |
+| Stooq | JavaScript proof-of-work challenge; retrieval requires defeating browser verification |
+| Alpha Vantage | 25 requests/day free tier — eight days per backfill |
+
+**Every licensed provider requires an API key**, because a licence is granted to
+an identified party. Verified: Tiingo `403`, Polygon `401`, Finnhub `401`,
+Marketaux `401` without one. That is the cost of consistency here.
+
+Rate limiting goes through the existing `RetryingClient`, one limiter for the
+provider, same as every other source. **If the licensed feed has gaps on recent
+listings, that gets reported rather than worked around** — no silent fallback.
 
 ## 3. Migration 005: proposed schema
 
