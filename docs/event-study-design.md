@@ -3,30 +3,76 @@
 **Status: schema and event detection implemented. Price ingestion pending a
 licensed market-data key.**
 
-## Measured event counts
+## Measured event counts and the real sample size
 
-150-day EDGAR window, `8-A` filings ingested and classified:
+### The funnel
 
-| | |
+| step | count |
 |---|---|
-| listing events detected | **479** |
-| first listings | **343** |
-| **re-listings excluded by rule** | **136 (28%)** |
-| first listings with a ticker (study-eligible) | **194** |
-| with a `424B4`-extracted IPO price | 0 |
-| confirmed `listed` | 0 — needs price bars |
+| issuers with an `8-A` in a 150-day window | 479 |
+| − no registration statement anywhere in EDGAR | −163 |
+| = **listing events** | **316** |
+| − re-listings (prior periodic reports) | −121 |
+| = **first listings** | **195** |
+| with a ticker | 185 |
+| **confirmed trading (price bars found)** | **108** |
 
-Classification verified against every known case: AZUL 12 prior periodic reports
-(earliest 2018-04-27), LGL 98 (2004), OPTT 75 (2009) → all flagged; SPCX, LIME,
-APMD 0 → all first listings.
+Of the 185 with tickers: 108 listed, 59 `no_price_data`, 10
+`registered_no_trade`, 8 `awaiting_ticker`. 6,431 daily bars stored.
 
-**136 re-listings is the number that settles the flag-versus-rule question.** At
-28% of `8-A` filers this was never going to be a handful of manual decisions,
-and every one of them would have entered the sample as an outlier with a real
-ticker and a real `8-A`.
- Written before code so the
-event definition and the price handling can be argued with — a wrong return is
-invisible.
+Detection verified against Finnhub's IPO calendar (162 priced in the same
+window): **160 of 162 detected — recall 0.99.** Precision 155/195 = 0.79.
+
+### Return-horizon availability
+
+| horizon | events with enough bars |
+|---|---|
+| ~30 calendar days (21 trading) | 91 of 108 |
+| ~60 calendar days (42 trading) | 70 of 108 |
+| ~90 calendar days (63 trading) | **27 of 108** |
+
+### Attention coverage — and why the sample is small
+
+The Hacker News corpus spans 2026-06-08 to 2026-09-06. Listings span 2026-04-16
+to 2026-09-04. An event study needs attention data on *both sides* of the
+listing date, so an event near either corpus edge has truncated attention.
+
+Joint availability, attention ±14 days **and** the return horizon:
+
+| | 30d | 60d | 90d |
+|---|---|---|---|
+| **current data (90-day HN corpus)** | **28** | **9** | **0** |
+
+**The 90-day cell is structurally zero, not unlucky.** A 90-day return requires
+a listing at least 90 days old; attention ±14 around such a listing then falls
+before a 90-day corpus begins. No amount of luck fixes it — the corpus has to be
+longer than the study horizon plus the window.
+
+### What more backfill buys
+
+| HN backfill | corpus starts | 30d | 60d | 90d |
+|---|---|---|---|---|
+| 90 days (current) | 2026-06-08 | 28 | 9 | 0 |
+| 150 days | 2026-04-09 | 83 | 62 | 22 |
+| **210 days** | 2026-02-08 | **91** | **70** | **27** |
+| 365 days | 2025-09-06 | 91 | 70 | 27 |
+
+**210 days of Hacker News reaches the ceiling.** Past that the binding constraint
+is no longer attention — it is the **150-day EDGAR window**, which simply does
+not contain events old enough to have 63 trading days of returns. Raising the
+90-day sample above 27 requires a deeper EDGAR backfill, not more Hacker News.
+
+### Two cohort decisions still open
+
+- **10 ETFs and trusts** pass every condition of the event rule. SIC
+  *Commodity Contracts Brokers & Dealers* isolates 9 of them cleanly and appears
+  nowhere else in the cohort.
+- **85 of 195 first listings are Blank Checks** (12 of the 108 confirmed
+  listed). SPACs price at $10/unit with a trust-value floor, so their return
+  distribution is structurally different from an operating company's and
+  pooling them is a modelling choice rather than a default.
+
+---
 
 ---
 
