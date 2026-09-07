@@ -83,9 +83,32 @@ def score(alias: AliasRow, title: str, body: str) -> tuple[float, list[str]]:
         confidence += bonus
         reasons.append(f"tokens={len(tokens)}+{bonus:.2f}")
 
-    if alias.normalized_alias in COMMON_WORDS:
-        confidence -= 0.40
-        reasons.append("common_word-0.40")
+    # Checked per token, not on the whole alias string. Testing the joined
+    # string let "fast track" (Fast Track Group) and "ai strategy" (AI STRATEGY
+    # INC.) through untouched -- and worse, the multi-token bonus above rewarded
+    # them for being *specific*. One of those two aliases produced 1,157 of
+    # 3,613 accepted matches across 90 days of Hacker News.
+    # An alias needs at least one token that is both uncommon AND long enough
+    # to carry information. Counting common tokens alone is not enough: "ai
+    # strategy" has one uncommon token ("ai"), but a two-letter abbreviation is
+    # not evidence of anything, and AI STRATEGY INC. produced 1,157 of 3,613
+    # accepted matches across 90 days on the strength of it.
+    distinctive = [t for t in tokens if t not in COMMON_WORDS and len(t) >= 4]
+    common_tokens = sum(t in COMMON_WORDS for t in tokens)
+
+    if not distinctive:
+        # The whole alias is ordinary language. The penalty must exceed the
+        # multi-token bonus above, or a longer common phrase outscores a
+        # shorter one purely for being longer.
+        penalty = 0.40 + 0.08 * (len(tokens) - 1)
+        confidence -= penalty
+        reasons.append(f"no_distinctive_token-{penalty:.2f}")
+    elif common_tokens:
+        # Partly ordinary: "smart pointer group" is riskier than "spinnova"
+        # but safer than "fast track".
+        penalty = 0.15 * common_tokens
+        confidence -= penalty
+        reasons.append(f"common_tokens={common_tokens}-{penalty:.2f}")
 
     if len(tokens) == 1 and len(alias.normalized_alias) <= 3:
         # Three characters is too little to be evidence of anything, whatever
@@ -112,13 +135,47 @@ def score(alias: AliasRow, title: str, body: str) -> tuple[float, list[str]]:
     return max(0.0, min(1.0, confidence)), reasons
 
 
-def match(aliases: list[AliasRow], title: str, body: str) -> MatchResult | None:
+class AliasIndex:
+    """n-gram lookup over the alias table.
+
+    `match` originally scored every alias against every item, one regex each.
+    At 1,731 aliases that is ~1,700 regex searches per item -- 8.7 million for a
+    5,000-item batch, which took minutes. This screens each item in time
+    proportional to its own length instead: tokenise, generate n-grams up to the
+    longest alias, and look them up.
+    """
+
+    def __init__(self, aliases: list[AliasRow]) -> None:
+        self._by_text: dict[str, list[AliasRow]] = {}
+        for alias in aliases:
+            self._by_text.setdefault(alias.normalized_alias, []).append(alias)
+        self._longest = max((len(a.normalized_alias.split()) for a in aliases), default=1)
+
+    def candidates(self, title: str, body: str) -> list[AliasRow]:
+        tokens = normalize_text(f"{title or ''} {body or ''}").split()
+        found: list[AliasRow] = []
+        for size in range(1, self._longest + 1):
+            for start in range(len(tokens) - size + 1):
+                rows = self._by_text.get(" ".join(tokens[start : start + size]))
+                if rows:
+                    found.extend(rows)
+        return found
+
+
+def match(
+    aliases: list[AliasRow] | AliasIndex, title: str, body: str
+) -> MatchResult | None:
     """Best candidate above the review floor, or None.
 
     Returning None is the common case and the correct one: 99.7% of a real
     Hacker News window mentions no issuer at all. Storing those would be
     storing the internet.
     """
+    # An index narrows to plausible aliases first; a bare list is the slow path
+    # kept for tests and small alias sets.
+    if isinstance(aliases, AliasIndex):
+        aliases = aliases.candidates(title, body)
+
     best: MatchResult | None = None
     for alias in aliases:
         confidence, reasons = score(alias, title, body)

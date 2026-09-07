@@ -36,7 +36,7 @@ def test_ordinary_word_company_names_are_suppressed():
         alias = AliasRow(99, 99, word, "legal")
         confidence, reasons = score(alias, f"Show HN: a tool to {word} things", "")
         assert confidence < ACCEPT_THRESHOLD, f"{word} scored {confidence}"
-        assert "common_word-0.40" in reasons
+        assert any(r.startswith("no_distinctive_token") for r in reasons)
 
 
 def test_financial_context_fires_on_normalized_text():
@@ -48,7 +48,19 @@ def test_financial_context_fires_on_normalized_text():
 
 
 def test_multi_token_alias_scores_above_single_token():
-    assert score(MULTI, "SB Energy raises", "")[0] > score(LEGAL, "Oura raises", "")[0]
+    """Specificity bonus, but only when the tokens are distinctive."""
+    distinctive = AliasRow(8, 8, "spinnova fibre", "legal")
+    assert score(distinctive, "Spinnova fibre plant", "")[0] > score(LEGAL, "Oura ring", "")[0]
+
+
+def test_common_phrase_aliases_are_penalised_not_rewarded():
+    """Regression: 'fast track' (Fast Track Group) and 'ai strategy' (AI
+    STRATEGY INC.) were multi-token, so they collected a specificity bonus and
+    were accepted. One produced 1,157 of 3,613 accepted matches over 90 days."""
+    for phrase in ("fast track", "ai strategy"):
+        alias = AliasRow(97, 97, phrase, "legal")
+        confidence, _ = score(alias, f"something about {phrase} in tech", "")
+        assert confidence < REVIEW_THRESHOLD, f"{phrase} scored {confidence}"
 
 
 def test_cashtag_is_near_certain():

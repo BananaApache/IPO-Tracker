@@ -16,8 +16,9 @@ from datetime import UTC, datetime, timedelta
 
 import asyncpg
 
+from backend.cohort import CANDIDATE_ALIAS_SQL
 from backend.config import Settings
-from backend.match.matcher import ACCEPT_THRESHOLD, AliasRow, match
+from backend.match.matcher import ACCEPT_THRESHOLD, AliasIndex, AliasRow, match
 from backend.sources.base import RawMention, SourceAdapter
 
 logger = logging.getLogger(__name__)
@@ -52,7 +53,14 @@ _INSERT = """
 
 
 async def _load_aliases(connection: asyncpg.Connection) -> list[AliasRow]:
-    rows = await connection.fetch("SELECT id, issuer_id, normalized_alias, kind FROM aliases")
+    """Aliases of IPO candidates only.
+
+    Matching against every issuer put 97% of matched attention on companies
+    that already trade -- GoPro, SK hynix, Goldman Sachs. Those are real
+    mentions of real companies and completely beside the point: this system
+    watches the window before a listing exists.
+    """
+    rows = await connection.fetch(CANDIDATE_ALIAS_SQL)
     return [AliasRow(r["id"], r["issuer_id"], r["normalized_alias"], r["kind"]) for r in rows]
 
 
@@ -70,6 +78,7 @@ async def ingest_social(
     if not aliases:
         logger.warning("social: no aliases; run alias generation first")
         return report
+    index = AliasIndex(aliases)
 
     for adapter in adapters:
         try:
@@ -84,7 +93,7 @@ async def ingest_social(
 
         async with pool.acquire() as connection:
             for item in items:
-                result = match(aliases, item.title or "", item.body_excerpt or "")
+                result = match(index, item.title or "", item.body_excerpt or "")
                 if result is None:
                     continue
 

@@ -167,6 +167,111 @@ The lesson generalises past this project: a hand-written stoplist is fitted to
 the examples its author happened to think of, and its gaps are invisible until
 the data contains something they did not imagine.
 
+## Two evaluations, deliberately separated
+
+Phase 3b tangled two questions together. They are now measured apart, because
+one is a text problem and the other is a fact about the world.
+
+### A. Matcher quality — all aliases, including already-listed issuers
+
+The hard cases are all listed companies: Track Group, Click Holdings, Fast Track
+Group, Andersen Group. So the matcher is scored against the whole alias table.
+
+90-day Hacker News corpus, 1,004,502 items. Random samples per pool, labelled by
+reading. Pools differ in size, so per-pool rates are reported rather than one
+reweighted number:
+
+| pool | size | sampled | true | rate |
+|---|---|---|---|---|
+| accepted (≥0.70) | 2,072 | 100 | 70 | **0.70 precision** |
+| review (0.45–0.70) | 1,039 | 40 | 11 | 0.28 |
+| dropped (alias present, scored out) | 161,013 | 40 | 0 | 0.00 |
+
+**Precision is 0.70.** The 30 false positives are dominated by one family:
+`andersen` → *"Danish privacy activist Lars Andersen raided by police"*, 21 of
+the 30. The rest are singletons of the same shape — `kepler` (an Nvidia GPU
+architecture), `neutron` (the particle), `azul` (Portuguese for blue), `stewards`,
+`capstone` (*"a law school capstone paper"*).
+
+**Recall cannot be honestly bounded.** 0 of 40 sampled rejects were real, but
+0/40 only bounds the reject true-rate at **≤7.2%** (95%, one-sided), and 7.2% of
+161,013 is up to ~11,600 missed mentions. So:
+
+| assumption about the reject pool | recall |
+|---|---|
+| genuinely ~0 true | 0.84 |
+| at the 7.2% upper bound | **0.11** |
+
+Recall is somewhere in 0.11–0.84. A 40-item sample against a 161,013-item pool
+is not enough to narrow it, and quoting 0.84 would be picking the flattering end
+of an interval that spans most of the range.
+
+**The review band is doing its job, and its cost is visible.** 11 of 40 review
+items are Bending Spoons S.p.A. — a genuinely covered company held out of the
+accept band because its name is two ordinary English words. That is the
+precision/recall trade in this document, priced: real companies with ordinary
+names land in a human queue rather than being scored automatically.
+
+### B. Pre-IPO signal availability — n=1
+
+Restricted to the IPO-candidate cohort (166 issuers, see migration 004), the same
+90-day corpus yields:
+
+| | |
+|---|---|
+| accepted mentions | **44** |
+| distinct issuers with any accepted mention | **3** |
+| Oura Inc. | 42 |
+| Tino Group Ltd | 1 |
+| Asia AI Group Inc | 1 |
+
+That is not a metric. It is one issuer with signal and two with a single mention
+each, and no z-score over that cohort means anything.
+
+## The finding: the accessible venue is the wrong venue
+
+**97% of matched attention (3,503 of 3,613 accepted mentions) belongs to
+companies that already trade.** GoPro, SK hynix, Goldman Sachs, Medline. Only 42
+mentions across 90 days attach to a pre-IPO issuer, all of them Oura.
+
+The narrow reading — "pre-IPO companies are barely discussed on Hacker News until
+they are already public" — is well supported. The broad reading, that pre-IPO
+attention is sparse in alternative data generally, is **not**, and it is worth
+being precise about why:
+
+- **Hacker News is the wrong venue for this cohort.** The 166 candidates are
+  mostly small-cap foreign private issuers, biotech, and SPACs. Hacker News has
+  no reason to discuss them. The one issuer that *did* generate signal, Oura, is
+  a consumer-tech company — exactly the intersection where HN's audience overlaps
+  an IPO candidate.
+- **Retail pre-IPO chatter lives on Reddit**, which is the source gated behind
+  the API approval this project has applied for.
+- **GDELT, the news source, has never returned a live response** (see the README
+  caveat), so news coverage is untested rather than absent.
+
+So the honest statement is: *of the three sources in the design, the only one
+reachable without approval is the one least likely to discuss this cohort, and it
+produced signal for one issuer in 90 days.* That is a real result about
+alternative-data access, and it is the argument for the Reddit request rather
+than a case against it.
+
+## An adapter bug that looked like success
+
+Worth recording separately because it is the failure mode that is hardest to
+notice. The Hacker News adapter paged by walking backwards from *now* and was
+capped at 60,000 items per call. Hacker News produces ~10,000 items a day, so
+**any request for more than about six days silently returned six days.**
+
+The first 90-day corpus build ran for 25 minutes, printed 30 progress lines, and
+added zero items after the second one — reporting the same totals thirty times.
+Nothing errored. The numbers were plausible. It was caught only because 59,934
+items looked too small for 90 days of a busy forum.
+
+`fetch()` now takes an explicit `until`, and logs a warning when it stops at the
+batch cap with older items outstanding. This affected production, not just the
+corpus tool: `social_lookback_days` above ~6 would have ingested a shorter window
+than configured.
+
 ## What would strengthen it
 
 A corpus containing a cashtag mention, a multi-token issuer name in the wild, and
