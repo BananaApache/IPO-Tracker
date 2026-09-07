@@ -29,6 +29,11 @@ class Settings(BaseSettings):
     postgres_password: str = "ipo"
     postgres_host: str = "localhost"
     postgres_port: int = 5432
+    # 'prefer' negotiates TLS and falls back, so it works against both the local
+    # compose Postgres (no TLS configured) and a managed host that requires it.
+    # Set to 'require' in production so a misconfiguration fails loudly instead
+    # of silently sending credentials in the clear.
+    postgres_sslmode: str = "prefer"
 
     # Pool sizing. min_size connections are opened eagerly at startup so the
     # first request does not pay TCP + TLS + auth latency.
@@ -103,6 +108,7 @@ class Settings(BaseSettings):
         return (
             f"postgresql://{user}:{password}"
             f"@{self.postgres_host}:{self.postgres_port}/{self.postgres_db}"
+            f"?sslmode={self.postgres_sslmode}"
         )
 
 

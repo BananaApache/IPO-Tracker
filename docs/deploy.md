@@ -34,16 +34,42 @@ burns the budget silently.
 ## 1 · Neon — Postgres
 
 - [ ] Create a project. Region: pick the same continent as your API host.
-- [ ] Copy the connection details from the dashboard. You need five values
-      separately, not the connection string:
-      `POSTGRES_HOST` · `POSTGRES_PORT` · `POSTGRES_DB` · `POSTGRES_USER` · `POSTGRES_PASSWORD`
+- [ ] Copy the connection string, then split it into five values — this project
+      takes the parts, not the URL. Given
+      `postgresql://USER:PASSWORD@HOST/DBNAME?sslmode=require`:
+
+      | variable | from the string |
+      |---|---|
+      | `POSTGRES_USER` | `USER` |
+      | `POSTGRES_PASSWORD` | `PASSWORD` |
+      | `POSTGRES_HOST` | `HOST` (the part with `-pooler`) |
+      | `POSTGRES_PORT` | `5432` |
+      | `POSTGRES_DB` | `DBNAME` |
+      | `POSTGRES_SSLMODE` | `require` |
+
+- [ ] **`POSTGRES_SSLMODE=require` is not optional on Neon.** The default is
+      `prefer`, which works locally because the compose Postgres has no TLS; a
+      managed host rejects the plaintext attempt.
 - [ ] Use the **pooled** host (it contains `-pooler`). `statement_cache_size=0`
       is already set in `backend/db.py` for exactly this — asyncpg's prepared
       statement cache is unsafe behind a transaction-mode pooler.
 - [ ] Nothing to run by hand. Migrations apply on API start via
       `scripts/release.sh`.
 
-## 2 · Railway — API + worker  *(recommended)*
+## 2 · Render — API + worker
+
+> If a deploy fails with `Connect call failed ('127.0.0.1', 5432)`, the cause is
+> always the same: `POSTGRES_HOST` was never set, so the app fell back to its
+> localhost default. The error now names the host and says so explicitly.
+
+- [ ] New → **Blueprint** → select the repo. `render.yaml` defines both services.
+- [ ] Fill every variable marked `sync: false` in the dashboard — they are
+      deliberately absent from the repo. The full list is in §4.
+- [ ] `plan: starter` is set on both services. Switching to `free` means a
+      50-second wake after 15 minutes idle.
+- [ ] Copy the API's public URL; you need it for `CORS_ORIGINS` and Vercel.
+
+## 2b · Railway instead  *(if the trial is active)*
 
 - [ ] New project → Deploy from GitHub repo → select this repo.
 - [ ] Service 1, the API. Railway reads `railway.json`, so the Dockerfile and
@@ -88,6 +114,7 @@ burns the budget silently.
 | `POSTGRES_DB` | from Neon | |
 | `POSTGRES_USER` | from Neon | |
 | `POSTGRES_PASSWORD` | from Neon | |
+| `POSTGRES_SSLMODE` | `require` | Neon rejects plaintext |
 | `DB_POOL_MIN_SIZE` | `0` | a held connection defeats autosuspend |
 | `DB_POOL_MAX_SIZE` | `5` | keep well under Neon's ceiling |
 | `CORS_ORIGINS` | `["https://your-app.vercel.app"]` | JSON list, no trailing slash |

@@ -24,6 +24,8 @@ services:
         sync: false
       - key: POSTGRES_PASSWORD
         sync: false
+      - key: POSTGRES_SSLMODE
+        value: require     # Neon rejects plaintext; local default 'prefer' will not do
       - key: DB_POOL_MIN_SIZE
         value: "0"         # a held connection stops Neon autosuspending
       - key: DB_POOL_MAX_SIZE
@@ -53,6 +55,8 @@ services:
         sync: false
       - key: POSTGRES_PASSWORD
         sync: false
+      - key: POSTGRES_SSLMODE
+        value: require
       - key: DB_POOL_MIN_SIZE
         value: "0"
       - key: DB_POOL_MAX_SIZE

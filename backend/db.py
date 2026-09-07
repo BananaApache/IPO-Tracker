@@ -24,7 +24,30 @@ from fastapi import Depends, Request
 from backend.config import Settings
 
 
+class DatabaseUnreachableError(RuntimeError):
+    """Could not open the pool. Carries the target, because the underlying
+    OSError does not and 'Connect call failed 127.0.0.1' is a maddening thing
+    to read in a deploy log when the real cause is an unset POSTGRES_HOST."""
+
+
 async def create_pool(settings: Settings) -> asyncpg.Pool:
+    try:
+        return await _create_pool(settings)
+    except OSError as exc:
+        hint = ""
+        if settings.postgres_host in {"localhost", "127.0.0.1", "::1"}:
+            hint = (
+                " POSTGRES_HOST is still the default 'localhost' -- it was "
+                "probably never set in this environment."
+            )
+        raise DatabaseUnreachableError(
+            f"could not connect to postgres at {settings.postgres_host}:"
+            f"{settings.postgres_port} as {settings.postgres_user} "
+            f"(sslmode={settings.postgres_sslmode}).{hint}"
+        ) from exc
+
+
+async def _create_pool(settings: Settings) -> asyncpg.Pool:
     return await asyncpg.create_pool(
         settings.database_dsn,
         min_size=settings.db_pool_min_size,

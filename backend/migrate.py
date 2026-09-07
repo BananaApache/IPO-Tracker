@@ -50,7 +50,15 @@ def checksum(sql: str) -> str:
 async def run() -> int:
     """Apply every pending migration. Returns how many were applied."""
     settings = get_settings()
-    connection = await asyncpg.connect(settings.database_dsn)
+    try:
+        connection = await asyncpg.connect(settings.database_dsn)
+    except OSError as exc:
+        raise SystemExit(
+            f"error: could not connect to postgres at {settings.postgres_host}:"
+            f"{settings.postgres_port} (sslmode={settings.postgres_sslmode}).\n"
+            f"  If that host looks like localhost, POSTGRES_HOST is unset in "
+            f"this environment.\n  Underlying error: {exc}"
+        ) from exc
     try:
         # Session-scoped lock: if two runners start at once (compose restart,
         # two deploy pods), the second blocks here and then finds nothing
