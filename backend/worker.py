@@ -172,6 +172,20 @@ async def _social_job(pool, settings) -> None:
         logger.exception("social ingest failed; will retry on the next tick")
 
 
+async def _keep_warm_job(pool, settings) -> None:
+    """Touch the database so a serverless Postgres does not autosuspend.
+
+    Off unless KEEP_WARM_MINUTES is set. The trade is compute-hours against
+    cold-start latency, and on Neon's free tier a permanent ping loses that
+    trade badly -- see docs/deploy.md.
+    """
+    try:
+        async with pool.acquire() as connection:
+            await connection.fetchval("SELECT 1")
+    except Exception:
+        logger.warning("keep-warm ping failed", exc_info=True)
+
+
 async def _retention_job(pool, settings) -> None:
     """Delete raw mentions past the retention window. Never raises."""
     try:
@@ -239,6 +253,17 @@ async def serve() -> None:
         max_instances=1,
         coalesce=True,
     )
+
+    if settings.keep_warm_minutes:
+        scheduler.add_job(
+            _keep_warm_job,
+            trigger=IntervalTrigger(minutes=settings.keep_warm_minutes),
+            args=[pool, settings],
+            id="keep_warm",
+            max_instances=1,
+            coalesce=True,
+        )
+        logger.info("keep-warm enabled: every %d min", settings.keep_warm_minutes)
 
     stop = asyncio.Event()
     loop = asyncio.get_running_loop()

@@ -82,6 +82,57 @@ subject to the same hashing and retention rules as every other source.
 
 ---
 
+## What was measured
+
+Three accuracy figures, each from a hand-labelled set scored **before** any
+tuning. The caveats are part of the result.
+
+| | | measured on |
+|---|---|---|
+| **Prospectus extraction** | **75%** price accuracy | 12 held-out filings, scored once before tuning. Reads 92% after fixing what that run exposed — on a set that is no longer clean. |
+| **Entity resolution** | **0.70** precision | 100 sampled matches from 1,004,502 Hacker News items. Substring matching over the same corpus is 4.3% precise. |
+| **Event detection** | **0.99** recall | 160 of 162 priced IPOs on Finnhub's independent calendar, from SEC filings alone. Precision 0.79. |
+
+**Recall for entity resolution is unbounded between 0.11 and 0.84.** A 40-item
+reject sample against 161,013 candidates cannot narrow it, so no single recall
+number is quoted.
+
+### The sample size is the binding constraint
+
+The event study tests whether attention around a listing predicts
+underperformance from the opening price. It needs attention data on *both* sides
+of the listing date and a return horizon after it, and joint availability is
+small:
+
+| attention corpus | 30-day | 60-day | 90-day |
+|---|---|---|---|
+| 90 days | 24 | 9 | **0** |
+| 210 days — the ceiling | 74 | 59 | 25 |
+
+That zero was **structural, not unlucky**: a 90-day return needs a listing at
+least 90 days old, and attention ±14 days around it then falls before a 90-day
+corpus begins. Past 210 days the constraint stops being attention and becomes
+EDGAR depth.
+
+### Two findings that changed the project
+
+**97% of matched attention belongs to companies that already trade.** Across 90
+days of Hacker News, only 42 mentions attached to a pre-IPO issuer — all of them
+one company. The supportable claim is narrow: *Hacker News is the wrong venue
+for this cohort.* Retail pre-IPO discussion lives on Reddit, which is gated
+behind a pending API approval.
+
+**An absence-based filter excluded 195 of 199 real listing events.** It defined
+an IPO candidate as an issuer with no ticker — and a company acquires a ticker
+precisely *by* completing the event being observed. See
+[`docs/form-type-vs-event.md`](docs/form-type-vs-event.md), which collects three
+separate bugs with that one root cause.
+
+Full write-ups: [extraction](docs/extraction-eval.md) ·
+[matching](docs/matching.md) · [event study](docs/event-study-design.md)
+
+---
+
 ## Architecture
 
 Three processes and one database. The API never computes anything expensive; the
@@ -136,41 +187,6 @@ place where authorisation will live, rather than two.
 The poller re-reads a rolling window and leans on `filings.accession_no` and
 `mentions(source, source_uid)` being UNIQUE. That is what makes the worker safe
 to restart mid-run or leave off for a week.
-
----
-
-## Measurement, and what it cost
-
-The prospectus extractor is evaluated against 32 hand-labelled filings. Some of
-what that measurement says is unflattering, and it is reported that way on
-purpose:
-
-- **75%**, not 92%, is the honest generalisation number. The held-out set scored
-  9/12 before any tuning; 92% is what it reads *after* two defects it exposed
-  were fixed, on a set that is no longer clean.
-- **The dev set's 100% should be ignored.** It stopped being a test set the
-  moment three bugs were found by reading its failures.
-- **Underwriter recall is two different numbers.** 1.00 over banks the
-  dictionary contains, 0.79 end-to-end. Conflating them would flatter the
-  result; recall here is a dictionary-coverage problem, not a matching problem.
-- **A 7% price fill rate is the correct outcome.** Across 67 live filings, 44
-  were not offerings at all — resale registrations, rights offerings, shelf base
-  prospectuses, Part II-only amendments. Every one records *why* in
-  `extraction_method`.
-- **Entity resolution is measured against 5 true positives in 40,000 items** —
-  all of them the same issuer via the same alias. That is an existence proof
-  that scoring separates a company name from an ordinary word, not a classifier
-  evaluation, and no F1 computed over n=5 should be read as one. What the
-  comparison does show: word-bounded substring matching is **4.3% precise**
-  (5 of 116 alias-bearing items are real), while the scored matcher produces
-  **0 false positives in 40,000 items**. That gap justifies the design; the
-  sample size is why the numbers stop there.
-- **One known failure is kept rather than tuned away.** A $0.02 shell offering is
-  rejected by the $1.00 plausibility floor. That floor is what rejects par value;
-  lowering it would trade a precision failure for a recall failure on exactly the
-  issuers this project cares least about.
-
-Full write-up: [`docs/extraction-eval.md`](docs/extraction-eval.md).
 
 ---
 

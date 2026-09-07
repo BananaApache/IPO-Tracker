@@ -61,6 +61,17 @@ class Settings(BaseSettings):
     hn_max_items: int = 4000
     social_poll_interval_minutes: int = 30
 
+    # Keep-warm ping, OFF by default. Neon's free tier allows 191.9
+    # compute-hours a month; always-on is 720, so a permanent ping exceeds it
+    # nearly fourfold. Set this to 10 for the days around a demo and back to 0
+    # afterwards -- see docs/deploy.md for the arithmetic.
+    keep_warm_minutes: int = 0
+
+    # Public API rate limit, per client IP. Stops an accidental loop; not a
+    # defence against a determined attacker.
+    rate_limit_requests: int = 60
+    rate_limit_window_seconds: int = 60
+
     # Licensed market data (Polygon) and news (Finnhub). Both are licensed
     # feeds precisely because brief section 7 rules out unlicensed ones -- see
     # docs/sources.md for the four sources rejected on that basis.

@@ -14,6 +14,7 @@ from backend.api.issuers import router as issuers_router
 from backend.api.review import router as review_router
 from backend.config import get_settings
 from backend.db import create_pool
+from backend.ratelimit import RateLimitMiddleware
 
 
 @asynccontextmanager
@@ -43,6 +44,14 @@ app = FastAPI(
         "and the social chatter around them. Not a recommender."
     ),
     lifespan=lifespan,
+)
+
+# Applied before CORS so a rejected request is cheap. Sized for a dashboard a
+# few people are looking at, not for scale.
+app.add_middleware(
+    RateLimitMiddleware,
+    limit=get_settings().rate_limit_requests,
+    window_seconds=get_settings().rate_limit_window_seconds,
 )
 
 app.add_middleware(
