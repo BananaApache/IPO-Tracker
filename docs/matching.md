@@ -187,6 +187,27 @@ reweighted number:
 | review (0.45–0.70) | 1,039 | 40 | 11 | 0.28 |
 | dropped (alias present, scored out) | 161,013 | 40 | 0 | 0.00 |
 
+**Every false-positive family is the same failure.** `andersen`, `azul`,
+`kepler`, `fast track`, `neutron`, `capstone` — each is a **proper noun that is
+also an ordinary word in another language or another domain**. Not four separate
+cases:
+
+| alias | issuer | what it is elsewhere |
+|---|---|---|
+| `andersen` | Andersen Group Inc. | a Danish surname |
+| `azul` | AZUL SA | Portuguese for "blue" |
+| `kepler` | Kepler Group Ltd | an astronomer, an Nvidia GPU architecture, an equation |
+| `neutron` | Neutron Holdings (Lime) | a subatomic particle, a Rocket Lab vehicle |
+| `capstone` | Capstone Holding Corp. | a university final-year project |
+| `fast track` | Fast Track Group | an ordinary English idiom |
+
+An English-frequency word list cannot catch these, because they are not frequent
+English words — they are frequent *somewhere else*. `COMMON_WORDS` is derived
+from a Hacker News corpus, so it catches the domain collisions HN happens to
+produce (`kepler`, `neutron`) and misses the ones it does not (`andersen`,
+`azul`). Any fix that is a bigger word list is fighting the wrong shape of
+problem; what these need is corroboration from context, not a longer stoplist.
+
 **Precision is 0.70.** The 30 false positives are dominated by one family:
 `andersen` → *"Danish privacy activist Lars Andersen raided by police"*, 21 of
 the 30. The rest are singletons of the same shape — `kepler` (an Nvidia GPU

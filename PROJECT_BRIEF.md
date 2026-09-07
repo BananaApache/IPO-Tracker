@@ -10,23 +10,70 @@ I'm a CS junior. I know Django, React components, and SQL. I am **new to FastAPI
 
 Because of that, two rules govern everything:
 
-- **Explain before you generate.** When you introduce a concept I haven't used (dependency injection, server vs. client components, connection pooling, cursor pagination), give me 3–5 sentences on the mental model before the code.
 - **I need to be able to defend every line.** Do not add abstractions "for later." If you think something is needed, argue for it first.
+- **Measure claims, don't assert them.** Where a wrong answer looks like a right
+  one — extraction, entity resolution, returns — hand-label a set, hold part of
+  it back, and report the number before tuning. A null result is a real result.
 
 Check `.claude/skills/` for my existing skills and use them where they apply.
+
+### Why the scope changed
+
+This started as a **Hidden Gems ranking** over pre-IPO companies: score each on
+hype and quality, surface the quiet-but-good ones. Two measurements killed it.
+
+1. **The thesis was unfalsifiable.** Pre-IPO companies have no outcomes yet, so
+   there was no way to show whether any score had been right about anything.
+2. **The hype axis could not be populated.** Across 90 days and 1,004,502 Hacker
+   News items, exactly **one** of 166 IPO candidates had meaningful discussion.
+   97% of matched attention belonged to companies that already trade.
+
+So the project became an **event study**, which has labelled outcomes. The
+surveillance framing, the pipeline, and every measurement already made carry
+over unchanged — see §2.
 
 ---
 
 ## 2. What the system does
 
-Ingests upcoming US IPO registrations from SEC EDGAR, ingests social chatter about those companies from Reddit, links the unstructured chatter to pre-ticker issuers, and scores each issuer on two axes:
+Tracks US IPOs from registration through their first 90 days of trading, and
+tests one falsifiable claim:
 
-- **Hype** — social mention volume and velocity, normalized.
-- **Quality** — fundamentals and underwriter strength from the filings.
+> **The Popularity Trap.** Does elevated attention around a listing predict
+> subsequent underperformance relative to the opening price?
 
-The dashboard surfaces two views: **Hidden Gems** (low hype, high quality) and **Overheated** (hype spiking without fundamental support).
+The pipeline, in order:
 
-Framing note: this is a *surveillance and anomaly detection* tool, not a stock recommender. Language in code comments, README, and UI should reflect that.
+1. **Registration.** Poll SEC EDGAR for `S-1`, `S-1/A`, `F-1`, `F-1/A`, `424B4`.
+   Upsert issuers and filings; extract price range and underwriters from the
+   prospectus cover, each with a confidence and the rule that produced it.
+2. **Listing event.** Detect the moment an issuer actually starts trading, from
+   its `8-A` exchange registration corroborated by price history. This replaces
+   the earlier absence-based "no ticker yet" heuristic with evidence.
+3. **Attention.** Ingest social mentions through a source-adapter interface and
+   resolve them to issuers with a scored matcher. Pre-listing this is name
+   matching; post-listing the ticker and cashtag become high-specificity aliases,
+   and the two are measured as separate problems.
+4. **Outcome.** Daily closes for 90 days from the opening price. Returns at
+   30/60/90 days are the labels.
+5. **Test.** Attention in the window around listing versus subsequent return.
+
+**A null result is the expected publishable outcome.** If attention does not
+predict returns, that is the finding and it gets reported as such. Nothing in
+this system is permitted to produce a ranking it cannot be shown to have been
+right or wrong about.
+
+Framing note: this is a *surveillance and measurement* tool, not a stock
+recommender. It reports what was filed, what was said, and what happened next.
+Language in code comments, README, and UI should reflect that.
+
+### What carries over from the Hidden Gems design
+
+Unchanged and not to be re-planned: EDGAR ingestion, prospectus extraction, the
+`SourceAdapter` interface, Hacker News ingestion, the matcher and `AliasIndex`,
+the retention sweep, the review queue, and every doc in `docs/`. The quality
+axis still computes from fundamentals and underwriter tier; it is now one
+covariate in the event study rather than half of a ranking.
 
 ---
 
