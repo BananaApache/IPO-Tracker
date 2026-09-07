@@ -38,13 +38,33 @@ logging.basicConfig(
 logger = logging.getLogger("worker")
 
 
-async def run_once() -> None:
+async def run_once(price_limit: int = 20) -> None:
+    """One full cycle: EDGAR, listing events, prices, social, retention.
+
+    This is what a scheduled runner invokes. Prices are bounded because the
+    provider's free tier allows 5 requests a minute, so an unbounded pass would
+    outlast any CI job.
+    """
     settings = get_settings()
     pool = await create_pool(settings)
     try:
         async with SecClient(settings) as client:
             report = await ingest_recent(pool, client, settings)
-        logger.info("edgar ingest complete: %s", report)
+            logger.info("edgar ingest complete: %s", report)
+            logger.info("listing events: %s", await detect_events(pool, client, settings))
+
+        if settings.market_data_api_key:
+            from backend.prices.ingest import ingest_prices
+            from backend.prices.polygon import PolygonClient
+
+            price_client = PolygonClient(settings)
+            try:
+                logger.info(
+                    "price ingest: %s",
+                    await ingest_prices(pool, price_client, settings, limit=price_limit),
+                )
+            finally:
+                await price_client.aclose()
         await _social_job(pool, settings)
         async with pool.acquire() as connection:
             logger.info(
@@ -294,7 +314,11 @@ async def serve() -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="IPO surveillance ingestion worker")
-    parser.add_argument("--once", action="store_true", help="run one pass and exit")
+    parser.add_argument("--once", action="store_true", help="run one full cycle and exit")
+    parser.add_argument(
+        "--price-limit", type=int, default=20,
+        help="max listing events to fetch prices for in a --once run",
+    )
     parser.add_argument(
         "--backfill-prices", action="store_true",
         help="fetch daily bars for pending listing events",
@@ -322,7 +346,7 @@ def main() -> None:
     elif args.backfill_edgar:
         asyncio.run(backfill_edgar(args.backfill_edgar))
     elif args.once:
-        asyncio.run(run_once())
+        asyncio.run(run_once(args.price_limit))
     else:
         with contextlib.suppress(KeyboardInterrupt):
             asyncio.run(serve())

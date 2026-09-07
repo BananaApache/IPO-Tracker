@@ -68,13 +68,22 @@ _PROMOTE = """
 
 
 async def ingest_prices(
-    pool: asyncpg.Pool, client: PolygonClient, settings: Settings, today: date | None = None
+    pool: asyncpg.Pool,
+    client: PolygonClient,
+    settings: Settings,
+    today: date | None = None,
+    limit: int | None = None,
 ) -> PriceReport:
     report = PriceReport()
     today = today or datetime.now(UTC).date()
 
     async with pool.acquire() as connection:
         targets = await connection.fetch(_TARGETS)
+    # Bounded so a scheduled run has a predictable ceiling. At 5 requests a
+    # minute the provider's free tier is the clock, and an unbounded first run
+    # would sit for hours.
+    if limit is not None:
+        targets = targets[:limit]
     report.considered = len(targets)
 
     for row in targets:

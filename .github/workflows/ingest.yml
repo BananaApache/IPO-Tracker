@@ -1,0 +1,52 @@
+# Scheduled ingestion, in place of a paid always-on worker.
+#
+# GitHub Actions is free with unlimited minutes on public repositories, and this
+# workload is a good fit: a few minutes of work every few hours, entirely
+# I/O-bound on rate-limited external APIs. The trade against a real worker is
+# that runs are best-effort -- GitHub delays scheduled workflows under load, and
+# there is no retry if a run is skipped. For a pipeline whose sources publish
+# daily, that is acceptable; for minute-level freshness it would not be.
+name: ingest
+
+on:
+  schedule:
+    # Every six hours. EDGAR publishes daily, Hacker News is re-read on a
+    # rolling window, and the retention sweep only acts on whole days -- so more
+    # frequent runs would mostly re-read the same data.
+    - cron: "0 */6 * * *"
+  workflow_dispatch:        # lets you trigger a run by hand from the Actions tab
+
+concurrency:
+  # Two overlapping runs would race on the same upserts and halve each other's
+  # effective rate limit against SEC and the price provider.
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Run one ingestion cycle
+        env:
+          POSTGRES_HOST: ${{ secrets.POSTGRES_HOST }}
+          POSTGRES_PORT: ${{ secrets.POSTGRES_PORT }}
+          POSTGRES_DB: ${{ secrets.POSTGRES_DB }}
+          POSTGRES_USER: ${{ secrets.POSTGRES_USER }}
+          POSTGRES_PASSWORD: ${{ secrets.POSTGRES_PASSWORD }}
+          POSTGRES_SSLMODE: require
+          # No pooled connections held open: a held connection stops Neon
+          # autosuspending and burns the free tier's compute-hour budget.
+          DB_POOL_MIN_SIZE: "0"
+          DB_POOL_MAX_SIZE: "3"
+          MENTION_HASH_SALT: ${{ secrets.MENTION_HASH_SALT }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          MARKET_DATA_API_KEY: ${{ secrets.MARKET_DATA_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: uv run python -m backend.worker --once --price-limit 20
