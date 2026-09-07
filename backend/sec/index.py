@@ -16,7 +16,18 @@ from datetime import UTC, date, datetime, time
 from backend.sec.client import SecClient
 
 # Forms that put a company on the IPO path, per the brief.
-TRACKED_FORMS = frozenset({"S-1", "S-1/A", "F-1", "F-1/A", "424B4"})
+#
+# The 8-A family registers securities on an exchange and is the marker that an
+# issuer is about to trade. It is tracked because it is the event this study is
+# built on -- see docs/form-type-vs-event.md for why the earlier
+# absence-of-a-ticker proxy excluded 195 of 199 real listings.
+TRACKED_FORMS = frozenset({
+    "S-1", "S-1/A", "F-1", "F-1/A", "424B4",
+    "8-A12B", "8-A12B/A", "8-A12G", "8-A12G/A",
+})
+
+# Subset of the above that registers securities on an exchange.
+EXCHANGE_REGISTRATION_FORMS = frozenset({"8-A12B", "8-A12B/A", "8-A12G", "8-A12G/A"})
 
 _DAILY_INDEX_ROOT = "https://www.sec.gov/Archives/edgar/daily-index"
 

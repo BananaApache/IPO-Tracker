@@ -1,6 +1,30 @@
 # Event study: proposed design
 
-**Status: schema implemented (migration 005). Ingestion pending a market-data key.** Written before code so the
+**Status: schema and event detection implemented. Price ingestion pending a
+licensed market-data key.**
+
+## Measured event counts
+
+150-day EDGAR window, `8-A` filings ingested and classified:
+
+| | |
+|---|---|
+| listing events detected | **479** |
+| first listings | **343** |
+| **re-listings excluded by rule** | **136 (28%)** |
+| first listings with a ticker (study-eligible) | **194** |
+| with a `424B4`-extracted IPO price | 0 |
+| confirmed `listed` | 0 — needs price bars |
+
+Classification verified against every known case: AZUL 12 prior periodic reports
+(earliest 2018-04-27), LGL 98 (2004), OPTT 75 (2009) → all flagged; SPCX, LIME,
+APMD 0 → all first listings.
+
+**136 re-listings is the number that settles the flag-versus-rule question.** At
+28% of `8-A` filers this was never going to be a handful of manual decisions,
+and every one of them would have entered the sample as an outlier with a real
+ticker and a real `8-A`.
+ Written before code so the
 event definition and the price handling can be argued with — a wrong return is
 invisible.
 

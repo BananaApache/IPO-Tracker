@@ -22,6 +22,7 @@ from apscheduler.triggers.interval import IntervalTrigger
 from backend.config import get_settings
 from backend.db import create_pool
 from backend.ingest.edgar import ingest_recent
+from backend.events.detect import detect_events
 from backend.ingest.retention import sweep_mentions
 from backend.ingest.social import ingest_social
 from backend.match.aliases import rebuild_for_all
@@ -54,6 +55,18 @@ async def run_once() -> None:
                 len(report.profiles_missing),
                 ", ".join(report.profiles_missing[:5]),
             )
+    finally:
+        await pool.close()
+
+
+async def detect_listing_events() -> None:
+    """Populate listing_events from 8-A filings already in the database."""
+    settings = get_settings()
+    pool = await create_pool(settings)
+    try:
+        async with SecClient(settings) as client:
+            report = await detect_events(pool, client, settings)
+        logger.info("listing events: %s", report)
     finally:
         await pool.close()
 
@@ -200,12 +213,18 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="IPO surveillance ingestion worker")
     parser.add_argument("--once", action="store_true", help="run one pass and exit")
     parser.add_argument(
+        "--detect-events", action="store_true",
+        help="populate listing_events from 8-A filings already ingested",
+    )
+    parser.add_argument(
         "--backfill-edgar", type=int, metavar="DAYS",
         help="one-off historical EDGAR ingest, skipping prospectus extraction",
     )
     args = parser.parse_args()
 
-    if args.backfill_edgar:
+    if args.detect_events:
+        asyncio.run(detect_listing_events())
+    elif args.backfill_edgar:
         asyncio.run(backfill_edgar(args.backfill_edgar))
     elif args.once:
         asyncio.run(run_once())
