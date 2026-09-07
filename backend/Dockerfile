@@ -30,4 +30,15 @@ RUN chmod +x ./scripts/release.sh
 
 EXPOSE 8000
 
-CMD ["fastapi", "run", "--host", "0.0.0.0", "--port", "8000"]
+# The release script, not `fastapi run` directly. Two reasons:
+#
+#  * It honours $PORT. An exec-form CMD does no shell expansion, so a hardcoded
+#    --port 8000 ignores the port the platform actually scans -- Render reports
+#    "no open ports detected" and kills the deploy, with nothing in the log to
+#    say why.
+#  * It applies migrations first. Managed platforms have no equivalent of
+#    compose's `depends_on: service_completed_successfully`.
+#
+# The worker overrides this with `python -m backend.worker`; compose overrides
+# it with `fastapi dev`.
+CMD ["./scripts/release.sh"]

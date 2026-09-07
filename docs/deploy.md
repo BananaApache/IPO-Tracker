@@ -58,9 +58,22 @@ burns the budget silently.
 
 ## 2 · Render — API + worker
 
-> If a deploy fails with `Connect call failed ('127.0.0.1', 5432)`, the cause is
-> always the same: `POSTGRES_HOST` was never set, so the app fell back to its
-> localhost default. The error now names the host and says so explicitly.
+> **Two failures worth recognising by their log signature:**
+>
+> `Connect call failed ('127.0.0.1', 5432)` — `POSTGRES_HOST` was never set and
+> the app fell back to its localhost default. The error now names the host,
+> port, user and sslmode, and says so outright.
+>
+> `No open ports detected ... Port scan timeout reached` — the service is not
+> listening on `$PORT`. Render assigns a port and scans only that one, so a
+> hardcoded `--port 8000` is invisible to it. The image's `CMD` is
+> `./scripts/release.sh`, which reads `${PORT:-8000}`; **do not override the
+> start command in the dashboard** — an override that hardcodes a port
+> reintroduces exactly this failure, and the log gives no hint of the cause.
+>
+> Note this failure also appears when migrations fail, because `release.sh`
+> applies them before starting the server and exits on error. Scroll up in the
+> log: the real cause is above the port-scan noise.
 
 - [ ] New → **Blueprint** → select the repo. `render.yaml` defines both services.
 - [ ] Fill every variable marked `sync: false` in the dashboard — they are
