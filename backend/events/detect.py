@@ -30,6 +30,20 @@ PERIODIC_REPORT_FORMS = frozenset({
     "20-F", "20-F/A", "40-F", "40-F/A",
 })
 
+# Registration statements. An 8-A with none of these behind it is not an
+# offering -- it is an exchange registration for some other reason -- so it is
+# not a listing event.
+#
+# Checked against the SUBMISSIONS FEED, not our own filings table. Our table
+# only reaches back as far as the last backfill window, so requiring a
+# registration *here* would reject a genuine IPO whose S-1 was filed before it
+# and call a coverage gap a corporate fact. The submissions call is the same one
+# used for periodic reports, so this costs no extra requests.
+REGISTRATION_FORMS = frozenset({
+    "S-1", "S-1/A", "F-1", "F-1/A", "S-11", "S-11/A", "S-4", "S-4/A",
+    "424B1", "424B2", "424B3", "424B4", "424B5",
+})
+
 # After this long with a known ticker and still no trading, treat the listing as
 # postponed rather than pending.
 NO_TRADE_AFTER_DAYS = 30
@@ -38,6 +52,7 @@ NO_TRADE_AFTER_DAYS = 30
 @dataclass
 class DetectionReport:
     eight_a_issuers: int = 0
+    skipped_no_registration: int = 0
     inserted: int = 0
     updated: int = 0
     re_listings: int = 0
@@ -45,7 +60,9 @@ class DetectionReport:
 
     def __str__(self) -> str:
         return (
-            f"8-A issuers={self.eight_a_issuers} events(+{self.inserted}/~{self.updated}) "
+            f"8-A issuers={self.eight_a_issuers} "
+            f"skipped_no_registration={self.skipped_no_registration} "
+            f"events(+{self.inserted}/~{self.updated}) "
             f"re-listings={self.re_listings} status={self.by_status}"
         )
 
@@ -93,8 +110,15 @@ _UPSERT = """
 """
 
 
-async def _periodic_history(client: SecClient, cik: str, before: date) -> tuple[int, date | None]:
-    """How many periodic reports this issuer filed before `before`, and the earliest.
+@dataclass(frozen=True)
+class FilingHistory:
+    periodic_count: int
+    periodic_earliest: date | None
+    registration_count: int
+
+
+async def _filing_history(client: SecClient, cik: str, before: date) -> FilingHistory:
+    """What this issuer had filed before `before`, from one submissions call.
 
     Caveat: the submissions feed returns roughly the most recent 1,000 filings.
     A company that stopped reporting long ago and has filed heavily since could
@@ -103,14 +127,22 @@ async def _periodic_history(client: SecClient, cik: str, before: date) -> tuple[
     """
     payload = await client.get_json(f"https://data.sec.gov/submissions/CIK{cik.zfill(10)}.json")
     recent = payload.get("filings", {}).get("recent", {})
-    dates = [
-        filed
-        for form, filed in zip(recent.get("form", []), recent.get("filingDate", []), strict=False)
-        if form in PERIODIC_REPORT_FORMS and filed < before.isoformat()
-    ]
-    if not dates:
-        return 0, None
-    return len(dates), date.fromisoformat(min(dates))
+    cutoff = before.isoformat()
+
+    periodic, registrations = [], 0
+    for form, filed in zip(recent.get("form", []), recent.get("filingDate", []), strict=False):
+        if filed >= cutoff:
+            continue
+        if form in PERIODIC_REPORT_FORMS:
+            periodic.append(filed)
+        elif form in REGISTRATION_FORMS:
+            registrations += 1
+
+    return FilingHistory(
+        periodic_count=len(periodic),
+        periodic_earliest=date.fromisoformat(min(periodic)) if periodic else None,
+        registration_count=registrations,
+    )
 
 
 async def detect_events(
@@ -127,7 +159,16 @@ async def detect_events(
 
     for row in rows:
         filed_on = row["eight_a_filed_at"].date()
-        count, earliest = await _periodic_history(client, row["cik"], filed_on)
+        history = await _filing_history(client, row["cik"], filed_on)
+
+        # Condition (b) of the event rule. An 8-A with no registration behind it
+        # is not an offering, so no event is created -- the 8-A filing itself
+        # stays in `filings`, so the decision is re-derivable.
+        if history.registration_count == 0:
+            report.skipped_no_registration += 1
+            continue
+
+        count, earliest = history.periodic_count, history.periodic_earliest
         re_listing = count > 0
 
         # Price ingestion promotes to 'listed'. Until then the event sits in a

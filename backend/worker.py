@@ -23,11 +23,13 @@ from backend.config import get_settings
 from backend.db import create_pool
 from backend.ingest.edgar import ingest_recent
 from backend.events.detect import detect_events
+from backend.ingest.offerings import extract_for_filings
 from backend.ingest.retention import sweep_mentions
 from backend.ingest.social import ingest_social
 from backend.match.aliases import rebuild_for_all
 from backend.sources.hackernews import HackerNewsAdapter
 from backend.sec.client import SecClient, SecMisconfiguredError
+from backend.sec.submissions import fetch_primary_documents
 
 logging.basicConfig(
     level=logging.INFO,
@@ -55,6 +57,62 @@ async def run_once() -> None:
                 len(report.profiles_missing),
                 ", ".join(report.profiles_missing[:5]),
             )
+    finally:
+        await pool.close()
+
+
+async def backfill_prices() -> None:
+    """Fetch daily bars for pending listing events and promote them to 'listed'."""
+    from backend.prices.ingest import ingest_prices
+    from backend.prices.polygon import PolygonClient
+
+    settings = get_settings()
+    pool = await create_pool(settings)
+    try:
+        client = PolygonClient(settings)
+        try:
+            report = await ingest_prices(pool, client, settings)
+        finally:
+            await client.aclose()
+        logger.info("price ingest complete: %s", report)
+        logger.info("statuses: %s", report.by_status)
+    finally:
+        await pool.close()
+
+
+async def backfill_extraction(limit: int | None = None) -> None:
+    """Extract offering terms from prospectus filings already ingested.
+
+    Separate from the EDGAR backfill because it downloads 1-3 MB per filing.
+    Scoped to issuers that have a 424B4 -- those are the ones whose deal terms
+    the event study needs.
+    """
+    settings = get_settings()
+    pool = await create_pool(settings)
+    try:
+        async with pool.acquire() as connection:
+            rows = await connection.fetch(
+                """
+                SELECT f.id, f.issuer_id, f.cik, f.accession_no, f.form_type
+                FROM filings f
+                WHERE f.form_type IN ('424B4', 'S-1/A', 'F-1/A', 'S-1', 'F-1')
+                  AND f.issuer_id IN (SELECT issuer_id FROM filings WHERE form_type = '424B4')
+                  AND NOT EXISTS (
+                      SELECT 1 FROM offerings o
+                      WHERE o.issuer_id = f.issuer_id AND o.source_filing_id = f.id)
+                ORDER BY f.form_type = '424B4' DESC, f.filed_at DESC
+                """
+            )
+        filings = [dict(r) for r in rows][: limit or len(rows)]
+        logger.info("extraction backfill: %d filings queued", len(filings))
+
+        async with SecClient(settings) as client:
+            documents: dict[str, dict[str, str]] = {}
+            for cik in sorted({f["cik"] for f in filings}):
+                documents[cik] = await fetch_primary_documents(client, cik)
+            report = await extract_for_filings(pool, client, settings, filings, documents)
+        logger.info("extraction backfill complete: %s", report)
+        logger.info("methods: %s", report.methods)
     finally:
         await pool.close()
 
@@ -213,6 +271,14 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="IPO surveillance ingestion worker")
     parser.add_argument("--once", action="store_true", help="run one pass and exit")
     parser.add_argument(
+        "--backfill-prices", action="store_true",
+        help="fetch daily bars for pending listing events",
+    )
+    parser.add_argument(
+        "--backfill-extraction", type=int, nargs="?", const=0, metavar="LIMIT",
+        help="extract offering terms from prospectus filings already ingested",
+    )
+    parser.add_argument(
         "--detect-events", action="store_true",
         help="populate listing_events from 8-A filings already ingested",
     )
@@ -222,7 +288,11 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    if args.detect_events:
+    if args.backfill_prices:
+        asyncio.run(backfill_prices())
+    elif args.backfill_extraction is not None:
+        asyncio.run(backfill_extraction(args.backfill_extraction or None))
+    elif args.detect_events:
         asyncio.run(detect_listing_events())
     elif args.backfill_edgar:
         asyncio.run(backfill_edgar(args.backfill_edgar))

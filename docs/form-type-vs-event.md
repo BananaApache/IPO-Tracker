@@ -48,27 +48,62 @@ definition, so the boundary could not be re-derived per stage.
 **The bug.** `ipo_candidate_issuers` defined a candidate by *absence*: no ticker,
 no exchange, has a registration. Absence of evidence stood in for evidence.
 
-**The measurement.** Scanning 103 EDGAR index days across 150 days:
+**The measurement.** Scanning 103 EDGAR index days across 150 days found 819
+`8-A` filings from 490 distinct CIKs. Of those, **199 were in our issuer table
+and 195 of the 199 were excluded** by `ipo_candidate_issuers` — it admitted 4.
 
-| | |
-|---|---|
-| `8-A` filings (exchange registration) | 819 |
-| distinct CIKs filing one | 490 |
-| present in our issuer table | 199 |
-| **excluded by `ipo_candidate_issuers`** | **195** |
-| included as candidates | 4 |
+The heuristic was correct about each individual issuer: they *did* have tickers.
+It was wrong about what that meant, because **a company acquires a ticker
+precisely by completing the event the study exists to observe.** The filter
+excluded issuers for having done the thing being measured.
 
-**195 of 199 real listing events were being thrown away.** The heuristic was
-correct about each individual issuer — they *did* have tickers — and wrong about
-what that meant, because a company acquires a ticker precisely *by* completing
-the event the study exists to observe. The filter excluded issuers for having
-done the thing being measured.
+**The fix and its reconciliation.** Migration 005 replaces absence with
+evidence. Tracking the `8-A` family and building `listing_events` from it gives a
+chain that has to be read carefully, because the 199 above is *not* the final
+count:
 
-**The fix.** Migration 005 replaces absence with evidence. An `8-A` is a filing
-that says "these securities are being registered on an exchange" — it is the
-event, not a proxy for it. `listing_events` records one row per `8-A` filer in
-every terminal state, so the funnel from registration to trading is auditable
-rather than inferred.
+| step | count | |
+|---|---|---|
+| issuers with an `8-A` in the window | **479** | after `8-A` was added to tracked forms, which created 291 new issuers (733 → 1,024) |
+| − no registration statement anywhere in EDGAR | −163 | an `8-A` with no `S-1`/`F-1`/`424B` behind it is not an offering |
+| = **listing events** | **316** | |
+| − re-listings (prior periodic reports) | −121 | |
+| = **first listings** | **195** | |
+| with a ticker, so a price can be fetched | **185** | |
+
+The 199 figure in the original measurement was the subset of `8-A` filers that
+already had registration data *in our tables*. It is not the event count. Two
+things separate them:
+
+- Adding `8-A` to tracked forms **created 291 issuers** who had never appeared
+  in a registration-only backfill. Most are genuine — 118 of the 316 events have
+  a registration statement in EDGAR that predates our backfill window.
+- Condition (b) of the event rule was proposed and then **not implemented** in
+  the first pass, so the initial detection run returned 479 events rather than
+  316. It now checks the submissions feed rather than our own filings table:
+  requiring a registration *here* would reject a genuine IPO whose `S-1` predates
+  the backfill and call a coverage gap a corporate fact.
+
+**Measured against an independent source.** Finnhub's IPO calendar lists 162
+priced IPOs in the same window. Of those, **160 appear in our detection** — 155
+as first listings and 5 classified as re-listings by design (Eloxx with 71 prior
+periodic reports, National Healthcare Properties with 53). Two were genuinely
+missed, both SPAC unit tickers. So detection recall against an independent
+calendar is **160/162 = 0.99**, and the 5 disagreements are definitional rather
+than failures: Finnhub's calendar includes uplistings.
+
+Precision is **155/195 = 0.79**, and the 40 disagreements decompose:
+
+- **10 are ETFs and trusts** — Bitwise Hyperliquid ETF, Grayscale, VanEck BNB,
+  iShares Bitcoin, Morgan Stanley Ethereum Trust. They file an `S-1` and an
+  `8-A12B` to list on an exchange and satisfy every condition of the rule, but
+  they are not IPOs of operating companies: no fundamentals, no underwriter
+  syndicate in the usual sense, and returns that track an underlying asset.
+  Including them would corrupt the study. A clean discriminator exists — all
+  nine crypto vehicles carry SIC *Commodity Contracts Brokers & Dealers*, a
+  sector that appears nowhere else in the cohort.
+- **30 are small listings Finnhub does not cover.** Whether those are our false
+  positives or its coverage gaps is not established.
 
 ---
 
@@ -85,6 +120,8 @@ signals turned out to be:
 | is this an IPO candidate? | an `S-1` exists | no ticker **and** no exchange **and** a registration |
 | did it start trading? | it has no ticker yet | an `8-A`, plus a first price bar |
 | is this a first listing? | no prior price history | no prior `10-K`/`10-Q`/`20-F`/`40-F` |
+| is this an offering at all? | an `8-A` exists | an `8-A` **plus** a registration statement in EDGAR |
+| is this an operating company? | it filed like one | SIC code — ETFs and trusts file identically |
 
 The last row is the same lesson applied preemptively: the first draft of the
 event rule used "no prior price history", which a post-bankruptcy re-listing

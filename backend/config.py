@@ -61,6 +61,14 @@ class Settings(BaseSettings):
     hn_max_items: int = 4000
     social_poll_interval_minutes: int = 30
 
+    # Licensed market data (Polygon) and news (Finnhub). Both are licensed
+    # feeds precisely because brief section 7 rules out unlicensed ones -- see
+    # docs/sources.md for the four sources rejected on that basis.
+    market_data_api_key: str = ""
+    market_data_rate_limit_per_second: float = 0.08   # 5/minute, the free tier
+    news_api_key: str = ""
+    news_rate_limit_per_second: float = 1.0           # 60/minute, the free tier
+
     # Raw mentions are deleted this many days after posted_at. mention_daily
     # aggregates are permanent. See the COMMENT ON TABLE in migration 001.
     mention_retention_days: int = 90
