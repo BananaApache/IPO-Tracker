@@ -2,18 +2,21 @@ services:
   db:
     image: postgres:17-alpine
     environment:
-      POSTGRES_DB: ${POSTGRES_DB:-ipo}
-      POSTGRES_USER: ${POSTGRES_USER:-ipo}
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-ipo}
+      # Fixed, not interpolated from .env: the volume was initialised with
+      # these, and changing them in .env would leave a database whose role no
+      # longer matches what the app is told to use.
+      POSTGRES_DB: ipo
+      POSTGRES_USER: ipo
+      POSTGRES_PASSWORD: local_dev_password
     ports:
       # Published so psql and the migration runner work from the host too.
-      - "${POSTGRES_PORT:-5432}:5432"
+      - "5432:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
     healthcheck:
       # $$ escapes compose interpolation so the shell inside the container
       # expands these, not compose.
-      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      test: ["CMD-SHELL", "pg_isready -U ipo -d ipo"]
       interval: 2s
       timeout: 3s
       retries: 20
@@ -28,7 +31,21 @@ services:
     command: ["python", "-m", "backend.migrate"]
     env_file: [.env]
     environment:
+      # Explicit local values, overriding anything in .env. `environment:` wins
+      # over `env_file:`, and that is the point: configuring .env for a
+      # production deploy must not break `docker compose up`. Putting Neon's
+      # host, user and sslmode in .env did exactly that -- the local stack tried
+      # to authenticate as the managed database's role and demanded TLS from a
+      # container that has none.
+      #
+      # .env still supplies what is genuinely environment-specific: the hash
+      # salt, the SEC contact, and the API keys.
       POSTGRES_HOST: db
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: ipo
+      POSTGRES_USER: ipo
+      POSTGRES_PASSWORD: local_dev_password
+      POSTGRES_SSLMODE: prefer
     depends_on:
       db:
         condition: service_healthy
@@ -49,7 +66,21 @@ services:
       - "8000:8000"
     env_file: [.env]
     environment:
+      # Explicit local values, overriding anything in .env. `environment:` wins
+      # over `env_file:`, and that is the point: configuring .env for a
+      # production deploy must not break `docker compose up`. Putting Neon's
+      # host, user and sslmode in .env did exactly that -- the local stack tried
+      # to authenticate as the managed database's role and demanded TLS from a
+      # container that has none.
+      #
+      # .env still supplies what is genuinely environment-specific: the hash
+      # salt, the SEC contact, and the API keys.
       POSTGRES_HOST: db
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: ipo
+      POSTGRES_USER: ipo
+      POSTGRES_PASSWORD: local_dev_password
+      POSTGRES_SSLMODE: prefer
     depends_on:
       db:
         condition: service_healthy
@@ -70,7 +101,21 @@ services:
     command: ["python", "-m", "backend.worker"]
     env_file: [.env]
     environment:
+      # Explicit local values, overriding anything in .env. `environment:` wins
+      # over `env_file:`, and that is the point: configuring .env for a
+      # production deploy must not break `docker compose up`. Putting Neon's
+      # host, user and sslmode in .env did exactly that -- the local stack tried
+      # to authenticate as the managed database's role and demanded TLS from a
+      # container that has none.
+      #
+      # .env still supplies what is genuinely environment-specific: the hash
+      # salt, the SEC contact, and the API keys.
       POSTGRES_HOST: db
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: ipo
+      POSTGRES_USER: ipo
+      POSTGRES_PASSWORD: local_dev_password
+      POSTGRES_SSLMODE: prefer
     depends_on:
       db:
         condition: service_healthy
