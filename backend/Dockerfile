@@ -21,6 +21,12 @@ RUN uv sync --locked --no-dev
 
 COPY backend ./backend
 COPY migrations ./migrations
+# Needed by the managed-platform start command, which applies migrations before
+# starting the API. Without this the container builds fine and fails at boot
+# with "no such file", which reads like a platform problem rather than a
+# missing COPY.
+COPY scripts ./scripts
+RUN chmod +x ./scripts/release.sh
 
 EXPOSE 8000
 
