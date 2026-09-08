@@ -73,12 +73,21 @@ its published 10 requests/second.
 > reachable and this is not our request rate. The field *mapping* is therefore
 > documented-but-unconfirmed. It is not counted as a working source.
 
-Reddit is deliberately absent from the codebase. There is no Reddit client, no
-credentials, and no calls to `reddit.com`. Unauthenticated JSON endpoints
-(`reddit.com/*.json`) are prohibited by this project's own rules — see
-"Hard constraints" in `PROJECT_BRIEF.md` §7. If API access is granted, Reddit
-becomes one more adapter behind the same interface, authenticated with OAuth,
-subject to the same hashing and retention rules as every other source.
+**Reddit goes through OAuth or not at all.** The adapter authenticates against
+`oauth.reddit.com` with a `client_credentials` bearer token. That grant carries
+no user context, so it cannot post, vote, or message — read-only by
+construction rather than by discipline. It sits behind the same
+`SourceAdapter` interface as every other source and is subject to the same
+author hashing and 90-day retention.
+
+It is registered **only** when `REDDIT_CLIENT_ID` and `REDDIT_CLIENT_SECRET`
+are both set. An unconfigured deployment issues no request to `reddit.com`.
+
+Unauthenticated endpoints are not an alternative. Measured from a residential
+IP with a descriptive `User-Agent`: `reddit.com/search.json` → `403`,
+`/r/*/new.json` → `403`, `old.reddit.com/search.json` → `302` to a block page.
+Reddit closed that access, so an adapter built on it would contribute zero
+mentions permanently. Details in [`docs/sources.md`](docs/sources.md).
 
 ---
 
