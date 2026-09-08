@@ -1,0 +1,22 @@
+{
+ "company": "Firefly Aerospace",
+ "window": "pre_filing",
+ "query": "\"Firefly Aerospace\" IPO",
+ "start": "2025-04-12",
+ "end": "2025-07-11",
+ "s1_date": "2025-07-11",
+ "listing_date": "2025-08-07",
+ "drs_date": "2025-04-16",
+ "window_start_days_after_drs": -4,
+ "fetched_at": "2026-09-08T15:24:46.822643+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 0,
+ "exhausted": true,
+ "is_exact": true,
+ "out_of_window": 11,
+ "pages": 2,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [],
+ "errors": null
+}

@@ -1,0 +1,29 @@
+{
+ "company": "Pinterest",
+ "window": "pre_filing",
+ "query": "\"Pinterest\" IPO",
+ "start": "2018-12-22",
+ "end": "2019-03-22",
+ "s1_date": "2019-03-22",
+ "listing_date": "2019-04-18",
+ "drs_date": "2019-01-07",
+ "window_start_days_after_drs": -16,
+ "fetched_at": "2026-09-08T15:38:45.941341+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 6,
+ "exhausted": false,
+ "is_exact": false,
+ "out_of_window": 154,
+ "pages": 8,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [
+  "2019-03-21T23:12:06+00:00",
+  "2019-03-21T23:31:21+00:00",
+  "2019-03-21T23:35:11+00:00",
+  "2019-03-21T23:45:08+00:00",
+  "2019-03-21T23:47:20+00:00",
+  "2019-03-21T23:49:59+00:00"
+ ],
+ "errors": null
+}

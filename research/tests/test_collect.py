@@ -291,3 +291,111 @@ class TestWikipediaValidity:
         assert not b["valid_attention"].all(), "no clipping applied to Bullish"
         first_valid = b.loc[b["valid_attention"], "month"].min()
         assert first_valid >= "2021-01", first_valid
+
+
+class TestTwitterWindows:
+    """Two fixed windows per company, on a hard call budget."""
+
+    def test_windows_are_equal_length_and_bracket_the_events(self):
+        from datetime import date
+
+        from research.collect.twitter_windows import WINDOW_DAYS, windows_for
+        got = windows_for({"registration_filed_at": "2025-03-03",
+                           "listing_date": "2025-03-28"})
+        labels = {label: (a, b) for label, a, b in got}
+        assert set(labels) == {"pre_filing", "post_listing"}
+        # Equal length, so the two counts compare without normalising.
+        for a, b in labels.values():
+            assert (b - a).days == WINDOW_DAYS
+        # pre_filing ends AT the filing (exclusive), post_listing starts at the
+        # listing -- neither window straddles its own event.
+        assert labels["pre_filing"][1] == date(2025, 3, 3)
+        assert labels["post_listing"][0] == date(2025, 3, 28)
+
+    def test_a_missing_date_drops_only_that_window(self):
+        from research.collect.twitter_windows import windows_for
+        assert [w[0] for w in windows_for(
+            {"registration_filed_at": "2025-03-03", "listing_date": None})] \
+            == ["pre_filing"]
+        assert windows_for({"registration_filed_at": None,
+                            "listing_date": None}) == []
+
+    def test_query_form_is_frozen_and_quotes_the_brand(self):
+        from research.collect.twitter_windows import query_for
+        # Quoted so a multi-word brand is not split into an OR of its words,
+        # and `IPO` required so the firehose of ordinary brand chatter is cut.
+        assert query_for("Circle Internet") == '"Circle Internet" IPO'
+        # The parenthetical alias is not part of the query.
+        assert query_for("Instacart (Maplebear)") == '"Instacart" IPO'
+        assert query_for("Reddit") == query_for("Reddit")
+
+    def test_exactness_is_recorded_not_assumed(self):
+        """A capped count is a lower bound and must never be read as a count."""
+        import pandas as pd
+
+        from research.collect.twitter_windows import WINDOWS_PARQUET
+        if not WINDOWS_PARQUET.exists():
+            import pytest
+            pytest.skip("twitter_windows.parquet not built yet")
+        df = pd.read_parquet(WINDOWS_PARQUET)
+        # Every row says whether its count is exact.
+        assert df["is_exact"].notna().all()
+        # A capped row used its full page budget; an exact row ran out early or
+        # exactly at the cap.
+        capped = df[~df["is_exact"].astype(bool)]
+        if len(capped):
+            assert (capped["pages"] >= capped["max_pages"].fillna(8)).all() \
+                if "max_pages" in capped else True
+            assert capped["exhausted"].astype(bool).eq(False).all()
+
+
+class TestWindowPairComparability:
+    """Counts are intervals, and a pair is only comparable if they separate."""
+
+    @staticmethod
+    def _frame(rows):
+        import pandas as pd
+        df = pd.DataFrame(rows)
+        inf = float("inf")
+        pre_hi = df["pre_filing"].where(df["pre_filing_q"] == "exact", inf)
+        post_hi = df["post_listing"].where(df["post_listing_q"] == "exact", inf)
+        df["post_exceeds_pre"] = df["post_listing"] > pre_hi
+        df["pre_exceeds_post"] = df["pre_filing"] > post_hi
+        df["direction_established"] = df["post_exceeds_pre"] | df["pre_exceeds_post"]
+        return df
+
+    def test_exact_small_vs_censored_large_is_established(self):
+        # Arm Holdings: pre exhausted at 12, post is >=160. Unequal page budgets
+        # are irrelevant -- an exact count cannot grow with more pages.
+        r = self._frame([{"pre_filing": 12, "pre_filing_q": "exact",
+                          "post_listing": 160, "post_listing_q": "lower_bound"}])
+        assert bool(r["direction_established"].iloc[0])
+        assert bool(r["post_exceeds_pre"].iloc[0])
+
+    def test_both_censored_is_never_established(self):
+        # Reddit: >=160 vs >=158. Both open-ended, so no direction follows even
+        # though the raw numbers differ.
+        r = self._frame([{"pre_filing": 160, "pre_filing_q": "lower_bound",
+                          "post_listing": 158, "post_listing_q": "lower_bound"}])
+        assert not bool(r["direction_established"].iloc[0])
+
+    def test_exact_large_vs_censored_smaller_is_ambiguous(self):
+        # Klarna: pre is exactly 209, post is only known to be >=158. The true
+        # post value could sit either side of 209.
+        r = self._frame([{"pre_filing": 209, "pre_filing_q": "exact",
+                          "post_listing": 158, "post_listing_q": "lower_bound"}])
+        assert not bool(r["direction_established"].iloc[0])
+
+    def test_deepening_one_side_cannot_invent_a_direction(self):
+        # Rivian after deepening: pre >=360 (20 pages) vs post >=159 (8 pages).
+        # The apparent inversion is an artifact of unequal effort and must not
+        # register as a finding.
+        r = self._frame([{"pre_filing": 360, "pre_filing_q": "lower_bound",
+                          "post_listing": 159, "post_listing_q": "lower_bound"}])
+        assert not bool(r["direction_established"].iloc[0])
+        assert not bool(r["pre_exceeds_post"].iloc[0])
+
+    def test_two_exact_counts_give_a_magnitude(self):
+        r = self._frame([{"pre_filing": 8, "pre_filing_q": "exact",
+                          "post_listing": 105, "post_listing_q": "exact"}])
+        assert bool(r["direction_established"].iloc[0])

@@ -68,6 +68,7 @@ FIG_COHORT = FIGURES / "cohort_comparison.parquet"
 FIG_PANELS = FIGURES / "company_panels.parquet"
 FIG_RELATIVE = FIGURES / "relative_time.parquet"
 FIG_POST = FIGURES / "post_listing.parquet"
+FIG_WINDOWS = FIGURES / "twitter_windows.parquet"
 FIG_MANIFEST = FIGURES / "manifest.json"
 
 
@@ -398,10 +399,85 @@ def build_post_listing_frame() -> pd.DataFrame:
     return df
 
 
+def build_windows_frame() -> pd.DataFrame:
+    """Figure 4: paired X post counts, before filing versus after listing.
+
+    Paired data, so a slope chart rather than two bars: what matters is the
+    within-company change, and a grouped bar chart invites reading across
+    companies instead.
+
+    The exact/censored distinction is carried through and never averaged away. A
+    pair where both sides hit the page cap has a ratio pinned near 1.0 purely
+    because both were truncated at ~160 -- Reddit reads 160 vs 158, which says
+    nothing about direction. Only pairs with two exact counts support a
+    magnitude.
+    """
+    from research.collect.twitter_windows import WINDOWS_PARQUET
+
+    if not WINDOWS_PARQUET.exists():
+        return pd.DataFrame()
+    d = pd.read_parquet(WINDOWS_PARQUET)
+    usable = d[d["usable"]]
+    cnt = usable.pivot_table(index="company", columns="window", values="count",
+                             aggfunc="first")
+    qual = usable.pivot_table(index="company", columns="window", values="quality",
+                              aggfunc="first")
+    if "pre_filing" not in cnt or "post_listing" not in cnt:
+        return pd.DataFrame()
+    pages = usable.pivot_table(index="company", columns="window", values="pages",
+                               aggfunc="first")
+    df = (cnt.dropna().join(qual, rsuffix="_q").join(pages, rsuffix="_pages")
+          .reset_index())
+    df["pre_filing"] = df["pre_filing"].astype(int)
+    df["post_listing"] = df["post_listing"].astype(int)
+    df["both_exact"] = ((df["pre_filing_q"] == "exact")
+                        & (df["post_listing_q"] == "exact"))
+    df["rose"] = df["post_listing"] > df["pre_filing"]
+
+    # Comparability is NOT the same as usability, and conflating them produces a
+    # confidently wrong chart. Treat every count as an INTERVAL and ask whether
+    # the intervals actually separate:
+    #
+    #   exact c        -> [c, c]
+    #   lower bound c  -> [c, inf)
+    #
+    # "post exceeds pre" is established iff post_low > pre_high, and vice versa.
+    #
+    # This is stricter than it sounds in one direction and looser in another. An
+    # earlier version keyed on equal page budgets and wrongly excluded pairs like
+    # Arm Holdings -- pre-filing exact at 12 (it exhausted in 3 pages) against
+    # post-listing >=160. Unequal effort is irrelevant when the smaller side is
+    # exact: it ran out, so more pages cannot find more.
+    #
+    # It correctly refuses the pairs deepening left genuinely ambiguous. Klarna's
+    # pre-filing is exactly 209 and its post-listing is only known to be >=158;
+    # the true post value could sit either side of 209, so no direction follows.
+    inf = float("inf")
+    pre_hi = df["pre_filing"].where(df["pre_filing_q"] == "exact", inf)
+    post_hi = df["post_listing"].where(df["post_listing_q"] == "exact", inf)
+    df["post_exceeds_pre"] = df["post_listing"] > pre_hi
+    df["pre_exceeds_post"] = df["pre_filing"] > post_hi
+    df["direction_established"] = df["post_exceeds_pre"] | df["pre_exceeds_post"]
+    df["magnitude_valid"] = df["both_exact"]
+    df["pair_comparable"] = df["direction_established"]
+
+    df["incomparable_reason"] = ""
+    amb = ~df["direction_established"]
+    df.loc[amb, "incomparable_reason"] = (
+        "intervals overlap: neither count's floor clears the other's ceiling")
+    df.loc[amb & (df["pre_filing_q"] == "lower_bound")
+           & (df["post_listing_q"] == "lower_bound"),
+           "incomparable_reason"] = "both sides censored, so both are open-ended"
+
+    df.to_parquet(FIG_WINDOWS, index=False)
+    return df
+
+
 def build_frames() -> dict[str, int]:
     """Build every figure frame and record what went into them."""
     ensure_dirs()
     counts = {
+        "twitter_windows": len(build_windows_frame()),
         "cohort_comparison": len(build_cohort_frame()),
         "company_panels": len(build_panel_frame()),
         "relative_time": len(build_relative_frame()),
@@ -745,6 +821,76 @@ def plot_post_listing(companies: list[str] | None = None):
              "Marker size encodes VOLUME only.\nThe reference image this imitates "
              "encodes sentiment; no sentiment scoring is in scope and none is "
              "derived from counts.",
+             fontsize=8, color=INK_SOFT, ha="left", linespacing=1.5)
+    fig.tight_layout()
+    return fig
+
+
+def plot_windows():
+    """Figure 4. Paired X post counts: 90 days before filing vs after listing.
+
+    A slope chart, because the data is paired and the within-company change is
+    the question. Solid lines are pairs where both counts are exact; dashed
+    lines are pairs where at least one side hit the page cap and is a lower
+    bound, so its slope understates the true change.
+    """
+    _style()
+    df = pd.read_parquet(FIG_WINDOWS)
+    if df.empty:
+        raise SystemExit("no window pairs; run collect.twitter_windows first.")
+
+    fig, ax = plt.subplots(figsize=(8.4, 6.4))
+    # Incomparable pairs are EXCLUDED, not drawn faintly. A slope whose gradient
+    # is set by an unequal page budget is not weak evidence, it is an artifact,
+    # and drawing it invites exactly the reading it cannot support. They are
+    # counted in the caption instead.
+    drawn = df[df["direction_established"]]
+    for _, r in drawn.sort_values("post_listing").iterrows():
+        exact = bool(r["magnitude_valid"])
+        ax.plot([0, 1], [r["pre_filing"], r["post_listing"]],
+                color=BLUE if exact else INK_SOFT,
+                linewidth=2 if exact else 1.2,
+                linestyle="-" if exact else (0, (4, 3)),
+                alpha=1.0 if exact else 0.5,
+                marker="o", markersize=6 if exact else 5,
+                markeredgecolor=SURFACE, markeredgewidth=0.8, zorder=3 if exact else 2)
+        if exact:
+            ax.annotate(f" {r['company'][:20]}", (1, r["post_listing"]),
+                        fontsize=7.5, color=INK, va="center")
+
+    ax.set_xticks([0, 1])
+    ax.set_xticklabels([f"90 days before\npublic S-1", f"90 days after\nlisting"])
+    ax.set_xlim(-0.15, 1.55)
+    ax.set_ylabel('posts matching \'"<company>" IPO\'')
+    ax.set_title("Figure 4 — X chatter before filing vs after listing", loc="left")
+    ax.yaxis.grid(True)
+    ax.set_axisbelow(True)
+
+    from matplotlib.lines import Line2D
+    ax.legend(handles=[
+        Line2D([], [], color=BLUE, linewidth=2, marker="o",
+               label="both counts exact"),
+        Line2D([], [], color=INK_SOFT, linewidth=1.2, linestyle=(0, (4, 3)),
+               alpha=0.5, marker="o",
+               label="direction established, magnitude not (one side a floor)"),
+    ], loc="upper left")
+
+    n_exact = int(df["magnitude_valid"].sum())
+    rose_exact = int(df.loc[df["magnitude_valid"], "rose"].sum())
+    n_excluded = int((~df["direction_established"]).sum())
+    fig.text(0.01, -0.13,
+             f"{len(drawn)} pairs drawn of {len(df)} usable — every one of them "
+             f"rises. Among the {n_exact} with two exact counts, "
+             f"{rose_exact} of {n_exact} rose.\n"
+             f"Counts are treated as intervals: exact c is [c, c], a censored "
+             f"count c is [c, INF). A pair is drawn only where one floor clears "
+             f"the other's ceiling.\n"
+             f"{n_excluded} pairs are excluded on that test (Bullish, Klarna, "
+             f"Palantir, Reddit, Rivian) — their intervals overlap, so no "
+             f"direction follows in either direction.\n"
+             f"Dashed = one side is a floor, so the slope is a lower bound on "
+             f"the rise, not its size. Source: twitterapis.com, an unofficial "
+             f"scraper, on one narrow query.",
              fontsize=8, color=INK_SOFT, ha="left", linespacing=1.5)
     fig.tight_layout()
     return fig

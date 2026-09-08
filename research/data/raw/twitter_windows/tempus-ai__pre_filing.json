@@ -1,0 +1,22 @@
+{
+ "company": "Tempus AI",
+ "window": "pre_filing",
+ "query": "\"Tempus AI\" IPO",
+ "start": "2024-02-20",
+ "end": "2024-05-20",
+ "s1_date": "2024-05-20",
+ "listing_date": "2024-06-14",
+ "drs_date": "2021-09-01",
+ "window_start_days_after_drs": 902,
+ "fetched_at": "2026-09-08T15:51:12.738583+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 0,
+ "exhausted": true,
+ "is_exact": true,
+ "out_of_window": 5,
+ "pages": 2,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [],
+ "errors": null
+}

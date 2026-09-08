@@ -1,0 +1,22 @@
+{
+ "company": "Lyft",
+ "window": "pre_filing",
+ "query": "\"Lyft\" IPO",
+ "start": "2018-12-01",
+ "end": "2019-03-01",
+ "s1_date": "2019-03-01",
+ "listing_date": "2019-03-01",
+ "drs_date": "2018-12-06",
+ "window_start_days_after_drs": -5,
+ "fetched_at": "2026-09-08T15:38:09.899257+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 0,
+ "exhausted": false,
+ "is_exact": false,
+ "out_of_window": 160,
+ "pages": 8,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [],
+ "errors": null
+}

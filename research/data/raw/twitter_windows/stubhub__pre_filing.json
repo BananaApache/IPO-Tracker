@@ -1,0 +1,33 @@
+{
+ "company": "StubHub",
+ "window": "pre_filing",
+ "query": "\"StubHub\" IPO",
+ "start": "2024-12-21",
+ "end": "2025-03-21",
+ "s1_date": "2025-03-21",
+ "listing_date": "2025-09-17",
+ "drs_date": "2021-11-08",
+ "window_start_days_after_drs": 1139,
+ "fetched_at": "2026-09-08T15:36:20.766118+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 10,
+ "exhausted": true,
+ "is_exact": true,
+ "out_of_window": 29,
+ "pages": 3,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [
+  "2024-12-31T03:17:45+00:00",
+  "2024-12-31T13:33:13+00:00",
+  "2025-01-06T19:06:18+00:00",
+  "2025-01-07T00:06:00+00:00",
+  "2025-01-23T06:43:19+00:00",
+  "2025-03-06T22:48:08+00:00",
+  "2025-03-07T13:38:10+00:00",
+  "2025-03-11T11:25:24+00:00",
+  "2025-03-13T02:29:11+00:00",
+  "2025-03-15T18:52:16+00:00"
+ ],
+ "errors": null
+}

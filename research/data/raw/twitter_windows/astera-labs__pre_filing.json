@@ -1,0 +1,31 @@
+{
+ "company": "Astera Labs",
+ "window": "pre_filing",
+ "query": "\"Astera Labs\" IPO",
+ "start": "2023-11-23",
+ "end": "2024-02-21",
+ "s1_date": "2024-02-21",
+ "listing_date": "2024-03-20",
+ "drs_date": "2023-11-13",
+ "window_start_days_after_drs": 10,
+ "fetched_at": "2026-09-08T15:50:34.740855+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 8,
+ "exhausted": true,
+ "is_exact": true,
+ "out_of_window": 7,
+ "pages": 2,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [
+  "2024-02-01T19:49:25+00:00",
+  "2024-02-01T19:50:14+00:00",
+  "2024-02-01T19:50:26+00:00",
+  "2024-02-01T20:05:39+00:00",
+  "2024-02-01T20:07:35+00:00",
+  "2024-02-01T23:56:02+00:00",
+  "2024-02-02T00:02:45+00:00",
+  "2024-02-02T20:20:12+00:00"
+ ],
+ "errors": null
+}

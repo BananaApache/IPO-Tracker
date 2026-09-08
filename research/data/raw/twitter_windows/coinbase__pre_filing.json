@@ -1,0 +1,22 @@
+{
+ "company": "Coinbase",
+ "window": "pre_filing",
+ "query": "\"Coinbase\" IPO",
+ "start": "2020-11-27",
+ "end": "2021-02-25",
+ "s1_date": "2021-02-25",
+ "listing_date": "2021-04-14",
+ "drs_date": "2020-10-09",
+ "window_start_days_after_drs": 49,
+ "fetched_at": "2026-09-08T15:45:37.333929+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 0,
+ "exhausted": false,
+ "is_exact": false,
+ "out_of_window": 160,
+ "pages": 8,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [],
+ "errors": null
+}

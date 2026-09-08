@@ -1,0 +1,22 @@
+{
+ "company": "Uber",
+ "window": "pre_filing",
+ "query": "\"Uber\" IPO",
+ "start": "2019-01-11",
+ "end": "2019-04-11",
+ "s1_date": "2019-04-11",
+ "listing_date": "2019-05-10",
+ "drs_date": "2018-12-06",
+ "window_start_days_after_drs": 36,
+ "fetched_at": "2026-09-08T15:39:46.062782+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 0,
+ "exhausted": false,
+ "is_exact": false,
+ "out_of_window": 160,
+ "pages": 8,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [],
+ "errors": null
+}

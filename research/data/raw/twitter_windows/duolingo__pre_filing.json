@@ -1,0 +1,27 @@
+{
+ "company": "Duolingo",
+ "window": "pre_filing",
+ "query": "\"Duolingo\" IPO",
+ "start": "2021-03-30",
+ "end": "2021-06-28",
+ "s1_date": "2021-06-28",
+ "listing_date": "2021-07-28",
+ "drs_date": "2021-04-30",
+ "window_start_days_after_drs": -31,
+ "fetched_at": "2026-09-08T15:46:01.139143+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 4,
+ "exhausted": true,
+ "is_exact": true,
+ "out_of_window": 34,
+ "pages": 3,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [
+  "2021-04-20T03:10:13+00:00",
+  "2021-04-20T08:30:38+00:00",
+  "2021-04-21T09:15:54+00:00",
+  "2021-05-15T02:20:02+00:00"
+ ],
+ "errors": null
+}

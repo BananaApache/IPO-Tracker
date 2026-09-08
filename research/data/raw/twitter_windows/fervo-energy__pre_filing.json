@@ -1,0 +1,31 @@
+{
+ "company": "Fervo Energy",
+ "window": "pre_filing",
+ "query": "\"Fervo Energy\" IPO",
+ "start": "2026-01-17",
+ "end": "2026-04-17",
+ "s1_date": "2026-04-17",
+ "listing_date": "2026-05-13",
+ "drs_date": "2025-12-10",
+ "window_start_days_after_drs": 38,
+ "fetched_at": "2026-09-08T15:21:13.694911+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 8,
+ "exhausted": true,
+ "is_exact": true,
+ "out_of_window": 5,
+ "pages": 2,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [
+  "2026-01-20T19:25:33+00:00",
+  "2026-01-23T14:25:13+00:00",
+  "2026-01-23T14:40:37+00:00",
+  "2026-01-25T14:14:22+00:00",
+  "2026-01-26T12:45:50+00:00",
+  "2026-04-09T06:31:07+00:00",
+  "2026-04-14T00:16:13+00:00",
+  "2026-04-15T09:29:32+00:00"
+ ],
+ "errors": null
+}

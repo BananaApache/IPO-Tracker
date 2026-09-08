@@ -1,0 +1,25 @@
+{
+ "company": "Nu Holdings (Nubank)",
+ "window": "pre_filing",
+ "query": "\"Nu Holdings\" IPO",
+ "start": "2021-08-03",
+ "end": "2021-11-01",
+ "s1_date": "2021-11-01",
+ "listing_date": "2021-12-09",
+ "drs_date": "2021-08-02",
+ "window_start_days_after_drs": 1,
+ "fetched_at": "2026-09-08T15:47:31.355210+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 2,
+ "exhausted": true,
+ "is_exact": true,
+ "out_of_window": 2,
+ "pages": 2,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [
+  "2021-10-27T13:13:12+00:00",
+  "2021-10-27T18:26:41+00:00"
+ ],
+ "errors": null
+}

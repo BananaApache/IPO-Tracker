@@ -48,7 +48,7 @@ Measured **2026-09-08**:
 | **Polygon daily aggs** | price history | works, but a **rolling 730-day** entitlement — older listings return `NOT_AUTHORIZED`, not an empty series | **in use, truncated** |
 | **NYT Article Search** | primary news signal | works and reaches 2019. Count is at `response.metadata.hits` | **in use** |
 | **GNews** | corroborating news | `totalArticles` returned, but *articles stripped*: "historical data beyond 30 days is only available on paid plans" | **dropped** |
-| **twitterapis.com** | social | reaches 2019 with real `since:`/`until:` windows. No total-count field; paging runs newest-first from the boundary. **Account credits now exhausted (HTTP 402)** | **collector ready, no data** |
+| **twitterapis.com** | social | no total-count field; paging runs newest-first. Date operators degrade badly on older windows | **in use, two fixed windows** |
 | **redditapis.com** | social | no date-range parameter at all; one page of `sort=new` spanned **2.17 days** | **dropped** |
 
 Three of these differ from what the module brief assumed, and each changed the
@@ -489,13 +489,144 @@ every page is money. Use `--calibrate` to measure page cost on a spread of
 months before committing to a full run; the sizing arithmetic is a cell in
 `notebooks/01_collect.ipynb`.
 
-### Current state of the X data: none, and the account is out of credits
+### Two fixed windows, on a hard budget
+
+The monthly density series was abandoned as unaffordable. What replaced it is
+cheaper and answers a narrower question: how much IPO-specific chatter was there
+in the **90 days before the public S-1** and the **90 days after the listing**?
+Equal-length windows, so the two counts compare without normalising.
+
+`collect/twitter_windows.py`. Three things make it affordable:
+
+* **The query is narrow.** `"<brand>" IPO`, frozen for every company. Requiring
+  the token `IPO` collapses the volume by orders of magnitude — bare `"Figma"` is
+  a firehose of design-tool chatter, `"Figma" IPO` is the offering. It is also
+  the right query for a pre-filing window: a tweet saying "Figma IPO" before the
+  S-1 exists is anticipation.
+* **Two windows, not 27 months.** 39 companies × 2 = 78 units of work.
+* **A hard `--budget`,** checked before every request.
+
+**Actual spend: 684 of 687 available calls ($0.55)** — 519 on the first pass
+(77 of 78 windows; one errored and was correctly not cached) and 116 deepening
+eight of them. A deepened window re-reads the pages it already bought, because
+the earlier records predate the `final_cursor` field; that field is now stored,
+so any future deepening resumes instead of re-paying.
+
+#### The quality split, which matters more than the counts
+
+There is no total-count field, so a count means paginating to exhaustion. Three
+outcomes, and they mean different things:
+
+| quality | n | meaning |
+|---|---|---|
+| `exact` | 29 | provider ran out inside the page cap — a real count |
+| `lower_bound` | 35 | cap hit with results still in-window — a real floor |
+| `unreliable_window` | 13 | cap hit but most results fell *outside* the window | 
+
+The third category is the important one. Lyft's pre-filing window returned **0
+in-window tweets out of 160 fetched** — the `since:`/`until:` operators were
+largely ignored. **All 13 unreliable windows are pre-filing windows**, and
+`post_listing` has none at all:
+
+| window | exact | lower_bound | unreliable |
+|---|---|---|---|
+| pre_filing | 16 | 9 | **13** |
+| post_listing | 8 | 31 | 0 |
+
+So this instrument degrades on exactly the period the module most wants to
+measure. Those rows are dropped, not averaged in.
+
+#### Deepening, and the trap it set
+
+168 calls were left after the first pass, so the eight `pre_filing` windows
+nearest to exhausting were re-collected at a 20-page cap. Selection rule, fixed
+in `deepen()` rather than chosen per run: *`pre_filing` windows classified
+`lower_bound`, ordered by in-window count ascending.* Pre-filing is the side that
+matters, and a window already returning many out-of-window results is near the
+edge of the provider's data, so it is likeliest to exhaust. The rule naturally
+puts a still-saturated window last, where the budget will not reach it.
+
+**5 of 8 converted to exact.** Some were badly understated: Klarna went from
+`≥100` to exactly **209**, Rivian from `≥102` to `≥360`. The original 8-page cap
+was off by up to 3.5×.
+
+That created a trap. Deepening one side of a pair gives it more search effort
+than its partner, so Rivian now reads **360** pre-filing against **159**
+post-listing — an inversion that measures the page budget, not the company.
+Three pairs invert that way.
+
+The fix is not to compare effort but to treat every count as an **interval**:
+
+| observation | interval |
+|---|---|
+| `exact` c | `[c, c]` |
+| `lower_bound` c | `[c, ∞)` |
+
+"post exceeds pre" is established **iff** `post_low > pre_high`. This is looser
+than an equal-effort rule in one direction — Arm Holdings' pre count is exactly
+12 because it *exhausted* in 3 pages, so its partner's `≥160` settles the
+direction whatever the page budgets were. And stricter in another: it refuses
+Klarna, where pre is exactly 209 and post is only known to be `≥158`, so the true
+value could sit on either side.
+
+An earlier version of this keyed on equal page budgets and wrongly discarded
+twelve perfectly sound pairs. `figures.build_windows_frame` carries the interval
+logic and `research/tests` pins all four cases.
+
+#### What it found
+
+**20 of 25 usable pairs have direction established, and every one of them
+rises.** Not a single company had more pre-filing than post-listing chatter.
+Five are ambiguous (Bullish, Klarna, Palantir, Reddit, Rivian) — their intervals
+overlap, so no direction follows either way.
+
+Deepening earned its cost twice over: Bumble, Snowflake, Peloton and Birkenstock
+moved from censored-on-both-sides (reading as flat, and uninformative) to
+established; and Klarna, Rivian, Bullish and Palantir moved from *falsely* flat
+to honestly ambiguous.
+
+Among the **8 pairs where both counts are exact** — the only ones supporting a
+magnitude — 8 of 8 rose, sign test **p = 0.008**, median ratio ~6×:
+
+| company | pre-filing | post-listing |
+|---|---|---|
+| Firefly Aerospace | **0** | 101 |
+| Tempus AI | **0** | 44 |
+| Nu Holdings | 2 | 30 |
+| Astera Labs | 8 | 105 |
+| Fervo Energy | 8 | 56 |
+| Rubrik | 20 | 113 |
+| Mobileye | 46 | 131 |
+| Jersey Mike's | 11 | 19 |
+
+Two companies had *exactly zero* pre-filing posts matching the query. This
+agrees with the Wikipedia result and by a much larger margin, and two
+independent instruments pointing the same way is worth more than either alone.
+
+Three caveats, none of them optional:
+
+* **Only 8 of 25 pairs support a magnitude.** The other 17 are capped on at
+  least one side; 12 still establish a direction by the interval test, and 5
+  establish nothing at all.
+* **This is not a mention count.** It counts posts matching one narrow query. A
+  company discussed constantly without the token "IPO" scores zero, by design.
+* **The pre-filing window is not a pre-event baseline.** It ends at the *public*
+  S-1, and the median company filed confidentially ~96 days earlier, so most of
+  it sits inside the confidential registration period. Each row records
+  `window_start_days_after_drs`.
+
+And the direction was never really in doubt: attention rising when a company
+starts trading is close to a tautology. The interesting question was the
+pre-filing run-up, and this instrument is weakest exactly there.
+
+### The monthly density series: abandoned, and why
 
 `twitter_monthly_counts.parquet` does **not exist** and `data/raw/twitter/` is
-empty. The account's prepaid balance was exhausted during development
+empty. A previous prepaid balance was exhausted during development
 (`HTTP 402 insufficient_credits`) across repeated calibration runs while the
-density estimator was being corrected. The collector is finished and correct;
-it needs a topped-up balance and one command.
+density estimator was being corrected — the two-window collector above replaced
+it precisely because it fits a small budget. `collect/twitter.py` remains
+finished and correct if a large balance ever justifies the monthly series.
 
 The density figures quoted above — Chime at 0.71–0.83/day, CoreWeave rising
 0.94 → 2.6 → 5.9 across 2023–2024, `"Circle"` covering 0.0002 of January 2024 —
@@ -546,12 +677,20 @@ Read these before quoting any number from this module.
    price panel at all, and four of the remaining 12 have fewer than 90 trading
    sessions. This is a provider entitlement, not a property of the companies.
 
-5. **There is currently no X data at all**, and the account is out of credits.
-   The collector is complete; the series is not. Every figure's social panel is
-   therefore empty, and no social finding of any kind is supported right now.
+5. **X data covers two fixed windows, not a time series.** There is no monthly
+   social panel; `collect/twitter.py` is complete but unrun. Figure 1's social
+   panel is therefore absent, and Figure 4 is the only social result.
 
-6. **When collected, X data comes from an unofficial scraper and is a density
-   estimate, not a count.**
+6. **The X windows degrade on old listings, and are censored on busy ones.**
+   All 13 `unreliable_window` rows are pre-filing windows — the provider's date
+   operators were largely ignored there, so those counts are neither exact nor
+   bounds. Of 25 usable pairs, only 8 support a magnitude, 12 more establish a
+   direction by the interval test, and 5 establish nothing. And the counts are
+   of one narrow query (`"<brand>" IPO`), not of all mentions. **The X call
+   budget is now spent** (684 of 687), so the five ambiguous pairs cannot be
+   resolved without more credits.
+
+7. **When collected, monthly X data would be a density estimate, not a count.**
    `twitterapis.com` is a third-party service, not the official X API. Its
    coverage is not contractually guaranteed, its output may change shape or
    depth without notice, and reruns may not reproduce — which is why raw
@@ -561,22 +700,22 @@ Read these before quoting any number from this module.
    estimated from the month's final hours, not measured across it. Only months
    with `reached_month_start` are complete counts.
 
-7. **The news signal is sparse.** Instacart's peak IPO month is 17 NYT articles;
+8. **The news signal is sparse.** Instacart's peak IPO month is 17 NYT articles;
    most pre-filing months are 0. A 27-point monthly series of mostly zeros
    supports very little. No trendline or smoothing is applied that would imply
    more resolution than exists.
 
-8. **Underpowered by construction.** With ~12 companies in the priority-1 set
+9. **Underpowered by construction.** With ~12 companies in the priority-1 set
    and ~25 in the full watchlist, essentially every correlation between
    attention and return here is underpowered. The expectation is to label them
    that way, not to find a way not to. A null result is a real result.
 
-9. **Ambiguous names traded recall for precision.** Rows flagged `ambiguous` in
+10. **Ambiguous names traded recall for precision.** Rows flagged `ambiguous` in
    `watchlist.csv` use a narrowed query and are not directly comparable to
    unnarrowed rows. The rule was fixed before collection; the trade is real
    either way.
 
-10. **`research/` is exempted from PROJECT_BRIEF.md §7's ban on third-party
+11. **`research/` is exempted from PROJECT_BRIEF.md §7's ban on third-party
    scraper APIs** by the module brief, and only for this module. Nothing from
    these sources feeds the deployed pipeline. Every other §7 constraint still
    applies here: read-only, no raw usernames persisted, licensed market data,
@@ -597,6 +736,7 @@ research/
     edgar_enrich.py     seed CSV -> verified watchlist
     nyt.py              NYT monthly counts, resumable, daily-cap aware
     twitter.py          X monthly density; needs --budget, --recompute is free
+    twitter_windows.py  X counts in two fixed windows; fits a small budget
     edgar_events.py     DRS / Form D / comment letters / withdrawals -- free, offline
     wikipedia.py        pageviews: keyless, dense, 2015->today
     prices.py           Polygon daily bars + first-trade reconciliation
@@ -608,6 +748,7 @@ research/
     price_reconciliation.csv                    calendar date vs first trade
     edgar_events.parquet / edgar_filings.parquet   filing timeline
     wikipedia_monthly.parquet / wikipedia_resolution.csv
+    twitter_windows.parquet                        before/after X counts
     nyt_monthly_counts.parquet
     twitter_monthly_counts.parquet
     prices_daily.parquet

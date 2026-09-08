@@ -1,0 +1,22 @@
+{
+ "company": "Airbnb",
+ "window": "pre_filing",
+ "query": "\"Airbnb\" IPO",
+ "start": "2020-08-18",
+ "end": "2020-11-16",
+ "s1_date": "2020-11-16",
+ "listing_date": "2020-12-10",
+ "drs_date": "2020-08-19",
+ "window_start_days_after_drs": -1,
+ "fetched_at": "2026-09-08T15:43:21.321742+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 0,
+ "exhausted": false,
+ "is_exact": false,
+ "out_of_window": 160,
+ "pages": 8,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [],
+ "errors": null
+}

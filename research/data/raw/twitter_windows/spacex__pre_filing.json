@@ -1,0 +1,22 @@
+{
+ "company": "SpaceX",
+ "window": "pre_filing",
+ "query": "\"SpaceX\" IPO",
+ "start": "2026-02-19",
+ "end": "2026-05-20",
+ "s1_date": "2026-05-20",
+ "listing_date": "2026-06-12",
+ "drs_date": "2026-03-30",
+ "window_start_days_after_drs": -39,
+ "fetched_at": "2026-09-08T15:37:22.330430+00:00",
+ "service": "twitterapis.com (third-party scraper, not the official X API)",
+ "count": 0,
+ "exhausted": false,
+ "is_exact": false,
+ "out_of_window": 160,
+ "pages": 8,
+ "max_pages": 8,
+ "window_days": 90,
+ "timestamps": [],
+ "errors": null
+}
