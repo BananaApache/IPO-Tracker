@@ -1,23 +1,213 @@
 # IPO Surveillance Platform
 
-Surveillance and anomaly detection over US IPO registrations and the social
-chatter around them.
+Two things live in this repository:
 
-The system ingests upcoming IPO filings from SEC EDGAR and social mentions from
-Reddit, links unstructured chatter to **pre-ticker** issuers (the hard part —
-these companies have no symbol to search for yet), and scores each issuer on two
-independent axes:
+1. **A research study** on whether attention accumulates around a company
+   *before* it goes public, and whether it predicts anything about the listing.
+   That is the work below, in [`research/`](research/).
+2. **The deployed pipeline** the study grew out of — SEC EDGAR ingestion, entity
+   resolution against pre-ticker issuers, a FastAPI backend and a Next.js
+   dashboard. That starts at [The platform](#the-platform).
 
-- **Hype** — social mention volume and velocity, z-scored across the active cohort.
-- **Quality** — revenue growth, margin, leverage, and underwriter tier from the filings.
-
-Two views fall out of the pair: **Hidden Gems** (quality without attention) and
-**Overheated** (attention without fundamental support).
-
-> This is a surveillance tool, not a stock recommender. It measures attention and
-> reports fundamentals. It does not tell you what to buy.
+> Neither half is a stock recommender. They measure what was filed, what was
+> said, and what happened next. Nothing here tells you what to buy.
 
 ---
+
+# The study
+
+**Question.** The deployed pipeline detects an issuer when it files an S-1, so a
+well-known private company is invisible during the years when attention
+supposedly accumulates. This inverts that: start from companies known to have
+listed, measure attention retrospectively, and cross-reference it against
+post-listing price.
+
+**Short answer.** Attention does not accumulate before a filing — it is *created*
+by the filing. The most defensible finding is not about attention at all: it is
+that the public S-1 is the wrong event date to anchor on.
+
+Full method, every source verdict and all limitations:
+**[`research/README.md`](research/README.md)**. Reproduce with
+[`research/notebooks/02_analysis.ipynb`](research/notebooks/02_analysis.ipynb) —
+it runs offline from committed data.
+
+---
+
+## The finding that holds up
+
+Under the JOBS Act an emerging growth company files a **confidential** draft
+registration statement (DRS) before its public S-1, and EDGAR exposes it only
+once the company actually goes public.
+
+**Every one of the 39 watchlist companies that filed a US registration statement
+had filed it confidentially first** — a median of **96 days** earlier, and up to
+**1,408 days**. For 4 of 39, the confidential filing falls outside even a
+24-month pre-S-1 window.
+
+![Per-company attention and price, with all three filing events marked](docs/images/company-panels.png)
+
+StubHub is the clearest case: it filed confidentially in November 2021 and did
+not file publicly until March 2025 — **1,229 days**. Any study treating the
+public S-1 as "the start of the IPO process" is mismeasuring its event date,
+because the company was already in registration when the pre-filing window
+supposedly began. That includes this project's own deployed pipeline.
+
+This is a count of filings in EDGAR: no sampling inference, no scraper, no
+contested statistic, and reproducible offline from committed data. The selection
+bias even runs in its favour — the watchlist skews large, and large companies are
+*less* likely to qualify as emerging growth companies, so 39/39 is conservative.
+
+Note the asymmetry: DRS is **useless to the deployed pipeline**, which detects
+issuers in real time and cannot see a filing that is not yet public. It is only
+available retrospectively, which is exactly what a retrospective study needs.
+
+---
+
+## The sample is biased, and here is how much
+
+A census of every US IPO 2019–2026 (**4,131 records**, 2,958 priced, 431
+withdrawn) exists mainly so the hand-picked watchlist can be *shown* to be
+unrepresentative rather than disclaimed as such.
+
+![Watchlist versus the full IPO population](docs/images/cohort-comparison.png)
+
+The watchlist is **68% billion-dollar deals against a population that is 3.6%**,
+and contains not one company from the two smallest deal-size buckets — which are
+62% of all priced IPOs. A list of "companies everyone remembers going public" is
+close to a list of the largest offerings.
+
+The census is validated against an independent number rather than trusted: a
+crude SPAC split gives 596 SPAC-like versus 448 operating listings for 2021,
+against widely reported figures of roughly 610 and 400.
+
+---
+
+## Attention rises at the listing, not before it
+
+Three independent instruments, different corpora, different failure modes:
+
+| instrument | usable | rose after listing | test |
+|---|---|---|---|
+| Wikipedia pageviews, DRS-anchored | 20 companies | 18/20 into the public window | p < 0.001 |
+| X posts, 90-day windows | 20 pairs | **20/20** | 8/8 exact pairs, p = 0.008 |
+| Reddit posts, 90-day windows | 11 pairs | **11/11** | p = 0.001 |
+
+![X chatter before filing versus after listing](docs/images/windows-twitter.png)
+
+Firefly Aerospace and Tempus AI had **exactly zero** pre-filing posts matching
+`"<company>" IPO`; Circle, Firefly and Arm had exactly zero on Reddit. Across
+four instruments the pre-filing period is close to empty — NYT is zero in 63% of
+months more than six months before the S-1, and an earlier pass over 1,004,502
+Hacker News items found meaningful discussion for 1 of 166 candidates.
+
+That is a real finding, and it is also nearly a tautology: attention rises when a
+company starts trading. The question with content was the run-up, and that is
+where every instrument is weakest.
+
+### No detectable leakage during the confidential window
+
+The sharpest testable hypothesis the study generated: does attention move while
+the registration is secret?
+
+![Wikipedia attention in relative time, anchored on the confidential DRS](docs/images/relative-time-drs.png)
+
+Anchored on the DRS and restricted to the 20 companies with all three windows,
+median Wikipedia views per month go 21,260 → 27,986 → 54,194 across
+baseline / confidential / public. **14 of 20 rose into the confidential window
+(p = 0.115)** — not significant. 18 of 20 rose into the public window
+(p < 0.001).
+
+So the public filing is the attention event. And even had the confidential rise
+been significant, it would be equally consistent with a company simply becoming
+more famous — which is plausibly *why* it filed.
+
+---
+
+## Underpricing: a null, and a lesson about small samples
+
+Does pre-listing attention predict first-day underpricing? Following Da,
+Engelberg & Gao (2011), attention is measured **strictly before the offer price
+is set** and expressed as *abnormal* attention — the event window over each
+company's own baseline, which controls for fame.
+
+![Abnormal pre-listing attention versus first-day underpricing](docs/images/underpricing.png)
+
+| n | Spearman ρ | 95% CI | threshold |
+|---|---|---|---|
+| 12 | +0.517 | [−0.080, +0.841] | 0.576 |
+| **35** | **+0.282** | [−0.057, +0.562] | 0.333 |
+
+**The estimate nearly halved when the sample grew.** The n=12 version was
+inflated by small-sample noise; written up as "ρ ≈ 0.52, just short of
+significance" it would have been a false positive dressed as near-evidence. The
+smaller estimate is the more credible one — ρ ≈ 0.28 sits squarely in the
+published range for attention effects, where 0.52 did not.
+
+The interval contains zero *and* contains a strong effect, so the honest reading
+is that this design cannot tell the difference. Detecting ρ = 0.28 at 80% power
+needs **n ≈ 97**. Deal size correlates at only +0.11, so whatever signal exists
+is not merely company size.
+
+A follow-on study is in progress that switches the treatment from pageview
+*levels* to article *existence*, which is determinable for every company and
+lifts the eligible population to 1,169.
+
+---
+
+## What the sources actually delivered
+
+Every source was measured before being designed around, and the measurements are
+committed in `research/data/source_probe.json`. **Three of seven did not
+survive:**
+
+| source | verdict |
+|---|---|
+| **GNews** | free tier grants **30 days** of history and strips article payloads — dropped rather than half-used |
+| **redditapis.com** | no date-range parameter at all; one page of `sort=new` spanned **2.17 days** |
+| **Finnhub candles** | `403` on this key |
+| **NYT Article Search** | works, but every fielded `fq` query returns 0, so precision rests on quoted phrases alone |
+| **Polygon** | licensed, but a **rolling 730-day** entitlement, account-wide across every endpoint |
+| **Tiingo** | all 39 companies back to 2019, and agrees with Polygon to **$0.0000** over 1,131 overlapping sessions |
+| **Wikipedia pageviews** | keyless, absolute, deterministic, 2015→today |
+
+Four price providers were tried before one worked. Two traps worth recording:
+Alpha Vantage's `apikey=demo` serves `outputsize=full` while the real free key
+does not, so probing with the demo key makes the tier look more capable than it
+is; and Dukascopy was **rejected on licensing** — its own client library states
+it is "not affiliated, endorsed, or vetted by Dukascopy Bank SA".
+
+## Things that were nearly published and were not
+
+The measurement work is the most defensible output, and several results were
+caught by construction rather than luck:
+
+- An **8-A anchor** that invented four date disagreements, because an 8-A
+  registers a security class before trading starts — Roblox filed one 2020-12-03
+  and first traded 2021-03-10.
+- A Wikipedia title whose traffic belonged to a **Max Factory action-figure
+  line** (`figma`), and another to a **Chinese county** (Huize).
+- A Reddit sweep that would have reported SpaceX's pre-filing count as **0** when
+  it had never looked that far back.
+- An X monthly count that read **0 for Figma** — the most-discussed design tool
+  on the platform — because pagination is newest-first and the budget ran out
+  before reaching the window.
+
+---
+
+---
+
+# The platform
+
+The deployed pipeline the study grew out of: SEC EDGAR ingestion, prospectus
+extraction, entity resolution against **pre-ticker** issuers (the hard part —
+these companies have no symbol to search for yet), a FastAPI backend, and a
+Next.js dashboard.
+
+It scores each issuer on two independent axes — **hype** (social mention volume
+and velocity, z-scored across the active cohort) and **quality** (revenue
+growth, margin, leverage, underwriter tier from the filings) — and two views fall
+out of the pair: **Hidden Gems** (quality without attention) and **Overheated**
+(attention without fundamental support).
 
 ## Scope and data handling
 
@@ -239,6 +429,24 @@ to restart mid-run or leave off for a week.
 | 4 | Scoring | **next** |
 | 5 | Dashboard | not started |
 | 6 | Hardening + deploy | not started |
+
+The study is a separate track, not a phase of the platform:
+
+| | Scope | State |
+|---|---|---|
+| R1 | Source capability probe — what each provider actually delivers | done |
+| R2 | Tier A census: every US IPO 2019–2026 | done |
+| R3 | Tier B watchlist, verified against EDGAR | done |
+| R4 | EDGAR event timeline (DRS, Form D, comment letters) | done |
+| R5 | Attention: Wikipedia, NYT, X and Reddit windows | done |
+| R6 | Underpricing vs abnormal attention | done — a null at n=35 |
+| R7 | Notability (article existence) vs underpricing, n≈500 | **prices collecting** |
+| R8 | Withdrawn-company control group | not started |
+
+R8 is the highest-value work outstanding: 431 withdrawn issuers are already in
+the census and Wikipedia is keyless and unmetered, so it costs nothing but time
+and it is what would turn the leakage null from "not detected" into "tested
+against a control".
 
 ---
 
@@ -536,7 +744,12 @@ frontend/
   app/page.tsx       Server Component: renders the issuer table
   app/error.tsx      Client Component: error boundary (see the note inside)
   lib/api.ts         typed client for the FastAPI backend
-research/            pre-IPO attention analysis -- see research/README.md
+research/            the study -- see research/README.md
+  collect/           one module per source; every one resumable and cached
+  figures.py         figure frames, then plots that read only those frames
+  render_figures.py  regenerates the PNGs in docs/images/ for this README
+  notebooks/         01 collection, 02 analysis (runs offline)
+  tests/             64 tests, own pytest root (no database)
                      Separate from the deployed pipeline: writes files, not the
                      database, and its dependencies are a group the deployed
                      image does not install.
