@@ -79,22 +79,40 @@ async def _with_fixture(body):
 
 
 def test_deletes_exactly_the_expired_and_aggregated_rows():
+    """Asserted against the fixture's own rows, not the report's totals.
+
+    RetentionReport counts every expired mention in the database, which is what
+    a production log wants and exactly the wrong thing for a test to assert on:
+    these assertions passed on an empty database and broke the moment real
+    mentions were ingested locally. A test that depends on the rest of the
+    database is not isolated.
+    """
     async def body(connection, ids):
-        report = await sweep_mentions(connection, RETENTION_DAYS, now=NOW)
+        fixture_ids = [v for k, v in ids.items() if k != "kept_issuer"]
+        before = await connection.fetchval(
+            "SELECT count(*) FROM mentions WHERE id = ANY($1)", fixture_ids
+        )
+        await sweep_mentions(connection, RETENTION_DAYS, now=NOW)
         surviving = {
             row["id"]
-            for row in await connection.fetch("SELECT id FROM mentions WHERE id = ANY($1)",
-                                              list(ids.values()))
+            for row in await connection.fetch(
+                "SELECT id FROM mentions WHERE id = ANY($1)", fixture_ids
+            )
         }
-        return report, surviving
+        return before, surviving, ids
 
-    report, _surviving = run(_with_fixture(body))
+    before, surviving, ids = run(_with_fixture(body))
 
-    # three rows are past the cutoff
-    assert report.expired == 3
-    # two of them are safe to delete; the un-aggregated one is withheld
-    assert report.deleted == 2
-    assert report.withheld_unaggregated == 1
+    assert before == 5, "fixture should start with five mentions"
+    # expired and aggregated, plus expired and unmatched, are deleted
+    assert ids["old_aggregated"] not in surviving
+    assert ids["old_unmatched"] not in surviving
+    # expired but matched with no aggregate is withheld
+    assert ids["old_unaggregated"] in surviving
+    # inside the window
+    assert ids["edge_inside"] in surviving
+    assert ids["recent"] in surviving
+    assert len(surviving) == 3
 
 
 def test_withholds_matched_rows_that_were_never_rolled_up():
@@ -148,15 +166,23 @@ def test_aggregates_survive_the_sweep_intact():
 
 
 def test_sweep_is_idempotent():
+    """A second sweep deletes none of the fixture's rows."""
     async def body(connection, ids):
-        first = await sweep_mentions(connection, RETENTION_DAYS, now=NOW)
-        second = await sweep_mentions(connection, RETENTION_DAYS, now=NOW)
-        return first, second
+        fixture_ids = [v for k, v in ids.items() if k != "kept_issuer"]
 
-    first, second = run(_with_fixture(body))
-    assert first.deleted == 2
-    assert second.deleted == 0, "a second sweep has nothing left to delete"
-    assert second.expired == 1, "only the withheld row is still expired"
+        async def alive():
+            return await connection.fetchval(
+                "SELECT count(*) FROM mentions WHERE id = ANY($1)", fixture_ids
+            )
+
+        await sweep_mentions(connection, RETENTION_DAYS, now=NOW)
+        after_first = await alive()
+        await sweep_mentions(connection, RETENTION_DAYS, now=NOW)
+        return after_first, await alive()
+
+    after_first, after_second = run(_with_fixture(body))
+    assert after_first == 3
+    assert after_second == after_first, "a second sweep must be a no-op"
 
 
 def test_cutoff_does_not_depend_on_time_of_day():

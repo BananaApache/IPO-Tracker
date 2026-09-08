@@ -33,6 +33,9 @@ jobs:
         with:
           enable-cache: true
 
+      # The suite must not run here: conftest refuses a non-local database, and
+      # this job is deliberately pointed at production. Tests belong in a
+      # separate workflow with local Postgres.
       - name: Run one ingestion cycle
         env:
           POSTGRES_HOST: ${{ secrets.POSTGRES_HOST }}

@@ -428,6 +428,17 @@ order by `backend/migrate.py`.
 uv run python -m backend.migrate
 ```
 
+Tests need local Postgres settings, and refuse to run otherwise:
+
+```bash
+POSTGRES_HOST=localhost POSTGRES_USER=ipo POSTGRES_PASSWORD=local_dev_password \
+POSTGRES_DB=ipo POSTGRES_SSLMODE=prefer uv run pytest tests/ -q
+```
+
+The guard exists because the suite reads `.env`, so once `.env` was filled in
+for the deploy, `pytest` began opening transactions against production. Every
+test rolls back, so nothing was lost — but that was luck, not design.
+
 The runner records each applied file in a `schema_migrations` table along with a
 SHA-256 of its contents, and enforces three rules:
 
