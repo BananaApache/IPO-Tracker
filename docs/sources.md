@@ -6,7 +6,7 @@
 | Hacker News (Algolia) | none | **in use** |
 | Market data (prices) | licensed, API key | pending key — see below |
 | News | licensed, API key | pending key |
-| Reddit | OAuth, approval pending | not implemented |
+| Reddit | OAuth, keyed | **adapter built, inactive until credentials are set** |
 | GDELT | none | **cut** — see below |
 
 ## GDELT: cut
@@ -27,6 +27,30 @@ across three attempts on three separate days:
 Removed rather than left in place. An adapter that has never worked is not a
 source; keeping it in the list would have overstated what this pipeline
 actually ingests.
+
+## Reddit: OAuth only, and why
+
+An unauthenticated adapter was attempted at explicit request, against
+`reddit.com/search.json`. **It cannot work.** Measured from a residential IP
+with a descriptive User-Agent:
+
+| endpoint | result |
+|---|---|
+| `www.reddit.com/search.json?q=…` | `403` |
+| `old.reddit.com/search.json?q=…` | `302` to a block page |
+| `www.reddit.com/r/stocks/new.json` | `403` |
+
+Reddit closed unauthenticated JSON access. Shipping an adapter against it would
+have been a no-op contributing zero mentions — the same failure mode that got
+GDELT removed, except guaranteed rather than intermittent.
+
+So the adapter goes through `oauth.reddit.com` with a bearer token from a
+`client_credentials` grant. That grant carries no user context, so the adapter
+**cannot** post, vote, or message even if something tried: read-only by
+construction, not by discipline.
+
+It is registered only when `REDDIT_CLIENT_ID` and `REDDIT_CLIENT_SECRET` are
+both set. An unconfigured deployment issues no request to reddit.com.
 
 ## Why market data is licensed
 

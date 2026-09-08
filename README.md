@@ -63,7 +63,7 @@ its published 10 requests/second.
 | SEC EDGAR | none required; identified `User-Agent` | in use |
 | Hacker News (Algolia) | none required | in use |
 | GDELT (DOC 2.0) | none required | adapter written, live fetch blocked — see below |
-| Reddit | OAuth, pending approved API access | **not implemented** |
+| Reddit | OAuth, keyed | adapter built, inactive until credentials are set |
 
 > **GDELT caveat, stated rather than hidden:** the adapter is written to the
 > documented DOC 2.0 `artlist` schema and its transform is unit-tested, but it

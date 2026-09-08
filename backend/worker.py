@@ -207,8 +207,18 @@ async def backfill_edgar(days: int) -> None:
 
 
 def _build_adapters(settings):
-    # GDELT was cut -- see docs/sources.md. A licensed news adapter replaces it.
-    return [HackerNewsAdapter(settings)]
+    # GDELT was cut -- see docs/sources.md.
+    adapters = [HackerNewsAdapter(settings)]
+
+    # Reddit is registered only when OAuth credentials exist, so an
+    # unconfigured deployment makes no request to reddit.com at all.
+    if settings.reddit_client_id and settings.reddit_client_secret:
+        from backend.sources.reddit import RedditAdapter
+
+        adapters.append(RedditAdapter(settings))
+        logger.info("reddit adapter enabled (r/%s)", settings.reddit_subreddits)
+
+    return adapters
 
 
 async def _social_job(pool, settings) -> None:

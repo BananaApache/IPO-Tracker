@@ -89,13 +89,18 @@ class RetryingClient:
         an HTML page.
         """
 
-    async def get(self, url: str, params: dict[str, Any] | None = None) -> httpx.Response:
+    async def get(
+        self,
+        url: str,
+        params: dict[str, Any] | None = None,
+        headers: dict[str, str] | None = None,
+    ) -> httpx.Response:
         last_error: Exception | None = None
 
         for attempt in range(self.max_retries):
             await self.limiter.acquire()
             try:
-                response = await self._client.get(url, params=params)
+                response = await self._client.get(url, params=params, headers=headers)
             except httpx.TransportError as exc:
                 last_error = exc
                 await self._backoff(attempt, None, f"transport error: {exc!r}", url)

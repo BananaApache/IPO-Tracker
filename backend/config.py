@@ -80,6 +80,22 @@ class Settings(BaseSettings):
     rate_limit_requests: int = 60
     rate_limit_window_seconds: int = 60
 
+    # Reddit, via OAuth. Empty by default, and the adapter is only registered
+    # when both credentials are present -- so the codebase makes no request to
+    # reddit.com until someone deliberately configures one. Create a "script"
+    # app at https://www.reddit.com/prefs/apps to get these.
+    reddit_client_id: str = ""
+    reddit_client_secret: str = ""
+    # Reddit requires this format and rejects generic agents.
+    reddit_user_agent: str = ""
+    # Where retail investors actually discuss offerings. Combined into one
+    # listing request rather than searched per issuer, for the same reason as
+    # Hacker News: searching per name hands the matcher a set some other
+    # matcher already filtered.
+    reddit_subreddits: str = "wallstreetbets+stocks+investing+StockMarket+IPO"
+    # OAuth clients get 100 requests/minute. Well under it.
+    reddit_rate_limit_per_second: float = 1.0
+
     # Licensed market data (Polygon) and news (Finnhub). Both are licensed
     # feeds precisely because brief section 7 rules out unlicensed ones -- see
     # docs/sources.md for the four sources rejected on that basis.
