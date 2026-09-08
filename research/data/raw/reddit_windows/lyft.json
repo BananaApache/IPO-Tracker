@@ -1,0 +1,1604 @@
+{
+ "company": "Lyft",
+ "query": "\"Lyft\" IPO",
+ "aliases": [
+  "Lyft"
+ ],
+ "s1_date": "2019-03-01",
+ "listing_date": "2019-03-01",
+ "oldest_needed": "2018-12-01",
+ "fetched_at": "2026-09-08T16:38:10.716088+00:00",
+ "service": "redditapis.com (third-party scraper, not the official Reddit API)",
+ "note": "No date-range parameter exists on this endpoint; t is relative to now. Windows are bucketed client-side from created_utc.",
+ "pages": 3,
+ "kept_posts": 224,
+ "discarded_no_mention": 20,
+ "reached_window_start": false,
+ "oldest_seen_ts": 1675863186,
+ "listing_ended": true,
+ "posts": [
+  {
+   "id": "1w8go5b",
+   "created_utc": 1788652924,
+   "subreddit": "TravelEcosystem",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vrfo66",
+   "created_utc": 1787029532,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vkzbjs",
+   "created_utc": 1786400552,
+   "subreddit": "u_enoumen",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1vhqyk1",
+   "created_utc": 1786078033,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vac3p6",
+   "created_utc": 1785366191,
+   "subreddit": "accelerate",
+   "upvotes": 27,
+   "comments": 2
+  },
+  {
+   "id": "1v4is39",
+   "created_utc": 1784823890,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uqxyzc",
+   "created_utc": 1783528655,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uerxt7",
+   "created_utc": 1782339711,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u88xx5",
+   "created_utc": 1781699654,
+   "subreddit": "SpaceInvestorsDaily",
+   "upvotes": 3,
+   "comments": 11
+  },
+  {
+   "id": "1u84qak",
+   "created_utc": 1781686261,
+   "subreddit": "WallStreetbetsELITE",
+   "upvotes": 3,
+   "comments": 5
+  },
+  {
+   "id": "1u3idhh",
+   "created_utc": 1781230087,
+   "subreddit": "mauerstrassenwetten",
+   "upvotes": 268,
+   "comments": 72
+  },
+  {
+   "id": "1u3ab6r",
+   "created_utc": 1781209305,
+   "subreddit": "economy",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1twgtpy",
+   "created_utc": 1780559366,
+   "subreddit": "SpaceXBets",
+   "upvotes": 1,
+   "comments": 6
+  },
+  {
+   "id": "1tdwayo",
+   "created_utc": 1778851494,
+   "subreddit": "UltimateTraders",
+   "upvotes": 1,
+   "comments": 3
+  },
+  {
+   "id": "1taw122",
+   "created_utc": 1778576850,
+   "subreddit": "Crypto_Taxes_UK",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1t2xfq9",
+   "created_utc": 1777842056,
+   "subreddit": "Badboyardie",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1t2vvg6",
+   "created_utc": 1777838490,
+   "subreddit": "ChartNavigators",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1shm3tu",
+   "created_utc": 1775826592,
+   "subreddit": "UltimateTraders",
+   "upvotes": 2,
+   "comments": 9
+  },
+  {
+   "id": "1sf2yn4",
+   "created_utc": 1775583462,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1seyuc8",
+   "created_utc": 1775574836,
+   "subreddit": "Sverige",
+   "upvotes": 0,
+   "comments": 155
+  },
+  {
+   "id": "1scrpi5",
+   "created_utc": 1775355722,
+   "subreddit": "Vitards",
+   "upvotes": 100,
+   "comments": 20
+  },
+  {
+   "id": "1s80w1d",
+   "created_utc": 1774899427,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1s80vtn",
+   "created_utc": 1774899413,
+   "subreddit": "shopify",
+   "upvotes": 17,
+   "comments": 14
+  },
+  {
+   "id": "1s80vf7",
+   "created_utc": 1774899390,
+   "subreddit": "ecommerce",
+   "upvotes": 31,
+   "comments": 3
+  },
+  {
+   "id": "1s3ys2p",
+   "created_utc": 1774502790,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ryo4tc",
+   "created_utc": 1773985774,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1rwm9po",
+   "created_utc": 1773787903,
+   "subreddit": "stockwatching",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1rkcf3y",
+   "created_utc": 1772600216,
+   "subreddit": "investing",
+   "upvotes": 33,
+   "comments": 42
+  },
+  {
+   "id": "1rfhr9y",
+   "created_utc": 1772129663,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1r2lch6",
+   "created_utc": 1770875007,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1r1pdtv",
+   "created_utc": 1770789579,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1qkd594",
+   "created_utc": 1769131704,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1qkaz0z",
+   "created_utc": 1769126063,
+   "subreddit": "stockwatching",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1q6j003",
+   "created_utc": 1767801175,
+   "subreddit": "ValueInvesting",
+   "upvotes": 10,
+   "comments": 15
+  },
+  {
+   "id": "1q5zb3m",
+   "created_utc": 1767743320,
+   "subreddit": "Go_Stock",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "1ptbemg",
+   "created_utc": 1766438632,
+   "subreddit": "TechAfternoonReport",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1pt76fh",
+   "created_utc": 1766428520,
+   "subreddit": "u_enoumen",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1pj9qaz",
+   "created_utc": 1765389979,
+   "subreddit": "wallstreetbets",
+   "upvotes": 809,
+   "comments": 218
+  },
+  {
+   "id": "1pcqopa",
+   "created_utc": 1764724846,
+   "subreddit": "stocks",
+   "upvotes": 209,
+   "comments": 75
+  },
+  {
+   "id": "1pb43qx",
+   "created_utc": 1764565644,
+   "subreddit": "financialbooklet",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1p66h3d",
+   "created_utc": 1764056380,
+   "subreddit": "NUAI",
+   "upvotes": 22,
+   "comments": 15
+  },
+  {
+   "id": "1p5ngrv",
+   "created_utc": 1764005721,
+   "subreddit": "venturecapital",
+   "upvotes": 40,
+   "comments": 23
+  },
+  {
+   "id": "1oto8fw",
+   "created_utc": 1762804833,
+   "subreddit": "shopify",
+   "upvotes": 33,
+   "comments": 17
+  },
+  {
+   "id": "1oto78z",
+   "created_utc": 1762804760,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1oto6am",
+   "created_utc": 1762804702,
+   "subreddit": "ecommerce",
+   "upvotes": 23,
+   "comments": 12
+  },
+  {
+   "id": "1onsaoy",
+   "created_utc": 1762214080,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "1ok9t7d",
+   "created_utc": 1761853911,
+   "subreddit": "ethereum",
+   "upvotes": 19,
+   "comments": 14
+  },
+  {
+   "id": "1oefh76",
+   "created_utc": 1761254208,
+   "subreddit": "learnmachinelearning",
+   "upvotes": 0,
+   "comments": 1
+  },
+  {
+   "id": "1oe9lxd",
+   "created_utc": 1761240726,
+   "subreddit": "u_enoumen",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1o0pyfn",
+   "created_utc": 1759868243,
+   "subreddit": "uberdrivers",
+   "upvotes": 1,
+   "comments": 4
+  },
+  {
+   "id": "1o0pxrf",
+   "created_utc": 1759868199,
+   "subreddit": "uber",
+   "upvotes": 2,
+   "comments": 6
+  },
+  {
+   "id": "1nvnfax",
+   "created_utc": 1759359712,
+   "subreddit": "financialbooklet",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "1njtmct",
+   "created_utc": 1758154226,
+   "subreddit": "stockologi",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1njr3nr",
+   "created_utc": 1758147591,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1nfuhsz",
+   "created_utc": 1757760711,
+   "subreddit": "ValueInvesting",
+   "upvotes": 64,
+   "comments": 53
+  },
+  {
+   "id": "1ne7faw",
+   "created_utc": 1757593534,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1ndfdlk",
+   "created_utc": 1757513670,
+   "subreddit": "TheTicker",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1nd536z",
+   "created_utc": 1757479544,
+   "subreddit": "Offwallstreetbets",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nd536q",
+   "created_utc": 1757479544,
+   "subreddit": "QuantSignals",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nd536h",
+   "created_utc": 1757479543,
+   "subreddit": "HenryZhang",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mjje7e",
+   "created_utc": 1754520763,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1mhruw2",
+   "created_utc": 1754346455,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1llceku",
+   "created_utc": 1750973743,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "1ljmwds",
+   "created_utc": 1750798878,
+   "subreddit": "ChartNavigators",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1jjb707",
+   "created_utc": 1742876528,
+   "subreddit": "cscareerquestionsOCE",
+   "upvotes": 11,
+   "comments": 8
+  },
+  {
+   "id": "1jfn9av",
+   "created_utc": 1742472107,
+   "subreddit": "Badboyardie",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1jfma2k",
+   "created_utc": 1742468511,
+   "subreddit": "ChartNavigators",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1j89qmq",
+   "created_utc": 1741641533,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 4,
+   "comments": 8
+  },
+  {
+   "id": "1j89m44",
+   "created_utc": 1741641230,
+   "subreddit": "ecommerce",
+   "upvotes": 5,
+   "comments": 2
+  },
+  {
+   "id": "1indg92",
+   "created_utc": 1739318346,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1imzeqv",
+   "created_utc": 1739283022,
+   "subreddit": "stocks",
+   "upvotes": 43,
+   "comments": 38
+  },
+  {
+   "id": "1imyzyp",
+   "created_utc": 1739281839,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1imyzkm",
+   "created_utc": 1739281808,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1imyyzm",
+   "created_utc": 1739281762,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1imyyfo",
+   "created_utc": 1739281720,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1imfrvq",
+   "created_utc": 1739218341,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1imfqu6",
+   "created_utc": 1739218269,
+   "subreddit": "ecommerce",
+   "upvotes": 5,
+   "comments": 11
+  },
+  {
+   "id": "1iju46w",
+   "created_utc": 1738932180,
+   "subreddit": "u_TearRepresentative56",
+   "upvotes": 33,
+   "comments": 3
+  },
+  {
+   "id": "1iju3z9",
+   "created_utc": 1738932159,
+   "subreddit": "swingtrading",
+   "upvotes": 34,
+   "comments": 2
+  },
+  {
+   "id": "1iju1xc",
+   "created_utc": 1738931959,
+   "subreddit": "TradingEdge",
+   "upvotes": 85,
+   "comments": 5
+  },
+  {
+   "id": "1ijh1cq",
+   "created_utc": 1738885123,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1hoylwj",
+   "created_utc": 1735487111,
+   "subreddit": "Badboyardie",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1hoyjcp",
+   "created_utc": 1735486915,
+   "subreddit": "ChartNavigators",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1hev8ms",
+   "created_utc": 1734277515,
+   "subreddit": "Badboyardie",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1heuxa5",
+   "created_utc": 1734276624,
+   "subreddit": "ChartNavigators",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1h1oe1v",
+   "created_utc": 1732770139,
+   "subreddit": "waymo",
+   "upvotes": 12,
+   "comments": 33
+  },
+  {
+   "id": "1gr315v",
+   "created_utc": 1731584984,
+   "subreddit": "CattyInvestors",
+   "upvotes": 2,
+   "comments": 3
+  },
+  {
+   "id": "1gg8dpc",
+   "created_utc": 1730357066,
+   "subreddit": "WSJauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1gg03fy",
+   "created_utc": 1730329672,
+   "subreddit": "wallstreetbets",
+   "upvotes": 22,
+   "comments": 2
+  },
+  {
+   "id": "1gdcwkv",
+   "created_utc": 1730041277,
+   "subreddit": "Badboyardie",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1gdc8jq",
+   "created_utc": 1730039421,
+   "subreddit": "ChartNavigators",
+   "upvotes": 5,
+   "comments": 3
+  },
+  {
+   "id": "1gaxyj9",
+   "created_utc": 1729759511,
+   "subreddit": "DigitalPR",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1fjrsds",
+   "created_utc": 1726663184,
+   "subreddit": "DACXI",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1fgiv7o",
+   "created_utc": 1726308621,
+   "subreddit": "RossRiskAcademia",
+   "upvotes": 27,
+   "comments": 15
+  },
+  {
+   "id": "1f3ox8z",
+   "created_utc": 1724890707,
+   "subreddit": "uberdrivers",
+   "upvotes": 0,
+   "comments": 7
+  },
+  {
+   "id": "1eynuw6",
+   "created_utc": 1724344355,
+   "subreddit": "ITInsightsNL",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1disofa",
+   "created_utc": 1718722576,
+   "subreddit": "wallstreetbets",
+   "upvotes": 74,
+   "comments": 33
+  },
+  {
+   "id": "1da8sen",
+   "created_utc": 1717761276,
+   "subreddit": "Daytrading",
+   "upvotes": 35,
+   "comments": 8
+  },
+  {
+   "id": "1da8m85",
+   "created_utc": 1717760694,
+   "subreddit": "WallStreetbetsELITE",
+   "upvotes": 0,
+   "comments": 2
+  },
+  {
+   "id": "1da8liv",
+   "created_utc": 1717760630,
+   "subreddit": "swingtrading",
+   "upvotes": 32,
+   "comments": 1
+  },
+  {
+   "id": "1da8kjv",
+   "created_utc": 1717760535,
+   "subreddit": "TradingEdge",
+   "upvotes": 103,
+   "comments": 14
+  },
+  {
+   "id": "1csbpau",
+   "created_utc": 1715745024,
+   "subreddit": "u_zeerebel",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1cn6qgt",
+   "created_utc": 1715180526,
+   "subreddit": "stocks",
+   "upvotes": 18,
+   "comments": 24
+  },
+  {
+   "id": "1cjgekv",
+   "created_utc": 1714762493,
+   "subreddit": "u_Shot-Call-7949",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1c2flyu",
+   "created_utc": 1712944380,
+   "subreddit": "u_La1zrdpch75356",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1bpyujt",
+   "created_utc": 1711640976,
+   "subreddit": "adops",
+   "upvotes": 26,
+   "comments": 1
+  },
+  {
+   "id": "1bpytly",
+   "created_utc": 1711640910,
+   "subreddit": "MarketingResearch",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1bpyt3a",
+   "created_utc": 1711640874,
+   "subreddit": "ProductMarketing",
+   "upvotes": 6,
+   "comments": 1
+  },
+  {
+   "id": "1bp27mj",
+   "created_utc": 1711547043,
+   "subreddit": "SocialMediaManagers",
+   "upvotes": 6,
+   "comments": 6
+  },
+  {
+   "id": "1bp276h",
+   "created_utc": 1711547007,
+   "subreddit": "socialmedia",
+   "upvotes": 23,
+   "comments": 4
+  },
+  {
+   "id": "1bp0te4",
+   "created_utc": 1711543039,
+   "subreddit": "digital_marketing",
+   "upvotes": 6,
+   "comments": 1
+  },
+  {
+   "id": "1bp0sjk",
+   "created_utc": 1711542965,
+   "subreddit": "Entrepreneur",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1bp0r3i",
+   "created_utc": 1711542836,
+   "subreddit": "advertising",
+   "upvotes": 21,
+   "comments": 5
+  },
+  {
+   "id": "1bp0qbd",
+   "created_utc": 1711542769,
+   "subreddit": "marketing",
+   "upvotes": 16,
+   "comments": 7
+  },
+  {
+   "id": "1bkcbze",
+   "created_utc": 1711042600,
+   "subreddit": "wallstreetbets",
+   "upvotes": 22,
+   "comments": 20
+  },
+  {
+   "id": "1bfdh6w",
+   "created_utc": 1710507837,
+   "subreddit": "TwinCities",
+   "upvotes": 48,
+   "comments": 7
+  },
+  {
+   "id": "1azg6an",
+   "created_utc": 1708839101,
+   "subreddit": "ChatGPT",
+   "upvotes": 0,
+   "comments": 1
+  },
+  {
+   "id": "1argd5h",
+   "created_utc": 1708006501,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1aqykaz",
+   "created_utc": 1707946731,
+   "subreddit": "wallstreetbets",
+   "upvotes": 5,
+   "comments": 8
+  },
+  {
+   "id": "17sa83z",
+   "created_utc": 1699640454,
+   "subreddit": "uberdrivers",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "17rega7",
+   "created_utc": 1699540931,
+   "subreddit": "StockMarket",
+   "upvotes": 0,
+   "comments": 1
+  },
+  {
+   "id": "16mw188",
+   "created_utc": 1695142004,
+   "subreddit": "lyftdrivers",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "16mw0xi",
+   "created_utc": 1695141985,
+   "subreddit": "Lyft",
+   "upvotes": 10,
+   "comments": 2
+  },
+  {
+   "id": "16mpzf0",
+   "created_utc": 1695127420,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "16m7rns",
+   "created_utc": 1695072133,
+   "subreddit": "FT_comments",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "16m56fq",
+   "created_utc": 1695066161,
+   "subreddit": "Lyft",
+   "upvotes": 9,
+   "comments": 2
+  },
+  {
+   "id": "15lnpxl",
+   "created_utc": 1691513784,
+   "subreddit": "stocks",
+   "upvotes": 14,
+   "comments": 26
+  },
+  {
+   "id": "15lfyn9",
+   "created_utc": 1691495432,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "15lfy5n",
+   "created_utc": 1691495394,
+   "subreddit": "StockMarketDiscussion",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15lfxnu",
+   "created_utc": 1691495355,
+   "subreddit": "StockMarketBulletins",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15lfx9m",
+   "created_utc": 1691495323,
+   "subreddit": "StockMarketBoards",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15lfwl8",
+   "created_utc": 1691495267,
+   "subreddit": "DailyStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15lfw7n",
+   "created_utc": 1691495235,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15lfv0x",
+   "created_utc": 1691495150,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "15lfuhl",
+   "created_utc": 1691495111,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15lftz6",
+   "created_utc": 1691495072,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15lfsm5",
+   "created_utc": 1691494962,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15icmja",
+   "created_utc": 1691184831,
+   "subreddit": "StockMarketBulletins",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15iclzn",
+   "created_utc": 1691184796,
+   "subreddit": "StockMarketDiscussion",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15iclcs",
+   "created_utc": 1691184757,
+   "subreddit": "StockMarketBoards",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15icktu",
+   "created_utc": 1691184724,
+   "subreddit": "DailyStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15ick9h",
+   "created_utc": 1691184690,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "15icj51",
+   "created_utc": 1691184623,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "15icih0",
+   "created_utc": 1691184585,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15ichzl",
+   "created_utc": 1691184554,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "15icei5",
+   "created_utc": 1691184336,
+   "subreddit": "StockMarketChat",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "154270r",
+   "created_utc": 1689789728,
+   "subreddit": "bobbystock",
+   "upvotes": 86,
+   "comments": 38
+  },
+  {
+   "id": "14m6x92",
+   "created_utc": 1688050056,
+   "subreddit": "pennystocks",
+   "upvotes": 5,
+   "comments": 4
+  },
+  {
+   "id": "14m3c7w",
+   "created_utc": 1688040580,
+   "subreddit": "ValueInvesting",
+   "upvotes": 13,
+   "comments": 22
+  },
+  {
+   "id": "14m2rmx",
+   "created_utc": 1688038846,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "14m2r1i",
+   "created_utc": 1688038797,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "14m2qd6",
+   "created_utc": 1688038741,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "14m2pzg",
+   "created_utc": 1688038707,
+   "subreddit": "StockMarketScoop",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "14m2p4z",
+   "created_utc": 1688038636,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "14m2o5h",
+   "created_utc": 1688038558,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "14m2m5h",
+   "created_utc": 1688038378,
+   "subreddit": "StockMarketChat",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "142oqw8",
+   "created_utc": 1686075626,
+   "subreddit": "berlin",
+   "upvotes": 74,
+   "comments": 13
+  },
+  {
+   "id": "13ze0to",
+   "created_utc": 1685801351,
+   "subreddit": "buildindia",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "13qpl1q",
+   "created_utc": 1684944013,
+   "subreddit": "MoneyDiariesACTIVE",
+   "upvotes": 211,
+   "comments": 56
+  },
+  {
+   "id": "138jyrl",
+   "created_utc": 1683289115,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "138jxdm",
+   "created_utc": 1683289018,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "138jvqa",
+   "created_utc": 1683288907,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "138jv6z",
+   "created_utc": 1683288871,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "138juap",
+   "created_utc": 1683288803,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "138jtlm",
+   "created_utc": 1683288752,
+   "subreddit": "stocks",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "138jrwf",
+   "created_utc": 1683288635,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "137h6kl",
+   "created_utc": 1683197964,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "137h63v",
+   "created_utc": 1683197924,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "137h5an",
+   "created_utc": 1683197852,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "137h4vw",
+   "created_utc": 1683197816,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "137h4jg",
+   "created_utc": 1683197787,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "137h3ii",
+   "created_utc": 1683197709,
+   "subreddit": "stocks",
+   "upvotes": 8,
+   "comments": 0
+  },
+  {
+   "id": "137h220",
+   "created_utc": 1683197582,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "136j7h4",
+   "created_utc": 1683117093,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "136j6wj",
+   "created_utc": 1683117059,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "136j6cm",
+   "created_utc": 1683117027,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "136j5hy",
+   "created_utc": 1683116965,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "136j4zn",
+   "created_utc": 1683116927,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "136j2yb",
+   "created_utc": 1683116778,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "135hweb",
+   "created_utc": 1683025559,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "135hvy8",
+   "created_utc": 1683025522,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "135hv30",
+   "created_utc": 1683025446,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "135huni",
+   "created_utc": 1683025409,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "135hu7b",
+   "created_utc": 1683025377,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "135hskp",
+   "created_utc": 1683025266,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "134j6ix",
+   "created_utc": 1682938517,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "134j63i",
+   "created_utc": 1682938482,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "134j55e",
+   "created_utc": 1682938402,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "134j4qh",
+   "created_utc": 1682938368,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "134j4co",
+   "created_utc": 1682938332,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "134j2ft",
+   "created_utc": 1682938183,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "132atxf",
+   "created_utc": 1682718520,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "132asww",
+   "created_utc": 1682718448,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "132as2h",
+   "created_utc": 1682718391,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "132aqxv",
+   "created_utc": 1682718314,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "132aqht",
+   "created_utc": 1682718280,
+   "subreddit": "FinancialMarket",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "132apx2",
+   "created_utc": 1682718240,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "12d50bc",
+   "created_utc": 1680744877,
+   "subreddit": "stocks",
+   "upvotes": 0,
+   "comments": 40
+  },
+  {
+   "id": "12b21a7",
+   "created_utc": 1680564844,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "12b1yv9",
+   "created_utc": 1680564697,
+   "subreddit": "ecommerce",
+   "upvotes": 72,
+   "comments": 20
+  },
+  {
+   "id": "124mn4n",
+   "created_utc": 1680005102,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "124mmwg",
+   "created_utc": 1680005085,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "124mmc3",
+   "created_utc": 1680005045,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "124mli0",
+   "created_utc": 1680004983,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "124ml2r",
+   "created_utc": 1680004953,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "124mklo",
+   "created_utc": 1680004924,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "124mjxl",
+   "created_utc": 1680004882,
+   "subreddit": "stocks",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "124miru",
+   "created_utc": 1680004818,
+   "subreddit": "StockMarket",
+   "upvotes": 3,
+   "comments": 2
+  },
+  {
+   "id": "124mhzw",
+   "created_utc": 1680004761,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "123zstb",
+   "created_utc": 1679949935,
+   "subreddit": "u_Wonderful-Board-4992",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "11vwdzg",
+   "created_utc": 1679257130,
+   "subreddit": "ValueInvesting",
+   "upvotes": 71,
+   "comments": 38
+  },
+  {
+   "id": "11vwcq0",
+   "created_utc": 1679257056,
+   "subreddit": "stocks",
+   "upvotes": 40,
+   "comments": 30
+  },
+  {
+   "id": "11rf3xm",
+   "created_utc": 1678820494,
+   "subreddit": "Banking",
+   "upvotes": 6,
+   "comments": 6
+  },
+  {
+   "id": "116j27z",
+   "created_utc": 1676828749,
+   "subreddit": "IsraelInvesting",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "10z6n4f",
+   "created_utc": 1676072941,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "10z6i57",
+   "created_utc": 1676072565,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "10z6hlz",
+   "created_utc": 1676072525,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "10xuu88",
+   "created_utc": 1675949543,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "10xut5z",
+   "created_utc": 1675949468,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "10xusjo",
+   "created_utc": 1675949424,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "10xuqnl",
+   "created_utc": 1675949275,
+   "subreddit": "StockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "10xuptk",
+   "created_utc": 1675949205,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "10wxc2q",
+   "created_utc": 1675864656,
+   "subreddit": "DeercreekvolsBlog",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "10wwsnt",
+   "created_utc": 1675863186,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 3,
+   "comments": 0
+  }
+ ],
+ "pre_filing_count": 0,
+ "post_listing_count": 0,
+ "pre_filing_complete": false,
+ "post_listing_complete": false,
+ "oldest_seen": "2023-02-08",
+ "pre_filing_window": [
+  "2018-12-01",
+  "2019-03-01"
+ ],
+ "post_listing_window": [
+  "2019-03-01",
+  "2019-05-30"
+ ],
+ "pre_filing_ids": [],
+ "post_listing_ids": []
+}

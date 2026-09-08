@@ -1,0 +1,1464 @@
+{
+ "company": "Reddit",
+ "query": "\"Reddit\" IPO",
+ "aliases": [
+  "Reddit"
+ ],
+ "s1_date": "2024-02-22",
+ "listing_date": "2024-03-21",
+ "oldest_needed": "2023-11-24",
+ "fetched_at": "2026-09-08T16:34:51.372448+00:00",
+ "service": "redditapis.com (third-party scraper, not the official Reddit API)",
+ "note": "No date-range parameter exists on this endpoint; t is relative to now. Windows are bucketed client-side from created_utc.",
+ "pages": 3,
+ "kept_posts": 204,
+ "discarded_no_mention": 2,
+ "reached_window_start": false,
+ "oldest_seen_ts": 1786929311,
+ "listing_ended": true,
+ "posts": [
+  {
+   "id": "1waly7i",
+   "created_utc": 1788867503,
+   "subreddit": "FIREPakistan",
+   "upvotes": 31,
+   "comments": 30
+  },
+  {
+   "id": "1wal7nm",
+   "created_utc": 1788865285,
+   "subreddit": "IPO_India",
+   "upvotes": 4,
+   "comments": 1
+  },
+  {
+   "id": "1wakmkf",
+   "created_utc": 1788863416,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1wai1kz",
+   "created_utc": 1788854418,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1waga0q",
+   "created_utc": 1788848171,
+   "subreddit": "apexiqsummary",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1wacb1z",
+   "created_utc": 1788835748,
+   "subreddit": "GrowthStockInvesting",
+   "upvotes": 12,
+   "comments": 0
+  },
+  {
+   "id": "1wabzs9",
+   "created_utc": 1788834832,
+   "subreddit": "IPO_India",
+   "upvotes": 9,
+   "comments": 1
+  },
+  {
+   "id": "1waaavu",
+   "created_utc": 1788830107,
+   "subreddit": "NepalStock",
+   "upvotes": 2,
+   "comments": 4
+  },
+  {
+   "id": "1wa9b1z",
+   "created_utc": 1788827389,
+   "subreddit": "Reformationclothing",
+   "upvotes": 25,
+   "comments": 33
+  },
+  {
+   "id": "1wa3eah",
+   "created_utc": 1788812701,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 2,
+   "comments": 2
+  },
+  {
+   "id": "1w9vwd5",
+   "created_utc": 1788796316,
+   "subreddit": "tamilyapping",
+   "upvotes": 7,
+   "comments": 17
+  },
+  {
+   "id": "1w9pk5o",
+   "created_utc": 1788780483,
+   "subreddit": "IPO_India",
+   "upvotes": 25,
+   "comments": 9
+  },
+  {
+   "id": "1w9p6y9",
+   "created_utc": 1788779348,
+   "subreddit": "u_RunSocialist",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w9nx6s",
+   "created_utc": 1788775183,
+   "subreddit": "u_Death_Gamer_Solo",
+   "upvotes": 9,
+   "comments": 3
+  },
+  {
+   "id": "1w9lgmg",
+   "created_utc": 1788766569,
+   "subreddit": "IPO_India",
+   "upvotes": 5,
+   "comments": 6
+  },
+  {
+   "id": "1w9g7sz",
+   "created_utc": 1788750129,
+   "subreddit": "IPO_India",
+   "upvotes": 6,
+   "comments": 4
+  },
+  {
+   "id": "1w9e0hb",
+   "created_utc": 1788743716,
+   "subreddit": "NepalStock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w8x6c7",
+   "created_utc": 1788703682,
+   "subreddit": "VCX_Fundrise",
+   "upvotes": 19,
+   "comments": 67
+  },
+  {
+   "id": "1w8tru5",
+   "created_utc": 1788694434,
+   "subreddit": "IPO_India",
+   "upvotes": 4,
+   "comments": 3
+  },
+  {
+   "id": "1w8tkx1",
+   "created_utc": 1788693811,
+   "subreddit": "InnerCircleInvesting",
+   "upvotes": 8,
+   "comments": 7
+  },
+  {
+   "id": "1w8nugh",
+   "created_utc": 1788674519,
+   "subreddit": "ClaudeCoding",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1w8krtu",
+   "created_utc": 1788664890,
+   "subreddit": "IPO_India",
+   "upvotes": 18,
+   "comments": 1
+  },
+  {
+   "id": "1w8k5zd",
+   "created_utc": 1788663098,
+   "subreddit": "MEXCReferralCodes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w8ikir",
+   "created_utc": 1788658393,
+   "subreddit": "Hasan_Piker",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1w8fraj",
+   "created_utc": 1788650483,
+   "subreddit": "opiniaoimpopular",
+   "upvotes": 39,
+   "comments": 42
+  },
+  {
+   "id": "1w8evt4",
+   "created_utc": 1788648207,
+   "subreddit": "tamilyapping",
+   "upvotes": 4,
+   "comments": 13
+  },
+  {
+   "id": "1w8e89x",
+   "created_utc": 1788646521,
+   "subreddit": "HamRadio",
+   "upvotes": 72,
+   "comments": 6
+  },
+  {
+   "id": "1w8b912",
+   "created_utc": 1788639273,
+   "subreddit": "uapdrop",
+   "upvotes": 0,
+   "comments": 2
+  },
+  {
+   "id": "1w88iud",
+   "created_utc": 1788633030,
+   "subreddit": "luftablassen",
+   "upvotes": 39,
+   "comments": 46
+  },
+  {
+   "id": "1w85u4z",
+   "created_utc": 1788626941,
+   "subreddit": "u_The_Bangtan_World",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w7y6sv",
+   "created_utc": 1788607630,
+   "subreddit": "IPO_India",
+   "upvotes": 38,
+   "comments": 14
+  },
+  {
+   "id": "1w7xkr0",
+   "created_utc": 1788605728,
+   "subreddit": "literaciafinanceira",
+   "upvotes": 38,
+   "comments": 74
+  },
+  {
+   "id": "1w7v7lk",
+   "created_utc": 1788597728,
+   "subreddit": "tamilyapping",
+   "upvotes": 5,
+   "comments": 11
+  },
+  {
+   "id": "1w7tq36",
+   "created_utc": 1788592527,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w7svzs",
+   "created_utc": 1788589821,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w7od8b",
+   "created_utc": 1788575708,
+   "subreddit": "ShadowBan",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1w7ocwy",
+   "created_utc": 1788575683,
+   "subreddit": "IPO_India",
+   "upvotes": 28,
+   "comments": 5
+  },
+  {
+   "id": "1w7n6n7",
+   "created_utc": 1788572240,
+   "subreddit": "Hasan_Piker",
+   "upvotes": 8,
+   "comments": 1
+  },
+  {
+   "id": "1w7fan6",
+   "created_utc": 1788552366,
+   "subreddit": "roboticbets",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w78acl",
+   "created_utc": 1788537318,
+   "subreddit": "BedrockNews",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1w77pma",
+   "created_utc": 1788536020,
+   "subreddit": "IndianStockMarket",
+   "upvotes": 1,
+   "comments": 8
+  },
+  {
+   "id": "1w72w53",
+   "created_utc": 1788524591,
+   "subreddit": "tamilyapping",
+   "upvotes": 173,
+   "comments": 50
+  },
+  {
+   "id": "1w713m7",
+   "created_utc": 1788519438,
+   "subreddit": "IPO_India",
+   "upvotes": 149,
+   "comments": 62
+  },
+  {
+   "id": "1w6sdbd",
+   "created_utc": 1788490823,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w6q59f",
+   "created_utc": 1788484505,
+   "subreddit": "NepalStock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w6ppgf",
+   "created_utc": 1788483316,
+   "subreddit": "Hasan_Piker",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1w6moct",
+   "created_utc": 1788475388,
+   "subreddit": "ChatGPTcomplaints",
+   "upvotes": 27,
+   "comments": 0
+  },
+  {
+   "id": "1w6adlu",
+   "created_utc": 1788448770,
+   "subreddit": "GuildWars3",
+   "upvotes": 182,
+   "comments": 88
+  },
+  {
+   "id": "1w632qr",
+   "created_utc": 1788429794,
+   "subreddit": "amcstock",
+   "upvotes": 45,
+   "comments": 14
+  },
+  {
+   "id": "1w628ak",
+   "created_utc": 1788426918,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w5taxz",
+   "created_utc": 1788398351,
+   "subreddit": "Hasan_Piker",
+   "upvotes": 4,
+   "comments": 1
+  },
+  {
+   "id": "1w5t7md",
+   "created_utc": 1788398106,
+   "subreddit": "NepalStock",
+   "upvotes": 4,
+   "comments": 1
+  },
+  {
+   "id": "1w5qhn6",
+   "created_utc": 1788390924,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w5q4h9",
+   "created_utc": 1788390000,
+   "subreddit": "redditstock",
+   "upvotes": 21,
+   "comments": 21
+  },
+  {
+   "id": "1w5l8ww",
+   "created_utc": 1788379010,
+   "subreddit": "WallstreetBaggers",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w5l8rf",
+   "created_utc": 1788379002,
+   "subreddit": "WallstreetWhales",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1w5k69k",
+   "created_utc": 1788376758,
+   "subreddit": "IPO_India",
+   "upvotes": 10,
+   "comments": 9
+  },
+  {
+   "id": "1w5i916",
+   "created_utc": 1788372766,
+   "subreddit": "TheRaceTo100K",
+   "upvotes": 12,
+   "comments": 6
+  },
+  {
+   "id": "1w5ghxq",
+   "created_utc": 1788369101,
+   "subreddit": "NIOCORP_MINE",
+   "upvotes": 21,
+   "comments": 13
+  },
+  {
+   "id": "1w5dmov",
+   "created_utc": 1788362969,
+   "subreddit": "AmazonofDeals",
+   "upvotes": 16,
+   "comments": 0
+  },
+  {
+   "id": "1w5a8p4",
+   "created_utc": 1788355361,
+   "subreddit": "IndianMutualFunds",
+   "upvotes": 1,
+   "comments": 7
+  },
+  {
+   "id": "1w59qca",
+   "created_utc": 1788354137,
+   "subreddit": "Indiastreetbets",
+   "upvotes": 4,
+   "comments": 1
+  },
+  {
+   "id": "1w56pku",
+   "created_utc": 1788345536,
+   "subreddit": "tamilyapping",
+   "upvotes": 4,
+   "comments": 6
+  },
+  {
+   "id": "1w53ut4",
+   "created_utc": 1788335716,
+   "subreddit": "redditstock",
+   "upvotes": 0,
+   "comments": 10
+  },
+  {
+   "id": "1w525de",
+   "created_utc": 1788329910,
+   "subreddit": "SpaceInvestorsDaily",
+   "upvotes": 66,
+   "comments": 17
+  },
+  {
+   "id": "1w4yo5a",
+   "created_utc": 1788319152,
+   "subreddit": "IPO_India",
+   "upvotes": 19,
+   "comments": 13
+  },
+  {
+   "id": "1w4wger",
+   "created_utc": 1788313023,
+   "subreddit": "Hasan_Piker",
+   "upvotes": 3,
+   "comments": 1
+  },
+  {
+   "id": "1w4vyzn",
+   "created_utc": 1788311713,
+   "subreddit": "NepalStock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w4uba7",
+   "created_utc": 1788307323,
+   "subreddit": "ClaudeCoding",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w4uarn",
+   "created_utc": 1788307290,
+   "subreddit": "ClaudeCoding",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w4u4qy",
+   "created_utc": 1788306913,
+   "subreddit": "AutoTuga",
+   "upvotes": 1784,
+   "comments": 315
+  },
+  {
+   "id": "1w4jg5y",
+   "created_utc": 1788285153,
+   "subreddit": "u_AllNewNewYorker",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w4j451",
+   "created_utc": 1788284476,
+   "subreddit": "kimi",
+   "upvotes": 14,
+   "comments": 24
+  },
+  {
+   "id": "1w4hwuv",
+   "created_utc": 1788282012,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w4cgon",
+   "created_utc": 1788270358,
+   "subreddit": "Series_6_Exam",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1w4c4mi",
+   "created_utc": 1788269567,
+   "subreddit": "IPO_India",
+   "upvotes": 15,
+   "comments": 23
+  },
+  {
+   "id": "1w49bao",
+   "created_utc": 1788262426,
+   "subreddit": "Funanc1al",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w48mef",
+   "created_utc": 1788260473,
+   "subreddit": "auntienetworkcanada",
+   "upvotes": 13,
+   "comments": 0
+  },
+  {
+   "id": "1w42qjm",
+   "created_utc": 1788240759,
+   "subreddit": "tamilyapping",
+   "upvotes": 11,
+   "comments": 69
+  },
+  {
+   "id": "1w41dqd",
+   "created_utc": 1788236534,
+   "subreddit": "redditstock",
+   "upvotes": 134,
+   "comments": 31
+  },
+  {
+   "id": "1w3yj1o",
+   "created_utc": 1788228424,
+   "subreddit": "CrudeOil",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w3xdsz",
+   "created_utc": 1788225310,
+   "subreddit": "NepalStock",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1w3uaxw",
+   "created_utc": 1788217640,
+   "subreddit": "redditstock",
+   "upvotes": 0,
+   "comments": 30
+  },
+  {
+   "id": "1w3qa4o",
+   "created_utc": 1788208853,
+   "subreddit": "GrowthStockInvesting",
+   "upvotes": 47,
+   "comments": 7
+  },
+  {
+   "id": "1w3pl75",
+   "created_utc": 1788207429,
+   "subreddit": "shopify",
+   "upvotes": 17,
+   "comments": 11
+  },
+  {
+   "id": "1w3php2",
+   "created_utc": 1788207226,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1w3ph81",
+   "created_utc": 1788207198,
+   "subreddit": "ecommerce",
+   "upvotes": 7,
+   "comments": 8
+  },
+  {
+   "id": "1w3ou74",
+   "created_utc": 1788205893,
+   "subreddit": "InterstellarKinetics",
+   "upvotes": 1211,
+   "comments": 94
+  },
+  {
+   "id": "1w3kila",
+   "created_utc": 1788197152,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1w3d3b0",
+   "created_utc": 1788181152,
+   "subreddit": "TradingEdge",
+   "upvotes": 24,
+   "comments": 1
+  },
+  {
+   "id": "1w37v52",
+   "created_utc": 1788165700,
+   "subreddit": "EODHistoricalData",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w36pxb",
+   "created_utc": 1788161723,
+   "subreddit": "TamilInfluencer",
+   "upvotes": 58,
+   "comments": 10
+  },
+  {
+   "id": "1w2z79h",
+   "created_utc": 1788138907,
+   "subreddit": "NepalStock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w2h17t",
+   "created_utc": 1788095026,
+   "subreddit": "IPO_India",
+   "upvotes": 27,
+   "comments": 5
+  },
+  {
+   "id": "1w1tpgz",
+   "created_utc": 1788027316,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w1td1u",
+   "created_utc": 1788026482,
+   "subreddit": "ClaudeCoding",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "1w1tacp",
+   "created_utc": 1788026316,
+   "subreddit": "CMO_Huddles",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1w1r82v",
+   "created_utc": 1788021431,
+   "subreddit": "VCX_Fundrise",
+   "upvotes": 20,
+   "comments": 49
+  },
+  {
+   "id": "1w1gyux",
+   "created_utc": 1787992215,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w12lp9",
+   "created_utc": 1787950592,
+   "subreddit": "VCX_Fundrise",
+   "upvotes": 12,
+   "comments": 221
+  },
+  {
+   "id": "1w0xaj7",
+   "created_utc": 1787938766,
+   "subreddit": "QuoteMarkets",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w0rs0j",
+   "created_utc": 1787926473,
+   "subreddit": "InnerCircleInvesting",
+   "upvotes": 21,
+   "comments": 3
+  },
+  {
+   "id": "1w0ly4s",
+   "created_utc": 1787910078,
+   "subreddit": "real_cucks_chennai",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1w0lxpx",
+   "created_utc": 1787910039,
+   "subreddit": "TamilCuckolds_",
+   "upvotes": 13,
+   "comments": 3
+  },
+  {
+   "id": "1w0lqiz",
+   "created_utc": 1787909329,
+   "subreddit": "stocks",
+   "upvotes": 778,
+   "comments": 619
+  },
+  {
+   "id": "1w0jf1m",
+   "created_utc": 1787900958,
+   "subreddit": "real_cucks_chennai",
+   "upvotes": 14,
+   "comments": 8
+  },
+  {
+   "id": "1w0ieg5",
+   "created_utc": 1787897397,
+   "subreddit": "IPO_India",
+   "upvotes": 23,
+   "comments": 17
+  },
+  {
+   "id": "1w0f4t5",
+   "created_utc": 1787887000,
+   "subreddit": "ValueInvesting",
+   "upvotes": 15,
+   "comments": 12
+  },
+  {
+   "id": "1w0cuox",
+   "created_utc": 1787880613,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w0cj1f",
+   "created_utc": 1787879716,
+   "subreddit": "NepalStock",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1w0avm3",
+   "created_utc": 1787875316,
+   "subreddit": "ClaudeCoding",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w02ght",
+   "created_utc": 1787855951,
+   "subreddit": "IPO_India",
+   "upvotes": 7,
+   "comments": 22
+  },
+  {
+   "id": "1w00f1s",
+   "created_utc": 1787851612,
+   "subreddit": "ValueInvesting",
+   "upvotes": 88,
+   "comments": 97
+  },
+  {
+   "id": "1vzu37g",
+   "created_utc": 1787837525,
+   "subreddit": "Funanc1al",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vzmwzc",
+   "created_utc": 1787815035,
+   "subreddit": "tamilyapping",
+   "upvotes": 7,
+   "comments": 22
+  },
+  {
+   "id": "1vzm41m",
+   "created_utc": 1787812221,
+   "subreddit": "SalemTN",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "1vzftaw",
+   "created_utc": 1787793317,
+   "subreddit": "NepalStock",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1vzanjd",
+   "created_utc": 1787780284,
+   "subreddit": "legion_M",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "1vz9qgm",
+   "created_utc": 1787778195,
+   "subreddit": "IPO_India",
+   "upvotes": 5,
+   "comments": 19
+  },
+  {
+   "id": "1vz54mf",
+   "created_utc": 1787768371,
+   "subreddit": "tamilyapping",
+   "upvotes": 7,
+   "comments": 37
+  },
+  {
+   "id": "1vz2jd6",
+   "created_utc": 1787762914,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vyzno6",
+   "created_utc": 1787756703,
+   "subreddit": "bodegacats",
+   "upvotes": 178,
+   "comments": 67
+  },
+  {
+   "id": "1vyue3s",
+   "created_utc": 1787743690,
+   "subreddit": "KeralaSpeaks",
+   "upvotes": 103,
+   "comments": 37
+  },
+  {
+   "id": "1vysqgx",
+   "created_utc": 1787738481,
+   "subreddit": "bitpanda",
+   "upvotes": 28,
+   "comments": 82
+  },
+  {
+   "id": "1vysmm3",
+   "created_utc": 1787738138,
+   "subreddit": "redditstock",
+   "upvotes": 38,
+   "comments": 47
+  },
+  {
+   "id": "1vyslsz",
+   "created_utc": 1787738062,
+   "subreddit": "u_bitpanda_official",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vyp1ga",
+   "created_utc": 1787725678,
+   "subreddit": "indianstocksequity",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vyk4wv",
+   "created_utc": 1787710981,
+   "subreddit": "AncientCush",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1vyima3",
+   "created_utc": 1787706906,
+   "subreddit": "NepalStock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vybju5",
+   "created_utc": 1787689750,
+   "subreddit": "u_enoumen",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1vyayhv",
+   "created_utc": 1787688528,
+   "subreddit": "xmen",
+   "upvotes": 378,
+   "comments": 125
+  },
+  {
+   "id": "1vy1owb",
+   "created_utc": 1787668706,
+   "subreddit": "MEXC_official",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vxtsxv",
+   "created_utc": 1787646181,
+   "subreddit": "GlInet",
+   "upvotes": 2,
+   "comments": 24
+  },
+  {
+   "id": "1vxsi0z",
+   "created_utc": 1787641512,
+   "subreddit": "Menopause",
+   "upvotes": 10,
+   "comments": 0
+  },
+  {
+   "id": "1vxllu8",
+   "created_utc": 1787620507,
+   "subreddit": "NepalStock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vxh5g4",
+   "created_utc": 1787609295,
+   "subreddit": "shopify",
+   "upvotes": 4,
+   "comments": 6
+  },
+  {
+   "id": "1vxh55p",
+   "created_utc": 1787609275,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "1vxh4rw",
+   "created_utc": 1787609251,
+   "subreddit": "ecommerce",
+   "upvotes": 15,
+   "comments": 3
+  },
+  {
+   "id": "1vxfisg",
+   "created_utc": 1787605574,
+   "subreddit": "wallstreetbets",
+   "upvotes": 3185,
+   "comments": 1081
+  },
+  {
+   "id": "1vxef4f",
+   "created_utc": 1787603147,
+   "subreddit": "soxl",
+   "upvotes": 21,
+   "comments": 3
+  },
+  {
+   "id": "1vxcp9l",
+   "created_utc": 1787599416,
+   "subreddit": "Internetupdates",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vx91l1",
+   "created_utc": 1787591839,
+   "subreddit": "ForgeGlobal",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vx78ik",
+   "created_utc": 1787587978,
+   "subreddit": "USGrowthStocks",
+   "upvotes": 21,
+   "comments": 22
+  },
+  {
+   "id": "1vx6mz7",
+   "created_utc": 1787586694,
+   "subreddit": "malaysians",
+   "upvotes": 10,
+   "comments": 2
+  },
+  {
+   "id": "1vx3wmt",
+   "created_utc": 1787580572,
+   "subreddit": "InnerCircleInvesting",
+   "upvotes": 16,
+   "comments": 6
+  },
+  {
+   "id": "1vx2dtc",
+   "created_utc": 1787576978,
+   "subreddit": "Claude_reports",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vx15vs",
+   "created_utc": 1787573836,
+   "subreddit": "EODHistoricalData",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vwqtwa",
+   "created_utc": 1787540068,
+   "subreddit": "VisualStockResearch",
+   "upvotes": 43,
+   "comments": 4
+  },
+  {
+   "id": "1vwoqx8",
+   "created_utc": 1787534107,
+   "subreddit": "NepalStock",
+   "upvotes": 5,
+   "comments": 2
+  },
+  {
+   "id": "1vwnoud",
+   "created_utc": 1787531144,
+   "subreddit": "Market_Forecasts",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1vvryql",
+   "created_utc": 1787443301,
+   "subreddit": "ClaudeCoding",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vvqj5f",
+   "created_utc": 1787439467,
+   "subreddit": "wallstreetbetsGER",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1vvmw20",
+   "created_utc": 1787430151,
+   "subreddit": "Claude_reports",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vvjd3z",
+   "created_utc": 1787421920,
+   "subreddit": "gotpaidonline",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vvi30a",
+   "created_utc": 1787418969,
+   "subreddit": "TradeVerseNetwork",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1vvfgkt",
+   "created_utc": 1787412731,
+   "subreddit": "InnerCircleInvesting",
+   "upvotes": 14,
+   "comments": 2
+  },
+  {
+   "id": "1vv87wl",
+   "created_utc": 1787392490,
+   "subreddit": "redditstock",
+   "upvotes": 73,
+   "comments": 22
+  },
+  {
+   "id": "1vusg4n",
+   "created_utc": 1787345866,
+   "subreddit": "HOTWIFEYph",
+   "upvotes": 25,
+   "comments": 7
+  },
+  {
+   "id": "1vukqaq",
+   "created_utc": 1787328750,
+   "subreddit": "GrowthStockInvesting",
+   "upvotes": 13,
+   "comments": 5
+  },
+  {
+   "id": "1vu22ms",
+   "created_utc": 1787274901,
+   "subreddit": "NepalStock",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1vtysqr",
+   "created_utc": 1787266425,
+   "subreddit": "ValueInvesting",
+   "upvotes": 2,
+   "comments": 13
+  },
+  {
+   "id": "1vtw0pe",
+   "created_utc": 1787259834,
+   "subreddit": "ArtificialInteligence",
+   "upvotes": 0,
+   "comments": 4
+  },
+  {
+   "id": "1vtvzv8",
+   "created_utc": 1787259779,
+   "subreddit": "USNEWS",
+   "upvotes": 7,
+   "comments": 0
+  },
+  {
+   "id": "1vtqwv5",
+   "created_utc": 1787248916,
+   "subreddit": "ClaudeCoding",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1vtqltd",
+   "created_utc": 1787248259,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vt58cz",
+   "created_utc": 1787188510,
+   "subreddit": "NepalStock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vt4ygc",
+   "created_utc": 1787187770,
+   "subreddit": "AlphaStructureLab",
+   "upvotes": 11,
+   "comments": 0
+  },
+  {
+   "id": "1vt2o1c",
+   "created_utc": 1787181870,
+   "subreddit": "umdolar",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1vsy4ue",
+   "created_utc": 1787171296,
+   "subreddit": "Purtle",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vsxal6",
+   "created_utc": 1787169478,
+   "subreddit": "Genshin_Lore",
+   "upvotes": 40,
+   "comments": 0
+  },
+  {
+   "id": "1vsttve",
+   "created_utc": 1787162072,
+   "subreddit": "China",
+   "upvotes": 30,
+   "comments": 8
+  },
+  {
+   "id": "1vsr2vq",
+   "created_utc": 1787156304,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1vsqsta",
+   "created_utc": 1787155722,
+   "subreddit": "redditstock",
+   "upvotes": 0,
+   "comments": 56
+  },
+  {
+   "id": "1vsmg11",
+   "created_utc": 1787146073,
+   "subreddit": "LeftistsForAI",
+   "upvotes": 60,
+   "comments": 27
+  },
+  {
+   "id": "1vslj64",
+   "created_utc": 1787143828,
+   "subreddit": "TradingEdge",
+   "upvotes": 30,
+   "comments": 0
+  },
+  {
+   "id": "1vskmh6",
+   "created_utc": 1787141381,
+   "subreddit": "Claude_reports",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vskg6j",
+   "created_utc": 1787140903,
+   "subreddit": "ClaudeCoding",
+   "upvotes": 6,
+   "comments": 0
+  },
+  {
+   "id": "1vskffg",
+   "created_utc": 1787140856,
+   "subreddit": "ClaudeCodeTLDR",
+   "upvotes": 32,
+   "comments": 13
+  },
+  {
+   "id": "1vsha97",
+   "created_utc": 1787130997,
+   "subreddit": "IndiaGrowthStocks",
+   "upvotes": 62,
+   "comments": 27
+  },
+  {
+   "id": "1vsgdan",
+   "created_utc": 1787127810,
+   "subreddit": "ValueInvesting",
+   "upvotes": 1,
+   "comments": 15
+  },
+  {
+   "id": "1vsf2fb",
+   "created_utc": 1787123199,
+   "subreddit": "u_raytoei",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1vseuxx",
+   "created_utc": 1787122517,
+   "subreddit": "tamilyapping",
+   "upvotes": 5,
+   "comments": 9
+  },
+  {
+   "id": "1vsczue",
+   "created_utc": 1787116364,
+   "subreddit": "ClaudeCode",
+   "upvotes": 19,
+   "comments": 92
+  },
+  {
+   "id": "1vscznu",
+   "created_utc": 1787116347,
+   "subreddit": "Claude_reports",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vs81ha",
+   "created_utc": 1787102112,
+   "subreddit": "NepalStock",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1vs6d8a",
+   "created_utc": 1787097714,
+   "subreddit": "ClaudeCoding",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vs3z3s",
+   "created_utc": 1787091732,
+   "subreddit": "threedolar",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vs35zb",
+   "created_utc": 1787089810,
+   "subreddit": "SDTarchive",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1vrtfnn",
+   "created_utc": 1787069142,
+   "subreddit": "HollowPointTrading",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1vrohup",
+   "created_utc": 1787058000,
+   "subreddit": "UltimateTraders",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1vrl5ew",
+   "created_utc": 1787048401,
+   "subreddit": "tradingDeck1",
+   "upvotes": 12,
+   "comments": 2
+  },
+  {
+   "id": "1vrgp8k",
+   "created_utc": 1787032878,
+   "subreddit": "ClaudeCoding",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "1vraw5o",
+   "created_utc": 1787015705,
+   "subreddit": "NepalStock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vr6zv3",
+   "created_utc": 1787005720,
+   "subreddit": "shopify",
+   "upvotes": 2,
+   "comments": 3
+  },
+  {
+   "id": "1vr6zoe",
+   "created_utc": 1787005706,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 4,
+   "comments": 3
+  },
+  {
+   "id": "1vr6zdf",
+   "created_utc": 1787005686,
+   "subreddit": "ecommerce",
+   "upvotes": 8,
+   "comments": 5
+  },
+  {
+   "id": "1vr44g0",
+   "created_utc": 1786999071,
+   "subreddit": "pennystocks",
+   "upvotes": 14,
+   "comments": 12
+  },
+  {
+   "id": "1vqw3xb",
+   "created_utc": 1786981799,
+   "subreddit": "IPO_India",
+   "upvotes": 59,
+   "comments": 16
+  },
+  {
+   "id": "1vqvbsg",
+   "created_utc": 1786980031,
+   "subreddit": "ValueInvesting",
+   "upvotes": 67,
+   "comments": 94
+  },
+  {
+   "id": "1vqsk6b",
+   "created_utc": 1786973778,
+   "subreddit": "redditstock",
+   "upvotes": 35,
+   "comments": 20
+  },
+  {
+   "id": "1vqpyh8",
+   "created_utc": 1786966974,
+   "subreddit": "EODHistoricalData",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1vqnj6i",
+   "created_utc": 1786959211,
+   "subreddit": "DailyLockScreenGems",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1vql3qj",
+   "created_utc": 1786950468,
+   "subreddit": "IPO_India",
+   "upvotes": 13,
+   "comments": 15
+  },
+  {
+   "id": "1vqea9z",
+   "created_utc": 1786929311,
+   "subreddit": "NepalStock",
+   "upvotes": 2,
+   "comments": 0
+  }
+ ],
+ "pre_filing_count": 0,
+ "post_listing_count": 0,
+ "pre_filing_complete": false,
+ "post_listing_complete": false,
+ "oldest_seen": "2026-08-17",
+ "pre_filing_window": [
+  "2023-11-24",
+  "2024-02-22"
+ ],
+ "post_listing_window": [
+  "2024-03-21",
+  "2024-06-19"
+ ],
+ "pre_filing_ids": [],
+ "post_listing_ids": []
+}

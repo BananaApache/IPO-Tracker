@@ -1,0 +1,237 @@
+{
+ "company": "Fervo Energy",
+ "query": "\"Fervo Energy\" IPO",
+ "aliases": [
+  "Fervo Energy"
+ ],
+ "s1_date": "2026-04-17",
+ "listing_date": "2026-05-13",
+ "oldest_needed": "2026-01-17",
+ "fetched_at": "2026-09-08T16:33:40.509168+00:00",
+ "service": "redditapis.com (third-party scraper, not the official Reddit API)",
+ "note": "No date-range parameter exists on this endpoint; t is relative to now. Windows are bucketed client-side from created_utc.",
+ "pages": 1,
+ "kept_posts": 26,
+ "discarded_no_mention": 3,
+ "reached_window_start": false,
+ "oldest_seen_ts": 1769460531,
+ "listing_ended": true,
+ "posts": [
+  {
+   "id": "1w4h70o",
+   "created_utc": 1788280541,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1w4cyqv",
+   "created_utc": 1788271495,
+   "subreddit": "FervoEnergy",
+   "upvotes": 4,
+   "comments": 5
+  },
+  {
+   "id": "1w49g6w",
+   "created_utc": 1788262810,
+   "subreddit": "TheDesperateTrader",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ug413a",
+   "created_utc": 1782472898,
+   "subreddit": "GreenWicks",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1ucptcs",
+   "created_utc": 1782146582,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u4rrlt",
+   "created_utc": 1781359296,
+   "subreddit": "kainjoo",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1u0yoxg",
+   "created_utc": 1780992237,
+   "subreddit": "MillionenGang",
+   "upvotes": 11,
+   "comments": 0
+  },
+  {
+   "id": "1u0yf3f",
+   "created_utc": 1780991268,
+   "subreddit": "stocknear",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "1tqsoic",
+   "created_utc": 1780034386,
+   "subreddit": "ArtificialInteligence",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tlepop",
+   "created_utc": 1779538062,
+   "subreddit": "BananasRepublicans",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1tl0kej",
+   "created_utc": 1779495110,
+   "subreddit": "INFPIdeas",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "1te6ukm",
+   "created_utc": 1778873995,
+   "subreddit": "geothermal",
+   "upvotes": 27,
+   "comments": 4
+  },
+  {
+   "id": "1tconfr",
+   "created_utc": 1778736651,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1tce5cn",
+   "created_utc": 1778709087,
+   "subreddit": "energy",
+   "upvotes": 3,
+   "comments": 3
+  },
+  {
+   "id": "1tce4yy",
+   "created_utc": 1778709065,
+   "subreddit": "globalelectrification",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1tc788k",
+   "created_utc": 1778694603,
+   "subreddit": "noticiones",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tc5ww4",
+   "created_utc": 1778691969,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1tbpl87",
+   "created_utc": 1778648048,
+   "subreddit": "EverHint",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1taiwii",
+   "created_utc": 1778539041,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1ta84cr",
+   "created_utc": 1778516317,
+   "subreddit": "EverHint",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1t9bjpk",
+   "created_utc": 1778430485,
+   "subreddit": "BottleneckInvesting",
+   "upvotes": 4,
+   "comments": 8
+  },
+  {
+   "id": "1t7hbon",
+   "created_utc": 1778266924,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1t4xn2e",
+   "created_utc": 1778027946,
+   "subreddit": "Agrtech",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1t3mq3e",
+   "created_utc": 1777912074,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 4
+  },
+  {
+   "id": "1ry1e74",
+   "created_utc": 1773929313,
+   "subreddit": "TheRaceTo1Million",
+   "upvotes": 4,
+   "comments": 4
+  },
+  {
+   "id": "1qnsgku",
+   "created_utc": 1769460531,
+   "subreddit": "accelerate",
+   "upvotes": 15,
+   "comments": 3
+  }
+ ],
+ "pre_filing_count": 2,
+ "post_listing_count": 15,
+ "pre_filing_complete": false,
+ "post_listing_complete": true,
+ "oldest_seen": "2026-01-26",
+ "pre_filing_window": [
+  "2026-01-17",
+  "2026-04-17"
+ ],
+ "post_listing_window": [
+  "2026-05-13",
+  "2026-08-11"
+ ],
+ "pre_filing_ids": [
+  "1ry1e74",
+  "1qnsgku"
+ ],
+ "post_listing_ids": [
+  "1ug413a",
+  "1ucptcs",
+  "1u4rrlt",
+  "1u0yoxg",
+  "1u0yf3f",
+  "1tqsoic",
+  "1tlepop",
+  "1tl0kej",
+  "1te6ukm",
+  "1tconfr",
+  "1tce5cn",
+  "1tce4yy",
+  "1tc788k",
+  "1tc5ww4",
+  "1tbpl87"
+ ]
+}

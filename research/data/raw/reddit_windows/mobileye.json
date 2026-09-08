@@ -1,0 +1,1426 @@
+{
+ "company": "Mobileye",
+ "query": "\"Mobileye\" IPO",
+ "aliases": [
+  "Mobileye"
+ ],
+ "s1_date": "2022-09-30",
+ "listing_date": "2022-10-26",
+ "oldest_needed": "2022-07-02",
+ "fetched_at": "2026-09-08T16:35:28.299843+00:00",
+ "service": "redditapis.com (third-party scraper, not the official Reddit API)",
+ "note": "No date-range parameter exists on this endpoint; t is relative to now. Windows are bucketed client-side from created_utc.",
+ "pages": 2,
+ "kept_posts": 192,
+ "discarded_no_mention": 8,
+ "reached_window_start": true,
+ "oldest_seen_ts": 1638986514,
+ "listing_ended": false,
+ "posts": [
+  {
+   "id": "1vqwlrw",
+   "created_utc": 1786983423,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vqr1pi",
+   "created_utc": 1786969956,
+   "subreddit": "u_TearRepresentative56",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1vqr10g",
+   "created_utc": 1786969899,
+   "subreddit": "TradingEdge",
+   "upvotes": 28,
+   "comments": 0
+  },
+  {
+   "id": "1v7zfv0",
+   "created_utc": 1785156516,
+   "subreddit": "TradingEdge",
+   "upvotes": 30,
+   "comments": 1
+  },
+  {
+   "id": "1v4dlyf",
+   "created_utc": 1784812489,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1u8nk9a",
+   "created_utc": 1781732501,
+   "subreddit": "accelerate",
+   "upvotes": 30,
+   "comments": 2
+  },
+  {
+   "id": "1u80kqa",
+   "created_utc": 1781671922,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 2
+  },
+  {
+   "id": "1u7szyz",
+   "created_utc": 1781650682,
+   "subreddit": "TechAfternoonReport",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1u7simh",
+   "created_utc": 1781649459,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u7iv1k",
+   "created_utc": 1781628252,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u7bjv3",
+   "created_utc": 1781611320,
+   "subreddit": "u_TearRepresentative56",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "1u7b9u2",
+   "created_utc": 1781610573,
+   "subreddit": "u_TearRepresentative56",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1u7b90t",
+   "created_utc": 1781610505,
+   "subreddit": "TradingEdge",
+   "upvotes": 31,
+   "comments": 0
+  },
+  {
+   "id": "1te0wj9",
+   "created_utc": 1778861439,
+   "subreddit": "wallstreetbetsGER",
+   "upvotes": 3,
+   "comments": 7
+  },
+  {
+   "id": "1syyfay",
+   "created_utc": 1777468314,
+   "subreddit": "OpenAI",
+   "upvotes": 0,
+   "comments": 2
+  },
+  {
+   "id": "1rcv21r",
+   "created_utc": 1771883269,
+   "subreddit": "BB_Stock",
+   "upvotes": 24,
+   "comments": 25
+  },
+  {
+   "id": "1qkaz0z",
+   "created_utc": 1769126063,
+   "subreddit": "stockwatching",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1qjvac1",
+   "created_utc": 1769090451,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1qc9vjt",
+   "created_utc": 1768354141,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1ozewzu",
+   "created_utc": 1763382344,
+   "subreddit": "intelstock",
+   "upvotes": 46,
+   "comments": 12
+  },
+  {
+   "id": "1ofsj66",
+   "created_utc": 1761401494,
+   "subreddit": "NBIS_Stock",
+   "upvotes": 65,
+   "comments": 29
+  },
+  {
+   "id": "1ny8k8v",
+   "created_utc": 1759619691,
+   "subreddit": "BB_Stock",
+   "upvotes": 62,
+   "comments": 18
+  },
+  {
+   "id": "1lrshk1",
+   "created_utc": 1751660661,
+   "subreddit": "ARBE_Investors",
+   "upvotes": 12,
+   "comments": 24
+  },
+  {
+   "id": "1l1vmnb",
+   "created_utc": 1748903089,
+   "subreddit": "intelstock",
+   "upvotes": 0,
+   "comments": 15
+  },
+  {
+   "id": "1jjicsw",
+   "created_utc": 1742906307,
+   "subreddit": "TradingEdge",
+   "upvotes": 97,
+   "comments": 3
+  },
+  {
+   "id": "1hcoi3t",
+   "created_utc": 1734019866,
+   "subreddit": "intelstock",
+   "upvotes": 28,
+   "comments": 17
+  },
+  {
+   "id": "1gr315v",
+   "created_utc": 1731584984,
+   "subreddit": "CattyInvestors",
+   "upvotes": 2,
+   "comments": 3
+  },
+  {
+   "id": "1fadlb9",
+   "created_utc": 1725624633,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1fadjxu",
+   "created_utc": 1725624516,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1fadje5",
+   "created_utc": 1725624470,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1fadiue",
+   "created_utc": 1725624420,
+   "subreddit": "StockMarketChat",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1es8ga4",
+   "created_utc": 1723658568,
+   "subreddit": "stocks",
+   "upvotes": 232,
+   "comments": 56
+  },
+  {
+   "id": "1d8t8d9",
+   "created_utc": 1717602545,
+   "subreddit": "stocks",
+   "upvotes": 38,
+   "comments": 16
+  },
+  {
+   "id": "1cfrrec",
+   "created_utc": 1714370373,
+   "subreddit": "wallstreetbets",
+   "upvotes": 453,
+   "comments": 350
+  },
+  {
+   "id": "17a41uh",
+   "created_utc": 1697564656,
+   "subreddit": "BB_Stock",
+   "upvotes": 27,
+   "comments": 42
+  },
+  {
+   "id": "142oqw8",
+   "created_utc": 1686075626,
+   "subreddit": "berlin",
+   "upvotes": 76,
+   "comments": 13
+  },
+  {
+   "id": "12xbh3p",
+   "created_utc": 1682333347,
+   "subreddit": "StockMarket",
+   "upvotes": 10,
+   "comments": 4
+  },
+  {
+   "id": "116j27z",
+   "created_utc": 1676828749,
+   "subreddit": "IsraelInvesting",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "10dff5b",
+   "created_utc": 1673878038,
+   "subreddit": "pennystocks",
+   "upvotes": 139,
+   "comments": 17
+  },
+  {
+   "id": "107yjjn",
+   "created_utc": 1673319369,
+   "subreddit": "u_familyfuntimetv",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "107hrz0",
+   "created_utc": 1673279599,
+   "subreddit": "pennystocks",
+   "upvotes": 66,
+   "comments": 4
+  },
+  {
+   "id": "zucqn3",
+   "created_utc": 1671897909,
+   "subreddit": "wallstreetbets",
+   "upvotes": 32,
+   "comments": 38
+  },
+  {
+   "id": "zpbc8g",
+   "created_utc": 1671405312,
+   "subreddit": "MotleyFools",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "zlqp3k",
+   "created_utc": 1671023817,
+   "subreddit": "StocksAndTrading",
+   "upvotes": 28,
+   "comments": 4
+  },
+  {
+   "id": "zl3395",
+   "created_utc": 1670956451,
+   "subreddit": "market_sentiment",
+   "upvotes": 18,
+   "comments": 6
+  },
+  {
+   "id": "zfm2zu",
+   "created_utc": 1670466276,
+   "subreddit": "globalworldnews",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "zenyoz",
+   "created_utc": 1670375343,
+   "subreddit": "EV_Trading_Community",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "ykp8f3",
+   "created_utc": 1667440875,
+   "subreddit": "shitstocktips",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "yg4q4f",
+   "created_utc": 1667002150,
+   "subreddit": "cwtblog",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "yer2xy",
+   "created_utc": 1666874825,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "yen6gr",
+   "created_utc": 1666862132,
+   "subreddit": "NewsfeedForWork",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "yen31s",
+   "created_utc": 1666861776,
+   "subreddit": "News_Transportation",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "yeiszu",
+   "created_utc": 1666846067,
+   "subreddit": "NewsfeedForWork",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "yei90h",
+   "created_utc": 1666844255,
+   "subreddit": "SelfDrivingCarsTech",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "yefxf9",
+   "created_utc": 1666837266,
+   "subreddit": "TrendsNewsWorld",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ye5g7y",
+   "created_utc": 1666809544,
+   "subreddit": "SelfDrivingCarsLie",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ye39mk",
+   "created_utc": 1666804082,
+   "subreddit": "RealTesla",
+   "upvotes": 10,
+   "comments": 0
+  },
+  {
+   "id": "ye29fu",
+   "created_utc": 1666801602,
+   "subreddit": "stocks",
+   "upvotes": 42,
+   "comments": 39
+  },
+  {
+   "id": "ydyrkc",
+   "created_utc": 1666792613,
+   "subreddit": "NewsfeedForWork",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "ydws0x",
+   "created_utc": 1666786963,
+   "subreddit": "TrendsNewsWorld",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ydwjzh",
+   "created_utc": 1666786283,
+   "subreddit": "intel",
+   "upvotes": 29,
+   "comments": 13
+  },
+  {
+   "id": "ydu83f",
+   "created_utc": 1666778729,
+   "subreddit": "WSJauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ydtj40",
+   "created_utc": 1666776030,
+   "subreddit": "TrendsNewsWorld",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ydstx2",
+   "created_utc": 1666773259,
+   "subreddit": "WSJauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ydrq5v",
+   "created_utc": 1666768859,
+   "subreddit": "TrendsNewsWorld",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ydpx3m",
+   "created_utc": 1666762066,
+   "subreddit": "SelfDrivingCars",
+   "upvotes": 22,
+   "comments": 3
+  },
+  {
+   "id": "ydp2wx",
+   "created_utc": 1666759205,
+   "subreddit": "News_facebook",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "ydokyq",
+   "created_utc": 1666757533,
+   "subreddit": "News_Microsoft",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ydojej",
+   "created_utc": 1666757394,
+   "subreddit": "stockxpo",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ydodyp",
+   "created_utc": 1666756894,
+   "subreddit": "AutonomousVehicles",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "ydoa0b",
+   "created_utc": 1666756549,
+   "subreddit": "News_Nvidia",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ydnots",
+   "created_utc": 1666754680,
+   "subreddit": "News_ArrowElectronic",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "ydjmav",
+   "created_utc": 1666742458,
+   "subreddit": "moneymarketnews",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ydjjds",
+   "created_utc": 1666742234,
+   "subreddit": "News_Semiconductor",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "yd6tsv",
+   "created_utc": 1666709715,
+   "subreddit": "amd_fundamentals",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "yd1ypo",
+   "created_utc": 1666695633,
+   "subreddit": "News_Manufacture",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ycpqw7",
+   "created_utc": 1666653643,
+   "subreddit": "TrendsNewsWorld",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ycinkq",
+   "created_utc": 1666635952,
+   "subreddit": "HireaWriter",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "yc6hqr",
+   "created_utc": 1666602647,
+   "subreddit": "wallstreetbets",
+   "upvotes": 10,
+   "comments": 10
+  },
+  {
+   "id": "y91bzd",
+   "created_utc": 1666279854,
+   "subreddit": "IPONews",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "y8mpvg",
+   "created_utc": 1666235601,
+   "subreddit": "WBrokerDailyTalk",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y8iz98",
+   "created_utc": 1666225245,
+   "subreddit": "EV_Trading_Community",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y83rhi",
+   "created_utc": 1666188631,
+   "subreddit": "SelfDrivingCarsTech",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "y8361f",
+   "created_utc": 1666187137,
+   "subreddit": "NewsfeedForWork",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "y80ti9",
+   "created_utc": 1666180806,
+   "subreddit": "realtech",
+   "upvotes": 0,
+   "comments": 1
+  },
+  {
+   "id": "y80h1b",
+   "created_utc": 1666179783,
+   "subreddit": "technology",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "y7uobl",
+   "created_utc": 1666159831,
+   "subreddit": "Aktienanalyse",
+   "upvotes": 6,
+   "comments": 0
+  },
+  {
+   "id": "y7kkeh",
+   "created_utc": 1666131123,
+   "subreddit": "News_Finance",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "y7j9tr",
+   "created_utc": 1666128063,
+   "subreddit": "TrendsNewsWorld",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y7ijsy",
+   "created_utc": 1666126437,
+   "subreddit": "News_Microsoft",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y7i1vo",
+   "created_utc": 1666125288,
+   "subreddit": "SelfDrivingCarsLie",
+   "upvotes": 6,
+   "comments": 0
+  },
+  {
+   "id": "y7hvih",
+   "created_utc": 1666124867,
+   "subreddit": "News_Nvidia",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y7g6q2",
+   "created_utc": 1666120918,
+   "subreddit": "u_Wonderful-Board-4992",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y7e3on",
+   "created_utc": 1666116070,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "y7dobb",
+   "created_utc": 1666115089,
+   "subreddit": "StockMarket",
+   "upvotes": 13,
+   "comments": 8
+  },
+  {
+   "id": "y7dmuv",
+   "created_utc": 1666114990,
+   "subreddit": "stocks",
+   "upvotes": 163,
+   "comments": 75
+  },
+  {
+   "id": "y7dj94",
+   "created_utc": 1666114760,
+   "subreddit": "marketgoats",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "y7ddf5",
+   "created_utc": 1666114382,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y7cnok",
+   "created_utc": 1666112714,
+   "subreddit": "wirtschafts_news_de",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y76vsp",
+   "created_utc": 1666099153,
+   "subreddit": "IPONews",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "y769b4",
+   "created_utc": 1666097577,
+   "subreddit": "NewsfeedForWork",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y762l2",
+   "created_utc": 1666097062,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "y761vz",
+   "created_utc": 1666097009,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "y761e0",
+   "created_utc": 1666096971,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y76014",
+   "created_utc": 1666096867,
+   "subreddit": "stocks",
+   "upvotes": 4,
+   "comments": 2
+  },
+  {
+   "id": "y75z1h",
+   "created_utc": 1666096794,
+   "subreddit": "StockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y75xmb",
+   "created_utc": 1666096679,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y75s2w",
+   "created_utc": 1666096246,
+   "subreddit": "MVIS",
+   "upvotes": 19,
+   "comments": 4
+  },
+  {
+   "id": "y73o1s",
+   "created_utc": 1666090205,
+   "subreddit": "News_Transportation",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y70mmo",
+   "created_utc": 1666080304,
+   "subreddit": "wirtschafts_news_de",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y6y36b",
+   "created_utc": 1666071512,
+   "subreddit": "RealTesla",
+   "upvotes": 13,
+   "comments": 1
+  },
+  {
+   "id": "y6pt7m",
+   "created_utc": 1666048180,
+   "subreddit": "stockxpo",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y6omid",
+   "created_utc": 1666045250,
+   "subreddit": "TrendsNewsWorld",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y6mc2y",
+   "created_utc": 1666039915,
+   "subreddit": "SelfDrivingCars",
+   "upvotes": 26,
+   "comments": 21
+  },
+  {
+   "id": "y6m5yb",
+   "created_utc": 1666039521,
+   "subreddit": "WSJauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y6m4vh",
+   "created_utc": 1666039454,
+   "subreddit": "WSJauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y3sm66",
+   "created_utc": 1665750494,
+   "subreddit": "News_Semiconductor",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "y030j3",
+   "created_utc": 1665368544,
+   "subreddit": "WBrokerDailyTalk",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xwfwd7",
+   "created_utc": 1664988903,
+   "subreddit": "RealTesla",
+   "upvotes": 7,
+   "comments": 3
+  },
+  {
+   "id": "xvm25v",
+   "created_utc": 1664906638,
+   "subreddit": "SelfDrivingCarsTech",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xu9o8i",
+   "created_utc": 1664771957,
+   "subreddit": "EV_Trading_Community",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xu6t47",
+   "created_utc": 1664763519,
+   "subreddit": "SelfDrivingCarsLie",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "xu4ui8",
+   "created_utc": 1664757993,
+   "subreddit": "MVIS",
+   "upvotes": 26,
+   "comments": 11
+  },
+  {
+   "id": "xu1j69",
+   "created_utc": 1664748921,
+   "subreddit": "intel",
+   "upvotes": 26,
+   "comments": 0
+  },
+  {
+   "id": "xu1hgu",
+   "created_utc": 1664748804,
+   "subreddit": "marketpredictors",
+   "upvotes": 3,
+   "comments": 1
+  },
+  {
+   "id": "xu1gua",
+   "created_utc": 1664748760,
+   "subreddit": "NoFilterNews",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "xu1gkg",
+   "created_utc": 1664748740,
+   "subreddit": "Wallstreetbetsnew",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "xu1fn9",
+   "created_utc": 1664748681,
+   "subreddit": "HereWeTrade",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "xu1evx",
+   "created_utc": 1664748630,
+   "subreddit": "tradespotting",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xu1e5e",
+   "created_utc": 1664748581,
+   "subreddit": "ValueInvesting",
+   "upvotes": 34,
+   "comments": 4
+  },
+  {
+   "id": "xu1b1d",
+   "created_utc": 1664748358,
+   "subreddit": "Shortsqueeze",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "xu19mc",
+   "created_utc": 1664748257,
+   "subreddit": "economy",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xtrffa",
+   "created_utc": 1664724145,
+   "subreddit": "hypeurls",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xtqk2r",
+   "created_utc": 1664721903,
+   "subreddit": "newsintechnology",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xtqh7i",
+   "created_utc": 1664721691,
+   "subreddit": "wallstreetbets",
+   "upvotes": 8,
+   "comments": 7
+  },
+  {
+   "id": "xto8j7",
+   "created_utc": 1664715614,
+   "subreddit": "playsiderscom",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xtjb3a",
+   "created_utc": 1664698843,
+   "subreddit": "TrendsNewsWorld",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xtc57c",
+   "created_utc": 1664674814,
+   "subreddit": "u_Wonderful-Board-4992",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xt2dbm",
+   "created_utc": 1664648444,
+   "subreddit": "TrendsNewsWorld",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xsjqge",
+   "created_utc": 1664591492,
+   "subreddit": "NewsfeedForWork",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "xsjar9",
+   "created_utc": 1664590184,
+   "subreddit": "stockxpo",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xsho75",
+   "created_utc": 1664585431,
+   "subreddit": "WSJauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xshi4j",
+   "created_utc": 1664584943,
+   "subreddit": "News_Transportation",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "xsheqw",
+   "created_utc": 1664584683,
+   "subreddit": "RealTesla",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "xsfe29",
+   "created_utc": 1664579104,
+   "subreddit": "technology",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "xsduku",
+   "created_utc": 1664575096,
+   "subreddit": "SelfDrivingCars",
+   "upvotes": 47,
+   "comments": 9
+  },
+  {
+   "id": "xsdpbb",
+   "created_utc": 1664574716,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xsdmh5",
+   "created_utc": 1664574515,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xsdhla",
+   "created_utc": 1664574165,
+   "subreddit": "IPO",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "xsdd13",
+   "created_utc": 1664573839,
+   "subreddit": "teslainvestorsclub",
+   "upvotes": 33,
+   "comments": 11
+  },
+  {
+   "id": "xroi1n",
+   "created_utc": 1664500771,
+   "subreddit": "stocks",
+   "upvotes": 245,
+   "comments": 131
+  },
+  {
+   "id": "xchkbs",
+   "created_utc": 1663000764,
+   "subreddit": "buzzfeedbot",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "x4yeoy",
+   "created_utc": 1662222209,
+   "subreddit": "ValueInvesting",
+   "upvotes": 48,
+   "comments": 17
+  },
+  {
+   "id": "wldcs0",
+   "created_utc": 1660177546,
+   "subreddit": "PLTR",
+   "upvotes": 105,
+   "comments": 46
+  },
+  {
+   "id": "w98fr0",
+   "created_utc": 1658907704,
+   "subreddit": "u_Zestyclose-Mammoth79",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "w49zkh",
+   "created_utc": 1658387128,
+   "subreddit": "u_MountainAstronomer35",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "w344b9",
+   "created_utc": 1658266212,
+   "subreddit": "SelfDrivingCars",
+   "upvotes": 36,
+   "comments": 32
+  },
+  {
+   "id": "vxs001",
+   "created_utc": 1657678529,
+   "subreddit": "SelfDrivingCars",
+   "upvotes": 24,
+   "comments": 2
+  },
+  {
+   "id": "vxbu4z",
+   "created_utc": 1657634143,
+   "subreddit": "EV_Trading_Community",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "vw4y9j",
+   "created_utc": 1657498283,
+   "subreddit": "SelfDrivingCarsLie",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "v3afgh",
+   "created_utc": 1654180941,
+   "subreddit": "BizSMG",
+   "upvotes": 1,
+   "comments": 31
+  },
+  {
+   "id": "v2h0sf",
+   "created_utc": 1654090080,
+   "subreddit": "BizSMG",
+   "upvotes": 2,
+   "comments": 25
+  },
+  {
+   "id": "uizxb9",
+   "created_utc": 1651764380,
+   "subreddit": "PSTH",
+   "upvotes": 5,
+   "comments": 7
+  },
+  {
+   "id": "u975au",
+   "created_utc": 1650605409,
+   "subreddit": "pippost",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "u8kgv6",
+   "created_utc": 1650537009,
+   "subreddit": "pippost",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "u4at6c",
+   "created_utc": 1650037188,
+   "subreddit": "EV_Trading_Community",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "u3n45c",
+   "created_utc": 1649958423,
+   "subreddit": "News_GoldmanSachs",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "tcu9yh",
+   "created_utc": 1647129507,
+   "subreddit": "SelfDrivingCars",
+   "upvotes": 10,
+   "comments": 21
+  },
+  {
+   "id": "tcn1cv",
+   "created_utc": 1647108054,
+   "subreddit": "IPONews",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "tagicr",
+   "created_utc": 1646856949,
+   "subreddit": "SelfDrivingCarsTech",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "t9tbr7",
+   "created_utc": 1646780412,
+   "subreddit": "pippost",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "t9l1qh",
+   "created_utc": 1646758008,
+   "subreddit": "newsintechnology",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "t9g495",
+   "created_utc": 1646743814,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "t9fday",
+   "created_utc": 1646741109,
+   "subreddit": "pippost",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "t9d64l",
+   "created_utc": 1646732020,
+   "subreddit": "RealTesla",
+   "upvotes": 14,
+   "comments": 1
+  },
+  {
+   "id": "t90bap",
+   "created_utc": 1646689328,
+   "subreddit": "market_sentiment",
+   "upvotes": 47,
+   "comments": 1
+  },
+  {
+   "id": "t90azn",
+   "created_utc": 1646689306,
+   "subreddit": "FluentInFinance",
+   "upvotes": 6,
+   "comments": 2
+  },
+  {
+   "id": "t90ams",
+   "created_utc": 1646689281,
+   "subreddit": "StockMarket",
+   "upvotes": 22,
+   "comments": 2
+  },
+  {
+   "id": "t8yllx",
+   "created_utc": 1646684851,
+   "subreddit": "News_Transportation",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "t8t7vd",
+   "created_utc": 1646670957,
+   "subreddit": "MVIS",
+   "upvotes": 32,
+   "comments": 19
+  },
+  {
+   "id": "t8t5wd",
+   "created_utc": 1646670816,
+   "subreddit": "SelfDrivingCarsLie",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "t8sxry",
+   "created_utc": 1646670204,
+   "subreddit": "News_Semiconductor",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "t8sof2",
+   "created_utc": 1646669495,
+   "subreddit": "NewsfeedForWork",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "t8s3ub",
+   "created_utc": 1646667986,
+   "subreddit": "NewsfeedForWork",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "t8rfw0",
+   "created_utc": 1646666178,
+   "subreddit": "stocks",
+   "upvotes": 26,
+   "comments": 11
+  },
+  {
+   "id": "t8rc8w",
+   "created_utc": 1646665909,
+   "subreddit": "investing",
+   "upvotes": 102,
+   "comments": 25
+  },
+  {
+   "id": "sh0pwv",
+   "created_utc": 1643634055,
+   "subreddit": "INTC_stock",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "s0ncv2",
+   "created_utc": 1641830554,
+   "subreddit": "investing",
+   "upvotes": 72,
+   "comments": 117
+  },
+  {
+   "id": "ril6ek",
+   "created_utc": 1639758699,
+   "subreddit": "streetguru",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "rfnwz0",
+   "created_utc": 1639423930,
+   "subreddit": "IsraelPalestine",
+   "upvotes": 25,
+   "comments": 31
+  },
+  {
+   "id": "rbxjey",
+   "created_utc": 1638987750,
+   "subreddit": "AMD_Technology_Bets",
+   "upvotes": 19,
+   "comments": 0
+  },
+  {
+   "id": "rbx33g",
+   "created_utc": 1638986514,
+   "subreddit": "streetguru",
+   "upvotes": 3,
+   "comments": 0
+  }
+ ],
+ "pre_filing_count": 9,
+ "post_listing_count": 35,
+ "pre_filing_complete": true,
+ "post_listing_complete": true,
+ "oldest_seen": "2021-12-08",
+ "pre_filing_window": [
+  "2022-07-02",
+  "2022-09-30"
+ ],
+ "post_listing_window": [
+  "2022-10-26",
+  "2023-01-24"
+ ],
+ "pre_filing_ids": [
+  "xchkbs",
+  "x4yeoy",
+  "wldcs0",
+  "w98fr0",
+  "w49zkh",
+  "w344b9",
+  "vxs001",
+  "vxbu4z",
+  "vw4y9j"
+ ],
+ "post_listing_ids": [
+  "10dff5b",
+  "107yjjn",
+  "107hrz0",
+  "zucqn3",
+  "zpbc8g",
+  "zlqp3k",
+  "zl3395",
+  "zfm2zu",
+  "zenyoz",
+  "ykp8f3",
+  "yg4q4f",
+  "yer2xy",
+  "yen6gr",
+  "yen31s",
+  "yeiszu",
+  "yei90h",
+  "yefxf9",
+  "ye5g7y",
+  "ye39mk",
+  "ye29fu",
+  "ydyrkc",
+  "ydws0x",
+  "ydwjzh",
+  "ydu83f",
+  "ydtj40",
+  "ydstx2",
+  "ydrq5v",
+  "ydpx3m",
+  "ydp2wx",
+  "ydokyq",
+  "ydojej",
+  "ydodyp",
+  "ydoa0b",
+  "ydnots",
+  "ydjmav"
+ ]
+}

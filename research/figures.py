@@ -69,6 +69,7 @@ FIG_PANELS = FIGURES / "company_panels.parquet"
 FIG_RELATIVE = FIGURES / "relative_time.parquet"
 FIG_POST = FIGURES / "post_listing.parquet"
 FIG_WINDOWS = FIGURES / "twitter_windows.parquet"
+FIG_REDDIT_WINDOWS = FIGURES / "reddit_windows.parquet"
 FIG_MANIFEST = FIGURES / "manifest.json"
 
 
@@ -473,11 +474,47 @@ def build_windows_frame() -> pd.DataFrame:
     return df
 
 
+def build_reddit_windows_frame() -> pd.DataFrame:
+    """Figure 4b: paired Reddit post counts over the same two windows.
+
+    Only rows where **both** windows are complete survive. Reddit's endpoint has
+    no date range at all, so windows are bucketed client-side from a `sort=new`
+    sweep; a sweep that never paged back past a window's start has not measured
+    that window, and an incomplete count of zero means "never looked", not
+    "nothing there". 28 of 39 sweeps are incomplete for that reason -- Reddit
+    stopped issuing a pagination cursor, which no budget can fix.
+    """
+    from research.collect.reddit_windows import REDDIT_PARQUET
+
+    if not REDDIT_PARQUET.exists():
+        return pd.DataFrame()
+    d = pd.read_parquet(REDDIT_PARQUET)
+    df = d[d["counts_complete"]].copy()
+    if df.empty:
+        return df
+    df = df.rename(columns={"pre_filing_count": "pre_filing",
+                            "post_listing_count": "post_listing"})
+    # A complete sweep gives a real count on both sides, so every surviving pair
+    # supports a magnitude -- unlike the X windows, where most are floors.
+    df["pre_filing_q"] = "exact"
+    df["post_listing_q"] = "exact"
+    df["both_exact"] = True
+    df["magnitude_valid"] = True
+    df["direction_established"] = df["post_listing"] != df["pre_filing"]
+    df["rose"] = df["post_listing"] > df["pre_filing"]
+    out = df[["company", "pre_filing", "post_listing", "pre_filing_q",
+              "post_listing_q", "both_exact", "magnitude_valid",
+              "direction_established", "rose", "pages", "oldest_seen"]]
+    out.to_parquet(FIG_REDDIT_WINDOWS, index=False)
+    return out
+
+
 def build_frames() -> dict[str, int]:
     """Build every figure frame and record what went into them."""
     ensure_dirs()
     counts = {
         "twitter_windows": len(build_windows_frame()),
+        "reddit_windows": len(build_reddit_windows_frame()),
         "cohort_comparison": len(build_cohort_frame()),
         "company_panels": len(build_panel_frame()),
         "relative_time": len(build_relative_frame()),
@@ -826,8 +863,8 @@ def plot_post_listing(companies: list[str] | None = None):
     return fig
 
 
-def plot_windows():
-    """Figure 4. Paired X post counts: 90 days before filing vs after listing.
+def plot_windows(source: str = "twitter"):
+    """Figure 4. Paired social post counts, before filing vs after listing.
 
     A slope chart, because the data is paired and the within-company change is
     the question. Solid lines are pairs where both counts are exact; dashed
@@ -835,9 +872,14 @@ def plot_windows():
     bound, so its slope understates the true change.
     """
     _style()
-    df = pd.read_parquet(FIG_WINDOWS)
+    path = {"twitter": FIG_WINDOWS, "reddit": FIG_REDDIT_WINDOWS}[source]
+    if not path.exists():
+        raise SystemExit(f"no {source} window frame; run its collector first.")
+    df = pd.read_parquet(path)
     if df.empty:
-        raise SystemExit("no window pairs; run collect.twitter_windows first.")
+        raise SystemExit(f"no {source} window pairs.")
+    label = {"twitter": "X", "reddit": "Reddit"}[source]
+    provider = {"twitter": "twitterapis.com", "reddit": "redditapis.com"}[source]
 
     fig, ax = plt.subplots(figsize=(8.4, 6.4))
     # Incomparable pairs are EXCLUDED, not drawn faintly. A slope whose gradient
@@ -862,35 +904,44 @@ def plot_windows():
     ax.set_xticklabels([f"90 days before\npublic S-1", f"90 days after\nlisting"])
     ax.set_xlim(-0.15, 1.55)
     ax.set_ylabel('posts matching \'"<company>" IPO\'')
-    ax.set_title("Figure 4 — X chatter before filing vs after listing", loc="left")
+    ax.set_title(f"Figure 4 — {label} chatter before filing vs after listing",
+                 loc="left")
     ax.yaxis.grid(True)
     ax.set_axisbelow(True)
 
     from matplotlib.lines import Line2D
-    ax.legend(handles=[
-        Line2D([], [], color=BLUE, linewidth=2, marker="o",
-               label="both counts exact"),
-        Line2D([], [], color=INK_SOFT, linewidth=1.2, linestyle=(0, (4, 3)),
-               alpha=0.5, marker="o",
-               label="direction established, magnitude not (one side a floor)"),
-    ], loc="upper left")
+    handles = [Line2D([], [], color=BLUE, linewidth=2, marker="o",
+                      label="both counts exact")]
+    # Only offered when such a line is actually drawn. A legend entry with no
+    # corresponding mark tells the reader to look for something that is not there.
+    if (~drawn["magnitude_valid"]).any():
+        handles.append(Line2D([], [], color=INK_SOFT, linewidth=1.2,
+                              linestyle=(0, (4, 3)), alpha=0.5, marker="o",
+                              label="direction established, magnitude not "
+                                    "(one side a floor)"))
+    ax.legend(handles=handles, loc="upper left")
 
     n_exact = int(df["magnitude_valid"].sum())
     rose_exact = int(df.loc[df["magnitude_valid"], "rose"].sum())
     n_excluded = int((~df["direction_established"]).sum())
-    fig.text(0.01, -0.13,
-             f"{len(drawn)} pairs drawn of {len(df)} usable — every one of them "
-             f"rises. Among the {n_exact} with two exact counts, "
-             f"{rose_exact} of {n_exact} rose.\n"
-             f"Counts are treated as intervals: exact c is [c, c], a censored "
-             f"count c is [c, INF). A pair is drawn only where one floor clears "
-             f"the other's ceiling.\n"
-             f"{n_excluded} pairs are excluded on that test (Bullish, Klarna, "
-             f"Palantir, Reddit, Rivian) — their intervals overlap, so no "
-             f"direction follows in either direction.\n"
-             f"Dashed = one side is a floor, so the slope is a lower bound on "
-             f"the rise, not its size. Source: twitterapis.com, an unofficial "
-             f"scraper, on one narrow query.",
+    # Assembled as a list and joined. A conditional clause spliced into a run of
+    # adjacent f-strings is a syntax error, and the earlier version of this was.
+    lines = [
+        f"{len(drawn)} pairs drawn of {len(df)} usable — every one of them rises. "
+        f"Among the {n_exact} with two exact counts, {rose_exact} of "
+        f"{n_exact} rose.",
+        "Counts are treated as intervals: exact c is [c, c], a censored count c "
+        "is [c, INF). A pair is drawn only where one floor clears the other's "
+        "ceiling.",
+    ]
+    if n_excluded:
+        lines.append(f"{n_excluded} pairs are excluded on that test — their "
+                     f"intervals overlap, so no direction follows either way.")
+        lines.append("Dashed = one side is a floor, so the slope is a lower "
+                     "bound on the rise, not its size.")
+    lines.append(f"Source: {provider}, an unofficial scraper, on one narrow "
+                 f"query — not a count of all mentions.")
+    fig.text(0.01, -0.13, "\n".join(lines),
              fontsize=8, color=INK_SOFT, ha="left", linespacing=1.5)
     fig.tight_layout()
     return fig

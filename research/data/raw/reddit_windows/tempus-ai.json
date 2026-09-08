@@ -1,0 +1,448 @@
+{
+ "company": "Tempus AI",
+ "query": "\"Tempus AI\" IPO",
+ "aliases": [
+  "Tempus AI"
+ ],
+ "s1_date": "2024-05-20",
+ "listing_date": "2024-06-14",
+ "oldest_needed": "2024-02-20",
+ "fetched_at": "2026-09-08T16:34:39.722206+00:00",
+ "service": "redditapis.com (third-party scraper, not the official Reddit API)",
+ "note": "No date-range parameter exists on this endpoint; t is relative to now. Windows are bucketed client-side from created_utc.",
+ "pages": 1,
+ "kept_posts": 58,
+ "discarded_no_mention": 5,
+ "reached_window_start": false,
+ "oldest_seen_ts": 1717680621,
+ "listing_ended": true,
+ "posts": [
+  {
+   "id": "1wacb1z",
+   "created_utc": 1788835748,
+   "subreddit": "GrowthStockInvesting",
+   "upvotes": 12,
+   "comments": 0
+  },
+  {
+   "id": "1w4h70o",
+   "created_utc": 1788280541,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1vu6g4w",
+   "created_utc": 1787287511,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vsrpc3",
+   "created_utc": 1787157612,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vsr2vq",
+   "created_utc": 1787156304,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1v1zp9s",
+   "created_utc": 1784585473,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uffli1",
+   "created_utc": 1782406340,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u1jw1z",
+   "created_utc": 1781043821,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1txf1r3",
+   "created_utc": 1780648661,
+   "subreddit": "BYDFiCryptoExchange",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tkuzbj",
+   "created_utc": 1779481792,
+   "subreddit": "stocks",
+   "upvotes": 0,
+   "comments": 30
+  },
+  {
+   "id": "1tkuy6j",
+   "created_utc": 1779481720,
+   "subreddit": "ValueInvesting",
+   "upvotes": 75,
+   "comments": 235
+  },
+  {
+   "id": "1qc9vjt",
+   "created_utc": 1768354141,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1ptaun7",
+   "created_utc": 1766437252,
+   "subreddit": "pennystocks",
+   "upvotes": 5,
+   "comments": 5
+  },
+  {
+   "id": "1pt7mze",
+   "created_utc": 1766429580,
+   "subreddit": "ai_trading",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1peuhsp",
+   "created_utc": 1764939734,
+   "subreddit": "moomoo_official",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1p1ahcs",
+   "created_utc": 1763565709,
+   "subreddit": "u_Tuttle_Cap_Mgmt",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1oad1eb",
+   "created_utc": 1760836951,
+   "subreddit": "wallstreetbetsGER",
+   "upvotes": 0,
+   "comments": 3
+  },
+  {
+   "id": "1n6hql6",
+   "created_utc": 1756814991,
+   "subreddit": "WallStreetbetsELITE",
+   "upvotes": 81,
+   "comments": 10
+  },
+  {
+   "id": "1n6hq7x",
+   "created_utc": 1756814962,
+   "subreddit": "swingtrading",
+   "upvotes": 63,
+   "comments": 5
+  },
+  {
+   "id": "1n6hpxd",
+   "created_utc": 1756814938,
+   "subreddit": "TradingEdge",
+   "upvotes": 69,
+   "comments": 0
+  },
+  {
+   "id": "1n6hpdh",
+   "created_utc": 1756814893,
+   "subreddit": "Daytrading",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1moha6g",
+   "created_utc": 1755024470,
+   "subreddit": "StockMarket2024",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ml990q",
+   "created_utc": 1754692633,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1mktbag",
+   "created_utc": 1754654561,
+   "subreddit": "SECFilingsAI",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1mhwmll",
+   "created_utc": 1754359134,
+   "subreddit": "midmarketplace",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1lqx64m",
+   "created_utc": 1751567625,
+   "subreddit": "pennystocks",
+   "upvotes": 48,
+   "comments": 27
+  },
+  {
+   "id": "1lqwvbv",
+   "created_utc": 1751566905,
+   "subreddit": "smallstreetbets",
+   "upvotes": 2,
+   "comments": 4
+  },
+  {
+   "id": "1lqtvj7",
+   "created_utc": 1751559823,
+   "subreddit": "StockInvest",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1lqttj3",
+   "created_utc": 1751559683,
+   "subreddit": "PennyStocksWatch",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1lqtstg",
+   "created_utc": 1751559640,
+   "subreddit": "SmallCapStocks",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1lqtqat",
+   "created_utc": 1751559471,
+   "subreddit": "Pennystock",
+   "upvotes": 5,
+   "comments": 2
+  },
+  {
+   "id": "1lqtnqh",
+   "created_utc": 1751559308,
+   "subreddit": "biotech_stocks",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1lqtn33",
+   "created_utc": 1751559262,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 3,
+   "comments": 1
+  },
+  {
+   "id": "1lqtm6a",
+   "created_utc": 1751559198,
+   "subreddit": "10xPennyStocks",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1lqtlgs",
+   "created_utc": 1751559147,
+   "subreddit": "stockstobuytoday",
+   "upvotes": 2,
+   "comments": 3
+  },
+  {
+   "id": "1lqtkh2",
+   "created_utc": 1751559081,
+   "subreddit": "RobinHoodPennyStocks",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1lqta3s",
+   "created_utc": 1751558390,
+   "subreddit": "DeepFuckingValue",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1lqt7y3",
+   "created_utc": 1751558244,
+   "subreddit": "wallstreetbets2",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1l1v2hx",
+   "created_utc": 1748901670,
+   "subreddit": "ChartNavigators",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1kl7b9b",
+   "created_utc": 1747092522,
+   "subreddit": "DACXI",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1k7gksb",
+   "created_utc": 1745572687,
+   "subreddit": "smallstreetbets",
+   "upvotes": 14,
+   "comments": 10
+  },
+  {
+   "id": "1ixw39r",
+   "created_utc": 1740493269,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ixw2r4",
+   "created_utc": 1740493229,
+   "subreddit": "stocks",
+   "upvotes": 14,
+   "comments": 3
+  },
+  {
+   "id": "1ixw1z4",
+   "created_utc": 1740493169,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ixw1jq",
+   "created_utc": 1740493135,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ixw13e",
+   "created_utc": 1740493099,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1it65tc",
+   "created_utc": 1739973709,
+   "subreddit": "DACXI",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1isyh3s",
+   "created_utc": 1739944561,
+   "subreddit": "moomoo_official",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "1indg92",
+   "created_utc": 1739318346,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1i90hsq",
+   "created_utc": 1737738886,
+   "subreddit": "Junior_Stocks",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1fnicas",
+   "created_utc": 1727091712,
+   "subreddit": "DACXI",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1dszia0",
+   "created_utc": 1719856777,
+   "subreddit": "WallStreetbetsELITE",
+   "upvotes": 3,
+   "comments": 1
+  },
+  {
+   "id": "1dszgu6",
+   "created_utc": 1719856682,
+   "subreddit": "SqueezePlays",
+   "upvotes": 4,
+   "comments": 1
+  },
+  {
+   "id": "1dszekw",
+   "created_utc": 1719856531,
+   "subreddit": "Shortsqueeze",
+   "upvotes": 8,
+   "comments": 15
+  },
+  {
+   "id": "1dh2mz4",
+   "created_utc": 1718524365,
+   "subreddit": "Affari_Finanza",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1dh2mrv",
+   "created_utc": 1718524342,
+   "subreddit": "u__moneyfeel",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ddhs23",
+   "created_utc": 1718121822,
+   "subreddit": "medlabprofessionals",
+   "upvotes": 2,
+   "comments": 30
+  },
+  {
+   "id": "1d9i7t3",
+   "created_utc": 1717680621,
+   "subreddit": "Multiplatform_AI",
+   "upvotes": 3,
+   "comments": 0
+  }
+ ],
+ "pre_filing_count": 0,
+ "post_listing_count": 5,
+ "pre_filing_complete": false,
+ "post_listing_complete": true,
+ "oldest_seen": "2024-06-06",
+ "pre_filing_window": [
+  "2024-02-20",
+  "2024-05-20"
+ ],
+ "post_listing_window": [
+  "2024-06-14",
+  "2024-09-12"
+ ],
+ "pre_filing_ids": [],
+ "post_listing_ids": [
+  "1dszia0",
+  "1dszgu6",
+  "1dszekw",
+  "1dh2mz4",
+  "1dh2mrv"
+ ]
+}

@@ -1,0 +1,596 @@
+{
+ "company": "Rivian",
+ "query": "\"Rivian\" IPO",
+ "aliases": [
+  "Rivian"
+ ],
+ "s1_date": "2021-10-01",
+ "listing_date": "2021-11-10",
+ "oldest_needed": "2021-07-03",
+ "fetched_at": "2026-09-08T16:35:36.652597+00:00",
+ "service": "redditapis.com (third-party scraper, not the official Reddit API)",
+ "note": "No date-range parameter exists on this endpoint; t is relative to now. Windows are bucketed client-side from created_utc.",
+ "pages": 2,
+ "kept_posts": 80,
+ "discarded_no_mention": 20,
+ "reached_window_start": false,
+ "oldest_seen_ts": 1775150952,
+ "listing_ended": true,
+ "posts": [
+  {
+   "id": "1vlvr6u",
+   "created_utc": 1786486389,
+   "subreddit": "MonopolyMOAT",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1vetfvr",
+   "created_utc": 1785799441,
+   "subreddit": "Rivian",
+   "upvotes": 0,
+   "comments": 11
+  },
+  {
+   "id": "1vbh2sf",
+   "created_utc": 1785473942,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1vb7xen",
+   "created_utc": 1785449362,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1v4is39",
+   "created_utc": 1784823890,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uyxpl4",
+   "created_utc": 1784289700,
+   "subreddit": "stockwatching",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1uwvlrm",
+   "created_utc": 1784090127,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1uwgnse",
+   "created_utc": 1784052914,
+   "subreddit": "RivianR1S",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "1uwglhc",
+   "created_utc": 1784052784,
+   "subreddit": "RivianR3XEnthusiasts",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "1uqwg87",
+   "created_utc": 1783525469,
+   "subreddit": "StocksTool",
+   "upvotes": 3,
+   "comments": 1
+  },
+  {
+   "id": "1uqdve0",
+   "created_utc": 1783472285,
+   "subreddit": "MotorBuzz",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uq9zie",
+   "created_utc": 1783462687,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uq8vd7",
+   "created_utc": 1783460139,
+   "subreddit": "HollowPointTrading",
+   "upvotes": 3,
+   "comments": 2
+  },
+  {
+   "id": "1uq0i63",
+   "created_utc": 1783442491,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1uprjgr",
+   "created_utc": 1783421496,
+   "subreddit": "ChartLaboratory",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uplka9",
+   "created_utc": 1783401575,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1upcf7n",
+   "created_utc": 1783376941,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1um41ss",
+   "created_utc": 1783052013,
+   "subreddit": "StocksTool",
+   "upvotes": 2,
+   "comments": 4
+  },
+  {
+   "id": "1ulwi2m",
+   "created_utc": 1783030883,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ulnphj",
+   "created_utc": 1783011145,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ujy6ex",
+   "created_utc": 1782845964,
+   "subreddit": "RIVN_Stock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ujy61r",
+   "created_utc": 1782845942,
+   "subreddit": "EVStocks",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1ui5qci",
+   "created_utc": 1782673517,
+   "subreddit": "RIVNstock",
+   "upvotes": 109,
+   "comments": 367
+  },
+  {
+   "id": "1ud5dqc",
+   "created_utc": 1782183807,
+   "subreddit": "TechAfternoonReport",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u8occ2",
+   "created_utc": 1781734358,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u88xx5",
+   "created_utc": 1781699654,
+   "subreddit": "SpaceInvestorsDaily",
+   "upvotes": 3,
+   "comments": 11
+  },
+  {
+   "id": "1u84qak",
+   "created_utc": 1781686261,
+   "subreddit": "WallStreetbetsELITE",
+   "upvotes": 2,
+   "comments": 5
+  },
+  {
+   "id": "1u80kqa",
+   "created_utc": 1781671922,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 2
+  },
+  {
+   "id": "1u7pext",
+   "created_utc": 1781642217,
+   "subreddit": "RivenMarket",
+   "upvotes": 0,
+   "comments": 2
+  },
+  {
+   "id": "1u7p959",
+   "created_utc": 1781641847,
+   "subreddit": "RivianR2",
+   "upvotes": 0,
+   "comments": 1
+  },
+  {
+   "id": "1u70icj",
+   "created_utc": 1781575587,
+   "subreddit": "wallstreetbets",
+   "upvotes": 93,
+   "comments": 102
+  },
+  {
+   "id": "1u4h72b",
+   "created_utc": 1781324813,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1u47q1z",
+   "created_utc": 1781298568,
+   "subreddit": "RIVN_Stock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u47occ",
+   "created_utc": 1781298454,
+   "subreddit": "RivianR1T",
+   "upvotes": 7,
+   "comments": 2
+  },
+  {
+   "id": "1u46pmz",
+   "created_utc": 1781296186,
+   "subreddit": "Purtle",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1u3ab6r",
+   "created_utc": 1781209305,
+   "subreddit": "economy",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1u1oecv",
+   "created_utc": 1781055657,
+   "subreddit": "TechAfternoonReport",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1u1aemd",
+   "created_utc": 1781023307,
+   "subreddit": "SmallCapStocks",
+   "upvotes": 3,
+   "comments": 2
+  },
+  {
+   "id": "1u19y5t",
+   "created_utc": 1781022333,
+   "subreddit": "ShortSqueezed",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1twtvl4",
+   "created_utc": 1780592919,
+   "subreddit": "Stocks_Picks",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1twpfks",
+   "created_utc": 1780583573,
+   "subreddit": "LeverageSharesEU",
+   "upvotes": 8,
+   "comments": 5
+  },
+  {
+   "id": "1tvsn3v",
+   "created_utc": 1780500196,
+   "subreddit": "SpaceXBets",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tssv5w",
+   "created_utc": 1780227234,
+   "subreddit": "robursa",
+   "upvotes": 5,
+   "comments": 32
+  },
+  {
+   "id": "1ts21dl",
+   "created_utc": 1780152712,
+   "subreddit": "u_hwtkw3r",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "1tqpmep",
+   "created_utc": 1780025293,
+   "subreddit": "TechAfternoonReport",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tm8hrl",
+   "created_utc": 1779618581,
+   "subreddit": "u_NeedleworkerCandid80",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tltq80",
+   "created_utc": 1779574184,
+   "subreddit": "Xammerstrading",
+   "upvotes": 40,
+   "comments": 8
+  },
+  {
+   "id": "1tjysnv",
+   "created_utc": 1779399495,
+   "subreddit": "EVStocks",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ti0kcv",
+   "created_utc": 1779225213,
+   "subreddit": "thetagang",
+   "upvotes": 0,
+   "comments": 40
+  },
+  {
+   "id": "1th004a",
+   "created_utc": 1779135743,
+   "subreddit": "TheTicker",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1tfhc1d",
+   "created_utc": 1778998950,
+   "subreddit": "wallstreetbets",
+   "upvotes": 849,
+   "comments": 989
+  },
+  {
+   "id": "1tdhgrh",
+   "created_utc": 1778807927,
+   "subreddit": "Rivian",
+   "upvotes": 20,
+   "comments": 25
+  },
+  {
+   "id": "1tczaou",
+   "created_utc": 1778767659,
+   "subreddit": "u_enoumen",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tadyyo",
+   "created_utc": 1778528247,
+   "subreddit": "DealmakerCommunity",
+   "upvotes": 2,
+   "comments": 4
+  },
+  {
+   "id": "1t6681f",
+   "created_utc": 1778148844,
+   "subreddit": "Stocks_Picks",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1t46pc1",
+   "created_utc": 1777960421,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1t3qhfj",
+   "created_utc": 1777919830,
+   "subreddit": "electriccars",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1t2xfq9",
+   "created_utc": 1777842056,
+   "subreddit": "Badboyardie",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1t2vvg6",
+   "created_utc": 1777838490,
+   "subreddit": "ChartNavigators",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1t0kbit",
+   "created_utc": 1777613599,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1sx8f3g",
+   "created_utc": 1777306594,
+   "subreddit": "RIVN_Stock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1sx8dxt",
+   "created_utc": 1777306526,
+   "subreddit": "EVStocks",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1suidgt",
+   "created_utc": 1777043197,
+   "subreddit": "StockMarketNewsToday",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1suick2",
+   "created_utc": 1777043142,
+   "subreddit": "electriccars",
+   "upvotes": 4,
+   "comments": 2
+  },
+  {
+   "id": "1ssry0c",
+   "created_utc": 1776878336,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1so74f2",
+   "created_utc": 1776445781,
+   "subreddit": "Wallstreetbetsnew",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1so3dbs",
+   "created_utc": 1776437766,
+   "subreddit": "rivnbulls",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1so34f1",
+   "created_utc": 1776437219,
+   "subreddit": "electriccars",
+   "upvotes": 7,
+   "comments": 2
+  },
+  {
+   "id": "1so33ve",
+   "created_utc": 1776437184,
+   "subreddit": "RIVN_Stock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1so3311",
+   "created_utc": 1776437132,
+   "subreddit": "RivianInvestorsClub",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "1skj2ub",
+   "created_utc": 1776104051,
+   "subreddit": "electriccars",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "1skiztj",
+   "created_utc": 1776103877,
+   "subreddit": "RIVN_Stock",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1shdab7",
+   "created_utc": 1775798089,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1sgypvr",
+   "created_utc": 1775760911,
+   "subreddit": "RivianInvestorsClub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1sg1nsa",
+   "created_utc": 1775673875,
+   "subreddit": "investingforbeginners",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1sf2yn4",
+   "created_utc": 1775583462,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1sdv7vi",
+   "created_utc": 1775471893,
+   "subreddit": "pennystocks",
+   "upvotes": 0,
+   "comments": 20
+  },
+  {
+   "id": "1scr07m",
+   "created_utc": 1775353625,
+   "subreddit": "wallstreetbets",
+   "upvotes": 3550,
+   "comments": 1222
+  },
+  {
+   "id": "1sbhwmx",
+   "created_utc": 1775232732,
+   "subreddit": "STOCKMARKETNEWS",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1sbhuu5",
+   "created_utc": 1775232620,
+   "subreddit": "ClassActionClaims",
+   "upvotes": 1,
+   "comments": 0
+  }
+ ],
+ "pre_filing_count": 0,
+ "post_listing_count": 0,
+ "pre_filing_complete": false,
+ "post_listing_complete": false,
+ "oldest_seen": "2026-04-02",
+ "pre_filing_window": [
+  "2021-07-03",
+  "2021-10-01"
+ ],
+ "post_listing_window": [
+  "2021-11-10",
+  "2022-02-08"
+ ],
+ "pre_filing_ids": [],
+ "post_listing_ids": []
+}

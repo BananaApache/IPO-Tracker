@@ -1,0 +1,1429 @@
+{
+ "company": "Coinbase",
+ "query": "\"Coinbase\" IPO",
+ "aliases": [
+  "Coinbase"
+ ],
+ "s1_date": "2021-02-25",
+ "listing_date": "2021-04-14",
+ "oldest_needed": "2020-11-27",
+ "fetched_at": "2026-09-08T16:35:59.992098+00:00",
+ "service": "redditapis.com (third-party scraper, not the official Reddit API)",
+ "note": "No date-range parameter exists on this endpoint; t is relative to now. Windows are bucketed client-side from created_utc.",
+ "pages": 3,
+ "kept_posts": 199,
+ "discarded_no_mention": 35,
+ "reached_window_start": false,
+ "oldest_seen_ts": 1770917259,
+ "listing_ended": true,
+ "posts": [
+  {
+   "id": "1w953qw",
+   "created_utc": 1788721667,
+   "subreddit": "TradeVerseNetwork",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w8no47",
+   "created_utc": 1788673951,
+   "subreddit": "wallstreetbetsGER",
+   "upvotes": 8,
+   "comments": 11
+  },
+  {
+   "id": "1w5bq88",
+   "created_utc": 1788358786,
+   "subreddit": "TickerTalkByLiam",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w5awle",
+   "created_utc": 1788356919,
+   "subreddit": "GreenWicks",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vylnej",
+   "created_utc": 1787715135,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vxhjaq",
+   "created_utc": 1787610224,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1vwq4b0",
+   "created_utc": 1787537992,
+   "subreddit": "kucoin",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vwnoud",
+   "created_utc": 1787531144,
+   "subreddit": "Market_Forecasts",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1vvi30a",
+   "created_utc": 1787418969,
+   "subreddit": "TradeVerseNetwork",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1vulk82",
+   "created_utc": 1787330590,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vuge5d",
+   "created_utc": 1787318877,
+   "subreddit": "TradeVerseNetwork",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vu34rn",
+   "created_utc": 1787277845,
+   "subreddit": "stockwatching",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1vty7hm",
+   "created_utc": 1787265006,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vtp5be",
+   "created_utc": 1787245111,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vt3xo8",
+   "created_utc": 1787185089,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1vs4cpj",
+   "created_utc": 1787092654,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vm6hoz",
+   "created_utc": 1786517131,
+   "subreddit": "StartupsAndUXDesign",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vhufj4",
+   "created_utc": 1786089918,
+   "subreddit": "MillionenGang",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "1vbwc16",
+   "created_utc": 1785516442,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vbh2sf",
+   "created_utc": 1785473942,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1vb7xen",
+   "created_utc": 1785449362,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1v6moci",
+   "created_utc": 1785020439,
+   "subreddit": "VettedPresales",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1v68vwc",
+   "created_utc": 1784987260,
+   "subreddit": "RealTesla",
+   "upvotes": 1355,
+   "comments": 142
+  },
+  {
+   "id": "1v5oxi9",
+   "created_utc": 1784929126,
+   "subreddit": "OneTX",
+   "upvotes": 5,
+   "comments": 2
+  },
+  {
+   "id": "1v51oy4",
+   "created_utc": 1784869625,
+   "subreddit": "NovaCityCrypto",
+   "upvotes": 3,
+   "comments": 6
+  },
+  {
+   "id": "1v4srzg",
+   "created_utc": 1784845397,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1v4is39",
+   "created_utc": 1784823890,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1v2yzwt",
+   "created_utc": 1784676707,
+   "subreddit": "EarningsCalls",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "1v2b68g",
+   "created_utc": 1784618151,
+   "subreddit": "aboutcryptoindustry",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1v0085t",
+   "created_utc": 1784391771,
+   "subreddit": "Coinbase",
+   "upvotes": 1,
+   "comments": 22
+  },
+  {
+   "id": "1ux4f5s",
+   "created_utc": 1784118403,
+   "subreddit": "aboutcryptoindustry",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uwvlrm",
+   "created_utc": 1784090127,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1ustoic",
+   "created_utc": 1783703295,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1us2fw3",
+   "created_utc": 1783629769,
+   "subreddit": "solana",
+   "upvotes": 4,
+   "comments": 1
+  },
+  {
+   "id": "1upp8ya",
+   "created_utc": 1783413978,
+   "subreddit": "u_Patient_Craft2195",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1upkmz6",
+   "created_utc": 1783398723,
+   "subreddit": "TechAfternoonReport",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uki7hu",
+   "created_utc": 1782902884,
+   "subreddit": "u_Patient_Craft2195",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uk3eiv",
+   "created_utc": 1782857727,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ujv1r3",
+   "created_utc": 1782839173,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1ug8s2i",
+   "created_utc": 1782484976,
+   "subreddit": "StocksTool",
+   "upvotes": 4,
+   "comments": 1
+  },
+  {
+   "id": "1ug1zb9",
+   "created_utc": 1782466289,
+   "subreddit": "u_Patient_Craft2195",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uf5vb7",
+   "created_utc": 1782382010,
+   "subreddit": "wallstreetbetsGER",
+   "upvotes": 7,
+   "comments": 3
+  },
+  {
+   "id": "1uerxt7",
+   "created_utc": 1782339711,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uecb87",
+   "created_utc": 1782304588,
+   "subreddit": "u_StreetImage8112",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ue3lx2",
+   "created_utc": 1782275725,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ubs7tb",
+   "created_utc": 1782054009,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ubmoe7",
+   "created_utc": 1782037810,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ubj7u9",
+   "created_utc": 1782025208,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ubh54b",
+   "created_utc": 1782018008,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ubd6ih",
+   "created_utc": 1782005408,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ub8r7k",
+   "created_utc": 1781992809,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1uajavv",
+   "created_utc": 1781918108,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ua3jky",
+   "created_utc": 1781879409,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ua009q",
+   "created_utc": 1781870196,
+   "subreddit": "Sandmark",
+   "upvotes": 3,
+   "comments": 2
+  },
+  {
+   "id": "1u9khcx",
+   "created_utc": 1781821699,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u9epyr",
+   "created_utc": 1781808308,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u988r5",
+   "created_utc": 1781793909,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1u93jf7",
+   "created_utc": 1781781647,
+   "subreddit": "jpool",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u90bgn",
+   "created_utc": 1781770292,
+   "subreddit": "BASE",
+   "upvotes": 7,
+   "comments": 3
+  },
+  {
+   "id": "1u8nk9a",
+   "created_utc": 1781732501,
+   "subreddit": "accelerate",
+   "upvotes": 34,
+   "comments": 2
+  },
+  {
+   "id": "1u81obv",
+   "created_utc": 1781675492,
+   "subreddit": "CoinpediaMarkets",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "1u7u3tq",
+   "created_utc": 1781653521,
+   "subreddit": "stockwatching",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u7sp07",
+   "created_utc": 1781649910,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u7qwxi",
+   "created_utc": 1781645669,
+   "subreddit": "AITakeoverTracker",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u7plbi",
+   "created_utc": 1781642618,
+   "subreddit": "Coinbase",
+   "upvotes": 2,
+   "comments": 2
+  },
+  {
+   "id": "1u7dgbp",
+   "created_utc": 1781616233,
+   "subreddit": "oasisnetwork",
+   "upvotes": 6,
+   "comments": 0
+  },
+  {
+   "id": "1u7bwry",
+   "created_utc": 1781612317,
+   "subreddit": "u_Patient_Craft2195",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u74afk",
+   "created_utc": 1781586826,
+   "subreddit": "StocksTool",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1u74aby",
+   "created_utc": 1781586821,
+   "subreddit": "Aktientool",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1u6z495",
+   "created_utc": 1781571759,
+   "subreddit": "stockwatching",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u676t6",
+   "created_utc": 1781500409,
+   "subreddit": "StocksTool",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1u676qk",
+   "created_utc": 1781500404,
+   "subreddit": "Aktientool",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u4zus9",
+   "created_utc": 1781378960,
+   "subreddit": "scimmieinborsa",
+   "upvotes": 120,
+   "comments": 51
+  },
+  {
+   "id": "1u4yrlz",
+   "created_utc": 1781376275,
+   "subreddit": "CryptoBrief",
+   "upvotes": 7,
+   "comments": 4
+  },
+  {
+   "id": "1u4u8d5",
+   "created_utc": 1781365443,
+   "subreddit": "BlockzHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u4jbeu",
+   "created_utc": 1781331733,
+   "subreddit": "AIbuff",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1u4dbaj",
+   "created_utc": 1781313151,
+   "subreddit": "u_enoumen",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u437ot",
+   "created_utc": 1781288203,
+   "subreddit": "BlackberryAI",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1u3ytbd",
+   "created_utc": 1781278784,
+   "subreddit": "accelerate",
+   "upvotes": 23,
+   "comments": 1
+  },
+  {
+   "id": "1u3wtqj",
+   "created_utc": 1781274427,
+   "subreddit": "TheRaceTo1Million",
+   "upvotes": 7,
+   "comments": 4
+  },
+  {
+   "id": "1u3wsjl",
+   "created_utc": 1781274353,
+   "subreddit": "StockLaunchers",
+   "upvotes": 12,
+   "comments": 0
+  },
+  {
+   "id": "1u3wpyz",
+   "created_utc": 1781274192,
+   "subreddit": "Baystreetbets",
+   "upvotes": 54,
+   "comments": 21
+  },
+  {
+   "id": "1u3wo9b",
+   "created_utc": 1781274088,
+   "subreddit": "DeepFuckingValue",
+   "upvotes": 28,
+   "comments": 25
+  },
+  {
+   "id": "1u3wlkw",
+   "created_utc": 1781273920,
+   "subreddit": "TheRaceTo10Million",
+   "upvotes": 1,
+   "comments": 8
+  },
+  {
+   "id": "1u3u1ws",
+   "created_utc": 1781267784,
+   "subreddit": "u_Patient_Craft2195",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u3q1f9",
+   "created_utc": 1781255089,
+   "subreddit": "u_Patient_Craft2195",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u3plbj",
+   "created_utc": 1781253475,
+   "subreddit": "aboutcryptoindustry",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u31u0i",
+   "created_utc": 1781190745,
+   "subreddit": "ToobitCrypto",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1u22pgb",
+   "created_utc": 1781099238,
+   "subreddit": "CryptoMarkets",
+   "upvotes": 7,
+   "comments": 1
+  },
+  {
+   "id": "1u1ss86",
+   "created_utc": 1781068433,
+   "subreddit": "StocksTool",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1u1ss1m",
+   "created_utc": 1781068418,
+   "subreddit": "Aktientool",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1u13ypz",
+   "created_utc": 1781009141,
+   "subreddit": "aboutcryptoindustry",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u0u0yu",
+   "created_utc": 1780976833,
+   "subreddit": "Coinex",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1u0m9uy",
+   "created_utc": 1780956113,
+   "subreddit": "shopify",
+   "upvotes": 8,
+   "comments": 2
+  },
+  {
+   "id": "1u0m97y",
+   "created_utc": 1780956072,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 3,
+   "comments": 4
+  },
+  {
+   "id": "1u0m8pr",
+   "created_utc": 1780956042,
+   "subreddit": "ecommerce",
+   "upvotes": 22,
+   "comments": 9
+  },
+  {
+   "id": "1ty8b2m",
+   "created_utc": 1780723242,
+   "subreddit": "Web3Flash",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1txoez0",
+   "created_utc": 1780673773,
+   "subreddit": "NewAmericanFunding",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1txjojt",
+   "created_utc": 1780662867,
+   "subreddit": "Sandmark",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1txhciz",
+   "created_utc": 1780656308,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1txbijc",
+   "created_utc": 1780636580,
+   "subreddit": "StocksTool",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1txbify",
+   "created_utc": 1780636572,
+   "subreddit": "Aktientool",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1twtces",
+   "created_utc": 1780591817,
+   "subreddit": "BlockzHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1twnisx",
+   "created_utc": 1780579294,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1twniso",
+   "created_utc": 1780579294,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1twndct",
+   "created_utc": 1780578941,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1twnbhi",
+   "created_utc": 1780578815,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1twkcjw",
+   "created_utc": 1780571001,
+   "subreddit": "CryptoLivePulse",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1tw7mqd",
+   "created_utc": 1780532409,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tu1pgp",
+   "created_utc": 1780339532,
+   "subreddit": "accelerate",
+   "upvotes": 27,
+   "comments": 2
+  },
+  {
+   "id": "1ttt7yc",
+   "created_utc": 1780322617,
+   "subreddit": "JasmyToken",
+   "upvotes": 40,
+   "comments": 5
+  },
+  {
+   "id": "1tssv5w",
+   "created_utc": 1780227234,
+   "subreddit": "robursa",
+   "upvotes": 5,
+   "comments": 32
+  },
+  {
+   "id": "1trr3iv",
+   "created_utc": 1780119600,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1tltq80",
+   "created_utc": 1779574184,
+   "subreddit": "Xammerstrading",
+   "upvotes": 38,
+   "comments": 8
+  },
+  {
+   "id": "1tkuiyq",
+   "created_utc": 1779480812,
+   "subreddit": "CryptoCurrency",
+   "upvotes": 44,
+   "comments": 67
+  },
+  {
+   "id": "1tk948m",
+   "created_utc": 1779426761,
+   "subreddit": "StocksTool",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tk0mou",
+   "created_utc": 1779403797,
+   "subreddit": "smallstreetbets",
+   "upvotes": 295,
+   "comments": 142
+  },
+  {
+   "id": "1tjuy9e",
+   "created_utc": 1779391261,
+   "subreddit": "Stocks_Picks",
+   "upvotes": 34,
+   "comments": 10
+  },
+  {
+   "id": "1tj0eg0",
+   "created_utc": 1779314114,
+   "subreddit": "wallstreetbetsGER",
+   "upvotes": 12,
+   "comments": 19
+  },
+  {
+   "id": "1thre7u",
+   "created_utc": 1779206587,
+   "subreddit": "hyperliquid1",
+   "upvotes": 6,
+   "comments": 1
+  },
+  {
+   "id": "1tho9xk",
+   "created_utc": 1779200079,
+   "subreddit": "ToobitCrypto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tgck1y",
+   "created_utc": 1779080579,
+   "subreddit": "Backpack_official",
+   "upvotes": 8,
+   "comments": 0
+  },
+  {
+   "id": "1tfhc1d",
+   "created_utc": 1778998950,
+   "subreddit": "wallstreetbets",
+   "upvotes": 848,
+   "comments": 989
+  },
+  {
+   "id": "1tekye7",
+   "created_utc": 1778910988,
+   "subreddit": "NovaCityCrypto",
+   "upvotes": 10,
+   "comments": 5
+  },
+  {
+   "id": "1tejn47",
+   "created_utc": 1778906895,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1tco9s4",
+   "created_utc": 1778735466,
+   "subreddit": "Web3Flash",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1taf1we",
+   "created_utc": 1778530524,
+   "subreddit": "shopify",
+   "upvotes": 29,
+   "comments": 11
+  },
+  {
+   "id": "1taf0db",
+   "created_utc": 1778530438,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1taez6x",
+   "created_utc": 1778530368,
+   "subreddit": "ecommerce",
+   "upvotes": 14,
+   "comments": 1
+  },
+  {
+   "id": "1t8xq7b",
+   "created_utc": 1778390215,
+   "subreddit": "StocksTool",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1t8xq40",
+   "created_utc": 1778390206,
+   "subreddit": "Aktientool",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1t88ngm",
+   "created_utc": 1778341923,
+   "subreddit": "BingX",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1t7oz35",
+   "created_utc": 1778284825,
+   "subreddit": "EveryDevAI",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1t7mhw7",
+   "created_utc": 1778278559,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1t6tuml",
+   "created_utc": 1778204117,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1t6o8le",
+   "created_utc": 1778189610,
+   "subreddit": "u_enoumen",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1t6djf8",
+   "created_utc": 1778166965,
+   "subreddit": "CryptoCurrency",
+   "upvotes": 860,
+   "comments": 290
+  },
+  {
+   "id": "1t5x6sh",
+   "created_utc": 1778119745,
+   "subreddit": "u_enoumen",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1t4xs2m",
+   "created_utc": 1778028337,
+   "subreddit": "u_enoumen",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1t2xfq9",
+   "created_utc": 1777842056,
+   "subreddit": "Badboyardie",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1t2vvg6",
+   "created_utc": 1777838490,
+   "subreddit": "ChartNavigators",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1t2qm7j",
+   "created_utc": 1777826870,
+   "subreddit": "solana",
+   "upvotes": 6,
+   "comments": 2
+  },
+  {
+   "id": "1t1hlew",
+   "created_utc": 1777701895,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1szfu43",
+   "created_utc": 1777506911,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1suiacr",
+   "created_utc": 1777043012,
+   "subreddit": "ArtificialInteligence",
+   "upvotes": 2,
+   "comments": 7
+  },
+  {
+   "id": "1suc9zu",
+   "created_utc": 1777027922,
+   "subreddit": "TragedyOfCommons",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1ss3v22",
+   "created_utc": 1776812665,
+   "subreddit": "Purtle",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ss2pkm",
+   "created_utc": 1776809895,
+   "subreddit": "u_enoumen",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1srunho",
+   "created_utc": 1776792691,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1sr4jvh",
+   "created_utc": 1776722569,
+   "subreddit": "shopify",
+   "upvotes": 13,
+   "comments": 1
+  },
+  {
+   "id": "1sr4jhd",
+   "created_utc": 1776722544,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1sr4h9t",
+   "created_utc": 1776722409,
+   "subreddit": "ecommerce",
+   "upvotes": 10,
+   "comments": 4
+  },
+  {
+   "id": "1soqvtp",
+   "created_utc": 1776497116,
+   "subreddit": "solana",
+   "upvotes": 8,
+   "comments": 1
+  },
+  {
+   "id": "1snq3r6",
+   "created_utc": 1776398530,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1sn2n2d",
+   "created_utc": 1776343924,
+   "subreddit": "CryptoMoonShots",
+   "upvotes": 3,
+   "comments": 3
+  },
+  {
+   "id": "1smu63y",
+   "created_utc": 1776316551,
+   "subreddit": "StocksTool",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1smu606",
+   "created_utc": 1776316542,
+   "subreddit": "Aktientool",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1slx2jl",
+   "created_utc": 1776231370,
+   "subreddit": "Web3Flash",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1slpadl",
+   "created_utc": 1776209574,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1secb6f",
+   "created_utc": 1775511169,
+   "subreddit": "shopify",
+   "upvotes": 15,
+   "comments": 12
+  },
+  {
+   "id": "1secawl",
+   "created_utc": 1775511152,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 4,
+   "comments": 3
+  },
+  {
+   "id": "1secags",
+   "created_utc": 1775511124,
+   "subreddit": "ecommerce",
+   "upvotes": 11,
+   "comments": 12
+  },
+  {
+   "id": "1se3n71",
+   "created_utc": 1775492643,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1sdv7vi",
+   "created_utc": 1775471893,
+   "subreddit": "pennystocks",
+   "upvotes": 0,
+   "comments": 20
+  },
+  {
+   "id": "1sdte0u",
+   "created_utc": 1775465421,
+   "subreddit": "Swapin",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1sda857",
+   "created_utc": 1775411660,
+   "subreddit": "ethtrader",
+   "upvotes": 101,
+   "comments": 36
+  },
+  {
+   "id": "1scr07m",
+   "created_utc": 1775353625,
+   "subreddit": "wallstreetbets",
+   "upvotes": 3539,
+   "comments": 1222
+  },
+  {
+   "id": "1sbcx1d",
+   "created_utc": 1775221138,
+   "subreddit": "accelerate",
+   "upvotes": 45,
+   "comments": 12
+  },
+  {
+   "id": "1savo9y",
+   "created_utc": 1775168457,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1samog1",
+   "created_utc": 1775148357,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1s7c2nc",
+   "created_utc": 1774831244,
+   "subreddit": "Crypto_com",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1s4pl7q",
+   "created_utc": 1774572847,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1s3pvbw",
+   "created_utc": 1774478493,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1s1qvpt",
+   "created_utc": 1774294135,
+   "subreddit": "shopify",
+   "upvotes": 7,
+   "comments": 7
+  },
+  {
+   "id": "1s1quuk",
+   "created_utc": 1774294085,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 3,
+   "comments": 2
+  },
+  {
+   "id": "1s1qu9v",
+   "created_utc": 1774294051,
+   "subreddit": "ecommerce",
+   "upvotes": 36,
+   "comments": 22
+  },
+  {
+   "id": "1s0dxip",
+   "created_utc": 1774159151,
+   "subreddit": "BitunixCrypto",
+   "upvotes": 0,
+   "comments": 1
+  },
+  {
+   "id": "1rxmc5d",
+   "created_utc": 1773882201,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1rq7tgt",
+   "created_utc": 1773173199,
+   "subreddit": "Hive_smartinvesting",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1rlw6o4",
+   "created_utc": 1772750383,
+   "subreddit": "wallstreet",
+   "upvotes": 24,
+   "comments": 21
+  },
+  {
+   "id": "1rl18tv",
+   "created_utc": 1772666837,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1rj74x7",
+   "created_utc": 1772489875,
+   "subreddit": "shopify",
+   "upvotes": 15,
+   "comments": 5
+  },
+  {
+   "id": "1rj72y1",
+   "created_utc": 1772489746,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 4,
+   "comments": 3
+  },
+  {
+   "id": "1rj7239",
+   "created_utc": 1772489692,
+   "subreddit": "ecommerce",
+   "upvotes": 6,
+   "comments": 3
+  },
+  {
+   "id": "1rio5rn",
+   "created_utc": 1772443020,
+   "subreddit": "coingecko",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1rim8zc",
+   "created_utc": 1772435814,
+   "subreddit": "u_Timely-Operation8757",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1rh72ci",
+   "created_utc": 1772296408,
+   "subreddit": "Backpack_official",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1rfbive",
+   "created_utc": 1772115937,
+   "subreddit": "u_BattleAggressive",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1rdzsl9",
+   "created_utc": 1771983898,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1rdt504",
+   "created_utc": 1771968063,
+   "subreddit": "VCX_Fundrise",
+   "upvotes": 12,
+   "comments": 22
+  },
+  {
+   "id": "1raubkp",
+   "created_utc": 1771688698,
+   "subreddit": "NewsD",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1r7sy3l",
+   "created_utc": 1771387875,
+   "subreddit": "Epstein",
+   "upvotes": 44,
+   "comments": 14
+  },
+  {
+   "id": "1r7hs1f",
+   "created_utc": 1771360208,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1r44c3n",
+   "created_utc": 1771024527,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1r3vp1m",
+   "created_utc": 1771004419,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1r3ulyq",
+   "created_utc": 1771002008,
+   "subreddit": "RWATimes",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1r3hx1k",
+   "created_utc": 1770964277,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1r3ec1v",
+   "created_utc": 1770953130,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1r2zl7y",
+   "created_utc": 1770917259,
+   "subreddit": "accelerate",
+   "upvotes": 30,
+   "comments": 1
+  }
+ ],
+ "pre_filing_count": 0,
+ "post_listing_count": 0,
+ "pre_filing_complete": false,
+ "post_listing_complete": false,
+ "oldest_seen": "2026-02-12",
+ "pre_filing_window": [
+  "2020-11-27",
+  "2021-02-25"
+ ],
+ "post_listing_window": [
+  "2021-04-14",
+  "2021-07-13"
+ ],
+ "pre_filing_ids": [],
+ "post_listing_ids": []
+}

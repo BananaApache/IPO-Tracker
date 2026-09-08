@@ -399,3 +399,70 @@ class TestWindowPairComparability:
         r = self._frame([{"pre_filing": 8, "pre_filing_q": "exact",
                           "post_listing": 105, "post_listing_q": "exact"}])
         assert bool(r["direction_established"].iloc[0])
+
+
+class TestRedditWindows:
+    """Reddit has no date range, so windows are bucketed from a sort=new sweep."""
+
+    @staticmethod
+    def _ts(iso):
+        from datetime import UTC, datetime
+        return datetime.fromisoformat(iso + "T12:00:00+00:00").replace(
+            tzinfo=UTC).timestamp()
+
+    def test_completeness_is_per_window_not_per_sweep(self):
+        """A sweep can complete the recent window and miss the older one.
+
+        `sort=new` walks backwards from today, so the post-listing window is
+        reached first. SpaceX's calibration sweep never got past its own post
+        window, which makes its pre-filing count meaningless.
+        """
+        from datetime import date
+
+        from research.collect.reddit_windows import bucket
+        s1, listing = date(2025, 7, 1), date(2025, 7, 31)
+        # Swept back only to 2025-08-01: inside the post window, nowhere near
+        # the pre window (which starts 2025-04-02).
+        b = bucket([{"id": "a", "created_utc": self._ts("2025-08-15")}],
+                   s1, listing, self._ts("2025-08-01"))
+        assert b["post_listing_complete"] is False
+        assert b["pre_filing_complete"] is False
+
+        # Swept back past the pre-filing window start: both complete.
+        b2 = bucket([{"id": "a", "created_utc": self._ts("2025-08-15")}],
+                    s1, listing, self._ts("2025-03-01"))
+        assert b2["pre_filing_complete"] is True
+        assert b2["post_listing_complete"] is True
+
+    def test_an_incomplete_zero_is_not_a_zero(self):
+        """The trap this guards: 0 posts because none exist, versus 0 because
+        the sweep never reached that far back."""
+        from datetime import date
+
+        from research.collect.reddit_windows import bucket
+        b = bucket([], date(2019, 3, 1), date(2019, 3, 29), self._ts("2024-01-01"))
+        assert b["pre_filing_count"] == 0
+        # ...but flagged incomplete, so nothing may read it as "no anticipation".
+        assert b["pre_filing_complete"] is False
+
+    def test_windows_are_half_open_and_do_not_overlap(self):
+        from datetime import date
+
+        from research.collect.reddit_windows import bucket
+        s1, listing = date(2025, 7, 1), date(2025, 7, 31)
+        posts = [{"id": "in_pre", "created_utc": self._ts("2025-06-30")},
+                 {"id": "on_s1", "created_utc": self._ts("2025-07-01")},
+                 {"id": "on_listing", "created_utc": self._ts("2025-07-31")}]
+        b = bucket(posts, s1, listing, self._ts("2025-01-01"))
+        # The S-1 day itself is excluded from the pre window (half-open), and
+        # the listing day belongs to the post window.
+        assert b["pre_filing_ids"] == ["in_pre"]
+        assert b["post_listing_ids"] == ["on_listing"]
+
+    def test_brand_filter_rejects_posts_that_never_name_the_company(self):
+        from research.collect.reddit_windows import mentions
+        # Measured: 18 of 100 raw Lyft results never mention Lyft.
+        assert mentions({"title": "Lyft IPO priced", "text": ""}, ["Lyft"])
+        assert mentions({"title": "IPO news", "text": "about nubank"},
+                        ["Nu Holdings", "Nubank"])
+        assert not mentions({"title": "Anthropic IPO rumour", "text": ""}, ["Figma"])

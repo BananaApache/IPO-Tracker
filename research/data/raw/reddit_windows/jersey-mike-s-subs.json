@@ -1,0 +1,80 @@
+{
+ "company": "Jersey Mike's Subs",
+ "query": "\"Jersey Mike's Subs\" IPO",
+ "aliases": [
+  "Jersey Mike's Subs"
+ ],
+ "s1_date": "2026-07-02",
+ "listing_date": "2026-07-30",
+ "oldest_needed": "2026-04-03",
+ "fetched_at": "2026-09-08T16:33:06.086782+00:00",
+ "service": "redditapis.com (third-party scraper, not the official Reddit API)",
+ "note": "No date-range parameter exists on this endpoint; t is relative to now. Windows are bucketed client-side from created_utc.",
+ "pages": 1,
+ "kept_posts": 6,
+ "discarded_no_mention": 3,
+ "reached_window_start": false,
+ "oldest_seen_ts": 1776689702,
+ "listing_ended": true,
+ "posts": [
+  {
+   "id": "1vo6wbb",
+   "created_utc": 1786713069,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1v9774z",
+   "created_utc": 1785263977,
+   "subreddit": "TradeVerseNetwork",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1v1zp9s",
+   "created_utc": 1784585473,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1v1qrhj",
+   "created_utc": 1784565801,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ulx6q1",
+   "created_utc": 1783032590,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ulwi2m",
+   "created_utc": 1783030883,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  }
+ ],
+ "pre_filing_count": 0,
+ "post_listing_count": 1,
+ "pre_filing_complete": false,
+ "post_listing_complete": true,
+ "oldest_seen": "2026-04-20",
+ "pre_filing_window": [
+  "2026-04-03",
+  "2026-07-02"
+ ],
+ "post_listing_window": [
+  "2026-07-30",
+  "2026-10-28"
+ ],
+ "pre_filing_ids": [],
+ "post_listing_ids": [
+  "1vo6wbb"
+ ]
+}

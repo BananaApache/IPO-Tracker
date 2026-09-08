@@ -1,0 +1,1809 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" IPO",
+ "aliases": [
+  "Klarna"
+ ],
+ "s1_date": "2025-03-14",
+ "listing_date": "2025-09-10",
+ "oldest_needed": "2024-12-14",
+ "fetched_at": "2026-09-08T16:33:55.674078+00:00",
+ "service": "redditapis.com (third-party scraper, not the official Reddit API)",
+ "note": "No date-range parameter exists on this endpoint; t is relative to now. Windows are bucketed client-side from created_utc.",
+ "pages": 3,
+ "kept_posts": 235,
+ "discarded_no_mention": 11,
+ "reached_window_start": false,
+ "oldest_seen_ts": 1757523446,
+ "listing_ended": true,
+ "posts": [
+  {
+   "id": "1w8xhue",
+   "created_utc": 1788704462,
+   "subreddit": "neoliberal",
+   "upvotes": 95,
+   "comments": 46
+  },
+  {
+   "id": "1w49bao",
+   "created_utc": 1788262426,
+   "subreddit": "Funanc1al",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1w2nrmg",
+   "created_utc": 1788111097,
+   "subreddit": "klarna",
+   "upvotes": 4,
+   "comments": 2
+  },
+  {
+   "id": "1vxzys6",
+   "created_utc": 1787664716,
+   "subreddit": "ETFs",
+   "upvotes": 5,
+   "comments": 6
+  },
+  {
+   "id": "1vxh5g4",
+   "created_utc": 1787609295,
+   "subreddit": "shopify",
+   "upvotes": 6,
+   "comments": 6
+  },
+  {
+   "id": "1vxh55p",
+   "created_utc": 1787609275,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "1vxh4rw",
+   "created_utc": 1787609251,
+   "subreddit": "ecommerce",
+   "upvotes": 16,
+   "comments": 3
+  },
+  {
+   "id": "1vw5dlz",
+   "created_utc": 1787486502,
+   "subreddit": "TheRaceTo10Million",
+   "upvotes": 12,
+   "comments": 8
+  },
+  {
+   "id": "1vruwno",
+   "created_utc": 1787071992,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vlmdxx",
+   "created_utc": 1786465821,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vl7wx2",
+   "created_utc": 1786424301,
+   "subreddit": "NowInFinance",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vl3eeu",
+   "created_utc": 1786411093,
+   "subreddit": "NowInTech",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vkx2be",
+   "created_utc": 1786395268,
+   "subreddit": "shopify",
+   "upvotes": 13,
+   "comments": 9
+  },
+  {
+   "id": "1vkx23q",
+   "created_utc": 1786395253,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 3,
+   "comments": 2
+  },
+  {
+   "id": "1vkx1ph",
+   "created_utc": 1786395227,
+   "subreddit": "ecommerce",
+   "upvotes": 16,
+   "comments": 4
+  },
+  {
+   "id": "1vhqv98",
+   "created_utc": 1786077741,
+   "subreddit": "SPCXInvestors",
+   "upvotes": 0,
+   "comments": 7
+  },
+  {
+   "id": "1v89qel",
+   "created_utc": 1785178837,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1v89ptq",
+   "created_utc": 1785178803,
+   "subreddit": "shopify",
+   "upvotes": 4,
+   "comments": 1
+  },
+  {
+   "id": "1v89opc",
+   "created_utc": 1785178738,
+   "subreddit": "ecommerce",
+   "upvotes": 7,
+   "comments": 3
+  },
+  {
+   "id": "1v1xpw5",
+   "created_utc": 1784580847,
+   "subreddit": "shopify",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1v1xpkt",
+   "created_utc": 1784580826,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1v1xpem",
+   "created_utc": 1784580816,
+   "subreddit": "ecommerce",
+   "upvotes": 2,
+   "comments": 3
+  },
+  {
+   "id": "1uvnyhg",
+   "created_utc": 1783976076,
+   "subreddit": "shopify",
+   "upvotes": 4,
+   "comments": 8
+  },
+  {
+   "id": "1uvny1l",
+   "created_utc": 1783976051,
+   "subreddit": "ecommerce",
+   "upvotes": 11,
+   "comments": 10
+  },
+  {
+   "id": "1uvny0m",
+   "created_utc": 1783976049,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "1ur4qes",
+   "created_utc": 1783542760,
+   "subreddit": "ETFs",
+   "upvotes": 5,
+   "comments": 1
+  },
+  {
+   "id": "1upkmz6",
+   "created_utc": 1783398723,
+   "subreddit": "TechAfternoonReport",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1upbgd4",
+   "created_utc": 1783374740,
+   "subreddit": "shopify",
+   "upvotes": 9,
+   "comments": 7
+  },
+  {
+   "id": "1upbg3e",
+   "created_utc": 1783374722,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 3,
+   "comments": 1
+  },
+  {
+   "id": "1upbfj5",
+   "created_utc": 1783374686,
+   "subreddit": "ecommerce",
+   "upvotes": 8,
+   "comments": 4
+  },
+  {
+   "id": "1ul4i1l",
+   "created_utc": 1782956195,
+   "subreddit": "AIFU_stock",
+   "upvotes": 6,
+   "comments": 0
+  },
+  {
+   "id": "1ukqzr1",
+   "created_utc": 1782924358,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ucyh0w",
+   "created_utc": 1782165705,
+   "subreddit": "shopify",
+   "upvotes": 10,
+   "comments": 10
+  },
+  {
+   "id": "1ucygom",
+   "created_utc": 1782165684,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1ucyd3n",
+   "created_utc": 1782165462,
+   "subreddit": "ecommerce",
+   "upvotes": 20,
+   "comments": 0
+  },
+  {
+   "id": "1u6uuqe",
+   "created_utc": 1781560881,
+   "subreddit": "shopify",
+   "upvotes": 13,
+   "comments": 12
+  },
+  {
+   "id": "1u6uu25",
+   "created_utc": 1781560843,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 4,
+   "comments": 5
+  },
+  {
+   "id": "1u6utuc",
+   "created_utc": 1781560831,
+   "subreddit": "ecommerce",
+   "upvotes": 15,
+   "comments": 8
+  },
+  {
+   "id": "1u4rv3e",
+   "created_utc": 1781359546,
+   "subreddit": "atrioc",
+   "upvotes": 163,
+   "comments": 11
+  },
+  {
+   "id": "1u1ac9x",
+   "created_utc": 1781023176,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1u0m9uy",
+   "created_utc": 1780956113,
+   "subreddit": "shopify",
+   "upvotes": 7,
+   "comments": 2
+  },
+  {
+   "id": "1u0m97y",
+   "created_utc": 1780956072,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 3,
+   "comments": 4
+  },
+  {
+   "id": "1u0m8pr",
+   "created_utc": 1780956042,
+   "subreddit": "ecommerce",
+   "upvotes": 21,
+   "comments": 9
+  },
+  {
+   "id": "1twmig2",
+   "created_utc": 1780576889,
+   "subreddit": "Aktien",
+   "upvotes": 148,
+   "comments": 34
+  },
+  {
+   "id": "1tsojuy",
+   "created_utc": 1780212753,
+   "subreddit": "Trade_Idea",
+   "upvotes": 1,
+   "comments": 4
+  },
+  {
+   "id": "1thhvn4",
+   "created_utc": 1779183721,
+   "subreddit": "EU_Economics",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "1tdehvw",
+   "created_utc": 1778800280,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1td4bv2",
+   "created_utc": 1778778130,
+   "subreddit": "EverHint",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1tcn9u4",
+   "created_utc": 1778732469,
+   "subreddit": "stocksonmyradar",
+   "upvotes": 7,
+   "comments": 2
+  },
+  {
+   "id": "1t7ix9m",
+   "created_utc": 1778270460,
+   "subreddit": "AIToolsTipsNews",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1t726r8",
+   "created_utc": 1778230220,
+   "subreddit": "diespekulanten",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1sy2g8l",
+   "created_utc": 1777385182,
+   "subreddit": "ValueInvesting",
+   "upvotes": 12,
+   "comments": 17
+  },
+  {
+   "id": "1sxb1ni",
+   "created_utc": 1777312037,
+   "subreddit": "shopify",
+   "upvotes": 22,
+   "comments": 16
+  },
+  {
+   "id": "1sxb0x3",
+   "created_utc": 1777311996,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 3,
+   "comments": 3
+  },
+  {
+   "id": "1sxb020",
+   "created_utc": 1777311948,
+   "subreddit": "ecommerce",
+   "upvotes": 17,
+   "comments": 4
+  },
+  {
+   "id": "1sknbt6",
+   "created_utc": 1776112816,
+   "subreddit": "shopify",
+   "upvotes": 13,
+   "comments": 5
+  },
+  {
+   "id": "1sknb8c",
+   "created_utc": 1776112784,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1sknaow",
+   "created_utc": 1776112755,
+   "subreddit": "ecommerce",
+   "upvotes": 9,
+   "comments": 7
+  },
+  {
+   "id": "1secb6f",
+   "created_utc": 1775511169,
+   "subreddit": "shopify",
+   "upvotes": 15,
+   "comments": 12
+  },
+  {
+   "id": "1secawl",
+   "created_utc": 1775511152,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 4,
+   "comments": 3
+  },
+  {
+   "id": "1secags",
+   "created_utc": 1775511124,
+   "subreddit": "ecommerce",
+   "upvotes": 13,
+   "comments": 12
+  },
+  {
+   "id": "1s9j8r5",
+   "created_utc": 1775046804,
+   "subreddit": "u_TearRepresentative56",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1s9j7di",
+   "created_utc": 1775046700,
+   "subreddit": "TradingEdge",
+   "upvotes": 35,
+   "comments": 0
+  },
+  {
+   "id": "1s80w1d",
+   "created_utc": 1774899427,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1s80vtn",
+   "created_utc": 1774899413,
+   "subreddit": "shopify",
+   "upvotes": 17,
+   "comments": 14
+  },
+  {
+   "id": "1s80vf7",
+   "created_utc": 1774899390,
+   "subreddit": "ecommerce",
+   "upvotes": 32,
+   "comments": 3
+  },
+  {
+   "id": "1s1qvpt",
+   "created_utc": 1774294135,
+   "subreddit": "shopify",
+   "upvotes": 6,
+   "comments": 7
+  },
+  {
+   "id": "1s1quuk",
+   "created_utc": 1774294085,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 3,
+   "comments": 2
+  },
+  {
+   "id": "1s1qu9v",
+   "created_utc": 1774294051,
+   "subreddit": "ecommerce",
+   "upvotes": 36,
+   "comments": 22
+  },
+  {
+   "id": "1s03eug",
+   "created_utc": 1774128735,
+   "subreddit": "ValueInvesting",
+   "upvotes": 94,
+   "comments": 95
+  },
+  {
+   "id": "1rt6jhw",
+   "created_utc": 1773452662,
+   "subreddit": "stockwatching",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1rsslnr",
+   "created_utc": 1773420466,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1rr62zb",
+   "created_utc": 1773262419,
+   "subreddit": "smallstreetbets",
+   "upvotes": 1,
+   "comments": 26
+  },
+  {
+   "id": "1rqkoxu",
+   "created_utc": 1773205347,
+   "subreddit": "valueInvestment",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "1rqkmyw",
+   "created_utc": 1773205181,
+   "subreddit": "AsymmetricAlpha",
+   "upvotes": 12,
+   "comments": 0
+  },
+  {
+   "id": "1rqkly7",
+   "created_utc": 1773205087,
+   "subreddit": "ValueInvesting",
+   "upvotes": 104,
+   "comments": 22
+  },
+  {
+   "id": "1rpap19",
+   "created_utc": 1773085938,
+   "subreddit": "shopify",
+   "upvotes": 16,
+   "comments": 8
+  },
+  {
+   "id": "1rpao93",
+   "created_utc": 1773085892,
+   "subreddit": "ecommerce",
+   "upvotes": 12,
+   "comments": 15
+  },
+  {
+   "id": "1rpao7m",
+   "created_utc": 1773085890,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 6,
+   "comments": 2
+  },
+  {
+   "id": "1rctgp5",
+   "created_utc": 1771879661,
+   "subreddit": "shopify",
+   "upvotes": 29,
+   "comments": 10
+  },
+  {
+   "id": "1rctf9e",
+   "created_utc": 1771879574,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 4,
+   "comments": 1
+  },
+  {
+   "id": "1rcte9f",
+   "created_utc": 1771879516,
+   "subreddit": "ecommerce",
+   "upvotes": 15,
+   "comments": 13
+  },
+  {
+   "id": "1rcb75o",
+   "created_utc": 1771832343,
+   "subreddit": "handpickedberlin",
+   "upvotes": 10,
+   "comments": 0
+  },
+  {
+   "id": "1rapnif",
+   "created_utc": 1771675965,
+   "subreddit": "ameisenstrassenwetten",
+   "upvotes": 12,
+   "comments": 11
+  },
+  {
+   "id": "1rapjt7",
+   "created_utc": 1771675626,
+   "subreddit": "investing",
+   "upvotes": 0,
+   "comments": 24
+  },
+  {
+   "id": "1r9qinp",
+   "created_utc": 1771578520,
+   "subreddit": "stockwatching",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1r99q2v",
+   "created_utc": 1771531404,
+   "subreddit": "TheRaceTo10Million",
+   "upvotes": 342,
+   "comments": 120
+  },
+  {
+   "id": "1r8fxle",
+   "created_utc": 1771450145,
+   "subreddit": "InterstellarKinetics",
+   "upvotes": 3,
+   "comments": 1
+  },
+  {
+   "id": "1qoi2g1",
+   "created_utc": 1769530164,
+   "subreddit": "Klarna_Stock",
+   "upvotes": 12,
+   "comments": 1
+  },
+  {
+   "id": "1qnu4di",
+   "created_utc": 1769464076,
+   "subreddit": "shopify",
+   "upvotes": 11,
+   "comments": 4
+  },
+  {
+   "id": "1qnu3kg",
+   "created_utc": 1769464027,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 20,
+   "comments": 5
+  },
+  {
+   "id": "1qnu2wp",
+   "created_utc": 1769463985,
+   "subreddit": "ecommerce",
+   "upvotes": 14,
+   "comments": 20
+  },
+  {
+   "id": "1qkj5uk",
+   "created_utc": 1769148804,
+   "subreddit": "StocksTool",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1qijiur",
+   "created_utc": 1768957253,
+   "subreddit": "EverHint",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1qhgt7j",
+   "created_utc": 1768856898,
+   "subreddit": "shopify",
+   "upvotes": 11,
+   "comments": 12
+  },
+  {
+   "id": "1qhgsbh",
+   "created_utc": 1768856842,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 12,
+   "comments": 3
+  },
+  {
+   "id": "1qhgrhr",
+   "created_utc": 1768856793,
+   "subreddit": "ecommerce",
+   "upvotes": 33,
+   "comments": 8
+  },
+  {
+   "id": "1qg0v9v",
+   "created_utc": 1768716788,
+   "subreddit": "StocksTool",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1qg0v6u",
+   "created_utc": 1768716781,
+   "subreddit": "Aktientool",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1qb4hnk",
+   "created_utc": 1768245925,
+   "subreddit": "shopify",
+   "upvotes": 5,
+   "comments": 3
+  },
+  {
+   "id": "1qb4h4p",
+   "created_utc": 1768245895,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 13,
+   "comments": 5
+  },
+  {
+   "id": "1qb4gp6",
+   "created_utc": 1768245868,
+   "subreddit": "ecommerce",
+   "upvotes": 3,
+   "comments": 2
+  },
+  {
+   "id": "1pvidah",
+   "created_utc": 1766684258,
+   "subreddit": "YesIntelligent",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1pt8yq5",
+   "created_utc": 1766432689,
+   "subreddit": "shopify",
+   "upvotes": 5,
+   "comments": 2
+  },
+  {
+   "id": "1pt8wyi",
+   "created_utc": 1766432569,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 6,
+   "comments": 4
+  },
+  {
+   "id": "1pt8w0m",
+   "created_utc": 1766432508,
+   "subreddit": "ecommerce",
+   "upvotes": 11,
+   "comments": 4
+  },
+  {
+   "id": "1pk0rur",
+   "created_utc": 1765468001,
+   "subreddit": "ETFs",
+   "upvotes": 0,
+   "comments": 17
+  },
+  {
+   "id": "1pi2f2w",
+   "created_utc": 1765269457,
+   "subreddit": "handpickedberlin",
+   "upvotes": 8,
+   "comments": 0
+  },
+  {
+   "id": "1phnexg",
+   "created_utc": 1765225893,
+   "subreddit": "shopify",
+   "upvotes": 8,
+   "comments": 3
+  },
+  {
+   "id": "1phn926",
+   "created_utc": 1765225529,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 3,
+   "comments": 3
+  },
+  {
+   "id": "1phn5xp",
+   "created_utc": 1765225340,
+   "subreddit": "ecommerce",
+   "upvotes": 27,
+   "comments": 5
+  },
+  {
+   "id": "1perfnb",
+   "created_utc": 1764929467,
+   "subreddit": "u_enoumen",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1pbn86s",
+   "created_utc": 1764619474,
+   "subreddit": "shopify",
+   "upvotes": 7,
+   "comments": 8
+  },
+  {
+   "id": "1pbmzxr",
+   "created_utc": 1764618967,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 2,
+   "comments": 2
+  },
+  {
+   "id": "1pbmwml",
+   "created_utc": 1764618764,
+   "subreddit": "ecommerce",
+   "upvotes": 23,
+   "comments": 12
+  },
+  {
+   "id": "1p5rd2a",
+   "created_utc": 1764014296,
+   "subreddit": "shopify",
+   "upvotes": 1,
+   "comments": 7
+  },
+  {
+   "id": "1p5rcc2",
+   "created_utc": 1764014252,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1p5rbpa",
+   "created_utc": 1764014214,
+   "subreddit": "ecommerce",
+   "upvotes": 6,
+   "comments": 5
+  },
+  {
+   "id": "1p0syek",
+   "created_utc": 1763512148,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 3,
+   "comments": 2
+  },
+  {
+   "id": "1p0b1yi",
+   "created_utc": 1763470160,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1p0b1y4",
+   "created_utc": 1763470159,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1p0b1xy",
+   "created_utc": 1763470159,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1p0b1xs",
+   "created_utc": 1763470159,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1p0b1ji",
+   "created_utc": 1763470129,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1p0b1cg",
+   "created_utc": 1763470113,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1p0b0c1",
+   "created_utc": 1763470029,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1p0azly",
+   "created_utc": 1763469967,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1owhdcp",
+   "created_utc": 1763078664,
+   "subreddit": "SECWatch",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1oto8fw",
+   "created_utc": 1762804833,
+   "subreddit": "shopify",
+   "upvotes": 33,
+   "comments": 17
+  },
+  {
+   "id": "1oto78z",
+   "created_utc": 1762804760,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1oto6am",
+   "created_utc": 1762804702,
+   "subreddit": "ecommerce",
+   "upvotes": 25,
+   "comments": 12
+  },
+  {
+   "id": "1otf3ng",
+   "created_utc": 1762784646,
+   "subreddit": "ETFs",
+   "upvotes": 0,
+   "comments": 15
+  },
+  {
+   "id": "1onfd3y",
+   "created_utc": 1762185105,
+   "subreddit": "smallstreetbets",
+   "upvotes": 1,
+   "comments": 10
+  },
+  {
+   "id": "1on7ndi",
+   "created_utc": 1762163421,
+   "subreddit": "Popular_Science_Ru",
+   "upvotes": 8,
+   "comments": 7
+  },
+  {
+   "id": "1oj7jpu",
+   "created_utc": 1761751637,
+   "subreddit": "6nuliai",
+   "upvotes": 29,
+   "comments": 53
+  },
+  {
+   "id": "1oj6e6d",
+   "created_utc": 1761748956,
+   "subreddit": "EarningsCalls",
+   "upvotes": 10,
+   "comments": 0
+  },
+  {
+   "id": "1oeqvqu",
+   "created_utc": 1761288999,
+   "subreddit": "EU_Economics",
+   "upvotes": 9,
+   "comments": 0
+  },
+  {
+   "id": "1obo1pt",
+   "created_utc": 1760980727,
+   "subreddit": "shopify",
+   "upvotes": 5,
+   "comments": 2
+  },
+  {
+   "id": "1obo1fl",
+   "created_utc": 1760980706,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1obo0l8",
+   "created_utc": 1760980640,
+   "subreddit": "ecommerce",
+   "upvotes": 14,
+   "comments": 2
+  },
+  {
+   "id": "1ob382t",
+   "created_utc": 1760913114,
+   "subreddit": "MarketingSecrets101",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1o8yndk",
+   "created_utc": 1760700199,
+   "subreddit": "ETFs",
+   "upvotes": 4,
+   "comments": 8
+  },
+  {
+   "id": "1o5v0wp",
+   "created_utc": 1760386851,
+   "subreddit": "shopify",
+   "upvotes": 5,
+   "comments": 1
+  },
+  {
+   "id": "1o5v0oi",
+   "created_utc": 1760386835,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 4,
+   "comments": 4
+  },
+  {
+   "id": "1o5v0f4",
+   "created_utc": 1760386820,
+   "subreddit": "ecommerce",
+   "upvotes": 20,
+   "comments": 6
+  },
+  {
+   "id": "1o5azln",
+   "created_utc": 1760332394,
+   "subreddit": "StocksTool",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nzvrna",
+   "created_utc": 1759785511,
+   "subreddit": "shopify",
+   "upvotes": 4,
+   "comments": 1
+  },
+  {
+   "id": "1nzvq6u",
+   "created_utc": 1759785425,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 6,
+   "comments": 4
+  },
+  {
+   "id": "1nzvk3y",
+   "created_utc": 1759785047,
+   "subreddit": "ecommerce",
+   "upvotes": 20,
+   "comments": 3
+  },
+  {
+   "id": "1nxpfd1",
+   "created_utc": 1759569922,
+   "subreddit": "wallstreetbetsGER",
+   "upvotes": 2,
+   "comments": 2
+  },
+  {
+   "id": "1nvwlr8",
+   "created_utc": 1759387707,
+   "subreddit": "wallstreetbetsGER",
+   "upvotes": 2,
+   "comments": 2
+  },
+  {
+   "id": "1nvcva7",
+   "created_utc": 1759335924,
+   "subreddit": "smallstreetbets",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ntvqd4",
+   "created_utc": 1759183931,
+   "subreddit": "levels_fyi",
+   "upvotes": 10,
+   "comments": 0
+  },
+  {
+   "id": "1nrch59",
+   "created_utc": 1758919441,
+   "subreddit": "PanaStocks",
+   "upvotes": 3,
+   "comments": 6
+  },
+  {
+   "id": "1nr3ctb",
+   "created_utc": 1758898177,
+   "subreddit": "XGramatikInsights",
+   "upvotes": 3,
+   "comments": 3
+  },
+  {
+   "id": "1nnx2n0",
+   "created_utc": 1758571640,
+   "subreddit": "shopify",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1nnx1ub",
+   "created_utc": 1758571589,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 4,
+   "comments": 0
+  },
+  {
+   "id": "1nnx0v0",
+   "created_utc": 1758571529,
+   "subreddit": "ecommerce",
+   "upvotes": 23,
+   "comments": 6
+  },
+  {
+   "id": "1njc1wm",
+   "created_utc": 1758112876,
+   "subreddit": "morningsomewhere",
+   "upvotes": 19,
+   "comments": 26
+  },
+  {
+   "id": "1nj67vr",
+   "created_utc": 1758092638,
+   "subreddit": "freedom24",
+   "upvotes": 14,
+   "comments": 0
+  },
+  {
+   "id": "1nipf4b",
+   "created_utc": 1758046981,
+   "subreddit": "FinanzenAT",
+   "upvotes": 0,
+   "comments": 12
+  },
+  {
+   "id": "1nihe56",
+   "created_utc": 1758029032,
+   "subreddit": "financialbooklet",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nickc5",
+   "created_utc": 1758014196,
+   "subreddit": "EU_Economics",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1niaj0w",
+   "created_utc": 1758006157,
+   "subreddit": "EU_Economics",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1nhuwbe",
+   "created_utc": 1757963099,
+   "subreddit": "shopify",
+   "upvotes": 11,
+   "comments": 4
+  },
+  {
+   "id": "1nhut47",
+   "created_utc": 1757962909,
+   "subreddit": "ShopifyeCommerce",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "1nhup0i",
+   "created_utc": 1757962672,
+   "subreddit": "CalebHammer",
+   "upvotes": 17,
+   "comments": 10
+  },
+  {
+   "id": "1nhuo42",
+   "created_utc": 1757962619,
+   "subreddit": "ecommerce",
+   "upvotes": 14,
+   "comments": 4
+  },
+  {
+   "id": "1nhi18k",
+   "created_utc": 1757931658,
+   "subreddit": "morningsomewhere",
+   "upvotes": 0,
+   "comments": 4
+  },
+  {
+   "id": "1nhgy3d",
+   "created_utc": 1757927630,
+   "subreddit": "theworldnews",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1nhfose",
+   "created_utc": 1757922520,
+   "subreddit": "EU_Economics",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1nhfd8r",
+   "created_utc": 1757921251,
+   "subreddit": "financialbooklet",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1nhev9k",
+   "created_utc": 1757919373,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nhev9e",
+   "created_utc": 1757919373,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nhev98",
+   "created_utc": 1757919373,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nhemax",
+   "created_utc": 1757918422,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nhejh5",
+   "created_utc": 1757918121,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nhefi5",
+   "created_utc": 1757917710,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nhee4f",
+   "created_utc": 1757917565,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nhedy1",
+   "created_utc": 1757917548,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nh9r1g",
+   "created_utc": 1757902454,
+   "subreddit": "technology",
+   "upvotes": 2820,
+   "comments": 443
+  },
+  {
+   "id": "1ngouj5",
+   "created_utc": 1757849251,
+   "subreddit": "scimmieinborsa",
+   "upvotes": 9,
+   "comments": 8
+  },
+  {
+   "id": "1ng9c5c",
+   "created_utc": 1757799071,
+   "subreddit": "CryptoCurrencyClassic",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ng8xoe",
+   "created_utc": 1757798003,
+   "subreddit": "CryptoCurrency",
+   "upvotes": 1,
+   "comments": 2
+  },
+  {
+   "id": "1nfdb3d",
+   "created_utc": 1757707464,
+   "subreddit": "TheBusinessMix",
+   "upvotes": 1,
+   "comments": 4
+  },
+  {
+   "id": "1nf2vky",
+   "created_utc": 1757682737,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1nf25n6",
+   "created_utc": 1757680863,
+   "subreddit": "SwingTradingReports",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1nezn1f",
+   "created_utc": 1757673112,
+   "subreddit": "EU_Economics",
+   "upvotes": 28,
+   "comments": 0
+  },
+  {
+   "id": "1nex99k",
+   "created_utc": 1757664004,
+   "subreddit": "realtech",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1newp1g",
+   "created_utc": 1757661713,
+   "subreddit": "technology",
+   "upvotes": 27,
+   "comments": 13
+  },
+  {
+   "id": "1nevgpg",
+   "created_utc": 1757657022,
+   "subreddit": "ChatGPT",
+   "upvotes": 0,
+   "comments": 3
+  },
+  {
+   "id": "1nevcju",
+   "created_utc": 1757656596,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1neuxq5",
+   "created_utc": 1757655043,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1neuv2j",
+   "created_utc": 1757654772,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1neuv2c",
+   "created_utc": 1757654772,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1neuuqa",
+   "created_utc": 1757654740,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1neuu54",
+   "created_utc": 1757654682,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nenst7",
+   "created_utc": 1757633015,
+   "subreddit": "levels_fyi",
+   "upvotes": 571,
+   "comments": 109
+  },
+  {
+   "id": "1nekiyv",
+   "created_utc": 1757624542,
+   "subreddit": "Schwab",
+   "upvotes": 9,
+   "comments": 18
+  },
+  {
+   "id": "1nec7sw",
+   "created_utc": 1757605426,
+   "subreddit": "TradeRepublicFriends",
+   "upvotes": 9,
+   "comments": 4
+  },
+  {
+   "id": "1ne7otq",
+   "created_utc": 1757594271,
+   "subreddit": "ISKbets",
+   "upvotes": 47,
+   "comments": 11
+  },
+  {
+   "id": "1ne7faw",
+   "created_utc": 1757593534,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1ne5qhg",
+   "created_utc": 1757588358,
+   "subreddit": "Marketingcurated",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1ne5icr",
+   "created_utc": 1757587586,
+   "subreddit": "AskUK",
+   "upvotes": 2,
+   "comments": 1
+  },
+  {
+   "id": "1ne4uza",
+   "created_utc": 1757585264,
+   "subreddit": "HENRYUK",
+   "upvotes": 49,
+   "comments": 83
+  },
+  {
+   "id": "1ne2vem",
+   "created_utc": 1757577408,
+   "subreddit": "robursa",
+   "upvotes": 3,
+   "comments": 27
+  },
+  {
+   "id": "1ne2a77",
+   "created_utc": 1757575062,
+   "subreddit": "StocksTool",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ne0uhi",
+   "created_utc": 1757569567,
+   "subreddit": "u_raytoei",
+   "upvotes": 3,
+   "comments": 1
+  },
+  {
+   "id": "1ndz4sx",
+   "created_utc": 1757563524,
+   "subreddit": "financialbooklet",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndy36z",
+   "created_utc": 1757560175,
+   "subreddit": "investing_discussion",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1ndtvhs",
+   "created_utc": 1757547691,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndtleq",
+   "created_utc": 1757546904,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndt7ab",
+   "created_utc": 1757545825,
+   "subreddit": "technology",
+   "upvotes": 6,
+   "comments": 2
+  },
+  {
+   "id": "1nds0kd",
+   "created_utc": 1757542706,
+   "subreddit": "u_Mailsoftly_Official",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndqwu4",
+   "created_utc": 1757539912,
+   "subreddit": "wallstreetInvestment",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndo4kl",
+   "created_utc": 1757533124,
+   "subreddit": "wallstreetbetsGER",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1ndm9of",
+   "created_utc": 1757528890,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndm1y5",
+   "created_utc": 1757528405,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndlwc3",
+   "created_utc": 1757528054,
+   "subreddit": "TIMESINDIAauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndlgs7",
+   "created_utc": 1757527105,
+   "subreddit": "ALJAZEERAauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndlfgq",
+   "created_utc": 1757527022,
+   "subreddit": "ETFs",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1ndlcg2",
+   "created_utc": 1757526836,
+   "subreddit": "DayTradingUnwind",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndl9so",
+   "created_utc": 1757526677,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndl8is",
+   "created_utc": 1757526603,
+   "subreddit": "Klarna_Stock",
+   "upvotes": 3,
+   "comments": 7
+  },
+  {
+   "id": "1ndl4zl",
+   "created_utc": 1757526389,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndl4zc",
+   "created_utc": 1757526389,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndl4z0",
+   "created_utc": 1757526389,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndl4yw",
+   "created_utc": 1757526388,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndkcln",
+   "created_utc": 1757524667,
+   "subreddit": "atrioc",
+   "upvotes": 14,
+   "comments": 3
+  },
+  {
+   "id": "1ndkau8",
+   "created_utc": 1757524557,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndkagu",
+   "created_utc": 1757524534,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndka7v",
+   "created_utc": 1757524521,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndk9nb",
+   "created_utc": 1757524486,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndk8nb",
+   "created_utc": 1757524425,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ndjsgn",
+   "created_utc": 1757523446,
+   "subreddit": "Klarna_Stock",
+   "upvotes": 3,
+   "comments": 30
+  }
+ ],
+ "pre_filing_count": 0,
+ "post_listing_count": 127,
+ "pre_filing_complete": false,
+ "post_listing_complete": true,
+ "oldest_seen": "2025-09-10",
+ "pre_filing_window": [
+  "2024-12-14",
+  "2025-03-14"
+ ],
+ "post_listing_window": [
+  "2025-09-10",
+  "2025-12-09"
+ ],
+ "pre_filing_ids": [],
+ "post_listing_ids": [
+  "1phnexg",
+  "1phn926",
+  "1phn5xp",
+  "1perfnb",
+  "1pbn86s",
+  "1pbmzxr",
+  "1pbmwml",
+  "1p5rd2a",
+  "1p5rcc2",
+  "1p5rbpa",
+  "1p0syek",
+  "1p0b1yi",
+  "1p0b1y4",
+  "1p0b1xy",
+  "1p0b1xs",
+  "1p0b1ji",
+  "1p0b1cg",
+  "1p0b0c1",
+  "1p0azly",
+  "1owhdcp",
+  "1oto8fw",
+  "1oto78z",
+  "1oto6am",
+  "1otf3ng",
+  "1onfd3y",
+  "1on7ndi",
+  "1oj7jpu",
+  "1oj6e6d",
+  "1oeqvqu",
+  "1obo1pt",
+  "1obo1fl",
+  "1obo0l8",
+  "1ob382t",
+  "1o8yndk",
+  "1o5v0wp",
+  "1o5v0oi",
+  "1o5v0f4",
+  "1o5azln",
+  "1nzvrna",
+  "1nzvq6u",
+  "1nzvk3y",
+  "1nxpfd1",
+  "1nvwlr8",
+  "1nvcva7",
+  "1ntvqd4",
+  "1nrch59",
+  "1nr3ctb",
+  "1nnx2n0",
+  "1nnx1ub",
+  "1nnx0v0",
+  "1njc1wm",
+  "1nj67vr",
+  "1nipf4b",
+  "1nihe56",
+  "1nickc5",
+  "1niaj0w",
+  "1nhuwbe",
+  "1nhut47",
+  "1nhup0i",
+  "1nhuo42",
+  "1nhi18k",
+  "1nhgy3d",
+  "1nhfose",
+  "1nhfd8r",
+  "1nhev9k",
+  "1nhev9e",
+  "1nhev98",
+  "1nhemax",
+  "1nhejh5",
+  "1nhefi5",
+  "1nhee4f",
+  "1nhedy1",
+  "1nh9r1g",
+  "1ngouj5",
+  "1ng9c5c",
+  "1ng8xoe",
+  "1nfdb3d",
+  "1nf2vky",
+  "1nf25n6",
+  "1nezn1f",
+  "1nex99k",
+  "1newp1g",
+  "1nevgpg",
+  "1nevcju",
+  "1neuxq5",
+  "1neuv2j",
+  "1neuv2c",
+  "1neuuqa",
+  "1neuu54",
+  "1nenst7",
+  "1nekiyv",
+  "1nec7sw",
+  "1ne7otq",
+  "1ne7faw",
+  "1ne5qhg",
+  "1ne5icr",
+  "1ne4uza",
+  "1ne2vem",
+  "1ne2a77",
+  "1ne0uhi",
+  "1ndz4sx",
+  "1ndy36z",
+  "1ndtvhs",
+  "1ndtleq",
+  "1ndt7ab",
+  "1nds0kd",
+  "1ndqwu4",
+  "1ndo4kl",
+  "1ndm9of",
+  "1ndm1y5",
+  "1ndlwc3",
+  "1ndlgs7",
+  "1ndlfgq",
+  "1ndlcg2",
+  "1ndl9so",
+  "1ndl8is",
+  "1ndl4zl",
+  "1ndl4zc",
+  "1ndl4z0",
+  "1ndl4yw",
+  "1ndkcln",
+  "1ndkau8",
+  "1ndkagu",
+  "1ndka7v",
+  "1ndk9nb",
+  "1ndk8nb",
+  "1ndjsgn"
+ ]
+}

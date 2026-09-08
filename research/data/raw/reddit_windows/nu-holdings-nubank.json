@@ -1,0 +1,301 @@
+{
+ "company": "Nu Holdings (Nubank)",
+ "query": "\"Nu Holdings\" IPO",
+ "aliases": [
+  "Nu Holdings",
+  "Nubank"
+ ],
+ "s1_date": "2021-11-01",
+ "listing_date": "2021-12-09",
+ "oldest_needed": "2021-08-03",
+ "fetched_at": "2026-09-08T16:35:31.757850+00:00",
+ "service": "redditapis.com (third-party scraper, not the official Reddit API)",
+ "note": "No date-range parameter exists on this endpoint; t is relative to now. Windows are bucketed client-side from created_utc.",
+ "pages": 1,
+ "kept_posts": 37,
+ "discarded_no_mention": 7,
+ "reached_window_start": false,
+ "oldest_seen_ts": 1638288414,
+ "listing_ended": true,
+ "posts": [
+  {
+   "id": "1twr7tr",
+   "created_utc": 1780587372,
+   "subreddit": "EconomicSuperposition",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1twhxdy",
+   "created_utc": 1780563213,
+   "subreddit": "wallstreetbets",
+   "upvotes": 116,
+   "comments": 58
+  },
+  {
+   "id": "1tkuzbj",
+   "created_utc": 1779481792,
+   "subreddit": "stocks",
+   "upvotes": 0,
+   "comments": 30
+  },
+  {
+   "id": "1tkuy6j",
+   "created_utc": 1779481720,
+   "subreddit": "ValueInvesting",
+   "upvotes": 71,
+   "comments": 235
+  },
+  {
+   "id": "1q2gd6i",
+   "created_utc": 1767402003,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1nn94dw",
+   "created_utc": 1758503415,
+   "subreddit": "Asianewsroom",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mgsrxe",
+   "created_utc": 1754250933,
+   "subreddit": "u_TradingAllIn",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1jlt74k",
+   "created_utc": 1743162549,
+   "subreddit": "ValueInvesting",
+   "upvotes": 111,
+   "comments": 83
+  },
+  {
+   "id": "1jkt5p2",
+   "created_utc": 1743040866,
+   "subreddit": "WallStreetbetsELITE",
+   "upvotes": 0,
+   "comments": 2
+  },
+  {
+   "id": "1gzndaz",
+   "created_utc": 1732553305,
+   "subreddit": "NU_Holdings",
+   "upvotes": 6,
+   "comments": 4
+  },
+  {
+   "id": "1enrjdv",
+   "created_utc": 1723180481,
+   "subreddit": "UltimateTraders",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1b6le5c",
+   "created_utc": 1709584465,
+   "subreddit": "stocks",
+   "upvotes": 27,
+   "comments": 32
+  },
+  {
+   "id": "13j3t0w",
+   "created_utc": 1684240078,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "13j3se8",
+   "created_utc": 1684240031,
+   "subreddit": "WallStreetStockMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "13j3rg0",
+   "created_utc": 1684239965,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "13j3qwt",
+   "created_utc": 1684239925,
+   "subreddit": "StocksMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "13j3q73",
+   "created_utc": 1684239875,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "13j3plt",
+   "created_utc": 1684239834,
+   "subreddit": "stocks",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "13j3ori",
+   "created_utc": 1684239772,
+   "subreddit": "StockMarketChat",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "11xlgxx",
+   "created_utc": 1679414987,
+   "subreddit": "Shortsqueeze",
+   "upvotes": 4,
+   "comments": 2
+  },
+  {
+   "id": "11xhcgk",
+   "created_utc": 1679406338,
+   "subreddit": "pennystocktoday",
+   "upvotes": 19,
+   "comments": 1
+  },
+  {
+   "id": "ysa2f0",
+   "created_utc": 1668172260,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "wpsrvt",
+   "created_utc": 1660652091,
+   "subreddit": "u_bigbear0083",
+   "upvotes": 0,
+   "comments": 0
+  },
+  {
+   "id": "wpsqrg",
+   "created_utc": 1660652013,
+   "subreddit": "StockMarketMovers",
+   "upvotes": 7,
+   "comments": 0
+  },
+  {
+   "id": "wpsq3y",
+   "created_utc": 1660651969,
+   "subreddit": "FinancialMarket",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "wpspjk",
+   "created_utc": 1660651927,
+   "subreddit": "stocks",
+   "upvotes": 7,
+   "comments": 0
+  },
+  {
+   "id": "wpsoo8",
+   "created_utc": 1660651861,
+   "subreddit": "StockMarket",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "wpso1f",
+   "created_utc": 1660651811,
+   "subreddit": "StockMarketChat",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "v379xk",
+   "created_utc": 1654171333,
+   "subreddit": "wallstreetbets",
+   "upvotes": 13,
+   "comments": 26
+  },
+  {
+   "id": "szq3wl",
+   "created_utc": 1645645604,
+   "subreddit": "StockMarket",
+   "upvotes": 6,
+   "comments": 12
+  },
+  {
+   "id": "rxfdq8",
+   "created_utc": 1641477997,
+   "subreddit": "NU_Holdings",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "rdy6wd",
+   "created_utc": 1639223341,
+   "subreddit": "trading212",
+   "upvotes": 3,
+   "comments": 2
+  },
+  {
+   "id": "rczi8t",
+   "created_utc": 1639108439,
+   "subreddit": "NU_Holdings",
+   "upvotes": 3,
+   "comments": 6
+  },
+  {
+   "id": "rc38i2",
+   "created_utc": 1639004047,
+   "subreddit": "u_IpoMarketWatch",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "rbry59",
+   "created_utc": 1638971965,
+   "subreddit": "IPONews",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "r61axn",
+   "created_utc": 1638317178,
+   "subreddit": "u_IpoMarketWatch",
+   "upvotes": 8,
+   "comments": 0
+  },
+  {
+   "id": "r5qkct",
+   "created_utc": 1638288414,
+   "subreddit": "IPONews",
+   "upvotes": 6,
+   "comments": 0
+  }
+ ],
+ "pre_filing_count": 0,
+ "post_listing_count": 4,
+ "pre_filing_complete": false,
+ "post_listing_complete": true,
+ "oldest_seen": "2021-11-30",
+ "pre_filing_window": [
+  "2021-08-03",
+  "2021-11-01"
+ ],
+ "post_listing_window": [
+  "2021-12-09",
+  "2022-03-09"
+ ],
+ "pre_filing_ids": [],
+ "post_listing_ids": [
+  "szq3wl",
+  "rxfdq8",
+  "rdy6wd",
+  "rczi8t"
+ ]
+}

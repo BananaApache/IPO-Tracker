@@ -1,0 +1,543 @@
+{
+ "company": "Firefly Aerospace",
+ "query": "\"Firefly Aerospace\" IPO",
+ "aliases": [
+  "Firefly Aerospace"
+ ],
+ "s1_date": "2025-07-11",
+ "listing_date": "2025-08-07",
+ "oldest_needed": "2025-04-12",
+ "fetched_at": "2026-09-08T16:34:06.695559+00:00",
+ "service": "redditapis.com (third-party scraper, not the official Reddit API)",
+ "note": "No date-range parameter exists on this endpoint; t is relative to now. Windows are bucketed client-side from created_utc.",
+ "pages": 1,
+ "kept_posts": 69,
+ "discarded_no_mention": 18,
+ "reached_window_start": true,
+ "oldest_seen_ts": 1611623501,
+ "listing_ended": false,
+ "posts": [
+  {
+   "id": "1w68btw",
+   "created_utc": 1788444183,
+   "subreddit": "u_insights-center",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1vz2vo0",
+   "created_utc": 1787763635,
+   "subreddit": "u_Tuttle_Cap_Mgmt",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ugdeud",
+   "created_utc": 1782495212,
+   "subreddit": "NotableObits",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tvonfh",
+   "created_utc": 1780491642,
+   "subreddit": "ArcanumVentures",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1tttl2t",
+   "created_utc": 1780323388,
+   "subreddit": "SpaceXBets",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1tt51gh",
+   "created_utc": 1780256040,
+   "subreddit": "wallstreetbets",
+   "upvotes": 118,
+   "comments": 91
+  },
+  {
+   "id": "1tl0mfv",
+   "created_utc": 1779495256,
+   "subreddit": "ValueInvesting",
+   "upvotes": 3,
+   "comments": 14
+  },
+  {
+   "id": "1s8rqjn",
+   "created_utc": 1774973255,
+   "subreddit": "InterstellarKinetics",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1s74qt2",
+   "created_utc": 1774813168,
+   "subreddit": "IntuitiveMachines",
+   "upvotes": 71,
+   "comments": 25
+  },
+  {
+   "id": "1s4pl7q",
+   "created_utc": 1774572847,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1s3tznc",
+   "created_utc": 1774488820,
+   "subreddit": "AIGuild",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1qeikdt",
+   "created_utc": 1768576372,
+   "subreddit": "wallstreetbets",
+   "upvotes": 13,
+   "comments": 37
+  },
+  {
+   "id": "1pzi6vo",
+   "created_utc": 1767101472,
+   "subreddit": "Badboyardie",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1pzgdok",
+   "created_utc": 1767096114,
+   "subreddit": "ChartNavigators",
+   "upvotes": 1,
+   "comments": 1
+  },
+  {
+   "id": "1puks9d",
+   "created_utc": 1766573829,
+   "subreddit": "u_MorrisseysRubiksCube",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1ozum6t",
+   "created_utc": 1763418709,
+   "subreddit": "SECFilingsAI",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ovuckf",
+   "created_utc": 1763016843,
+   "subreddit": "SECFilingsAI",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1ov4mb8",
+   "created_utc": 1762952744,
+   "subreddit": "asktraders",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nud70r",
+   "created_utc": 1759238842,
+   "subreddit": "OptionsLab",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nq9v3l",
+   "created_utc": 1758814172,
+   "subreddit": "StockValueAnalysis",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nnxksg",
+   "created_utc": 1758572784,
+   "subreddit": "SECFilingsAI",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1nnxevy",
+   "created_utc": 1758572416,
+   "subreddit": "StockTitan",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1nnx850",
+   "created_utc": 1758571983,
+   "subreddit": "Quantisnow",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1niutj3",
+   "created_utc": 1758059156,
+   "subreddit": "SqueezePlays",
+   "upvotes": 5,
+   "comments": 1
+  },
+  {
+   "id": "1niushe",
+   "created_utc": 1758059088,
+   "subreddit": "Shortsqueeze",
+   "upvotes": 83,
+   "comments": 31
+  },
+  {
+   "id": "1nekb2d",
+   "created_utc": 1757624027,
+   "subreddit": "investing",
+   "upvotes": 13,
+   "comments": 13
+  },
+  {
+   "id": "1mwdjr6",
+   "created_utc": 1755788776,
+   "subreddit": "RocketLab",
+   "upvotes": 0,
+   "comments": 31
+  },
+  {
+   "id": "1mqh19i",
+   "created_utc": 1755214390,
+   "subreddit": "smallstreetbets",
+   "upvotes": 5,
+   "comments": 0
+  },
+  {
+   "id": "1ml69h3",
+   "created_utc": 1754685216,
+   "subreddit": "edgar_news",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mkedqa",
+   "created_utc": 1754606370,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 3,
+   "comments": 1
+  },
+  {
+   "id": "1mk7tsl",
+   "created_utc": 1754591026,
+   "subreddit": "Offwallstreetbets",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mk7ts6",
+   "created_utc": 1754591025,
+   "subreddit": "QuantSignals",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mk7trl",
+   "created_utc": 1754591024,
+   "subreddit": "HenryZhang",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mk6ta9",
+   "created_utc": 1754588745,
+   "subreddit": "StockValueAnalysis",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mk6mhg",
+   "created_utc": 1754588328,
+   "subreddit": "CryptoSN",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mk5c46",
+   "created_utc": 1754585463,
+   "subreddit": "FLY_STOCK",
+   "upvotes": 4,
+   "comments": 1
+  },
+  {
+   "id": "1mk10ow",
+   "created_utc": 1754575550,
+   "subreddit": "u_WinningWatchlist",
+   "upvotes": 9,
+   "comments": 2
+  },
+  {
+   "id": "1mk0xc0",
+   "created_utc": 1754575338,
+   "subreddit": "stocks",
+   "upvotes": 17,
+   "comments": 60
+  },
+  {
+   "id": "1mjx0m0",
+   "created_utc": 1754564461,
+   "subreddit": "financialbooklet",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mjlpst",
+   "created_utc": 1754526816,
+   "subreddit": "Daytrading",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mjlpnz",
+   "created_utc": 1754526807,
+   "subreddit": "technicalanalysis",
+   "upvotes": 7,
+   "comments": 0
+  },
+  {
+   "id": "1mjb473",
+   "created_utc": 1754501632,
+   "subreddit": "wallstreetbetsHUZZAH",
+   "upvotes": 6,
+   "comments": 5
+  },
+  {
+   "id": "1mj5u6l",
+   "created_utc": 1754489718,
+   "subreddit": "capitalcom",
+   "upvotes": 6,
+   "comments": 0
+  },
+  {
+   "id": "1mih9en",
+   "created_utc": 1754418701,
+   "subreddit": "DeepMarketScan",
+   "upvotes": 10,
+   "comments": 8
+  },
+  {
+   "id": "1mhruw2",
+   "created_utc": 1754346455,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1mhnnk8",
+   "created_utc": 1754336787,
+   "subreddit": "financialbooklet",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mhm0tj",
+   "created_utc": 1754333197,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mhm0tc",
+   "created_utc": 1754333196,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mhlg7v",
+   "created_utc": 1754331945,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mhl95a",
+   "created_utc": 1754331526,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mh0z43",
+   "created_utc": 1754272491,
+   "subreddit": "redwire",
+   "upvotes": 46,
+   "comments": 18
+  },
+  {
+   "id": "1mbyv58",
+   "created_utc": 1753753590,
+   "subreddit": "SpaceXLounge",
+   "upvotes": 81,
+   "comments": 29
+  },
+  {
+   "id": "1mbuh2s",
+   "created_utc": 1753741762,
+   "subreddit": "MarketFluxHub",
+   "upvotes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1mbsup9",
+   "created_utc": 1753737838,
+   "subreddit": "business",
+   "upvotes": 37,
+   "comments": 4
+  },
+  {
+   "id": "1mbsiub",
+   "created_utc": 1753737059,
+   "subreddit": "IntuitiveMachines",
+   "upvotes": 66,
+   "comments": 22
+  },
+  {
+   "id": "1mbqy5t",
+   "created_utc": 1753733494,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mbqy5j",
+   "created_utc": 1753733494,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mbqc5w",
+   "created_utc": 1753732106,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mbq9oq",
+   "created_utc": 1753731947,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mbp0ry",
+   "created_utc": 1753729158,
+   "subreddit": "TrendoraX",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mbnq4x",
+   "created_utc": 1753726283,
+   "subreddit": "AutoNewspaper",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1mbnk8x",
+   "created_utc": 1753725928,
+   "subreddit": "NBCauto",
+   "upvotes": 1,
+   "comments": 0
+  },
+  {
+   "id": "1lzkkz8",
+   "created_utc": 1752494654,
+   "subreddit": "Optionmillionaires",
+   "upvotes": 2,
+   "comments": 0
+  },
+  {
+   "id": "1lxz8lj",
+   "created_utc": 1752323240,
+   "subreddit": "Lunr",
+   "upvotes": 29,
+   "comments": 16
+  },
+  {
+   "id": "1lxknun",
+   "created_utc": 1752273768,
+   "subreddit": "wallstreetbets",
+   "upvotes": 546,
+   "comments": 168
+  },
+  {
+   "id": "1lxjxbs",
+   "created_utc": 1752271807,
+   "subreddit": "SpaceInvestorsDaily",
+   "upvotes": 43,
+   "comments": 6
+  },
+  {
+   "id": "lv61kh",
+   "created_utc": 1614595189,
+   "subreddit": "ameisenstrassenwetten",
+   "upvotes": 11,
+   "comments": 19
+  },
+  {
+   "id": "l5pfzb",
+   "created_utc": 1611700099,
+   "subreddit": "SpaceStockExchange",
+   "upvotes": 15,
+   "comments": 6
+  },
+  {
+   "id": "l52ll0",
+   "created_utc": 1611623501,
+   "subreddit": "SPACs",
+   "upvotes": 62,
+   "comments": 20
+  }
+ ],
+ "pre_filing_count": 0,
+ "post_listing_count": 23,
+ "pre_filing_complete": true,
+ "post_listing_complete": true,
+ "oldest_seen": "2021-01-26",
+ "pre_filing_window": [
+  "2025-04-12",
+  "2025-07-11"
+ ],
+ "post_listing_window": [
+  "2025-08-07",
+  "2025-11-05"
+ ],
+ "pre_filing_ids": [],
+ "post_listing_ids": [
+  "1nud70r",
+  "1nq9v3l",
+  "1nnxksg",
+  "1nnxevy",
+  "1nnx850",
+  "1niutj3",
+  "1niushe",
+  "1nekb2d",
+  "1mwdjr6",
+  "1mqh19i",
+  "1ml69h3",
+  "1mkedqa",
+  "1mk7tsl",
+  "1mk7ts6",
+  "1mk7trl",
+  "1mk6ta9",
+  "1mk6mhg",
+  "1mk5c46",
+  "1mk10ow",
+  "1mk0xc0",
+  "1mjx0m0",
+  "1mjlpst",
+  "1mjlpnz"
+ ]
+}

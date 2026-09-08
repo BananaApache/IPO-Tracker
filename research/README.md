@@ -49,7 +49,7 @@ Measured **2026-09-08**:
 | **NYT Article Search** | primary news signal | works and reaches 2019. Count is at `response.metadata.hits` | **in use** |
 | **GNews** | corroborating news | `totalArticles` returned, but *articles stripped*: "historical data beyond 30 days is only available on paid plans" | **dropped** |
 | **twitterapis.com** | social | no total-count field; paging runs newest-first. Date operators degrade badly on older windows | **in use, two fixed windows** |
-| **redditapis.com** | social | no date-range parameter at all; one page of `sort=new` spanned **2.17 days** | **dropped** |
+| **redditapis.com** | social | no date-range parameter at all. With a *narrow* query a page spans ~600 days, enough for two fixed windows | **in use, two fixed windows** |
 
 Three of these differ from what the module brief assumed, and each changed the
 design rather than being worked around.
@@ -619,6 +619,95 @@ And the direction was never really in doubt: attention rising when a company
 starts trading is close to a tautology. The interesting question was the
 pre-filing run-up, and this instrument is weakest exactly there.
 
+### Reddit: the same two windows, bucketed client-side
+
+`collect/reddit_windows.py`. This source has the worst API of the seven and was
+originally dropped outright; the narrow query is what made it viable.
+
+**There is still no date range.** `q`, `sort`, and a `t` bucket relative to *now*
+(`hour|day|week|month|year|all`). `t=year` means "the last twelve months", not
+"the year around Lyft's 2019 S-1". So the windows are bucketed **client-side**:
+sweep `t=all` sorted by `new`, page backwards with `after`, and assign each post
+by its own `created_utc`.
+
+That was hopeless before — a 100-post page of `q=Instacart` spanned **2.17
+days**. With `"<brand>" IPO` a page spans **~600 days** (Lyft: page 1 covered
+2024-12 to 2026-09, page 2 covered 2023-05 to 2024-12), so reaching a 2019
+window costs about five pages. One sweep serves both windows, which makes this
+cheaper per company than the X collection, where each window needed its own query.
+
+**Spend: 101 of 270 calls ($0.20).** All 39 companies swept.
+
+Two corrections applied to the raw response:
+
+* **A brand filter.** The provider matches loosely — 18 of 100 raw Lyft results
+  never mention Lyft. Every post is checked against the brand and its aliases
+  before counting. **11% of everything fetched was discarded.**
+* **Per-window completeness.** `sort=new` walks backwards from today, so the
+  post-listing window is reached before the pre-filing one. A count is a count
+  only if the sweep reached back past *that window's* start; otherwise it is a
+  floor. An early version got this wrong at the sweep level and would have
+  reported SpaceX's pre-filing count as **0** when the sweep had never gone back
+  that far — a fabricated finding of no anticipation. `pre_filing_complete` and
+  `post_listing_complete` are now separate.
+
+#### 28 of 39 are incomplete, and more budget cannot fix them
+
+Every incomplete sweep stopped because **Reddit stopped issuing a pagination
+cursor**, not because it ran out of pages: 22 stopped at 3 pages, 5 at 1, 1 at 2,
+against a cap of 7. Reddit's own response says a platform cut-off and a genuine
+end-of-data are indistinguishable from outside. So **169 of 270 calls are left
+unspent** — spending them could not change a single row.
+
+The failure mode is the **mirror image** of the X windows. There, all 13
+unreliable rows were *pre-filing* windows on *older* listings. Here the losses
+are *recent, heavily-discussed* companies, because `sort=new` starts at today and
+a busy query burns its cursor before reaching back. Two scrapers, two opposite
+blind spots — a reason to report them separately rather than pooling them into
+one "social" number.
+
+#### What it found
+
+Of the 11 companies with both windows complete, **11 of 11 rose**, sign test
+**p = 0.001**:
+
+| company | pre-filing | post-listing |
+|---|---|---|
+| StubHub | 1 | 59 |
+| Chime | 10 | 41 |
+| Mobileye | 9 | 35 |
+| Cerebras Systems | 4 | 32 |
+| Birkenstock | 5 | 31 |
+| Circle Internet | **0** | 25 |
+| Klaviyo | 5 | 24 |
+| Firefly Aerospace | **0** | 23 |
+| Duolingo | 1 | 18 |
+| Rubrik | 1 | 15 |
+| Arm Holdings | **0** | 13 |
+
+Three companies had *exactly zero* pre-filing Reddit posts, and unlike the
+partial sweeps these are real zeros — the sweep reached back past the window.
+
+### Three instruments, one direction
+
+| instrument | usable | rose | test |
+|---|---|---|---|
+| Wikipedia, DRS-anchored | 20 companies | 18/20 into the public window | p < 0.001 |
+| X windows | 20 pairs with direction established | **20/20** | 8/8 exact, p = 0.008 |
+| Reddit windows | 11 complete pairs | **11/11** | p = 0.001 |
+
+Three sources with different corpora, different failure modes and different query
+operators all say the listing is the attention event. That convergence is worth
+more than any one of them.
+
+It is also the least surprising possible result. Attention rising when a company
+starts trading is close to tautological, and the question with real content — the
+*pre-filing run-up* — is where every instrument here is weakest: Wikipedia's
+confidential-window rise is not significant (p = 0.115), all 13 unreliable X rows
+are pre-filing windows, and Reddit's losses concentrate in the companies with the
+most pre-filing chatter. The withdrawn-company comparison group is what would
+settle it, and it is still not collected.
+
 ### The monthly density series: abandoned, and why
 
 `twitter_monthly_counts.parquet` does **not exist** and `data/raw/twitter/` is
@@ -677,9 +766,10 @@ Read these before quoting any number from this module.
    price panel at all, and four of the remaining 12 have fewer than 90 trading
    sessions. This is a provider entitlement, not a property of the companies.
 
-5. **X data covers two fixed windows, not a time series.** There is no monthly
-   social panel; `collect/twitter.py` is complete but unrun. Figure 1's social
-   panel is therefore absent, and Figure 4 is the only social result.
+5. **Social data covers two fixed windows, not a time series.** There is no
+   monthly social panel; `collect/twitter.py` is complete but unrun. Figure 1's
+   social panel is therefore absent, and Figure 4 (in an X and a Reddit variant)
+   is the only social result.
 
 6. **The X windows degrade on old listings, and are censored on busy ones.**
    All 13 `unreliable_window` rows are pre-filing windows — the provider's date
@@ -690,7 +780,14 @@ Read these before quoting any number from this module.
    budget is now spent** (684 of 687), so the five ambiguous pairs cannot be
    resolved without more credits.
 
-7. **When collected, monthly X data would be a density estimate, not a count.**
+7. **Reddit reaches only 11 of 39 companies, and no budget can improve that.**
+   Its endpoint has no date range, so windows are bucketed from a `sort=new`
+   sweep; 28 of 39 sweeps ran out of pagination cursor before reaching the
+   window, all of them at 3 pages or fewer against a cap of 7. 169 of 270 calls
+   are deliberately unspent. 11% of fetched posts were discarded for never
+   naming the company.
+
+8. **When collected, monthly X data would be a density estimate, not a count.**
    `twitterapis.com` is a third-party service, not the official X API. Its
    coverage is not contractually guaranteed, its output may change shape or
    depth without notice, and reruns may not reproduce — which is why raw
@@ -700,22 +797,22 @@ Read these before quoting any number from this module.
    estimated from the month's final hours, not measured across it. Only months
    with `reached_month_start` are complete counts.
 
-8. **The news signal is sparse.** Instacart's peak IPO month is 17 NYT articles;
+9. **The news signal is sparse.** Instacart's peak IPO month is 17 NYT articles;
    most pre-filing months are 0. A 27-point monthly series of mostly zeros
    supports very little. No trendline or smoothing is applied that would imply
    more resolution than exists.
 
-9. **Underpowered by construction.** With ~12 companies in the priority-1 set
+10. **Underpowered by construction.** With ~12 companies in the priority-1 set
    and ~25 in the full watchlist, essentially every correlation between
    attention and return here is underpowered. The expectation is to label them
    that way, not to find a way not to. A null result is a real result.
 
-10. **Ambiguous names traded recall for precision.** Rows flagged `ambiguous` in
+11. **Ambiguous names traded recall for precision.** Rows flagged `ambiguous` in
    `watchlist.csv` use a narrowed query and are not directly comparable to
    unnarrowed rows. The rule was fixed before collection; the trade is real
    either way.
 
-11. **`research/` is exempted from PROJECT_BRIEF.md §7's ban on third-party
+12. **`research/` is exempted from PROJECT_BRIEF.md §7's ban on third-party
    scraper APIs** by the module brief, and only for this module. Nothing from
    these sources feeds the deployed pipeline. Every other §7 constraint still
    applies here: read-only, no raw usernames persisted, licensed market data,
@@ -737,6 +834,7 @@ research/
     nyt.py              NYT monthly counts, resumable, daily-cap aware
     twitter.py          X monthly density; needs --budget, --recompute is free
     twitter_windows.py  X counts in two fixed windows; fits a small budget
+    reddit_windows.py   Reddit counts, bucketed client-side (no date-range API)
     edgar_events.py     DRS / Form D / comment letters / withdrawals -- free, offline
     wikipedia.py        pageviews: keyless, dense, 2015->today
     prices.py           Polygon daily bars + first-trade reconciliation
@@ -749,6 +847,7 @@ research/
     edgar_events.parquet / edgar_filings.parquet   filing timeline
     wikipedia_monthly.parquet / wikipedia_resolution.csv
     twitter_windows.parquet                        before/after X counts
+    reddit_windows.parquet                         before/after Reddit counts
     nyt_monthly_counts.parquet
     twitter_monthly_counts.parquet
     prices_daily.parquet
