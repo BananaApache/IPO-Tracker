@@ -121,6 +121,24 @@ async def backfill_social(days: int, slice_days: int = 2) -> None:
         await pool.close()
 
 
+async def backfill_bars_for_mentioned() -> None:
+    """Daily bars for every issuer we have mentions for, any cohort."""
+    from backend.prices.ingest import ingest_bars_for_mentioned
+    from backend.prices.polygon import PolygonClient
+
+    settings = get_settings()
+    pool = await create_pool(settings)
+    try:
+        client = PolygonClient(settings)
+        try:
+            report = await ingest_bars_for_mentioned(pool, client, settings)
+        finally:
+            await client.aclose()
+        logger.info("bars for mentioned issuers: %s", report)
+    finally:
+        await pool.close()
+
+
 async def backfill_prices() -> None:
     """Fetch daily bars for pending listing events and promote them to 'listed'."""
     from backend.prices.ingest import ingest_prices
@@ -370,6 +388,10 @@ def main() -> None:
         help="max listing events to fetch prices for in a --once run",
     )
     parser.add_argument(
+        "--backfill-bars-mentioned", action="store_true",
+        help="daily bars for every issuer with mentions, any cohort",
+    )
+    parser.add_argument(
         "--backfill-social", type=int, metavar="DAYS",
         help="ingest social mentions across a long window, in slices",
     )
@@ -391,7 +413,9 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    if args.backfill_social:
+    if args.backfill_bars_mentioned:
+        asyncio.run(backfill_bars_for_mentioned())
+    elif args.backfill_social:
         asyncio.run(backfill_social(args.backfill_social))
     elif args.backfill_prices:
         asyncio.run(backfill_prices())

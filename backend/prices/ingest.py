@@ -139,3 +139,68 @@ async def ingest_prices(
                 report.by_status["no_price_data"] = report.by_status.get("no_price_data", 0) + 1
 
     return report
+
+
+# Any issuer we have attention for, regardless of cohort. Separate from
+# ingest_prices because that function also promotes listing_events to 'listed',
+# and for an already-trading company the first bar is nowhere near its 8-A --
+# it would be marked no_price_data. Here we only want the series.
+_MENTIONED_WITH_TICKER = """
+    SELECT i.id AS issuer_id, i.ticker,
+           (SELECT min(posted_at)::date FROM mentions m
+             WHERE m.issuer_id = i.id AND NOT m.needs_review) AS first_mention,
+           (SELECT count(*) FROM price_bars b WHERE b.issuer_id = i.id) AS existing_bars
+    FROM issuers i
+    WHERE i.ticker IS NOT NULL
+      AND EXISTS (SELECT 1 FROM mentions m
+                   WHERE m.issuer_id = i.id AND NOT m.needs_review)
+    ORDER BY (SELECT count(*) FROM mentions m
+               WHERE m.issuer_id = i.id AND NOT m.needs_review) DESC
+"""
+
+
+async def ingest_bars_for_mentioned(
+    pool: asyncpg.Pool,
+    client: PolygonClient,
+    settings: Settings,
+    limit: int | None = None,
+    pad_days: int = 10,
+) -> PriceReport:
+    """Daily bars for every issuer we have mentions for.
+
+    Enables the daily-panel design: an issuer-day observation needs both a
+    mention count and a return, and 78% of our mentions belonged to issuers
+    with no price series at all.
+    """
+    report = PriceReport()
+    today = datetime.now(UTC).date()
+
+    async with pool.acquire() as connection:
+        targets = await connection.fetch(_MENTIONED_WITH_TICKER)
+    if limit is not None:
+        targets = targets[:limit]
+    report.considered = len(targets)
+
+    for row in targets:
+        if row["existing_bars"] > 0:
+            continue
+        start = (row["first_mention"] or today) - timedelta(days=pad_days)
+        try:
+            bars = await client.daily_bars(row["ticker"], start, today)
+        except Exception:
+            logger.warning("bars: fetch failed for %s", row["ticker"], exc_info=True)
+            continue
+        if not bars:
+            report.no_price_data += 1
+            continue
+
+        async with pool.acquire() as connection, connection.transaction():
+            for bar in bars:
+                await connection.execute(
+                    _INSERT_BAR, row["issuer_id"], bar.day, bar.open, bar.high,
+                    bar.low, bar.close, bar.volume, client.source,
+                )
+                report.bars_written += 1
+        report.listed += 1
+
+    return report
