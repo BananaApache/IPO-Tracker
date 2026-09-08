@@ -14,6 +14,7 @@ import asyncio
 import contextlib
 import logging
 import signal
+from datetime import UTC, datetime, timedelta
 
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from apscheduler.triggers.cron import CronTrigger
@@ -77,6 +78,45 @@ async def run_once(price_limit: int = 20) -> None:
                 len(report.profiles_missing),
                 ", ".join(report.profiles_missing[:5]),
             )
+    finally:
+        await pool.close()
+
+
+async def backfill_social(days: int, slice_days: int = 2) -> None:
+    """Ingest social mentions across a long window, in slices.
+
+    One fetch cannot span it: the Hacker News adapter is capped at 60,000 items
+    per call and the source produces roughly 10,000 a day, so a single request
+    for 210 days silently returns the most recent six. The window is walked
+    backwards instead, moving both ends.
+    """
+    settings = get_settings()
+    pool = await create_pool(settings)
+    totals = {"fetched": 0, "candidates": 0, "accepted": 0, "review": 0, "inserted": 0}
+    try:
+        async with pool.acquire() as connection:
+            written = await rebuild_for_all(connection)
+        logger.info("aliases: %d new", written)
+
+        end = datetime.now(UTC)
+        floor = end - timedelta(days=days)
+        while end > floor:
+            start = max(floor, end - timedelta(days=slice_days))
+            adapters = _build_adapters(settings)
+            try:
+                report = await ingest_social(pool, adapters, settings, since=start, until=end)
+            finally:
+                for adapter in adapters:
+                    await adapter.aclose()
+            totals["fetched"] += report.fetched
+            totals["candidates"] += report.candidates
+            totals["accepted"] += report.accepted
+            totals["review"] += report.needs_review
+            totals["inserted"] += report.inserted
+            logger.info("social %s..%s: %s | running %s",
+                        start.date(), end.date(), report, totals)
+            end = start
+        logger.info("social backfill complete over %d days: %s", days, totals)
     finally:
         await pool.close()
 
@@ -320,6 +360,10 @@ def main() -> None:
         help="max listing events to fetch prices for in a --once run",
     )
     parser.add_argument(
+        "--backfill-social", type=int, metavar="DAYS",
+        help="ingest social mentions across a long window, in slices",
+    )
+    parser.add_argument(
         "--backfill-prices", action="store_true",
         help="fetch daily bars for pending listing events",
     )
@@ -337,7 +381,9 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    if args.backfill_prices:
+    if args.backfill_social:
+        asyncio.run(backfill_social(args.backfill_social))
+    elif args.backfill_prices:
         asyncio.run(backfill_prices())
     elif args.backfill_extraction is not None:
         asyncio.run(backfill_extraction(args.backfill_extraction or None))

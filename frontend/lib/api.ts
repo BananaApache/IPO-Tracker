@@ -102,6 +102,7 @@ export interface Stats {
   mentions: number;
   mentions_needing_review: number;
   accuracy: Accuracy[];
+  study: StudyResult;
 }
 
 export interface ReviewItem {
@@ -140,3 +141,20 @@ export const listEvents = (params: { cohort?: Cohort; status?: EventStatus; limi
 
 export const listReviewQueue = (limit = 50) =>
   get<Page<ReviewItem>>(`/api/v1/review/queue?limit=${limit}`);
+
+export interface StudyHorizon {
+  horizon_days: number;
+  n: number;
+  n_with_attention: number;
+  spearman_rho: number;
+  permutation_p: number;
+  median_return: number;
+  underpowered: boolean;
+}
+
+export interface StudyResult {
+  verdict: string;
+  detail: string;
+  attention_window_days: number;
+  horizons: StudyHorizon[];
+}

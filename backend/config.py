@@ -63,7 +63,10 @@ class Settings(BaseSettings):
 
     # Social ingestion.
     social_lookback_days: int = 3
-    hn_max_items: int = 4000
+    # Per-fetch ceiling. Hacker News produces roughly 10,000 items a day, so
+    # this must exceed the window being requested or the fetch keeps only the
+    # most recent slice of it -- see the note in sources/hackernews.py.
+    hn_max_items: int = 30000
     social_poll_interval_minutes: int = 30
 
     # Keep-warm ping, OFF by default. Neon's free tier allows 191.9

@@ -114,6 +114,33 @@ least 90 days old, and attention ±14 days around it then falls before a 90-day
 corpus begins. Past 210 days the constraint stops being attention and becomes
 EDGAR depth.
 
+### The event study: a null result
+
+Does elevated attention around a listing predict underperformance from the
+opening price? **No usable relationship — the attention axis is too sparse to
+test the thesis.** Window (±14 days), horizons, metric and test were all fixed
+before the data was seen.
+
+| horizon | n | with attention | Spearman ρ | p | median return |
+|---|---|---|---|---|---|
+| 30 days | 171 | **6** | 0.151 | 0.048 | −8.5% |
+| 60 days | 157 | 4 | 0.133 | 0.099 | −15.9% |
+| 90 days | 112 | 2 | 0.083 | 0.418 | −15.7% |
+
+Only **6 of 188** confirmed listings have any matched attention within 14 days of
+listing, so 96–98% of the sample sits at zero. A rank correlation over a variable
+that is zero almost everywhere is decided by a handful of points: the 30-day
+`p = 0.048` rests on **6 observations** and is not a finding. Its sign is also
+opposite the hypothesis — the discussed listings did *better*.
+
+**One result here is well powered, and it is not about attention:** buying at the
+opening price lost money at the median over every horizon — −8.5% at 30 days,
+−15.9% at 60, −15.7% at 90, with 63–68% of listings negative. A descriptive fact
+about this window, not a test of the thesis.
+
+Reproduce with `python -m backend.study`. Returns are derived from the stored bar
+series on read, never cached.
+
 ### Two findings that changed the project
 
 **97% of matched attention belongs to companies that already trade.** Across 90

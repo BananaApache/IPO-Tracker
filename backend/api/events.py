@@ -109,6 +109,23 @@ class Accuracy(BaseModel):
     caveat: str
 
 
+class StudyHorizon(BaseModel):
+    horizon_days: int
+    n: int
+    n_with_attention: int
+    spearman_rho: float
+    permutation_p: float
+    median_return: float
+    underpowered: bool
+
+
+class StudyResult(BaseModel):
+    verdict: str
+    detail: str
+    attention_window_days: int
+    horizons: list[StudyHorizon]
+
+
 class Stats(BaseModel):
     issuers: int
     filings: int
@@ -124,6 +141,7 @@ class Stats(BaseModel):
     mentions: int
     mentions_needing_review: int
     accuracy: list[Accuracy]
+    study: StudyResult
 
 
 @router.get("/stats", summary="Pipeline counts and measured accuracy")
@@ -168,11 +186,39 @@ async def stats(conn: ConnDep) -> Stats:
         ),
     ]
 
+    # Recorded rather than recomputed per request: the permutation test is
+    # 10,000 shuffles per horizon, and these are measurements with fixed
+    # parameters, exactly like the accuracy figures above. Reproduce with
+    # `python -m backend.study`.
+    study = StudyResult(
+        verdict="No usable relationship. The attention axis is too sparse to test the thesis.",
+        detail=(
+            "Only 6 of 188 confirmed listings have any matched attention within "
+            "14 days of listing, so 96-98% of the sample sits at zero. A rank "
+            "correlation over a variable that is zero almost everywhere is "
+            "decided by a handful of points: the 30-day p of 0.048 rests on 6 "
+            "observations and is not a finding. Its sign is also opposite the "
+            "hypothesis -- the discussed listings did better, not worse."
+        ),
+        attention_window_days=14,
+        horizons=[
+            StudyHorizon(horizon_days=30, n=171, n_with_attention=6,
+                         spearman_rho=0.151, permutation_p=0.048,
+                         median_return=-0.085, underpowered=True),
+            StudyHorizon(horizon_days=60, n=157, n_with_attention=4,
+                         spearman_rho=0.133, permutation_p=0.099,
+                         median_return=-0.159, underpowered=True),
+            StudyHorizon(horizon_days=90, n=112, n_with_attention=2,
+                         spearman_rho=0.083, permutation_p=0.418,
+                         median_return=-0.157, underpowered=True),
+        ],
+    )
+
     return Stats(
         issuers=one["issuers"], filings=one["filings"], aliases=one["aliases"],
         offerings=one["offerings"], offerings_with_price=one["with_price"],
         offerings_with_underwriters=one["with_uw"], listing_events=one["events"],
         events_by_cohort=cohorts, events_by_status=statuses, study_cohort=one["study"],
         price_bars=one["bars"], mentions=one["mentions"],
-        mentions_needing_review=one["review"], accuracy=accuracy,
+        mentions_needing_review=one["review"], accuracy=accuracy, study=study,
     )

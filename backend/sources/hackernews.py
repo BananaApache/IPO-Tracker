@@ -33,6 +33,12 @@ class HackerNewsAdapter:
 
     def __init__(self, settings: Settings, client: RetryingClient | None = None) -> None:
         self._salt = settings.mention_hash_salt
+        # Truncation here is not neutral: the adapter walks the window
+        # newest-first, so a cap smaller than the window's volume silently
+        # keeps only its most recent hours. During a backfill that biases the
+        # attention series toward the end of every slice, which is worse than
+        # noise because it is systematic. Size the cap to the slice, not the
+        # other way round.
         self._max_items = settings.hn_max_items
         self._client = client or RetryingClient(
             user_agent=settings.sec_user_agent,

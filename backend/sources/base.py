@@ -43,8 +43,16 @@ class RawMention:
 class SourceAdapter(Protocol):
     name: str
 
-    async def fetch(self, since: datetime) -> list[RawMention]:
-        """Everything this source published at or after `since`."""
+    async def fetch(
+        self, since: datetime, until: datetime | None = None
+    ) -> list[RawMention]:
+        """Everything this source published in [since, until]. `until` defaults
+        to now.
+
+        The upper bound exists because a single fetch is capped -- Hacker News
+        produces ~10k items a day against a 60k-item ceiling per call -- so
+        paging a long window means moving both ends, not just `since`.
+        """
         ...
 
 

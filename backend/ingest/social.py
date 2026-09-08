@@ -71,6 +71,7 @@ async def ingest_social(
     adapters: list[SourceAdapter],
     settings: Settings,
     since: datetime | None = None,
+    until: datetime | None = None,
 ) -> SocialReport:
     report = SocialReport()
     since = since or datetime.now(UTC) - timedelta(days=settings.social_lookback_days)
@@ -84,7 +85,7 @@ async def ingest_social(
 
     for adapter in adapters:
         try:
-            items: list[RawMention] = await adapter.fetch(since)
+            items: list[RawMention] = await adapter.fetch(since, until)
         except Exception:
             # One source failing must not stop the others.
             logger.exception("social: %s fetch failed", adapter.name)
