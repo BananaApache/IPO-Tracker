@@ -1,0 +1,647 @@
+{
+ "from": "2022-01-01",
+ "to": "2022-01-31",
+ "fetched_at": "2026-09-08T04:21:38.592118+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2022-01-31",
+   "exchange": null,
+   "name": "Falcon Capital Acquisition Corp. II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-31",
+   "exchange": "NASDAQ Global",
+   "name": "Blue World Acquisition Corp",
+   "numberOfShares": 8000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BWAQU",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2022-01-28",
+   "exchange": null,
+   "name": "Nuvo Group Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-28",
+   "exchange": null,
+   "name": "Yi Po International Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "YBZN",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2022-01-28",
+   "exchange": "NASDAQ Capital",
+   "name": "VERDANT EARTH TECHNOLOGIES LTD",
+   "numberOfShares": 6250000,
+   "price": "7.00-9.00",
+   "status": "expected",
+   "symbol": "VDNT",
+   "totalSharesValue": 64687500
+  },
+  {
+   "date": "2022-01-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "Credo Technology Group Holding Ltd",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CRDO",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2022-01-27",
+   "exchange": "NASDAQ Global",
+   "name": "Knightscope, Inc.",
+   "numberOfShares": 2236619,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KSCP",
+   "totalSharesValue": 22366190
+  },
+  {
+   "date": "2022-01-26",
+   "exchange": null,
+   "name": "Brand Velocity Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-26",
+   "exchange": null,
+   "name": "Do It Again Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-25",
+   "exchange": null,
+   "name": "CAVU TECHNOLOGY ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-25",
+   "exchange": null,
+   "name": "TCG Growth Opportunities Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-25",
+   "exchange": "NASDAQ Global",
+   "name": "Keyarch Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KYCHU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-01-25",
+   "exchange": "NASDAQ Global",
+   "name": "LatAmGrowth SPAC",
+   "numberOfShares": 13000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LATGU",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2022-01-25",
+   "exchange": "NASDAQ Capital",
+   "name": "FGI Industries Ltd.",
+   "numberOfShares": 2500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "FGI",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2022-01-21",
+   "exchange": null,
+   "name": "Incannex Healthcare Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-21",
+   "exchange": null,
+   "name": "N2 Acquisition Holdings Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-21",
+   "exchange": null,
+   "name": "Moose Pond Acquisition Corp, NCV I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-21",
+   "exchange": null,
+   "name": "CommerceByUs, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-21",
+   "exchange": "NYSE",
+   "name": "KnightSwan Acquisition Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KNSWU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2022-01-21",
+   "exchange": "NYSE",
+   "name": "Heartland Media Acquisition Corp.",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HMA'U",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2022-01-21",
+   "exchange": "NASDAQ Global",
+   "name": "HCM Acquisition Corp",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HCMAU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2022-01-20",
+   "exchange": null,
+   "name": "Ascendant Digital Acquisition Corp. II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-20",
+   "exchange": null,
+   "name": "H.I.G. Acquisition Corp. II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-20",
+   "exchange": "NASDAQ Global",
+   "name": "DUET Acquisition Corp.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DUETU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2022-01-20",
+   "exchange": "NYSE",
+   "name": "Generation Asia I Acquisition Ltd",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GAQ'U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2022-01-20",
+   "exchange": "NYSE",
+   "name": "Banyan Acquisition Corp",
+   "numberOfShares": 21000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BYN'U",
+   "totalSharesValue": 210000000
+  },
+  {
+   "date": "2022-01-19",
+   "exchange": "NASDAQ Capital",
+   "name": "NSTS Bancorp, Inc.",
+   "numberOfShares": 5290000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NSTS",
+   "totalSharesValue": 52900000
+  },
+  {
+   "date": "2022-01-19",
+   "exchange": "NASDAQ Global",
+   "name": "AIB Acquisition Corp",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AIBBU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2022-01-18",
+   "exchange": "NASDAQ Global",
+   "name": "Technology & Telecommunication Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TETEU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-01-18",
+   "exchange": "NASDAQ Capital",
+   "name": "Yoshitsu Co., Ltd",
+   "numberOfShares": 6000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "TKLF",
+   "totalSharesValue": 24000000
+  },
+  {
+   "date": "2022-01-18",
+   "exchange": null,
+   "name": "HENGGUANG HOLDING CO, Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HGIA",
+   "totalSharesValue": 25555555
+  },
+  {
+   "date": "2022-01-14",
+   "exchange": null,
+   "name": "Spinal Elements Holdings, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-14",
+   "exchange": "NASDAQ Global",
+   "name": "Atlantic Coastal Acquisition Corp. II",
+   "numberOfShares": 26100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ACABU",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2022-01-14",
+   "exchange": "NASDAQ Global",
+   "name": "Papaya Growth Opportunity Corp. I",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PPYAU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2022-01-14",
+   "exchange": null,
+   "name": "DESRI Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DESR",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-01-14",
+   "exchange": null,
+   "name": "First Digital Health Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FDHAU",
+   "totalSharesValue": 201250000
+  },
+  {
+   "date": "2022-01-13",
+   "exchange": null,
+   "name": "Desert Peak Minerals Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-13",
+   "exchange": null,
+   "name": "Quiet Plus I Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-13",
+   "exchange": "NASDAQ Capital",
+   "name": "CFSB Bancorp, Inc. /MA/",
+   "numberOfShares": 2804306,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CFSB",
+   "totalSharesValue": 28043060
+  },
+  {
+   "date": "2022-01-13",
+   "exchange": "NASDAQ Global Select",
+   "name": "TPG Inc.",
+   "numberOfShares": 33900000,
+   "price": "29.50",
+   "status": "priced",
+   "symbol": "TPG",
+   "totalSharesValue": 1000050000
+  },
+  {
+   "date": "2022-01-13",
+   "exchange": "NASDAQ Global",
+   "name": "Consilium Acquisition Corp I, Ltd.",
+   "numberOfShares": 16500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CSLMU",
+   "totalSharesValue": 165000000
+  },
+  {
+   "date": "2022-01-13",
+   "exchange": "NYSE",
+   "name": "Andretti Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WNNRU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2022-01-12",
+   "exchange": null,
+   "name": "Modiv Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-12",
+   "exchange": "NASDAQ Global",
+   "name": "Gores Holdings IX, Inc.",
+   "numberOfShares": 52500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GHIXU",
+   "totalSharesValue": 525000000
+  },
+  {
+   "date": "2022-01-12",
+   "exchange": "NASDAQ Global",
+   "name": "Western Acquisition Ventures Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WAVSU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-01-12",
+   "exchange": "NASDAQ Capital",
+   "name": "Hillstream BioPharma Inc.",
+   "numberOfShares": 3750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "HILS",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2022-01-12",
+   "exchange": "NASDAQ Global",
+   "name": "Industrial Tech Acquisitions II, Inc.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ITAQU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2022-01-12",
+   "exchange": "NYSE",
+   "name": "10X Capital Venture Acquisition Corp. III",
+   "numberOfShares": 26100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VCXBU",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2022-01-11",
+   "exchange": null,
+   "name": "RMG Acquisition Corp. VI",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-11",
+   "exchange": null,
+   "name": "RMG Acquisition Corp. VII",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-11",
+   "exchange": null,
+   "name": "RMG Acquisition Corp. V",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-11",
+   "exchange": "NASDAQ Global",
+   "name": "Broad Capital Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BRACU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-01-07",
+   "exchange": "NASDAQ Global",
+   "name": "CinCor Pharma, Inc.",
+   "numberOfShares": 12100000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CINC",
+   "totalSharesValue": 193600000
+  },
+  {
+   "date": "2022-01-07",
+   "exchange": "NASDAQ Global Select",
+   "name": "Amylyx Pharmaceuticals, Inc.",
+   "numberOfShares": 10000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "AMLX",
+   "totalSharesValue": 190000000
+  },
+  {
+   "date": "2022-01-07",
+   "exchange": "NASDAQ Global",
+   "name": "Viscogliosi Brothers Acquisition Corp",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VBOCU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2022-01-07",
+   "exchange": "NASDAQ Global Select",
+   "name": "Vigil Neuroscience, Inc.",
+   "numberOfShares": 7000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "VIGL",
+   "totalSharesValue": 98000000
+  },
+  {
+   "date": "2022-01-07",
+   "exchange": "NYSE",
+   "name": "C5 Acquisition Corp",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CXACU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2022-01-07",
+   "exchange": "NASDAQ Capital",
+   "name": "Hour Loop, Inc",
+   "numberOfShares": 1500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "HOUR",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2022-01-07",
+   "exchange": null,
+   "name": "HomeSmart Holdings, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HS",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-01-06",
+   "exchange": "NASDAQ Global",
+   "name": "Screaming Eagle Acquisition Corp.",
+   "numberOfShares": 75000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SCRMU",
+   "totalSharesValue": 750000000
+  },
+  {
+   "date": "2022-01-05",
+   "exchange": null,
+   "name": "Authentic Brands Group Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-05",
+   "exchange": "NASDAQ Global",
+   "name": "Cartica Acquisition Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CITEU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2022-01-04",
+   "exchange": null,
+   "name": "Trajector, Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-01-04",
+   "exchange": null,
+   "name": "1.12 Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

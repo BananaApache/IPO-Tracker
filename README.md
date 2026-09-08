@@ -536,6 +536,10 @@ frontend/
   app/page.tsx       Server Component: renders the issuer table
   app/error.tsx      Client Component: error boundary (see the note inside)
   lib/api.ts         typed client for the FastAPI backend
+research/            pre-IPO attention analysis -- see research/README.md
+                     Separate from the deployed pipeline: writes files, not the
+                     database, and its dependencies are a group the deployed
+                     image does not install.
 docker-compose.yml   db + migrate + api
 .env.example         committed; .env is not
 ```

@@ -1,0 +1,62 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2025-10",
+ "begin_date": "20251001",
+ "end_date": "20251031",
+ "fetched_at": "2026-09-08T05:36:38.541232+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Some fans of women\u2019s athletic teams are holding bachelor or bachelorette parties at raucous arenas and stadiums around the world.",
+   "byline": {
+    "original": "By Alyson Krueger"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "And the Bride-to-Be Wore Her Favorite Sports Jersey",
+    "kicker": "",
+    "print_headline": "The Bride-to-Be Wore Her Favorite Basketball Jersey"
+   },
+   "_id": "nyt://article/1c876036-0ff8-5d53-9efb-c18e67021847",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Weddings and Engagements",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Athletics and Sports",
+     "rank": 2
+    }
+   ],
+   "multimedia": {
+    "caption": "Hayley Kosan, above, and Lauren Chan invited 20 friends to watch the New York Liberty play the Phoenix Mercury on July 25 as their joint bachelorette party. ",
+    "credit": "Lauren Chan",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/09/multimedia/09ST-WOMENS-SPORTS-BACHELORETTE-02-fktq/09ST-WOMENS-SPORTS-BACHELORETTE-02-fktq-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/09/multimedia/09ST-WOMENS-SPORTS-BACHELORETTE-02-fktq/09ST-WOMENS-SPORTS-BACHELORETTE-02-fktq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Styles",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-10-09T09:03:16Z",
+   "section_name": "Style",
+   "snippet": "Some fans of women\u2019s athletic teams are holding bachelor or bachelorette parties at raucous arenas and stadiums around the world.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/1c876036-0ff8-5d53-9efb-c18e67021847",
+   "web_url": "https://www.nytimes.com/2025/10/09/style/womens-sports-bachelorette-party.html",
+   "word_count": 839
+  }
+ ]
+}

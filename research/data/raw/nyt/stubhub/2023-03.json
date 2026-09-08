@@ -1,0 +1,213 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2023-03",
+ "begin_date": "20230301",
+ "end_date": "20230331",
+ "fetched_at": "2026-09-08T04:27:38.122597+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Our columnist thought she\u2019d gotten a good deal on Bruce Springsteen tickets. But could she have gotten a better one? Here\u2019s what she learned.",
+   "byline": {
+    "original": "By Ann Carrns"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Tips on Buying Tickets the Next Time Your Favorite Singer Is in Town",
+    "kicker": "your money adviser",
+    "print_headline": "Don\u2019t Shell Out for Concert Tickets Until You Read This"
+   },
+   "_id": "nyt://article/2f63ee84-53e8-5c46-9808-5589544feb36",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Box Office Sales",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Ticket Scalping",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Protection",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Fans (Persons)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Live Nation Entertainment Inc",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "StubHub",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Ticketmaster",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Till Lauer",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/03/04/business/03Adviser-print/03Adviser-illo-articleLarge.png",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/03/04/business/03Adviser-print/03Adviser-illo-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2023-03-03T10:00:21Z",
+   "section_name": "Your Money",
+   "snippet": "Our columnist thought she\u2019d gotten a good deal on Bruce Springsteen tickets. But could she have gotten a better one? Here\u2019s what she learned.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/2f63ee84-53e8-5c46-9808-5589544feb36",
+   "web_url": "https://www.nytimes.com/2023/03/03/your-money/concert-tickets-ticketmaster.html",
+   "word_count": 1185
+  },
+  {
+   "abstract": "Developed by a team of Broadway and Hollywood all-stars, the new Hulu series sets a chorus of inner critics to song.",
+   "byline": {
+    "original": "By Elisabeth Vincentelli"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "In \u2018Up Here,\u2019 the Song Stuck in Your Head Might Be Your Mean Ex-Crush",
+    "kicker": "",
+    "print_headline": "Energetically Taking On the Episodic Musical"
+   },
+   "_id": "nyt://article/0f8070bb-1569-5ec6-a127-8783d73693e1",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Television",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Music",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Theater",
+     "rank": 3
+    },
+    {
+     "name": "Title",
+     "value": "Up Here (TV Program)",
+     "rank": 4
+    },
+    {
+     "name": "Title",
+     "value": "Up Here (Play)",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Sanchez-Witzel, Danielle",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Valdes, Carlos (1989- )",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Anderson-Lopez, Kristen",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Whitman, Mae",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Lopez, Robert (1975- )",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Levenson, Steven",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Kail, Thomas",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Hulu.com",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "Carlos Valdes and Mae Whitman play Miguel and Lindsay in \u201cUp Here,\u201d a musical series developed from the stage musical by the power songwriting couple Kristen Anderson-Lopez and Robert Lopez.",
+    "credit": "Patrick Harbron/Hulu",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/03/28/multimedia/24up-here1-bhvw/24up-here1-bhvw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/03/28/multimedia/24up-here1-bhvw/24up-here1-bhvw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Culture",
+   "print_page": "2",
+   "print_section": "C",
+   "pub_date": "2023-03-24T14:00:09Z",
+   "section_name": "Arts",
+   "snippet": "Developed by a team of Broadway and Hollywood all-stars, the new Hulu series sets a chorus of inner critics to song.",
+   "source": "The New York Times",
+   "subsection_name": "Television",
+   "type_of_material": "News",
+   "uri": "nyt://article/0f8070bb-1569-5ec6-a127-8783d73693e1",
+   "web_url": "https://www.nytimes.com/2023/03/24/arts/television/up-here-hulu-musical-robert-lopez.html",
+   "word_count": 1396
+  }
+ ]
+}

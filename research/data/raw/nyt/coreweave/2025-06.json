@@ -1,0 +1,178 @@
+{
+ "company": "CoreWeave",
+ "query": "\"CoreWeave\"",
+ "month": "2025-06",
+ "begin_date": "20250601",
+ "end_date": "20250630",
+ "fetched_at": "2026-09-08T05:31:02.542769+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Private equity firms like Blackstone are using their clients\u2019 money to buy and build data centers to fuel the artificial intelligence boom.",
+   "byline": {
+    "original": "By Maureen Farrell"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Wall St. Is All In on A.I. Data Centers. But Are They the Next Bubble?",
+    "kicker": "",
+    "print_headline": "Data Centers For A.I.: Risk Or Sure Bet?"
+   },
+   "_id": "nyt://article/df74d392-81ab-5096-9b61-3fd65c50b72f",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Equity",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Blackstone Group, The",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Gray, Jonathan D (1970- )",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Quality Technology Services LLC",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "A Quality Technology Services data center in Sterling, Va. Blackstone, which acquired the company for $10 billion in 2021, has poured billions more into it to expand its data centers. ",
+    "credit": "Greg Kahn for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/28/multimedia/00biz-blackstone-AI-pqgc/00biz-blackstone-AI-pqgc-articleLarge.jpg",
+     "height": 450,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/28/multimedia/00biz-blackstone-AI-pqgc/00biz-blackstone-AI-pqgc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-06-02T09:00:12Z",
+   "section_name": "Business",
+   "snippet": "Private equity firms like Blackstone are using their clients\u2019 money to buy and build data centers to fuel the artificial intelligence boom.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/df74d392-81ab-5096-9b61-3fd65c50b72f",
+   "web_url": "https://www.nytimes.com/2025/06/02/business/ai-data-centers-private-equity.html",
+   "word_count": 1579
+  },
+  {
+   "abstract": "But Mr. Trump\u2019s warnings to his former ally are backed by several ways the White House could punish the world\u2019s richest man.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Trump Has Leverage Over Musk",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/90e45c34-97e2-55d6-b163-a024cae5e1cd",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Wood, Cathie (1955- )",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Bezos, Jeffrey P",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Gates, Bill",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "There\u2019s still a lot of distance in the Trump-Musk relationship.",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/09/multimedia/09db-newsletter-trump-musk-tljp/09db-newsletter-trump-musk-tljp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/09/multimedia/09db-newsletter-trump-musk-tljp/09db-newsletter-trump-musk-tljp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-09T11:47:57Z",
+   "section_name": "Business",
+   "snippet": "But Mr. Trump\u2019s warnings to his former ally are backed by several ways the White House could punish the world\u2019s richest man.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/90e45c34-97e2-55d6-b163-a024cae5e1cd",
+   "web_url": "https://www.nytimes.com/2025/06/09/business/dealbook/trump-musk-truce.html",
+   "word_count": 1979
+  }
+ ]
+}

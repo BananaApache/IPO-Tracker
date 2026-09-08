@@ -1,0 +1,77 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2024-12",
+ "begin_date": "20241201",
+ "end_date": "20241231",
+ "fetched_at": "2026-09-08T05:18:02.410490+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Over 21 months, the pop superstar\u2019s culture-dominating stage show doubled the gross of its closest competitor, according to ticket sales figures confirmed for the first time.",
+   "byline": {
+    "original": "By Ben Sisario"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Taylor Swift\u2019s Eras Tour Grand Total: A Record $2 Billion",
+    "kicker": "",
+    "print_headline": "A Cash Rocket Hurtles Beyond All the Stars"
+   },
+   "_id": "nyt://article/a45fad51-3428-5054-b974-37daa48f2507",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Fans (Persons)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Box Office Sales",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Swift, Taylor",
+     "rank": 4
+    },
+    {
+     "name": "Keyword",
+     "value": "The Eras Tour",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "Taylor Swift onstage at MetLife Stadium in New Jersey in May 2023. Her tour wrapped in Vancouver on Sunday night after 149 performances.",
+    "credit": "Jutharat Pinyodoonyachet for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/09/multimedia/09eras-wrap-gfqb/09eras-wrap-gfqb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/09/multimedia/09eras-wrap-gfqb/09eras-wrap-gfqb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Culture",
+   "print_page": "1",
+   "print_section": "C",
+   "pub_date": "2024-12-09T10:02:02Z",
+   "section_name": "Arts",
+   "snippet": "Over 21 months, the pop superstar\u2019s culture-dominating stage show doubled the gross of its closest competitor, according to ticket sales figures confirmed for the first time.",
+   "source": "The New York Times",
+   "subsection_name": "Music",
+   "type_of_material": "News",
+   "uri": "nyt://article/a45fad51-3428-5054-b974-37daa48f2507",
+   "web_url": "https://www.nytimes.com/2024/12/09/arts/music/taylor-swift-eras-tour-ticket-sales.html",
+   "word_count": 1208
+  }
+ ]
+}

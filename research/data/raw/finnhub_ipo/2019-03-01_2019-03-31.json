@@ -1,0 +1,257 @@
+{
+ "from": "2019-03-01",
+ "to": "2019-03-31",
+ "fetched_at": "2026-09-08T04:20:30.557845+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2019-03-29",
+   "exchange": "NASDAQ Global",
+   "name": "PUYI, INC.",
+   "numberOfShares": 4292276,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "PUYI",
+   "totalSharesValue": 25753656
+  },
+  {
+   "date": "2019-03-28",
+   "exchange": null,
+   "name": "CNS PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-03-28",
+   "exchange": "NASDAQ Capital",
+   "name": "8I ENTERPRISES ACQUISITION CORP.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JFKKU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2019-03-27",
+   "exchange": null,
+   "name": "KOU YOU KAI LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-03-27",
+   "exchange": null,
+   "name": "GBS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-03-27",
+   "exchange": null,
+   "name": "VRIO CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-03-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "GENFIT S.A.",
+   "numberOfShares": 6150000,
+   "price": "20.32",
+   "status": "priced",
+   "symbol": "GNFT",
+   "totalSharesValue": 124968000
+  },
+  {
+   "date": "2019-03-25",
+   "exchange": null,
+   "name": "MEXICO SALES MADE EASY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-03-21",
+   "exchange": "NYSE",
+   "name": "LEVI STRAUSS & CO",
+   "numberOfShares": 36666667,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LEVI",
+   "totalSharesValue": 623333339
+  },
+  {
+   "date": "2019-03-20",
+   "exchange": "NASDAQ Capital",
+   "name": "INSURANCE ACQUISITION CORP.",
+   "numberOfShares": 13100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "INSUU",
+   "totalSharesValue": 131000000
+  },
+  {
+   "date": "2019-03-20",
+   "exchange": "NASDAQ Global Select",
+   "name": "UP FINTECH HOLDING LTD",
+   "numberOfShares": 13000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "TIGR",
+   "totalSharesValue": 104000000
+  },
+  {
+   "date": "2019-03-18",
+   "exchange": null,
+   "name": "BJ SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-03-15",
+   "exchange": null,
+   "name": "BIOCERES S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-03-15",
+   "exchange": "NYSE",
+   "name": "TRINE ACQUISITION CORP.",
+   "numberOfShares": 26100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TRNEU",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2019-03-14",
+   "exchange": null,
+   "name": "PREFERRED SANDS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-03-08",
+   "exchange": null,
+   "name": "LMP AUTOMOTIVE HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-03-08",
+   "exchange": "NASDAQ Capital",
+   "name": "CRESCENT ACQUISITION CORP",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CRSAU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2019-03-08",
+   "exchange": "NASDAQ Global",
+   "name": "FUTU HOLDINGS LTD",
+   "numberOfShares": 7500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "FHL",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2019-03-07",
+   "exchange": "NASDAQ Global Select",
+   "name": "SHOCKWAVE MEDICAL, INC.",
+   "numberOfShares": 5700000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "SWAV",
+   "totalSharesValue": 96900000
+  },
+  {
+   "date": "2019-03-05",
+   "exchange": null,
+   "name": "CALIBURN INTERNATIONAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-03-05",
+   "exchange": null,
+   "name": "POLYPID LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-03-05",
+   "exchange": "NASDAQ Capital",
+   "name": "TUSCAN HOLDINGS CORP.",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "THCBU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2019-03-01",
+   "exchange": "NASDAQ Capital",
+   "name": "HENNESSY CAPITAL ACQUISITION CORP IV",
+   "numberOfShares": 26100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HCACU",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2019-03-01",
+   "exchange": null,
+   "name": "PRECISION BIOSCIENCES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DTIL",
+   "totalSharesValue": 126400000
+  },
+  {
+   "date": "2019-03-01",
+   "exchange": null,
+   "name": "LYFT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LYFT",
+   "totalSharesValue": 2340000000
+  }
+ ]
+}

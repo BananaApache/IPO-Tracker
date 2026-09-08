@@ -1,0 +1,97 @@
+{
+ "company": "Fervo Energy",
+ "query": "\"Fervo Energy\"",
+ "month": "2024-08",
+ "begin_date": "20240801",
+ "end_date": "20240831",
+ "fetched_at": "2026-09-08T04:37:26.127564+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "As electricity demand from data centers soars, Meta and Google are looking at a novel solution: harnessing clean heat far below Earth\u2019s surface.",
+   "byline": {
+    "original": "By Brad Plumer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Hungry for Clean Energy, Facebook Looks to a New Type of Geothermal",
+    "kicker": "",
+    "print_headline": "Big Tech, Hungry for Clean Energy, Tries Novel Solution"
+   },
+   "_id": "nyt://article/f1aff86f-19e4-54e2-8d31-3baa223367ea",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Geothermal Power",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Electric Light and Power",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Hydraulic Fracturing",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Meta Platforms Inc",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Google Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Sage Geosystems Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Fervo Energy Co",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "A Fervo Energy geothermal site near Milford, Utah, last year. Meta has announced a similar project with a Sage Geosystems in Texas.",
+    "credit": "Brandon Thibodeaux for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/27/multimedia/27CLI-GEOTHERMAL-web/27CLI-GEOTHERMAL-print-SUB-hkzb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/27/multimedia/27CLI-GEOTHERMAL-web/27CLI-GEOTHERMAL-print-SUB-hkzb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Climate",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2024-08-26T17:00:07Z",
+   "section_name": "Climate",
+   "snippet": "As electricity demand from data centers soars, Meta and Google are looking at a novel solution: harnessing clean heat far below Earth\u2019s surface.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/f1aff86f-19e4-54e2-8d31-3baa223367ea",
+   "web_url": "https://www.nytimes.com/2024/08/26/climate/meta-facebook-geothermal-fracking-energy.html",
+   "word_count": 842
+  }
+ ]
+}

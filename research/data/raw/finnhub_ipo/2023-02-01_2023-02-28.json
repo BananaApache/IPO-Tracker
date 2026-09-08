@@ -1,0 +1,347 @@
+{
+ "from": "2023-02-01",
+ "to": "2023-02-28",
+ "fetched_at": "2026-09-08T04:22:04.621293+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2023-02-28",
+   "exchange": null,
+   "name": "Bridgetown 3 Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-02-28",
+   "exchange": null,
+   "name": "Reverence Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-02-28",
+   "exchange": "NYSE",
+   "name": "SilverBox Corp III",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SBXCU",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2023-02-28",
+   "exchange": "NASDAQ Capital",
+   "name": "Beamr Imaging Ltd.",
+   "numberOfShares": 1950000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "BMR",
+   "totalSharesValue": 7800000
+  },
+  {
+   "date": "2023-02-27",
+   "exchange": null,
+   "name": "QZ Global LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "QZAM",
+   "totalSharesValue": 390000000
+  },
+  {
+   "date": "2023-02-24",
+   "exchange": null,
+   "name": "QZ Global LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "QZAM",
+   "totalSharesValue": 390000000
+  },
+  {
+   "date": "2023-02-24",
+   "exchange": null,
+   "name": "Neotv Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NTV",
+   "totalSharesValue": 50830000
+  },
+  {
+   "date": "2023-02-16",
+   "exchange": null,
+   "name": "Ocean Biomedical Holdings, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-02-15",
+   "exchange": null,
+   "name": "PicS Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-02-15",
+   "exchange": "NASDAQ Capital",
+   "name": "NFT Gaming Co Inc.",
+   "numberOfShares": 1686747,
+   "price": "4.15",
+   "status": "priced",
+   "symbol": "NFTG",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2023-02-15",
+   "exchange": "NASDAQ Global",
+   "name": "Distoken Acquisition Corp",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DISTU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2023-02-15",
+   "exchange": "NASDAQ Capital",
+   "name": "SONDORS Inc.",
+   "numberOfShares": 4000000,
+   "price": "4.00-6.00",
+   "status": "expected",
+   "symbol": "SODR",
+   "totalSharesValue": 27600000
+  },
+  {
+   "date": "2023-02-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Alopexx, Inc.",
+   "numberOfShares": 3000000,
+   "price": "5.00",
+   "status": "expected",
+   "symbol": "ALPX",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2023-02-14",
+   "exchange": "NASDAQ Capital",
+   "name": "BullFrog AI Holdings, Inc.",
+   "numberOfShares": 1297318,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "BFRG",
+   "totalSharesValue": 8432567
+  },
+  {
+   "date": "2023-02-14",
+   "exchange": "NASDAQ Global",
+   "name": "Mars Acquisition Corp.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MARXU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2023-02-14",
+   "exchange": null,
+   "name": "BioNexus Gene Lab Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2023-02-13",
+   "exchange": null,
+   "name": "Norcor Technologies Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2023-02-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "Enlight Renewable Energy Ltd.",
+   "numberOfShares": 14000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ENLT",
+   "totalSharesValue": 252000000
+  },
+  {
+   "date": "2023-02-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "Mineralys Therapeutics, Inc.",
+   "numberOfShares": 12000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "MLYS",
+   "totalSharesValue": 192000000
+  },
+  {
+   "date": "2023-02-10",
+   "exchange": "NASDAQ Global",
+   "name": "Pono Capital Three, Inc.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PTHRU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2023-02-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Bellevue Life Sciences Acquisition Corp.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BLACU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2023-02-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "NEXTracker Inc.",
+   "numberOfShares": 26600000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "NXT",
+   "totalSharesValue": 638400000
+  },
+  {
+   "date": "2023-02-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "Hesai Group",
+   "numberOfShares": 10000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "HSAI",
+   "totalSharesValue": 190000000
+  },
+  {
+   "date": "2023-02-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Lucy Scientific Discovery, Inc.",
+   "numberOfShares": 1875000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "LSDI",
+   "totalSharesValue": 7500000
+  },
+  {
+   "date": "2023-02-08",
+   "exchange": null,
+   "name": "Specialty Building Products, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-02-07",
+   "exchange": null,
+   "name": "Relief Therapeutics Holding SA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-02-07",
+   "exchange": null,
+   "name": "ZBJ FINANCE GROUP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ZBJ",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2023-02-06",
+   "exchange": null,
+   "name": "Oaktree Acquisition Corp. III",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-02-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Lichen China Ltd",
+   "numberOfShares": 4000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "LICN",
+   "totalSharesValue": 16000000
+  },
+  {
+   "date": "2023-02-06",
+   "exchange": null,
+   "name": "YUEZHONGHUI INTERNATIONAL HOLDINGS GROUP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "YZH",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2023-02-03",
+   "exchange": "NASDAQ Global",
+   "name": "Structure Therapeutics Inc.",
+   "numberOfShares": 10740000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "GPCR",
+   "totalSharesValue": 161100000
+  },
+  {
+   "date": "2023-02-03",
+   "exchange": "NASDAQ Capital",
+   "name": "Asset Entities Inc.",
+   "numberOfShares": 1500000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "ASST",
+   "totalSharesValue": 7500000
+  },
+  {
+   "date": "2023-02-01",
+   "exchange": "NASDAQ Capital",
+   "name": "Cetus Capital Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CETUU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2023-02-01",
+   "exchange": null,
+   "name": "Lucia Technologies, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 125000
+  }
+ ]
+}

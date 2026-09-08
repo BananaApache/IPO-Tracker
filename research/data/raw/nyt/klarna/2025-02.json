@@ -1,0 +1,168 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2025-02",
+ "begin_date": "20250201",
+ "end_date": "20250228",
+ "fetched_at": "2026-09-08T05:22:38.491748+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Most large employers play down the likelihood that bots will take our jobs. Then there\u2019s Klarna, a darling of tech investors.",
+   "byline": {
+    "original": "By Noam Scheiber"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why Is This C.E.O. Bragging About Replacing Humans With A.I.?",
+    "kicker": "",
+    "print_headline": "He\u2019s Replacing Humans With A.I., and Bragging About It"
+   },
+   "_id": "nyt://article/f76ca817-b093-51ae-8189-fb16e0738ff2",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Layoffs and Job Reductions",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Siemiatkowski, Sebastian",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Chloe Niclas",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/02/business/02klarna-illo/02klarna-illo-articleLarge.jpg",
+     "height": 713,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/02/business/02klarna-illo/02klarna-illo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "SundayBusiness",
+   "print_page": "1",
+   "print_section": "BU",
+   "pub_date": "2025-02-02T08:00:11Z",
+   "section_name": "Business",
+   "snippet": "Most large employers play down the likelihood that bots will take our jobs. Then there\u2019s Klarna, a darling of tech investors.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/f76ca817-b093-51ae-8189-fb16e0738ff2",
+   "web_url": "https://www.nytimes.com/2025/02/02/business/klarna-ceo-ai.html",
+   "word_count": 3170
+  },
+  {
+   "abstract": "Some tech companies are delaying or pulling their listing plans as the Trump administration\u2019s tariff announcements and other changes cause market volatility and uncertainty.",
+   "byline": {
+    "original": "By Erin Griffith"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "They\u2019ve Been Waiting Years to Go Public. They\u2019re Still Waiting.",
+    "kicker": "",
+    "print_headline": "A Waiting Game for I.P.O.s"
+   },
+   "_id": "nyt://article/0916d9fd-54ea-5562-99a1-027c4a00ddee",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Stripe Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Turo Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Amanda Cotan",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/19/business/18tech-ipo-B1/00tech-ipo-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/19/business/18tech-ipo-B1/00tech-ipo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-02-18T14:44:37Z",
+   "section_name": "Technology",
+   "snippet": "Some tech companies are delaying or pulling their listing plans as the Trump administration\u2019s tariff announcements and other changes cause market volatility and uncertainty.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/0916d9fd-54ea-5562-99a1-027c4a00ddee",
+   "web_url": "https://www.nytimes.com/2025/02/18/technology/tech-ipo-delays.html",
+   "word_count": 1317
+  }
+ ]
+}

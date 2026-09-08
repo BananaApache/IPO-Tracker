@@ -1,0 +1,97 @@
+{
+ "company": "CoreWeave",
+ "query": "\"CoreWeave\"",
+ "month": "2024-07",
+ "begin_date": "20240701",
+ "end_date": "20240731",
+ "fetched_at": "2026-09-08T05:04:38.339002+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Funding for A.I. firms made up nearly half the $56 billion in U.S. start-up financing from April to June, according to PitchBook.",
+   "byline": {
+    "original": "By Erin Griffith"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Investors Pour $27.1 Billion Into A.I. Start-Ups, Defying a Downturn",
+    "kicker": "",
+    "print_headline": "Surge in A.I. Investments Defies Slump in Start-Ups"
+   },
+   "_id": "nyt://article/2b4e26b9-a59d-5ccf-97ab-d895d2e76a4a",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Entrepreneurship",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "CoreWeave",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "A.I. companies have attracted increasingly large rounds of funding after OpenAI, shown here, released ChatGPT in 2022.",
+    "credit": "Jim Wilson/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/03/multimedia/03ai-startups-qckw/03ai-startups-qckw-articleLarge.jpg",
+     "height": 454,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/03/multimedia/03ai-startups-qckw/03ai-startups-qckw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2024-07-03T04:01:08Z",
+   "section_name": "Technology",
+   "snippet": "Funding for A.I. firms made up nearly half the $56 billion in U.S. start-up financing from April to June, according to PitchBook.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/2b4e26b9-a59d-5ccf-97ab-d895d2e76a4a",
+   "web_url": "https://www.nytimes.com/2024/07/03/technology/ai-startups-funding.html",
+   "word_count": 662
+  }
+ ]
+}

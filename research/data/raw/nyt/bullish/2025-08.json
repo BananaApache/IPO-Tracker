@@ -1,0 +1,350 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2025-08",
+ "begin_date": "20250801",
+ "end_date": "20250831",
+ "fetched_at": "2026-09-08T05:27:14.596084+00:00",
+ "hits": 4,
+ "docs": [
+  {
+   "abstract": "The Trump administration\u2019s unorthodox Chinese export pact with Nvidia and Advanced Micro Devices is worrying trade experts.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why Trump\u2019s Pay-for-Play Chips Deal May Not Be the Last",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/c127317f-d49f-5b54-b478-645230519ef5",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Advanced Micro Devices Inc.",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Bessent, Scott",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "The Trump administration\u2019s chips deal, struck recently with Jensen Huang of Nvidia, could serve as a model for other industries.",
+    "credit": "Leah Millis/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/14/multimedia/14db-trump-huawei-khgz/14db-trump-huawei-khgz-articleLarge.jpg",
+     "height": 410,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/14/multimedia/14db-trump-huawei-khgz/14db-trump-huawei-khgz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-14T11:57:12Z",
+   "section_name": "Business",
+   "snippet": "The Trump administration\u2019s unorthodox Chinese export pact with Nvidia and Advanced Micro Devices is worrying trade experts.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/c127317f-d49f-5b54-b478-645230519ef5",
+   "web_url": "https://www.nytimes.com/2025/08/14/business/dealbook/trump-nvidia-chips-deal-trade-policy.html",
+   "word_count": 1894
+  },
+  {
+   "abstract": "The S&P 500 is approaching a record on bets that Federal Reserve will lower borrowing costs despite uncertainty over President Trump\u2019s trade war.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why Investors Are Again Euphoric About Interest Rates",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/55a9677c-4d85-5e03-af90-e713284836b2",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Bessent, Scott",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Powell, Jerome H",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Goldman Sachs Group Inc",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Spencer Platt/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/13/multimedia/13db-newsletter-cpi-pkbz/13db-newsletter-cpi-pkbz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/13/multimedia/13db-newsletter-cpi-pkbz/13db-newsletter-cpi-pkbz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-13T12:04:50Z",
+   "section_name": "Business",
+   "snippet": "The S&P 500 is approaching a record on bets that Federal Reserve will lower borrowing costs despite uncertainty over President Trump\u2019s trade war.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/55a9677c-4d85-5e03-af90-e713284836b2",
+   "web_url": "https://www.nytimes.com/2025/08/13/business/dealbook/market-rally-interest-rates-trump.html",
+   "word_count": 1682
+  },
+  {
+   "abstract": "President Trump again delayed higher tariffs on Chinese goods. But his recent moves on computer chips have stoked fears he\u2019s willing to give too much to reach an accord.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Gaming Out the Price of a Trump Trade Deal With China",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/9d5e36b1-9397-507d-a0c9-e7c7fa9a7762",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "President Trump has signaled a shift in policy that could have profound implications on the global chips trade.",
+    "credit": "Doug Mills/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/12/multimedia/12db-trump-lfjz/12db-trump-lfjz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/12/multimedia/12db-trump-lfjz/12db-trump-lfjz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-12T12:03:12Z",
+   "section_name": "Business",
+   "snippet": "President Trump again delayed higher tariffs on Chinese goods. But his recent moves on computer chips have stoked fears he\u2019s willing to give too much to reach an accord.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/9d5e36b1-9397-507d-a0c9-e7c7fa9a7762",
+   "web_url": "https://www.nytimes.com/2025/08/12/business/dealbook/trump-china-trade-deal-chips.html",
+   "word_count": 1971
+  },
+  {
+   "abstract": "Stocks are still flying high. But doubts are creeping in about the S&P 500\u2019s run, as some analysts have flashbacks to valuations during the dotcom boom.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Danielle Kaye and Vivienne Walt"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Bull and Bear Cases for Another Market Rally",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/1c5884f8-b572-59aa-a40b-27795a88ca1b",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Nasdaq Composite Index",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Protectionism (Trade)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Powell, Jerome H",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Stocks are rallying, despite fresh warning signs.",
+    "credit": "Karsten Moran for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/18/multimedia/18db-nyse-lmzk/18db-nyse-lmzk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/18/multimedia/18db-nyse-lmzk/18db-nyse-lmzk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-18T12:21:58Z",
+   "section_name": "Business",
+   "snippet": "Stocks are still flying high. But doubts are creeping in about the S&P 500\u2019s run, as some analysts have flashbacks to valuations during the dotcom boom.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/1c5884f8-b572-59aa-a40b-27795a88ca1b",
+   "web_url": "https://www.nytimes.com/2025/08/18/business/dealbook/sp-500-market-valuations.html",
+   "word_count": 1923
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "company": "CoreWeave",
+ "query": "\"CoreWeave\"",
+ "month": "2024-10",
+ "begin_date": "20241001",
+ "end_date": "20241031",
+ "fetched_at": "2026-09-08T05:11:50.389202+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Friday\u2019s jobs report could bolster the view that the American economy is holding steady, but an oil price shock could undercut that sense of calm.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Jobs and Oil Prices Are Keeping Markets on Edge",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/076bf68f-1fcb-5a14-b678-8b015dd7699a",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Economists expect today\u2019s job report to maintain a sense of economic stability.",
+    "credit": "Scott McIntyre for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/04/multimedia/04db-newsletter-jobs-mcgt/04db-newsletter-jobs-mcgt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/04/multimedia/04db-newsletter-jobs-mcgt/04db-newsletter-jobs-mcgt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-10-04T11:33:51Z",
+   "section_name": "Business",
+   "snippet": "Friday\u2019s jobs report could bolster the view that the American economy is holding steady, but an oil price shock could undercut that sense of calm.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/076bf68f-1fcb-5a14-b678-8b015dd7699a",
+   "web_url": "https://www.nytimes.com/2024/10/04/business/dealbook/jobs-and-oil-prices-are-keeping-markets-on-edge.html",
+   "word_count": 1915
+  }
+ ]
+}

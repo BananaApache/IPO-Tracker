@@ -1,0 +1,87 @@
+{
+ "company": "Circle Internet",
+ "query": "\"Circle\" \"stablecoin\"",
+ "month": "2025-04",
+ "begin_date": "20250401",
+ "end_date": "20250430",
+ "fetched_at": "2026-09-08T05:24:02.595539+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Business leaders and investors remain on edge ahead of President Trump\u2019s expected announcement of a sweeping new round of tariffs.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "High Stakes and Lack of Details Add to Trade War Jitters",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/7153fd8e-e4b3-55f0-9751-282db8f82073",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Protectionism (Trade)",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "von der Leyen, Ursula",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "European Union",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Bessent, Scott",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Tax Cuts and Jobs Act (2017)",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "President Trump is expected to be in the Rose Garden tomorrow to reveal details of his reciprocal tariffs plan.",
+    "credit": "Doug Mills/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01db-trump-vjzh/01db-trump-vjzh-articleLarge.jpg",
+     "height": 373,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01db-trump-vjzh/01db-trump-vjzh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-04-01T11:49:17Z",
+   "section_name": "Business",
+   "snippet": "Business leaders and investors remain on edge ahead of President Trump\u2019s expected announcement of a sweeping new round of tariffs.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/7153fd8e-e4b3-55f0-9751-282db8f82073",
+   "web_url": "https://www.nytimes.com/2025/04/01/business/dealbook/trump-tariffs-trade-war.html",
+   "word_count": 2004
+  }
+ ]
+}

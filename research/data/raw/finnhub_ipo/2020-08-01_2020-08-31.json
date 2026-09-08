@@ -1,0 +1,537 @@
+{
+ "from": "2020-08-01",
+ "to": "2020-08-31",
+ "fetched_at": "2026-09-08T04:21:04.604024+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2020-08-31",
+   "exchange": "NASDAQ Capital",
+   "name": "Applied UV, Inc.",
+   "numberOfShares": 1000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "AUVI",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2020-08-28",
+   "exchange": "NASDAQ Capital",
+   "name": "GREENPOWER MOTOR Co INC.",
+   "numberOfShares": 1860000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "GP",
+   "totalSharesValue": 37200000
+  },
+  {
+   "date": "2020-08-28",
+   "exchange": "NASDAQ Capital",
+   "name": "Panbela Therapeutics, Inc.",
+   "numberOfShares": 2545454,
+   "price": "4.115",
+   "status": "priced",
+   "symbol": "SNBP",
+   "totalSharesValue": 10487270
+  },
+  {
+   "date": "2020-08-28",
+   "exchange": "NASDAQ Capital",
+   "name": "Harbor Custom Development, Inc.",
+   "numberOfShares": 1766700,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "HCDI",
+   "totalSharesValue": 10600200
+  },
+  {
+   "date": "2020-08-27",
+   "exchange": "NASDAQ Capital",
+   "name": "View, Inc.",
+   "numberOfShares": 50000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CFIIU",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2020-08-27",
+   "exchange": "NYSE",
+   "name": "XPENG INC.",
+   "numberOfShares": 99733334,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "XPEV",
+   "totalSharesValue": 1496000010
+  },
+  {
+   "date": "2020-08-27",
+   "exchange": "NASDAQ Capital",
+   "name": "Burgundy Technology Acquisition Corp",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BTAQU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-08-26",
+   "exchange": "NASDAQ Capital",
+   "name": "FTAC Olympus Acquisition Corp.",
+   "numberOfShares": 75000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FTOCU",
+   "totalSharesValue": 750000000
+  },
+  {
+   "date": "2020-08-25",
+   "exchange": null,
+   "name": "INTRUSION INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 51050800
+  },
+  {
+   "date": "2020-08-21",
+   "exchange": "NYSE",
+   "name": "Horizon Acquisition Corp",
+   "numberOfShares": 50000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HZACU",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2020-08-21",
+   "exchange": "NYSE",
+   "name": "FAST Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FST'U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-08-21",
+   "exchange": "NYSE",
+   "name": "Ouster, Inc.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CLA'U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-08-21",
+   "exchange": "NASDAQ Global",
+   "name": "Nano-X Imaging Ltd.",
+   "numberOfShares": 9178744,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "NNOX",
+   "totalSharesValue": 165217392
+  },
+  {
+   "date": "2020-08-21",
+   "exchange": "NASDAQ Global",
+   "name": "Kymera Therapeutics, Inc.",
+   "numberOfShares": 8684800,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "KYMR",
+   "totalSharesValue": 173696000
+  },
+  {
+   "date": "2020-08-20",
+   "exchange": null,
+   "name": "Silence Therapeutics plc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SLN",
+   "totalSharesValue": 312721939.44
+  },
+  {
+   "date": "2020-08-19",
+   "exchange": "NYSE",
+   "name": "Foley Trasimene Acquisition II",
+   "numberOfShares": 130000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BFT'U",
+   "totalSharesValue": 1300000000
+  },
+  {
+   "date": "2020-08-19",
+   "exchange": "NASDAQ Global",
+   "name": "Harmony Biosciences Holdings, Inc.",
+   "numberOfShares": 5348837,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "HRMY",
+   "totalSharesValue": 128372088
+  },
+  {
+   "date": "2020-08-19",
+   "exchange": "NASDAQ Global",
+   "name": "Inhibrx, Inc.",
+   "numberOfShares": 7000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "INBX",
+   "totalSharesValue": 119000000
+  },
+  {
+   "date": "2020-08-19",
+   "exchange": "NASDAQ Capital",
+   "name": "Electric Last Mile Solutions, Inc.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FIIIU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2020-08-18",
+   "exchange": "NYSE",
+   "name": "Northern Genesis Acquisition Corp.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NGA'U",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-08-18",
+   "exchange": "NYSE",
+   "name": "one",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AONEU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-08-18",
+   "exchange": "NYSE",
+   "name": "STEM, INC.",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "STPKU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2020-08-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "DUCK CREEK TECHNOLOGIES, INC.",
+   "numberOfShares": 15000000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "DCT",
+   "totalSharesValue": 405000000
+  },
+  {
+   "date": "2020-08-14",
+   "exchange": "NASDAQ Global",
+   "name": "CureVac N.V.",
+   "numberOfShares": 13333333,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CVAC",
+   "totalSharesValue": 213333328
+  },
+  {
+   "date": "2020-08-14",
+   "exchange": "NYSE",
+   "name": "Dragoneer Growth Opportunities Corp.",
+   "numberOfShares": 60000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DGNRU",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2020-08-14",
+   "exchange": "NASDAQ Capital",
+   "name": "Lionheart Acquisition Corp. II",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LCAPU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-08-14",
+   "exchange": "NYSE",
+   "name": "dMY Technology Group, Inc. II",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DMYDU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2020-08-13",
+   "exchange": "NYSE",
+   "name": "KE Holdings Inc.",
+   "numberOfShares": 106000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "BEKE",
+   "totalSharesValue": 2120000000
+  },
+  {
+   "date": "2020-08-13",
+   "exchange": "NYSE",
+   "name": "RedBall Acquisition Corp.",
+   "numberOfShares": 50000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RBACU",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2020-08-13",
+   "exchange": "NYSE",
+   "name": "NetSTREIT Corp.",
+   "numberOfShares": 12500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "NTST",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2020-08-12",
+   "exchange": "NYSE",
+   "name": "ATI Physical Therapy, Inc.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FAIIU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-08-12",
+   "exchange": "NASDAQ Capital",
+   "name": "Gemini Therapeutics, Inc. /DE",
+   "numberOfShares": 10500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FSDC",
+   "totalSharesValue": 105000000
+  },
+  {
+   "date": "2020-08-12",
+   "exchange": "NASDAQ Capital",
+   "name": "Kubient, Inc.",
+   "numberOfShares": 2500000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "KBNT",
+   "totalSharesValue": 12500000
+  },
+  {
+   "date": "2020-08-07",
+   "exchange": "NASDAQ Global Select",
+   "name": "Freeline Therapeutics Holdings plc",
+   "numberOfShares": 8823529,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "FRLN",
+   "totalSharesValue": 158823522
+  },
+  {
+   "date": "2020-08-07",
+   "exchange": "NASDAQ Capital",
+   "name": "Nautilus Biotechnology, Inc.",
+   "numberOfShares": 13000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ARYA",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2020-08-07",
+   "exchange": "NASDAQ Global",
+   "name": "Checkmate Pharmaceuticals, Inc.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CMPI",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2020-08-07",
+   "exchange": "NASDAQ Capital",
+   "name": "Vistas Media Acquisition Co Inc.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VMACU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2020-08-07",
+   "exchange": "NASDAQ Global",
+   "name": "IBEX Ltd",
+   "numberOfShares": 4761905,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "IBEX",
+   "totalSharesValue": 90476195
+  },
+  {
+   "date": "2020-08-06",
+   "exchange": null,
+   "name": "Ucommune Group Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-08-06",
+   "exchange": null,
+   "name": "Fortis Minerals, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-08-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Gores Holdings V Inc.",
+   "numberOfShares": 47500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GRSVU",
+   "totalSharesValue": 475000000
+  },
+  {
+   "date": "2020-08-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Kismet Acquisition One Corp",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KSMTU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2020-08-06",
+   "exchange": "NASDAQ Global Select",
+   "name": "Acutus Medical, Inc.",
+   "numberOfShares": 8823529,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "AFIB",
+   "totalSharesValue": 158823522
+  },
+  {
+   "date": "2020-08-06",
+   "exchange": "NYSE",
+   "name": "Oak Street Health, Inc.",
+   "numberOfShares": 15625000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "OSH",
+   "totalSharesValue": 328125000
+  },
+  {
+   "date": "2020-08-06",
+   "exchange": "NYSE",
+   "name": "Rocket Companies, Inc.",
+   "numberOfShares": 100000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "RKT",
+   "totalSharesValue": 1800000000
+  },
+  {
+   "date": "2020-08-05",
+   "exchange": "NASDAQ Capital",
+   "name": "BowX Acquisition Corp.",
+   "numberOfShares": 42000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BOWXU",
+   "totalSharesValue": 420000000
+  },
+  {
+   "date": "2020-08-05",
+   "exchange": "NASDAQ Capital",
+   "name": "Astra Space, Inc.",
+   "numberOfShares": 27500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HOLUU",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2020-08-05",
+   "exchange": "NASDAQ Global Select",
+   "name": "Rackspace Technology, Inc.",
+   "numberOfShares": 33500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "RXT",
+   "totalSharesValue": 703500000
+  },
+  {
+   "date": "2020-08-05",
+   "exchange": "NASDAQ Global",
+   "name": "BigCommerce Holdings, Inc.",
+   "numberOfShares": 9019565,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "BIGC",
+   "totalSharesValue": 216469560
+  },
+  {
+   "date": "2020-08-05",
+   "exchange": "NYSE",
+   "name": "GO Acquisition Corp.",
+   "numberOfShares": 50000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GOACU",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2020-08-05",
+   "exchange": null,
+   "name": "Bymax Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2020-08-04",
+   "exchange": "NASDAQ Capital",
+   "name": "Health Sciences Acquisitions Corp 2",
+   "numberOfShares": 13913044,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HSAQ",
+   "totalSharesValue": 139130440
+  },
+  {
+   "date": "2020-08-04",
+   "exchange": "NYSE",
+   "name": "Yucaipa Acquisition Corp",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "YAC'U",
+   "totalSharesValue": 300000000
+  }
+ ]
+}

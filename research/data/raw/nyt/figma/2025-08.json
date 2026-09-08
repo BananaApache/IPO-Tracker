@@ -1,0 +1,244 @@
+{
+ "company": "Figma",
+ "query": "\"Figma\"",
+ "month": "2025-08",
+ "begin_date": "20250801",
+ "end_date": "20250831",
+ "fetched_at": "2026-09-08T05:26:50.496875+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "The venture capital round values the ChatGPT maker at $300 billion, and underscores the fierceness of the A.I. money race.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Exclusive: OpenAI Secures Another Giant Funding Deal",
+    "kicker": "DealBook Newsletter",
+    "print_headline": "\u2018Panic Withdrawal\u2019 of Goods At Duty-Free U.S. Warehouses"
+   },
+   "_id": "nyt://article/b865082f-90b8-51ca-a9ab-fbd0b137b94f",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "ChatGPT",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Dragoneer Investment Group",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Blackstone Group, The",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Sam Altman, the C.E.O. of OpenAI, is riding high. The start-up has raised over $8 billion in its latest funding round, DealBook reports.",
+    "credit": "Jeenah Moon for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/01/multimedia/01db-altman-mwpf/01db-altman-mwpf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/01/multimedia/01db-altman-mwpf/01db-altman-mwpf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-08-01T12:06:29Z",
+   "section_name": "Business",
+   "snippet": "The venture capital round values the ChatGPT maker at $300 billion, and underscores the fierceness of the A.I. money race.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/b865082f-90b8-51ca-a9ab-fbd0b137b94f",
+   "web_url": "https://www.nytimes.com/2025/08/01/business/dealbook/openai-ai-mega-funding-deal.html",
+   "word_count": 1962
+  },
+  {
+   "abstract": "At $500 billion, OpenAI would become the world\u2019s most valuable privately held company.",
+   "byline": {
+    "original": "By Cade Metz and Natallie Rocha"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "OpenAI in Deal Talks That Would Value the Company at $500 Billion",
+    "kicker": "",
+    "print_headline": "OpenAI Deal Could Value It at $500 Billion"
+   },
+   "_id": "nyt://article/00ae91c9-30e1-5678-91d2-4a62898b2510",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Databricks Inc",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "SOFTBANK Corporation",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Sam Altman, the chief executive of OpenAI, which is engaged in a fierce contest to lead the artificial intelligence boom.",
+    "credit": "Mike Kai Chen for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/19/multimedia/19biz-openai-samaltman-hqzt/19biz-openai-samaltman-hqzt-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/19/multimedia/19biz-openai-samaltman-hqzt/19biz-openai-samaltman-hqzt-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-08-19T18:16:29Z",
+   "section_name": "Technology",
+   "snippet": "At $500 billion, OpenAI would become the world\u2019s most valuable privately held company.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/00ae91c9-30e1-5678-91d2-4a62898b2510",
+   "web_url": "https://www.nytimes.com/2025/08/19/technology/openai-chatgpt-stock-sale-valuation.html",
+   "word_count": 736
+  },
+  {
+   "abstract": "Meta internally announced a new restructuring of its artificial intelligence division amid internal tensions over the technology, people with knowledge of the matter said.",
+   "byline": {
+    "original": "By Mike Isaac and Eli Tan"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Mark Zuckerberg Shakes Up Meta\u2019s A.I. Efforts, Again",
+    "kicker": "",
+    "print_headline": "Zuckerberg Shakes Up A.I. Efforts At Meta"
+   },
+   "_id": "nyt://article/872de870-0843-557f-aa5a-ef194fcdd263",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Meta Platforms Inc",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Zuckerberg, Mark E",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Scale AI Inc",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Wang, Alexandr (Technology Executive)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Mark Zuckerberg, Meta\u2019s chief executive, is sparing no expense and is willing to upend his company to stay relevant in artificial intelligence. ",
+    "credit": "Anna Rose Layden for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/19/multimedia/00biz-meta-ai-htcw/00biz-meta-ai-htcw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/19/multimedia/00biz-meta-ai-htcw/00biz-meta-ai-htcw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-08-19T16:31:37Z",
+   "section_name": "Technology",
+   "snippet": "Meta internally announced a new restructuring of its artificial intelligence division amid internal tensions over the technology, people with knowledge of the matter said.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/872de870-0843-557f-aa5a-ef194fcdd263",
+   "web_url": "https://www.nytimes.com/2025/08/19/technology/mark-zuckerberg-meta-ai.html",
+   "word_count": 871
+  }
+ ]
+}

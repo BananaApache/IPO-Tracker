@@ -1,0 +1,107 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2024-10",
+ "begin_date": "20241001",
+ "end_date": "20241031",
+ "fetched_at": "2026-09-08T05:13:14.475036+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Go for the energy of the mascots, marching bands and touchdown cheers, but don\u2019t miss the museums, art, nightlife and more that make these places special.",
+   "byline": {
+    "original": "By Derek M. Norman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "6 Classic College Football Towns to Visit",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/496728e9-7f81-57b1-a980-41191623f5f7",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Colleges and Universities",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Football (College)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "College Athletics",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Stadiums and Arenas",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "University of Oklahoma",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "University of Notre Dame",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "University of Texas at Austin",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "University of Alabama",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "University of Colorado",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "University of Michigan",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Darrell K Royal-Texas Memorial Stadium, in Austin, Texas, the home field of the University of Texas Longhorns.",
+    "credit": "Miya Tanner/The University of Texas Athletics/University Images, via Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/25/multimedia/25college-football-zlhf/25college-football-zlhf-articleLarge-v2.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/25/multimedia/25college-football-zlhf/25college-football-zlhf-thumbStandard-v3.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Travel",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-10-30T09:02:27Z",
+   "section_name": "Travel",
+   "snippet": "Go for the energy of the mascots, marching bands and touchdown cheers, but don\u2019t miss the museums, art, nightlife and more that make these places special.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/496728e9-7f81-57b1-a980-41191623f5f7",
+   "web_url": "https://www.nytimes.com/2024/10/30/travel/6-classic-college-football-towns-to-visit.html",
+   "word_count": 1825
+  }
+ ]
+}

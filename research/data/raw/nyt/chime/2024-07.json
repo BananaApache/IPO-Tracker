@@ -1,0 +1,10 @@
+{
+ "company": "Chime",
+ "query": "\"Chime\" \"banking\"",
+ "month": "2024-07",
+ "begin_date": "20240701",
+ "end_date": "20240731",
+ "fetched_at": "2026-09-08T05:00:14.300266+00:00",
+ "hits": 0,
+ "docs": []
+}

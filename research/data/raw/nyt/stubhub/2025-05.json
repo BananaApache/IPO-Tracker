@@ -1,0 +1,213 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2025-05",
+ "begin_date": "20250501",
+ "end_date": "20250531",
+ "fetched_at": "2026-09-08T05:30:02.503384+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "Some fans who paid top dollar for the star\u2019s Cowboy Carter Tour are feeling miffed as prices drop. Other procrastinators are reaping the benefits.",
+   "byline": {
+    "original": "By Matt Stevens"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Much Does It Cost to See Beyonc\u00e9? It Depends.",
+    "kicker": "",
+    "print_headline": "What Does It Cost To See Beyonc\u00e9?  That Depends."
+   },
+   "_id": "nyt://article/8f78c686-0ffc-55e1-9ea5-217b05383de6",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Fans (Persons)",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Knowles, Beyonce",
+     "rank": 4
+    },
+    {
+     "name": "Title",
+     "value": "Cowboy Carter (Album)",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Live Nation Entertainment Inc",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "SeatGeek Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "StubHub",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Beyonc\u00e9\u2019s Cowboy Carter Tour began at SoFi Stadium in Inglewood, Calif., earlier this month. ",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/15/multimedia/15cul-beyonce-tickets--01-qwhz/15cul-beyonce-tickets--01-qwhz-articleLarge.jpg",
+     "height": 383,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/15/multimedia/15cul-beyonce-tickets--01-qwhz/15cul-beyonce-tickets--01-qwhz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Culture",
+   "print_page": "2",
+   "print_section": "C",
+   "pub_date": "2025-05-15T15:00:07Z",
+   "section_name": "Arts",
+   "snippet": "Some fans who paid top dollar for the star\u2019s Cowboy Carter Tour are feeling miffed as prices drop. Other procrastinators are reaping the benefits.",
+   "source": "The New York Times",
+   "subsection_name": "Music",
+   "type_of_material": "News",
+   "uri": "nyt://article/8f78c686-0ffc-55e1-9ea5-217b05383de6",
+   "web_url": "https://www.nytimes.com/2025/05/15/arts/music/beyonce-cowboy-carter-tour-ticket-prices.html",
+   "word_count": 1128
+  },
+  {
+   "abstract": "Resort fees, cleaning fees, service fees: Those charges now must be disclosed upfront. But the fight against \u201cjunk fees\u201d is far from over.",
+   "byline": {
+    "original": "By Brian X. Chen"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Some Sneaky Fees Can No Longer Hide. But Watch Out for Others.",
+    "kicker": "Tech Fix",
+    "print_headline": "Some Sneaky Fees  Are Still Creeping In"
+   },
+   "_id": "nyt://article/c50640a8-b089-55e5-bf3d-538f3c7cdc3f",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Airlines and Airplanes",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Reservations (Airlines, Hotels, Etc.)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Travel Agencies and Agents",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Protection",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Derek Abella",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/26/business/00techfix/00techfix-articleLarge.jpg",
+     "height": 420,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/26/business/00techfix/00techfix-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-05-25T09:01:02Z",
+   "section_name": "Technology",
+   "snippet": "Resort fees, cleaning fees, service fees: Those charges now must be disclosed upfront. But the fight against \u201cjunk fees\u201d is far from over.",
+   "source": "The New York Times",
+   "subsection_name": "Personal Tech",
+   "type_of_material": "News",
+   "uri": "nyt://article/c50640a8-b089-55e5-bf3d-538f3c7cdc3f",
+   "web_url": "https://www.nytimes.com/2025/05/25/technology/personaltech/hotel-ticket-fees-changes.html",
+   "word_count": 918
+  },
+  {
+   "abstract": "Plus, the first personalized gene-editing treatment",
+   "byline": {
+    "original": "By Whet Moser"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "National Guard Tapped for Migrant Crackdown",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/40d33b99-56b7-5536-9c9a-5d24511c2edf",
+   "keywords": [],
+   "multimedia": {
+    "caption": "A combat vehicle at the U.S.-Mexico border in Douglas, Ariz.",
+    "credit": "Adriana Zehbrauskas for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/14/us/politics/15evening-military-border/15evening-military-border-articleLarge-v2.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/14/us/politics/15evening-military-border/00dc-military-border-new-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "NYTNow",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-15T21:45:00Z",
+   "section_name": "Briefing",
+   "snippet": "Plus, the first personalized gene-editing treatment",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/40d33b99-56b7-5536-9c9a-5d24511c2edf",
+   "web_url": "https://www.nytimes.com/2025/05/15/briefing/immigration-gene-editing.html",
+   "word_count": 1309
+  }
+ ]
+}

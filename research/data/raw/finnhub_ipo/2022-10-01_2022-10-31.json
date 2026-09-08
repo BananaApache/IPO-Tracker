@@ -1,0 +1,237 @@
+{
+ "from": "2022-10-01",
+ "to": "2022-10-31",
+ "fetched_at": "2026-09-08T04:21:56.597850+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2022-10-26",
+   "exchange": null,
+   "name": "Atlas Crest Investment Corp. III",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "Mobileye Global Inc.",
+   "numberOfShares": 41000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "MBLY",
+   "totalSharesValue": 861000000
+  },
+  {
+   "date": "2022-10-26",
+   "exchange": null,
+   "name": "Decca Investment Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DCCA",
+   "totalSharesValue": 41400000
+  },
+  {
+   "date": "2022-10-21",
+   "exchange": null,
+   "name": "Milan Laser Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-20",
+   "exchange": null,
+   "name": "Henley Park Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-20",
+   "exchange": "NASDAQ Global",
+   "name": "Prime Medicine, Inc.",
+   "numberOfShares": 10294118,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "PRME",
+   "totalSharesValue": 175000006
+  },
+  {
+   "date": "2022-10-18",
+   "exchange": null,
+   "name": "Synergy CHC Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-14",
+   "exchange": "NASDAQ Global",
+   "name": "Hudson Acquisition I Corp.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HUDAU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2022-10-14",
+   "exchange": "NASDAQ Global",
+   "name": "TenX Keane Acquisition",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TENKU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2022-10-13",
+   "exchange": null,
+   "name": "Gores Holdings X, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-13",
+   "exchange": null,
+   "name": "Rue Gilt Groupe, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-13",
+   "exchange": "NYSE MKT",
+   "name": "Castellum, Inc.",
+   "numberOfShares": 1500000,
+   "price": "2.00",
+   "status": "priced",
+   "symbol": "CTM",
+   "totalSharesValue": 3000000
+  },
+  {
+   "date": "2022-10-13",
+   "exchange": "NASDAQ Global",
+   "name": "Spring Valley Acquisition Corp. II",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SVIIU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2022-10-13",
+   "exchange": null,
+   "name": "Medlab Clinical Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MDLB",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2022-10-12",
+   "exchange": null,
+   "name": "MAO SHI JADE JEWELRY INTERNATIONAL INVESTMENT LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MSFC",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2022-10-11",
+   "exchange": null,
+   "name": "5.11 ABR CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-07",
+   "exchange": null,
+   "name": "GREEN ENERGY GLOBAL INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-07",
+   "exchange": null,
+   "name": "Ascendant Mobility Acquisition Corp I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-07",
+   "exchange": null,
+   "name": "Lazard Fintech Acquisition Corp. I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-07",
+   "exchange": null,
+   "name": "Lazard Healthcare Acquisition Corp. I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-07",
+   "exchange": null,
+   "name": "PurposeBuilt Brands, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-06",
+   "exchange": null,
+   "name": "Aries II Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-10-04",
+   "exchange": "NASDAQ Capital",
+   "name": "Aquaron Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AQUNU",
+   "totalSharesValue": 50000000
+  }
+ ]
+}

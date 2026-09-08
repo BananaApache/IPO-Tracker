@@ -1,0 +1,187 @@
+{
+ "from": "2022-11-01",
+ "to": "2022-11-30",
+ "fetched_at": "2026-09-08T04:21:58.596430+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2022-11-29",
+   "exchange": null,
+   "name": "L Catterton Latin America Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-11-23",
+   "exchange": null,
+   "name": "Redaptive, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-11-23",
+   "exchange": null,
+   "name": "BrightSpring Health Services, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-11-21",
+   "exchange": null,
+   "name": "Solta Medical Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-11-16",
+   "exchange": null,
+   "name": "GP-Act III Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-11-15",
+   "exchange": null,
+   "name": "Rhodium Enterprises, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-11-15",
+   "exchange": "NASDAQ Global",
+   "name": "Acrivon Therapeutics, Inc.",
+   "numberOfShares": 7550000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "ACRV",
+   "totalSharesValue": 94375000
+  },
+  {
+   "date": "2022-11-11",
+   "exchange": "NASDAQ Global Select",
+   "name": "Atour Lifestyle Holdings Ltd",
+   "numberOfShares": 4750000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ATAT",
+   "totalSharesValue": 52250000
+  },
+  {
+   "date": "2022-11-11",
+   "exchange": "NASDAQ Capital",
+   "name": "KWESST Micro Systems Inc.",
+   "numberOfShares": 2323232,
+   "price": "4.71-5.21",
+   "status": "expected",
+   "symbol": "KWE",
+   "totalSharesValue": 13919640.36
+  },
+  {
+   "date": "2022-11-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Plutonian Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PLTNU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2022-11-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Snail, Inc.",
+   "numberOfShares": 3000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SNAL",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2022-11-10",
+   "exchange": "NASDAQ Capital",
+   "name": "ASP Isotopes Inc.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ASPI",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2022-11-10",
+   "exchange": null,
+   "name": "Alkaid Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ALKDU",
+   "totalSharesValue": 57500000
+  },
+  {
+   "date": "2022-11-09",
+   "exchange": null,
+   "name": "OS Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-11-03",
+   "exchange": null,
+   "name": "Basis Global Technologies, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-11-03",
+   "exchange": null,
+   "name": "Apollo Strategic Growth Capital III",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-11-02",
+   "exchange": null,
+   "name": "Verity Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-11-01",
+   "exchange": null,
+   "name": "Artiva Biotherapeutics, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

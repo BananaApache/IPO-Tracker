@@ -1,0 +1,14 @@
+# The EDGAR submissions cache is NOT committed. It is ~7 MB, it is freely and
+# deterministically re-fetchable from a public API, and it grows every time any
+# watchlist company files anything -- so committing it means a large, noisy diff
+# on every re-run for no reproducibility gain.
+#
+# What reproducibility needs from it is already committed: watchlist.csv holds
+# every date and identifier the enrichment derived, and re-running
+# `python -m research.collect.edgar_enrich` rebuilds the cache and the CSV.
+#
+# Everything else under raw/ IS committed on purpose. Those payloads are
+# measurements with a retrieval timestamp that a later run may not reproduce --
+# a provider can change its index, its entitlements, or its coverage -- which is
+# exactly why the counts have to be recomputable from the stored bytes.
+edgar/

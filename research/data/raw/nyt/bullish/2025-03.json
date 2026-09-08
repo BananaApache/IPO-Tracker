@@ -1,0 +1,10 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2025-03",
+ "begin_date": "20250301",
+ "end_date": "20250331",
+ "fetched_at": "2026-09-08T05:15:14.429589+00:00",
+ "hits": 0,
+ "docs": []
+}

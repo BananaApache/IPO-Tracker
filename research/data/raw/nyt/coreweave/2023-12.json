@@ -1,0 +1,92 @@
+{
+ "company": "CoreWeave",
+ "query": "\"CoreWeave\"",
+ "month": "2023-12",
+ "begin_date": "20231201",
+ "end_date": "20231231",
+ "fetched_at": "2026-09-08T04:47:50.198994+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Dismissive comments by the president of the climate gathering raise questions about the host country\u2019s commitment to addressing rising global temperatures.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Heat Rises at COP28",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/1365c26c-fd3b-5185-91b8-dc84ba9c3d9b",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United Nations Framework Convention on Climate Change",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Global Warming",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "Abu Dhabi (United Arab Emirates)",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Al Jaber, Sultan (1973- )",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Kerry, John",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Exxon Mobil Corp",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Saudi Aramco",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Sultan Ahmed al Jaber, president of the COP28 summit, is under fire for comments about hydrocarbons. Among his critics are John Kerry, at left, the U.S. climate envoy.",
+    "credit": "Sean Gallup/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/12/04/multimedia/04db-jaber-kpmz/04db-jaber-kpmz-articleLarge.jpg",
+     "height": 398,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/12/04/multimedia/04db-jaber-kpmz/04db-jaber-kpmz-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-12-04T13:04:23Z",
+   "section_name": "Business",
+   "snippet": "Dismissive comments by the president of the climate gathering raise questions about the host country\u2019s commitment to addressing rising global temperatures.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/1365c26c-fd3b-5185-91b8-dc84ba9c3d9b",
+   "web_url": "https://www.nytimes.com/2023/12/04/business/dealbook/cop28-al-jaber-fossil-fuels.html",
+   "word_count": 1592
+  }
+ ]
+}

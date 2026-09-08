@@ -1,0 +1,247 @@
+{
+ "from": "2023-09-01",
+ "to": "2023-09-30",
+ "fetched_at": "2026-09-08T04:22:18.630012+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2023-09-29",
+   "exchange": "NASDAQ Global",
+   "name": "Adlai Nortye Ltd.",
+   "numberOfShares": 2500000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "ANL",
+   "totalSharesValue": 57500000
+  },
+  {
+   "date": "2023-09-29",
+   "exchange": "NASDAQ Capital",
+   "name": "Syra Health Corp",
+   "numberOfShares": 1615000,
+   "price": "4.125",
+   "status": "priced",
+   "symbol": "SYRA",
+   "totalSharesValue": 6669950
+  },
+  {
+   "date": "2023-09-29",
+   "exchange": null,
+   "name": "Valens Pay Global Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "VAPA",
+   "totalSharesValue": 6900000
+  },
+  {
+   "date": "2023-09-28",
+   "exchange": "NASDAQ Capital",
+   "name": "VS MEDIA Holdings Ltd",
+   "numberOfShares": 2000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "VSME",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2023-09-28",
+   "exchange": null,
+   "name": "OUI Global",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TKE",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2023-09-27",
+   "exchange": "NASDAQ Global",
+   "name": "LEAD REAL ESTATE CO., LTD",
+   "numberOfShares": 1143000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "LRE",
+   "totalSharesValue": 8001000
+  },
+  {
+   "date": "2023-09-26",
+   "exchange": null,
+   "name": "CardieX Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-09-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Turbo Energy, S.A.",
+   "numberOfShares": 1000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "TURB",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2023-09-21",
+   "exchange": "NASDAQ",
+   "name": "MDB Capital Holdings, LLC",
+   "numberOfShares": 1666666,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "MDBH",
+   "totalSharesValue": 19999992
+  },
+  {
+   "date": "2023-09-21",
+   "exchange": null,
+   "name": "Hainan Sirius Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HSACU",
+   "totalSharesValue": 69000000
+  },
+  {
+   "date": "2023-09-20",
+   "exchange": null,
+   "name": "REV Renewables, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-09-20",
+   "exchange": "NASDAQ Capital",
+   "name": "SR Bancorp, Inc.",
+   "numberOfShares": 9055172,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SRBK",
+   "totalSharesValue": 90551720
+  },
+  {
+   "date": "2023-09-20",
+   "exchange": "NYSE",
+   "name": "Klaviyo, Inc.",
+   "numberOfShares": 19200000,
+   "price": "30.00",
+   "status": "priced",
+   "symbol": "KVYO",
+   "totalSharesValue": 576000000
+  },
+  {
+   "date": "2023-09-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "Maplebear Inc.",
+   "numberOfShares": 22000000,
+   "price": "30.00",
+   "status": "priced",
+   "symbol": "CART",
+   "totalSharesValue": 660000000
+  },
+  {
+   "date": "2023-09-19",
+   "exchange": "NASDAQ Capital",
+   "name": "DAVIS COMMODITIES Ltd",
+   "numberOfShares": 1087500,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "DTCK",
+   "totalSharesValue": 4350000
+  },
+  {
+   "date": "2023-09-15",
+   "exchange": "NASDAQ Global Select",
+   "name": "Neumora Therapeutics, Inc.",
+   "numberOfShares": 14710000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "NMRA",
+   "totalSharesValue": 250070000
+  },
+  {
+   "date": "2023-09-15",
+   "exchange": "NASDAQ Global",
+   "name": "RayzeBio, Inc.",
+   "numberOfShares": 17277600,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "RYZB",
+   "totalSharesValue": 310996800
+  },
+  {
+   "date": "2023-09-15",
+   "exchange": null,
+   "name": "ACESIS HOLDINGS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ACSB",
+   "totalSharesValue": 8970000
+  },
+  {
+   "date": "2023-09-15",
+   "exchange": "NYSE MKT",
+   "name": "Healthy Green Group Holding Ltd",
+   "numberOfShares": 2000000,
+   "price": "6.00-7.00",
+   "status": "expected",
+   "symbol": "GDD",
+   "totalSharesValue": 16100000
+  },
+  {
+   "date": "2023-09-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "ARM HOLDINGS PLC /UK",
+   "numberOfShares": 95500000,
+   "price": "51.00",
+   "status": "priced",
+   "symbol": "ARM",
+   "totalSharesValue": 4870500000
+  },
+  {
+   "date": "2023-09-13",
+   "exchange": "NASDAQ Capital",
+   "name": "SIMPPLE LTD.",
+   "numberOfShares": 1602000,
+   "price": "5.25",
+   "status": "priced",
+   "symbol": "SPPL",
+   "totalSharesValue": 8410500
+  },
+  {
+   "date": "2023-09-12",
+   "exchange": "NASDAQ Capital",
+   "name": "Nature Wood Group Ltd",
+   "numberOfShares": 750000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "NWGL",
+   "totalSharesValue": 6750000
+  },
+  {
+   "date": "2023-09-08",
+   "exchange": null,
+   "name": "Forest Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-09-07",
+   "exchange": "NASDAQ Capital",
+   "name": "Solowin Holdings, Ltd.",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "SWIN",
+   "totalSharesValue": 8000000
+  }
+ ]
+}

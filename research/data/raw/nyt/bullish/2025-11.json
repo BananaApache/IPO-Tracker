@@ -1,0 +1,289 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2025-11",
+ "begin_date": "20251101",
+ "end_date": "20251130",
+ "fetched_at": "2026-09-08T05:34:02.565451+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "Dar Global bet big on the Trump name. It is now an essential foreign partner for the Trump Organization.",
+   "byline": {
+    "original": "By Rebecca R. Ruiz and Vivian Nereim"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Mideast Development Firm Has Set Up Shop in Trump Tower",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/3df7abed-4513-5477-9331-93a594afbe2d",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Real Estate (Commercial)",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Building (Construction)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Dar Al Arkan Real Estate Development Co",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Trump Organization",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "El Chaar, Ziad",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Saudi Arabia",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "Middle East",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Dar Global PLC",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "A model of a proposed development to be built in Qatar by a partnership including the Trump Organization and Dar Global.",
+    "credit": "Karim Jaafar/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/15/multimedia/15int-trump-saudi-takeaways01-photo-tpvw/15int-trump-saudi-takeaways01-photo-tpvw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/15/multimedia/15int-trump-saudi-takeaways01-photo-tpvw/15int-trump-saudi-takeaways01-photo-tpvw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-11-15T10:02:10Z",
+   "section_name": "World",
+   "snippet": "Dar Global bet big on the Trump name. It is now an essential foreign partner for the Trump Organization.",
+   "source": "The New York Times",
+   "subsection_name": "Middle East",
+   "type_of_material": "News",
+   "uri": "nyt://article/3df7abed-4513-5477-9331-93a594afbe2d",
+   "web_url": "https://www.nytimes.com/2025/11/15/world/middleeast/dar-global-trump-org-saudi-mbs-business-deal-real-estate-licensing.html",
+   "word_count": 849
+  },
+  {
+   "abstract": "After a week of market uneasiness, Nvidia\u2019s profit surge and Walmart\u2019s earnings had initially offered investors relief. But the bullishness faded by Thursday afternoon.",
+   "byline": {
+    "original": "By Joe Rennison, Eshe Nelson and River Akira Davis"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Stocks Tumble as Early Rally Gives Way to Tech Anxiety",
+    "kicker": "",
+    "print_headline": "Worries Undermine an Early Tech Rally"
+   },
+   "_id": "nyt://article/cf46e870-7873-5725-b800-e54e29261179",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Company Reports",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Far East, South and Southeast Asia and Pacific Areas",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Jensen Huang, chief executive of Nvidia, which had eased investors\u2019 worries about potential A.I. overinvestment after the company reported earnings on Wednesday. ",
+    "credit": "Evelyn Hockstein/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/20/multimedia/20Stocks-02-pfvz/20Stocks-02-pfvz-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/20/multimedia/20Stocks-02-pfvz/20Stocks-02-pfvz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "2",
+   "print_section": "B",
+   "pub_date": "2025-11-20T01:49:55Z",
+   "section_name": "Business",
+   "snippet": "After a week of market uneasiness, Nvidia\u2019s profit surge and Walmart\u2019s earnings had initially offered investors relief. But the bullishness faded by Thursday afternoon.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/cf46e870-7873-5725-b800-e54e29261179",
+   "web_url": "https://www.nytimes.com/2025/11/19/business/stocks-nvidia-earnings.html",
+   "word_count": 719
+  },
+  {
+   "abstract": "Growing jitters over the Federal Reserve, crypto and the future of the artificial intelligence boom have helped drive a global sell-off.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O\u2019Keefe and Ian Mount"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Three Potential Factors Behind the Market Turmoil",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/4394de19-5d82-5f62-875a-ce527721e9cd",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Bitcoin (Currency)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Huang, Jen-Hsun",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Walmart Stores Inc",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "The recent sell-off in crypto and tech stocks has rattled global markets.",
+    "credit": "Brendan McDermid/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/21/multimedia/21db-market-wljq/21db-market-wljq-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/21/multimedia/21db-market-wljq/21db-market-wljq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-11-21T13:01:42Z",
+   "section_name": "Business",
+   "snippet": "Growing jitters over the Federal Reserve, crypto and the future of the artificial intelligence boom have helped drive a global sell-off.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/4394de19-5d82-5f62-875a-ce527721e9cd",
+   "web_url": "https://www.nytimes.com/2025/11/21/business/dealbook/stocks-crypto-fed-market-turmoil.html",
+   "word_count": 1932
+  }
+ ]
+}

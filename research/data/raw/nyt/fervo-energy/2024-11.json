@@ -1,0 +1,77 @@
+{
+ "company": "Fervo Energy",
+ "query": "\"Fervo Energy\"",
+ "month": "2024-11",
+ "begin_date": "20241101",
+ "end_date": "20241130",
+ "fetched_at": "2026-09-08T04:44:38.144897+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "As the world gathers for U.N. climate negotiations in Azerbaijan next week, here\u2019s what we will be watching.",
+   "byline": {
+    "original": "By David Gelles"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Whiplash Looms Over Global Climate Talks",
+    "kicker": "The Climate Fix",
+    "print_headline": "U.S. Election To Overcloud Conference On Clima"
+   },
+   "_id": "nyt://article/b7e8087b-929b-5fab-9320-e00ed7a3043c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Global Warming",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Fervo Energy Co",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Alternative and Renewable Energy",
+     "rank": 4
+    },
+    {
+     "name": "Keyword",
+     "value": "climatefix24",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "The COP29 United Nations Climate Change Conference, in Baku, Azerbaijan, will convene world leaders and diplomats next week.",
+    "credit": "Aziz Karimov/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/07/multimedia/07cli-newsletter-cop-01-gjbk/07cli-newsletter-cop-01-gjbk-articleLarge.jpg",
+     "height": 393,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/07/multimedia/07cli-newsletter-cop-01-gjbk/07cli-newsletter-cop-01-gjbk-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Climate",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2024-11-07T20:05:25Z",
+   "section_name": "Climate",
+   "snippet": "As the world gathers for U.N. climate negotiations in Azerbaijan next week, here\u2019s what we will be watching.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/b7e8087b-929b-5fab-9320-e00ed7a3043c",
+   "web_url": "https://www.nytimes.com/2024/11/07/climate/trump-climate-cop-negotiations.html",
+   "word_count": 1579
+  }
+ ]
+}

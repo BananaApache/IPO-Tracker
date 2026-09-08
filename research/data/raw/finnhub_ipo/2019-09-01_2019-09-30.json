@@ -1,0 +1,267 @@
+{
+ "from": "2019-09-01",
+ "to": "2019-09-30",
+ "fetched_at": "2026-09-08T04:20:42.550601+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2019-09-30",
+   "exchange": null,
+   "name": "We Co.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-09-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "PELOTON INTERACTIVE, INC.",
+   "numberOfShares": 40000000,
+   "price": "29.00",
+   "status": "priced",
+   "symbol": "PTON",
+   "totalSharesValue": 1160000000
+  },
+  {
+   "date": "2019-09-26",
+   "exchange": "NASDAQ Global",
+   "name": "Oportun Financial Corp",
+   "numberOfShares": 6250000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "OPRT",
+   "totalSharesValue": 93750000
+  },
+  {
+   "date": "2019-09-23",
+   "exchange": null,
+   "name": "BI Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-09-20",
+   "exchange": null,
+   "name": "Economic Transformation Technologies Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-09-19",
+   "exchange": null,
+   "name": "10SION Holdings Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-09-19",
+   "exchange": "NYSE",
+   "name": "Ping Identity Holding Corp.",
+   "numberOfShares": 12500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "PING",
+   "totalSharesValue": 187500000
+  },
+  {
+   "date": "2019-09-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "Datadog, Inc.",
+   "numberOfShares": 24000000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "DDOG",
+   "totalSharesValue": 648000000
+  },
+  {
+   "date": "2019-09-19",
+   "exchange": "NASDAQ Global",
+   "name": "EXAGEN INC.",
+   "numberOfShares": 3600000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "XGN",
+   "totalSharesValue": 50400000
+  },
+  {
+   "date": "2019-09-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "IGM Biosciences, Inc.",
+   "numberOfShares": 10937500,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "IGMS",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2019-09-18",
+   "exchange": "NYSE",
+   "name": "Envista Holdings Corp",
+   "numberOfShares": 26768000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "NVST",
+   "totalSharesValue": 588896000
+  },
+  {
+   "date": "2019-09-17",
+   "exchange": "NASDAQ Capital",
+   "name": "Apex Technology Acquisition Corp",
+   "numberOfShares": 30500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "APXTU",
+   "totalSharesValue": 305000000
+  },
+  {
+   "date": "2019-09-13",
+   "exchange": null,
+   "name": "Carbon Energy Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-09-13",
+   "exchange": "NYSE",
+   "name": "CloudFlare, Inc.",
+   "numberOfShares": 35000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "NET",
+   "totalSharesValue": 525000000
+  },
+  {
+   "date": "2019-09-13",
+   "exchange": "NASDAQ Capital",
+   "name": "ALERUS FINANCIAL CORP",
+   "numberOfShares": 2860000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "ALRS",
+   "totalSharesValue": 60060000
+  },
+  {
+   "date": "2019-09-13",
+   "exchange": "NASDAQ Global",
+   "name": "Satsuma Pharmaceuticals, Inc.",
+   "numberOfShares": 5500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "STSA",
+   "totalSharesValue": 82500000
+  },
+  {
+   "date": "2019-09-13",
+   "exchange": "NASDAQ Global Select",
+   "name": "SpringWorks Therapeutics, Inc.",
+   "numberOfShares": 9000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "SWTX",
+   "totalSharesValue": 162000000
+  },
+  {
+   "date": "2019-09-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Experience Investment Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EXPCU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2019-09-12",
+   "exchange": null,
+   "name": "HUI YING FINANCIAL HOLDINGS Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-09-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "SmileDirectClub, Inc.",
+   "numberOfShares": 58537000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "SDC",
+   "totalSharesValue": 1346351000
+  },
+  {
+   "date": "2019-09-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "10X Genomics, Inc.",
+   "numberOfShares": 10000000,
+   "price": "39.00",
+   "status": "priced",
+   "symbol": "TXG",
+   "totalSharesValue": 390000000
+  },
+  {
+   "date": "2019-09-11",
+   "exchange": null,
+   "name": "DERMAdoctor, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-09-11",
+   "exchange": "NASDAQ Capital",
+   "name": "New Providence Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NPAUU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2019-09-06",
+   "exchange": null,
+   "name": "Dermavant Sciences Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-09-05",
+   "exchange": null,
+   "name": "PSI International, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-09-04",
+   "exchange": null,
+   "name": "MOVING iMAGE TECHNOLOGIES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

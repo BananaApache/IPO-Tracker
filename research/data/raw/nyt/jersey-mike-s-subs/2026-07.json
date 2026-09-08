@@ -1,0 +1,102 @@
+{
+ "company": "Jersey Mike's Subs",
+ "query": "\"Jersey Mike's Subs\"",
+ "month": "2026-07",
+ "begin_date": "20260701",
+ "end_date": "20260731",
+ "fetched_at": "2026-09-08T05:26:02.459960+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Gen Z is increasingly turning to trade schools in hopes of future-proofing their careers against A.I. But getting their parents and peers on board can be a challenge.",
+   "byline": {
+    "original": "By Callie Holtermann"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Mom, Dad, I Want to Be a Welder",
+    "kicker": "",
+    "print_headline": "They Sidestep Stigma (and A.I.) to Fix Sinks"
+   },
+   "_id": "nyt://article/18af451a-dc52-55ba-bfeb-3c9d2843bc82",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Vocational Training",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Generation Z",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Careers and Professions",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Colleges and Universities",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Labor and Jobs",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Universal Technical Institute Inc",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Welding and Welders",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Heating, Ventilation and Cooling (HVAC)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "International Brotherhood of Electrical Workers",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "United States",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "\u201cIn high school, all my counselors were talking about college this, college that,\u201d Shikhman said. But if his proselytizing on TikTok is any indication, he doesn\u2019t regret going the vocational route.",
+    "credit": "Lexi Parra/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/07/19/multimedia/13ST-GEN-Z-TRADE-SCHOOL-12-wzvt/13ST-GEN-Z-TRADE-SCHOOL-12-wzvt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/07/19/multimedia/13ST-GEN-Z-TRADE-SCHOOL-12-wzvt/13ST-GEN-Z-TRADE-SCHOOL-12-wzvt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Styles",
+   "print_page": "4",
+   "print_section": "ST",
+   "pub_date": "2026-07-13T09:00:24Z",
+   "section_name": "Style",
+   "snippet": "Gen Z is increasingly turning to trade schools in hopes of future-proofing their careers against A.I. But getting their parents and peers on board can be a challenge.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/18af451a-dc52-55ba-bfeb-3c9d2843bc82",
+   "web_url": "https://www.nytimes.com/2026/07/13/style/gen-z-trade-school-careers-ai-college.html",
+   "word_count": 2000
+  }
+ ]
+}

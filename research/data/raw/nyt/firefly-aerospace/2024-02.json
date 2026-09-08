@@ -1,0 +1,158 @@
+{
+ "company": "Firefly Aerospace",
+ "query": "\"Firefly Aerospace\"",
+ "month": "2024-02",
+ "begin_date": "20240201",
+ "end_date": "20240229",
+ "fetched_at": "2026-09-08T04:43:50.171890+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Odysseus was the first privately built vehicle to make it to the moon, and points to a future in which NASA, companies and others rely on commercial lunar delivery services.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A U.S.-Built Spacecraft Lands on the Moon for the First Time Since 1972",
+    "kicker": "",
+    "print_headline": "U.S. Craft Touches Down Once Again on Moon"
+   },
+   "_id": "nyt://article/652b8649-9ef2-5c83-b080-60923705b055",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Intuitive Machines LLC",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "A camera aboard Odysseus, the Intuitive Machines lunar lander, took a photograph of the Bel\u2019kovich K crater on the moon on Wednesday before it landed in the lunar\u2019s southern polar region on Thursday.",
+    "credit": "Intuitive Machines",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/02/22/multimedia/22moon-landing-design-jvbk/22moon-landing-design-jvbk-articleLarge.jpg",
+     "height": 450,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/02/22/multimedia/22moon-landing-design-jvbk/22moon-landing-design-jvbk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-02-23T02:45:04Z",
+   "section_name": "Science",
+   "snippet": "Odysseus was the first privately built vehicle to make it to the moon, and points to a future in which NASA, companies and others rely on commercial lunar delivery services.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/652b8649-9ef2-5c83-b080-60923705b055",
+   "web_url": "https://www.nytimes.com/2024/02/22/science/intuitive-machines-lander-history.html",
+   "word_count": 1134
+  },
+  {
+   "abstract": "The Pentagon is in the early stages of a program to put constellations of smaller and cheaper satellites into orbit to counter space-based threats of the sort being developed by Russia and China.",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Intelligence About Russia Puts Focus on New U.S. Satellite Push",
+    "kicker": "",
+    "print_headline": "Pentagon Puts Missile-Tracking System in Orbit"
+   },
+   "_id": "nyt://article/dfa19f16-2b32-5213-a59a-99640e7b9aa8",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Espionage and Intelligence Services",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 7
+    },
+    {
+     "name": "Location",
+     "value": "Russia",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "A SpaceX Falcon 9 rocket, carrying a military missile tracking system, lifted off from Cape Canaveral, Fla., on Wednesday.",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/02/15/multimedia/15dc-space-lztb/15dc-space-lztb-articleLarge.jpg",
+     "height": 387,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/02/15/multimedia/15dc-space-lztb/15dc-space-lztb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "13",
+   "print_section": "A",
+   "pub_date": "2024-02-15T18:08:40Z",
+   "section_name": "U.S.",
+   "snippet": "The Pentagon is in the early stages of a program to put constellations of smaller and cheaper satellites into orbit to counter space-based threats of the sort being developed by Russia and China.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/dfa19f16-2b32-5213-a59a-99640e7b9aa8",
+   "web_url": "https://www.nytimes.com/2024/02/15/us/politics/satellites-russia-us-intelligence.html",
+   "word_count": 1452
+  }
+ ]
+}

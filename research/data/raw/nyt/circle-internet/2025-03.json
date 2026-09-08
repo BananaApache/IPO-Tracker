@@ -1,0 +1,107 @@
+{
+ "company": "Circle Internet",
+ "query": "\"Circle\" \"stablecoin\"",
+ "month": "2025-03",
+ "begin_date": "20250301",
+ "end_date": "20250331",
+ "fetched_at": "2026-09-08T05:21:38.514255+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The president\u2019s repeated clashes with the nation\u2019s most prestigious law firms has had a destabilizing business effect.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Big Law Splinters Under a Trump Onslaught",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/f4394c50-49b5-5126-bdf9-aaad0f109998",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Paul Weiss Rifkind Wharton & Garrison",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Sullivan & Cromwell",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Giuffra, Robert Joseph Jr",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Karp, Brad S",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Legal Profession",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Executive Orders and Memorandums",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Clifford, Stephanie (1979- )",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Jenner & Block",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Kirkland & Ellis",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "President Trump\u2019s clashes with large American law firms have had a ripple effect across the sector.",
+    "credit": "Leah Millis/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/26/multimedia/26db-trump-kfjt/26db-trump-kfjt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/26/multimedia/26db-trump-kfjt/26db-trump-kfjt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-26T12:17:52Z",
+   "section_name": "Business",
+   "snippet": "The president\u2019s repeated clashes with the nation\u2019s most prestigious law firms has had a destabilizing business effect.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/f4394c50-49b5-5126-bdf9-aaad0f109998",
+   "web_url": "https://www.nytimes.com/2025/03/26/business/dealbook/big-law-trump-onslaught.html",
+   "word_count": 1680
+  }
+ ]
+}

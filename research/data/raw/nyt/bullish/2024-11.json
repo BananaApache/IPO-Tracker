@@ -1,0 +1,158 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2024-11",
+ "begin_date": "20241101",
+ "end_date": "20241130",
+ "fetched_at": "2026-09-08T05:05:38.351372+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "The cryptocurrency hit $88,000 and the Dow Jones industrial average reached a new high as a rally that began after Donald J. Trump\u2019s election continued to gain steam.",
+   "byline": {
+    "original": "By Ravi Mattu and Joe Rennison"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Bitcoin and Stocks Set Records as Bullish Bets Continue",
+    "kicker": "",
+    "print_headline": "Bitcoin Hits  New Highs In Euphoria After Vote"
+   },
+   "_id": "nyt://article/44bfcc23-9c9a-5c2b-98f8-4718e2c74af0",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Bitcoin (Currency)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Coinmarketcap",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/11/business/11db-bitcoin-promo/11db-bitcoin-promo-articleLarge.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/11/business/11db-bitcoin-promo/11db-bitcoin-promo-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2024-11-11T15:03:57Z",
+   "section_name": "Business",
+   "snippet": "The cryptocurrency hit $88,000 and the Dow Jones industrial average reached a new high as a rally that began after Donald J. Trump\u2019s election continued to gain steam.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/44bfcc23-9c9a-5c2b-98f8-4718e2c74af0",
+   "web_url": "https://www.nytimes.com/2024/11/11/business/dealbook/bitcoin-price-record-high.html",
+   "word_count": 340
+  },
+  {
+   "abstract": "Yields on government bonds \u2014 which underpin all kinds of borrowing in the economy \u2014 are rising. But the Fed is cutting rates. What gives?",
+   "byline": {
+    "original": "By Joe Rennison"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Lower Rates, Rising Yields: What to Make of the Bond Market Right Now",
+    "kicker": "",
+    "print_headline": "Rates Down, Yields Up: What to Make of the Current Bond Market"
+   },
+   "_id": "nyt://article/1e553b3e-bf6d-5a49-b94a-c23edfd66675",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Government Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Mortgages",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/07/multimedia/datawrapper_P61jf-promo/datawrapper_P61jf-promo-articleLarge.png",
+     "height": 308,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/07/multimedia/datawrapper_P61jf-promo/datawrapper_P61jf-promo-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2024-11-07T18:17:54Z",
+   "section_name": "Business",
+   "snippet": "Yields on government bonds \u2014 which underpin all kinds of borrowing in the economy \u2014 are rising. But the Fed is cutting rates. What gives?",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/1e553b3e-bf6d-5a49-b94a-c23edfd66675",
+   "web_url": "https://www.nytimes.com/2024/11/07/business/bond-market-trump.html",
+   "word_count": 944
+  }
+ ]
+}

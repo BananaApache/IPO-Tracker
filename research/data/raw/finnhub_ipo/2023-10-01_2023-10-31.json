@@ -1,0 +1,227 @@
+{
+ "from": "2023-10-01",
+ "to": "2023-10-31",
+ "fetched_at": "2026-09-08T04:22:20.624866+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2023-10-31",
+   "exchange": "NASDAQ Capital",
+   "name": "Alpha Technology Group Ltd",
+   "numberOfShares": 1750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ATGL",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2023-10-30",
+   "exchange": null,
+   "name": "Aibafang Group CO., Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FONG",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2023-10-25",
+   "exchange": "NYSE",
+   "name": "MACH NATURAL RESOURCES LP",
+   "numberOfShares": 10000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "MNR",
+   "totalSharesValue": 190000000
+  },
+  {
+   "date": "2023-10-25",
+   "exchange": null,
+   "name": "E-Smart Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 101250
+  },
+  {
+   "date": "2023-10-23",
+   "exchange": "NASDAQ Capital",
+   "name": "reAlpha Tech Corp.",
+   "numberOfShares": 4151519,
+   "price": "23.01",
+   "status": "priced",
+   "symbol": "AIRE",
+   "totalSharesValue": 95526452
+  },
+  {
+   "date": "2023-10-20",
+   "exchange": null,
+   "name": "Daojia Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-10-20",
+   "exchange": "NASDAQ Capital",
+   "name": "Central Plains Bancshares, Inc.",
+   "numberOfShares": 4130815,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CPBI",
+   "totalSharesValue": 41308150
+  },
+  {
+   "date": "2023-10-20",
+   "exchange": "NASDAQ Global",
+   "name": "Abivax S.A.",
+   "numberOfShares": 18699460,
+   "price": "11.60",
+   "status": "priced",
+   "symbol": "ABVX",
+   "totalSharesValue": 216913736
+  },
+  {
+   "date": "2023-10-19",
+   "exchange": "NYSE MKT",
+   "name": "Northann Corp.",
+   "numberOfShares": 1200000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "NCL",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2023-10-19",
+   "exchange": "NASDAQ Capital",
+   "name": "WEBUY GLOBAL LTD",
+   "numberOfShares": 3800000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "WBUY",
+   "totalSharesValue": 15200000
+  },
+  {
+   "date": "2023-10-19",
+   "exchange": null,
+   "name": "Lianfeng Holding Acquisition",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LFKG",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2023-10-17",
+   "exchange": null,
+   "name": "Iron Horse Acquisitions Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-10-13",
+   "exchange": null,
+   "name": "Direct Communication Solutions, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-10-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Agape ATP Corp",
+   "numberOfShares": 1650000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ATPC",
+   "totalSharesValue": 6600000
+  },
+  {
+   "date": "2023-10-11",
+   "exchange": "NYSE",
+   "name": "Birkenstock Holding plc",
+   "numberOfShares": 32258064,
+   "price": "46.00",
+   "status": "priced",
+   "symbol": "BIRK",
+   "totalSharesValue": 1483870944
+  },
+  {
+   "date": "2023-10-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Global Mofy Metaverse Ltd",
+   "numberOfShares": 1200000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "GMM",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2023-10-10",
+   "exchange": "NASDAQ Capital",
+   "name": "La Rosa Holdings Corp.",
+   "numberOfShares": 1000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "LRHC",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2023-10-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Primech Holdings Ltd",
+   "numberOfShares": 3050000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "PMEC",
+   "totalSharesValue": 12200000
+  },
+  {
+   "date": "2023-10-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Gamer Pakistan Inc",
+   "numberOfShares": 1700000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "GPAK",
+   "totalSharesValue": 6800000
+  },
+  {
+   "date": "2023-10-06",
+   "exchange": "NASDAQ Global",
+   "name": "Quetta Acquisition Corp",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "QETAU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2023-10-06",
+   "exchange": "NASDAQ Global",
+   "name": "Spark I Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SPKLU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2023-10-05",
+   "exchange": "NASDAQ Capital",
+   "name": "Maison Solutions Inc.",
+   "numberOfShares": 2500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MSS",
+   "totalSharesValue": 10000000
+  }
+ ]
+}

@@ -1,0 +1,790 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2026-07",
+ "begin_date": "20260701",
+ "end_date": "20260731",
+ "fetched_at": "2026-09-08T05:30:38.544253+00:00",
+ "hits": 51,
+ "docs": [
+  {
+   "abstract": "After soaring in its stock market debut, the shares of Elon Musk\u2019s rocket and A.I. company have been rocky.",
+   "byline": {
+    "original": "By Ryan Mac and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Briefly Falls Below I.P.O. Price of $135",
+    "kicker": "",
+    "print_headline": "After Impressive Debut, SpaceX Drops Below I.P.O. Price"
+   },
+   "_id": "nyt://article/4a2ef831-3ec7-5b3c-b5c5-b2fc3d988131",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/07/15/multimedia/2026-july-biz-promos-spacex-stock/2026-july-biz-promos-spacex-stock-articleLarge-v8.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/07/15/multimedia/2026-july-biz-promos-spacex-stock/2026-july-biz-promos-spacex-stock-thumbStandard-v8.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2026-07-15T16:14:31Z",
+   "section_name": "Business",
+   "snippet": "After soaring in its stock market debut, the shares of Elon Musk\u2019s rocket and A.I. company have been rocky.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4a2ef831-3ec7-5b3c-b5c5-b2fc3d988131",
+   "web_url": "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html",
+   "word_count": 663
+  },
+  {
+   "abstract": "The 33 engines of the rocket\u2019s booster stage had begun to ignite during Thursday\u2019s launch attempt, but were then shut down. SpaceX will try again on another day.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Launch of SpaceX\u2019s Starship Rocket Aborted Just Before Liftoff",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/3cd03caf-f23e-5068-a5f3-b3c0c518696b",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s Starship rocket remained on the launchpad after a launch attempt was called off just as the engines started to ignite.",
+    "credit": "Eric Gay/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/07/16/multimedia/16sci-spacex-starship-mzlc/16sci-spacex-starship-mzlc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/07/16/multimedia/16sci-spacex-starship-mzlc/16sci-spacex-starship-mzlc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-07-16T13:33:04Z",
+   "section_name": "Science",
+   "snippet": "The 33 engines of the rocket\u2019s booster stage had begun to ignite during Thursday\u2019s launch attempt, but were then shut down. SpaceX will try again on another day.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/3cd03caf-f23e-5068-a5f3-b3c0c518696b",
+   "web_url": "https://www.nytimes.com/2026/07/16/science/spacex-13th-test-flight-starship.html",
+   "word_count": 372
+  },
+  {
+   "abstract": "It was the 13th test overall of Starship. The success is a boon to NASA\u2019s moon plans and SpaceX\u2019s hopes to deploy a million data centers in orbit.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "On Second Test of Its Newest Starship Design, SpaceX Sticks the Landing",
+    "kicker": "",
+    "print_headline": "On Second Test Flight of Its Newest Starship Design, SpaceX Sticks the Landing"
+   },
+   "_id": "nyt://article/9ffb8809-cfee-566b-9eae-fdb04bfdb1b3",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "SpaceX, via Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/07/24/science/space/SpaceX-launch_thumb/SpaceX-launch_thumb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/07/24/science/space/SpaceX-launch_thumb/SpaceX-launch_thumb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "11",
+   "print_section": "A",
+   "pub_date": "2026-07-25T00:52:38Z",
+   "section_name": "Science",
+   "snippet": "It was the 13th test overall of Starship. The success is a boon to NASA\u2019s moon plans and SpaceX\u2019s hopes to deploy a million data centers in orbit.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/9ffb8809-cfee-566b-9eae-fdb04bfdb1b3",
+   "web_url": "https://www.nytimes.com/2026/07/24/science/spacex-starship-13th-test-flight.html",
+   "word_count": 792
+  },
+  {
+   "abstract": "Must what goes up also come down?",
+   "byline": {
+    "original": "By Bethany McLean"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "It\u2019s a World-Class Investment. It\u2019s a Junk Investment. What Is Going On With SpaceX?",
+    "kicker": "Guest Essay",
+    "print_headline": "Is SpaceX a World-Class Investment or Junk?"
+   },
+   "_id": "nyt://article/fc062496-72aa-5d3c-a667-3805b1520188",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Enron Corp",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Illustration by The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/07/12/opinion/09mcclean/09mcclean-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/07/12/opinion/09mcclean/09mcclean-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "5",
+   "print_section": "SR",
+   "pub_date": "2026-07-09T09:03:26Z",
+   "section_name": "Opinion",
+   "snippet": "Must what goes up also come down?",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Op-Ed",
+   "uri": "nyt://article/fc062496-72aa-5d3c-a667-3805b1520188",
+   "web_url": "https://www.nytimes.com/2026/07/09/opinion/spacex-ipo-investment-smart-dumb-money.html",
+   "word_count": 1409
+  },
+  {
+   "abstract": "The launch and recovery of the Long March 10B could represent a long-awaited breakthrough for Chinese satellite companies.",
+   "byline": {
+    "original": "By Selam Gebrekidan and Pei-Lin Wu"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "With a Successful Rocket Launch, China Clears a Key Hurdle in Race With SpaceX",
+    "kicker": "",
+    "print_headline": "China\u2019s Reusable Rocket Lands Successfully"
+   },
+   "_id": "nyt://article/a417a0b3-8b55-5d7b-989f-dafbec1259f6",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "China Aerospace",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "A Long March 10B rocket blasting off from the Wenchang spaceport in Hainan, China, on Friday.",
+    "credit": "Visual China Group, via Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/07/10/world/10int-china-rocket/10int-china-rocket-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/07/10/world/10int-china-rocket/10int-china-rocket-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "5",
+   "print_section": "A",
+   "pub_date": "2026-07-10T07:39:12Z",
+   "section_name": "World",
+   "snippet": "The launch and recovery of the Long March 10B could represent a long-awaited breakthrough for Chinese satellite companies.",
+   "source": "The New York Times",
+   "subsection_name": "Asia Pacific",
+   "type_of_material": "News",
+   "uri": "nyt://article/a417a0b3-8b55-5d7b-989f-dafbec1259f6",
+   "web_url": "https://www.nytimes.com/2026/07/10/world/asia/china-space-reusable-rocket-launch-spacex.html",
+   "word_count": 586
+  },
+  {
+   "abstract": "Some market watchers are puzzled that shares in Elon Musk\u2019s rocket and A.I. company have stalled out despite major interest from Wall Street.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O\u2019Keefe"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why Index Funds Haven\u2019t Boosted SpaceX",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/d4f38fbe-e692-5702-97b4-e5fa6bbd5724",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Nasdaq Composite Index",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Morningstar Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "S & P Dow Jones Indices",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s share price has languished since its trading debut last month, surprising many market watchers.",
+    "credit": "Karsten Moran for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/07/07/multimedia/07db-spcx-ztlv/07db-spcx-ztlv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/07/07/multimedia/07db-spcx-ztlv/07db-spcx-ztlv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-07-07T12:02:27Z",
+   "section_name": "Business",
+   "snippet": "Some market watchers are puzzled that shares in Elon Musk\u2019s rocket and A.I. company have stalled out despite major interest from Wall Street.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/d4f38fbe-e692-5702-97b4-e5fa6bbd5724",
+   "web_url": "https://www.nytimes.com/2026/07/07/business/dealbook/spacex-index-funds.html",
+   "word_count": 1692
+  },
+  {
+   "abstract": "Flaming chunks of metal crash into homes, farms and parking lots. Who\u2019s to blame? And who pays for the damage?",
+   "byline": {
+    "original": "By Selam Gebrekidan"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+    "kicker": "",
+    "print_headline": "Space Junk Comes in Pieces, Posing a Threat to Earthlings"
+   },
+   "_id": "nyt://article/fd56ce0e-efcc-5f3a-afa1-f62ec56e8328",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Earth",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "International Relations",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Aviation Administration",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Kenya",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Accidents and Safety",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Treaties",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "Waste Materials and Disposal",
+     "rank": 15
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Dean Olson, via Storyful",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/07/29/29visualUploader-82137-cover/29visualUploader-82137-cover-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/07/29/29visualUploader-82137-cover/29visualUploader-82137-cover-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2026-07-31T04:01:09Z",
+   "section_name": "World",
+   "snippet": "Flaming chunks of metal crash into homes, farms and parking lots. Who\u2019s to blame? And who pays for the damage?",
+   "source": "The New York Times",
+   "subsection_name": "Asia Pacific",
+   "type_of_material": "News",
+   "uri": "nyt://article/fd56ce0e-efcc-5f3a-afa1-f62ec56e8328",
+   "web_url": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
+   "word_count": 1416
+  },
+  {
+   "abstract": "Heeva Alavi, an Iranian-American, writes about her family\u2019s mixed emotions about the World Cup, while Aariv Shah reflects on the SpaceX I.P.O.",
+   "byline": {
+    "original": "By The Learning Network"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX and the World Cup: The Winners of Week 2 of Our Summer Reading Contest",
+    "kicker": "Contests",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/9b6195d6-9187-579a-b62d-c79f84c22048",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Members of Iran\u2019s national soccer team training in Carson, Calif., on Sunday. Many Iranians say their problems are too big these days for them to care much about how the team does.",
+    "credit": "Daniel Cole/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/06/15/multimedia/15int-iran-world-cup-01-kvjt/15int-iran-world-cup-01-kvjt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/06/15/multimedia/15int-iran-world-cup-01-kvjt/15int-iran-world-cup-01-kvjt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Learning",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-07-01T14:25:22Z",
+   "section_name": "The Learning Network",
+   "snippet": "Heeva Alavi, an Iranian-American, writes about her family\u2019s mixed emotions about the World Cup, while Aariv Shah reflects on the SpaceX I.P.O.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/9b6195d6-9187-579a-b62d-c79f84c22048",
+   "web_url": "https://www.nytimes.com/2026/07/01/learning/spacex-and-the-world-cup-the-winners-of-week-2-of-our-summer-reading-contest.html",
+   "word_count": 611
+  },
+  {
+   "abstract": "A space neophyte not long ago, China is now the United States\u2019s main competitor for supremacy throughout the solar system.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Picture-Perfect Landing Shows China\u2019s Ambitions to Narrow the Space Race",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/6aac2591-932e-5296-871f-cda747f4c8cb",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "An image released by the Chinese state-run Xinhua News Agency purporting to show the returning first stage of the Long March 10B rocket on a seaborne platform in the South China Sea on Friday.",
+    "credit": "Xing Guangli/Xinhua, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/07/10/multimedia/10sci-China-space-kbwl/10sci-China-space-kbwl-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/07/10/multimedia/10sci-China-space-kbwl/10sci-China-space-kbwl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-07-10T22:27:17Z",
+   "section_name": "Science",
+   "snippet": "A space neophyte not long ago, China is now the United States\u2019s main competitor for supremacy throughout the solar system.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/6aac2591-932e-5296-871f-cda747f4c8cb",
+   "web_url": "https://www.nytimes.com/2026/07/10/science/china-space-race.html",
+   "word_count": 1157
+  },
+  {
+   "abstract": "Wall Street loves an acronym. The latest one stands for Meta, Anthropic, Nvidia and three other companies at the center of the artificial intelligence boom.",
+   "byline": {
+    "original": "By Rob Copeland"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Are the \u2018MANGOS\u2019 Stocks Already Turning Soft?",
+    "kicker": "Shop Talk",
+    "print_headline": "\u2018MANGOS\u2019"
+   },
+   "_id": "nyt://article/33257842-90ac-574c-a286-6d056260febe",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Meta Platforms Inc",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Google Inc",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Jackson Gibbs",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/07/05/business/05shoptalk-illo/05shoptalk-illo-articleLarge.jpg",
+     "height": 588,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/07/05/business/05shoptalk-illo/05shoptalk-illo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "SundayBusiness",
+   "print_page": "3",
+   "print_section": "BU",
+   "pub_date": "2026-07-04T09:00:46Z",
+   "section_name": "Business",
+   "snippet": "Wall Street loves an acronym. The latest one stands for Meta, Anthropic, Nvidia and three other companies at the center of the artificial intelligence boom.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/33257842-90ac-574c-a286-6d056260febe",
+   "web_url": "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html",
+   "word_count": 558
+  }
+ ]
+}

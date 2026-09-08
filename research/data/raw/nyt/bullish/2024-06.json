@@ -1,0 +1,214 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2024-06",
+ "begin_date": "20240601",
+ "end_date": "20240630",
+ "fetched_at": "2026-09-08T04:53:38.225856+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "The chipmaker\u2019s stock has tumbled in recent days, a reminder that the artificial intelligence stock boom could be tough to sustain.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Inside Nvidia\u2019s $500 Billion Wipeout",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/80838b0f-9c09-5bda-bafd-d5202e47f1b2",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "Jensen Huang of Nvidia has seen the chip maker shrink in value in recent days.",
+    "credit": "Ritchie B Tongo/EPA, via Shutterstock",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/25/multimedia/25db-nvidia-wgfz/25db-nvidia-wgfz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/25/multimedia/25db-nvidia-wgfz/25db-nvidia-wgfz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-06-25T11:59:36Z",
+   "section_name": "Business",
+   "snippet": "The chipmaker\u2019s stock has tumbled in recent days, a reminder that the artificial intelligence stock boom could be tough to sustain.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/80838b0f-9c09-5bda-bafd-d5202e47f1b2",
+   "web_url": "https://www.nytimes.com/2024/06/25/business/dealbook/nvidia-stock-wipeout.html",
+   "word_count": 1872
+  },
+  {
+   "abstract": "Markets appear to be dismissing the central bank\u2019s more pessimistic take on inflation, as the S&P 500 nears a new high.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch, Ephrat Livni, Benjamin Mullin and Vivienne Walt"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why Investors Don\u2019t Believe the Fed",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/578885a1-56c1-51c7-bd4b-4f59e5570499",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Powell, Jerome H",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Jay Powell, the Fed chair, has signaled that investors need to tamp down their hopes for multiple interest rate cuts this year.",
+    "credit": "Susan Walsh/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/13/multimedia/13db-powell-qctj/13db-powell-qctj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/13/multimedia/13db-powell-qctj/13db-powell-qctj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-06-13T10:56:40Z",
+   "section_name": "Business",
+   "snippet": "Markets appear to be dismissing the central bank\u2019s more pessimistic take on inflation, as the S&P 500 nears a new high.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/578885a1-56c1-51c7-bd4b-4f59e5570499",
+   "web_url": "https://www.nytimes.com/2024/06/13/business/dealbook/markets-record-fed-inflation.html",
+   "word_count": 1915
+  },
+  {
+   "abstract": "None of the options ensure victory against Trump \u2014 and some of them could badly split the party.",
+   "byline": {
+    "original": "By Jamelle Bouie, Michelle Goldberg, Patrick Healy and Bret Stephens"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "\u2018Is It Too Late?\u2019 Four Writers on What Democrats Should Do About Biden.",
+    "kicker": "Jamelle Bouie, Michelle Goldberg, Patrick Healy and Bret Stephens",
+    "print_headline": "Four Writers on What Democrats Should Do"
+   },
+   "_id": "nyt://article/5e05d74e-862b-552e-872b-1dbdadb0c971",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Biden, Joseph R Jr",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Debates (Political)",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Harris, Kamala D",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Democratic Party",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/30/multimedia/28dems-roundtable-qhwz/28dems-roundtable-qhwz-articleLarge-v3.jpg",
+     "height": 750,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/30/multimedia/28dems-roundtable-qhwz/28dems-roundtable-qhwz-thumbStandard-v3.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "4",
+   "print_section": "SR",
+   "pub_date": "2024-06-28T20:01:08Z",
+   "section_name": "Opinion",
+   "snippet": "None of the options ensure victory against Trump \u2014 and some of them could badly split the party.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Op-Ed",
+   "uri": "nyt://article/5e05d74e-862b-552e-872b-1dbdadb0c971",
+   "web_url": "https://www.nytimes.com/2024/06/28/opinion/biden-democrats-debate.html",
+   "word_count": 3607
+  }
+ ]
+}

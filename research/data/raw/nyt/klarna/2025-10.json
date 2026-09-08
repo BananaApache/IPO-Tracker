@@ -1,0 +1,238 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2025-10",
+ "begin_date": "20251001",
+ "end_date": "20251031",
+ "fetched_at": "2026-09-08T05:36:26.578943+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "\u2018Buy Now, Pay Later\u2019 has built a delirious new culture of consumption \u2014 and trapped users in a vortex of debt.",
+   "byline": {
+    "original": "By Amy X. Wang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "They Got to Live a Life of Luxury. Then Came the Fine Print.",
+    "kicker": "",
+    "print_headline": "How \u2018Buy Now, Pay Later\u2019 apps built a delirious new culture of consumption \u2014 and trapped users in a vortex of debt."
+   },
+   "_id": "nyt://article/c20cb17e-ef72-5760-b6f8-87e353f202df",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Shopping and Retail",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Behavior",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "E-Commerce",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Credit Cards",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Fashion and Apparel",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Luxury Goods and Services",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Photo illustration by Alice Isaac",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/12/arts/NYT-klarna-HP-promo/NYT-klarna-HP-promo-articleLarge-v2.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/12/arts/NYT-klarna-HP-promo/NYT-klarna-HP-promo-thumbStandard-v2.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Magazine",
+   "print_page": "22",
+   "print_section": "MM",
+   "pub_date": "2025-10-07T09:00:52Z",
+   "section_name": "Magazine",
+   "snippet": "\u2018Buy Now, Pay Later\u2019 has built a delirious new culture of consumption \u2014 and trapped users in a vortex of debt.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c20cb17e-ef72-5760-b6f8-87e353f202df",
+   "web_url": "https://www.nytimes.com/2025/10/07/magazine/buy-now-pay-later-klarna-affirm-shopping.html",
+   "word_count": 4116
+  },
+  {
+   "abstract": "A group of financiers is trying to convince the public to invest heavily in private equity and crypto \u2014 a risky gambit with some real 1920s vibes.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Rules of Investing Are Being Loosened. Could It Lead to the Next 1929?",
+    "kicker": "",
+    "print_headline": "1929 Vibes"
+   },
+   "_id": "nyt://article/e6ea2c58-ebce-548d-a2f1-3cf19e6455cc",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Equity",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Pensions and Retirement Plans",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "401(k), 403(b) and 457 Plans",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Hedge Funds",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Consumer Financial Protection Bureau",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Securities and Exchange Commission",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "Apollo Global Management",
+     "rank": 14
+    },
+    {
+     "name": "Organization",
+     "value": "KKR & Co LP",
+     "rank": 15
+    },
+    {
+     "name": "Organization",
+     "value": "Blackstone Group, The",
+     "rank": 16
+    },
+    {
+     "name": "Organization",
+     "value": "MicroStrategy Inc",
+     "rank": 17
+    },
+    {
+     "name": "Organization",
+     "value": "Robinhood Financial LLC",
+     "rank": 18
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Photo illustration by Ricardo Tom\u00e1s",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/19/magazine/19mag-finance3/19mag-finance3-articleLarge.jpg",
+     "height": 368,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/19/magazine/19mag-finance3/19mag-finance3-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Magazine",
+   "print_page": "16",
+   "print_section": "MM",
+   "pub_date": "2025-10-13T09:00:39Z",
+   "section_name": "Magazine",
+   "snippet": "A group of financiers is trying to convince the public to invest heavily in private equity and crypto \u2014 a risky gambit with some real 1920s vibes.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/e6ea2c58-ebce-548d-a2f1-3cf19e6455cc",
+   "web_url": "https://www.nytimes.com/2025/10/13/magazine/investing-private-equity-crypto-crash-1929.html",
+   "word_count": 3953
+  }
+ ]
+}

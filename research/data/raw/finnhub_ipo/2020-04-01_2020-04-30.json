@@ -1,0 +1,157 @@
+{
+ "from": "2020-04-01",
+ "to": "2020-04-30",
+ "fetched_at": "2026-09-08T04:20:56.564714+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2020-04-30",
+   "exchange": null,
+   "name": "Vontier Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-04-30",
+   "exchange": "NYSE",
+   "name": "MP Materials Corp. / DE",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FVACU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-04-28",
+   "exchange": "NYSE",
+   "name": "Opendoor Technologies Inc.",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IPOBU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2020-04-24",
+   "exchange": null,
+   "name": "Father Time, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-04-24",
+   "exchange": null,
+   "name": "SeqLL, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-04-24",
+   "exchange": "NASDAQ Global Select",
+   "name": "Oric Pharmaceuticals, Inc.",
+   "numberOfShares": 7500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ORIC",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2020-04-24",
+   "exchange": "NYSE",
+   "name": "E2open Parent Holdings, Inc.",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PCPLU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2020-04-24",
+   "exchange": "NYSE MKT",
+   "name": "Chardan Healthcare Acquisition 2 Corp.",
+   "numberOfShares": 8500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CHAQU",
+   "totalSharesValue": 85000000
+  },
+  {
+   "date": "2020-04-22",
+   "exchange": "NYSE",
+   "name": "CLOVER HEALTH INVESTMENTS, CORP. /DE",
+   "numberOfShares": 72000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IPOCU",
+   "totalSharesValue": 720000000
+  },
+  {
+   "date": "2020-04-15",
+   "exchange": null,
+   "name": "STARGUIDE GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2020-04-08",
+   "exchange": "NASDAQ Global",
+   "name": "Keros Therapeutics, Inc.",
+   "numberOfShares": 6000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "KROS",
+   "totalSharesValue": 96000000
+  },
+  {
+   "date": "2020-04-08",
+   "exchange": null,
+   "name": "HYGGE INTEGRATED BRANDS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 24275
+  },
+  {
+   "date": "2020-04-07",
+   "exchange": null,
+   "name": "To Prosperity Technology Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-04-03",
+   "exchange": "NASDAQ Global",
+   "name": "Zentalis Pharmaceuticals, Inc.",
+   "numberOfShares": 9180000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ZNTL",
+   "totalSharesValue": 165240000
+  },
+  {
+   "date": "2020-04-01",
+   "exchange": "NASDAQ Global",
+   "name": "WiMi Hologram Cloud Inc.",
+   "numberOfShares": 4750000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "WIMI",
+   "totalSharesValue": 26125000
+  }
+ ]
+}

@@ -1,0 +1,397 @@
+{
+ "from": "2025-06-01",
+ "to": "2025-06-30",
+ "fetched_at": "2026-09-08T04:23:00.645298+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2025-06-30",
+   "exchange": null,
+   "name": "Somitos Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2025-06-30",
+   "exchange": null,
+   "name": "Zerolimit Technology Holding Co. Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ZDAN",
+   "totalSharesValue": 9200000
+  },
+  {
+   "date": "2025-06-27",
+   "exchange": "NASDAQ Global",
+   "name": "FIGX Capital Acquisition Corp.",
+   "numberOfShares": 13100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FIGXU",
+   "totalSharesValue": 131000000
+  },
+  {
+   "date": "2025-06-27",
+   "exchange": "NASDAQ Global",
+   "name": "Yorkville Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "YORKU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-06-27",
+   "exchange": null,
+   "name": "JuNeng Technology Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 11000000
+  },
+  {
+   "date": "2025-06-26",
+   "exchange": "NASDAQ Global",
+   "name": "Cantor Equity Partners III, Inc.",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CAEP",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2025-06-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "Jefferson Capital, Inc. / DE",
+   "numberOfShares": 10000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "JCAP",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-06-26",
+   "exchange": "NASDAQ Capital",
+   "name": "Julong Holding Ltd",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "JLHL",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-06-25",
+   "exchange": "NASDAQ Global",
+   "name": "Oxley Bridge Acquisition Ltd",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OBAWU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-06-25",
+   "exchange": "NASDAQ Global",
+   "name": "LightWave Acquisition Corp.",
+   "numberOfShares": 18750000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LWACU",
+   "totalSharesValue": 187500000
+  },
+  {
+   "date": "2025-06-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Kandal M Venture Ltd",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "FMFC",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2025-06-24",
+   "exchange": null,
+   "name": "Spirits Capital Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-06-24",
+   "exchange": null,
+   "name": "E I L Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-06-24",
+   "exchange": "NASDAQ Capital",
+   "name": "Happy City Holdings Ltd",
+   "numberOfShares": 1100000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "HCHL",
+   "totalSharesValue": 5500000
+  },
+  {
+   "date": "2025-06-20",
+   "exchange": null,
+   "name": "Neuro Spectrum Insights, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2025-06-18",
+   "exchange": "NASDAQ Global",
+   "name": "Pioneer Acquisition I Corp",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PACHU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-06-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "Caris Life Sciences, Inc.",
+   "numberOfShares": 23529412,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "CAI",
+   "totalSharesValue": 494117652
+  },
+  {
+   "date": "2025-06-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "Slide Insurance Holdings, Inc.",
+   "numberOfShares": 24000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "SLDE",
+   "totalSharesValue": 408000000
+  },
+  {
+   "date": "2025-06-18",
+   "exchange": "NASDAQ Global",
+   "name": "Axiom Intelligence Acquisition Corp 1",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AXINU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2025-06-18",
+   "exchange": "NYSE MKT",
+   "name": "ENIGMATIG LTD",
+   "numberOfShares": 2845200,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "EGG",
+   "totalSharesValue": 14226000
+  },
+  {
+   "date": "2025-06-17",
+   "exchange": "NASDAQ Global",
+   "name": "Jyong Biotech Ltd.",
+   "numberOfShares": 2666667,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "MENS",
+   "totalSharesValue": 20000003
+  },
+  {
+   "date": "2025-06-17",
+   "exchange": null,
+   "name": "BM Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BMOKU",
+   "totalSharesValue": 69000000
+  },
+  {
+   "date": "2025-06-13",
+   "exchange": "NASDAQ Global",
+   "name": "Blue Acquisition Corp/Cayman",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BACCU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2025-06-13",
+   "exchange": "NASDAQ Capital",
+   "name": "BEST SPAC I Acquisition Corp.",
+   "numberOfShares": 5500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BSAAU",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2025-06-13",
+   "exchange": "NASDAQ Global",
+   "name": "AIRO Group Holdings, Inc.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AIRO",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2025-06-13",
+   "exchange": null,
+   "name": "GEBE Environmental Technology Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GEBE",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2025-06-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "Chime Financial, Inc.",
+   "numberOfShares": 32000000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "CHYM",
+   "totalSharesValue": 864000000
+  },
+  {
+   "date": "2025-06-12",
+   "exchange": "NYSE MKT",
+   "name": "Vantage Corp (Singapore)",
+   "numberOfShares": 3250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "VNTG",
+   "totalSharesValue": 13000000
+  },
+  {
+   "date": "2025-06-11",
+   "exchange": "NYSE",
+   "name": "Voyager Technologies, Inc./DE",
+   "numberOfShares": 12348387,
+   "price": "31.00",
+   "status": "priced",
+   "symbol": "VOYG",
+   "totalSharesValue": 382799997
+  },
+  {
+   "date": "2025-06-11",
+   "exchange": "NYSE",
+   "name": "Ategrity Specialty Insurance Co Holdings",
+   "numberOfShares": 6666667,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ASIC",
+   "totalSharesValue": 113333339
+  },
+  {
+   "date": "2025-06-10",
+   "exchange": "NASDAQ Global",
+   "name": "Blue Water Acquisition Corp. III",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BLUWU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-06-09",
+   "exchange": null,
+   "name": "Odyssey Therapeutics, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-06-09",
+   "exchange": "NASDAQ Capital",
+   "name": "707 Cayman Holdings Ltd.",
+   "numberOfShares": 2500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "JEM",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2025-06-09",
+   "exchange": null,
+   "name": "SUN",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SUNY",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2025-06-09",
+   "exchange": null,
+   "name": "OTSAW Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "OTSA",
+   "totalSharesValue": 28111116
+  },
+  {
+   "date": "2025-06-06",
+   "exchange": "NASDAQ Global Select",
+   "name": "Omada Health, Inc.",
+   "numberOfShares": 7900000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "OMDA",
+   "totalSharesValue": 150100000
+  },
+  {
+   "date": "2025-06-05",
+   "exchange": null,
+   "name": "Unifoil Holdings, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-06-05",
+   "exchange": "NYSE",
+   "name": "Circle Internet Group, Inc.",
+   "numberOfShares": 34000000,
+   "price": "31.00",
+   "status": "priced",
+   "symbol": "CRCL",
+   "totalSharesValue": 1054000000
+  },
+  {
+   "date": "2025-06-04",
+   "exchange": null,
+   "name": "Beta FinTech Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BTFT",
+   "totalSharesValue": 13800000
+  }
+ ]
+}

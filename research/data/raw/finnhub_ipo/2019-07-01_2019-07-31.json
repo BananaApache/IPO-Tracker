@@ -1,0 +1,347 @@
+{
+ "from": "2019-07-01",
+ "to": "2019-07-31",
+ "fetched_at": "2026-09-08T04:20:38.548103+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2019-07-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "WANDA SPORTS GROUP CO LTD",
+   "numberOfShares": 23800000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "WSG",
+   "totalSharesValue": 190400000
+  },
+  {
+   "date": "2019-07-26",
+   "exchange": "NASDAQ Capital",
+   "name": "BLUE HAT INTERACTIVE ENTERTAINMENT TECHNOLOGY",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "BHAT",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2019-07-26",
+   "exchange": null,
+   "name": "BIO ESSENCE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2019-07-25",
+   "exchange": "NASDAQ Global",
+   "name": "CASTLE BIOSCIENCES INC",
+   "numberOfShares": 4000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CSTL",
+   "totalSharesValue": 64000000
+  },
+  {
+   "date": "2019-07-25",
+   "exchange": "NYSE",
+   "name": "SUNNOVA ENERGY INTERNATIONAL INC.",
+   "numberOfShares": 14000000,
+   "price": "12.00\t",
+   "status": "priced",
+   "symbol": "NOVA",
+   "totalSharesValue": 168000000
+  },
+  {
+   "date": "2019-07-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "HEALTH CATALYST, INC.",
+   "numberOfShares": 7000000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "HCAT",
+   "totalSharesValue": 182000000
+  },
+  {
+   "date": "2019-07-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "LIVONGO HEALTH, INC.",
+   "numberOfShares": 12687000,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "LVGO",
+   "totalSharesValue": 355236000
+  },
+  {
+   "date": "2019-07-25",
+   "exchange": "NYSE",
+   "name": "PROSIGHT GLOBAL, INC.",
+   "numberOfShares": 7857145,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "PROS",
+   "totalSharesValue": 110000030
+  },
+  {
+   "date": "2019-07-25",
+   "exchange": "NASDAQ Capital",
+   "name": "FELLAZO INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FLLCU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2019-07-24",
+   "exchange": null,
+   "name": "BIOPHYTIS SA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-07-19",
+   "exchange": "NYSE",
+   "name": "MEDALLIA, INC.",
+   "numberOfShares": 15500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "MDLA",
+   "totalSharesValue": 325500000
+  },
+  {
+   "date": "2019-07-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "AFYA LTD",
+   "numberOfShares": 13744210,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "AFYA",
+   "totalSharesValue": 261139990
+  },
+  {
+   "date": "2019-07-18",
+   "exchange": "NASDAQ Global",
+   "name": "MIRUM PHARMACEUTICALS, INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "MIRM",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2019-07-18",
+   "exchange": "NASDAQ Global",
+   "name": "FULCRUM THERAPEUTICS, INC.",
+   "numberOfShares": 4500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "FULC",
+   "totalSharesValue": 72000000
+  },
+  {
+   "date": "2019-07-18",
+   "exchange": "NYSE",
+   "name": "PHREESIA, INC.",
+   "numberOfShares": 9288194,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "PHR",
+   "totalSharesValue": 167187492
+  },
+  {
+   "date": "2019-07-18",
+   "exchange": "NYSE",
+   "name": "ASSETMARK FINANCIAL HOLDINGS, INC.",
+   "numberOfShares": 12500000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "AMK",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2019-07-18",
+   "exchange": "NYSE",
+   "name": "OAKTREE ACQUISITION CORP.",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OAC'U",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2019-07-18",
+   "exchange": "NASDAQ Capital",
+   "name": "CONYERS PARK II ACQUISITION CORP.",
+   "numberOfShares": 40000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CPAAU",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2019-07-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "GENMAB A/S",
+   "numberOfShares": 28500000,
+   "price": "17.75",
+   "status": "priced",
+   "symbol": "GMAB",
+   "totalSharesValue": 505875000
+  },
+  {
+   "date": "2019-07-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "DOUYU INTERNATIONAL HOLDINGS LTD",
+   "numberOfShares": 67387110,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "DOYU",
+   "totalSharesValue": 774951765
+  },
+  {
+   "date": "2019-07-12",
+   "exchange": "NYSE",
+   "name": "PIVOTAL INVESTMENT CORP II",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PIC'U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2019-07-12",
+   "exchange": "NASDAQ Capital",
+   "name": "TUSCAN HOLDINGS CORP. II",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "THCAU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2019-07-12",
+   "exchange": "NYSE",
+   "name": "SC HEALTH CORP",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SCPEU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2019-07-12",
+   "exchange": null,
+   "name": "CLOUDMINDS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CMDS",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2019-07-11",
+   "exchange": null,
+   "name": "MARY JANE'S CBD DISPENSARY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-07-11",
+   "exchange": null,
+   "name": "NETFIN ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NFINU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2019-07-10",
+   "exchange": null,
+   "name": "PELOTON THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-07-10",
+   "exchange": null,
+   "name": "GUARDION HEALTH SCIENCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-07-10",
+   "exchange": null,
+   "name": "BORR DRILLING LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BORR",
+   "totalSharesValue": 46500000
+  },
+  {
+   "date": "2019-07-03",
+   "exchange": null,
+   "name": "INTERCORP FINANCIAL SERVICES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "IFS",
+   "totalSharesValue": 414000000
+  },
+  {
+   "date": "2019-07-02",
+   "exchange": null,
+   "name": "VISTA OIL & GAS, S.A.B. DE C.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "VIST",
+   "totalSharesValue": 92500000
+  },
+  {
+   "date": "2019-07-01",
+   "exchange": null,
+   "name": "CODIAK BIOSCIENCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-07-01",
+   "exchange": null,
+   "name": "HUIXINJIA CAPITAL GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HXJ",
+   "totalSharesValue": 700000000
+  },
+  {
+   "date": "2019-07-01",
+   "exchange": null,
+   "name": "SWITCHBACK ENERGY ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SBE'U",
+   "totalSharesValue": 300000000
+  }
+ ]
+}

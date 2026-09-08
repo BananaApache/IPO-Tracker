@@ -1,0 +1,571 @@
+{
+ "company": "Lyft",
+ "cohort": "tier_b",
+ "symbol": "LYFT",
+ "resolution": {
+  "company": "Lyft",
+  "title": "Lyft",
+  "method": "exact title match",
+  "candidates": [],
+  "notes": "",
+  "cohort": "tier_b"
+ },
+ "article_created": "2007-03-19T22:27:54Z",
+ "coverage_start": "2015-07-01",
+ "first_pageview_month": "201507",
+ "views_by_title": {
+  "Lyft": 3428362,
+  "Timeline of Lyft": 28793,
+  "Draft:Lyftfund": 31,
+  "Lyft XL": 105,
+  "Lux (Lyft)": 5816,
+  "Lyft Lux": 98,
+  "Lux Black": 88,
+  "Lyft Lux Black": 69
+ },
+ "redirects_included": true,
+ "title_history_inherited": false,
+ "fetched_at": "2026-09-08T08:17:11.194372+00:00",
+ "items": [
+  {
+   "timestamp": "2015070100",
+   "views": 22077
+  },
+  {
+   "timestamp": "2015080100",
+   "views": 20537
+  },
+  {
+   "timestamp": "2015090100",
+   "views": 21603
+  },
+  {
+   "timestamp": "2015100100",
+   "views": 21728
+  },
+  {
+   "timestamp": "2015110100",
+   "views": 19668
+  },
+  {
+   "timestamp": "2015120100",
+   "views": 26394
+  },
+  {
+   "timestamp": "2016010100",
+   "views": 40039
+  },
+  {
+   "timestamp": "2016020100",
+   "views": 25546
+  },
+  {
+   "timestamp": "2016030100",
+   "views": 28056
+  },
+  {
+   "timestamp": "2016040100",
+   "views": 28169
+  },
+  {
+   "timestamp": "2016050100",
+   "views": 33320
+  },
+  {
+   "timestamp": "2016060100",
+   "views": 32555
+  },
+  {
+   "timestamp": "2016070100",
+   "views": 31887
+  },
+  {
+   "timestamp": "2016080100",
+   "views": 33133
+  },
+  {
+   "timestamp": "2016090100",
+   "views": 35523
+  },
+  {
+   "timestamp": "2016100100",
+   "views": 29489
+  },
+  {
+   "timestamp": "2016110100",
+   "views": 28628
+  },
+  {
+   "timestamp": "2016120100",
+   "views": 32298
+  },
+  {
+   "timestamp": "2017010100",
+   "views": 54739
+  },
+  {
+   "timestamp": "2017020100",
+   "views": 42896
+  },
+  {
+   "timestamp": "2017030100",
+   "views": 46592
+  },
+  {
+   "timestamp": "2017040100",
+   "views": 39888
+  },
+  {
+   "timestamp": "2017050100",
+   "views": 36590
+  },
+  {
+   "timestamp": "2017060100",
+   "views": 48823
+  },
+  {
+   "timestamp": "2017070100",
+   "views": 36714
+  },
+  {
+   "timestamp": "2017080100",
+   "views": 34872
+  },
+  {
+   "timestamp": "2017090100",
+   "views": 40629
+  },
+  {
+   "timestamp": "2017100100",
+   "views": 42959
+  },
+  {
+   "timestamp": "2017110100",
+   "views": 41727
+  },
+  {
+   "timestamp": "2017120100",
+   "views": 34248
+  },
+  {
+   "timestamp": "2018010100",
+   "views": 38688
+  },
+  {
+   "timestamp": "2018020100",
+   "views": 31253
+  },
+  {
+   "timestamp": "2018030100",
+   "views": 39239
+  },
+  {
+   "timestamp": "2018040100",
+   "views": 32911
+  },
+  {
+   "timestamp": "2018050100",
+   "views": 32238
+  },
+  {
+   "timestamp": "2018060100",
+   "views": 32075
+  },
+  {
+   "timestamp": "2018070100",
+   "views": 37986
+  },
+  {
+   "timestamp": "2018080100",
+   "views": 39825
+  },
+  {
+   "timestamp": "2018090100",
+   "views": 35113
+  },
+  {
+   "timestamp": "2018100100",
+   "views": 38042
+  },
+  {
+   "timestamp": "2018110100",
+   "views": 38492
+  },
+  {
+   "timestamp": "2018120100",
+   "views": 38716
+  },
+  {
+   "timestamp": "2019010100",
+   "views": 35002
+  },
+  {
+   "timestamp": "2019020100",
+   "views": 34157
+  },
+  {
+   "timestamp": "2019030100",
+   "views": 91567
+  },
+  {
+   "timestamp": "2019040100",
+   "views": 70497
+  },
+  {
+   "timestamp": "2019050100",
+   "views": 47362
+  },
+  {
+   "timestamp": "2019060100",
+   "views": 30723
+  },
+  {
+   "timestamp": "2019070100",
+   "views": 32500
+  },
+  {
+   "timestamp": "2019080100",
+   "views": 35606
+  },
+  {
+   "timestamp": "2019090100",
+   "views": 32619
+  },
+  {
+   "timestamp": "2019100100",
+   "views": 43901
+  },
+  {
+   "timestamp": "2019110100",
+   "views": 37810
+  },
+  {
+   "timestamp": "2019120100",
+   "views": 33132
+  },
+  {
+   "timestamp": "2020010100",
+   "views": 34427
+  },
+  {
+   "timestamp": "2020020100",
+   "views": 27929
+  },
+  {
+   "timestamp": "2020030100",
+   "views": 26257
+  },
+  {
+   "timestamp": "2020040100",
+   "views": 25150
+  },
+  {
+   "timestamp": "2020050100",
+   "views": 23814
+  },
+  {
+   "timestamp": "2020060100",
+   "views": 19599
+  },
+  {
+   "timestamp": "2020070100",
+   "views": 18603
+  },
+  {
+   "timestamp": "2020080100",
+   "views": 24076
+  },
+  {
+   "timestamp": "2020090100",
+   "views": 22540
+  },
+  {
+   "timestamp": "2020100100",
+   "views": 32301
+  },
+  {
+   "timestamp": "2020110100",
+   "views": 28946
+  },
+  {
+   "timestamp": "2020120100",
+   "views": 18690
+  },
+  {
+   "timestamp": "2021010100",
+   "views": 17755
+  },
+  {
+   "timestamp": "2021020100",
+   "views": 21189
+  },
+  {
+   "timestamp": "2021030100",
+   "views": 25492
+  },
+  {
+   "timestamp": "2021040100",
+   "views": 21018
+  },
+  {
+   "timestamp": "2021050100",
+   "views": 18388
+  },
+  {
+   "timestamp": "2021060100",
+   "views": 16042
+  },
+  {
+   "timestamp": "2021070100",
+   "views": 23598
+  },
+  {
+   "timestamp": "2021080100",
+   "views": 25430
+  },
+  {
+   "timestamp": "2021090100",
+   "views": 22719
+  },
+  {
+   "timestamp": "2021100100",
+   "views": 22066
+  },
+  {
+   "timestamp": "2021110100",
+   "views": 19043
+  },
+  {
+   "timestamp": "2021120100",
+   "views": 21892
+  },
+  {
+   "timestamp": "2022010100",
+   "views": 19958
+  },
+  {
+   "timestamp": "2022020100",
+   "views": 20353
+  },
+  {
+   "timestamp": "2022030100",
+   "views": 63001
+  },
+  {
+   "timestamp": "2022040100",
+   "views": 41430
+  },
+  {
+   "timestamp": "2022050100",
+   "views": 23594
+  },
+  {
+   "timestamp": "2022060100",
+   "views": 19210
+  },
+  {
+   "timestamp": "2022070100",
+   "views": 19353
+  },
+  {
+   "timestamp": "2022080100",
+   "views": 18056
+  },
+  {
+   "timestamp": "2022090100",
+   "views": 15996
+  },
+  {
+   "timestamp": "2022100100",
+   "views": 15669
+  },
+  {
+   "timestamp": "2022110100",
+   "views": 17458
+  },
+  {
+   "timestamp": "2022120100",
+   "views": 13665
+  },
+  {
+   "timestamp": "2023010100",
+   "views": 14281
+  },
+  {
+   "timestamp": "2023020100",
+   "views": 14170
+  },
+  {
+   "timestamp": "2023030100",
+   "views": 15817
+  },
+  {
+   "timestamp": "2023040100",
+   "views": 15231
+  },
+  {
+   "timestamp": "2023050100",
+   "views": 15296
+  },
+  {
+   "timestamp": "2023060100",
+   "views": 12408
+  },
+  {
+   "timestamp": "2023070100",
+   "views": 13645
+  },
+  {
+   "timestamp": "2023080100",
+   "views": 15221
+  },
+  {
+   "timestamp": "2023090100",
+   "views": 14956
+  },
+  {
+   "timestamp": "2023100100",
+   "views": 34938
+  },
+  {
+   "timestamp": "2023110100",
+   "views": 24200
+  },
+  {
+   "timestamp": "2023120100",
+   "views": 21984
+  },
+  {
+   "timestamp": "2024010100",
+   "views": 20847
+  },
+  {
+   "timestamp": "2024020100",
+   "views": 19669
+  },
+  {
+   "timestamp": "2024030100",
+   "views": 17406
+  },
+  {
+   "timestamp": "2024040100",
+   "views": 16612
+  },
+  {
+   "timestamp": "2024050100",
+   "views": 15092
+  },
+  {
+   "timestamp": "2024060100",
+   "views": 12680
+  },
+  {
+   "timestamp": "2024070100",
+   "views": 13128
+  },
+  {
+   "timestamp": "2024080100",
+   "views": 13511
+  },
+  {
+   "timestamp": "2024090100",
+   "views": 12899
+  },
+  {
+   "timestamp": "2024100100",
+   "views": 21223
+  },
+  {
+   "timestamp": "2024110100",
+   "views": 20892
+  },
+  {
+   "timestamp": "2024120100",
+   "views": 18959
+  },
+  {
+   "timestamp": "2025010100",
+   "views": 15020
+  },
+  {
+   "timestamp": "2025020100",
+   "views": 12830
+  },
+  {
+   "timestamp": "2025030100",
+   "views": 13171
+  },
+  {
+   "timestamp": "2025040100",
+   "views": 15211
+  },
+  {
+   "timestamp": "2025050100",
+   "views": 12504
+  },
+  {
+   "timestamp": "2025060100",
+   "views": 11109
+  },
+  {
+   "timestamp": "2025070100",
+   "views": 11292
+  },
+  {
+   "timestamp": "2025080100",
+   "views": 12542
+  },
+  {
+   "timestamp": "2025090100",
+   "views": 11595
+  },
+  {
+   "timestamp": "2025100100",
+   "views": 14836
+  },
+  {
+   "timestamp": "2025110100",
+   "views": 11302
+  },
+  {
+   "timestamp": "2025120100",
+   "views": 9804
+  },
+  {
+   "timestamp": "2026010100",
+   "views": 9422
+  },
+  {
+   "timestamp": "2026020100",
+   "views": 8619
+  },
+  {
+   "timestamp": "2026030100",
+   "views": 8608
+  },
+  {
+   "timestamp": "2026040100",
+   "views": 8970
+  },
+  {
+   "timestamp": "2026050100",
+   "views": 9204
+  },
+  {
+   "timestamp": "2026060100",
+   "views": 9857
+  },
+  {
+   "timestamp": "2026070100",
+   "views": 10942
+  },
+  {
+   "timestamp": "2026080100",
+   "views": 12555
+  },
+  {
+   "timestamp": "2026090100",
+   "views": 3416
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2024-04",
+ "begin_date": "20240401",
+ "end_date": "20240430",
+ "fetched_at": "2026-09-08T04:48:50.185042+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Narendra Modi has kept India on its swift upward path among the world\u2019s largest economies. Many Indians are better off, though wealth gaps have widened.",
+   "byline": {
+    "original": "By Alex Travelli"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "What 10 Years of Modi Rule Has Meant for India\u2019s Economy",
+    "kicker": "",
+    "print_headline": "Economy in India Under Modi Is Growing, but So Is Inequality"
+   },
+   "_id": "nyt://article/12e5ed22-7416-56c1-8c1d-c20a9c4beae4",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "India",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Economic Conditions and Trends",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Income Inequality",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "International Relations",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Poverty",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Rural Areas",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Income",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Infrastructure (Public Works)",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Coronavirus (2019-nCoV)",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Modi, Narendra",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Adani, Gautam S",
+     "rank": 14
+    },
+    {
+     "name": "Location",
+     "value": "Bihar (India)",
+     "rank": 15
+    },
+    {
+     "name": "Location",
+     "value": "Delhi (India)",
+     "rank": 16
+    },
+    {
+     "name": "Location",
+     "value": "Mumbai (India)",
+     "rank": 17
+    },
+    {
+     "name": "Keyword",
+     "value": "India-Economy",
+     "rank": 18
+    },
+    {
+     "name": "Subject",
+     "value": "Elections",
+     "rank": 19
+    },
+    {
+     "name": "Subject",
+     "value": "audio-neutral-informative",
+     "rank": 20
+    }
+   ],
+   "multimedia": {
+    "caption": "Prime Minister Narendra Modi at a rally of his political party. After 10 years in office, he stands to win another term in elections that start in April. ",
+    "credit": "Mahesh Kumar A./Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/03/28/multimedia/00india-econ-01-hqlt/00india-econ-01-hqlt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/03/28/multimedia/00india-econ-01-hqlt/00india-econ-01-hqlt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-04-01T04:00:22Z",
+   "section_name": "Business",
+   "snippet": "Narendra Modi has kept India on its swift upward path among the world\u2019s largest economies. Many Indians are better off, though wealth gaps have widened.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/12e5ed22-7416-56c1-8c1d-c20a9c4beae4",
+   "web_url": "https://www.nytimes.com/2024/04/01/business/india-economy-election.html",
+   "word_count": 1421
+  }
+ ]
+}

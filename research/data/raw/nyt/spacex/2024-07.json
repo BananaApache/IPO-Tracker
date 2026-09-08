@@ -1,0 +1,850 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2024-07",
+ "begin_date": "20240701",
+ "end_date": "20240731",
+ "fetched_at": "2026-09-08T04:33:02.180153+00:00",
+ "hits": 43,
+ "docs": [
+  {
+   "abstract": "A New York Times investigation found that Elon Musk exploited federal agencies\u2019 competing missions to achieve his goals for space travel.",
+   "byline": {
+    "original": "By Eric Lipton and Meridith Kohut"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Wildlife Protections Take a Back Seat to SpaceX\u2019s Ambitions",
+    "kicker": "",
+    "print_headline": "At SpaceX, Wildlife Safety Takes Back Seat to Launch"
+   },
+   "_id": "nyt://article/c2f5f8c8-21ac-5e22-a0df-26c8fc55f3bc",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Endangered and Extinct Species",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Environment",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Aviation Administration",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Fish and Wildlife Service",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Interior Department",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Birds",
+     "rank": 12
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "Starship, the upper stage of SpaceX\u2019s new rocket, at its launchpad in Boca Chica, Texas. Conservationists are concerned with the environmental impact space operations have on the area.",
+    "credit": "",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/24/us/politics/00dc-musk-launch/00dc-musk-launch-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/24/us/politics/00dc-musk-launch/00dc-musk-launch-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-07-07T12:00:37Z",
+   "section_name": "U.S.",
+   "snippet": "A New York Times investigation found that Elon Musk exploited federal agencies\u2019 competing missions to achieve his goals for space travel.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/c2f5f8c8-21ac-5e22-a0df-26c8fc55f3bc",
+   "web_url": "https://www.nytimes.com/2024/07/07/us/politics/spacex-wildlife-texas.html",
+   "word_count": 3437
+  },
+  {
+   "abstract": "The malfunction, the first since 2016, ended a streak of more than 300 successful launches for the Falcon 9 rocket.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Rocket Fails in Orbit",
+    "kicker": "",
+    "print_headline": "SpaceX Rocket Fails in Orbit, Ending 8-Year Streak"
+   },
+   "_id": "nyt://article/86feb5c3-2543-5031-a923-99bccae0fb87",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Aviation Accidents, Safety and Disasters",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The failed rocket was carrying a load of Starlink internet satellites. Unusual ice buildup was seen on the second stage, right.",
+    "credit": "SpaceX, via Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/12/video/12vid-SpaceX-Rocket/12vid-SpaceX-Rocket-articleLarge.jpg",
+     "height": 353,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/12/video/12vid-SpaceX-Rocket/12vid-SpaceX-Rocket-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "19",
+   "print_section": "A",
+   "pub_date": "2024-07-12T15:32:43Z",
+   "section_name": "Science",
+   "snippet": "The malfunction, the first since 2016, ended a streak of more than 300 successful launches for the Falcon 9 rocket.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/86feb5c3-2543-5031-a923-99bccae0fb87",
+   "web_url": "https://www.nytimes.com/2024/07/12/science/spacex-falcon-9-rocket-fail-starlink-launch.html",
+   "word_count": 781
+  },
+  {
+   "abstract": "An object found on a hiking trail west of Asheville, N.C., had traveled to the International Space Station, the space agency said.",
+   "byline": {
+    "original": "By Amanda Holpuch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Debris Found in North Carolina Came From SpaceX Dragon, NASA Says",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/17465e59-35d3-51b1-a2df-b017d7670f3b",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "North Carolina",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Glamping Collective",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "The space debris was found in the mountains west of Asheville, N.C., at a luxury campground called the Glamping Collective.",
+    "credit": "Brett Tingley",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/01/science/01xp-debris1/01xp-debris-articleLarge.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/01/science/01xp-debris1/01xp-debris1-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-07-01T18:16:21Z",
+   "section_name": "Science",
+   "snippet": "An object found on a hiking trail west of Asheville, N.C., had traveled to the International Space Station, the space agency said.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/17465e59-35d3-51b1-a2df-b017d7670f3b",
+   "web_url": "https://www.nytimes.com/2024/07/01/science/space-debris-north-carolina-spacex.html",
+   "word_count": 738
+  },
+  {
+   "abstract": "The development of Elon Musk\u2019s facility in South Texas did not play out as local officials were originally told it would.",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX\u2019s Assault on a Fragile Habitat: Four Takeaways From Our Investigation",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/deabf4f7-204a-5656-a993-f34ace689bec",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Endangered and Extinct Species",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "National Parks, Monuments and Seashores",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Birds",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Lands",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Environment",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Fish and Wildlife Service",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Boca Chica",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Aviation Administration",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "National Park Service",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "Starship, the upper stage of SpaceX\u2019s new rocket, at its launchpad in Boca Chica, Texas. The Federal Aviation Administration wasn\u2019t expecting a behemoth like the Starship \u2014 and didn\u2019t initially conduct a comprehensive evaluation of the environmental impact for its size.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/07/multimedia/07dc-musktakeaways-jlwg/07dc-musktakeaways-jlwg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/07/multimedia/07dc-musktakeaways-jlwg/07dc-musktakeaways-jlwg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-07-07T12:04:46Z",
+   "section_name": "U.S.",
+   "snippet": "The development of Elon Musk\u2019s facility in South Texas did not play out as local officials were originally told it would.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/deabf4f7-204a-5656-a993-f34ace689bec",
+   "web_url": "https://www.nytimes.com/2024/07/07/us/politics/spacex-boca-chica-takeaways.html",
+   "word_count": 1024
+  },
+  {
+   "abstract": "SpaceX employees are working on designs for a Martian city, including dome habitats and spacesuits, and researching whether humans can procreate off Earth. Mr. Musk has volunteered his sperm.",
+   "byline": {
+    "original": "By Kirsten Grind"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk\u2019s Plan to Put a Million Earthlings on Mars in 20 Years",
+    "kicker": "",
+    "print_headline": "Musk Sees a Martian City in 20 Years. Can It Be Done?"
+   },
+   "_id": "nyt://article/5a227fa6-b3f7-557e-9c89-7eef23ee3b18",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Boring Company",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Gica Tam",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/14/business/00musk-mars/00musk-mars-articleLarge-v2.png",
+     "height": 418,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/14/business/00musk-mars/00musk-mars-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "19",
+   "print_section": "A",
+   "pub_date": "2024-07-11T09:00:54Z",
+   "section_name": "Technology",
+   "snippet": "SpaceX employees are working on designs for a Martian city, including dome habitats and spacesuits, and researching whether humans can procreate off Earth. Mr. Musk has volunteered his sperm.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/5a227fa6-b3f7-557e-9c89-7eef23ee3b18",
+   "web_url": "https://www.nytimes.com/2024/07/11/technology/elon-musk-spacex-mars.html",
+   "word_count": 2119
+  },
+  {
+   "abstract": "The social media and rocket companies are based in California, which the billionaire criticized for its recent transgender legislation.",
+   "byline": {
+    "original": "By Kate Conger and Eli Tan"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Says He Will Move X and SpaceX Headquarters to Texas",
+    "kicker": "",
+    "print_headline": "Musk Says He\u2019ll Put Hubs Of X and SpaceX in Texas"
+   },
+   "_id": "nyt://article/2a3deb93-a959-5744-b16f-b62e3bb6449c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Relocation of Business",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 7
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "California",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Newsom, Gavin",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Governors (US)",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Transgender",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Law and Legislation",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "Education (K-12)",
+     "rank": 15
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s Starship rocket at the company\u2019s facilities in Boca Chica, Texas.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/16/multimedia/16elon-headquarters-vwlh/16elon-headquarters-vwlh-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/16/multimedia/16elon-headquarters-vwlh/16elon-headquarters-vwlh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2024-07-16T20:40:49Z",
+   "section_name": "Technology",
+   "snippet": "The social media and rocket companies are based in California, which the billionaire criticized for its recent transgender legislation.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/2a3deb93-a959-5744-b16f-b62e3bb6449c",
+   "web_url": "https://www.nytimes.com/2024/07/16/technology/elon-musk-x-spacex-headquarters-texas.html",
+   "word_count": 761
+  },
+  {
+   "abstract": "With the Falcon 9 rocket set to fly again, and testing of the Starliner capsule progressing, the agency is seeking to turn the page on a brief, troubled chapter in orbit.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA Aims to Restore Space Station Traffic After SpaceX and Boeing Problems",
+    "kicker": "",
+    "print_headline": "NASA Hopes to Restore  Traffic to Space Station  After Series of Problems"
+   },
+   "_id": "nyt://article/b6eae405-8b14-5f00-a771-8ac3bde5302d",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Boeing\u2019s Starliner spacecraft attached to the International Space Station in July. What was to be an eight-day test flight is now set to stretch into August.",
+    "credit": "NASA",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/26/multimedia/26nasa-update-02-SUB-wtvj/26nasa-update-02-SUB-wtvj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/26/multimedia/26nasa-update-02-SUB-wtvj/26nasa-update-02-SUB-wtvj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2024-07-26T19:53:00Z",
+   "section_name": "Science",
+   "snippet": "With the Falcon 9 rocket set to fly again, and testing of the Starliner capsule progressing, the agency is seeking to turn the page on a brief, troubled chapter in orbit.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/b6eae405-8b14-5f00-a771-8ac3bde5302d",
+   "web_url": "https://www.nytimes.com/2024/07/26/science/nasa-spacex-boeing-iss.html",
+   "word_count": 892
+  },
+  {
+   "abstract": "In a news conference from aboard the International Space Station, Butch Wilmore and Suni Williams said they had confidence in the troubled spacecraft to get them home.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA Says No Plan to Use SpaceX to Rescue Boeing Starliner Astronauts",
+    "kicker": "",
+    "print_headline": "Stuck in Space, but Taking Starliner\u2019s Delays in Stride"
+   },
+   "_id": "nyt://article/e68564d9-11c0-5e99-83be-c64ff0b3c36e",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Williams, Sunita L",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Wilmore, Barry E (Butch) (1962- )",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "A screen shot from a live feed of Suni Williams and Butch Wilmore of NASA giving an interview from the International Space Station on Wednesday.",
+    "credit": "NASA TV",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/10/multimedia/10starliner-vzmj/10starliner-vzmj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/10/multimedia/10starliner-vzmj/10starliner-vzmj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "20",
+   "print_section": "A",
+   "pub_date": "2024-07-10T19:58:15Z",
+   "section_name": "Science",
+   "snippet": "In a news conference from aboard the International Space Station, Butch Wilmore and Suni Williams said they had confidence in the troubled spacecraft to get them home.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/e68564d9-11c0-5e99-83be-c64ff0b3c36e",
+   "web_url": "https://www.nytimes.com/2024/07/10/science/nasa-spacex-boeing-starliner-astronauts.html",
+   "word_count": 772
+  },
+  {
+   "abstract": "Space, electric vehicles, artificial intelligence: The tech mogul could influence policy in these areas and others should Donald Trump win re-election.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Musk May Influence Trump Policy",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/9907dd05-bf04-575d-88b7-a710d34fdb1b",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Elon Musk may push a second Trump administration for policies that benefit his businesses, or suit his ideology.",
+    "credit": "Jonathan Ernst/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/18/multimedia/18db-newsletter-musktrump-gtjv/18db-newsletter-musktrump-gtjv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/18/multimedia/18db-newsletter-musktrump-gtjv/18db-newsletter-musktrump-gtjv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-07-18T11:59:23Z",
+   "section_name": "Business",
+   "snippet": "Space, electric vehicles, artificial intelligence: The tech mogul could influence policy in these areas and others should Donald Trump win re-election.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/9907dd05-bf04-575d-88b7-a710d34fdb1b",
+   "web_url": "https://www.nytimes.com/2024/07/18/business/dealbook/musk-trump-tesla-spacex-starlink.html",
+   "word_count": 1837
+  },
+  {
+   "abstract": "The group, America PAC, is funded by several wealthy tech entrepreneurs in Mr. Musk\u2019s social circle and is said to be likely to draw financial support from the SpaceX and Tesla founder himself.",
+   "byline": {
+    "original": "By Theodore Schleifer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Allies Help Start Pro-Trump Super PAC",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/97d7cfca-0b96-5c84-8224-7957b5f9f133",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Political Action Committees",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "America PAC",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk endorsed Donald J. Trump on Saturday, soon after the assassination attempt against the former president.",
+    "credit": "David Swanson/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/15/multimedia/15election-live-super-pac-musk-hwpb-sub/15election-live-super-pac-musk-hwpb-sub-articleLarge-v4.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/15/multimedia/15election-live-super-pac-musk-hwpb-sub/15election-live-super-pac-musk-hwpb-sub-thumbStandard-v4.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Politics",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-07-16T00:21:35Z",
+   "section_name": "U.S.",
+   "snippet": "The group, America PAC, is funded by several wealthy tech entrepreneurs in Mr. Musk\u2019s social circle and is said to be likely to draw financial support from the SpaceX and Tesla founder himself.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/97d7cfca-0b96-5c84-8224-7957b5f9f133",
+   "web_url": "https://www.nytimes.com/2024/07/15/us/politics/elon-musk-trump-super-pac.html",
+   "word_count": 823
+  }
+ ]
+}

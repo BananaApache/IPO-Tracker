@@ -1,0 +1,447 @@
+{
+ "from": "2025-11-01",
+ "to": "2025-11-30",
+ "fetched_at": "2026-09-08T04:23:10.645726+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2025-11-28",
+   "exchange": null,
+   "name": "Direct Communication Solutions, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2025-11-26",
+   "exchange": "NASDAQ Global",
+   "name": "SC II Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SCIIU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-11-26",
+   "exchange": null,
+   "name": "Papa Medical Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PAPA",
+   "totalSharesValue": 6900000
+  },
+  {
+   "date": "2025-11-26",
+   "exchange": null,
+   "name": "Nex Neo Tech Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 122500
+  },
+  {
+   "date": "2025-11-26",
+   "exchange": null,
+   "name": "Shangzhaitong Holding Co., Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SZTD",
+   "totalSharesValue": 6250000
+  },
+  {
+   "date": "2025-11-25",
+   "exchange": "NASDAQ Global",
+   "name": "Invest Green Acquisition Corp",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IGACU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-11-25",
+   "exchange": null,
+   "name": "Tongda International Group Co., Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TDHG",
+   "totalSharesValue": 7500000
+  },
+  {
+   "date": "2025-11-24",
+   "exchange": null,
+   "name": "Midnight Gaming Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MDHT",
+   "totalSharesValue": 28750000
+  },
+  {
+   "date": "2025-11-21",
+   "exchange": "NASDAQ Global",
+   "name": "Hall Chadwick Acquisition Corp",
+   "numberOfShares": 18000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HCACU",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2025-11-21",
+   "exchange": "NASDAQ Capital",
+   "name": "Libera Gaming Operations, Inc",
+   "numberOfShares": 1250000,
+   "price": "4.00-6.00",
+   "status": "expected",
+   "symbol": "LBRJ",
+   "totalSharesValue": 8625000
+  },
+  {
+   "date": "2025-11-20",
+   "exchange": null,
+   "name": "Fuxing China Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-11-20",
+   "exchange": "NASDAQ Global Select",
+   "name": "Central Bancompany, Inc.",
+   "numberOfShares": 17778000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "CBC",
+   "totalSharesValue": 373338000
+  },
+  {
+   "date": "2025-11-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "Gloo Holdings, Inc.",
+   "numberOfShares": 9100000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "GLOO",
+   "totalSharesValue": 72800000
+  },
+  {
+   "date": "2025-11-19",
+   "exchange": null,
+   "name": "NYAE GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NYAE",
+   "totalSharesValue": 1694000
+  },
+  {
+   "date": "2025-11-18",
+   "exchange": "NASDAQ Capital",
+   "name": "HW Electro Co., Ltd.",
+   "numberOfShares": 4150000,
+   "price": "4.00",
+   "status": "expected",
+   "symbol": "HWEP",
+   "totalSharesValue": 19090000
+  },
+  {
+   "date": "2025-11-17",
+   "exchange": null,
+   "name": "Jiansu (Shanghai) Information Technology Co., Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JSKJ",
+   "totalSharesValue": 1900000
+  },
+  {
+   "date": "2025-11-14",
+   "exchange": "NASDAQ Capital",
+   "name": "WeShop Holdings Ltd",
+   "numberOfShares": 3980128,
+   "price": null,
+   "status": "priced",
+   "symbol": "WSHP",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2025-11-14",
+   "exchange": null,
+   "name": "XYJ TECHNOLOGY Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "XYJG",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2025-11-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Caring Brands, Inc.",
+   "numberOfShares": 1000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CABR",
+   "totalSharesValue": 4000000
+  },
+  {
+   "date": "2025-11-13",
+   "exchange": "NYSE",
+   "name": "Alussa Energy Acquisition Corp. II",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ALUBU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2025-11-13",
+   "exchange": "NYSE MKT",
+   "name": "OFF THE HOOK YS INC.",
+   "numberOfShares": 3750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "OTH",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2025-11-13",
+   "exchange": "NYSE MKT",
+   "name": "Phaos Technology (Cayman) Holdings Ltd",
+   "numberOfShares": 3600090,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "POAS",
+   "totalSharesValue": 14400360
+  },
+  {
+   "date": "2025-11-13",
+   "exchange": null,
+   "name": "Subversive Bitcoin Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SBAQU",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2025-11-13",
+   "exchange": null,
+   "name": "Grayscale Investments, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GRAY",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2025-11-12",
+   "exchange": "NASDAQ Capital",
+   "name": "Blueport Acquisition Ltd",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BPACU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2025-11-12",
+   "exchange": null,
+   "name": "THAI YEE HONG TECHNOLOGY HOLDINGS PTE LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TYHT",
+   "totalSharesValue": 7187500
+  },
+  {
+   "date": "2025-11-12",
+   "exchange": null,
+   "name": "Feitu Shanglian Cloud Information Technology Co., Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FTY",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2025-11-11",
+   "exchange": "NASDAQ Global",
+   "name": "Evolution Global Acquisition Corp",
+   "numberOfShares": 21000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EVOXU",
+   "totalSharesValue": 210000000
+  },
+  {
+   "date": "2025-11-10",
+   "exchange": null,
+   "name": "Terra H Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CYCE",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-11-10",
+   "exchange": null,
+   "name": "Klook Technology Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KLK",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2025-11-07",
+   "exchange": "NASDAQ Global",
+   "name": "Tailwind 2.0 Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TDWDU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-11-07",
+   "exchange": "NASDAQ Global",
+   "name": "Crown Reserve Acquisition Corp. I",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CRACU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-11-07",
+   "exchange": null,
+   "name": "Launchpad Streetlight Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LPSLU",
+   "totalSharesValue": 230000000
+  },
+  {
+   "date": "2025-11-06",
+   "exchange": "NYSE",
+   "name": "Evommune, Inc.",
+   "numberOfShares": 9375000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "EVMN",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-11-06",
+   "exchange": "NASDAQ Global Select",
+   "name": "BillionToOne, Inc.",
+   "numberOfShares": 4551100,
+   "price": "60.00",
+   "status": "priced",
+   "symbol": "BLLN",
+   "totalSharesValue": 273066000
+  },
+  {
+   "date": "2025-11-06",
+   "exchange": "NYSE",
+   "name": "Grupo Aeromexico, S.A.B. de C.V.",
+   "numberOfShares": 11727325,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "AERO",
+   "totalSharesValue": 222819175
+  },
+  {
+   "date": "2025-11-06",
+   "exchange": null,
+   "name": "Speed Group Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SPED",
+   "totalSharesValue": 14375000
+  },
+  {
+   "date": "2025-11-06",
+   "exchange": null,
+   "name": "ARC Group Securities Acquisition II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FDARU",
+   "totalSharesValue": 172500000
+  },
+  {
+   "date": "2025-11-05",
+   "exchange": "NYSE",
+   "name": "Exzeo Group, Inc.",
+   "numberOfShares": 8000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "XZO",
+   "totalSharesValue": 168000000
+  },
+  {
+   "date": "2025-11-05",
+   "exchange": "NASDAQ Capital",
+   "name": "Elauwit Connection, Inc.",
+   "numberOfShares": 1667000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "ELWT",
+   "totalSharesValue": 15003000
+  },
+  {
+   "date": "2025-11-05",
+   "exchange": "NASDAQ Capital",
+   "name": "Functional Brands Inc.",
+   "numberOfShares": 17883693,
+   "price": null,
+   "status": "priced",
+   "symbol": "MEHA",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2025-11-04",
+   "exchange": "NYSE",
+   "name": "BETA Technologies, Inc.",
+   "numberOfShares": 29852941,
+   "price": "34.00",
+   "status": "priced",
+   "symbol": "BETA",
+   "totalSharesValue": 1014999994
+  },
+  {
+   "date": "2025-11-04",
+   "exchange": "NASDAQ Global",
+   "name": "Cantor Equity Partners V, Inc.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CEPV",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-11-04",
+   "exchange": "NASDAQ Capital",
+   "name": "Westin Acquisition Corp",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WSTNU",
+   "totalSharesValue": 50000000
+  }
+ ]
+}

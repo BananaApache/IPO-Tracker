@@ -1,0 +1,367 @@
+{
+ "from": "2019-06-01",
+ "to": "2019-06-30",
+ "fetched_at": "2026-09-08T04:20:36.544970+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2019-06-28",
+   "exchange": null,
+   "name": "IHEARTMEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-06-28",
+   "exchange": null,
+   "name": "ADVANTAGE INSURANCE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-06-28",
+   "exchange": "NASDAQ Global",
+   "name": "KARUNA THERAPEUTICS, INC.",
+   "numberOfShares": 5578124,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "KRTX",
+   "totalSharesValue": 89249984
+  },
+  {
+   "date": "2019-06-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "THEREALREAL, INC.",
+   "numberOfShares": 15000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "REAL",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2019-06-28",
+   "exchange": null,
+   "name": "AMESITE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 438171
+  },
+  {
+   "date": "2019-06-28",
+   "exchange": null,
+   "name": "CROWN ELECTROKINETICS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 9440468.25
+  },
+  {
+   "date": "2019-06-27",
+   "exchange": null,
+   "name": "HOWARD MIDSTREAM PARTNERS, LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-06-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "BRIDGEBIO PHARMA, INC.",
+   "numberOfShares": 20500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BBIO",
+   "totalSharesValue": 348500000
+  },
+  {
+   "date": "2019-06-27",
+   "exchange": "NASDAQ Global",
+   "name": "MORPHIC HOLDING, INC.",
+   "numberOfShares": 6000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "MORF",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2019-06-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "ADAPTIVE BIOTECHNOLOGIES CORP",
+   "numberOfShares": 15000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "ADPT",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2019-06-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "CHANGE HEALTHCARE INC.",
+   "numberOfShares": 42857142,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "CHNG",
+   "totalSharesValue": 557142846
+  },
+  {
+   "date": "2019-06-26",
+   "exchange": "NASDAQ Global",
+   "name": "CAMBIUM NETWORKS CORP",
+   "numberOfShares": 5800000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "CMBM",
+   "totalSharesValue": 69600000
+  },
+  {
+   "date": "2019-06-26",
+   "exchange": "NYSE",
+   "name": "LINX S.A.",
+   "numberOfShares": 32774601,
+   "price": "9.40",
+   "status": "priced",
+   "symbol": "LINX",
+   "totalSharesValue": 308081249
+  },
+  {
+   "date": "2019-06-26",
+   "exchange": null,
+   "name": "OLB GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "OLB",
+   "totalSharesValue": 10350000
+  },
+  {
+   "date": "2019-06-21",
+   "exchange": null,
+   "name": "CONVERSIONPOINT HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-06-20",
+   "exchange": "NASDAQ Global Select",
+   "name": "GROCERY OUTLET HOLDING CORP.",
+   "numberOfShares": 17187500,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "GO",
+   "totalSharesValue": 378125000
+  },
+  {
+   "date": "2019-06-20",
+   "exchange": "NASDAQ Global",
+   "name": "PERSONALIS, INC.",
+   "numberOfShares": 7921500,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "PSNL",
+   "totalSharesValue": 134665500
+  },
+  {
+   "date": "2019-06-20",
+   "exchange": "NASDAQ Global Select",
+   "name": "AKERO THERAPEUTICS, INC.",
+   "numberOfShares": 5750000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "AKRO",
+   "totalSharesValue": 92000000
+  },
+  {
+   "date": "2019-06-20",
+   "exchange": "NASDAQ Global",
+   "name": "PREVAIL THERAPEUTICS INC.",
+   "numberOfShares": 7353000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "PRVL",
+   "totalSharesValue": 125001000
+  },
+  {
+   "date": "2019-06-20",
+   "exchange": "NASDAQ Global Select",
+   "name": "ATRECA, INC.",
+   "numberOfShares": 7350000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BCEL",
+   "totalSharesValue": 124950000
+  },
+  {
+   "date": "2019-06-20",
+   "exchange": "NASDAQ Capital",
+   "name": "SOUTH MOUNTAIN MERGER CORP.",
+   "numberOfShares": 22500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SMMCU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2019-06-20",
+   "exchange": "NYSE",
+   "name": "SLACK TECHNOLOGIES, INC.",
+   "numberOfShares": 118429640,
+   "price": "38.50",
+   "status": "priced",
+   "symbol": "WORK",
+   "totalSharesValue": 4559541140
+  },
+  {
+   "date": "2019-06-19",
+   "exchange": null,
+   "name": "AQUA HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-06-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "STOKE THERAPEUTICS, INC.",
+   "numberOfShares": 7891110,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "STOK",
+   "totalSharesValue": 142039980
+  },
+  {
+   "date": "2019-06-17",
+   "exchange": null,
+   "name": "SOCAL HARVEST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 300000
+  },
+  {
+   "date": "2019-06-14",
+   "exchange": "NYSE",
+   "name": "CHEWY, INC.",
+   "numberOfShares": 46500000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "CHWY",
+   "totalSharesValue": 1023000000
+  },
+  {
+   "date": "2019-06-13",
+   "exchange": "NYSE",
+   "name": "FIVERR INTERNATIONAL LTD.",
+   "numberOfShares": 5263158,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "FVRR",
+   "totalSharesValue": 110526318
+  },
+  {
+   "date": "2019-06-12",
+   "exchange": "NASDAQ Capital",
+   "name": "MOHAWK GROUP HOLDINGS, INC.",
+   "numberOfShares": 3600000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MWK",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2019-06-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "CROWDSTRIKE HOLDINGS, INC.",
+   "numberOfShares": 18000000,
+   "price": "34.00",
+   "status": "priced",
+   "symbol": "CRWD",
+   "totalSharesValue": 612000000
+  },
+  {
+   "date": "2019-06-10",
+   "exchange": null,
+   "name": "HIGH SIERRA TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8750000
+  },
+  {
+   "date": "2019-06-10",
+   "exchange": null,
+   "name": "CHURCHILL CAPITAL CORP II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CCX'U",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2019-06-07",
+   "exchange": null,
+   "name": "XIAOTAI INTERNATIONAL INVESTMENT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-06-07",
+   "exchange": "NASDAQ Capital",
+   "name": "HAYMAKER ACQUISITION CORP. II",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HYACU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2019-06-07",
+   "exchange": "NYSE",
+   "name": "REVOLVE GROUP, INC.",
+   "numberOfShares": 11764706,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "RVLV",
+   "totalSharesValue": 211764708
+  },
+  {
+   "date": "2019-06-06",
+   "exchange": "NYSE",
+   "name": "GSX TECHEDU INC.",
+   "numberOfShares": 19800000,
+   "price": "10.50",
+   "status": "priced",
+   "symbol": "GSX",
+   "totalSharesValue": 207900000
+  },
+  {
+   "date": "2019-06-06",
+   "exchange": "NYSE",
+   "name": "GIGCAPITAL2, INC.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GIX'U",
+   "totalSharesValue": 150000000
+  }
+ ]
+}

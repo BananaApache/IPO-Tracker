@@ -1,0 +1,158 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2025-07",
+ "begin_date": "20250701",
+ "end_date": "20250731",
+ "fetched_at": "2026-09-08T05:34:26.522667+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Figma, which makes a design platform, was on the verge of a big payday before regulators quashed the sale. On Thursday, it went public, with its stock ending the day up 250 percent.",
+   "byline": {
+    "original": "By Natallie Rocha and Michael J. de la Merced"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "This Start-Up\u2019s $20 Billion Sale Died. It Came Fighting Back.",
+    "kicker": "",
+    "print_headline": "The Revival Of a Start-Up Once Dead"
+   },
+   "_id": "nyt://article/a37c7ffe-b09c-54f7-a27f-b30dbef2d077",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Figma Inc",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Adobe Systems Inc",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Field, Dylan (1992- )",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "New York Stock Exchange",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Figma\u2019s co-founder and chief executive, Dylan Field, with a hand on his right shoulder, before ringing the bell at the New York Stock Exchange on Thursday.",
+    "credit": "Karsten Moran for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/31/multimedia/FIGMA-IPO-chpg/FIGMA-IPO-chpg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/31/multimedia/FIGMA-IPO-chpg/FIGMA-IPO-chpg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B\\",
+   "pub_date": "2025-07-31T18:11:33Z",
+   "section_name": "Technology",
+   "snippet": "Figma, which makes a design platform, was on the verge of a big payday before regulators quashed the sale. On Thursday, it went public, with its stock ending the day up 250 percent.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a37c7ffe-b09c-54f7-a27f-b30dbef2d077",
+   "web_url": "https://www.nytimes.com/2025/07/31/technology/figma-ipo.html",
+   "word_count": 1067
+  },
+  {
+   "abstract": "Shares in Microsoft and Meta soared to new highs on Thursday after the tech giants committed to invest billions more on artificial intelligence.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Danielle Kaye and Calum Marsh"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Investors Cheer an A.I. Spending Bonanza",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/068e53b5-0449-5471-8766-4cb27fb2145d",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Meta Platforms Inc",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Microsoft Corp",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Zuckerberg, Mark E",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Nadella, Satya",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Investors have cheered blowout quarterly results by Meta and Microsoft, adding billions to the tech giants\u2019 market valuation.",
+    "credit": "Jeff Chiu/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/31/multimedia/31db-zuck-satya-wgzp/31db-zuck-satya-wgzp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/31/multimedia/31db-zuck-satya-wgzp/31db-zuck-satya-wgzp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-07-31T11:56:52Z",
+   "section_name": "Business",
+   "snippet": "Shares in Microsoft and Meta soared to new highs on Thursday after the tech giants committed to invest billions more on artificial intelligence.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/068e53b5-0449-5471-8766-4cb27fb2145d",
+   "web_url": "https://www.nytimes.com/2025/07/31/business/dealbook/meta-microsoft-ai-spending-shares.html",
+   "word_count": 1947
+  }
+ ]
+}

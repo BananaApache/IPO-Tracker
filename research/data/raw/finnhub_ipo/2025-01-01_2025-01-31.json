@@ -1,0 +1,407 @@
+{
+ "from": "2025-01-01",
+ "to": "2025-01-31",
+ "fetched_at": "2026-09-08T04:22:50.655698+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2025-01-31",
+   "exchange": "NASDAQ Global Select",
+   "name": "Metsera, Inc.",
+   "numberOfShares": 15277778,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "MTSR",
+   "totalSharesValue": 275000004
+  },
+  {
+   "date": "2025-01-31",
+   "exchange": "NASDAQ Global",
+   "name": "Maze Therapeutics, Inc.",
+   "numberOfShares": 8750000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "MAZE",
+   "totalSharesValue": 140000000
+  },
+  {
+   "date": "2025-01-31",
+   "exchange": "NYSE",
+   "name": "INFINITY NATURAL RESOURCES, INC.",
+   "numberOfShares": 13250000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "INR",
+   "totalSharesValue": 265000000
+  },
+  {
+   "date": "2025-01-30",
+   "exchange": "NASDAQ Global",
+   "name": "Beta Bionics, Inc.",
+   "numberOfShares": 12000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BBNX",
+   "totalSharesValue": 204000000
+  },
+  {
+   "date": "2025-01-30",
+   "exchange": "NASDAQ Global",
+   "name": "Stellar V Capital Corp. (Cayman Islands)",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SVCCU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-01-30",
+   "exchange": "NASDAQ Capital",
+   "name": "CLOUDASTRUCTURE, INC.",
+   "numberOfShares": 1701338,
+   "price": null,
+   "status": "priced",
+   "symbol": "CSAI",
+   "totalSharesValue": 3315167
+  },
+  {
+   "date": "2025-01-29",
+   "exchange": "NASDAQ Global",
+   "name": "FG Merger II Corp.",
+   "numberOfShares": 8000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FGMCU",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2025-01-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "SMITHFIELD FOODS INC",
+   "numberOfShares": 26086958,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "SFD",
+   "totalSharesValue": 521739160
+  },
+  {
+   "date": "2025-01-28",
+   "exchange": "NASDAQ Global",
+   "name": "Drugs Made In America Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DMAAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-01-28",
+   "exchange": null,
+   "name": "Bialgo Commercial Operation Management CO., Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BGO",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2025-01-28",
+   "exchange": null,
+   "name": "QMSK Technology Co., Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "QMSK",
+   "totalSharesValue": 10350000
+  },
+  {
+   "date": "2025-01-24",
+   "exchange": "NASDAQ Global",
+   "name": "ASCENTAGE PHARMA GROUP INTERNATIONAL",
+   "numberOfShares": 7325000,
+   "price": "17.25",
+   "status": "priced",
+   "symbol": "AAPG",
+   "totalSharesValue": 126356250
+  },
+  {
+   "date": "2025-01-24",
+   "exchange": "NYSE",
+   "name": "Venture Global, Inc.",
+   "numberOfShares": 70000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "VG",
+   "totalSharesValue": 1750000000
+  },
+  {
+   "date": "2025-01-24",
+   "exchange": null,
+   "name": "Softto Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SFTO",
+   "totalSharesValue": 20700000
+  },
+  {
+   "date": "2025-01-24",
+   "exchange": "NYSE MKT",
+   "name": "Cortigent, Inc.",
+   "numberOfShares": 1500000,
+   "price": "10.00",
+   "status": "expected",
+   "symbol": "CRGT",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2025-01-23",
+   "exchange": null,
+   "name": "HTL Capital Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-01-23",
+   "exchange": "NASDAQ Global",
+   "name": "Columbus Acquisition Corp/Cayman Islands",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "COLAU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2025-01-23",
+   "exchange": "NASDAQ Capital",
+   "name": "Skyline Builders Group Holding Ltd",
+   "numberOfShares": 1500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "SKBL",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2025-01-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Decent Holding Inc.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "DXST",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-01-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Diginex Ltd",
+   "numberOfShares": 2250000,
+   "price": "4.10",
+   "status": "priced",
+   "symbol": "DGNX",
+   "totalSharesValue": 9225000
+  },
+  {
+   "date": "2025-01-22",
+   "exchange": "NYSE MKT",
+   "name": "Toppoint Holdings Inc.",
+   "numberOfShares": 2500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "TOPP",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2025-01-22",
+   "exchange": "NASDAQ Capital",
+   "name": "CTRL GROUP Ltd",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MCTR",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2025-01-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Maverick Lifestyle Inc.",
+   "numberOfShares": 1222222,
+   "price": "4.50-5.00",
+   "status": "expected",
+   "symbol": "MVRK",
+   "totalSharesValue": 7027775
+  },
+  {
+   "date": "2025-01-17",
+   "exchange": "NASDAQ Global",
+   "name": "Hennessy Capital Investment Corp. VII",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HVIIU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2025-01-16",
+   "exchange": "NYSE",
+   "name": "Flowco Holdings Inc.",
+   "numberOfShares": 17800000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "FLOC",
+   "totalSharesValue": 427200000
+  },
+  {
+   "date": "2025-01-16",
+   "exchange": "NASDAQ Capital",
+   "name": "PicoCELA Inc.",
+   "numberOfShares": 1750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "PCLA",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2025-01-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Hong Kong Pharma Digital Technology Holdings Ltd",
+   "numberOfShares": 1403685,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "HKPD",
+   "totalSharesValue": 5614740
+  },
+  {
+   "date": "2025-01-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Ribbon Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RIBBU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2025-01-15",
+   "exchange": "NASDAQ Global",
+   "name": "Plum Acquisition Corp, IV",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PLMKU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-01-15",
+   "exchange": null,
+   "name": "Antharas Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AAS",
+   "totalSharesValue": 7187500
+  },
+  {
+   "date": "2025-01-14",
+   "exchange": null,
+   "name": "RanMarine Technology B.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-01-14",
+   "exchange": "NASDAQ Capital",
+   "name": "Uni-Fuels Holdings Ltd",
+   "numberOfShares": 2100000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "UFG",
+   "totalSharesValue": 8400000
+  },
+  {
+   "date": "2025-01-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Mint Inc Ltd",
+   "numberOfShares": 1750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MIMI",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2025-01-08",
+   "exchange": "NASDAQ Capital",
+   "name": "3 E Network Technology Group Ltd",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MASK",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-01-07",
+   "exchange": "NASDAQ Global",
+   "name": "Cantor Equity Partners I, Inc.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CEPO",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-01-07",
+   "exchange": "NASDAQ Capital",
+   "name": "Zhengye Biotechnology Holding Ltd",
+   "numberOfShares": 1500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ZYBT",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2025-01-07",
+   "exchange": null,
+   "name": "Molida Holding Group Co., Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MOLD",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2025-01-06",
+   "exchange": null,
+   "name": "Clarios International Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-01-03",
+   "exchange": null,
+   "name": "Everfront Biotech Holding Co Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "EFB",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2025-01-02",
+   "exchange": "NASDAQ Capital",
+   "name": "INLIF Ltd",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "INLF",
+   "totalSharesValue": 8000000
+  }
+ ]
+}

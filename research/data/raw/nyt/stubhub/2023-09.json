@@ -1,0 +1,148 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2023-09",
+ "begin_date": "20230901",
+ "end_date": "20230930",
+ "fetched_at": "2026-09-08T04:42:02.134356+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Get some help on the Friday crossword puzzle.",
+   "byline": {
+    "original": "By Christina Iverson"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Easy Mode: Clues for Sept. 22",
+    "kicker": "Easy Mode",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/4816991e-3b6d-5df8-9f1e-45918bb2c860",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Crossword Puzzles",
+     "rank": 2
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Mathieu Labrecque",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/09/22/crosswords/22easy-mode-art/22easy-mode-art-articleLarge.gif",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/09/22/crosswords/22easy-mode-art/22easy-mode-art-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Games",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-09-22T13:00:03Z",
+   "section_name": "Gameplay",
+   "snippet": "Get some help on the Friday crossword puzzle.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4816991e-3b6d-5df8-9f1e-45918bb2c860",
+   "web_url": "https://www.nytimes.com/2023/09/22/crosswords/easy-mode-clues-for-sept-22.html",
+   "word_count": 503
+  },
+  {
+   "abstract": "This shape-shifting desert city is in the middle of a reinvention that involves sports stadiums, Formula 1 and the Sphere: a 360-foot-tall, high-tech, traffic-stopping amphitheater clad in 1.2 million LED screens.",
+   "byline": {
+    "original": "By Finn-Olaf Jones"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Las Vegas and Its Big, Big Ambitions",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/4a16d9c4-4eb5-519b-bf68-fdd9094b4fe4",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Travel and Vacations",
+     "rank": 1
+    },
+    {
+     "name": "Location",
+     "value": "Las Vegas (Nev)",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Formula One",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Sphere (Las Vegas, Nev)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Stadiums and Arenas",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Automobile Racing",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Athletics and Sports",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Architecture",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Area Planning and Renewal",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Mikayla Whitmore",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/09/27/travel/27travel-vegas-video-still/27travel-vegas-video-still-articleLarge.jpg",
+     "height": 338,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/09/27/travel/27travel-vegas-video-still/27travel-vegas-video-still-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Travel",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-09-27T09:02:29Z",
+   "section_name": "Travel",
+   "snippet": "This shape-shifting desert city is in the middle of a reinvention that involves sports stadiums, Formula 1 and the Sphere: a 360-foot-tall, high-tech, traffic-stopping amphitheater clad in 1.2 million LED screens.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4a16d9c4-4eb5-519b-bf68-fdd9094b4fe4",
+   "web_url": "https://www.nytimes.com/2023/09/27/travel/las-vegas-sphere-grand-prix-sports.html",
+   "word_count": 1985
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2023-07",
+ "begin_date": "20230701",
+ "end_date": "20230731",
+ "fetched_at": "2026-09-08T04:27:14.118245+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Microsoft and Alphabet will report results on Tuesday, as investors look for signs that a rally in stocks tied to artificial intelligence is justified.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Big Tech Earnings Will Test Investors\u2019 Fervor for A.I.",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/2b55ebae-e244-585d-9d4f-78b6d55fa700",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Alphabet Inc",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Microsoft Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Meta Platforms Inc",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Citigroup Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Morgan Stanley",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Satya Nadella, the C.E.O. of Microsoft, has seen the company\u2019s share price boom amid investor enthusiasm for artificial intelligence.",
+    "credit": "Ruth Fremson/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/07/25/multimedia/25db-msft-lgjw/25db-msft-lgjw-articleLarge.jpg",
+     "height": 477,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/07/25/multimedia/25db-msft-lgjw/25db-msft-lgjw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-07-25T12:09:58Z",
+   "section_name": "Business",
+   "snippet": "Microsoft and Alphabet will report results on Tuesday, as investors look for signs that a rally in stocks tied to artificial intelligence is justified.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/2b55ebae-e244-585d-9d4f-78b6d55fa700",
+   "web_url": "https://www.nytimes.com/2023/07/25/business/tech-earnings-ai-microsoft-alphabet.html",
+   "word_count": 1580
+  }
+ ]
+}

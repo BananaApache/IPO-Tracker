@@ -1,0 +1,249 @@
+{
+ "company": "Circle Internet",
+ "query": "\"Circle\" \"stablecoin\"",
+ "month": "2025-08",
+ "begin_date": "20250801",
+ "end_date": "20250831",
+ "fetched_at": "2026-09-08T05:33:26.528479+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "The reversal risks declawing a century of consumer financial protections and replacing the backbone of bank accounts.",
+   "byline": {
+    "original": "By Rob Copeland"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Behind Wall Street\u2019s Abrupt Flip on Crypto",
+    "kicker": "",
+    "print_headline": "Potential Risks In Banks\u2019 Shift Toward Crypto"
+   },
+   "_id": "nyt://article/e95e1d6d-ed6f-5749-ac23-094ee4191600",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Bitcoin (Currency)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Protection",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Law and Legislation",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "audio-neutral-informative",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Ari Liloan",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/06/business/00crypto-banks-still/00crypto-banks-still-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/06/business/00crypto-banks-still/00crypto-banks-still-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-08-13T21:03:44Z",
+   "section_name": "Business",
+   "snippet": "The reversal risks declawing a century of consumer financial protections and replacing the backbone of bank accounts.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/e95e1d6d-ed6f-5749-ac23-094ee4191600",
+   "web_url": "https://www.nytimes.com/2025/08/13/business/wall-street-banks-crypto-stablecoins.html",
+   "word_count": 1432
+  },
+  {
+   "abstract": "The Fed chief is expected to address inflation, interest rates and the economy in his speech on Friday. Will he also confront President Trump\u2019s attacks on central bank independence?",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Powell Takes Center Stage, With Wall Street and Washington Watching",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/c490463a-fc31-566f-a3b5-35f6284d74b7",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Powell, Jerome H",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Cook, Lisa D",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Jackson Hole (Wyo)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "All eyes will be on Jay Powell, the Fed chair, today as he delivers what one economist says could be \u201ca valedictory type of speech.\u201d Investors are concerned about inflation and central bank independence.",
+    "credit": "Jeenah Moon for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/22/multimedia/22db-powell-gvct/22db-powell-gvct-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/22/multimedia/22db-powell-gvct/22db-powell-gvct-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-22T11:41:25Z",
+   "section_name": "Business",
+   "snippet": "The Fed chief is expected to address inflation, interest rates and the economy in his speech on Friday. Will he also confront President Trump\u2019s attacks on central bank independence?",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/c490463a-fc31-566f-a3b5-35f6284d74b7",
+   "web_url": "https://www.nytimes.com/2025/08/22/business/dealbook/powell-trump-jackson-hole.html",
+   "word_count": 1977
+  },
+  {
+   "abstract": "The venture capital round values the ChatGPT maker at $300 billion, and underscores the fierceness of the A.I. money race.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Exclusive: OpenAI Secures Another Giant Funding Deal",
+    "kicker": "DealBook Newsletter",
+    "print_headline": "\u2018Panic Withdrawal\u2019 of Goods At Duty-Free U.S. Warehouses"
+   },
+   "_id": "nyt://article/b865082f-90b8-51ca-a9ab-fbd0b137b94f",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "ChatGPT",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Dragoneer Investment Group",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Blackstone Group, The",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Sam Altman, the C.E.O. of OpenAI, is riding high. The start-up has raised over $8 billion in its latest funding round, DealBook reports.",
+    "credit": "Jeenah Moon for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/01/multimedia/01db-altman-mwpf/01db-altman-mwpf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/01/multimedia/01db-altman-mwpf/01db-altman-mwpf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-08-01T12:06:29Z",
+   "section_name": "Business",
+   "snippet": "The venture capital round values the ChatGPT maker at $300 billion, and underscores the fierceness of the A.I. money race.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/b865082f-90b8-51ca-a9ab-fbd0b137b94f",
+   "web_url": "https://www.nytimes.com/2025/08/01/business/dealbook/openai-ai-mega-funding-deal.html",
+   "word_count": 1962
+  }
+ ]
+}

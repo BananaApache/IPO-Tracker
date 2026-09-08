@@ -1,0 +1,961 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-05",
+ "begin_date": "20250501",
+ "end_date": "20250531",
+ "fetched_at": "2026-09-08T04:57:02.226738+00:00",
+ "hits": 55,
+ "docs": [
+  {
+   "abstract": "SpaceX, already one of the biggest NASA and Pentagon contractors, could win billions of dollars in new contracts if President Trump\u2019s budget proposal is approved by Congress.",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump\u2019s Space Budget Reflects Influence of Elon Musk and SpaceX",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/937d4ada-472e-5a4f-9ede-8d2baa589f56",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Defense Department",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Lockheed Martin Corporation",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "United States",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Budget (US)",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Missiles and Missile Defense Systems",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 15
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk at the White House in April.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02trump-budget-elon-cvkf/02trump-budget-elon-cvkf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02trump-budget-elon-cvkf/02trump-budget-elon-cvkf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-02T18:25:01Z",
+   "section_name": "U.S.",
+   "snippet": "SpaceX, already one of the biggest NASA and Pentagon contractors, could win billions of dollars in new contracts if President Trump\u2019s budget proposal is approved by Congress.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/937d4ada-472e-5a4f-9ede-8d2baa589f56",
+   "web_url": "https://www.nytimes.com/2025/05/02/us/politics/elon-musk-spacex-trump-budget.html",
+   "word_count": 948
+  },
+  {
+   "abstract": "Much was riding on Flight 9 for Elon Musk\u2019s giant moon and Mars rocket after debris from January and March flights fell into the Atlantic Ocean, disrupting air travel.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Loses Control of Starship, Adding to Spacecraft\u2019s Mixed Record",
+    "kicker": "",
+    "print_headline": "In a Failed SpaceX Test, Steps Forward and Back"
+   },
+   "_id": "nyt://article/553765fb-90d2-5b89-b047-abc975f5f537",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s Starship rocket lifted off from Starbase, Texas, on Tuesday.",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/27/multimedia/27spacex-liftoff-vjpk-copypage/27spacex-liftoff-vjpk-articleLarge.jpg",
+     "height": 412,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/27/multimedia/27spacex-liftoff-vjpk-copypage/27spacex-liftoff-vjpk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "12",
+   "print_section": "A",
+   "pub_date": "2025-05-27T20:35:56Z",
+   "section_name": "Science",
+   "snippet": "Much was riding on Flight 9 for Elon Musk\u2019s giant moon and Mars rocket after debris from January and March flights fell into the Atlantic Ocean, disrupting air travel.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/553765fb-90d2-5b89-b047-abc975f5f537",
+   "web_url": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
+   "word_count": 1142
+  },
+  {
+   "abstract": "A South Texas community, mostly made up of SpaceX employees, voted 212 to 6 in favor of establishing a new city called Starbase.",
+   "byline": {
+    "original": "By Hank Sanders"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Voters Approve Incorporation of SpaceX Hub as Starbase, Texas",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/a7e82f25-147d-58b7-82ca-1014d44ef796",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Elections",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Cameron County (Tex)",
+     "rank": 7
+    },
+    {
+     "name": "Location",
+     "value": "Starbase (Tex)",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Real Estate and Housing (Residential)",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Members of a South Texas community that is home to SpaceX and many of its employees voted Saturday to establish the city of Starbase.",
+    "credit": "Gabriel V. C\u00e1rdenas for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03xp-starbase-htzf/03xp-starbase-htzf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03xp-starbase-htzf/03xp-starbase-htzf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-04T00:52:58Z",
+   "section_name": "Business",
+   "snippet": "A South Texas community, mostly made up of SpaceX employees, voted 212 to 6 in favor of establishing a new city called Starbase.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a7e82f25-147d-58b7-82ca-1014d44ef796",
+   "web_url": "https://www.nytimes.com/2025/05/03/business/spacex-starbase-south-texas-vote.html",
+   "word_count": 357
+  },
+  {
+   "abstract": "On Saturday, local residents who mostly work for Elon Musk\u2019s rocket company voted to create an official city for themselves: Starbase, Texas.",
+   "byline": {
+    "original": "By Junho Lee and J. David Goodman"
+   },
+   "document_type": "interactive",
+   "headline": {
+    "main": "Inside Starbase, Elon Musk\u2019s New City",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://interactive/0d722830-69e5-5c76-ba32-62d7cecf6c60",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Location",
+     "value": "Starbase (Tex)",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/02/multimedia/2025-04-25-starbase-city-explainer-index/2025-04-25-starbase-city-explainer-index-articleLarge-v3.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/02/multimedia/2025-04-25-starbase-city-explainer-index/2025-04-25-starbase-city-explainer-index-thumbStandard-v3.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Graphics",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-05T09:02:18Z",
+   "section_name": "U.S.",
+   "snippet": "On Saturday, local residents who mostly work for Elon Musk\u2019s rocket company voted to create an official city for themselves: Starbase, Texas.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Interactive Feature",
+   "uri": "nyt://interactive/0d722830-69e5-5c76-ba32-62d7cecf6c60",
+   "web_url": "https://www.nytimes.com/interactive/2025/05/05/us/elon-musk-starbase-texas.html",
+   "word_count": 0
+  },
+  {
+   "abstract": "Physicists who record rocket launches and landings are learning important facts about the acoustics of spaceflight.",
+   "byline": {
+    "original": "By Kenneth Chang and Jonathan Corum"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Sonic Detectives Want to Help SpaceX Listen Up",
+    "kicker": "",
+    "print_headline": "Sonic Sleuths Tail Noisy Rockets"
+   },
+   "_id": "nyt://article/d3522d49-4e61-53a5-ac0e-51d6bd30ac75",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Noise",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Acoustics",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Physics",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Ears and Hearing",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Research",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Gee, Kent L",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "1",
+   "print_section": "D",
+   "pub_date": "2025-05-26T09:00:45Z",
+   "section_name": "Science",
+   "snippet": "Physicists who record rocket launches and landings are learning important facts about the acoustics of spaceflight.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/d3522d49-4e61-53a5-ac0e-51d6bd30ac75",
+   "web_url": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+   "word_count": 1975
+  },
+  {
+   "abstract": "That budgetary change aligns with the priorities of Elon Musk, who founded his SpaceX rocket company two decades ago with dreams of one day sending colonists to Mars.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA Proposal Would Shift Agency\u2019s Focus Away From Space Science",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/b2816818-2c90-5914-b189-f1e36a6aeb38",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "National Academies of the United States",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Planetary Society",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "The Trump administration\u2019s proposed budget cuts the National Aeronautics and Space Administration by 24 percent, while introducing $1 billion in new spending for Mars.",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02trump-budget-nasa-lzcv/02trump-budget-nasa-lzcv-articleLarge.jpg",
+     "height": 407,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02trump-budget-nasa-lzcv/02trump-budget-nasa-lzcv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-02T17:07:41Z",
+   "section_name": "U.S.",
+   "snippet": "That budgetary change aligns with the priorities of Elon Musk, who founded his SpaceX rocket company two decades ago with dreams of one day sending colonists to Mars.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/b2816818-2c90-5914-b189-f1e36a6aeb38",
+   "web_url": "https://www.nytimes.com/2025/05/02/us/politics/trump-budget-nasa-cuts.html",
+   "word_count": 482
+  },
+  {
+   "abstract": "President Trump will send off the world\u2019s richest man in a news conference on Friday at the White House.",
+   "byline": {
+    "original": "By David A. Fahrenthold, Eric Lipton and Jess Bidgood"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk Leaves Washington Behind but With Powerful Friends in Place",
+    "kicker": "",
+    "print_headline": "Departing With Gripes, And Key Friends in Place"
+   },
+   "_id": "nyt://article/10282e56-0a0d-5139-b415-19360144de5f",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Government Employees",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Layoffs and Job Reductions",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Polls and Public Opinion",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk left his government position on Wednesday, after weeks of declining influence and increasing friction with President Trump and shareholders of his own private companies.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/29/multimedia/dc-musk-lqcf/dc-musk-lqcf-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/29/multimedia/dc-musk-lqcf/dc-musk-lqcf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "15",
+   "print_section": "A",
+   "pub_date": "2025-05-29T23:37:06Z",
+   "section_name": "U.S.",
+   "snippet": "President Trump will send off the world\u2019s richest man in a news conference on Friday at the White House.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/10282e56-0a0d-5139-b415-19360144de5f",
+   "web_url": "https://www.nytimes.com/2025/05/29/us/politics/musk-washington-efficiency-departure.html",
+   "word_count": 2031
+  },
+  {
+   "abstract": "Jared Isaacman was a close associate of Elon Musk, whose SpaceX company has multiple contracts with NASA.",
+   "byline": {
+    "original": "By Jonathan Swan, Maggie Haberman and Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump to Withdraw Musk\u2019s Ally as Nominee for Top NASA Job",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/dc663214-0d4d-5c94-9774-892b8a50aaa7",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Senate",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Mr. Trump told associates he intended to pull the nomination of Jared Isaacman after learning from allies of his donations to prominent Democrats.",
+    "credit": "Tierney L. Cross for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/31/multimedia/31dc-isaacman-cfvp/31dc-isaacman-cfvp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/31/multimedia/31dc-isaacman-cfvp/31dc-isaacman-cfvp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-31T21:08:15Z",
+   "section_name": "U.S.",
+   "snippet": "Jared Isaacman was a close associate of Elon Musk, whose SpaceX company has multiple contracts with NASA.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/dc663214-0d4d-5c94-9774-892b8a50aaa7",
+   "web_url": "https://www.nytimes.com/2025/05/31/us/politics/trump-nasa-nominee-musk.html",
+   "word_count": 1049
+  },
+  {
+   "abstract": "The world\u2019s richest man inked new deals as he tagged along on President Trump\u2019s tour of the Gulf.",
+   "byline": {
+    "original": "By Mara Hvistendahl, Rebecca R. Ruiz and Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Gulf Deal-Making Spree Also Benefited Elon Musk and His Family",
+    "kicker": "",
+    "print_headline": "Musk and Family Members Were Making Deals on Tour  Of Persian Gulf With Trump"
+   },
+   "_id": "nyt://article/df648735-afc7-5d05-982d-f1d6dc5a4131",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "International Relations",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Real Estate (Commercial)",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Boring Company",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Neuralink Corp",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Vy Capital",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Dubai (United Arab Emirates)",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "Abu Dhabi (United Arab Emirates)",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk in Saudi Arabia last week.",
+    "credit": "Doug Mills/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/19/multimedia/19gulf-musk-1-gflj/19gulf-musk-1-gflj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/19/multimedia/19gulf-musk-1-gflj/19gulf-musk-1-gflj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "4",
+   "print_section": "A",
+   "pub_date": "2025-05-20T09:01:55Z",
+   "section_name": "World",
+   "snippet": "The world\u2019s richest man inked new deals as he tagged along on President Trump\u2019s tour of the Gulf.",
+   "source": "The New York Times",
+   "subsection_name": "Middle East",
+   "type_of_material": "News",
+   "uri": "nyt://article/df648735-afc7-5d05-982d-f1d6dc5a4131",
+   "web_url": "https://www.nytimes.com/2025/05/20/world/middleeast/gulf-deal-making-spree-also-benefited-elon-musk-and-his-family.html",
+   "word_count": 793
+  },
+  {
+   "abstract": "Many of the executives \u2014 including representatives of four of the 10 biggest U.S. companies by market value \u2014 are seeking business from Saudi investors and a chance to lobby top Trump officials.",
+   "byline": {
+    "original": "By Jason Karaian"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk, Sam Altman and Other C.E.O.s Join Trump at U.S.-Saudi Lunch",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/73ff5159-2ce5-5cde-bbb2-08e8494d1b42",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Alphabet Inc",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "BlackRock Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Blackstone Group, The",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Citigroup Inc",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Coca-Cola Company",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Google Inc",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "International Business Machines Corporation",
+     "rank": 14
+    },
+    {
+     "name": "Organization",
+     "value": "LinkedIn Corporation",
+     "rank": 15
+    },
+    {
+     "name": "Organization",
+     "value": "Los Angeles Times",
+     "rank": 16
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 17
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 18
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 19
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 20
+    },
+    {
+     "name": "Location",
+     "value": "Riyadh (Saudi Arabia)",
+     "rank": 21
+    },
+    {
+     "name": "Person",
+     "value": "Altman, Samuel H",
+     "rank": 22
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 23
+    },
+    {
+     "name": "Person",
+     "value": "Schwarzman, Stephen A",
+     "rank": 24
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 25
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk in Riyadh, Saudi Arabia, during President Trump\u2019s visit on Tuesday. Dozens of business executives are joining Mr. Trump and Crown Prince Mohammed bin Salman for lunch.",
+    "credit": "Brian Snyder/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-lunch-guests-lbgz/13trump-news-lunch-guests-lbgz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-lunch-guests-lbgz/13trump-news-lunch-guests-lbgz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-13T10:30:11Z",
+   "section_name": "U.S.",
+   "snippet": "Many of the executives \u2014 including representatives of four of the 10 biggest U.S. companies by market value \u2014 are seeking business from Saudi investors and a chance to lobby top Trump officials.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/73ff5159-2ce5-5cde-bbb2-08e8494d1b42",
+   "web_url": "https://www.nytimes.com/2025/05/13/us/politics/trump-saudi-business-lunch-musk-altman.html",
+   "word_count": 486
+  }
+ ]
+}

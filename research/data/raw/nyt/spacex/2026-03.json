@@ -1,0 +1,931 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2026-03",
+ "begin_date": "20260301",
+ "end_date": "20260331",
+ "fetched_at": "2026-09-08T05:21:02.447128+00:00",
+ "hits": 20,
+ "docs": [
+  {
+   "abstract": "Is Muskism the new Fordism?",
+   "byline": {
+    "original": "By Quinn Slobodian, Ben Tarnoff and John Guida"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "It\u2019s Musk\u2019s World Now",
+    "kicker": "Guest Essay",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/ca6c8d52-ddf8-5141-8ecd-55760509ae5b",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Innovation",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "US and Israeli Attack on Iran (2026)",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Cl\u00e9mence Mira",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/27/opinion/27slobodian-tarnoff-guida/27slobodian-tarnoff-guida-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/27/opinion/27slobodian-tarnoff-guida/27slobodian-tarnoff-guida-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-03-27T09:01:48Z",
+   "section_name": "Opinion",
+   "snippet": "Is Muskism the new Fordism?",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Op-Ed",
+   "uri": "nyt://article/ca6c8d52-ddf8-5141-8ecd-55760509ae5b",
+   "web_url": "https://www.nytimes.com/2026/03/27/opinion/elon-musk-market-henry-ford.html",
+   "word_count": 3179
+  },
+  {
+   "abstract": "The country aims to expand domestic satellite systems and cut dependence on American networks like Elon Musk\u2019s Starlink.",
+   "byline": {
+    "original": "By Vjosa Isai"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Canada Takes Its Sovereignty Push to Space",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/0930b568-1348-58c1-912e-fc287629217a",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 1
+    },
+    {
+     "name": "Location",
+     "value": "Canada",
+     "rank": 2
+    },
+    {
+     "name": "Location",
+     "value": "Alberta (Canada)",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "Ontario (Canada)",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Carney, Mark J",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Ford, Doug Jr (1964- )",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Ridgeway Plaza (Mississauga, Ontario)",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "International Relations",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 15
+    },
+    {
+     "name": "Subject",
+     "value": "United States-Mexico-Canada Agreement",
+     "rank": 16
+    },
+    {
+     "name": "Location",
+     "value": "Arctic Regions",
+     "rank": 17
+    },
+    {
+     "name": "Location",
+     "value": "Norway",
+     "rank": 18
+    },
+    {
+     "name": "Organization",
+     "value": "North Atlantic Treaty Organization",
+     "rank": 19
+    }
+   ],
+   "multimedia": {
+    "caption": "The northern lights over Yellowknife, Northwest Territories. Scientists worry that space is becoming cluttered with satellites and debris.",
+    "credit": "Pat Kane for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/14/multimedia/14-canada-letter-hqml/14-canada-letter-hqml-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/14/multimedia/14-canada-letter-hqml/14-canada-letter-hqml-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-03-14T10:00:10Z",
+   "section_name": "World",
+   "snippet": "The country aims to expand domestic satellite systems and cut dependence on American networks like Elon Musk\u2019s Starlink.",
+   "source": "The New York Times",
+   "subsection_name": "Canada",
+   "type_of_material": "News",
+   "uri": "nyt://article/0930b568-1348-58c1-912e-fc287629217a",
+   "web_url": "https://www.nytimes.com/2026/03/14/world/canada/starlink-satellites-defense-carney-canada.html",
+   "word_count": 1105
+  },
+  {
+   "abstract": "Mr. Musk\u2019s participation was notable because it is rare for a private citizen to be on a call between heads of state. It also suggests that Mr. Musk is back on better terms with the president.",
+   "byline": {
+    "original": "By Edward Wong, Theodore Schleifer, Tyler Pager and Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump and Modi Had a Call About the Iran War. Elon Musk Joined Them.",
+    "kicker": "",
+    "print_headline": "In Trump\u2019s Phone Call With Modi, Musk Was on the Line, Too"
+   },
+   "_id": "nyt://article/2b547f66-649d-5d8f-be2f-7738d77dd1ec",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "US and Israeli Attack on Iran (2026)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "State Department",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Kushner, Jared",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Leavitt, Karoline",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Modi, Narendra",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 12
+    },
+    {
+     "name": "Location",
+     "value": "India",
+     "rank": 13
+    },
+    {
+     "name": "Location",
+     "value": "United States",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk and Shivon Zilis arriving for a wedding at Mar-a-Lago last month. ",
+    "credit": "Eric Lee for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/27/multimedia/27DC-MUSK-TRUMP-fbgq/27DC-MUSK-TRUMP-fbgq-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/27/multimedia/27DC-MUSK-TRUMP-fbgq/27DC-MUSK-TRUMP-fbgq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "10",
+   "print_section": "A",
+   "pub_date": "2026-03-27T19:02:41Z",
+   "section_name": "U.S.",
+   "snippet": "Mr. Musk\u2019s participation was notable because it is rare for a private citizen to be on a call between heads of state. It also suggests that Mr. Musk is back on better terms with the president.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/2b547f66-649d-5d8f-be2f-7738d77dd1ec",
+   "web_url": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
+   "word_count": 778
+  },
+  {
+   "abstract": "Iran has launched waves of Shahed drones to menace Persian Gulf nations. The U.S. has unleashed its own copycat on Iran. It\u2019s a sign of how war is changing.",
+   "byline": {
+    "original": "By Paul Mozur and Adam Satariano"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "\u2018Designed to Wreak Havoc\u2019: The Cheap Drones Shaping the War With Iran",
+    "kicker": "",
+    "print_headline": "In New World of War Drones, U.S. Builds on Iranian Design"
+   },
+   "_id": "nyt://article/da807a42-ca9a-5f71-b40c-a359da3099e0",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "Iran",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Drones (Pilotless Planes)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "US and Israeli Attack on Iran (2026)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Defense Contracts",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Missiles and Missile Defense Systems",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Innovation",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Russian Invasion of Ukraine (2022)",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Ukraine",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "The Low-cost Unmanned Combat Attack System, or LUCAS, drones can be built at a small fraction of the price of earlier drones and are modeled after Iranian drones.",
+    "credit": "U.S. Central Command",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/05/multimedia/00biz-lucas-drone-1-qkvt/00biz-lucas-drone-1-qkvt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/05/multimedia/00biz-lucas-drone-1-qkvt/00biz-lucas-drone-1-qkvt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2026-03-07T10:01:12Z",
+   "section_name": "Technology",
+   "snippet": "Iran has launched waves of Shahed drones to menace Persian Gulf nations. The U.S. has unleashed its own copycat on Iran. It\u2019s a sign of how war is changing.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/da807a42-ca9a-5f71-b40c-a359da3099e0",
+   "web_url": "https://www.nytimes.com/2026/03/07/technology/iran-shahed-drones-us-war.html",
+   "word_count": 1546
+  },
+  {
+   "abstract": "No president since the Apollo era has pushed harder to return to the moon than President Trump. But he wants a space achievement that is about \u201cmore than getting rocks this time.\u201d",
+   "byline": {
+    "original": "By Peter Baker"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "For Trump, Moon Mission Is a Ticket to Greater Goals, and His Own Legacy",
+    "kicker": "",
+    "print_headline": "For Trump, One Small Step and a Giant Leap for His Legacy"
+   },
+   "_id": "nyt://article/1886871a-3348-56e5-8648-3f62f3da065b",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Apollo Project",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "National Space Council",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "President Trump visiting the Kennedy Space Center for a SpaceX launch during his first term, in May 2020.",
+    "credit": "Doug Mills/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/31/multimedia/00dc-trump-space-01-cjfp/00dc-trump-space-01-cjfp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/31/multimedia/00dc-trump-space-01-cjfp/00dc-trump-space-01-cjfp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "4",
+   "print_section": "D",
+   "pub_date": "2026-03-31T08:48:09Z",
+   "section_name": "U.S.",
+   "snippet": "No president since the Apollo era has pushed harder to return to the moon than President Trump. But he wants a space achievement that is about \u201cmore than getting rocks this time.\u201d",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/1886871a-3348-56e5-8648-3f62f3da065b",
+   "web_url": "https://www.nytimes.com/2026/03/31/us/politics/trump-artemis-ii-moon-mission.html",
+   "word_count": 1513
+  },
+  {
+   "abstract": "The start-up has raised a total of $122 billion in a funding round that values the company at $730 billion.",
+   "byline": {
+    "original": "By Cade Metz"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "OpenAI Adds Another $12 Billion to Latest Funding Round",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/5b9b4916-d59b-59b5-b369-1061881dd19a",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "SOFTBANK Corporation",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Sam Altman, the chief executive of OpenAI. With the deal, OpenAI has cemented its place as one of the most valuable private companies in the world.",
+    "credit": "Kylie Cooper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/31/multimedia/31biz-openai-funding-1-ktgf/31biz-openai-funding-1-ktgf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/31/multimedia/31biz-openai-funding-1-ktgf/31biz-openai-funding-1-ktgf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-03-31T21:30:08Z",
+   "section_name": "Technology",
+   "snippet": "The start-up has raised a total of $122 billion in a funding round that values the company at $730 billion.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/5b9b4916-d59b-59b5-b369-1061881dd19a",
+   "web_url": "https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html",
+   "word_count": 407
+  },
+  {
+   "abstract": "The artificial intelligence start-up has pulled the plug on the video-making tool as it rethinks spending ahead of a possible blockbuster I.P.O.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O\u2019Keefe and Ian Mount"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "What Sora\u2019s End Says About OpenAI\u2019s Strategy",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/7ad54f0c-7412-5f5d-9767-9f78df46fbbf",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Meta Platforms Inc",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Google Inc",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Altman, Samuel H",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Led by Sam Altman, OpenAI appears set to embark on a round of financial belt-tightening.",
+    "credit": "Jeenah Moon for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/25/multimedia/25db-altman-tqbc/25db-altman-tqbc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/25/multimedia/25db-altman-tqbc/25db-altman-tqbc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-03-25T12:01:27Z",
+   "section_name": "Business",
+   "snippet": "The artificial intelligence start-up has pulled the plug on the video-making tool as it rethinks spending ahead of a possible blockbuster I.P.O.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/7ad54f0c-7412-5f5d-9767-9f78df46fbbf",
+   "web_url": "https://www.nytimes.com/2026/03/25/business/dealbook/sora-openai-finances-ipo.html",
+   "word_count": 1810
+  },
+  {
+   "abstract": "It\u2019s not just any orange. It\u2019s International Orange.",
+   "byline": {
+    "original": "By Vanessa Friedman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why the Artemis II Astronauts Will Be Wearing Orange",
+    "kicker": "",
+    "print_headline": "Custom-Made Looks For a Moon Slingshot"
+   },
+   "_id": "nyt://article/ed087a78-691d-5518-808c-30af6ab27d00",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Color",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "your-feed-fashion",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "The Artemis II crew, in an orange officially known as AMS Standard 595 color #FS 12197.",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/31/multimedia/00HS-sci-astronaut-orange-zhlc/00HS-sci-astronaut-orange-zhlc-articleLarge.jpg",
+     "height": 390,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/31/multimedia/00HS-sci-astronaut-orange-zhlc/00HS-sci-astronaut-orange-zhlc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "8",
+   "print_section": "D",
+   "pub_date": "2026-03-31T21:36:19Z",
+   "section_name": "Style",
+   "snippet": "It\u2019s not just any orange. It\u2019s International Orange.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ed087a78-691d-5518-808c-30af6ab27d00",
+   "web_url": "https://www.nytimes.com/2026/03/31/style/artemis-ii-spacesuits-orange-astronauts.html",
+   "word_count": 686
+  },
+  {
+   "abstract": "Here's how NASA plans to send four astronauts on a trip around the moon, the first time that anyone would travel this far from Earth since the end of the Apollo program  in 1972.",
+   "byline": {
+    "original": "By Marco Hernandez and Kenneth Chang"
+   },
+   "document_type": "interactive",
+   "headline": {
+    "main": "Around the Moon and Back in 10 Days",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://interactive/3388a759-c895-50c7-81f5-760af5fdd67f",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/01/22/multimedia/2026-01-06-artemis-ii-moon-mission-index/2026-01-06-artemis-ii-moon-mission-index-articleLarge-v5.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/01/22/multimedia/2026-01-06-artemis-ii-moon-mission-index/2026-01-06-artemis-ii-moon-mission-index-thumbStandard-v5.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Graphics",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-03-30T09:00:18Z",
+   "section_name": "Science",
+   "snippet": "Here's how NASA plans to send four astronauts on a trip around the moon, the first time that anyone would travel this far from Earth since the end of the Apollo program  in 1972.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Interactive Feature",
+   "uri": "nyt://interactive/3388a759-c895-50c7-81f5-760af5fdd67f",
+   "web_url": "https://www.nytimes.com/interactive/2026/03/30/science/nasa-artemis-ii-moon-mission-what-to-know.html",
+   "word_count": 0
+  },
+  {
+   "abstract": "The company is seeking F.C.C. approval to test an idea to reflect sunlight to Earth at night, possibly powering solar panels. Critics say it could be bad for people and wildlife.",
+   "byline": {
+    "original": "By Kenneth Chang and Hiroko Tabuchi"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Big Night Light in the Sky? Start-Up Wants to Launch a Space Mirror.",
+    "kicker": "",
+    "print_headline": "Space Mirror Would Bring  Daylight to the Nighttime"
+   },
+   "_id": "nyt://article/8c47ff1a-5948-52f5-99ce-726b5d023c45",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Reflect Orbital",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Sunlight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Mirrors",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Solar Energy",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Communications Commission",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Environment",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "The start-up Reflect Orbital wants to launch mirror-bearing satellites which it says could address one of the biggest weaknesses of solar power: that electric generation stops when the sun goes down.",
+    "credit": "Tim Gruber for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/09/multimedia/09CLI-SPACE-MIRRORS-01-new-tjwg/09CLI-SPACE-MIRRORS-01-new-tjwg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/09/multimedia/09CLI-SPACE-MIRRORS-01-new-tjwg/09CLI-SPACE-MIRRORS-01-new-tjwg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Climate",
+   "print_page": "19",
+   "print_section": "A",
+   "pub_date": "2026-03-09T14:00:31Z",
+   "section_name": "Climate",
+   "snippet": "The company is seeking F.C.C. approval to test an idea to reflect sunlight to Earth at night, possibly powering solar panels. Critics say it could be bad for people and wildlife.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/8c47ff1a-5948-52f5-99ce-726b5d023c45",
+   "web_url": "https://www.nytimes.com/2026/03/09/climate/space-mirror-satellite-solar.html",
+   "word_count": 1189
+  }
+ ]
+}

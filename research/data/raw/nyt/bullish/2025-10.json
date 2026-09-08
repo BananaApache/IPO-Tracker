@@ -1,0 +1,375 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2025-10",
+ "begin_date": "20251001",
+ "end_date": "20251031",
+ "fetched_at": "2026-09-08T05:32:02.549415+00:00",
+ "hits": 4,
+ "docs": [
+  {
+   "abstract": "The precious metal is on course for its best year since the 1970s, underscoring unease in financial markets.",
+   "byline": {
+    "original": "By Joe Rennison"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Anxious Investors Push Gold Above $4,000 an Ounce for the First Time",
+    "kicker": "",
+    "print_headline": "Amid Anxiety, Gold Prices  Keep Rising"
+   },
+   "_id": "nyt://article/e7d47c30-7f68-5bad-9630-e6fa7dcf1f6e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Currency",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Government Bonds",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "US Dollar (Currency)",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Michael Dalder/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/06/multimedia/06gold-promo-czht/06gold-promo-czht-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/06/multimedia/06gold-promo-czht/06gold-promo-czht-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-10-06T13:13:02Z",
+   "section_name": "Business",
+   "snippet": "The precious metal is on course for its best year since the 1970s, underscoring unease in financial markets.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/e7d47c30-7f68-5bad-9630-e6fa7dcf1f6e",
+   "web_url": "https://www.nytimes.com/2025/10/06/business/gold-price-us-economy.html",
+   "word_count": 619
+  },
+  {
+   "abstract": "Surging interest in artificial intelligence is generating huge gains for Chinese tech stocks like Alibaba, which has more than doubled this year.",
+   "byline": {
+    "original": "By Meaghan Tobin"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A.I. Is Driving a Stock Market Rally in China, Too",
+    "kicker": "",
+    "print_headline": "China\u2019s Own Stock Markets Rally Around A.I."
+   },
+   "_id": "nyt://article/0ac20aed-ec09-505f-affb-2a41864556db",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 1
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 2
+    },
+    {
+     "name": "Location",
+     "value": "Hong Kong",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Alibaba Group Holding Ltd",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Beijing Bytedance Technology Co Ltd",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "DeepSeek Artificial Intelligence Co Ltd",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Tencent Holdings Ltd",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Semiconductor Manufacturing International Corporation",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Xiaomi Tech",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Jason Lee/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/02/multimedia/02china-stocks-promo-jmvl/02china-stocks-promo-jmvl-articleLarge.jpg",
+     "height": 391,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/02/multimedia/02china-stocks-promo-jmvl/02china-stocks-promo-jmvl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-10-03T04:01:07Z",
+   "section_name": "Business",
+   "snippet": "Surging interest in artificial intelligence is generating huge gains for Chinese tech stocks like Alibaba, which has more than doubled this year.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/0ac20aed-ec09-505f-affb-2a41864556db",
+   "web_url": "https://www.nytimes.com/2025/10/03/business/china-tech-stocks-artificial-intelligence.html",
+   "word_count": 764
+  },
+  {
+   "abstract": "Despite domestic and global tumult, the third quarter was fabulous for investors. But are the good times over?",
+   "byline": {
+    "original": "By Jeff Sommer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Nasty News? Until Now, the Markets Said All Was Well.",
+    "kicker": "Strategies",
+    "print_headline": "Bleak News? Until Now, the Markets Said All Was Well."
+   },
+   "_id": "nyt://article/237b064c-8723-52bc-aa03-1aba8751e8bb",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Exchange Traded Funds",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Asset Allocation (Personal Finances)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Mutual Funds",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Davide Bonazzi",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/12/business/10biz-strategies-ILLO/10biz-strategies-ILLO-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/12/business/10biz-strategies-ILLO/10biz-strategies-ILLO-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "SundayBusiness",
+   "print_page": "5",
+   "print_section": "BU",
+   "pub_date": "2025-10-10T13:00:07Z",
+   "section_name": "Business",
+   "snippet": "Despite domestic and global tumult, the third quarter was fabulous for investors. But are the good times over?",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/237b064c-8723-52bc-aa03-1aba8751e8bb",
+   "web_url": "https://www.nytimes.com/2025/10/10/business/markets-stocks-bonds-investment-funds.html",
+   "word_count": 1571
+  },
+  {
+   "abstract": "The researcher Eliezer Yudkowsky argues that we should be very afraid of artificial intelligence\u2019s existential risks.",
+   "byline": {
+    "original": "By Ezra Klein"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Afraid of the A.I. Apocalypse Should We Be?",
+    "kicker": "The Ezra Klein Show",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/2d93da70-28ec-5db4-b257-b2b87dec8601",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Yudkowsky, Eliezer",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "ChatGPT",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Myths and Mythical Creatures",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Nuclear Energy",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/15/opinion/15eks-yudkowsky/15eks-yudkowsky-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/15/opinion/15eks-yudkowsky/15eks-yudkowsky-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-10-15T09:03:52Z",
+   "section_name": "Opinion",
+   "snippet": "The researcher Eliezer Yudkowsky argues that we should be very afraid of artificial intelligence\u2019s existential risks.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Op-Ed",
+   "uri": "nyt://article/2d93da70-28ec-5db4-b257-b2b87dec8601",
+   "web_url": "https://www.nytimes.com/2025/10/15/opinion/ezra-klein-podcast-eliezer-yudkowsky.html",
+   "word_count": 11627
+  }
+ ]
+}

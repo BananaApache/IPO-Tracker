@@ -1,0 +1,297 @@
+{
+ "from": "2022-12-01",
+ "to": "2022-12-31",
+ "fetched_at": "2026-09-08T04:22:00.594741+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2022-12-30",
+   "exchange": "NASDAQ Global",
+   "name": "ALPHATIME ACQUISITION CORP",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ATMCU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2022-12-30",
+   "exchange": null,
+   "name": "Norcor Technologies Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2022-12-29",
+   "exchange": "NASDAQ Capital",
+   "name": "Coya Therapeutics, Inc.",
+   "numberOfShares": 3050000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "COYA",
+   "totalSharesValue": 15250000
+  },
+  {
+   "date": "2022-12-29",
+   "exchange": null,
+   "name": "BOZHI FANGLUE INTERNATIONAL INVESTMENT GROUP CO LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BZFL",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2022-12-29",
+   "exchange": null,
+   "name": "Ruanyun Edal Technology Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "RYET",
+   "totalSharesValue": 34500000
+  },
+  {
+   "date": "2022-12-28",
+   "exchange": null,
+   "name": "USA Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-28",
+   "exchange": null,
+   "name": "Four Springs Capital Trust",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-27",
+   "exchange": null,
+   "name": "Lakeview Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-22",
+   "exchange": null,
+   "name": "Keter Group SA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-22",
+   "exchange": "NASDAQ Global",
+   "name": "Horizon Space Acquisition I Corp.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HSPOU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2022-12-21",
+   "exchange": null,
+   "name": "HUBEIER GROUP LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HBER",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2022-12-20",
+   "exchange": "NASDAQ Global",
+   "name": "AlphaVest Acquisition Corp.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ATMVU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2022-12-20",
+   "exchange": "NASDAQ Capital",
+   "name": "LIPELLA PHARMACEUTICALS INC",
+   "numberOfShares": 1217391,
+   "price": "5.75",
+   "status": "priced",
+   "symbol": "LIPO",
+   "totalSharesValue": 6999998
+  },
+  {
+   "date": "2022-12-20",
+   "exchange": null,
+   "name": "GLOBAL EARNINGS CAPITAL LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ZYRX",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2022-12-19",
+   "exchange": null,
+   "name": "Dynasty Financial Partners Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-19",
+   "exchange": null,
+   "name": "Unique Logistics International, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-16",
+   "exchange": null,
+   "name": "Cariloha, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-16",
+   "exchange": null,
+   "name": "Greifenberg Digital Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GDLT",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2022-12-15",
+   "exchange": null,
+   "name": "Deep Space Acquisition Corp. I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-14",
+   "exchange": "NASDAQ Capital",
+   "name": "Erayak Power Solution Group Inc.",
+   "numberOfShares": 3000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "RAYA",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2022-12-13",
+   "exchange": null,
+   "name": "Haymaker Acquisition Corp. IV",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-13",
+   "exchange": null,
+   "name": "GigCapital6, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-12",
+   "exchange": null,
+   "name": "Freehold Properties, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-09",
+   "exchange": null,
+   "name": "tru Shrimp Companies, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Adamas One Corp.",
+   "numberOfShares": 2450000,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "JEWL",
+   "totalSharesValue": 11025000
+  },
+  {
+   "date": "2022-12-08",
+   "exchange": null,
+   "name": "Intrepid Acquisition Corp I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-02",
+   "exchange": null,
+   "name": "Affinia Therapeutics Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-01",
+   "exchange": null,
+   "name": "Yesway, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-12-01",
+   "exchange": null,
+   "name": "Alpha Investment Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

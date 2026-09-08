@@ -1,0 +1,72 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2024-12",
+ "begin_date": "20241201",
+ "end_date": "20241231",
+ "fetched_at": "2026-09-08T05:08:02.405621+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "A posthumous collection of essays by the anthropologist and activist David Graeber shows a bold thinker whose original arguments could strain credibility.",
+   "byline": {
+    "original": "By Jennifer Szalai"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Anarchist With Big Ideas and a Silver Tongue",
+    "kicker": "Nonfiction",
+    "print_headline": "Anarchy Now"
+   },
+   "_id": "nyt://article/1c13a825-9fb6-59d8-a5c6-3732cfca516f",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Books and Literature",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Graeber, David",
+     "rank": 3
+    },
+    {
+     "name": "Title",
+     "value": "The Ultimate Hidden Truth of the World...:Essays (Book)",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "David Graeber in 2015.",
+    "credit": "Frantzesco Kangaris/eyevine, via Redux",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/05/multimedia/04Graeber-review-qmkz/04Graeber-review-qmkz-articleLarge.jpg",
+     "height": 812,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/05/multimedia/04Graeber-review-qmkz/04Graeber-review-qmkz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "BookReview",
+   "print_page": "14",
+   "print_section": "BR",
+   "pub_date": "2024-12-04T10:02:43Z",
+   "section_name": "Books",
+   "snippet": "A posthumous collection of essays by the anthropologist and activist David Graeber shows a bold thinker whose original arguments could strain credibility.",
+   "source": "The New York Times",
+   "subsection_name": "Book Review",
+   "type_of_material": "Review",
+   "uri": "nyt://article/1c13a825-9fb6-59d8-a5c6-3732cfca516f",
+   "web_url": "https://www.nytimes.com/2024/12/04/books/review/david-graeber-the-ultimate-hidden-truth-of-the-world.html",
+   "word_count": 1043
+  }
+ ]
+}

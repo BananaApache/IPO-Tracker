@@ -1,0 +1,836 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2024-12",
+ "begin_date": "20241201",
+ "end_date": "20241231",
+ "fetched_at": "2026-09-08T04:45:02.242998+00:00",
+ "hits": 56,
+ "docs": [
+  {
+   "abstract": "Federal agencies have opened at least three reviews into whether the company and its leader complied with disclosure protocols intended to protect state secrets, people with knowledge of the matter said.",
+   "byline": {
+    "original": "By Kirsten Grind, Eric Lipton and Sheera Frenkel"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk and SpaceX Face Federal Reviews After Violations of Security Reporting Rules",
+    "kicker": "",
+    "print_headline": "Musk Flouted Security Rules;  Faces Reviews"
+   },
+   "_id": "nyt://article/f0ffa733-6a31-5bb6-9759-cf115b463469",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Classified Information and State Secrets",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Ethics and Official Misconduct",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Defense Contracts",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Defense Department",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Illustration by Adam Maida; Photograph by Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/16/business/00musk-natl-security/00musk-natl-security-articleLarge.jpg",
+     "height": 815,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/16/business/00musk-natl-security/00musk-natl-security-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-12-17T18:14:19Z",
+   "section_name": "Technology",
+   "snippet": "Federal agencies have opened at least three reviews into whether the company and its leader complied with disclosure protocols intended to protect state secrets, people with knowledge of the matter said.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/f0ffa733-6a31-5bb6-9759-cf115b463469",
+   "web_url": "https://www.nytimes.com/2024/12/17/technology/elon-musk-spacex-national-security-reporting.html",
+   "word_count": 2411
+  },
+  {
+   "abstract": "Employees of SpaceX have filed a formal petition to create the city of Starbase. Its first mayor would be a security manager for the company.",
+   "byline": {
+    "original": "By J. David Goodman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Is Creating His Own Texas Town. Hundreds Already Live There.",
+    "kicker": "",
+    "print_headline": "If You Worked Here,  You\u2019d Be Home by Now"
+   },
+   "_id": "nyt://article/9eeb2a0b-1788-5142-b4ac-0d18630b829e",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Location",
+     "value": "Cameron County (Tex)",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Local Government",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "Starbase (Tex)",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Memes Street, in the proposed city of Starbase, Texas",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/24/multimedia/24nat-musk-city-01-vckb/24nat-musk-city-01-vckb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/24/multimedia/24nat-musk-city-01-vckb/24nat-musk-city-01-vckb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "National",
+   "print_page": "12",
+   "print_section": "A",
+   "pub_date": "2024-12-24T10:03:07Z",
+   "section_name": "U.S.",
+   "snippet": "Employees of SpaceX have filed a formal petition to create the city of Starbase. Its first mayor would be a security manager for the company.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/9eeb2a0b-1788-5142-b4ac-0d18630b829e",
+   "web_url": "https://www.nytimes.com/2024/12/24/us/starbase-texas-city-elon-musk-spacex.html",
+   "word_count": 1194
+  },
+  {
+   "abstract": "A new rocket from Mr. Bezos\u2019 company Blue Origin and a satellite system from Amazon could heat up competition with SpaceX, owned by Mr. Musk.",
+   "byline": {
+    "original": "By Karen Weise"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Jeff Bezos Prepares to Close the Gap in His Space Race With Elon Musk",
+    "kicker": "",
+    "print_headline": "Bezos\u2019 Blue Origin Ramps Up Space Race"
+   },
+   "_id": "nyt://article/4988a34a-ea37-58c2-a280-abab6da81c0c",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Bezos, Jeffrey P",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Kuiper Systems (Amazon.com Inc)",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "United Launch Alliance",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Jeff Bezos\u2019 Blue Origin is close to launching a large rocket that could compete directly with SpaceX. ",
+    "credit": "Isaiah Downing/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/11/multimedia/SPACE-BEZOS-02-htjz/SPACE-BEZOS-02-htjz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/11/multimedia/SPACE-BEZOS-02-htjz/SPACE-BEZOS-02-htjz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2024-12-17T16:40:46Z",
+   "section_name": "Technology",
+   "snippet": "A new rocket from Mr. Bezos\u2019 company Blue Origin and a satellite system from Amazon could heat up competition with SpaceX, owned by Mr. Musk.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4988a34a-ea37-58c2-a280-abab6da81c0c",
+   "web_url": "https://www.nytimes.com/2024/12/17/technology/jeff-bezos-blue-origin-elon-musk.html",
+   "word_count": 1371
+  },
+  {
+   "abstract": "Mr. Isaacman\u2019s company Shift4 Payments made him a billionaire, and he has financed two trips to orbit on SpaceX vehicles, including a daring spacewalk in September.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Picks Jared Isaacman, an Entrepreneur and Private Astronaut, to Lead NASA",
+    "kicker": "",
+    "print_headline": "Isaacman, a Billionaire Private Astronaut, Is Trump\u2019s Pick to Lead NASA"
+   },
+   "_id": "nyt://article/7e6a37c9-5cb8-50c2-913c-3a405bf18cc1",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Transition (US)",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Jared Isaacman traveled to orbit in September for the second time in a SpaceX Crew Dragon capsule.",
+    "credit": "Polaris Program/SpaceX, via Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/04/multimedia/04nasa-isaacman-wtpf/04nasa-isaacman-wtpf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/04/multimedia/04nasa-isaacman-wtpf/04nasa-isaacman-wtpf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "15",
+   "print_section": "A",
+   "pub_date": "2024-12-04T17:30:16Z",
+   "section_name": "Science",
+   "snippet": "Mr. Isaacman\u2019s company Shift4 Payments made him a billionaire, and he has financed two trips to orbit on SpaceX vehicles, including a daring spacewalk in September.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/7e6a37c9-5cb8-50c2-913c-3a405bf18cc1",
+   "web_url": "https://www.nytimes.com/2024/12/04/science/jared-isaacman-trump-nasa.html",
+   "word_count": 696
+  },
+  {
+   "abstract": "Mr. Musk\u2019s rockets and presence have helped shape, and reshape, the culture and politics of Cameron County in South Texas.",
+   "byline": {
+    "original": "By Jazmine Ulloa and Callaghan O\u2019Hare"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How the Border County Where Elon Musk Is a Local Flipped for Trump",
+    "kicker": "",
+    "print_headline": "How Home to Musk\u2019s Starbase Voted Trump After Blue Streak"
+   },
+   "_id": "nyt://article/509784cd-709d-57d9-b45b-14be9d6ad732",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "Cameron County (Tex)",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Hispanic-Americans",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 7
+    },
+    {
+     "name": "Location",
+     "value": "Rio Grande Valley (Tex)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Republican Party",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Democratic Party",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "Brownsville (Tex)",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Illegal Immigration",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Callaghan O'Hare for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/21/multimedia/brownsville-promo-jcqt/brownsville-promo-jcqt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/21/multimedia/brownsville-promo-jcqt/brownsville-promo-jcqt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Politics",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-12-01T10:00:19Z",
+   "section_name": "U.S.",
+   "snippet": "Mr. Musk\u2019s rockets and presence have helped shape, and reshape, the culture and politics of Cameron County in South Texas.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/509784cd-709d-57d9-b45b-14be9d6ad732",
+   "web_url": "https://www.nytimes.com/2024/12/01/us/politics/elon-musk-cameron-county.html",
+   "word_count": 1829
+  },
+  {
+   "abstract": "A look at the people who influence the world\u2019s richest man, and those who stand to gain from their association with him now.",
+   "byline": {
+    "original": "By Theodore Schleifer, Ryan Mac, Lily Boyce and Kirsten Grind"
+   },
+   "document_type": "interactive",
+   "headline": {
+    "main": "The Men and Women Swirling Around Elon Musk",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://interactive/588b3e87-875e-5dda-bfc5-7f4a476b7a12",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Transition (US)",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/20/multimedia/2024-11-15-musk-orbits-index/2024-11-15-musk-orbits-index-articleLarge-v2.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/20/multimedia/2024-11-15-musk-orbits-index/2024-11-15-musk-orbits-index-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-12-24T01:57:17Z",
+   "section_name": "Business",
+   "snippet": "A look at the people who influence the world\u2019s richest man, and those who stand to gain from their association with him now.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Interactive Feature",
+   "uri": "nyt://interactive/588b3e87-875e-5dda-bfc5-7f4a476b7a12",
+   "web_url": "https://www.nytimes.com/interactive/2024/12/23/business/elon-musk-trump-family-friends-backers.html",
+   "word_count": 0
+  },
+  {
+   "abstract": "It is unclear where the program to go back to the lunar surface will head after President-elect Donald J. Trump returns to the White House in January.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA Artemis Moon Missions Delayed Until 2026 and 2027",
+    "kicker": "",
+    "print_headline": "NASA Delays Missions to Circle Moon Again"
+   },
+   "_id": "nyt://article/c7984aba-8f74-5972-a549-6fe0fe1d58b3",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Part of the NASA\u2019s Space Launch System rocket in July. The vehicle is to be used for the agency\u2019s Artemis return-to-moon missions, the second of which was postponed on Wednesday.",
+    "credit": "Chandan Khanna/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/05/multimedia/05nasa-moon-01-blqp/05nasa-moon-01-blqp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/05/multimedia/05nasa-moon-01-blqp/05nasa-moon-01-blqp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "13",
+   "print_section": "A",
+   "pub_date": "2024-12-05T18:20:37Z",
+   "section_name": "Science",
+   "snippet": "It is unclear where the program to go back to the lunar surface will head after President-elect Donald J. Trump returns to the White House in January.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c7984aba-8f74-5972-a549-6fe0fe1d58b3",
+   "web_url": "https://www.nytimes.com/2024/12/05/science/nasa-moon-artemis-delayed-2027.html",
+   "word_count": 1142
+  },
+  {
+   "abstract": "State Democracy Defenders Fund, founded by a former ethics official from the Obama Administration, asked 16 federal agencies if they had heard from Elon Musk\u2019s budget-cutting group.",
+   "byline": {
+    "original": "By David A. Fahrenthold"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "New Watchdog Group Seeks Records About Efficiency Department\u2019s Talks With Agencies",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/92ba7f84-9c53-597f-8c7a-91845d8fb536",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Budget (US)",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Ramaswamy, Vivek (1985- )",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Eisen, Norman L",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Norman Eisen, founder of the State Democracy Defenders Fund, said that his group was sending public-records requests to agencies seeking correspondence.",
+    "credit": "Shuran Huang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/18/multimedia/18trump-news-watchdoge-pbtj/18trump-news-watchdoge-pbtj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/18/multimedia/18trump-news-watchdoge-pbtj/18trump-news-watchdoge-pbtj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-12-18T14:36:52Z",
+   "section_name": "U.S.",
+   "snippet": "State Democracy Defenders Fund, founded by a former ethics official from the Obama Administration, asked 16 federal agencies if they had heard from Elon Musk\u2019s budget-cutting group.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/92ba7f84-9c53-597f-8c7a-91845d8fb536",
+   "web_url": "https://www.nytimes.com/2024/12/18/us/politics/doge-records.html",
+   "word_count": 424
+  },
+  {
+   "abstract": "Federal agencies are reviewing whether the tech mogul and ally of Donald Trump complied with disclosure rules meant to protect state secrets.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch, Cade Metz, Theodore Schleifer and Benjamin Weiser"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Is Elon Musk a National Security Risk?",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/87f706fd-6f79-526d-b20a-4b8050b2f0b7",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Israel",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Defense Department",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk\u2019s close ties to President-elect Donald Trump take on a new focus as the tech mogul faces heightened national security scrutiny.",
+    "credit": "Pool photo by Brandon Bell",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/18/multimedia/18db-musk-bqfk/18db-musk-bqfk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/18/multimedia/18db-musk-bqfk/18db-musk-bqfk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-12-18T13:03:40Z",
+   "section_name": "Business",
+   "snippet": "Federal agencies are reviewing whether the tech mogul and ally of Donald Trump complied with disclosure rules meant to protect state secrets.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/87f706fd-6f79-526d-b20a-4b8050b2f0b7",
+   "web_url": "https://www.nytimes.com/2024/12/18/business/dealbook/elon-musk-national-security-risk.html",
+   "word_count": 2083
+  },
+  {
+   "abstract": "His relationship with Chinese leaders and reported contacts with Russian officials are cause for alarm.",
+   "byline": {
+    "original": "By Russel L. Honor\u00e9"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Is a National Security Risk",
+    "kicker": "Guest Essay",
+    "print_headline": "Musk Is a National Security Risk"
+   },
+   "_id": "nyt://article/215fb7a3-aa07-54f6-97c9-ddc9ceb0274f",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Classified Information and State Secrets",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Communist Party of China",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Ramaswamy, Vivek (1985- )",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Gabriel Gabriel Garble",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/31/autossell/29honore_still/29honore_still-articleLarge.png",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/31/autossell/29honore_still/29honore_still-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "20",
+   "print_section": "A",
+   "pub_date": "2024-12-29T11:00:22Z",
+   "section_name": "Opinion",
+   "snippet": "His relationship with Chinese leaders and reported contacts with Russian officials are cause for alarm.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Op-Ed",
+   "uri": "nyt://article/215fb7a3-aa07-54f6-97c9-ddc9ceb0274f",
+   "web_url": "https://www.nytimes.com/2024/12/29/opinion/elon-musk-china-classified-secrets-national-security-russia-doge.html",
+   "word_count": 1007
+  }
+ ]
+}

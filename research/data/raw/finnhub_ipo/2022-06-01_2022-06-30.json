@@ -1,0 +1,267 @@
+{
+ "from": "2022-06-01",
+ "to": "2022-06-30",
+ "fetched_at": "2026-09-08T04:21:48.592542+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2022-06-30",
+   "exchange": null,
+   "name": "Resources Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-30",
+   "exchange": null,
+   "name": "Spartan Acquisition Corp. IV",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-29",
+   "exchange": null,
+   "name": "Switchback III Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-29",
+   "exchange": null,
+   "name": "Clearmind Medicine Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 6900000
+  },
+  {
+   "date": "2022-06-28",
+   "exchange": "NYSE MKT",
+   "name": "Ivanhoe Electric Inc.",
+   "numberOfShares": 14388000,
+   "price": "11.75",
+   "status": "priced",
+   "symbol": "IE",
+   "totalSharesValue": 169059000
+  },
+  {
+   "date": "2022-06-24",
+   "exchange": "NASDAQ Global",
+   "name": "SK Growth Opportunities Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SKGRU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2022-06-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Golden Sun Education Group Ltd",
+   "numberOfShares": 4400000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "GSUN",
+   "totalSharesValue": 17600000
+  },
+  {
+   "date": "2022-06-21",
+   "exchange": null,
+   "name": "Lamar Partnering Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-21",
+   "exchange": null,
+   "name": "Lionheart IV CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-16",
+   "exchange": "NASDAQ Global",
+   "name": "Feutune Light Acquisition Corp",
+   "numberOfShares": 8500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FLFVU",
+   "totalSharesValue": 85000000
+  },
+  {
+   "date": "2022-06-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Heart Test Laboratories, Inc.",
+   "numberOfShares": 1500000,
+   "price": "4.25",
+   "status": "priced",
+   "symbol": "HSCS",
+   "totalSharesValue": 6375000
+  },
+  {
+   "date": "2022-06-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Lytus Technologies Holdings PTV. Ltd.",
+   "numberOfShares": 2609474,
+   "price": "4.75",
+   "status": "priced",
+   "symbol": "LYT",
+   "totalSharesValue": 12395002
+  },
+  {
+   "date": "2022-06-13",
+   "exchange": null,
+   "name": "Black Dragon Acquisition Corp. I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-10",
+   "exchange": null,
+   "name": "Freestone Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-10",
+   "exchange": "NASDAQ Global",
+   "name": "Acri Capital Acquisition Corp",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ACACU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2022-06-10",
+   "exchange": null,
+   "name": "WARRANTEE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "WRNT",
+   "totalSharesValue": 19714288
+  },
+  {
+   "date": "2022-06-10",
+   "exchange": null,
+   "name": "Natics Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2022-06-09",
+   "exchange": null,
+   "name": "Soulgate Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-08",
+   "exchange": null,
+   "name": "Oxeia Biopharmaceuticals, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-08",
+   "exchange": "NASDAQ Capital",
+   "name": "PHOENIX MOTOR INC.",
+   "numberOfShares": 2100000,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "PEV",
+   "totalSharesValue": 15750000
+  },
+  {
+   "date": "2022-06-03",
+   "exchange": null,
+   "name": "Intuity Medical, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-03",
+   "exchange": "NASDAQ Capital",
+   "name": "SaverOne 2014 Ltd.",
+   "numberOfShares": 2941918,
+   "price": "4.13",
+   "status": "priced",
+   "symbol": "SVRE",
+   "totalSharesValue": 12150121
+  },
+  {
+   "date": "2022-06-03",
+   "exchange": null,
+   "name": "BioLife4D Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SAVU",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2022-06-01",
+   "exchange": null,
+   "name": "Strawberry Fields REIT, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-01",
+   "exchange": null,
+   "name": "Mindset Growth Opportunities I Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-06-01",
+   "exchange": "NASDAQ Capital",
+   "name": "TOP Financial Group Ltd",
+   "numberOfShares": 5000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "TOP",
+   "totalSharesValue": 25000000
+  }
+ ]
+}

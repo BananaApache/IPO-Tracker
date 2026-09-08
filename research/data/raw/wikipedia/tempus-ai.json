@@ -1,0 +1,142 @@
+{
+ "company": "Tempus AI",
+ "cohort": "tier_b",
+ "symbol": "TEM",
+ "resolution": {
+  "company": "Tempus AI",
+  "title": "Tempus AI",
+  "method": "exact title match",
+  "candidates": [],
+  "notes": "",
+  "cohort": "tier_b"
+ },
+ "article_created": "2024-06-19T21:11:43Z",
+ "coverage_start": "2015-07-01",
+ "first_pageview_month": "202205",
+ "views_by_title": {
+  "Tempus AI": 243699,
+  "Draft:Tempus AI": 141,
+  "Tempus Labs": 123
+ },
+ "redirects_included": true,
+ "title_history_inherited": true,
+ "fetched_at": "2026-09-08T08:18:13.154366+00:00",
+ "items": [
+  {
+   "timestamp": "2022050100",
+   "views": 3
+  },
+  {
+   "timestamp": "2024060100",
+   "views": 602
+  },
+  {
+   "timestamp": "2024070100",
+   "views": 1312
+  },
+  {
+   "timestamp": "2024080100",
+   "views": 3500
+  },
+  {
+   "timestamp": "2024090100",
+   "views": 2662
+  },
+  {
+   "timestamp": "2024100100",
+   "views": 2837
+  },
+  {
+   "timestamp": "2024110100",
+   "views": 3929
+  },
+  {
+   "timestamp": "2024120100",
+   "views": 5317
+  },
+  {
+   "timestamp": "2025010100",
+   "views": 15326
+  },
+  {
+   "timestamp": "2025020100",
+   "views": 17288
+  },
+  {
+   "timestamp": "2025030100",
+   "views": 7984
+  },
+  {
+   "timestamp": "2025040100",
+   "views": 6374
+  },
+  {
+   "timestamp": "2025050100",
+   "views": 10809
+  },
+  {
+   "timestamp": "2025060100",
+   "views": 9135
+  },
+  {
+   "timestamp": "2025070100",
+   "views": 8465
+  },
+  {
+   "timestamp": "2025080100",
+   "views": 8622
+  },
+  {
+   "timestamp": "2025090100",
+   "views": 7538
+  },
+  {
+   "timestamp": "2025100100",
+   "views": 6846
+  },
+  {
+   "timestamp": "2025110100",
+   "views": 5789
+  },
+  {
+   "timestamp": "2025120100",
+   "views": 4677
+  },
+  {
+   "timestamp": "2026010100",
+   "views": 5877
+  },
+  {
+   "timestamp": "2026020100",
+   "views": 5139
+  },
+  {
+   "timestamp": "2026030100",
+   "views": 4975
+  },
+  {
+   "timestamp": "2026040100",
+   "views": 5364
+  },
+  {
+   "timestamp": "2026050100",
+   "views": 7921
+  },
+  {
+   "timestamp": "2026060100",
+   "views": 7237
+  },
+  {
+   "timestamp": "2026070100",
+   "views": 40372
+  },
+  {
+   "timestamp": "2026080100",
+   "views": 30378
+  },
+  {
+   "timestamp": "2026090100",
+   "views": 7685
+  }
+ ]
+}

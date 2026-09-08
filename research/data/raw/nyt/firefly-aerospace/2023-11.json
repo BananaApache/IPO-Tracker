@@ -1,0 +1,107 @@
+{
+ "company": "Firefly Aerospace",
+ "query": "\"Firefly Aerospace\"",
+ "month": "2023-11",
+ "begin_date": "20231101",
+ "end_date": "20231130",
+ "fetched_at": "2026-09-08T04:36:38.136550+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Rarely has the U.S. government so depended on the technology provided by a single technologist with views that it has so publicly declared repugnant.",
+   "byline": {
+    "original": "By David E. Sanger and Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The White House May Condemn Musk, but the Government Is Addicted to Him",
+    "kicker": "",
+    "print_headline": "Berating Musk, Yet Also Keeping  SpaceX Close"
+   },
+   "_id": "nyt://article/e721f676-ad16-5151-ad34-85bb63bf136a",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Biden, Joseph R Jr",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Defense Contracts",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Defense Department",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Anti-Semitism",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "NASA is working with Elon Musk in separate contracts collectively worth at least $4 billion.",
+    "credit": "Gonzalo Fuentes/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/11/19/multimedia/19dc-musk-vfbp/19dc-musk-vfbp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/11/19/multimedia/19dc-musk-vfbp/19dc-musk-vfbp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "14",
+   "print_section": "A",
+   "pub_date": "2023-11-19T20:21:56Z",
+   "section_name": "U.S.",
+   "snippet": "Rarely has the U.S. government so depended on the technology provided by a single technologist with views that it has so publicly declared repugnant.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/e721f676-ad16-5151-ad34-85bb63bf136a",
+   "web_url": "https://www.nytimes.com/2023/11/19/us/politics/elon-musk-white-house-pentagon.html",
+   "word_count": 1349
+  }
+ ]
+}

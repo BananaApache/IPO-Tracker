@@ -1,0 +1,257 @@
+{
+ "from": "2023-01-01",
+ "to": "2023-01-31",
+ "fetched_at": "2026-09-08T04:22:02.600260+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2023-01-31",
+   "exchange": null,
+   "name": "Vocodia Holdings Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "VOCO",
+   "totalSharesValue": 22178583
+  },
+  {
+   "date": "2023-01-27",
+   "exchange": null,
+   "name": "Twelve Seas Investment Co IV TMT",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-27",
+   "exchange": null,
+   "name": "C&W Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-27",
+   "exchange": "NYSE",
+   "name": "TXO Energy Partners, L.P.",
+   "numberOfShares": 5000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "TXO",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2023-01-27",
+   "exchange": "NASDAQ Capital",
+   "name": "Brera Holdings PLC",
+   "numberOfShares": 1705000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "BREA",
+   "totalSharesValue": 8525000
+  },
+  {
+   "date": "2023-01-26",
+   "exchange": "NASDAQ Capital",
+   "name": "GENELUX CORP",
+   "numberOfShares": 2500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "GNLX",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2023-01-25",
+   "exchange": "NASDAQ Global",
+   "name": "QuantaSing Group Ltd",
+   "numberOfShares": 3250000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "QSG",
+   "totalSharesValue": 40625000
+  },
+  {
+   "date": "2023-01-24",
+   "exchange": null,
+   "name": "T1V, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "THNK",
+   "totalSharesValue": 22659465
+  },
+  {
+   "date": "2023-01-23",
+   "exchange": null,
+   "name": "VIKASA SPAC Series I Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-23",
+   "exchange": null,
+   "name": "Constitution Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-20",
+   "exchange": "NASDAQ Capital",
+   "name": "Cadrenal Therapeutics, Inc.",
+   "numberOfShares": 1400000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "CVKD",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2023-01-19",
+   "exchange": null,
+   "name": "5G Edge Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-19",
+   "exchange": null,
+   "name": "Vector Acquisition Corp IV",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-19",
+   "exchange": null,
+   "name": "Vector Acquisition Corp III",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-13",
+   "exchange": "NASDAQ Capital",
+   "name": "MGO Global Inc.",
+   "numberOfShares": 1500000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "MGOL",
+   "totalSharesValue": 7500000
+  },
+  {
+   "date": "2023-01-13",
+   "exchange": "NASDAQ Global Select",
+   "name": "Skyward Specialty Insurance Group, Inc.",
+   "numberOfShares": 8952383,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SKWD",
+   "totalSharesValue": 134285745
+  },
+  {
+   "date": "2023-01-13",
+   "exchange": "NASDAQ Global",
+   "name": "Israel Acquisitions Corp",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ISRLU",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2023-01-13",
+   "exchange": null,
+   "name": "RVELOCITY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "RVGO",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2023-01-12",
+   "exchange": null,
+   "name": "Virtuoso Acquisition Corp. 2",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-11",
+   "exchange": null,
+   "name": "Sports & Health Tech Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-11",
+   "exchange": null,
+   "name": "Agora Digital Holdings, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-09",
+   "exchange": null,
+   "name": "Mattress Firm Group Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-06",
+   "exchange": null,
+   "name": "UNSDG Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-04",
+   "exchange": null,
+   "name": "Melt Pharmaceuticals, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-01-03",
+   "exchange": null,
+   "name": "Ace Global Business Acquisition II Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2023-12",
+ "begin_date": "20231201",
+ "end_date": "20231231",
+ "fetched_at": "2026-09-08T04:39:14.139759+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "It was a terrific year for film, whether art house or mainstream, even if the main subject the movies wrestled with was deeply pessimistic.",
+   "byline": {
+    "original": "By Manohla Dargis and Alissa Wilkinson"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Best Movies of 2023",
+    "kicker": "",
+    "print_headline": "Amid the Worries, A Thrilling Bounty"
+   },
+   "_id": "nyt://article/259965a5-1dcd-5fee-9bc5-ba8c5a61c202",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Movies",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Two Thousand Twenty Three",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Documentary Films and Programs",
+     "rank": 3
+    },
+    {
+     "name": "Title",
+     "value": "All Dirt Roads Taste of Salt (Movie)",
+     "rank": 4
+    },
+    {
+     "name": "Title",
+     "value": "Asteroid City (Movie)",
+     "rank": 5
+    },
+    {
+     "name": "Title",
+     "value": "Barbie (Movie)",
+     "rank": 6
+    },
+    {
+     "name": "Title",
+     "value": "Earth Mama (Movie)",
+     "rank": 7
+    },
+    {
+     "name": "Title",
+     "value": "Fallen Leaves (Movie)",
+     "rank": 8
+    },
+    {
+     "name": "Title",
+     "value": "Ferrari (Movie)",
+     "rank": 9
+    },
+    {
+     "name": "Title",
+     "value": "Killers of the Flower Moon (Movie)",
+     "rank": 10
+    },
+    {
+     "name": "Title",
+     "value": "May December (Movie)",
+     "rank": 11
+    },
+    {
+     "name": "",
+     "value": "",
+     "rank": 12
+    },
+    {
+     "name": "Title",
+     "value": "Napoleon (2023) (Movie)",
+     "rank": 13
+    },
+    {
+     "name": "Title",
+     "value": "Occupied City (Movie)",
+     "rank": 14
+    },
+    {
+     "name": "Title",
+     "value": "Oppenheimer (Movie)",
+     "rank": 15
+    },
+    {
+     "name": "Title",
+     "value": "Orlando: My Political Biography (Movie)",
+     "rank": 16
+    },
+    {
+     "name": "Title",
+     "value": "Past Lives (Movie)",
+     "rank": 17
+    },
+    {
+     "name": "Title",
+     "value": "Showing Up (Movie)",
+     "rank": 18
+    },
+    {
+     "name": "Title",
+     "value": "Youth (Spring) (Movie)",
+     "rank": 19
+    },
+    {
+     "name": "Keyword",
+     "value": "bestofculture2023",
+     "rank": 20
+    }
+   ],
+   "multimedia": {
+    "caption": "Lily Gladstone as an Osage bride in \u201cKillers of the Flower Moon,\u201d directed by Martin Scorsese.",
+    "credit": "Apple TV+",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/12/10/multimedia/10BEST-FILM-DARGIS-01-cpkv/10BEST-FILM-DARGIS-01-cpkv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/12/10/multimedia/10BEST-FILM-DARGIS-01-cpkv/10BEST-FILM-DARGIS-01-cpkv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Arts&Leisure",
+   "print_page": "10",
+   "print_section": "AR",
+   "pub_date": "2023-12-01T10:02:35Z",
+   "section_name": "Movies",
+   "snippet": "It was a terrific year for film, whether art house or mainstream, even if the main subject the movies wrestled with was deeply pessimistic.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/259965a5-1dcd-5fee-9bc5-ba8c5a61c202",
+   "web_url": "https://www.nytimes.com/2023/12/01/movies/best-movies-2023.html",
+   "word_count": 3290
+  }
+ ]
+}

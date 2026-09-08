@@ -1,0 +1,267 @@
+{
+ "company": "Firefly Aerospace",
+ "query": "\"Firefly Aerospace\"",
+ "month": "2023-12",
+ "begin_date": "20231201",
+ "end_date": "20231231",
+ "fetched_at": "2026-09-08T04:39:02.247634+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Here is a list of people who have jumped from the Pentagon and other government posts into jobs with venture capitalists that are backing defense technology startups.",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Pentagon Road to Venture Capital",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/d72158bb-d4d0-5b53-81a2-66d9e3da840e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Equity",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Defense Contracts",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Defense Department",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Anduril Industries Inc",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Capella Space Inc",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Carlyle Group LP",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Clarifai Inc",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Defense Intelligence Agency",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "Franklin Templeton Limited Duration Income Trust",
+     "rank": 14
+    },
+    {
+     "name": "Organization",
+     "value": "Impulse Space Inc",
+     "rank": 15
+    },
+    {
+     "name": "Organization",
+     "value": "Innovative Technology",
+     "rank": 16
+    },
+    {
+     "name": "Organization",
+     "value": "Jensen Investment Management Inc",
+     "rank": 17
+    },
+    {
+     "name": "Organization",
+     "value": "Lux Capital",
+     "rank": 18
+    },
+    {
+     "name": "Organization",
+     "value": "MC2",
+     "rank": 19
+    },
+    {
+     "name": "Organization",
+     "value": "National Geospatial-Intelligence Agency",
+     "rank": 20
+    },
+    {
+     "name": "Organization",
+     "value": "National Security Agency",
+     "rank": 21
+    },
+    {
+     "name": "Organization",
+     "value": "National Security Council",
+     "rank": 22
+    },
+    {
+     "name": "Organization",
+     "value": "Paladin Capital Group",
+     "rank": 23
+    },
+    {
+     "name": "Organization",
+     "value": "Palantir Technologies",
+     "rank": 24
+    },
+    {
+     "name": "Organization",
+     "value": "Pine Island Capital Partners LLC",
+     "rank": 25
+    },
+    {
+     "name": "Organization",
+     "value": "Product Red",
+     "rank": 26
+    },
+    {
+     "name": "Organization",
+     "value": "Raytheon Company",
+     "rank": 27
+    },
+    {
+     "name": "Organization",
+     "value": "Saildrone Inc",
+     "rank": 28
+    },
+    {
+     "name": "Organization",
+     "value": "Shield AI",
+     "rank": 29
+    },
+    {
+     "name": "Person",
+     "value": "Flournoy, Michele A",
+     "rank": 30
+    },
+    {
+     "name": "Person",
+     "value": "Esper, Mark T",
+     "rank": 31
+    },
+    {
+     "name": "Person",
+     "value": "McCarthy, Ryan D",
+     "rank": 32
+    },
+    {
+     "name": "Person",
+     "value": "Chertoff, Michael",
+     "rank": 33
+    },
+    {
+     "name": "Person",
+     "value": "Howell, Scott N",
+     "rank": 34
+    },
+    {
+     "name": "Person",
+     "value": "Inglis, Chris",
+     "rank": 35
+    },
+    {
+     "name": "Person",
+     "value": "McMaster, H R",
+     "rank": 36
+    },
+    {
+     "name": "Person",
+     "value": "Miller, Daniel",
+     "rank": 37
+    },
+    {
+     "name": "Person",
+     "value": "Minihan, Kenneth A",
+     "rank": 38
+    },
+    {
+     "name": "Person",
+     "value": "Mullen, Michael G",
+     "rank": 39
+    },
+    {
+     "name": "Person",
+     "value": "O'Donnell, Chris",
+     "rank": 40
+    },
+    {
+     "name": "Person",
+     "value": "Perna, Gustave F",
+     "rank": 41
+    },
+    {
+     "name": "Person",
+     "value": "Selva, Paul J",
+     "rank": 42
+    },
+    {
+     "name": "Person",
+     "value": "Spencer, Richard V",
+     "rank": 43
+    }
+   ],
+   "multimedia": {
+    "caption": "Raj Shah, left, and Michael Brown, former military officials, have joined Shield Capital.",
+    "credit": "Mark Abramson for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/12/22/multimedia/00dc-vcguide-01-zfkt/00dc-vcguide-01-zfkt-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/12/22/multimedia/00dc-vcguide-01-zfkt/00dc-vcguide-01-zfkt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-12-30T14:13:37Z",
+   "section_name": "U.S.",
+   "snippet": "Here is a list of people who have jumped from the Pentagon and other government posts into jobs with venture capitalists that are backing defense technology startups.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/d72158bb-d4d0-5b53-81a2-66d9e3da840e",
+   "web_url": "https://www.nytimes.com/2023/12/30/us/politics/the-pentagon-road-to-venture-capital.html",
+   "word_count": 1673
+  }
+ ]
+}

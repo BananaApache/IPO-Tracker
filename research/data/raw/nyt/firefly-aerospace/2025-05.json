@@ -1,0 +1,102 @@
+{
+ "company": "Firefly Aerospace",
+ "query": "\"Firefly Aerospace\"",
+ "month": "2025-05",
+ "begin_date": "20250501",
+ "end_date": "20250531",
+ "fetched_at": "2026-09-08T05:19:50.457859+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Physicists who record rocket launches and landings are learning important facts about the acoustics of spaceflight.",
+   "byline": {
+    "original": "By Kenneth Chang and Jonathan Corum"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Sonic Detectives Want to Help SpaceX Listen Up",
+    "kicker": "",
+    "print_headline": "Sonic Sleuths Tail Noisy Rockets"
+   },
+   "_id": "nyt://article/d3522d49-4e61-53a5-ac0e-51d6bd30ac75",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Noise",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Acoustics",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Physics",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Ears and Hearing",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Research",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Gee, Kent L",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "1",
+   "print_section": "D",
+   "pub_date": "2025-05-26T09:00:45Z",
+   "section_name": "Science",
+   "snippet": "Physicists who record rocket launches and landings are learning important facts about the acoustics of spaceflight.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/d3522d49-4e61-53a5-ac0e-51d6bd30ac75",
+   "web_url": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+   "word_count": 1975
+  }
+ ]
+}

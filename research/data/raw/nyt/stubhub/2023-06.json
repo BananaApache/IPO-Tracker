@@ -1,0 +1,57 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2023-06",
+ "begin_date": "20230601",
+ "end_date": "20230630",
+ "fetched_at": "2026-09-08T04:34:50.096428+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Joel Fagliano takes a turn at a back-and-forth variety puzzle.",
+   "byline": {
+    "original": "By Caitlin Lovinger"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Variety: Marching Bands",
+    "kicker": "Sunday Variety Column",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/58458433-9415-5677-a330-bd3064c91804",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Fagliano, Joel (Crossword Constructor)",
+     "rank": 1
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    },
+    "thumbnail": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    }
+   },
+   "news_desk": "Games",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-06-23T02:02:01Z",
+   "section_name": "Gameplay",
+   "snippet": "Joel Fagliano takes a turn at a back-and-forth variety puzzle.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/58458433-9415-5677-a330-bd3064c91804",
+   "web_url": "https://www.nytimes.com/2023/06/22/crosswords/variety-marching-bands.html",
+   "word_count": 684
+  }
+ ]
+}

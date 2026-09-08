@@ -1,0 +1,82 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2023-03",
+ "begin_date": "20230301",
+ "end_date": "20230331",
+ "fetched_at": "2026-09-08T04:27:26.076085+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Seung Song said his identity was stolen and used to buy $5,000 worth of gun components from an online dealer using a buy now, pay later service.",
+   "byline": {
+    "original": "By Matthew Goldstein"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Tangled Tale of Gun Parts, Identity Theft and the Ease of Buy Now, Pay Later",
+    "kicker": "",
+    "print_headline": "Tale of Gun Parts, Identity Theft and the Ease of Buy Now, Pay Later"
+   },
+   "_id": "nyt://article/4b3bf653-452e-576c-9d44-139134ccae92",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Firearms",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Identity Theft",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Gun Control",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Shopping and Retail",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Frauds and Swindling",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Credova Financial LLC",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Janie Osborne for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/02/23/multimedia/00credova-01-bvkl/00credova-01-bvkl-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/02/23/multimedia/00credova-01-bvkl/00credova-01-bvkl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "2",
+   "print_section": "B",
+   "pub_date": "2023-03-05T10:00:16Z",
+   "section_name": "Business",
+   "snippet": "Seung Song said his identity was stolen and used to buy $5,000 worth of gun components from an online dealer using a buy now, pay later service.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4b3bf653-452e-576c-9d44-139134ccae92",
+   "web_url": "https://www.nytimes.com/2023/03/05/business/gun-parts-identity-theft-buy-now-pay-later.html",
+   "word_count": 1099
+  }
+ ]
+}

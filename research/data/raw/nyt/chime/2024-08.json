@@ -1,0 +1,102 @@
+{
+ "company": "Chime",
+ "query": "\"Chime\" \"banking\"",
+ "month": "2024-08",
+ "begin_date": "20240801",
+ "end_date": "20240831",
+ "fetched_at": "2026-09-08T05:02:38.373691+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The collapse of a little-known intermediary named Synapse Financial Technologies has put a spotlight on the risk that customers face when using popular banking start-ups.",
+   "byline": {
+    "original": "By Rob Copeland"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Your Online Lender May Not Be a Bank. Here\u2019s How to Keep Your Money Safe.",
+    "kicker": "",
+    "print_headline": "Is Your Online Lender a Bank? Here\u2019s How to Keep Your Money Safe."
+   },
+   "_id": "nyt://article/e357e6cf-bc05-5c17-af3e-341a68fd9e0f",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Deposit Insurance",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Deposit Insurance Corp",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Synapse Technology",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Mobile Applications",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Zak Bickel/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/07/business/00fakebank/00fakebank-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/07/business/00fakebank/00fakebank-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2024-08-10T09:00:45Z",
+   "section_name": "Business",
+   "snippet": "The collapse of a little-known intermediary named Synapse Financial Technologies has put a spotlight on the risk that customers face when using popular banking start-ups.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/e357e6cf-bc05-5c17-af3e-341a68fd9e0f",
+   "web_url": "https://www.nytimes.com/2024/08/10/business/online-lending-banking-money-risks.html",
+   "word_count": 976
+  }
+ ]
+}

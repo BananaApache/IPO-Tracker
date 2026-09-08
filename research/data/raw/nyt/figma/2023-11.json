@@ -1,0 +1,97 @@
+{
+ "company": "Figma",
+ "query": "\"Figma\"",
+ "month": "2023-11",
+ "begin_date": "20231101",
+ "end_date": "20231130",
+ "fetched_at": "2026-09-08T04:36:26.122907+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "A better-than-expected Consumer Price Index report triggered a big surge in stocks and bonds, as investors bet that interest rates will begin to fall.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler and Michael J. de la Merced"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Inflation Rally Goes Global",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/b8f9b45e-b5e3-5f11-84a4-b197cda519de",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Price Index",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Great Britain",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Upbeat investors see Tuesday\u2019s inflation data as a possible turning point in the Fed\u2019s battle against soaring prices.",
+    "credit": "Michael M. Santiago/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/11/15/multimedia/15db-markets-gjcv/15db-markets-gjcv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/11/15/multimedia/15db-markets-gjcv/15db-markets-gjcv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-11-15T12:39:41Z",
+   "section_name": "Business",
+   "snippet": "A better-than-expected Consumer Price Index report triggered a big surge in stocks and bonds, as investors bet that interest rates will begin to fall.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/b8f9b45e-b5e3-5f11-84a4-b197cda519de",
+   "web_url": "https://www.nytimes.com/2023/11/15/business/dealbook/inflation-markets-interest-rates.html",
+   "word_count": 1815
+  }
+ ]
+}

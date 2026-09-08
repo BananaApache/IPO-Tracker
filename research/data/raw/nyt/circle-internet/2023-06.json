@@ -1,0 +1,10 @@
+{
+ "company": "Circle Internet",
+ "query": "\"Circle\" \"stablecoin\"",
+ "month": "2023-06",
+ "begin_date": "20230601",
+ "end_date": "20230630",
+ "fetched_at": "2026-09-08T04:31:14.181739+00:00",
+ "hits": 0,
+ "docs": []
+}

@@ -1,0 +1,163 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2025-03",
+ "begin_date": "20250301",
+ "end_date": "20250331",
+ "fetched_at": "2026-09-08T05:25:02.549741+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "DoorDash said the arrangement with the financial tech service Klarna would allow customers to defer payments on orders such as takeout from restaurants, makeup and electronics.",
+   "byline": {
+    "original": "By Amanda Holpuch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "DoorDash Announces \u2018Buy Now, Pay Later\u2019 Partnership With Klarna",
+    "kicker": "",
+    "print_headline": "A \u2018Buy Now, Pay Later\u2019 Alliance for Takeout"
+   },
+   "_id": "nyt://article/dce24400-08fd-57ec-b450-991be67d9adb",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "DoorDash (Mobile App)",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Delivery Services",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Credit Cards",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Mobile Commerce and Payments",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Behavior",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Consumer Financial Protection Bureau",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The financial tech company Klarna and DoorDash have started an arrangement that would allow customers to defer payments on purchases greater than $35.",
+    "credit": "Loulou d'Aki for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/23/multimedia/23xp-klarna1-qfkw/23xp-klarna1-qfkw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/23/multimedia/23xp-klarna1-qfkw/23xp-klarna1-qfkw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2025-03-23T20:18:47Z",
+   "section_name": "Business",
+   "snippet": "DoorDash said the arrangement with the financial tech service Klarna would allow customers to defer payments on orders such as takeout from restaurants, makeup and electronics.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/dce24400-08fd-57ec-b450-991be67d9adb",
+   "web_url": "https://www.nytimes.com/2025/03/23/business/doordash-klarna-payments.html",
+   "word_count": 722
+  },
+  {
+   "abstract": "A lawsuit by Rippling accuses a top competitor, Deel, of placing a mole in its ranks \u2014 which it uncovered via a \u201choneypot\u201d trap on Slack.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Accusations of Corporate Espionage Shake a Software Rivalry",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/e931851e-d6d9-5675-bd3c-eb8d7186675c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Suits and Litigation (Civil)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Industrial Espionage",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Human Resources",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Spiro, Alex (1982- )",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Slack Technologies Inc",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Conrad, Parker",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Rippling, an H.R. start-up led by the entrepreneur Parker Conrad, is accusing a top rival, Deel, of placing a mole within its ranks to steal confidential information.",
+    "credit": "Kimberly White/Getty Images for TechCrunch",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/17/world/17DB-newsletter-conrad-rippling/DB-newsletter-articleLarge.jpg",
+     "height": 413,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/17/world/17DB-newsletter-conrad-rippling/DB-newsletter-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-17T12:01:47Z",
+   "section_name": "Business",
+   "snippet": "A lawsuit by Rippling accuses a top competitor, Deel, of placing a mole in its ranks \u2014 which it uncovered via a \u201choneypot\u201d trap on Slack.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/e931851e-d6d9-5675-bd3c-eb8d7186675c",
+   "web_url": "https://www.nytimes.com/2025/03/17/business/dealbook/rippling-deel-corporate-spy.html",
+   "word_count": 1966
+  }
+ ]
+}

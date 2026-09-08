@@ -1,0 +1,806 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2024-08",
+ "begin_date": "20240801",
+ "end_date": "20240831",
+ "fetched_at": "2026-09-08T04:35:26.159024+00:00",
+ "hits": 25,
+ "docs": [
+  {
+   "abstract": "Jared Isaacman is leading three other privately trained astronauts on a SpaceX vehicle for Polaris Dawn, a mission that will include a daring spacewalk.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "For His Second Trip to Space, Billionaire Has Grander, Riskier Aspirations",
+    "kicker": "",
+    "print_headline": "Polaris Dawn Mission Will Attempt First Spacewalk by Private Astronauts"
+   },
+   "_id": "nyt://article/13b1afb8-19fa-516b-b138-b5cc1c55cf33",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Research",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "From left, members of the Polaris Dawn crew in their spacesuits: Anna Menon, a SpaceX engineer; Scott Poteet, a retired U.S. Air Force pilot; Jared Isaacman, founder and chief of the company Shift4; and Sarah Gillis, who oversees astronaut training at SpaceX.",
+    "credit": "SpaceX",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/23/multimedia/23polaris-dawn-01-ptmb/23polaris-dawn-01-ptmb-articleLarge.jpg",
+     "height": 396,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/23/multimedia/23polaris-dawn-01-ptmb/23polaris-dawn-01-ptmb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "11",
+   "print_section": "A",
+   "pub_date": "2024-08-26T06:58:12Z",
+   "section_name": "Science",
+   "snippet": "Jared Isaacman is leading three other privately trained astronauts on a SpaceX vehicle for Polaris Dawn, a mission that will include a daring spacewalk.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/13b1afb8-19fa-516b-b138-b5cc1c55cf33",
+   "web_url": "https://www.nytimes.com/2024/08/26/science/spacex-polaris-dawn-mission-spacewalk.html",
+   "word_count": 1548
+  },
+  {
+   "abstract": "The agency had insisted for a couple of months that it was confident that Suni Williams and Butch Wilmore would return on Starliner.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025",
+    "kicker": "",
+    "print_headline": "Starliner Astronauts Might Fly Home on SpaceX Next Year, NASA Says"
+   },
+   "_id": "nyt://article/3aded76f-e86e-5437-a38e-ec56373bf07a",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Williams, Sunita L",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Wilmore, Barry E (Butch) (1962- )",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "A long exposure of the Boeing Starliner spacecraft docked with the International Space Station on July 3 as it soared over western China.",
+    "credit": "JSC/NASA",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/07/science/07starliner/07starliner-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/07/science/07starliner/07starliner-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "17",
+   "print_section": "A",
+   "pub_date": "2024-08-07T18:55:02Z",
+   "section_name": "Science",
+   "snippet": "The agency had insisted for a couple of months that it was confident that Suni Williams and Butch Wilmore would return on Starliner.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/3aded76f-e86e-5437-a38e-ec56373bf07a",
+   "web_url": "https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html",
+   "word_count": 1110
+  },
+  {
+   "abstract": "Redundancy, it seems, has paid off.",
+   "byline": {
+    "original": "By Neel V. Patel"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Faced With the Boeing Starliner\u2019s Flaws, NASA Gets a Couple of Things Right",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/de3619b7-f8cd-56a5-b47f-a85b7b099e93",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Aviation Accidents, Safety and Disasters",
+     "rank": 4
+    },
+    {
+     "name": "Keyword",
+     "value": "Starliner",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Williams, Sunita L",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Wilmore, Barry E (Butch) (1962- )",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "NASA/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/26/multimedia/26opinion-thepoint-patel-starliner-hpzk/26opinion-thepoint-patel-starliner-hpzk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/26/multimedia/26opinion-thepoint-patel-starliner-hpzk/26opinion-thepoint-patel-starliner-hpzk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-08-27T09:05:25Z",
+   "section_name": "Opinion",
+   "snippet": "Redundancy, it seems, has paid off.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/de3619b7-f8cd-56a5-b47f-a85b7b099e93",
+   "web_url": "https://www.nytimes.com/live/2024/08/27/opinion/thepoint/nasa-starliner-astronauts-space",
+   "word_count": 396
+  },
+  {
+   "abstract": "Persistent concerns with the vehicle\u2019s propulsion systems mean Suni Williams and Butch Wilmore will return home next year in a SpaceX vehicle.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA Extends Boeing Starliner Astronauts\u2019 Space Station Stay to 2025",
+    "kicker": "",
+    "print_headline": "Starliner Astronauts Will Remain at Station Into 2025, NASA Says"
+   },
+   "_id": "nyt://article/bb9759b5-db92-512f-aca5-ab8fe7d2407c",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Williams, Sunita L",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Wilmore, Barry E (Butch) (1962- )",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Butch Wilmore and Suni Williams on the International Space Station\u2019s Harmony module in July. The two astronauts docked at the space station as part of a test flight of the Boeing Starliner, a space vehicle.",
+    "credit": "NASA, via Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/24/multimedia/24starliner-pfhm/24starliner-pfhm-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/24/multimedia/24starliner-pfhm/24starliner-pfhm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "19",
+   "print_section": "A",
+   "pub_date": "2024-08-24T09:05:33Z",
+   "section_name": "Science",
+   "snippet": "Persistent concerns with the vehicle\u2019s propulsion systems mean Suni Williams and Butch Wilmore will return home next year in a SpaceX vehicle.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/bb9759b5-db92-512f-aca5-ab8fe7d2407c",
+   "web_url": "https://www.nytimes.com/2024/08/24/science/nasa-boeing-starliner-astronauts.html",
+   "word_count": 1516
+  },
+  {
+   "abstract": "Mr. Musk has become a vocal supporter of Mr. Trump. It wasn\u2019t always that way.",
+   "byline": {
+    "original": "By Kate Conger"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Is Using X to Push His Views, and Donald Trump",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/ecff08d1-dfa3-50d2-9780-995563960b11",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Endorsements",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rumors and Misinformation",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk, now more than ever, is using X to promote his personal political views.",
+    "credit": "Anna Moneymaker/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/12/multimedia/12elon-views-1-cwtv/12elon-views-1-cwtv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/12/multimedia/12elon-views-1-cwtv/12elon-views-1-cwtv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-08-12T19:46:00Z",
+   "section_name": "Technology",
+   "snippet": "Mr. Musk has become a vocal supporter of Mr. Trump. It wasn\u2019t always that way.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ecff08d1-dfa3-50d2-9780-995563960b11",
+   "web_url": "https://www.nytimes.com/2024/08/12/technology/elon-musk-political-views.html",
+   "word_count": 471
+  },
+  {
+   "abstract": "The United Automobile Workers union accused the pair of threatening workers during their livestreamed conversation on Monday.",
+   "byline": {
+    "original": "By Tim Balk"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "U.A.W. Files Labor Charges Against Trump and Musk Over Interview",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/34cd468c-ab34-5120-b5b6-bdbb26f5f9d9",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Organized Labor",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Labor and Jobs",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "National Labor Relations Board",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "United Automobile Workers",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Fain, Shawn",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Members of the United Automobile Workers demonstrating in 2023.",
+    "credit": "Patrick T. Fallon/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/13/multimedia/13election-live-uaw-trump-qkpg/13election-live-uaw-trump-qkpg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/13/multimedia/13election-live-uaw-trump-qkpg/13election-live-uaw-trump-qkpg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Politics",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-08-13T21:57:58Z",
+   "section_name": "U.S.",
+   "snippet": "The United Automobile Workers union accused the pair of threatening workers during their livestreamed conversation on Monday.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/34cd468c-ab34-5120-b5b6-bdbb26f5f9d9",
+   "web_url": "https://www.nytimes.com/2024/08/13/us/politics/uaw-trump-musk-charges.html",
+   "word_count": 433
+  },
+  {
+   "abstract": "Mr. Musk, who has long criticized leftist politicians, called President Nicol\u00e1s Maduro a \u201cdictator\u201d and compared him to a donkey.",
+   "byline": {
+    "original": "By Ryan Mac and Simon Romero"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Blasts Venezuela\u2019s Maduro in an Escalating War of Words",
+    "kicker": "",
+    "print_headline": "Musk Ramps Up His Rhetoric Against the Venezuelan President"
+   },
+   "_id": "nyt://article/4ba98a99-954c-520e-9f3f-3ef74ddbad3e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Socialism (Theory and Philosophy)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Elections",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "International Relations",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Maduro, Nicolas",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 13
+    },
+    {
+     "name": "Location",
+     "value": "Venezuela",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "\u201cLet\u2019s go for it, Elon Musk,\u201d said President Nicol\u00e1s Maduro, shown on Wednesday during a news conference in Caracas.",
+    "credit": "Alejandro Cegarra for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/01/multimedia/maduro-musk-new-gkpj/maduro-musk-new-gkpj-articleLarge.jpg",
+     "height": 450,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/01/multimedia/maduro-musk-new-gkpj/maduro-musk-new-gkpj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2024-08-01T09:06:12Z",
+   "section_name": "Technology",
+   "snippet": "Mr. Musk, who has long criticized leftist politicians, called President Nicol\u00e1s Maduro a \u201cdictator\u201d and compared him to a donkey.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4ba98a99-954c-520e-9f3f-3ef74ddbad3e",
+   "web_url": "https://www.nytimes.com/2024/08/01/technology/elon-musk-maduro-venezuela.html",
+   "word_count": 934
+  },
+  {
+   "abstract": "Plus, a Hawaiian town debates how to rebuild.",
+   "byline": {
+    "original": "By Tracy Mumford, Mike Baker, Ian Stewart and Jessica Metzger"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Campaign for the Midwest, and Antiracism Demonstrations in the U.K.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/e096a465-aa1a-54a9-9ee1-9a69678cb08f",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 1
+    },
+    {
+     "name": "Location",
+     "value": "Southport (England)",
+     "rank": 2
+    },
+    {
+     "name": "Location",
+     "value": "England",
+     "rank": 3
+    }
+   ],
+   "multimedia": {
+    "caption": "Senator JD Vance of Ohio, left, at a campaign stop in Michigan on Wednesday. Gov. Tim Walz of Minnesota, right, at a campaign event in Wisconsin also on Wednesday.",
+    "credit": "Jim Vondruska for The New York Times, Jenn Ackerman for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/08/multimedia/08headlines-JD-cvhf/08headlines-JD-cvhf-articleLarge-v2.jpg",
+     "height": 480,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/08/multimedia/08headlines-JD-cvhf/08headlines-JD-cvhf-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Podcasts",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-08-08T10:01:39Z",
+   "section_name": "Podcasts",
+   "snippet": "Plus, a Hawaiian town debates how to rebuild.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/e096a465-aa1a-54a9-9ee1-9a69678cb08f",
+   "web_url": "https://www.nytimes.com/2024/08/08/podcasts/harris-walz-vance-wisconsin-michigan-counterprotest-uk-riots.html",
+   "word_count": 129
+  },
+  {
+   "abstract": "The billionaire owner of the social media platform X and Tesla\u2019s chief executive will deliver the keynote speech at an annual event.",
+   "byline": {
+    "original": "By Helene Cooper"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk to Speak to West Point Cadets",
+    "kicker": "",
+    "print_headline": "Musk Is Set to Address West Point Cadets, Highlighting His Military Ties but Drawing Criticism"
+   },
+   "_id": "nyt://article/46fc3a45-6f37-5fcb-8b1c-dec66e1475d7",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "West Point (NY)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "United States Military Academy",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk\u2019s appearance at the United States Military Academy\u2019s convocation next Friday has been billed as a \u201cfireside chat.\u201d ",
+    "credit": "Pool photo by Patrick Pleul",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09DC-Military-ckwz/09DC-Military-ckwz-articleLarge.jpg",
+     "height": 402,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09DC-Military-ckwz/09DC-Military-ckwz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "20",
+   "print_section": "A",
+   "pub_date": "2024-08-09T20:48:04Z",
+   "section_name": "U.S.",
+   "snippet": "The billionaire owner of the social media platform X and Tesla\u2019s chief executive will deliver the keynote speech at an annual event.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/46fc3a45-6f37-5fcb-8b1c-dec66e1475d7",
+   "web_url": "https://www.nytimes.com/2024/08/09/us/politics/elon-musk-west-point.html",
+   "word_count": 411
+  },
+  {
+   "abstract": "The move suggests that Mr. Musk, the world\u2019s richest person, is preparing to become even more involved in the presidential campaign and beyond.",
+   "byline": {
+    "original": "By Theodore Schleifer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk, Eyeing Edge for Trump, Hires Republican Political Adviser",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/f7518402-580f-5bed-8c04-36768a5b275c",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "McCarthy, Kevin (1965- )",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Pharmaceutical Research and Manufacturers of America",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "The hire marks a distinct strategic change for Mr. Musk, who has been a mercurial political and philanthropic donor for years.",
+    "credit": "Kenny Holston/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/28/multimedia/28election-live-musk-adviser-qcpw/28election-live-musk-adviser-qcpw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/28/multimedia/28election-live-musk-adviser-qcpw/28election-live-musk-adviser-qcpw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Politics",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-08-28T19:16:11Z",
+   "section_name": "U.S.",
+   "snippet": "The move suggests that Mr. Musk, the world\u2019s richest person, is preparing to become even more involved in the presidential campaign and beyond.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/f7518402-580f-5bed-8c04-36768a5b275c",
+   "web_url": "https://www.nytimes.com/2024/08/28/us/politics/elon-musk-political-adviser.html",
+   "word_count": 405
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2025-12",
+ "begin_date": "20251201",
+ "end_date": "20251231",
+ "fetched_at": "2026-09-08T05:37:38.544899+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Consumers are focusing on value and financing purchases to complete their shopping lists.",
+   "byline": {
+    "original": "By Emmett Lindner"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Shoppers Turn to Discounts and Debt, but Not Just for Holidays",
+    "kicker": "",
+    "print_headline": "Discounts  And Debt Are Powering Holiday Season"
+   },
+   "_id": "nyt://article/23290ce0-8ac2-5a8c-84e5-e0c31656178d",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Consumer Behavior",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Discount Selling",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Shopping and Retail",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Christmas",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Black Friday and Cyber Monday (Shopping)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Gifts",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "RetailMeNot.com",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "United States",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/26/arts/Screenshot-2025-11-26-at-12/Screenshot-2025-11-26-at-12-articleLarge.png",
+     "height": 601,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/26/arts/Screenshot-2025-11-26-at-12/Screenshot-2025-11-26-at-12-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-12-03T16:25:38Z",
+   "section_name": "Business",
+   "snippet": "Consumers are focusing on value and financing purchases to complete their shopping lists.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/23290ce0-8ac2-5a8c-84e5-e0c31656178d",
+   "web_url": "https://www.nytimes.com/2025/12/03/business/holiday-shop-deals.html",
+   "word_count": 847
+  }
+ ]
+}

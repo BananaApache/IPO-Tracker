@@ -1,0 +1,247 @@
+{
+ "from": "2023-07-01",
+ "to": "2023-07-31",
+ "fetched_at": "2026-09-08T04:22:14.646294+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2023-07-27",
+   "exchange": "NYSE",
+   "name": "SURF AIR MOBILITY INC.",
+   "numberOfShares": 20423622,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "SRFM",
+   "totalSharesValue": 408472440
+  },
+  {
+   "date": "2023-07-27",
+   "exchange": "NASDAQ Capital",
+   "name": "ParaZero Technologies Ltd.",
+   "numberOfShares": 1950000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "PRZO",
+   "totalSharesValue": 7800000
+  },
+  {
+   "date": "2023-07-27",
+   "exchange": null,
+   "name": "PreTam Holdings Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PFAB",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2023-07-26",
+   "exchange": null,
+   "name": "KinderCare Learning Companies, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-07-26",
+   "exchange": "NYSE",
+   "name": "Haymaker Acquisition Corp. 4",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HYACU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2023-07-26",
+   "exchange": null,
+   "name": "GRD Biotechnology Acquisition Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CGRD",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2023-07-26",
+   "exchange": null,
+   "name": "Hand in Hand Metaverse Marriage Technology Co., Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HAND",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2023-07-25",
+   "exchange": "NASDAQ Capital",
+   "name": "WARRANTEE INC.",
+   "numberOfShares": 2400000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "WRNT",
+   "totalSharesValue": 9600000
+  },
+  {
+   "date": "2023-07-25",
+   "exchange": "NASDAQ Global",
+   "name": "Keen Vision Acquisition Corp.",
+   "numberOfShares": 13000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KVACU",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2023-07-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Earlyworks Co., Ltd.",
+   "numberOfShares": 1200000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "ELWS",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2023-07-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Janover Inc.",
+   "numberOfShares": 1619590,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "JNVR",
+   "totalSharesValue": 6478360
+  },
+  {
+   "date": "2023-07-24",
+   "exchange": null,
+   "name": "Super Plus Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-07-21",
+   "exchange": "NASDAQ Global",
+   "name": "Turnstone Biologics Corp.",
+   "numberOfShares": 6666667,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "TSBX",
+   "totalSharesValue": 80000004
+  },
+  {
+   "date": "2023-07-19",
+   "exchange": "NASDAQ Global",
+   "name": "Oddity Tech Ltd",
+   "numberOfShares": 12105261,
+   "price": "35.00",
+   "status": "priced",
+   "symbol": "ODD",
+   "totalSharesValue": 423684135
+  },
+  {
+   "date": "2023-07-18",
+   "exchange": null,
+   "name": "Aleph Group, Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-07-17",
+   "exchange": null,
+   "name": "IMA Tech Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2023-07-14",
+   "exchange": "NASDAQ Global",
+   "name": "Sagimet Biosciences Inc.",
+   "numberOfShares": 5312500,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "SGMT",
+   "totalSharesValue": 85000000
+  },
+  {
+   "date": "2023-07-14",
+   "exchange": "NASDAQ Global",
+   "name": "Apogee Therapeutics, Inc.",
+   "numberOfShares": 17650000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "APGE",
+   "totalSharesValue": 300050000
+  },
+  {
+   "date": "2023-07-14",
+   "exchange": "NASDAQ Global",
+   "name": "Nabors Energy Transition Corp. II",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NETDU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2023-07-12",
+   "exchange": "NASDAQ Global",
+   "name": "Bowen Acquisition Corp",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BOWNU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2023-07-12",
+   "exchange": "NASDAQ Capital",
+   "name": "60 DEGREES PHARMACEUTICALS, INC.",
+   "numberOfShares": 1415095,
+   "price": "5.30",
+   "status": "priced",
+   "symbol": "SXTP",
+   "totalSharesValue": 7500004
+  },
+  {
+   "date": "2023-07-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Prestige Wealth Inc.",
+   "numberOfShares": 1000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "PWM",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2023-07-05",
+   "exchange": null,
+   "name": "SIXGOMEOW LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LGM",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2023-07-03",
+   "exchange": null,
+   "name": "Rise Oil & Gas, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "RISE",
+   "totalSharesValue": 11500000
+  }
+ ]
+}

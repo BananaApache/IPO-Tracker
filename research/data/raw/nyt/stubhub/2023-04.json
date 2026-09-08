@@ -1,0 +1,102 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2023-04",
+ "begin_date": "20230401",
+ "end_date": "20230430",
+ "fetched_at": "2026-09-08T04:30:02.161713+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Buying concert tickets has become a mess of high prices and surcharges, anxiety-inducing registrations and pervasive scalping as some of pop\u2019s biggest acts hit the road again.",
+   "byline": {
+    "original": "By Ben Sisario"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Live Music Is Roaring Back. But Fans Are Reeling From Sticker Shock.",
+    "kicker": "",
+    "print_headline": "Concert Seats A Pricey Mess, Angering Fans"
+   },
+   "_id": "nyt://article/5981e898-a4d1-51aa-96d5-14826e28d6de",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Rap and Hip-Hop",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Box Office Sales",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Fans (Persons)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Ticket Scalping",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Ticketmaster",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Live Nation Entertainment Inc",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Antitrust Laws and Competition Issues",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "audio-neutral-informative",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Bruce Springsteen sold some tickets for his latest tour with the E Street Band using dynamic pricing, which fluctuated with demand, alienating some longtime fans.",
+    "credit": "Nina Westervelt for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/04/06/multimedia/06concert-costs-02-hbcp/06concert-costs-02-hbcp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/04/06/multimedia/06concert-costs-02-hbcp/06concert-costs-02-hbcp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Culture",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2023-04-07T13:05:00Z",
+   "section_name": "Arts",
+   "snippet": "Buying concert tickets has become a mess of high prices and surcharges, anxiety-inducing registrations and pervasive scalping as some of pop\u2019s biggest acts hit the road again.",
+   "source": "The New York Times",
+   "subsection_name": "Music",
+   "type_of_material": "News",
+   "uri": "nyt://article/5981e898-a4d1-51aa-96d5-14826e28d6de",
+   "web_url": "https://www.nytimes.com/2023/04/07/arts/music/concert-ticket-prices.html",
+   "word_count": 1593
+  }
+ ]
+}

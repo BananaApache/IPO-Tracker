@@ -1,0 +1,447 @@
+{
+ "from": "2019-05-01",
+ "to": "2019-05-31",
+ "fetched_at": "2026-09-08T04:20:34.550338+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2019-05-31",
+   "exchange": null,
+   "name": "MAXQ AI LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-05-30",
+   "exchange": "NASDAQ Capital",
+   "name": "PROFICIENT ALPHA ACQUISITION CORP",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PAACU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2019-05-24",
+   "exchange": null,
+   "name": "CIBUS GLOBAL, LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-05-24",
+   "exchange": null,
+   "name": "CIBUS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-05-24",
+   "exchange": null,
+   "name": "FLUX POWER HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 14999994
+  },
+  {
+   "date": "2019-05-24",
+   "exchange": null,
+   "name": "BAIKANG BIOLOGICAL GROUP HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BKSW",
+   "totalSharesValue": 18000000
+  },
+  {
+   "date": "2019-05-23",
+   "exchange": "NASDAQ Global Select",
+   "name": "BICYCLE THERAPEUTICS PLC",
+   "numberOfShares": 4333333,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "BCYC",
+   "totalSharesValue": 60666662
+  },
+  {
+   "date": "2019-05-23",
+   "exchange": "NASDAQ Global Select",
+   "name": "IDEAYA BIOSCIENCES, INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IDYA",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2019-05-23",
+   "exchange": "NASDAQ Global Select",
+   "name": "RATTLER MIDSTREAM LP",
+   "numberOfShares": 38000000,
+   "price": "17.50",
+   "status": "priced",
+   "symbol": "RTLR",
+   "totalSharesValue": 665000000
+  },
+  {
+   "date": "2019-05-22",
+   "exchange": null,
+   "name": "PRIAM PROPERTIES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PRMI",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2019-05-21",
+   "exchange": "NASDAQ Capital",
+   "name": "GX ACQUISITION CORP.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GXGXU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2019-05-17",
+   "exchange": "NYSE",
+   "name": "FASTLY, INC.",
+   "numberOfShares": 11250000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "FSLY",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2019-05-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "LUCKIN COFFEE INC.",
+   "numberOfShares": 33000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LK",
+   "totalSharesValue": 561000000
+  },
+  {
+   "date": "2019-05-17",
+   "exchange": "NYSE",
+   "name": "AVANTOR, INC.",
+   "numberOfShares": 207000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "AVTR",
+   "totalSharesValue": 2898000000
+  },
+  {
+   "date": "2019-05-16",
+   "exchange": null,
+   "name": "MPM HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-05-15",
+   "exchange": "NYSE",
+   "name": "POSTAL REALTY TRUST, INC.",
+   "numberOfShares": 4500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "PSTL",
+   "totalSharesValue": 76500000
+  },
+  {
+   "date": "2019-05-14",
+   "exchange": null,
+   "name": "VINE RESOURCES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-05-14",
+   "exchange": "NASDAQ Capital",
+   "name": "AGBA ACQUISITION LTD",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AGBAU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2019-05-14",
+   "exchange": "NASDAQ Global",
+   "name": "APPLIED THERAPEUTICS INC.",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "APLT",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2019-05-10",
+   "exchange": "NYSE",
+   "name": "UBER TECHNOLOGIES, INC",
+   "numberOfShares": 180000000,
+   "price": "45.00",
+   "status": "priced",
+   "symbol": "UBER",
+   "totalSharesValue": 8100000000
+  },
+  {
+   "date": "2019-05-10",
+   "exchange": "NASDAQ Capital",
+   "name": "DIAMOND EAGLE ACQUISITION CORP. \\ DE",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DEACU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2019-05-10",
+   "exchange": "NASDAQ Global",
+   "name": "SONIM TECHNOLOGIES INC",
+   "numberOfShares": 3571429,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "SONM",
+   "totalSharesValue": 39285719
+  },
+  {
+   "date": "2019-05-10",
+   "exchange": "NASDAQ Capital",
+   "name": "IMMUNOVANT, INC.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HSACU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2019-05-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "JIAYIN GROUP INC.",
+   "numberOfShares": 3500000,
+   "price": "10.50",
+   "status": "priced",
+   "symbol": "JFIN",
+   "totalSharesValue": 36750000
+  },
+  {
+   "date": "2019-05-09",
+   "exchange": null,
+   "name": "FIRSTCARIBBEAN INTERNATIONAL BANK LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-05-09",
+   "exchange": "NASDAQ Global",
+   "name": "AXCELLA HEALTH INC.",
+   "numberOfShares": 3571428,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "AXLA",
+   "totalSharesValue": 71428560
+  },
+  {
+   "date": "2019-05-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "NEXTCURE, INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "NXTC",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2019-05-09",
+   "exchange": "NYSE",
+   "name": "MAYVILLE ENGINEERING COMPANY, INC.",
+   "numberOfShares": 6250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "MEC",
+   "totalSharesValue": 106250000
+  },
+  {
+   "date": "2019-05-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "MILESTONE PHARMACEUTICALS INC.",
+   "numberOfShares": 5500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "MIST",
+   "totalSharesValue": 82500000
+  },
+  {
+   "date": "2019-05-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "SOUTH PLAINS FINANCIAL, INC.",
+   "numberOfShares": 3380000,
+   "price": "17.50",
+   "status": "priced",
+   "symbol": "SPFI",
+   "totalSharesValue": 59150000
+  },
+  {
+   "date": "2019-05-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "CORTEXYME, INC.",
+   "numberOfShares": 4412000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "CRTX",
+   "totalSharesValue": 75004000
+  },
+  {
+   "date": "2019-05-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "HEADHUNTER GROUP PLC",
+   "numberOfShares": 16304348,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "HHR",
+   "totalSharesValue": 220108698
+  },
+  {
+   "date": "2019-05-08",
+   "exchange": "NYSE",
+   "name": "PARSONS CORP",
+   "numberOfShares": 18518500,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "PSN",
+   "totalSharesValue": 499999500
+  },
+  {
+   "date": "2019-05-08",
+   "exchange": null,
+   "name": "LOVARRA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2019-05-07",
+   "exchange": null,
+   "name": "ISWILL ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-05-07",
+   "exchange": "NASDAQ Global",
+   "name": "TREVI THERAPEUTICS, INC.",
+   "numberOfShares": 5500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TRVI",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2019-05-07",
+   "exchange": "NASDAQ Capital",
+   "name": "LANDCADIA HOLDINGS II, INC.",
+   "numberOfShares": 27500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LCAHU",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2019-05-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "SCIPLAY CORP",
+   "numberOfShares": 22000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "SCPL",
+   "totalSharesValue": 352000000
+  },
+  {
+   "date": "2019-05-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "RED RIVER BANCSHARES INC",
+   "numberOfShares": 600000,
+   "price": "45.00",
+   "status": "priced",
+   "symbol": "RRBI",
+   "totalSharesValue": 27000000
+  },
+  {
+   "date": "2019-05-03",
+   "exchange": "NASDAQ Global",
+   "name": "YUNJI INC.",
+   "numberOfShares": 11000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "YJ",
+   "totalSharesValue": 121000000
+  },
+  {
+   "date": "2019-05-03",
+   "exchange": "NASDAQ Capital",
+   "name": "ATIF HOLDINGS LTD",
+   "numberOfShares": 2074672,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "ATIF",
+   "totalSharesValue": 10373360
+  },
+  {
+   "date": "2019-05-02",
+   "exchange": "NASDAQ Global",
+   "name": "TRANSMEDICS GROUP, INC.",
+   "numberOfShares": 5690000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "TMDX",
+   "totalSharesValue": 91040000
+  },
+  {
+   "date": "2019-05-02",
+   "exchange": "NASDAQ Global",
+   "name": "SO-YOUNG INTERNATIONAL INC.",
+   "numberOfShares": 13000000,
+   "price": "13.80",
+   "status": "priced",
+   "symbol": "SY",
+   "totalSharesValue": 179400000
+  },
+  {
+   "date": "2019-05-02",
+   "exchange": "NASDAQ Global Select",
+   "name": "BEYOND MEAT, INC.",
+   "numberOfShares": 9625000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "BYND",
+   "totalSharesValue": 240625000
+  }
+ ]
+}

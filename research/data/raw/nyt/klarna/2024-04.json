@@ -1,0 +1,92 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2024-04",
+ "begin_date": "20240401",
+ "end_date": "20240430",
+ "fetched_at": "2026-09-08T04:58:38.194959+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Firms like Experian and TransUnion say it is time for \u201cbuy now, pay later\u201d loans to appear on consumer credit reports. The lenders aren\u2019t ready to sign on.",
+   "byline": {
+    "original": "By Jordyn Holman and Ben Casselman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "\u2018Pay Later\u2019 Lenders Have an Issue With Credit Bureaus",
+    "kicker": "",
+    "print_headline": "Credit Scores Don\u2019t Reflect \u2018Pay Later\u2019"
+   },
+   "_id": "nyt://article/48721eca-810a-532d-a3ac-b31e3db3377a",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Credit Scores",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Equifax Inc",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Apple Inc",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "TransUnion LLC",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Experian PLC",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Monica Garwood",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/04/19/business/00paylater/00paylater-articleLarge.jpg",
+     "height": 534,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/04/19/business/00paylater/00paylater-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2024-04-23T09:03:55Z",
+   "section_name": "Business",
+   "snippet": "Firms like Experian and TransUnion say it is time for \u201cbuy now, pay later\u201d loans to appear on consumer credit reports. The lenders aren\u2019t ready to sign on.",
+   "source": "The New York Times",
+   "subsection_name": "Economy",
+   "type_of_material": "News",
+   "uri": "nyt://article/48721eca-810a-532d-a3ac-b31e3db3377a",
+   "web_url": "https://www.nytimes.com/2024/04/23/business/economy/buy-now-pay-later-credit.html",
+   "word_count": 1302
+  }
+ ]
+}

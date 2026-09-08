@@ -1,0 +1,391 @@
+{
+ "company": "Circle Internet",
+ "query": "\"Circle\" \"stablecoin\"",
+ "month": "2025-06",
+ "begin_date": "20250601",
+ "end_date": "20250630",
+ "fetched_at": "2026-09-08T05:28:50.546838+00:00",
+ "hits": 5,
+ "docs": [
+  {
+   "abstract": "The bill was a significant step toward giving the cryptocurrency industry the credibility and legitimacy it has sought, without limitations it has worked to head off.",
+   "byline": {
+    "original": "By Robert Jimison"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Senate Passes Cryptocurrency Bill, Handing Industry a Victory",
+    "kicker": "",
+    "print_headline": "Senate Passes Cryptocurrency Legislation, Handing the Industry a Major Victory"
+   },
+   "_id": "nyt://article/91a38826-4a0d-51e0-ad5e-94e5d78c13ee",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Senate",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Law and Legislation",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Republican Party",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Democratic Party",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Senator Bill Hagerty, Republican of Tennessee, said the cryptocurrency bill would boost demand for U.S. Treasury securities and help maintain the dollar\u2019s global dominance.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/17/multimedia/17dc-crypto-01-bhgv/17dc-crypto-01-bhgv-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/17/multimedia/17dc-crypto-01-bhgv/17dc-crypto-01-bhgv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2025-06-17T21:52:34Z",
+   "section_name": "U.S.",
+   "snippet": "The bill was a significant step toward giving the cryptocurrency industry the credibility and legitimacy it has sought, without limitations it has worked to head off.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/91a38826-4a0d-51e0-ad5e-94e5d78c13ee",
+   "web_url": "https://www.nytimes.com/2025/06/17/us/politics/senate-cryptocurrency-bill.html",
+   "word_count": 1225
+  },
+  {
+   "abstract": "The clash between the president and Teslas C.E.O. wiped billions off the electric vehicle maker\u2019s market capitalization. Other risks abound.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Danielle Kaye, Grady McGregor and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Counting Up the Potential Costs of the Trump-Musk Rift",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/795fceea-1e04-56dc-9f41-60854ab35d91",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Budget (US)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "National Debt (US)",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Mandel Ngan/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/06/multimedia/06db-musktrump-ptmg/06db-musktrump-ptmg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/06/multimedia/06db-musktrump-ptmg/06db-musktrump-ptmg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-06T12:08:55Z",
+   "section_name": "Business",
+   "snippet": "The clash between the president and Teslas C.E.O. wiped billions off the electric vehicle maker\u2019s market capitalization. Other risks abound.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/795fceea-1e04-56dc-9f41-60854ab35d91",
+   "web_url": "https://www.nytimes.com/2025/06/06/business/dealbook/musk-trump-fight.html",
+   "word_count": 2017
+  },
+  {
+   "abstract": "Bitcoin and other digital assets are quietly growing in many nest eggs, with the encouragement of the Trump administration. Hidden risks are mounting, our columnist says.",
+   "byline": {
+    "original": "By Jeff Sommer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "There\u2019s a Good Chance Crypto Is Spreading in Your Retirement Account",
+    "kicker": "Strategies",
+    "print_headline": "Crypto May Be Spreading in Your Retirement Account"
+   },
+   "_id": "nyt://article/9ace8cd6-7cbf-51c2-916b-58fc6cb17a94",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Bitcoin (Currency)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Asset Allocation (Personal Finances)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Exchange Traded Funds",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Retirement",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Dan Page",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/15/business/15Strategies-illo/15Strategies-illo-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/15/business/15Strategies-illo/15Strategies-illo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "SundayBusiness",
+   "print_page": "3",
+   "print_section": "BU",
+   "pub_date": "2025-06-13T13:00:05Z",
+   "section_name": "Business",
+   "snippet": "Bitcoin and other digital assets are quietly growing in many nest eggs, with the encouragement of the Trump administration. Hidden risks are mounting, our columnist says.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/9ace8cd6-7cbf-51c2-916b-58fc6cb17a94",
+   "web_url": "https://www.nytimes.com/2025/06/13/business/bitcoin-cryptocurrency-stablecoins-retirement.html",
+   "word_count": 1251
+  },
+  {
+   "abstract": "Trade-war angst has put pressure on the greenback this year. Wall Street thinks it\u2019s about to get worse.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Low Will the Dollar Go?",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/766a04b8-3f41-5506-9562-618f3d78e8ee",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "US Dollar (Currency)",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Protectionism (Trade)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Budget (US)",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "The dollar has been under pressure since Inauguration Day, in January, with Wall Street expecting further declines.",
+    "credit": "Mark Lennihan/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/03/multimedia/03db-dollar-fhpc/03db-dollar-fhpc-articleLarge.jpg",
+     "height": 450,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/03/multimedia/03db-dollar-fhpc/03db-dollar-fhpc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-03T11:50:46Z",
+   "section_name": "Business",
+   "snippet": "Trade-war angst has put pressure on the greenback this year. Wall Street thinks it\u2019s about to get worse.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/766a04b8-3f41-5506-9562-618f3d78e8ee",
+   "web_url": "https://www.nytimes.com/2025/06/03/business/dealbook/dollar-trump-deficit-tariffs.html",
+   "word_count": 1830
+  },
+  {
+   "abstract": "The artificial intelligence company has set many challenging goals. Autonomous vehicle software is now among them \u2014 but may pit the company against Tesla.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "OpenAI\u2019s Self-Driving Ambitions",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/55df5a7f-e81f-5c55-838e-684d2a2adbf7",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Altman, Samuel H",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Driverless and Semiautonomous Vehicles",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Is autonomous vehicle software Sam Altman\u2019s next focus for OpenAI?",
+    "credit": "Justin Sullivan/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/25/multimedia/25db-newsletter-altman-cwzj/25db-newsletter-altman-cwzj-articleLarge.jpg",
+     "height": 426,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/25/multimedia/25db-newsletter-altman-cwzj/25db-newsletter-altman-cwzj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-25T12:24:58Z",
+   "section_name": "Business",
+   "snippet": "The artificial intelligence company has set many challenging goals. Autonomous vehicle software is now among them \u2014 but may pit the company against Tesla.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/55df5a7f-e81f-5c55-838e-684d2a2adbf7",
+   "web_url": "https://www.nytimes.com/2025/06/25/business/dealbook/openai-autonomous-vehicles-musk-tesla.html",
+   "word_count": 1789
+  }
+ ]
+}

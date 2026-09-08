@@ -1,0 +1,861 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-12",
+ "begin_date": "20251201",
+ "end_date": "20251231",
+ "fetched_at": "2026-09-08T05:13:50.391801+00:00",
+ "hits": 22,
+ "docs": [
+  {
+   "abstract": "A sale of insider shares at $421 a share would make Mr. Musk\u2019s rocket company the most valuable private company in the world, as it readies for a possible initial public offering next year.",
+   "byline": {
+    "original": "By Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk\u2019s SpaceX Valued at $800 Billion, as It Prepares to Go Public",
+    "kicker": "",
+    "print_headline": "SpaceX Valued at $800 Billion  And Could Go Public Next Year"
+   },
+   "_id": "nyt://article/3b406f7f-649b-53f1-95f1-14a549ae21ff",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "The SpaceX launchpad in South Texas in June 2024. The company said in a letter to employees on Friday that it could go public in 2026.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/11/multimedia/12biz-spacex-01/12biz-spacex-01-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/11/multimedia/12biz-spacex-01/live-blog-20241013-spacex-starship-launch-header-pwkg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-12-13T00:55:56Z",
+   "section_name": "Technology",
+   "snippet": "A sale of insider shares at $421 a share would make Mr. Musk\u2019s rocket company the most valuable private company in the world, as it readies for a possible initial public offering next year.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/3b406f7f-649b-53f1-95f1-14a549ae21ff",
+   "web_url": "https://www.nytimes.com/2025/12/12/technology/elon-musk-spacex-ipo.html",
+   "word_count": 533
+  },
+  {
+   "abstract": "In exchange for the land in Texas, the rocket and satellite company would give the government some of its own property nearby, documents show.",
+   "byline": {
+    "original": "By Maxine Joselow"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump May Give 775 Acres of a Federal Wildlife Refuge to SpaceX",
+    "kicker": "",
+    "print_headline": "Trump May Give SpaceX 775 Acres of Refuge"
+   },
+   "_id": "nyt://article/781d7148-b86a-5c68-84b2-86d5b0c8cf76",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Wildlife Sanctuaries and Nature Reserves",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Endangered and Extinct Species",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Lands",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Fish and Wildlife Service",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Interior Department",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Archaeology and Anthropology",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s launchpad near Boca Chica Beach in South Texas.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/12/23/multimedia/23cli-spacex-01-wmqt/23cli-spacex-01-wmqt-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/12/23/multimedia/23cli-spacex-01-wmqt/23cli-spacex-01-wmqt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Climate",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2025-12-23T10:04:40Z",
+   "section_name": "Climate",
+   "snippet": "In exchange for the land in Texas, the rocket and satellite company would give the government some of its own property nearby, documents show.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/781d7148-b86a-5c68-84b2-86d5b0c8cf76",
+   "web_url": "https://www.nytimes.com/2025/12/23/climate/spacex-land-exchange-texas.html",
+   "word_count": 889
+  },
+  {
+   "abstract": "Elon Musk\u2019s rocket and satellite giant is already planning a stock sale at an $800 billion valuation. Going public could put it in the trillion-dollar club.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O\u2019Keefe, Ian Mount and Vivienne Walt"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX\u2019s Next Big Launch Could Be an I.P.O.",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/fba9a24e-c3f4-5b2a-8a2e-31efdd133f26",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX is set to be valued at $800 billion \u2014 and potentially a lot more if it goes public.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/12/15/multimedia/15db-spacex-fhtp/15db-spacex-fhtp-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/12/15/multimedia/15db-spacex-fhtp/15db-spacex-fhtp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-12-15T13:18:57Z",
+   "section_name": "Business",
+   "snippet": "Elon Musk\u2019s rocket and satellite giant is already planning a stock sale at an $800 billion valuation. Going public could put it in the trillion-dollar club.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/fba9a24e-c3f4-5b2a-8a2e-31efdd133f26",
+   "web_url": "https://www.nytimes.com/2025/12/15/business/dealbook/spacex-ipo-trillion-musk.html",
+   "word_count": 1940
+  },
+  {
+   "abstract": "In 2026, there will be journeys to the moon and Mars, new visions of the cosmos and a solar eclipse that might be worth traveling for.",
+   "byline": {
+    "original": "By Katrina Miller and Michael Roston"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Your Wait for These Space Events Is About to Pay Off",
+    "kicker": "",
+    "print_headline": "Celestial Happenings In 2026"
+   },
+   "_id": "nyt://article/1984806d-2f47-58a2-ae0e-207121bf5a39",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Telescopes and Observatories",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Two Thousand Twenty Six",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The Space Launch System rocket, which will carry the Artemis II NASA mission, inside the Vehicle Assembly Building at the Kennedy Space Center in Florida on Dec. 20.",
+    "credit": "Joel Kowsky/NASA",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/12/30/science/30HS-sci-space-preview-top/30HS-sci-space-preview-top-articleLarge.jpg",
+     "height": 436,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/12/30/science/30HS-sci-space-preview-top/30HS-sci-space-preview-top-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "2",
+   "print_section": "D",
+   "pub_date": "2025-12-30T07:33:10Z",
+   "section_name": "Science",
+   "snippet": "In 2026, there will be journeys to the moon and Mars, new visions of the cosmos and a solar eclipse that might be worth traveling for.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/1984806d-2f47-58a2-ae0e-207121bf5a39",
+   "web_url": "https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html",
+   "word_count": 1255
+  },
+  {
+   "abstract": "A paraplegic engineer was part of a crew that made a suborbital journey on a spacecraft operated by Jeff Bezos\u2019 private company, Blue Origin.",
+   "byline": {
+    "original": "By Adeel Hassan"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "In a First, a Wheelchair User Joins a Short Flight to Space",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/35902362-f4e1-5d7e-a79d-a9ce4e3b4ca2",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Disabilities",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Wheelchairs",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "European Space Agency",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Michaela Benthaus",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Bezos, Jeffrey P",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Blue Origin, via Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/12/21/science/space/Video_thumb_BO/Video_thumb_BO-articleLarge.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/12/21/science/space/Video_thumb_BO/Video_thumb_BO-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-12-21T21:19:45Z",
+   "section_name": "U.S.",
+   "snippet": "A paraplegic engineer was part of a crew that made a suborbital journey on a spacecraft operated by Jeff Bezos\u2019 private company, Blue Origin.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/35902362-f4e1-5d7e-a79d-a9ce4e3b4ca2",
+   "web_url": "https://www.nytimes.com/2025/12/21/us/spacex-blue-origin-wheelchair-user.html",
+   "word_count": 490
+  },
+  {
+   "abstract": "The president withdrew Jared Isaacman\u2019s nomination to lead the space agency in June, but senators of both parties appeared willing to give him a second shot at confirmation.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump\u2019s NASA Pick Poised to Win Senate Vote After Do-Over",
+    "kicker": "",
+    "print_headline": "NASA Pick Poised to Win Senate Vote After Do-Over"
+   },
+   "_id": "nyt://article/309391e1-afda-55bd-bff9-6c54d9a7f45a",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Senate Committee on Commerce, Science, and Transportation",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Jared Isaacman, the billionaire entrepreneur and NASA administrator nominee, appearing before the Senate on Wednesday.",
+    "credit": "Tierney L. Cross/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/12/03/multimedia/03HS-NASA-ISAACMAN-nyt-new-qcvg/03HS-NASA-ISAACMAN-nyt-new-qcvg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/12/03/multimedia/03HS-NASA-ISAACMAN-nyt-new-qcvg/03HS-NASA-ISAACMAN-nyt-new-qcvg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "15",
+   "print_section": "A",
+   "pub_date": "2025-12-03T19:45:14Z",
+   "section_name": "Science",
+   "snippet": "The president withdrew Jared Isaacman\u2019s nomination to lead the space agency in June, but senators of both parties appeared willing to give him a second shot at confirmation.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/309391e1-afda-55bd-bff9-6c54d9a7f45a",
+   "web_url": "https://www.nytimes.com/2025/12/03/science/trump-nasa-jared-isaacman-senate-hearing.html",
+   "word_count": 988
+  },
+  {
+   "abstract": "Mr. Musk has ambitions to remake education, but his latest effort to open an elementary school in Texas appears to have faltered.",
+   "byline": {
+    "original": "By Kirsten Grind and Sheera Frenkel"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Sleep Cots and Graham Crackers at Elon Musk\u2019s Child Care Program",
+    "kicker": "",
+    "print_headline": "Cots and Crackers at Musk\u2019s Child Care Program"
+   },
+   "_id": "nyt://article/2e148b6e-52ac-5cf3-a169-dbebd54cd42e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Education (K-12)",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private and Sectarian Schools",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Day Care Centers",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Colleges and Universities",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Philanthropy",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Ad Astra School LLC",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "The Foundation",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Bastrop (Tex)",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Inside Ad Astra, a school founded by Elon Musk in Bastrop, Texas, near SpaceX.",
+    "credit": "via Texas Health and Human Services Commission",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/12/15/multimedia/MUSK-SCHOOL-handouts-03-zbtk/MUSK-SCHOOL-handouts-03-zbtk-articleLarge.jpg",
+     "height": 450,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/12/15/multimedia/MUSK-SCHOOL-handouts-03-zbtk/MUSK-SCHOOL-handouts-03-zbtk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-12-18T10:01:59Z",
+   "section_name": "Technology",
+   "snippet": "Mr. Musk has ambitions to remake education, but his latest effort to open an elementary school in Texas appears to have faltered.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/2e148b6e-52ac-5cf3-a169-dbebd54cd42e",
+   "web_url": "https://www.nytimes.com/2025/12/18/technology/elon-musk-daycare-school.html",
+   "word_count": 1475
+  },
+  {
+   "abstract": "Jared Isaacman, the billionaire nominated twice to lead the agency, may draw some lessons from the tenure of another NASA leader in the 1990s.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump\u2019s NASA Pick Is Confirmed to Lead Space Program in Peril",
+    "kicker": "",
+    "print_headline": "After 11 Months, Trump\u2019s Pick Is Confirmed to Lead the Space Program"
+   },
+   "_id": "nyt://article/fb3f17b3-e2d7-54af-b86e-f21c418d40ec",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Senate",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Goldin, Daniel S",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Jared Isaacman, the private astronaut and billionaire entrepreneur, during his second Senate confirmation hearing to lead NASA earlier this month.",
+    "credit": "Tierney L. Cross/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/12/17/multimedia/17HS-nasa-isaacman-02-ctmh/17HS-nasa-isaacman-02-ctmh-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/12/17/multimedia/17HS-nasa-isaacman-02-ctmh/17HS-nasa-isaacman-02-ctmh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "15",
+   "print_section": "A",
+   "pub_date": "2025-12-17T20:27:39Z",
+   "section_name": "Science",
+   "snippet": "Jared Isaacman, the billionaire nominated twice to lead the agency, may draw some lessons from the tenure of another NASA leader in the 1990s.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/fb3f17b3-e2d7-54af-b86e-f21c418d40ec",
+   "web_url": "https://www.nytimes.com/2025/12/17/science/nasa-jared-isaacman-confirmed-senate.html",
+   "word_count": 1252
+  },
+  {
+   "abstract": "A state judge had invalidated the package, saying shareholders were not properly informed about it. Friday\u2019s ruling cleared the plan, now worth $139 billion.",
+   "byline": {
+    "original": "By Emmett Lindner, Peter Eavis and Rebecca F. Elliott"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk\u2019s 2018 Tesla Pay Deal Is Restored by Delaware Supreme Court",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/a7e55a23-193b-5173-ac1b-479e9ee0982d",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Executive Compensation",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Decisions and Verdicts",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "Delaware",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Supreme Courts (State)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Boards of Directors",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk had appealed a ruling by a Delaware judge who rejected Tesla\u2019s pay package last year. ",
+    "credit": "Evan Vucci/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/12/19/multimedia/19biz-musk-pay-1-ltvq/19biz-musk-pay-1-ltvq-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/12/19/multimedia/19biz-musk-pay-1-ltvq/19biz-musk-pay-1-ltvq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-12-19T22:00:05Z",
+   "section_name": "Business",
+   "snippet": "A state judge had invalidated the package, saying shareholders were not properly informed about it. Friday\u2019s ruling cleared the plan, now worth $139 billion.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a7e55a23-193b-5173-ac1b-479e9ee0982d",
+   "web_url": "https://www.nytimes.com/2025/12/19/business/elon-musk-pay-ruling-delaware.html",
+   "word_count": 584
+  },
+  {
+   "abstract": "It was a comeback year for I.P.O.s. and mergers and acquisitions. Wall Street is optimistic that the winning streak will continue.",
+   "byline": {
+    "original": "By Michael J. de la Merced"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Riding a High, Deal Makers Grow Bullish on 2026",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/f9968868-3196-5cf9-9d8a-e60fe7c50ce0",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Equity",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Antitrust Laws and Competition Issues",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "CoreWeave",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Dealogic PLC",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Figma Inc",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "I.P.O.s had a big comeback in 2025. Figma, the design software maker, was among those to make a splashy entry in the public market.",
+    "credit": "Karsten Moran for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/12/22/multimedia/22db-wall-street-wkqb/22db-wall-street-wkqb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/12/22/multimedia/22db-wall-street-wkqb/22db-wall-street-wkqb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-12-22T13:22:03Z",
+   "section_name": "Business",
+   "snippet": "It was a comeback year for I.P.O.s. and mergers and acquisitions. Wall Street is optimistic that the winning streak will continue.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/f9968868-3196-5cf9-9d8a-e60fe7c50ce0",
+   "web_url": "https://www.nytimes.com/2025/12/22/business/dealbook/deals-ipos-2026-forecast.html",
+   "word_count": 1825
+  }
+ ]
+}

@@ -1,0 +1,477 @@
+{
+ "from": "2022-03-01",
+ "to": "2022-03-31",
+ "fetched_at": "2026-09-08T04:21:42.589079+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2022-03-31",
+   "exchange": null,
+   "name": "M3-Brigade Acquisition IV Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-31",
+   "exchange": "NASDAQ Global",
+   "name": "Redwoods Acquisition Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RWODU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-03-31",
+   "exchange": "NASDAQ Capital",
+   "name": "Rail Vision Ltd.",
+   "numberOfShares": 3787241,
+   "price": "4.13",
+   "status": "priced",
+   "symbol": "RVSN",
+   "totalSharesValue": 15641305
+  },
+  {
+   "date": "2022-03-30",
+   "exchange": null,
+   "name": "Good Commerce Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-29",
+   "exchange": null,
+   "name": "Osprey Technology Acquisition Corp. II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-29",
+   "exchange": null,
+   "name": "Wuxin Technology Holdings, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "WXT",
+   "totalSharesValue": 41400000
+  },
+  {
+   "date": "2022-03-28",
+   "exchange": null,
+   "name": "Elephant Oil Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ELEP",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2022-03-25",
+   "exchange": null,
+   "name": "Gerson Lehrman Group, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "AN2 Therapeutics, Inc.",
+   "numberOfShares": 4600000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ANTX",
+   "totalSharesValue": 69000000
+  },
+  {
+   "date": "2022-03-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Locafy Ltd",
+   "numberOfShares": 1454546,
+   "price": "4.125",
+   "status": "priced",
+   "symbol": "LCFY",
+   "totalSharesValue": 6007275
+  },
+  {
+   "date": "2022-03-24",
+   "exchange": "NASDAQ Global",
+   "name": "RF Acquisition Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RFACU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-03-23",
+   "exchange": null,
+   "name": "Metaterra Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2022-03-22",
+   "exchange": "NYSE",
+   "name": "ONS Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "expected",
+   "symbol": "ONS'U",
+   "totalSharesValue": 172500000
+  },
+  {
+   "date": "2022-03-21",
+   "exchange": null,
+   "name": "Sagimet Biosciences Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-21",
+   "exchange": null,
+   "name": "Rapid Line Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2022-03-18",
+   "exchange": null,
+   "name": "TechStackery, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-18",
+   "exchange": null,
+   "name": "Firemark Global Capital, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-18",
+   "exchange": null,
+   "name": "Vital Human Capital, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-18",
+   "exchange": null,
+   "name": "Venice Brands Acquisition Corp. I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-18",
+   "exchange": null,
+   "name": "New Beginnings Acquisition Corp. III",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-18",
+   "exchange": null,
+   "name": "BFFI GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BFFI",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2022-03-17",
+   "exchange": null,
+   "name": "Hexion Holdings Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-17",
+   "exchange": "NASDAQ Capital",
+   "name": "Goldenstone Acquisition Ltd.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GDSTU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2022-03-16",
+   "exchange": null,
+   "name": "hear.com N.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-16",
+   "exchange": null,
+   "name": "Silverman Acquisition Corp I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-16",
+   "exchange": null,
+   "name": "Atlas Crest Investment Corp. IV",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-16",
+   "exchange": null,
+   "name": "ACI Corp. III",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-15",
+   "exchange": null,
+   "name": "CCIF Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-15",
+   "exchange": null,
+   "name": "Aperture Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-15",
+   "exchange": "NASDAQ Capital",
+   "name": "AKANDA CORP.",
+   "numberOfShares": 4000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "AKAN",
+   "totalSharesValue": 16000000
+  },
+  {
+   "date": "2022-03-14",
+   "exchange": null,
+   "name": "CAMPOSOL HOLDING PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-14",
+   "exchange": null,
+   "name": "Denham Sustainable Performance Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-14",
+   "exchange": null,
+   "name": "AUNA S.A.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-11",
+   "exchange": "NASDAQ Global",
+   "name": "Nubia Brand International Corp.",
+   "numberOfShares": 11000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NUBIU",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2022-03-10",
+   "exchange": "NASDAQ Global",
+   "name": "Patria Latin American Opportunity Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PLAOU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2022-03-09",
+   "exchange": "NASDAQ Global",
+   "name": "Lakeshore Acquisition II Corp.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LBBBU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2022-03-09",
+   "exchange": null,
+   "name": "WidFit Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2022-03-07",
+   "exchange": null,
+   "name": "Opti-Harvest, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-07",
+   "exchange": null,
+   "name": "Cain Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-07",
+   "exchange": null,
+   "name": "Graphex Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GRFX",
+   "totalSharesValue": 13728000
+  },
+  {
+   "date": "2022-03-04",
+   "exchange": null,
+   "name": "Capitol Investment Corp. VI",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-04",
+   "exchange": null,
+   "name": "Capitol Investment Corp. VII",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-02",
+   "exchange": null,
+   "name": "Jeneration Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-03-02",
+   "exchange": "NASDAQ Global",
+   "name": "Sound Point Acquisition Corp I, Ltd",
+   "numberOfShares": 22500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SPCMU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2022-03-02",
+   "exchange": "NYSE",
+   "name": "Kensington Capital Acquisition Corp. IV",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KCACU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2022-03-02",
+   "exchange": "NASDAQ Global",
+   "name": "SHUAA Partners Acquisition Corp I",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SHUAU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-03-01",
+   "exchange": "NASDAQ Global",
+   "name": "Valuence Merger Corp. I",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VMCAU",
+   "totalSharesValue": 200000000
+  }
+ ]
+}

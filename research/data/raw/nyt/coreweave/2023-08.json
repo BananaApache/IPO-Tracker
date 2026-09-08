@@ -1,0 +1,208 @@
+{
+ "company": "CoreWeave",
+ "query": "\"CoreWeave\"",
+ "month": "2023-08",
+ "begin_date": "20230801",
+ "end_date": "20230831",
+ "fetched_at": "2026-09-08T04:38:14.182538+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services.",
+   "byline": {
+    "original": "By Don Clark"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Nvidia Built a Competitive Moat Around A.I. Chips",
+    "kicker": "",
+    "print_headline": "How Nvidia Became A.I.\u2019s One-Stop Shop"
+   },
+   "_id": "nyt://article/e6403268-10db-5546-bc0b-719cbfafa8d1",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Cloud Computing",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Huang, Jen-Hsun",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "audio-neutral-informative",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Jensen Huang, Nvidia\u2019s chief executive, at a conference in August. \u201cThe thing that we understood is that this is a reinvention of how computing is done,\u201d he said in an interview.",
+    "credit": "Philip Cheung for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/08/22/multimedia/00JPnvidia1-print-fblp/00nvidia-01-fblp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/08/22/multimedia/00JPnvidia1-print-fblp/00nvidia-01-fblp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2023-08-21T13:00:20Z",
+   "section_name": "Technology",
+   "snippet": "The most visible winner of the artificial intelligence boom achieved its dominance by becoming a one-stop shop for A.I. development, from chips to software to other services.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/e6403268-10db-5546-bc0b-719cbfafa8d1",
+   "web_url": "https://www.nytimes.com/2023/08/21/technology/nvidia-ai-chips-gpu.html",
+   "word_count": 1390
+  },
+  {
+   "abstract": "You gotta give it to the A.I. \u2014 some of these really are bangers.",
+   "byline": {
+    "original": "By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Dan Powell and Marion Lozano"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "N.Y.C. Says Airbn-bye + How Far Would You Go for a GPU? + The A.I. Songs of the Summer",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/48e725a6-36c3-5d48-8b13-141c47847b35",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Science and Technology",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Video Recordings, Downloads and Streaming",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Music",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Airbnb",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Universal Music Group",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "YouTube.com",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Spotify",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Mercury, Freddie",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Cash, Johnny",
+     "rank": 13
+    },
+    {
+     "name": "Location",
+     "value": "San Francisco (Calif)",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Photo Illustration by The New York Times; Image: Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/08/25/podcasts/25HF-airbnb-audio-app/25HF-airbnb-audio-app-articleLarge-v4.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/08/25/podcasts/25HF-airbnb-audio-app/25HF-airbnb-audio-app-thumbStandard-v7.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Podcasts",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-08-25T09:04:10Z",
+   "section_name": "Podcasts",
+   "snippet": "You gotta give it to the A.I. \u2014 some of these really are bangers.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/48e725a6-36c3-5d48-8b13-141c47847b35",
+   "web_url": "https://www.nytimes.com/2023/08/25/podcasts/airbnb-ai-songs.html",
+   "word_count": 193
+  }
+ ]
+}

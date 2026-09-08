@@ -1,0 +1,901 @@
+{
+ "company": "CoreWeave",
+ "query": "\"CoreWeave\"",
+ "month": "2025-03",
+ "begin_date": "20250301",
+ "end_date": "20250331",
+ "fetched_at": "2026-09-08T05:23:50.500063+00:00",
+ "hits": 16,
+ "docs": [
+  {
+   "abstract": "The company, which originally expected its shares to be priced between $47 and $55, will ask for $40 a share in a sign of stock market uncertainty.",
+   "byline": {
+    "original": "By Eli Tan and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "CoreWeave Scales Back Ambitions for Its I.P.O.",
+    "kicker": "",
+    "print_headline": "Lower Offering For CoreWeave Dims Optimism"
+   },
+   "_id": "nyt://article/9086d936-0ee4-5cc4-9531-4b22e1f6683c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "CoreWeave",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Intrator, Michael",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "McBee, Brannin",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Venturo, Brian",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Michael Intrator, a co-founder and the chief executive of CoreWeave.",
+    "credit": "Bruno de Carvalho/SOPA Images, via LightRocket, via Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/27/business/00biz-coreweave-pricing-hfo/00biz-coreweave-pricing-hfo-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/27/business/00biz-coreweave-pricing-hfo/00biz-coreweave-pricing-hfo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-28T02:06:20Z",
+   "section_name": "Technology",
+   "snippet": "The company, which originally expected its shares to be priced between $47 and $55, will ask for $40 a share in a sign of stock market uncertainty.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/9086d936-0ee4-5cc4-9531-4b22e1f6683c",
+   "web_url": "https://www.nytimes.com/2025/03/27/technology/coreweave-scales-back-ambitions-for-its-ipo.html",
+   "word_count": 633
+  },
+  {
+   "abstract": "The start-up, which provides the processing power to help develop A.I. systems, faces questions about its debt and the overall economy.",
+   "byline": {
+    "original": "By Eli Tan and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "CoreWeave Disappoints on Opening of Trading",
+    "kicker": "",
+    "print_headline": "A.I. Start-Up Disappoints On Opening Of Trading"
+   },
+   "_id": "nyt://article/04ed2638-fbe9-5722-bb64-03f2472d77cb",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "CoreWeave",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "CoreWeave, which runs data centers that help power giant A.I. systems, raised $1.5 billion in its initial offering, less than the $4 billion that analysts had anticipated.",
+    "credit": "Lucia Vazquez for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/28/multimedia/28biz-coreweave-ipo-hfo-tmbz/28biz-coreweave-ipo-hfo-tmbz-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/28/multimedia/28biz-coreweave-ipo-hfo-tmbz/28biz-coreweave-ipo-hfo-tmbz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-03-28T18:27:48Z",
+   "section_name": "Technology",
+   "snippet": "The start-up, which provides the processing power to help develop A.I. systems, faces questions about its debt and the overall economy.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/04ed2638-fbe9-5722-bb64-03f2472d77cb",
+   "web_url": "https://www.nytimes.com/2025/03/28/technology/coreweave-stock.html",
+   "word_count": 557
+  },
+  {
+   "abstract": "CoreWeave, which provides computing power for A.I., was founded by three Bitcoin enthusiasts. The company is now set to make the first prominent A.I. initial public offering.",
+   "byline": {
+    "original": "By Eli Tan and Cade Metz"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Company Testing Wall Street\u2019s Appetite for A.I. Computing Power",
+    "kicker": "",
+    "print_headline": "CoreWeave Plans I.P.O. In A.I. First"
+   },
+   "_id": "nyt://article/5ac88896-be16-564f-8aa9-e5851f995d26",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "CoreWeave",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Bitcoin (Currency)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Intrator, Michael",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Venturo, Brian",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "McBee, Brannin",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "Michael Intrator is a founder and the chief executive of CoreWeave, an A.I. computing company that has filed paperwork to go public.",
+    "credit": "Carlos Rodrigues/Sportsfile for Web Summit, via Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/14/business/COREWEAVE-1/COREWEAVE-1-articleLarge.jpg",
+     "height": 384,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/14/business/COREWEAVE-1/COREWEAVE-1-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-03-18T09:00:33Z",
+   "section_name": "Technology",
+   "snippet": "CoreWeave, which provides computing power for A.I., was founded by three Bitcoin enthusiasts. The company is now set to make the first prominent A.I. initial public offering.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/5ac88896-be16-564f-8aa9-e5851f995d26",
+   "web_url": "https://www.nytimes.com/2025/03/18/technology/coreweave-wall-street-ai-ipo.html",
+   "word_count": 1321
+  },
+  {
+   "abstract": "The A.I. company is set to make its market debut on Friday amid concerns about its business model and the health of the wider economy.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Is CoreWeave\u2019s Debut an Ill Omen for I.P.O.s?",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/c6bcdf57-73e4-51fa-b65a-88a4ee69797b",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "CoreWeave",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Microsoft Corp",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Intrator, Michael",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "McBee, Brannin",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Venturo, Brian",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "A new test for the moribund I.P.O. market comes today when CoreWeave begins trading.",
+    "credit": "Michael M. Santiago/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/28/multimedia/28db-market-floor-fhwm/28db-market-floor-fhwm-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/28/multimedia/28db-market-floor-fhwm/28db-market-floor-fhwm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-28T12:03:21Z",
+   "section_name": "Business",
+   "snippet": "The A.I. company is set to make its market debut on Friday amid concerns about its business model and the health of the wider economy.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/c6bcdf57-73e4-51fa-b65a-88a4ee69797b",
+   "web_url": "https://www.nytimes.com/2025/03/28/business/dealbook/coreweave-ipo-ai.html",
+   "word_count": 1768
+  },
+  {
+   "abstract": "The app has become a mainstay of the video game community and young internet users.",
+   "byline": {
+    "original": "By Lauren Hirsch and Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Discord in Early Talks With Bankers for Potential I.P.O.",
+    "kicker": "",
+    "print_headline": "Discord Mulls Potential I.P.O. In Early Talks"
+   },
+   "_id": "nyt://article/fbaa3a5c-e176-5e55-babd-ee36fd69ed15",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Discord Inc",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Mobile Applications",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computer and Video Games",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Video Recordings, Downloads and Streaming",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "CoreWeave",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Jason Citron, a co-founder of Discord, at a Senate Judiciary Committee hearing last year.",
+    "credit": "Anna Rose Layden for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05BIZ-DISCORD-jmgb/05BIZ-DISCORD-jmgb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05BIZ-DISCORD-jmgb/05BIZ-DISCORD-jmgb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "6",
+   "print_section": "B",
+   "pub_date": "2025-03-05T22:05:58Z",
+   "section_name": "Technology",
+   "snippet": "The app has become a mainstay of the video game community and young internet users.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/fbaa3a5c-e176-5e55-babd-ee36fd69ed15",
+   "web_url": "https://www.nytimes.com/2025/03/05/technology/discord-ipo.html",
+   "word_count": 464
+  },
+  {
+   "abstract": "The ticket reselling site joins the social chat app Discord and the artificial intelligence company CoreWeave in pursuing a public offering.",
+   "byline": {
+    "original": "By Lauren Hirsch and Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "StubHub Eyes Potential I.P.O. as Soon as This Year",
+    "kicker": "",
+    "print_headline": "Ticket Reseller StubHub Eyes Potential I.P.O. For This Year"
+   },
+   "_id": "nyt://article/c0b3918c-32d7-544a-8762-dc2cb6216cf8",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "StubHub",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Mobile Applications",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "A growing number of tech companies appear ready to contemplate public listings, despite market volatility stemming from President Trump\u2019s constant changes to economic policies.",
+    "credit": "John Taggart for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/BIZ-TECH-IPO-sub-mzhv/BIZ-TECH-IPO-sub-mzhv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/BIZ-TECH-IPO-sub-mzhv/BIZ-TECH-IPO-sub-mzhv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2025-03-06T22:47:47Z",
+   "section_name": "Technology",
+   "snippet": "The ticket reselling site joins the social chat app Discord and the artificial intelligence company CoreWeave in pursuing a public offering.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c0b3918c-32d7-544a-8762-dc2cb6216cf8",
+   "web_url": "https://www.nytimes.com/2025/03/06/technology/figma-stubhub-ipo.html",
+   "word_count": 411
+  },
+  {
+   "abstract": "The design tech company is exploring a public offering after regulators stymied its $20 billion sale to the software giant Adobe in 2023.",
+   "byline": {
+    "original": "By Lauren Hirsch and Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Figma in Talks With Bankers to Explore an I.P.O. This Year",
+    "kicker": "",
+    "print_headline": "Figma in Talks  With Bankers To Go Public "
+   },
+   "_id": "nyt://article/02fef5ce-1206-5b8d-a1c3-a1130e3ab53c",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Figma Inc",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Cloud Computing",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Software",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Adobe Systems Inc",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Field, Dylan (1992- )",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Dylan Field, Figma\u2019s chief executive, said at a conference last year that the company was on a path to going public.",
+    "credit": "Kimberly White/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07biz-figma-ipo-jlhg/07biz-figma-ipo-jlhg-articleLarge.jpg",
+     "height": 420,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07biz-figma-ipo-jlhg/07biz-figma-ipo-jlhg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-03-07T22:02:15Z",
+   "section_name": "Technology",
+   "snippet": "The design tech company is exploring a public offering after regulators stymied its $20 billion sale to the software giant Adobe in 2023.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/02fef5ce-1206-5b8d-a1c3-a1130e3ab53c",
+   "web_url": "https://www.nytimes.com/2025/03/07/technology/figma-ipo.html",
+   "word_count": 416
+  },
+  {
+   "abstract": "A federal inquiry into D.E.I. practices at 20 law firms zeroed in on SEO, a decades-old program that helps students land jobs on Wall Street.",
+   "byline": {
+    "original": "By Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Nonprofit Caught in the Fray of Trump\u2019s Attacks on Big Law",
+    "kicker": "DealBook Newsletter",
+    "print_headline": "Attacks on D.E.I. Show No Sign of Abating"
+   },
+   "_id": "nyt://article/38cd2f81-9f58-52f1-97af-381d2ecf969b",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Diversity Initiatives",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Hiring and Promotion",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Internships",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Legal Profession",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Sponsors for Educational Opportunity",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Nonprofit Organizations",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Equal Employment Opportunity Commission",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Paul Weiss Rifkind Wharton & Garrison",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Karp, Brad S",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "Brad Karp, the chairman of Paul Weiss, struck a deal with Trump to rescind an executive order that targeted the firm.",
+    "credit": "Carly Zavala for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/22/business/22DB-BigLaw/22DB-BigLaw-articleLarge.jpg",
+     "height": 450,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/22/business/22DB-BigLaw/22DB-BigLaw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-03-22T12:00:02Z",
+   "section_name": "Business",
+   "snippet": "A federal inquiry into D.E.I. practices at 20 law firms zeroed in on SEO, a decades-old program that helps students land jobs on Wall Street.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/38cd2f81-9f58-52f1-97af-381d2ecf969b",
+   "web_url": "https://www.nytimes.com/2025/03/22/business/dealbook/trump-dei-seo-wall-street.html",
+   "word_count": 1904
+  },
+  {
+   "abstract": "Global leaders are retaliating and investors have sold off stocks in Asia and Europe.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump\u2019s Tariffs Plunge Global Markets Into a Sea of Red",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/7d9566d8-efa1-508b-b871-c96f5c5e1950",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "Mexico",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "Canada",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Protectionism (Trade)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "US Dollar (Currency)",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Nowhere to hide as a new wave of U.S. tariffs sinks global stock markets.",
+    "credit": "Franck Robichon/EPA, via Shutterstock",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04db-markets-lmpz/04db-markets-lmpz-articleLarge.jpg",
+     "height": 401,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04db-markets-lmpz/04db-markets-lmpz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-04T13:09:04Z",
+   "section_name": "Business",
+   "snippet": "Global leaders are retaliating and investors have sold off stocks in Asia and Europe.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/7d9566d8-efa1-508b-b871-c96f5c5e1950",
+   "web_url": "https://www.nytimes.com/2025/03/04/business/dealbook/trump-tariffs-markets-business.html",
+   "word_count": 1871
+  },
+  {
+   "abstract": "Corporate leaders and investors continue to be caught off guard by the president\u2019s trade policy, especially as deal talks heat up.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch, Edmund Lee and Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Who\u2019s Got Trump\u2019s Ear on Tariffs?",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/868fc6d8-53e3-5235-a65e-e9b94248ab8e",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Lutnick, Howard W",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Protectionism (Trade)",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Navarro, Peter",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Commerce Department",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Stellantis NV",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "General Motors",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Ford Motor Co",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "Looking for tariff relief? Howard Lutnick, the commerce secretary, appears to be one to call.",
+    "credit": "Tierney L. Cross for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06db-lutnick-cmgj/06db-lutnick-cmgj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06db-lutnick-cmgj/06db-lutnick-cmgj-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-06T12:42:11Z",
+   "section_name": "Business",
+   "snippet": "Corporate leaders and investors continue to be caught off guard by the president\u2019s trade policy, especially as deal talks heat up.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/868fc6d8-53e3-5235-a65e-e9b94248ab8e",
+   "web_url": "https://www.nytimes.com/2025/03/06/business/dealbook/trump-lutnick-tariffs-deals.html",
+   "word_count": 1872
+  }
+ ]
+}

@@ -1,0 +1,673 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2024-06",
+ "begin_date": "20240601",
+ "end_date": "20240630",
+ "fetched_at": "2026-09-08T04:30:38.118019+00:00",
+ "hits": 34,
+ "docs": [
+  {
+   "abstract": "The eight workers say they were wrongfully fired after circulating a memo raising concerns about sexual harassment at the rocket company led by Elon Musk.",
+   "byline": {
+    "original": "By Eli Tan"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Is Sued by Employees Fired After Criticizing Musk",
+    "kicker": "",
+    "print_headline": "Ex-Employees Sue SpaceX, Contesting Their Dismissal"
+   },
+   "_id": "nyt://article/1878b8c1-ef11-55a2-b414-a2bc3a236781",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Labor and Jobs",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Workplace Hazards and Violations",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Sexual Harassment",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Suits and Litigation (Civil)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Workplace Environment",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "National Labor Relations Board",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Shotwell, Gwynne",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Jenna Schoenefeld for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/12/multimedia/12spacex-lawsuit-Paige-bzwf/12spacex-lawsuit-Paige-bzwf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/12/multimedia/12spacex-lawsuit-Paige-bzwf/12spacex-lawsuit-Paige-bzwf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "2",
+   "print_section": "B",
+   "pub_date": "2024-06-12T22:09:52Z",
+   "section_name": "Business",
+   "snippet": "The eight workers say they were wrongfully fired after circulating a memo raising concerns about sexual harassment at the rocket company led by Elon Musk.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/1878b8c1-ef11-55a2-b414-a2bc3a236781",
+   "web_url": "https://www.nytimes.com/2024/06/12/business/spacex-employees-elon-musk-lawsuit.html",
+   "word_count": 488
+  },
+  {
+   "abstract": "The company achieved a key set of ambitious goals on the fourth test flight of a vehicle that is central to Elon Musk\u2019s vision of sending people to Mars.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX\u2019s Starship Rocket Successfully Completes 1st Return From Space",
+    "kicker": "",
+    "print_headline": "SpaceX\u2019s Starship Rocket Completes Its First Return From Space"
+   },
+   "_id": "nyt://article/babc8212-6d52-5a8b-8a2f-5794497cd1c3",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 5
+    },
+    {
+     "name": "Keyword",
+     "value": "Starship",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "The SpaceX Starship launching on its fourth flight test from Starbase in Boca Chica, Texas, on June 6, 2024.",
+    "credit": "Brandon Bell/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/06/multimedia/06spacex-starship-new-new-blmz/06spacex-starship-new-new-blmz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/06/multimedia/06spacex-starship-new-new-blmz/06spacex-starship-new-new-blmz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "23",
+   "print_section": "A",
+   "pub_date": "2024-06-06T09:04:01Z",
+   "section_name": "Science",
+   "snippet": "The company achieved a key set of ambitious goals on the fourth test flight of a vehicle that is central to Elon Musk\u2019s vision of sending people to Mars.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/babc8212-6d52-5a8b-8a2f-5794497cd1c3",
+   "web_url": "https://www.nytimes.com/2024/06/06/science/spacex-starship-fourth-test-flight.html",
+   "word_count": 985
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Does NASA need another ride to the space station? Elon Musk says no.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/0e9951c8-e146-56ac-8333-5733e42d128d",
+   "keywords": [],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    },
+    "thumbnail": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-06-05T14:21:26Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/0e9951c8-e146-56ac-8333-5733e42d128d",
+   "web_url": "https://www.nytimes.com/live/2024/06/05/science/boeing-launch-starliner-nasa/does-nasa-need-another-ride-to-the-space-station-elon-musk-says-no",
+   "word_count": 519
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How NASA ended up paying for private rides to orbit.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/9af71811-1de5-57ea-94e8-ab3413937c9e",
+   "keywords": [],
+   "multimedia": {
+    "caption": "The launch of the second test flight without crew to the International Space Station from Cape Canaveral in Florida in 2022.",
+    "credit": "Steve Nesius/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/06/science/06boeing-starliner-commercial-crew/06boeing-starliner-commercial-crew-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/06/science/06boeing-starliner-commercial-crew/06boeing-starliner-commercial-crew-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-06-05T15:23:28Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/9af71811-1de5-57ea-94e8-ab3413937c9e",
+   "web_url": "https://www.nytimes.com/live/2024/06/05/science/boeing-launch-starliner-nasa/how-nasa-ended-up-paying-for-private-rides-to-orbit",
+   "word_count": 393
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Niraj Chokshi"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Starliner has cost Boeing $1.4 billion more than it planned to spend.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/8e1a39fe-e3b2-5fd7-8813-5ab6e492cea8",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Engineers working on the Boeing Starliner tested the spacecraft\u2019s seat design in Mesa, Ariz., in 2017.",
+    "credit": "NASA",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/01/multimedia/01boeing-starliner-money-jvfp/01boeing-starliner-money-jvfp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/01/multimedia/01boeing-starliner-money-jvfp/01boeing-starliner-money-jvfp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-06-05T14:01:36Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/8e1a39fe-e3b2-5fd7-8813-5ab6e492cea8",
+   "web_url": "https://www.nytimes.com/live/2024/06/05/science/boeing-launch-starliner-nasa/starliner-has-cost-boeing-1-4-billion-more-than-it-planned-to-spend",
+   "word_count": 336
+  },
+  {
+   "abstract": "The launch marks a long-delayed win for the aerospace giant, and the next step in NASA\u2019s reliance on the private sector for its human spaceflight program.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Boeing Carries NASA Astronauts to Orbit in \u2018Milestone\u2019 Starliner Flight",
+    "kicker": "",
+    "print_headline": "Boeing Carries NASA Astronauts to Orbit in \u2018Milestone\u2019 Starliner Flight"
+   },
+   "_id": "nyt://article/c35a8554-dd08-592c-992e-7d20575b5cef",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "The Starliner lifting off from Cape Canaveral on Wednesday, Boeing\u2019s first mission with astronauts aboard, who would take about a day to reach the International Space Station.",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/05/multimedia/05boeing-starliner-01-qgfk/05boeing-starliner-01-qgfk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/05/multimedia/05boeing-starliner-01-qgfk/05boeing-starliner-01-qgfk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "14",
+   "print_section": "A",
+   "pub_date": "2024-06-05T18:56:46Z",
+   "section_name": "Science",
+   "snippet": "The launch marks a long-delayed win for the aerospace giant, and the next step in NASA\u2019s reliance on the private sector for its human spaceflight program.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c35a8554-dd08-592c-992e-7d20575b5cef",
+   "web_url": "https://www.nytimes.com/2024/06/05/science/nasa-boeing-starliner-launch.html",
+   "word_count": 1071
+  },
+  {
+   "abstract": "Even so, today\u2019s launch feels like the last hurrah of an era of American space that is on its way out.",
+   "byline": {
+    "original": "By Neel V. Patel"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Did Boeing Just Fix Its Very Bad Year?",
+    "kicker": "",
+    "print_headline": "Did Boeing Just Fix Its Very Bad Year?"
+   },
+   "_id": "nyt://article/9ea4abe5-ff2c-5f8e-8c4e-656b018912fc",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Airlines and Airplanes",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Joe Raedle/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/09/multimedia/05opinion-thepoint-patel-boeing-tljh/05opinion-thepoint-patel-boeing-tljh-articleLarge.jpg",
+     "height": 397,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/09/multimedia/05opinion-thepoint-patel-boeing-tljh/05opinion-thepoint-patel-boeing-tljh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "5",
+   "print_section": "SR",
+   "pub_date": "2024-06-05T20:28:26Z",
+   "section_name": "Opinion",
+   "snippet": "Even so, today\u2019s launch feels like the last hurrah of an era of American space that is on its way out.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/9ea4abe5-ff2c-5f8e-8c4e-656b018912fc",
+   "web_url": "https://www.nytimes.com/live/2024/06/04/opinion/thepoint/boeing-starliner-launch",
+   "word_count": 345
+  },
+  {
+   "abstract": "Elon Musk\u2019s Starlink has connected an isolated tribe to the outside world \u2014 and divided it from within.",
+   "byline": {
+    "original": "By Jack Nicas and Victor Moriyama"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Internet\u2019s Final Frontier: Remote Amazon Tribes",
+    "kicker": "",
+    "print_headline": "The Internet\u2019s Final Frontier: Remote Amazon Tribes of Brazil"
+   },
+   "_id": "nyt://article/c074859b-f07e-59ae-ac5a-3b2b450c7b2b",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Indigenous People",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Youth",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Amazon Jungle",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Brazil",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "Javari Valley (Brazil)",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "vis-photo",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "A Starlink satellite internet antenna in the Manakieaway village of the Marubo Indigenous people in the Brazilian Amazon.",
+    "credit": "Victor Moriyama for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/02/world/02brazil-starlink-tribe-promo/02brazil-starlink-tribe-promo-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/02/world/02brazil-starlink-tribe-promo/02brazil-starlink-tribe-promo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-06-02T04:01:38Z",
+   "section_name": "World",
+   "snippet": "Elon Musk\u2019s Starlink has connected an isolated tribe to the outside world \u2014 and divided it from within.",
+   "source": "The New York Times",
+   "subsection_name": "Americas",
+   "type_of_material": "News",
+   "uri": "nyt://article/c074859b-f07e-59ae-ac5a-3b2b450c7b2b",
+   "web_url": "https://www.nytimes.com/2024/06/02/world/americas/starlink-internet-elon-musk-brazil-amazon.html",
+   "word_count": 2518
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Here\u2019s what to know about Starliner\u2019s flight.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/1c2d40dd-b6f8-510d-b688-8eef20a1e0d7",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space Shuttles",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    },
+    "thumbnail": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-06-05T10:25:56Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/1c2d40dd-b6f8-510d-b688-8eef20a1e0d7",
+   "web_url": "https://www.nytimes.com/live/2024/06/05/science/boeing-launch-starliner-nasa/heres-what-to-know-about-the-latest-try-to-launch-starliner",
+   "word_count": 476
+  },
+  {
+   "abstract": "Two NASA astronauts, Butch Wilmore and Suni Williams, opened the hatch of the spacecraft and boarded the outpost in orbit.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Boeing\u2019s Starliner Overcomes Malfunctioning Thrusters to Dock at Space Station",
+    "kicker": "",
+    "print_headline": "Boeing\u2019s Starliner Overcomes Thruster Trouble to Dock at Space Station"
+   },
+   "_id": "nyt://article/939a9058-eb01-5760-aff3-ee903fd01ec1",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Wilmore, Barry E (Butch) (1962- )",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Williams, Sunita L",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Engineering and Engineers",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The Boeing Starliner capsule en route to docking with the International Space Station on Thursday.",
+    "credit": "NASA Johnson",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/06/multimedia/06starliner-docking-02-mlvq/06starliner-docking-02-mlvq-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/06/multimedia/06starliner-docking-02-mlvq/06starliner-docking-02-mlvq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "23",
+   "print_section": "A",
+   "pub_date": "2024-06-06T19:35:53Z",
+   "section_name": "Science",
+   "snippet": "Two NASA astronauts, Butch Wilmore and Suni Williams, opened the hatch of the spacecraft and boarded the outpost in orbit.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/939a9058-eb01-5760-aff3-ee903fd01ec1",
+   "web_url": "https://www.nytimes.com/2024/06/06/science/boeing-starliner-space-station-docking.html",
+   "word_count": 769
+  }
+ ]
+}

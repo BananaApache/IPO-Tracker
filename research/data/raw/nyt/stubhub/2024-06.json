@@ -1,0 +1,87 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2024-06",
+ "begin_date": "20240601",
+ "end_date": "20240630",
+ "fetched_at": "2026-09-08T05:03:38.386545+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "High-profile cancellations from Jennifer Lopez and the Black Keys have armchair analysts talking. But industry insiders say live music is still thriving.",
+   "byline": {
+    "original": "By Ben Sisario and Joe Coscarelli"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Are Big Music Tours Really in Trouble?",
+    "kicker": "",
+    "print_headline": "Are Big Music Tours  Really in Trouble?"
+   },
+   "_id": "nyt://article/0361d012-da4f-56e2-9412-b3c25e8dadf0",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Rap and Hip-Hop",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Live Nation Entertainment Inc",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Fans (Persons)",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Black Keys (Music Group)",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Lopez, Jennifer",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "The Black Keys onstage in London last month. After announcing a North American arena tour, the duo called it off, then fired its high-powered managers.",
+    "credit": "Burak Cingi/Redferns, via Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/10/multimedia/08touring-biz-fjlk/08touring-biz-fjlk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/10/multimedia/08touring-biz-fjlk/08touring-biz-fjlk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Culture",
+   "print_page": "1",
+   "print_section": "C",
+   "pub_date": "2024-06-06T23:26:45Z",
+   "section_name": "Arts",
+   "snippet": "High-profile cancellations from Jennifer Lopez and the Black Keys have armchair analysts talking. But industry insiders say live music is still thriving.",
+   "source": "The New York Times",
+   "subsection_name": "Music",
+   "type_of_material": "News",
+   "uri": "nyt://article/0361d012-da4f-56e2-9412-b3c25e8dadf0",
+   "web_url": "https://www.nytimes.com/2024/06/06/arts/music/tours-jlo-black-keys.html",
+   "word_count": 1341
+  }
+ ]
+}

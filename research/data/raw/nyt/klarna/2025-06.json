@@ -1,0 +1,305 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2025-06",
+ "begin_date": "20250601",
+ "end_date": "20250630",
+ "fetched_at": "2026-09-08T05:32:14.532793+00:00",
+ "hits": 4,
+ "docs": [
+  {
+   "abstract": "Increased use of \u201cbuy now, pay later\u201d loans may signal shifting consumer habits, but could also be a troubling sign of financial stress.",
+   "byline": {
+    "original": "By Julie Creswell"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Consumers Are Financing Their Groceries. What Does It Say About the Economy?",
+    "kicker": "",
+    "print_headline": "Grocery Loans May Be New Habits, or Cash Woes"
+   },
+   "_id": "nyt://article/93853e31-2485-52ec-a0b9-b6d2f7dd9871",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Consumer Behavior",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Shopping and Retail",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Affirm Inc",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "Tia Hodge with her husband, Jason, and their daughter Nevaeh at their home in Austell, Ga. Mrs. Hodge uses a \u201cbuy now, pay later\u201d service to help cover the cost of groceries.",
+    "credit": "Kendrick Brinson for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/02/multimedia/02biz-buynowpaylater-cvpj/02biz-buynowpaylater-cvpj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/02/multimedia/02biz-buynowpaylater-cvpj/02biz-buynowpaylater-cvpj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-06-02T17:12:11Z",
+   "section_name": "Business",
+   "snippet": "Increased use of \u201cbuy now, pay later\u201d loans may signal shifting consumer habits, but could also be a troubling sign of financial stress.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/93853e31-2485-52ec-a0b9-b6d2f7dd9871",
+   "web_url": "https://www.nytimes.com/2025/06/02/business/buy-now-pay-later-groceries.html",
+   "word_count": 1299
+  },
+  {
+   "abstract": "As the use of these easy-credit installment loans has grown, FICO said repayment data would provide more insight on consumers\u2019 credit readiness.",
+   "byline": {
+    "original": "By Kailyn Rhone"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "FICO Scores to Include a Shopper\u2019s \u2018Buy Now, Pay Later\u2019 Loan History",
+    "kicker": "",
+    "print_headline": "FICO Scores to Include \u2018Buy Now, Pay Later\u2019 History"
+   },
+   "_id": "nyt://article/a602d122-7278-5ff3-bdc8-3c368489ac8e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Credit Scores",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Behavior",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Fair Isaac Corporation",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Credit Ratings and Credit Rating Agencies",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Though once reserved for big-ticket items, more people are using \u201cbuy now, pay later\u201d financing to pay for essentials like groceries.",
+    "credit": "Kendrick Brinson for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/24/multimedia/24biz-bnpl-jwpq/24biz-bnpl-jwpq-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/24/multimedia/24biz-bnpl-jwpq/24biz-bnpl-jwpq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2025-06-24T23:01:02Z",
+   "section_name": "Business",
+   "snippet": "As the use of these easy-credit installment loans has grown, FICO said repayment data would provide more insight on consumers\u2019 credit readiness.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a602d122-7278-5ff3-bdc8-3c368489ac8e",
+   "web_url": "https://www.nytimes.com/2025/06/24/business/fico-buy-now-pay-later-credit-scores.html",
+   "word_count": 516
+  },
+  {
+   "abstract": "Investors are anxious about whether the central bank will change course on rate cuts as geopolitical turmoil and tariffs pose inflation risks.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Danielle Kaye and Grady McGregor"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump and the Middle East Weigh on the Fed",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/284b2882-cc1b-5324-b21c-e7aa80db871f",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Powell, Jerome H",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "Iran",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Israel",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Oil (Petroleum) and Gasoline",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Jay Powell, the Fed chair, will probably face questions today about turmoil in the Middle East.",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/18/multimedia/18db-powell-vwql/18db-powell-vwql-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/18/multimedia/18db-powell-vwql/18db-powell-vwql-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-18T11:53:22Z",
+   "section_name": "Business",
+   "snippet": "Investors are anxious about whether the central bank will change course on rate cuts as geopolitical turmoil and tariffs pose inflation risks.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/284b2882-cc1b-5324-b21c-e7aa80db871f",
+   "web_url": "https://www.nytimes.com/2025/06/18/business/dealbook/trump-iran-fed-rates.html",
+   "word_count": 1892
+  },
+  {
+   "abstract": "We explore a resurgence of violence against Jews in the U.S.",
+   "byline": {
+    "original": "By Jonathan Weisman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "American Antisemitism",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/a80015ad-04f2-58a9-8606-dd074e8fe495",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Anti-Semitism",
+     "rank": 2
+    },
+    {
+     "name": "Location",
+     "value": "United States",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Israel-Gaza War (2023- )",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Zionism",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Soliman, Mohamed Sabry",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "In Boulder, Colo.",
+    "credit": "Michael Ciaglo for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/03/multimedia/03themorning-nl-HP-bjtf/03themorning-nl-HP-bjtf-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/03/multimedia/03themorning-nl-HP-bjtf/03themorning-nl-HP-bjtf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "NYTNow",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-03T10:58:28Z",
+   "section_name": "Briefing",
+   "snippet": "We explore a resurgence of violence against Jews in the U.S.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "briefing",
+   "uri": "nyt://article/a80015ad-04f2-58a9-8606-dd074e8fe495",
+   "web_url": "https://www.nytimes.com/2025/06/03/briefing/antisemitism-colorado.html",
+   "word_count": 1892
+  }
+ ]
+}

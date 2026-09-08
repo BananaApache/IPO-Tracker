@@ -1,0 +1,182 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2024-03",
+ "begin_date": "20240301",
+ "end_date": "20240331",
+ "fetched_at": "2026-09-08T04:56:26.271405+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "On April 8, the moon will blot out the sun along a roughly 4,200-mile-long, 115-mile-wide path across North America. Where will you watch it? Here are some ideas.",
+   "byline": {
+    "original": "By Danielle Dowling"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "31 Things to Do for the Big Eclipse This April",
+    "kicker": "",
+    "print_headline": "Solar Eclipse Viewing Spots Extend the Festivities"
+   },
+   "_id": "nyt://article/e70e0fe5-a246-5c44-a0f5-ad9094b22fc6",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Travel and Vacations",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Eclipses",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Festivals",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Camps and Camping",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Music",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Arrested Development (Music Group)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Band of Horses",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Blonde Redhead",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Cash, Johnny, Boyhood Home (Dyess, Ark)",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Deerfhoof",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Delta Air Lines Inc",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "Disco Biscuits",
+     "rank": 14
+    },
+    {
+     "name": "Organization",
+     "value": "Indianapolis Motor Speedway",
+     "rank": 15
+    },
+    {
+     "name": "Organization",
+     "value": "Meow Wolf (Art Collective)",
+     "rank": 16
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 17
+    },
+    {
+     "name": "Organization",
+     "value": "Vampire Weekend (Music Group)",
+     "rank": 18
+    },
+    {
+     "name": "Organization",
+     "value": "Sun Ra Arkestra",
+     "rank": 19
+    },
+    {
+     "name": "Location",
+     "value": "Adirondack Mountains (NY)",
+     "rank": 20
+    },
+    {
+     "name": "Location",
+     "value": "Arkansas",
+     "rank": 21
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 22
+    },
+    {
+     "name": "Location",
+     "value": "Mexico",
+     "rank": 23
+    },
+    {
+     "name": "Location",
+     "value": "Lake Champlain",
+     "rank": 24
+    },
+    {
+     "name": "Location",
+     "value": "Niagara Falls (NY)",
+     "rank": 25
+    },
+    {
+     "name": "Location",
+     "value": "Montreal (Quebec)",
+     "rank": 26
+    }
+   ],
+   "multimedia": {
+    "caption": "Catching the last total solar eclipse that swept across a large swath of North America, in August 2017. This April\u2019s eclipse will darken skies from Mazatl\u00e1n, Mexico, to Newfoundland, Canada.",
+    "credit": "John Minchillo/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06eclipse-roundup-01-bzvw/06eclipse-roundup-01-bzvw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06eclipse-roundup-01-bzvw/06eclipse-roundup-01-bzvw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Travel",
+   "print_page": "4",
+   "print_section": "D",
+   "pub_date": "2024-03-06T10:03:22Z",
+   "section_name": "Travel",
+   "snippet": "On April 8, the moon will blot out the sun along a roughly 4,200-mile-long, 115-mile-wide path across North America. Where will you watch it? Here are some ideas.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/e70e0fe5-a246-5c44-a0f5-ad9094b22fc6",
+   "web_url": "https://www.nytimes.com/2024/03/06/travel/total-solar-eclipse-2024.html",
+   "word_count": 1986
+  }
+ ]
+}

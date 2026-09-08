@@ -1,0 +1,92 @@
+{
+ "company": "Fervo Energy",
+ "query": "\"Fervo Energy\"",
+ "month": "2026-07",
+ "begin_date": "20260701",
+ "end_date": "20260731",
+ "fetched_at": "2026-09-08T05:32:38.594003+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "This year\u2019s boom includes the most spent on global deal-making in a six-month period in a decade. But questions persist about whether it can continue.",
+   "byline": {
+    "original": "By Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy",
+    "kicker": "",
+    "print_headline": "Economy Around A.I. Spurs Frenzy Of Big Deals"
+   },
+   "_id": "nyt://article/9f54dfea-9b82-5431-91f0-05d9be71f0f7",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The frenzy has heavily favored large companies, with 44 deals announced in the first six months of this year that were larger than $10 billion.",
+    "credit": "Karsten Moran for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/07/09/multimedia/09biz-deal-making-vpbc/09biz-deal-making-vpbc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/07/09/multimedia/09biz-deal-making-vpbc/09biz-deal-making-vpbc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-07-09T14:32:19Z",
+   "section_name": "Business",
+   "snippet": "This year\u2019s boom includes the most spent on global deal-making in a six-month period in a decade. But questions persist about whether it can continue.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/9f54dfea-9b82-5431-91f0-05d9be71f0f7",
+   "web_url": "https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html",
+   "word_count": 1108
+  }
+ ]
+}

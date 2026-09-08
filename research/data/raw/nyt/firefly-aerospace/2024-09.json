@@ -1,0 +1,107 @@
+{
+ "company": "Firefly Aerospace",
+ "query": "\"Firefly Aerospace\"",
+ "month": "2024-09",
+ "begin_date": "20240901",
+ "end_date": "20240930",
+ "fetched_at": "2026-09-08T05:00:38.319199+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The capsule, which returned without astronauts, and other space programs at Boeing have suffered many delays and cost overruns.",
+   "byline": {
+    "original": "By Niraj Chokshi"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Starliner\u2019s Troubles Are Latest Setback for Boeing\u2019s Space Business",
+    "kicker": "",
+    "print_headline": "Starliner\u2019s Woes Are Latest Setback For Boeing\u2019s Spaceflight Business"
+   },
+   "_id": "nyt://article/f40e5394-116c-5d46-85a9-90b9d3eebd21",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Airlines and Airplanes",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Aviation Accidents, Safety and Disasters",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Boeing 737 Max Groundings and Safety Concerns (2019)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "United Launch Alliance",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "The June trip of Boeing\u2019s Starliner to the International Space Station was supposed to be the final step in certifying that the capsule was ready to make the voyage annually.",
+    "credit": "NASA, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/05/multimedia/00boeing-space-02-fqkz/00boeing-space-02-fqkz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/05/multimedia/00boeing-space-02-fqkz/00boeing-space-02-fqkz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "15",
+   "print_section": "A",
+   "pub_date": "2024-09-07T14:06:38Z",
+   "section_name": "Business",
+   "snippet": "The capsule, which returned without astronauts, and other space programs at Boeing have suffered many delays and cost overruns.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/f40e5394-116c-5d46-85a9-90b9d3eebd21",
+   "web_url": "https://www.nytimes.com/2024/09/07/business/boeing-starliner-nasa-spacex.html",
+   "word_count": 1299
+  }
+ ]
+}

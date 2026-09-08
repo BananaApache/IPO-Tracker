@@ -1,0 +1,627 @@
+{
+ "from": "2026-07-01",
+ "to": "2026-07-31",
+ "fetched_at": "2026-09-08T04:23:26.641177+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2026-07-31",
+   "exchange": null,
+   "name": "Nuclea Energy Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-07-31",
+   "exchange": "NASDAQ Global",
+   "name": "Churchill Capital Corp XIII",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "XIIIU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2026-07-31",
+   "exchange": "NASDAQ Global Select",
+   "name": "Apnimed, Inc.",
+   "numberOfShares": 12000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "APMD",
+   "totalSharesValue": 192000000
+  },
+  {
+   "date": "2026-07-31",
+   "exchange": "NASDAQ Global",
+   "name": "East West Ave Acquisition Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EWAVU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-07-30",
+   "exchange": "NYSE",
+   "name": "Jersey Mike's Subs Inc.",
+   "numberOfShares": 43478261,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "JMKE",
+   "totalSharesValue": 1000000003
+  },
+  {
+   "date": "2026-07-30",
+   "exchange": "NYSE",
+   "name": "Reformation Inc.",
+   "numberOfShares": 14062500,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "REF",
+   "totalSharesValue": 210937500
+  },
+  {
+   "date": "2026-07-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Game Your Game Inc.",
+   "numberOfShares": 16072730,
+   "price": null,
+   "status": "priced",
+   "symbol": "GYGY",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2026-07-29",
+   "exchange": null,
+   "name": "Aspargo Labs, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-07-29",
+   "exchange": "NYSE MKT",
+   "name": "IMC Rare Earths Ltd",
+   "numberOfShares": 4000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "IMC",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2026-07-29",
+   "exchange": null,
+   "name": "SIERRA INTERNATIONAL NETWORK INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SINI",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2026-07-28",
+   "exchange": "NASDAQ Global",
+   "name": "Catalyst Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CATLU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-07-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "Ionic Digital Inc.",
+   "numberOfShares": 10800164,
+   "price": null,
+   "status": "priced",
+   "symbol": "IOND",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2026-07-28",
+   "exchange": null,
+   "name": "TracX Logis Pte. Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TRCX",
+   "totalSharesValue": 22000000
+  },
+  {
+   "date": "2026-07-24",
+   "exchange": null,
+   "name": "Caedryn Acquisition Corp I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-07-24",
+   "exchange": null,
+   "name": "SPECTRAL IP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-07-24",
+   "exchange": "NASDAQ Global",
+   "name": "Scribe Therapeutics, Inc.",
+   "numberOfShares": 8580000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SCTX",
+   "totalSharesValue": 128700000
+  },
+  {
+   "date": "2026-07-24",
+   "exchange": "NASDAQ Global",
+   "name": "Market Technology Acquisition Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MTAKU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-07-24",
+   "exchange": "NASDAQ Capital",
+   "name": "Pelican Acquisition II Corp",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PLCIU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2026-07-24",
+   "exchange": null,
+   "name": "Bluerock Crunch Investment Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BRRKU",
+   "totalSharesValue": 172500000
+  },
+  {
+   "date": "2026-07-24",
+   "exchange": null,
+   "name": "K2 Capital Acquisition II Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KIIU",
+   "totalSharesValue": 172500000
+  },
+  {
+   "date": "2026-07-21",
+   "exchange": "NASDAQ Global",
+   "name": "B&R Technology Merger Corp.",
+   "numberOfShares": 32500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BRTMU",
+   "totalSharesValue": 325000000
+  },
+  {
+   "date": "2026-07-21",
+   "exchange": "NASDAQ Global",
+   "name": "Southern Cross Acquisition I Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NCOOU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-07-17",
+   "exchange": "NASDAQ Global",
+   "name": "AMR Resources Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AMACU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2026-07-17",
+   "exchange": null,
+   "name": "NuvOx Therapeutics, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NUOX",
+   "totalSharesValue": 26312000
+  },
+  {
+   "date": "2026-07-16",
+   "exchange": "NYSE",
+   "name": "Standard Nuclear, Inc.",
+   "numberOfShares": 10000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "STDN",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2026-07-16",
+   "exchange": "NYSE",
+   "name": "Csquare, Inc.",
+   "numberOfShares": 50000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "CSQR",
+   "totalSharesValue": 1050000000
+  },
+  {
+   "date": "2026-07-16",
+   "exchange": "NASDAQ Global",
+   "name": "QumulusAI, Inc.",
+   "numberOfShares": 39472531,
+   "price": null,
+   "status": "priced",
+   "symbol": "QMLS",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2026-07-16",
+   "exchange": null,
+   "name": "Phalanx Acquisition Corp I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PHAXU",
+   "totalSharesValue": 201250000
+  },
+  {
+   "date": "2026-07-14",
+   "exchange": "NASDAQ Global",
+   "name": "Jones Ventures INTL Acquisition1 Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JONEU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-07-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Research Alliance Corp IV",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RACD",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2026-07-13",
+   "exchange": null,
+   "name": "YPF Energia Electrica S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "YLUZ",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-07-13",
+   "exchange": null,
+   "name": "Material Resource Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MTRLU",
+   "totalSharesValue": 230000000
+  },
+  {
+   "date": "2026-07-10",
+   "exchange": null,
+   "name": "APEX Global Solutions Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-07-10",
+   "exchange": null,
+   "name": "Blue-Touch Holdings Group Co., Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-07-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "SK hynix Inc.",
+   "numberOfShares": 177900000,
+   "price": "149.00",
+   "status": "priced",
+   "symbol": "SKHY",
+   "totalSharesValue": 26507100000
+  },
+  {
+   "date": "2026-07-10",
+   "exchange": "NYSE",
+   "name": "Samos Energy Acquisition Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SAMOU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-07-10",
+   "exchange": null,
+   "name": "Sin Lian Seng Construction",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ININ",
+   "totalSharesValue": 35937500
+  },
+  {
+   "date": "2026-07-10",
+   "exchange": null,
+   "name": "Timwood Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TIWD",
+   "totalSharesValue": 43125000
+  },
+  {
+   "date": "2026-07-10",
+   "exchange": null,
+   "name": "Tailored Brands, Inc. / DE",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MENW",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-07-10",
+   "exchange": null,
+   "name": "Holtec Nuclear Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HNUC",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-07-09",
+   "exchange": "NASDAQ Global",
+   "name": "Columbus Circle Capital Corp III",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CCCTU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-07-09",
+   "exchange": "NASDAQ Global",
+   "name": "Mercator Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MRCOU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2026-07-09",
+   "exchange": null,
+   "name": "Chilwa Minerals Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CHWM",
+   "totalSharesValue": 4600000
+  },
+  {
+   "date": "2026-07-09",
+   "exchange": "NYSE",
+   "name": "Tarsier Pharma Ltd.",
+   "numberOfShares": 5000000,
+   "price": "8.00-10.00",
+   "status": "expected",
+   "symbol": "TARX",
+   "totalSharesValue": 57500000
+  },
+  {
+   "date": "2026-07-08",
+   "exchange": null,
+   "name": "Cloud Data Holdings Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-07-08",
+   "exchange": null,
+   "name": "INFINT Acquisition Corp 2",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-07-08",
+   "exchange": "NASDAQ Global",
+   "name": "Freedom Metals Acquisition Corp.",
+   "numberOfShares": 27500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FDMMU",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2026-07-07",
+   "exchange": "NASDAQ Global",
+   "name": "Bleichroeder Acquisition Corp. III",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BCCQU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2026-07-06",
+   "exchange": null,
+   "name": "RanMarine Technology B.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-07-06",
+   "exchange": null,
+   "name": "Syntiant Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SYTN",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-07-02",
+   "exchange": "NYSE",
+   "name": "Viking Acquisition Corp. II",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VIIU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-07-02",
+   "exchange": "NASDAQ Global",
+   "name": "Meridian3 Industrials Acquisition Corp",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MIACU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2026-07-02",
+   "exchange": null,
+   "name": "Genneia S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GENN",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-07-02",
+   "exchange": null,
+   "name": "Dear Industrial Gas Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KFDE",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2026-07-02",
+   "exchange": null,
+   "name": "Cumberland Farms Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CMBY",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-07-02",
+   "exchange": null,
+   "name": "Laris Growth Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LARSU",
+   "totalSharesValue": 230000000
+  },
+  {
+   "date": "2026-07-02",
+   "exchange": null,
+   "name": "Gold Mountain Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GDMTU",
+   "totalSharesValue": 86250000
+  },
+  {
+   "date": "2026-07-01",
+   "exchange": "NASDAQ Global",
+   "name": "Osprey Acquisition Corp. III",
+   "numberOfShares": 26100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OSPRU",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2026-07-01",
+   "exchange": "NASDAQ Global Select",
+   "name": "Bending Spoons S.p.A.",
+   "numberOfShares": 57971015,
+   "price": "29.00",
+   "status": "priced",
+   "symbol": "BSP",
+   "totalSharesValue": 1681159435
+  },
+  {
+   "date": "2026-07-01",
+   "exchange": "NASDAQ Global Select",
+   "name": "ITG, Inc./DE/",
+   "numberOfShares": 19512196,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ITG",
+   "totalSharesValue": 312195136
+  },
+  {
+   "date": "2026-07-01",
+   "exchange": "NASDAQ Global Select",
+   "name": "Neutron Holdings, Inc.",
+   "numberOfShares": 6956522,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "LIME",
+   "totalSharesValue": 173913050
+  },
+  {
+   "date": "2026-07-01",
+   "exchange": null,
+   "name": "Asia AI Group Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ASAG",
+   "totalSharesValue": 50000000
+  }
+ ]
+}

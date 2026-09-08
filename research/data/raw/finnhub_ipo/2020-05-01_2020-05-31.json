@@ -1,0 +1,217 @@
+{
+ "from": "2020-05-01",
+ "to": "2020-05-31",
+ "fetched_at": "2026-09-08T04:20:58.561383+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2020-05-27",
+   "exchange": "NYSE",
+   "name": "Foley Trasimene Acquisition Corp.",
+   "numberOfShares": 90000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WPF'U",
+   "totalSharesValue": 900000000
+  },
+  {
+   "date": "2020-05-22",
+   "exchange": "NASDAQ Global Select",
+   "name": "Inari Medical, Inc.",
+   "numberOfShares": 8202565,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "NARI",
+   "totalSharesValue": 155848735
+  },
+  {
+   "date": "2020-05-21",
+   "exchange": "NYSE",
+   "name": "Butterfly Network, Inc.",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LGVWU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2020-05-21",
+   "exchange": "NYSE",
+   "name": "SelectQuote, Inc.",
+   "numberOfShares": 28500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "SLQT",
+   "totalSharesValue": 570000000
+  },
+  {
+   "date": "2020-05-20",
+   "exchange": "NYSE",
+   "name": "Eos Energy Enterprises, Inc.",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BMRGU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2020-05-15",
+   "exchange": "NASDAQ Capital",
+   "name": "AppHarvest, Inc.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NOVSU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2020-05-15",
+   "exchange": "NYSE",
+   "name": "ADC Therapeutics SA",
+   "numberOfShares": 12245631,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "ADCT",
+   "totalSharesValue": 232666989
+  },
+  {
+   "date": "2020-05-14",
+   "exchange": "NYSE",
+   "name": "Cano Health, Inc.",
+   "numberOfShares": 60000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JWS'U",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2020-05-14",
+   "exchange": "NYSE",
+   "name": "Lightning eMotors, Inc.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GIK'U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-05-08",
+   "exchange": null,
+   "name": "Pulmonx Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-05-08",
+   "exchange": "NASDAQ Global Select",
+   "name": "Kingsoft Cloud Holdings Ltd",
+   "numberOfShares": 30000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "KC",
+   "totalSharesValue": 510000000
+  },
+  {
+   "date": "2020-05-08",
+   "exchange": "NASDAQ Capital",
+   "name": "China Liberal Education Holdings Ltd",
+   "numberOfShares": 1333333,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "CLEU",
+   "totalSharesValue": 7999998
+  },
+  {
+   "date": "2020-05-08",
+   "exchange": "NASDAQ Global",
+   "name": "Ayala Pharmaceuticals, Inc.",
+   "numberOfShares": 3666667,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "AYLA",
+   "totalSharesValue": 55000005
+  },
+  {
+   "date": "2020-05-08",
+   "exchange": null,
+   "name": "Dynamic Shares Trust",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "WEIX",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2020-05-06",
+   "exchange": "NYSE",
+   "name": "Danimer Scientific, Inc.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LOAKU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-05-06",
+   "exchange": "NYSE",
+   "name": "Sustainable Opportunities Acquisition Corp.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SOACU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-05-05",
+   "exchange": "NASDAQ Capital",
+   "name": "Roth CH Acquisition I Co",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ROCHU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2020-05-05",
+   "exchange": "NASDAQ Capital",
+   "name": "GAN Ltd",
+   "numberOfShares": 6380000,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "GAN",
+   "totalSharesValue": 54230000
+  },
+  {
+   "date": "2020-05-01",
+   "exchange": "NASDAQ Capital",
+   "name": "Collective Growth Corp",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CGROU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2020-05-01",
+   "exchange": "NASDAQ Global",
+   "name": "Lyra Therapeutics, Inc.",
+   "numberOfShares": 3500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "LYRA",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2020-05-01",
+   "exchange": null,
+   "name": "EQUITABLE MINERAL & DEVELOPMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000000
+  }
+ ]
+}

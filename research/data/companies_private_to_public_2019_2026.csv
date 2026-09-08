@@ -1,0 +1,45 @@
+Company,Ticker,Year,Month,Exchange,Method,Sector,Notes
+Uber,UBER,2019,May,NYSE,IPO,Ride-hailing / Delivery,
+Lyft,LYFT,2019,March,Nasdaq,IPO,Ride-hailing,
+Pinterest,PINS,2019,April,NYSE,IPO,Social Media,
+Zoom,ZM,2019,April,Nasdaq,IPO,Enterprise Software,
+Slack,WORK,2019,June,NYSE,Direct Listing,Enterprise Software,Acquired by Salesforce in 2021
+Peloton,PTON,2019,September,Nasdaq,IPO,Consumer Fitness,
+Airbnb,ABNB,2020,December,Nasdaq,IPO,Travel / Marketplace,
+DoorDash,DASH,2020,December,NYSE,IPO,Delivery,
+Snowflake,SNOW,2020,September,NYSE,IPO,Data / Cloud,
+Palantir,PLTR,2020,September,NYSE,Direct Listing,Data Analytics,
+Unity,U,2020,September,NYSE,IPO,Game Engine / Software,
+DraftKings,DKNG,2020,April,Nasdaq,SPAC Merger,Sports Betting,
+Coinbase,COIN,2021,April,Nasdaq,Direct Listing,Crypto,
+Rivian,RIVN,2021,November,Nasdaq,IPO,Electric Vehicles,
+Roblox,RBLX,2021,March,NYSE,Direct Listing,Gaming,
+Robinhood,HOOD,2021,July,Nasdaq,IPO,Fintech / Brokerage,
+Coupang,CPNG,2021,March,NYSE,IPO,E-commerce,South Korea
+Nu Holdings (Nubank),NU,2021,December,NYSE,IPO,Digital Banking,Brazil
+Duolingo,DUOL,2021,July,Nasdaq,IPO,EdTech,
+Bumble,BMBL,2021,February,Nasdaq,IPO,Dating Apps,
+Mobileye,MBLY,2022,October,Nasdaq,IPO,Autonomous Driving,Carve-out from Intel
+Porsche AG,P911,2022,September,Frankfurt,IPO,Automotive,Carve-out from Volkswagen
+Arm Holdings,ARM,2023,September,Nasdaq,IPO,Semiconductors,Majority owned by SoftBank
+Instacart (Maplebear),CART,2023,September,Nasdaq,IPO,Grocery Delivery,
+Klaviyo,KVYO,2023,September,NYSE,IPO,Marketing Software,
+Birkenstock,BIRK,2023,October,NYSE,IPO,Footwear,
+Reddit,RDDT,2024,March,NYSE,IPO,Social Media,
+Astera Labs,ALAB,2024,March,Nasdaq,IPO,Semiconductors,
+Rubrik,RBRK,2024,April,NYSE,IPO,Data Security,
+Tempus AI,TEM,2024,June,Nasdaq,IPO,Health Tech / AI,
+CoreWeave,CRWV,2025,March,Nasdaq,IPO,AI Cloud Infrastructure,Largest tech IPO since 2021
+Circle Internet,CRCL,2025,June,NYSE,IPO,Crypto / Stablecoins,
+Chime,CHYM,2025,June,Nasdaq,IPO,Digital Banking,
+Figma,FIG,2025,July,NYSE,IPO,Design Software,Adobe acquisition collapsed in 2023
+Bullish,BLSH,2025,August,NYSE,IPO,Crypto Exchange,Priced at $37/share
+Firefly Aerospace,FLY,2025,August,Nasdaq,IPO,Space / Aerospace,
+Klarna,KLAR,2025,September,NYSE,IPO,Fintech / BNPL,Priced at $40/share; Sweden
+StubHub,STUB,2025,September,NYSE,IPO,Ticketing Marketplace,
+Medline,,2025,December,Nasdaq,IPO,Medical Supplies,~$6.3B raised; largest IPO of 2025
+Cerebras Systems,CBRS,2026,May,Nasdaq,IPO,AI Chips,~$5.55B raised
+Fervo Energy,FRVO,2026,May,Nasdaq,IPO,Geothermal Energy,~$1.89B raised; largest renewable IPO ever
+SpaceX,SPCX,2026,June,Nasdaq,IPO,Space / Aerospace,~$1.77T valuation; largest IPO ever completed
+Jersey Mike's Subs,JMKE,2026,July,NYSE,IPO,Restaurants,Priced at $23/share; ~$1B raised
+Unitree Robotics,,2026,August,Shanghai STAR,IPO,Robotics,Raised ~CNY 6.1B (~$905M)

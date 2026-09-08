@@ -1,0 +1,287 @@
+{
+ "from": "2025-03-01",
+ "to": "2025-03-31",
+ "fetched_at": "2026-09-08T04:22:54.643583+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2025-03-31",
+   "exchange": "NASDAQ Capital",
+   "name": "UY Scuti Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "UYSCU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2025-03-31",
+   "exchange": "NYSE",
+   "name": "Newsmax Inc.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NMAX",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2025-03-31",
+   "exchange": null,
+   "name": "Sea Forrest International Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 19550000
+  },
+  {
+   "date": "2025-03-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "CoreWeave, Inc.",
+   "numberOfShares": 37500000,
+   "price": "40.00",
+   "status": "priced",
+   "symbol": "CRWV",
+   "totalSharesValue": 1500000000
+  },
+  {
+   "date": "2025-03-28",
+   "exchange": "NASDAQ Capital",
+   "name": "Intercont (Cayman) Ltd",
+   "numberOfShares": 1500000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "NCT",
+   "totalSharesValue": 10500000
+  },
+  {
+   "date": "2025-03-27",
+   "exchange": "NASDAQ Capital",
+   "name": "WF Holding Ltd",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "WFF",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2025-03-27",
+   "exchange": null,
+   "name": "HengHong Technology Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HCPC",
+   "totalSharesValue": 13800000
+  },
+  {
+   "date": "2025-03-26",
+   "exchange": "NASDAQ Global",
+   "name": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "numberOfShares": 2101313,
+   "price": null,
+   "status": "priced",
+   "symbol": "NTHI",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2025-03-26",
+   "exchange": "NASDAQ Capital",
+   "name": "Epsium Enterprise Ltd",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "EPSM",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-03-25",
+   "exchange": "NYSE MKT",
+   "name": "LOGPROSTYLE INC.",
+   "numberOfShares": 2000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "LGPS",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2025-03-24",
+   "exchange": null,
+   "name": "Gameverse Interactive Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GVSE",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2025-03-21",
+   "exchange": "NASDAQ Global",
+   "name": "Gesher Acquisition Corp. II",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GSHRU",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2025-03-21",
+   "exchange": "NASDAQ Capital",
+   "name": "RedCloud Holdings plc",
+   "numberOfShares": 4444445,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "RCT",
+   "totalSharesValue": 20000003
+  },
+  {
+   "date": "2025-03-21",
+   "exchange": "NASDAQ Capital",
+   "name": "Baiya International Group Inc.",
+   "numberOfShares": 2500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "BIYA",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2025-03-20",
+   "exchange": null,
+   "name": "NUSATRIP Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-03-19",
+   "exchange": null,
+   "name": "Xinzi",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "XZ",
+   "totalSharesValue": 10350000
+  },
+  {
+   "date": "2025-03-18",
+   "exchange": "NASDAQ Global",
+   "name": "Quartzsea Acquisition Corp",
+   "numberOfShares": 7200000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "QSEAU",
+   "totalSharesValue": 72000000
+  },
+  {
+   "date": "2025-03-18",
+   "exchange": null,
+   "name": "Jingrui Wang Pu Holdings Group Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JRWP",
+   "totalSharesValue": 8625000
+  },
+  {
+   "date": "2025-03-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Marwynn Holdings, Inc.",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MWYN",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2025-03-07",
+   "exchange": "NASDAQ Capital",
+   "name": "SAGTEC GLOBAL Ltd",
+   "numberOfShares": 1750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "SAGT",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2025-03-07",
+   "exchange": "NYSE MKT",
+   "name": "Micropolis Holding Co",
+   "numberOfShares": 3875000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MCRP",
+   "totalSharesValue": 15500000
+  },
+  {
+   "date": "2025-03-07",
+   "exchange": null,
+   "name": "ANEW HEALTH Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AVG",
+   "totalSharesValue": 23000000
+  },
+  {
+   "date": "2025-03-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Capstone Holding Corp.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CAPS",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-03-06",
+   "exchange": "NASDAQ Global Select",
+   "name": "KESTRA MEDICAL TECHNOLOGIES, LTD.",
+   "numberOfShares": 11882352,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "KMTS",
+   "totalSharesValue": 201999984
+  },
+  {
+   "date": "2025-03-06",
+   "exchange": "NASDAQ Capital",
+   "name": "JFB Construction Holdings",
+   "numberOfShares": 1250000,
+   "price": "4.125",
+   "status": "priced",
+   "symbol": "JFB",
+   "totalSharesValue": 5162500
+  },
+  {
+   "date": "2025-03-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Brag House Holdings, Inc.",
+   "numberOfShares": 1475000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "TBH",
+   "totalSharesValue": 5900000
+  },
+  {
+   "date": "2025-03-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Advanced Biomed Inc.",
+   "numberOfShares": 1640000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ADVB",
+   "totalSharesValue": 6560000
+  },
+  {
+   "date": "2025-03-04",
+   "exchange": "NASDAQ Capital",
+   "name": "Skycorp Solar Group Ltd",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "PN",
+   "totalSharesValue": 8000000
+  }
+ ]
+}

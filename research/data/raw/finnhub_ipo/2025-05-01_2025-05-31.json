@@ -1,0 +1,547 @@
+{
+ "from": "2025-05-01",
+ "to": "2025-05-31",
+ "fetched_at": "2026-09-08T04:22:58.655233+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2025-05-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Pitanium Ltd",
+   "numberOfShares": 1750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "PTNM",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2025-05-29",
+   "exchange": "NYSE",
+   "name": "JENA ACQUISITION Corp II",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JENAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-05-29",
+   "exchange": "NASDAQ Capital",
+   "name": "Wintergreen Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WTGUU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2025-05-28",
+   "exchange": "NASDAQ Global",
+   "name": "Kochav Defense Acquisition Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KCHVU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-05-28",
+   "exchange": "NASDAQ Global",
+   "name": "ChampionsGate Acquisition Corp",
+   "numberOfShares": 6500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CHPGU",
+   "totalSharesValue": 65000000
+  },
+  {
+   "date": "2025-05-23",
+   "exchange": null,
+   "name": "Aurion Biotech, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-05-23",
+   "exchange": null,
+   "name": "PHI Group, Inc./DE",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-05-23",
+   "exchange": "NASDAQ Capital",
+   "name": "Fast Track Group",
+   "numberOfShares": 3750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "FTRK",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2025-05-23",
+   "exchange": "NASDAQ Global",
+   "name": "Pelican Acquisition Corp",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PELIU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2025-05-23",
+   "exchange": "NASDAQ Global",
+   "name": "Cal Redwood Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CRAQU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-05-22",
+   "exchange": "NASDAQ Global",
+   "name": "Oyster Enterprises II Acquisition Corp",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OYSEU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-05-22",
+   "exchange": "NYSE",
+   "name": "Hinge Health, Inc.",
+   "numberOfShares": 13666000,
+   "price": "32.00",
+   "status": "priced",
+   "symbol": "HNGE",
+   "totalSharesValue": 437312000
+  },
+  {
+   "date": "2025-05-22",
+   "exchange": "NYSE",
+   "name": "MNTN, Inc.",
+   "numberOfShares": 11700000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "MNTN",
+   "totalSharesValue": 187200000
+  },
+  {
+   "date": "2025-05-21",
+   "exchange": "NASDAQ Global",
+   "name": "ProCap Acquisition Corp",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PCAPU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-05-21",
+   "exchange": "NASDAQ Global",
+   "name": "Armada Acquisition Corp. II",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AACIU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-05-21",
+   "exchange": "NASDAQ Capital",
+   "name": "OFA Group",
+   "numberOfShares": 3750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "OFAL",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2025-05-20",
+   "exchange": null,
+   "name": "Uptrend Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "UPX",
+   "totalSharesValue": 8625000
+  },
+  {
+   "date": "2025-05-20",
+   "exchange": null,
+   "name": "Ultra High Point Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "UHP",
+   "totalSharesValue": 11000000
+  },
+  {
+   "date": "2025-05-19",
+   "exchange": null,
+   "name": "Fitness Champs Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-05-16",
+   "exchange": "NASDAQ Global",
+   "name": "WEN Acquisition Corp",
+   "numberOfShares": 26100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WENNU",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2025-05-16",
+   "exchange": "NASDAQ Global",
+   "name": "Columbus Circle Capital Corp. I",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CCCMU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-05-16",
+   "exchange": null,
+   "name": "World Road Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "WODO",
+   "totalSharesValue": 12075000
+  },
+  {
+   "date": "2025-05-16",
+   "exchange": null,
+   "name": "Zi Yun Dong Fang Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "YLY",
+   "totalSharesValue": 10350000
+  },
+  {
+   "date": "2025-05-15",
+   "exchange": "NASDAQ Global",
+   "name": "Thayer Ventures Acquisition Corp II",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TVAIU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2025-05-15",
+   "exchange": "NASDAQ Global",
+   "name": "Renatus Tactical Acquisition Corp I",
+   "numberOfShares": 21000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RTACU",
+   "totalSharesValue": 210000000
+  },
+  {
+   "date": "2025-05-15",
+   "exchange": "NASDAQ Global",
+   "name": "Arrive AI Inc.",
+   "numberOfShares": 29978212,
+   "price": null,
+   "status": "priced",
+   "symbol": "ARAI",
+   "totalSharesValue": 372700000
+  },
+  {
+   "date": "2025-05-14",
+   "exchange": "NASDAQ Global",
+   "name": "Churchill Capital Corp X/Cayman",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CCCXU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2025-05-14",
+   "exchange": "NASDAQ Global",
+   "name": "Antalpha Platform Holding Co",
+   "numberOfShares": 3850000,
+   "price": "12.80",
+   "status": "priced",
+   "symbol": "ANTA",
+   "totalSharesValue": 49280000
+  },
+  {
+   "date": "2025-05-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "eToro Group Ltd.",
+   "numberOfShares": 11923018,
+   "price": "52.00",
+   "status": "priced",
+   "symbol": "ETOR",
+   "totalSharesValue": 619996936
+  },
+  {
+   "date": "2025-05-13",
+   "exchange": "NASDAQ Global",
+   "name": "Perimeter Acquisition Corp. I",
+   "numberOfShares": 21000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PMTRU",
+   "totalSharesValue": 210000000
+  },
+  {
+   "date": "2025-05-13",
+   "exchange": "NASDAQ Capital",
+   "name": "OMS Energy Technologies Inc.",
+   "numberOfShares": 3703704,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "OMSE",
+   "totalSharesValue": 33333336
+  },
+  {
+   "date": "2025-05-09",
+   "exchange": null,
+   "name": "One Power Co",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-05-09",
+   "exchange": null,
+   "name": "HW Electro Co., Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-05-09",
+   "exchange": "NASDAQ Global",
+   "name": "EGH Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EGHAU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-05-09",
+   "exchange": "NYSE MKT",
+   "name": "Apimeds Pharmaceuticals US, Inc.",
+   "numberOfShares": 3375000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "APUS",
+   "totalSharesValue": 13500000
+  },
+  {
+   "date": "2025-05-09",
+   "exchange": null,
+   "name": "Bonus Biogroup Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BONS",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2025-05-08",
+   "exchange": "NYSE",
+   "name": "American Integrity Insurance Group, Inc.",
+   "numberOfShares": 6875000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "AII",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2025-05-08",
+   "exchange": "NYSE",
+   "name": "ASPEN INSURANCE HOLDINGS LTD",
+   "numberOfShares": 13250000,
+   "price": "30.00",
+   "status": "priced",
+   "symbol": "AHL",
+   "totalSharesValue": 397500000
+  },
+  {
+   "date": "2025-05-07",
+   "exchange": null,
+   "name": "Great Restaurant Development Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-05-07",
+   "exchange": "NASDAQ Global",
+   "name": "Dune Acquisition Corp II",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IPODU",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2025-05-06",
+   "exchange": null,
+   "name": "Caring Brands, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-05-05",
+   "exchange": null,
+   "name": "Sequoia Vaccines, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-05-02",
+   "exchange": null,
+   "name": "SHENNI HOLDINGS Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-05-02",
+   "exchange": null,
+   "name": "Center Holdings Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-05-02",
+   "exchange": null,
+   "name": "GrowHub Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-05-02",
+   "exchange": "NASDAQ Capital",
+   "name": "Winchester Bancorp, Inc./MD/",
+   "numberOfShares": 3997012,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WSBK",
+   "totalSharesValue": 39970120
+  },
+  {
+   "date": "2025-05-02",
+   "exchange": "NASDAQ Global",
+   "name": "Gores Holdings X, Inc. / CI",
+   "numberOfShares": 31200000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GTENU",
+   "totalSharesValue": 312000000
+  },
+  {
+   "date": "2025-05-02",
+   "exchange": "NASDAQ Global",
+   "name": "Cantor Equity Partners II, Inc.",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CEPT",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2025-05-02",
+   "exchange": "NASDAQ Global",
+   "name": "Cartesian Growth Corp III",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CGCTU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2025-05-02",
+   "exchange": "NASDAQ Capital",
+   "name": "Smart Digital Group Ltd",
+   "numberOfShares": 1500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "SDM",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2025-05-02",
+   "exchange": null,
+   "name": "Center Holdings Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CTMB",
+   "totalSharesValue": 25875000
+  },
+  {
+   "date": "2025-05-02",
+   "exchange": null,
+   "name": "TV Channels Network Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TVCN",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2025-05-01",
+   "exchange": "NASDAQ Global",
+   "name": "Republic Digital Acquisition Co",
+   "numberOfShares": 26400000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RDAGU",
+   "totalSharesValue": 264000000
+  },
+  {
+   "date": "2025-05-01",
+   "exchange": "NYSE",
+   "name": "Copley Acquisition Corp",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "COPLU",
+   "totalSharesValue": 150000000
+  }
+ ]
+}

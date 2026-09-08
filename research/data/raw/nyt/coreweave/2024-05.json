@@ -1,0 +1,97 @@
+{
+ "company": "CoreWeave",
+ "query": "\"CoreWeave\"",
+ "month": "2024-05",
+ "begin_date": "20240501",
+ "end_date": "20240531",
+ "fetched_at": "2026-09-08T04:59:50.199949+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Stubbornly high inflation has scrambled the central bank\u2019s outlook. Wall Street is now shifting focus to Friday\u2019s jobs report for clues on its next move.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "What Will It Take for the Fed to Lower Rates?",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/58cb6687-33e6-59a0-aef1-26829cb929c6",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Powell, Jerome H",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Labor and Jobs",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Organization for Economic Cooperation and Development",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Labor Department (US)",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Recession and Depression",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Jay Powell, the Fed chair, says the central bank is not ready to start talking interest-rate cuts.",
+    "credit": "Pete Marovich for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/02/multimedia/02db-powell-phwz/02db-powell-phwz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/02/multimedia/02db-powell-phwz/02db-powell-phwz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-05-02T11:57:07Z",
+   "section_name": "Business",
+   "snippet": "Stubbornly high inflation has scrambled the central bank\u2019s outlook. Wall Street is now shifting focus to Friday\u2019s jobs report for clues on its next move.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/58cb6687-33e6-59a0-aef1-26829cb929c6",
+   "web_url": "https://www.nytimes.com/2024/05/02/business/dealbook/fed-powell-interest-rates.html",
+   "word_count": 1881
+  }
+ ]
+}

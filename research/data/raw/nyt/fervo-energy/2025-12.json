@@ -1,0 +1,102 @@
+{
+ "company": "Fervo Energy",
+ "query": "\"Fervo Energy\"",
+ "month": "2025-12",
+ "begin_date": "20251201",
+ "end_date": "20251231",
+ "fetched_at": "2026-09-08T05:15:50.405204+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The state has become a hub of innovation for creating electricity using geothermal power. Just don\u2019t call it renewable.",
+   "byline": {
+    "original": "By J. David Goodman and Kaylee Greenlee for The New York Times"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Not All Drilling in Texas Is About Oil",
+    "kicker": "50 States, 50 Fixes",
+    "print_headline": "Not All Drilling Is for Oil; It Taps Into Earth\u2019s Heat"
+   },
+   "_id": "nyt://article/d24fb22e-aaa0-54b4-9f01-bba6a0cfc93d",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Global Warming",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Greenhouse Gas Emissions",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Alternative and Renewable Energy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Electric Light and Power",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Oil (Petroleum) and Gasoline",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Energy and Power",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Geothermal Power",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Pollution",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Sage Geosystems Inc",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Kaylee Greenlee for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/12/09/multimedia/09CLI-50x50-TEXAS-stillpromo-tglc/09CLI-50x50-TEXAS-stillpromo-tglc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/12/09/multimedia/09CLI-50x50-TEXAS-stillpromo-tglc/09CLI-50x50-TEXAS-stillpromo-tglc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Climate",
+   "print_page": "15",
+   "print_section": "A",
+   "pub_date": "2025-12-10T01:55:42Z",
+   "section_name": "Climate",
+   "snippet": "The state has become a hub of innovation for creating electricity using geothermal power. Just don\u2019t call it renewable.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/d24fb22e-aaa0-54b4-9f01-bba6a0cfc93d",
+   "web_url": "https://www.nytimes.com/2025/12/09/climate/not-all-drilling-in-texas-is-about-oil.html",
+   "word_count": 1294
+  }
+ ]
+}

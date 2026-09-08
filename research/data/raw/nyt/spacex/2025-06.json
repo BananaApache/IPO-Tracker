@@ -1,0 +1,911 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-06",
+ "begin_date": "20250601",
+ "end_date": "20250630",
+ "fetched_at": "2026-09-08T04:59:26.242127+00:00",
+ "hits": 52,
+ "docs": [
+  {
+   "abstract": "If President Trump cancels the contracts for Elon Musk\u2019s private spaceflight company, the federal government would struggle to achieve many goals in orbit and beyond.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA and the Defense Department Rely on SpaceX in So Many Ways",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/39300070-5cea-5da8-bd0d-46e6a4636aec",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "A SpaceX capsule carrying NASA astronauts, Suni Williams and Butch Wilmore, undocking from the International Space Station, in March.",
+    "credit": "NASA, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/17/multimedia/05HS-spacex/17astronauts-cost-clzh-articleLarge.jpg",
+     "height": 338,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/17/multimedia/05HS-spacex/17astronauts-cost-clzh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-06T00:01:14Z",
+   "section_name": "Science",
+   "snippet": "If President Trump cancels the contracts for Elon Musk\u2019s private spaceflight company, the federal government would struggle to achieve many goals in orbit and beyond.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/39300070-5cea-5da8-bd0d-46e6a4636aec",
+   "web_url": "https://www.nytimes.com/2025/06/05/science/spacex-nasa-trump-elon-musk.html",
+   "word_count": 984
+  },
+  {
+   "abstract": "The Starship experienced a \u201cmajor anomaly\u201d before starting its 10th flight test. Elon Musk\u2019s giant moon and Mars rocket has a mixed record of success.",
+   "byline": {
+    "original": "By John Yoon"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Starship Rocket Explodes Before Test",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/5195fbd2-2072-5c84-963e-313bc5969d81",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Explosions (Accidental)",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Accidents and Safety",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Cameron County (Tex)",
+     "rank": 7
+    },
+    {
+     "name": "Location",
+     "value": "Starbase (Tex)",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "LabPadre, via Storyful",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/19/science/space/19vid-starship-3x2/19vid-starship-3x2-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/19/science/space/19vid-starship-3x2/19vid-starship-3x2-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-19T07:43:51Z",
+   "section_name": "U.S.",
+   "snippet": "The Starship experienced a \u201cmajor anomaly\u201d before starting its 10th flight test. Elon Musk\u2019s giant moon and Mars rocket has a mixed record of success.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/5195fbd2-2072-5c84-963e-313bc5969d81",
+   "web_url": "https://www.nytimes.com/2025/06/19/us/spacex-rocket-explosion-texas.html",
+   "word_count": 391
+  },
+  {
+   "abstract": "Mexican environmental activists say detritus raining down from Elon Musk\u2019s rocket company has caused die-offs of marine life.",
+   "byline": {
+    "original": "By Simon Romero"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation",
+    "kicker": "",
+    "print_headline": "Mexico Warns of Legal Action After SpaceX Explosion Spews Debris"
+   },
+   "_id": "nyt://article/73ba9407-4c27-5d01-a293-0db49c53b501",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Fish and Other Marine Life",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Environment",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Wildlife Die-Offs",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Explosions (Accidental)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Pollution",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Sheinbaum, Claudia",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "Tamaulipas (Mexico)",
+     "rank": 11
+    },
+    {
+     "name": "Location",
+     "value": "Starbase (Tex)",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Conibio Global A.C.",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/26/26vid-SpaceX-49114-cover/26vid-SpaceX-49114-cover-articleLarge.jpg",
+     "height": 1067,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/26/26vid-SpaceX-49114-cover/26vid-SpaceX-49114-cover-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "8",
+   "print_section": "A",
+   "pub_date": "2025-06-26T16:29:34Z",
+   "section_name": "U.S.",
+   "snippet": "Mexican environmental activists say detritus raining down from Elon Musk\u2019s rocket company has caused die-offs of marine life.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/73ba9407-4c27-5d01-a293-0db49c53b501",
+   "web_url": "https://www.nytimes.com/2025/06/26/us/spacex-explosion-debris-mexico-investigation.html",
+   "word_count": 570
+  },
+  {
+   "abstract": "The president could tighten federal oversight of the tech titan\u2019s businesses, even if heavy reliance by the Pentagon and NASA on them makes terminating Mr. Musk\u2019s contracts less feasible.",
+   "byline": {
+    "original": "By Eric Lipton and Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Has Options to Punish Musk Even if His Federal Contracts Continue",
+    "kicker": "News Analysis",
+    "print_headline": "Oversight May Be Better Tool To Gain Leverage Over Musk Than Threats to Cancel Deals"
+   },
+   "_id": "nyt://article/f5a30314-7ac1-5e73-aa45-b3d6c8ceaf0d",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Defense Department",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Defense Contracts",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX holds billions of dollars in Pentagon contracts.",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/06/multimedia/06dc-musk-contracts-01-mhtp/06dc-musk-contracts-01-mhtp-articleLarge.jpg",
+     "height": 820,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/06/multimedia/06dc-musk-contracts-01-mhtp/06dc-musk-contracts-01-mhtp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "19",
+   "print_section": "A",
+   "pub_date": "2025-06-06T22:58:40Z",
+   "section_name": "U.S.",
+   "snippet": "The president could tighten federal oversight of the tech titan\u2019s businesses, even if heavy reliance by the Pentagon and NASA on them makes terminating Mr. Musk\u2019s contracts less feasible.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News Analysis",
+   "uri": "nyt://article/f5a30314-7ac1-5e73-aa45-b3d6c8ceaf0d",
+   "web_url": "https://www.nytimes.com/2025/06/06/us/politics/trump-musk-spacex-contracts.html",
+   "word_count": 1238
+  },
+  {
+   "abstract": "As Mr. Musk steps away from Washington, he faces concerns over his prolonged absence from his businesses including Tesla, SpaceX, xAI and X.",
+   "byline": {
+    "original": "By Ryan Mac, Kate Conger and Rebecca F. Elliott"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Returns to His Tech Empire, Facing Questions of Inattention",
+    "kicker": "",
+    "print_headline": "Musk Pivots  To Project A New Focus"
+   },
+   "_id": "nyt://article/91801e6e-0b29-5270-a255-29270274607f",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk at SpaceX\u2019s Starbase in Texas on Tuesday. The tech billionaire is shifting back to his role as a business titan.",
+    "credit": "Marvin Joseph/The Washington Post, via Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/29/business/00biz-musk-businesses-1/00biz-musk-businesses-1-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/29/business/00biz-musk-businesses-1/00biz-musk-businesses-1-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-06-02T16:15:26Z",
+   "section_name": "Business",
+   "snippet": "As Mr. Musk steps away from Washington, he faces concerns over his prolonged absence from his businesses including Tesla, SpaceX, xAI and X.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/91801e6e-0b29-5270-a255-29270274607f",
+   "web_url": "https://www.nytimes.com/2025/06/02/business/elon-musk-tesla-spacex-x.html",
+   "word_count": 1352
+  },
+  {
+   "abstract": "One part of Musk and Trump\u2019s public breakup should not get lost: the reality of Musk\u2019s importance to American national security.",
+   "byline": {
+    "original": "By W.J. Hennigan"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Don\u2019t Overlook the Reality of Elon Musk\u2019s Contracts and Their Importance to the U.S.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/91cb7233-fb0a-5d68-9c73-3c5f322a4692",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    },
+    "thumbnail": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-09T17:33:43Z",
+   "section_name": "Opinion",
+   "snippet": "One part of Musk and Trump\u2019s public breakup should not get lost: the reality of Musk\u2019s importance to American national security.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/91cb7233-fb0a-5d68-9c73-3c5f322a4692",
+   "web_url": "https://www.nytimes.com/live/2025/06/02/opinion/thepoint/elon-musk-spacex-nasa-contracts-trump",
+   "word_count": 651
+  },
+  {
+   "abstract": "Last year alone, companies owned by Elon Musk were promised $3 billion across nearly 100 different government contracts with 17 federal agencies.",
+   "byline": {
+    "original": "By Tyler Pager"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Threatens Musk Contracts as Feud Escalates",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/93eee87e-39d3-5ffa-b16c-3374e5f282c3",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "One Big Beautiful Bill Act (2025)",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Budget (US)",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX was one of the companies owned by Elon Musk that was promised government contracts last year. ",
+    "credit": "Callaghan O'Hare for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/05/multimedia/05musk-trump-threats-topart-zhvg/05musk-trump-threats-topart-zhvg-articleLarge.jpg",
+     "height": 899,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/05/multimedia/05musk-trump-threats-topart-zhvg/05musk-trump-threats-topart-zhvg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-05T19:51:50Z",
+   "section_name": "U.S.",
+   "snippet": "Last year alone, companies owned by Elon Musk were promised $3 billion across nearly 100 different government contracts with 17 federal agencies.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/93eee87e-39d3-5ffa-b16c-3374e5f282c3",
+   "web_url": "https://www.nytimes.com/2025/06/05/us/trump-musk-contracts-threat.html",
+   "word_count": 241
+  },
+  {
+   "abstract": "President Trump is locked in a showdown with the world\u2019s richest man, who is far from a typical opponent.",
+   "byline": {
+    "original": "By Luke Broadwater"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Has Power, a Big Megaphone and Billions to Spend. So Does Musk.",
+    "kicker": "News Analysis",
+    "print_headline": "President Finds a Rival Who Can Punch Back"
+   },
+   "_id": "nyt://article/877bad7b-5c7c-549e-a076-58ef32921b8e",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 3
+    }
+   ],
+   "multimedia": {
+    "caption": "President Trump and Elon Musk at the Oval Office last week, after Mr. Musk announced his departure from his government role.",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/06/multimedia/06dc-trump-opposition1-klwq/06dc-trump-opposition1-klwq-articleLarge.jpg",
+     "height": 899,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/06/multimedia/06dc-trump-opposition1-klwq/06dc-trump-opposition1-klwq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-06-06T16:11:42Z",
+   "section_name": "U.S.",
+   "snippet": "President Trump is locked in a showdown with the world\u2019s richest man, who is far from a typical opponent.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/877bad7b-5c7c-549e-a076-58ef32921b8e",
+   "web_url": "https://www.nytimes.com/2025/06/06/us/politics/trump-musk.html",
+   "word_count": 1184
+  },
+  {
+   "abstract": "President Trump and Elon Musk traded social media barbs last week. Mr. Trump has said that he has no interest in repairing the relationship with his former adviser.",
+   "byline": {
+    "original": "By Andr\u00e9s R. Mart\u00ednez and Adam Satariano"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk Expresses \u2018Regret\u2019 Over His Criticisms of Trump",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/c1280556-fcba-5a16-9502-cc7535f3c98d",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk in the Oval Office last month.",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/11/multimedia/11xp-musk-lphw/11xp-musk-lphw-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/11/multimedia/11xp-musk-lphw/11xp-musk-lphw-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-11T07:34:40Z",
+   "section_name": "Business",
+   "snippet": "President Trump and Elon Musk traded social media barbs last week. Mr. Trump has said that he has no interest in repairing the relationship with his former adviser.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c1280556-fcba-5a16-9502-cc7535f3c98d",
+   "web_url": "https://www.nytimes.com/2025/06/11/business/elon-musk-trump-feud.html",
+   "word_count": 617
+  },
+  {
+   "abstract": "Mr. Musk\u2019s Starlink has brought the internet to some of South America\u2019s most remote places. But Bolivia is shunning it, even as many there are desperate for better service.",
+   "byline": {
+    "original": "By Ana Ionova and Mar\u00eda Silvia Trigo"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Latin American Country That Told Elon Musk \u2018No\u2019",
+    "kicker": "",
+    "print_headline": "Despite Poor Internet, Bolivia Shuns Musk\u2019s Starlink"
+   },
+   "_id": "nyt://article/e21894ad-174a-57e5-90fd-febcab58cbd0",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Wireless Communications",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "International Relations",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Rural Areas",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Spacesail Technologies Co Ltd",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "Bolivia",
+     "rank": 11
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 12
+    },
+    {
+     "name": "Location",
+     "value": "South America",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "A Starlink satellite internet antenna in rural Brazil in 2024.",
+    "credit": "Victor Moriyama for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/22/multimedia/00int-bolivia-starlink01-promo/00int-bolivia-starlink01-photo-gqhj-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/22/multimedia/00int-bolivia-starlink01-promo/00int-bolivia-starlink01-photo-gqhj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "4",
+   "print_section": "A",
+   "pub_date": "2025-06-08T09:00:24Z",
+   "section_name": "World",
+   "snippet": "Mr. Musk\u2019s Starlink has brought the internet to some of South America\u2019s most remote places. But Bolivia is shunning it, even as many there are desperate for better service.",
+   "source": "The New York Times",
+   "subsection_name": "Americas",
+   "type_of_material": "News",
+   "uri": "nyt://article/e21894ad-174a-57e5-90fd-febcab58cbd0",
+   "web_url": "https://www.nytimes.com/2025/06/08/world/americas/elon-musk-starlink-bolivia.html",
+   "word_count": 1214
+  }
+ ]
+}

@@ -1,0 +1,244 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2025-02",
+ "begin_date": "20250201",
+ "end_date": "20250228",
+ "fetched_at": "2026-09-08T05:22:50.440164+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "A study compared the cost of the cheapest seat at Sunday\u2019s game to a typical monthly mortgage payment in 50 major U.S. metros.",
+   "byline": {
+    "original": "By Matt Yan"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Which Costs More: A Super Bowl Ticket or Your Mortgage?",
+    "kicker": "Calculator",
+    "print_headline": "Super Bowl vs. Mortgage Payment"
+   },
+   "_id": "nyt://article/1183a5c5-cc40-5629-8c5b-262f8407a6c5",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Real Estate and Housing (Residential)",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Mortgages",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Super Bowl",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "United States",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Travis Kelce and the Kansas City Chiefs will take on the Philadelphia Eagles in Super Bowl LIX on Sunday. The cheapest tickets cost thousands of dollars. ",
+    "credit": "Abbie Parr/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/06/multimedia/06calculator-vqpk/06calculator-vqpk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/06/multimedia/06calculator-vqpk/06calculator-vqpk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "RealEstate",
+   "print_page": "2",
+   "print_section": "RE",
+   "pub_date": "2025-02-06T10:02:02Z",
+   "section_name": "Real Estate",
+   "snippet": "A study compared the cost of the cheapest seat at Sunday\u2019s game to a typical monthly mortgage payment in 50 major U.S. metros.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/1183a5c5-cc40-5629-8c5b-262f8407a6c5",
+   "web_url": "https://www.nytimes.com/2025/02/06/realestate/super-bowl-tickets-mortgage.html",
+   "word_count": 345
+  },
+  {
+   "abstract": "If you received more than $5,000 for online sales of \u201cgoods or services\u201d in 2024, you might get a Form 1099-K. Don\u2019t ignore it, an expert says.",
+   "byline": {
+    "original": "By Ann Carrns"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Did You Sell Concert Tickets or Clothes? You May Owe Taxes.",
+    "kicker": "your money adviser",
+    "print_headline": "Sold Any Taylor Swift Tickets? You May Owe Taxes."
+   },
+   "_id": "nyt://article/0c675ff2-0aa2-5670-9091-abbf51433752",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Mobile Commerce and Payments",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "E-Commerce",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Income Tax",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Internal Revenue Service",
+     "rank": 6
+    },
+    {
+     "name": "Keyword",
+     "value": "Form 1099-K",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Till Lauer",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/22/business/21adviser-print/21adviser-articleLarge.png",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/22/business/21adviser-print/21adviser-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2025-02-21T14:00:06Z",
+   "section_name": "Your Money",
+   "snippet": "If you received more than $5,000 for online sales of \u201cgoods or services\u201d in 2024, you might get a Form 1099-K. Don\u2019t ignore it, an expert says.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/0c675ff2-0aa2-5670-9091-abbf51433752",
+   "web_url": "https://www.nytimes.com/2025/02/21/your-money/taxes-reselling-gig-workers.html",
+   "word_count": 1264
+  },
+  {
+   "abstract": "Some tech companies are delaying or pulling their listing plans as the Trump administration\u2019s tariff announcements and other changes cause market volatility and uncertainty.",
+   "byline": {
+    "original": "By Erin Griffith"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "They\u2019ve Been Waiting Years to Go Public. They\u2019re Still Waiting.",
+    "kicker": "",
+    "print_headline": "A Waiting Game for I.P.O.s"
+   },
+   "_id": "nyt://article/0916d9fd-54ea-5562-99a1-027c4a00ddee",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Stripe Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Turo Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Amanda Cotan",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/19/business/18tech-ipo-B1/00tech-ipo-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/19/business/18tech-ipo-B1/00tech-ipo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-02-18T14:44:37Z",
+   "section_name": "Technology",
+   "snippet": "Some tech companies are delaying or pulling their listing plans as the Trump administration\u2019s tariff announcements and other changes cause market volatility and uncertainty.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/0916d9fd-54ea-5562-99a1-027c4a00ddee",
+   "web_url": "https://www.nytimes.com/2025/02/18/technology/tech-ipo-delays.html",
+   "word_count": 1317
+  }
+ ]
+}

@@ -1,0 +1,829 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2026-01",
+ "begin_date": "20260101",
+ "end_date": "20260131",
+ "fetched_at": "2026-09-08T05:16:14.483259+00:00",
+ "hits": 29,
+ "docs": [
+  {
+   "abstract": "If SpaceX, OpenAI and Anthropic go public, they will unleash gushers of cash for Silicon Valley and Wall Street.",
+   "byline": {
+    "original": "By Erin Griffith and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "2026 May Be the Year of the Mega I.P.O.",
+    "kicker": "",
+    "print_headline": "Is 2026 the Year  Of Mega I.P.O.s?"
+   },
+   "_id": "nyt://article/10edc821-a737-50a8-967b-2a14437c4501",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Altman, Samuel H",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Filippo Fontana",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/01/14/business/14mega-ipo-sub/14mega-ipo-sub-articleLarge.jpg",
+     "height": 619,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/01/14/business/14mega-ipo-sub/14mega-ipo-sub-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-01-14T17:30:06Z",
+   "section_name": "Technology",
+   "snippet": "If SpaceX, OpenAI and Anthropic go public, they will unleash gushers of cash for Silicon Valley and Wall Street.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/10edc821-a737-50a8-967b-2a14437c4501",
+   "web_url": "https://www.nytimes.com/2026/01/14/technology/ai-ipo-openai-anthropic-spacex.html",
+   "word_count": 1413
+  },
+  {
+   "abstract": "Under a near-total communications blackout, users of Elon Musk\u2019s satellite service have gotten online without paying, organizations that work on tech issues said.",
+   "byline": {
+    "original": "By Natallie Rocha"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Starlink Users in Iran Get Free Internet Access, Nonprofits Say",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/1a510177-5e80-52a7-bd55-7f572b966ee9",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Demonstrations, Protests and Riots",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Communications and Media Blackouts",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Nonprofit Organizations",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 11
+    },
+    {
+     "name": "Location",
+     "value": "Iran",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "The Iranian government has cracked down on protests like this one in Tehran last week with a communications blockade. ",
+    "credit": "Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/01/13/multimedia/13biz-starlink-iran-wvbm/13biz-starlink-iran-wvbm-articleLarge.jpg",
+     "height": 408,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/01/13/multimedia/13biz-starlink-iran-wvbm/13biz-starlink-iran-wvbm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-01-14T00:35:16Z",
+   "section_name": "Technology",
+   "snippet": "Under a near-total communications blackout, users of Elon Musk\u2019s satellite service have gotten online without paying, organizations that work on tech issues said.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/1a510177-5e80-52a7-bd55-7f572b966ee9",
+   "web_url": "https://www.nytimes.com/2026/01/13/technology/iran-starlink-elon-musk.html",
+   "word_count": 464
+  },
+  {
+   "abstract": "Activists spent years preparing for a communications blackout in Iran, smuggling in Starlink satellite internet systems and making digital shutdowns harder for the authorities to enforce.",
+   "byline": {
+    "original": "By Adam Satariano, Paul Mozur and Sheera Frenkel"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Inside the Fight to Keep Iran Online",
+    "kicker": "",
+    "print_headline": "How Activists In Iran Combat Web Blackout"
+   },
+   "_id": "nyt://article/bdb837f6-410d-5e0b-9a70-c69a4dbf8275",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "Iran",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Demonstrations, Protests and Riots",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Human Rights and Human Rights Violations",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Communications and Media Blackouts",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Censorship",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "A Starlink receiver atop a house in Kurdistan, Iran, in 2023. About 50,000 Starlink terminals are now in the country, according to digital activists.",
+    "credit": "Middle East Images/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/01/15/multimedia/00biz-iran-internet-starlink-hgjm/00biz-iran-internet-starlink-hgjm-articleLarge.jpg",
+     "height": 800,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/01/15/multimedia/00biz-iran-internet-starlink-hgjm/00biz-iran-internet-starlink-hgjm-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2026-01-15T22:25:42Z",
+   "section_name": "Technology",
+   "snippet": "Activists spent years preparing for a communications blackout in Iran, smuggling in Starlink satellite internet systems and making digital shutdowns harder for the authorities to enforce.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/bdb837f6-410d-5e0b-9a70-c69a4dbf8275",
+   "web_url": "https://www.nytimes.com/2026/01/15/technology/iran-online-starlink.html",
+   "word_count": 1185
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "What happens during the astronauts\u2019 return to Earth?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/f46db866-675b-5a69-84f8-65b02689ea9c",
+   "keywords": [],
+   "multimedia": {
+    "caption": "A Crew Dragon capsule undocking from the space station last March.",
+    "credit": "NASA, via Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/01/15/multimedia/15hs-astronauts-live-reentry-kzph/15hs-astronauts-live-reentry-kzph-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/01/15/multimedia/15hs-astronauts-live-reentry-kzph/15hs-astronauts-live-reentry-kzph-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-01-15T07:00:08Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/f46db866-675b-5a69-84f8-65b02689ea9c",
+   "web_url": "https://www.nytimes.com/live/2026/01/15/science/nasa-astronauts-return/what-happens-during-the-astronauts-return-to-earth",
+   "word_count": 184
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Is it risky to fly a sick astronaut home to Earth?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/e1868896-6f07-5bb9-9ebe-2226e371b7c7",
+   "keywords": [],
+   "multimedia": {
+    "caption": "A SpaceX capsule landing in the Pacific Ocean off the Southern California coast last August.",
+    "credit": "Keegan Barber/NASA, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/01/15/multimedia/15hs-astronauts-live-risks-ltzf/15hs-astronauts-live-risks-ltzf-articleLarge.jpg",
+     "height": 395,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/01/15/multimedia/15hs-astronauts-live-risks-ltzf/15hs-astronauts-live-risks-ltzf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-01-15T06:16:01Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/e1868896-6f07-5bb9-9ebe-2226e371b7c7",
+   "web_url": "https://www.nytimes.com/live/2026/01/15/science/nasa-astronauts-return/is-it-risky-to-fly-a-sick-astronaut-home-to-earth",
+   "word_count": 201
+  },
+  {
+   "abstract": "Some tech leaders are concerned that the artificial intelligence race will exhaust available land and energy. The solution might lie in orbit.",
+   "byline": {
+    "original": "By Eli Tan and Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Even the Sky May Not Be the Limit for A.I. Data Centers",
+    "kicker": "",
+    "print_headline": "A.I. in the Sky? Space Is Seen As a Data Site. "
+   },
+   "_id": "nyt://article/c32c3717-a724-58b7-ab48-295b579acae1",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Earth",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Innovation",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Starcould Inc",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "So&ntilde;a Lee",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/12/30/business/00ai-space/00ai-space-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/12/30/business/00ai-space/00ai-space-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-01-01T10:00:32Z",
+   "section_name": "Technology",
+   "snippet": "Some tech leaders are concerned that the artificial intelligence race will exhaust available land and energy. The solution might lie in orbit.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c32c3717-a724-58b7-ab48-295b579acae1",
+   "web_url": "https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html",
+   "word_count": 1106
+  },
+  {
+   "abstract": "Mr. Musk has tried to put distance between himself and the disgraced financier Jeffrey Epstein, but emails show the two were on friendly terms.",
+   "byline": {
+    "original": "By Michael C. Bender, Sharon LaFraniere and Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk and Epstein Exchanged Emails About Visiting One Another, Documents Show",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/42b1b4f0-9f90-5d04-8cff-51410991164b",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Epstein, Jeffrey E (1953- )",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Human Trafficking",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Sex Crimes",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Child Abuse and Neglect",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Prostitution",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Justice Department",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk at the Kennedy Center in Washington in November. He exchanged multiple messages with Mr. Epstein, the documents show.",
+    "credit": "Haiyun Jiang/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/01/30/multimedia/30epstein-files-live-musk1-pvzj/30epstein-files-live-musk1-pvzj-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/01/30/multimedia/30epstein-files-live-musk1-pvzj/30epstein-files-live-musk1-pvzj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-01-30T22:47:37Z",
+   "section_name": "U.S.",
+   "snippet": "Mr. Musk has tried to put distance between himself and the disgraced financier Jeffrey Epstein, but emails show the two were on friendly terms.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/42b1b4f0-9f90-5d04-8cff-51410991164b",
+   "web_url": "https://www.nytimes.com/2026/01/30/us/elon-musk-epstein-emails.html",
+   "word_count": 839
+  },
+  {
+   "abstract": "The Space Launch System and Orion capsule were transported to the launchpad before an astronaut mission that could launch as soon as Feb. 6.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA\u2019s Giant Rocket Completes Slow Roll Toward Artemis II Moon Voyage",
+    "kicker": "",
+    "print_headline": "NASA\u2019s Giant Rocket Begins Roll Toward Trip to Moon"
+   },
+   "_id": "nyt://article/b4c2d68d-1b95-5af7-b835-ac155945cf37",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Kennedy Space Center",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Wiseman, G Reid",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Kenny Holston/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/01/17/multimedia/17HS-ARTEMIS-II-stillpromo-cglm/17HS-ARTEMIS-II-stillpromo-cglm-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/01/17/multimedia/17HS-ARTEMIS-II-stillpromo-cglm/17HS-ARTEMIS-II-stillpromo-cglm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2026-01-17T18:10:28Z",
+   "section_name": "Science",
+   "snippet": "The Space Launch System and Orion capsule were transported to the launchpad before an astronaut mission that could launch as soon as Feb. 6.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/b4c2d68d-1b95-5af7-b835-ac155945cf37",
+   "web_url": "https://www.nytimes.com/2026/01/17/science/nasa-artemis-ii-rocket-moon.html",
+   "word_count": 954
+  },
+  {
+   "abstract": "Four astronauts departed from the I.S.S. about a month earlier than scheduled because a crew member, who was not identified, has an undisclosed medical issue.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA Space Station Medical Evacuation of Astronauts Gets Underway",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/42c2a6aa-5dbf-5d3f-865d-4967b38cd325",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Evacuations and Evacuees",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Medicine and Health",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "The International Space Station crew members in their Crew Dragon pressure suits on Jan. 9. Clockwise from bottom left: NASA astronaut Mike Fincke, Roscosmos cosmonaut Oleg Platonov, NASA astronaut Zena Cardman and JAXA astronaut Kimiya Yui.",
+    "credit": "NASA",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/01/14/science/14HS-nasa-astronauts/14HS-nasa-astronauts-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/01/14/science/14HS-nasa-astronauts/14HS-nasa-astronauts-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-01-14T19:10:42Z",
+   "section_name": "Science",
+   "snippet": "Four astronauts departed from the I.S.S. about a month earlier than scheduled because a crew member, who was not identified, has an undisclosed medical issue.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/42c2a6aa-5dbf-5d3f-865d-4967b38cd325",
+   "web_url": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
+   "word_count": 656
+  },
+  {
+   "abstract": "The sensors used to listen for earthquakes could help protect people from the hazards created by falling spacecraft.",
+   "byline": {
+    "original": "By Robin George Andrews"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands",
+    "kicker": "",
+    "print_headline": "Cosmic Hazards: To Elude Falling Space Junk, Sonic Booms Can Offer Guidance"
+   },
+   "_id": "nyt://article/63e81bc4-7822-58ac-9157-2fb4e5a53cae",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Sensors",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Earthquakes",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Aviation Accidents, Safety and Disasters",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Security and Warning Systems",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Science (Journal)",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Tiangong Space Program",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Research",
+     "rank": 13
+    },
+    {
+     "name": "Location",
+     "value": "California",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "An artist\u2019s rendering of the re-entry of Shenzhou-15 over California in April 2024, showing the sonic boom on the ground as recorded by the Southern California Seismic Network.",
+    "credit": "Sophia Economon/Benjamin Fernando",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/01/27/multimedia/22hs-sci-space-junk-02-fvlt/22hs-sci-space-junk-02-fvlt-articleLarge.jpg",
+     "height": 777,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/01/27/multimedia/22hs-sci-space-junk-02-fvlt/22hs-sci-space-junk-02-fvlt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "2",
+   "print_section": "D",
+   "pub_date": "2026-01-22T19:00:11Z",
+   "section_name": "Science",
+   "snippet": "The sensors used to listen for earthquakes could help protect people from the hazards created by falling spacecraft.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/63e81bc4-7822-58ac-9157-2fb4e5a53cae",
+   "web_url": "https://www.nytimes.com/2026/01/22/science/space-junk-seismographs.html",
+   "word_count": 733
+  }
+ ]
+}

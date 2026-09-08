@@ -1,0 +1,140 @@
+{
+ "company": "CoreWeave",
+ "cohort": "tier_b",
+ "symbol": "CRWV",
+ "resolution": {
+  "company": "CoreWeave",
+  "title": "CoreWeave",
+  "method": "exact title match",
+  "candidates": [],
+  "notes": "",
+  "cohort": "tier_b"
+ },
+ "article_created": "2024-06-20T18:23:54Z",
+ "coverage_start": "2015-07-01",
+ "first_pageview_month": "202406",
+ "views_by_title": {
+  "CoreWeave": 508304,
+  "Draft:CoreWeave": 40,
+  "CoreWeave, Inc.": 83,
+  "CRWV": 167,
+  "Coreweave": 733
+ },
+ "redirects_included": true,
+ "title_history_inherited": false,
+ "fetched_at": "2026-09-08T08:16:48.525975+00:00",
+ "items": [
+  {
+   "timestamp": "2024060100",
+   "views": 153
+  },
+  {
+   "timestamp": "2024070100",
+   "views": 199
+  },
+  {
+   "timestamp": "2024080100",
+   "views": 209
+  },
+  {
+   "timestamp": "2024090100",
+   "views": 1144
+  },
+  {
+   "timestamp": "2024100100",
+   "views": 5522
+  },
+  {
+   "timestamp": "2024110100",
+   "views": 7519
+  },
+  {
+   "timestamp": "2024120100",
+   "views": 7627
+  },
+  {
+   "timestamp": "2025010100",
+   "views": 8283
+  },
+  {
+   "timestamp": "2025020100",
+   "views": 7272
+  },
+  {
+   "timestamp": "2025030100",
+   "views": 62277
+  },
+  {
+   "timestamp": "2025040100",
+   "views": 24213
+  },
+  {
+   "timestamp": "2025050100",
+   "views": 36024
+  },
+  {
+   "timestamp": "2025060100",
+   "views": 37519
+  },
+  {
+   "timestamp": "2025070100",
+   "views": 27595
+  },
+  {
+   "timestamp": "2025080100",
+   "views": 28679
+  },
+  {
+   "timestamp": "2025090100",
+   "views": 26842
+  },
+  {
+   "timestamp": "2025100100",
+   "views": 30941
+  },
+  {
+   "timestamp": "2025110100",
+   "views": 32191
+  },
+  {
+   "timestamp": "2025120100",
+   "views": 18948
+  },
+  {
+   "timestamp": "2026010100",
+   "views": 20355
+  },
+  {
+   "timestamp": "2026020100",
+   "views": 16405
+  },
+  {
+   "timestamp": "2026030100",
+   "views": 15735
+  },
+  {
+   "timestamp": "2026040100",
+   "views": 19200
+  },
+  {
+   "timestamp": "2026050100",
+   "views": 20601
+  },
+  {
+   "timestamp": "2026060100",
+   "views": 16863
+  },
+  {
+   "timestamp": "2026070100",
+   "views": 14163
+  },
+  {
+   "timestamp": "2026080100",
+   "views": 18320
+  },
+  {
+   "timestamp": "2026090100",
+   "views": 4528
+  }
+ ]
+}

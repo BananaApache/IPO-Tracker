@@ -1,0 +1,277 @@
+{
+ "from": "2020-02-01",
+ "to": "2020-02-29",
+ "fetched_at": "2026-09-08T04:20:52.559592+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2020-02-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "Passage BIO, Inc.",
+   "numberOfShares": 12000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "PASG",
+   "totalSharesValue": 216000000
+  },
+  {
+   "date": "2020-02-24",
+   "exchange": "NASDAQ Capital",
+   "name": "Zhongchao Inc.",
+   "numberOfShares": 3000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ZCMD",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2020-02-21",
+   "exchange": "NYSE",
+   "name": "Rush Street Interactive, Inc.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DMYTU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-02-21",
+   "exchange": null,
+   "name": "GOLDENWELL BIOTECH, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2020-02-20",
+   "exchange": "NASDAQ Capital",
+   "name": "East Stone Acquisition Corp",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ESSCU",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2020-02-19",
+   "exchange": null,
+   "name": "EnVen Energy Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-02-18",
+   "exchange": null,
+   "name": "Freecast, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FCST",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2020-02-14",
+   "exchange": "NASDAQ Capital",
+   "name": "Nuvve Holding Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NBACU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2020-02-14",
+   "exchange": "NYSE",
+   "name": "MultiPlan Corp",
+   "numberOfShares": 100000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CCXXU",
+   "totalSharesValue": 1000000000
+  },
+  {
+   "date": "2020-02-13",
+   "exchange": null,
+   "name": "Northridge Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-02-13",
+   "exchange": "NASDAQ Global Select",
+   "name": "Revolution Medicines, Inc.",
+   "numberOfShares": 14000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "RVMD",
+   "totalSharesValue": 238000000
+  },
+  {
+   "date": "2020-02-13",
+   "exchange": "NASDAQ Capital",
+   "name": "TRxADE HEALTH, INC",
+   "numberOfShares": 806452,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "MEDS",
+   "totalSharesValue": 5241938
+  },
+  {
+   "date": "2020-02-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Muscle Maker, Inc.",
+   "numberOfShares": 1540000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "GRIL",
+   "totalSharesValue": 7700000
+  },
+  {
+   "date": "2020-02-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Yunhong International",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ZGYHU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2020-02-12",
+   "exchange": "NASDAQ Global",
+   "name": "Huize Holding Ltd",
+   "numberOfShares": 5250000,
+   "price": "10.50",
+   "status": "priced",
+   "symbol": "HUIZ",
+   "totalSharesValue": 55125000
+  },
+  {
+   "date": "2020-02-11",
+   "exchange": "NYSE",
+   "name": "CITIC Capital Acquisition Corp.",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CCACU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2020-02-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Greenrose Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GNRSU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2020-02-11",
+   "exchange": null,
+   "name": "Pelican Delivers, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3900000
+  },
+  {
+   "date": "2020-02-07",
+   "exchange": "NASDAQ Global Select",
+   "name": "Professional Holding Corp.",
+   "numberOfShares": 3100000,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "PFHD",
+   "totalSharesValue": 57350000
+  },
+  {
+   "date": "2020-02-07",
+   "exchange": "NYSE",
+   "name": "NexPoint Real Estate Finance, Inc.",
+   "numberOfShares": 5000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "NREF",
+   "totalSharesValue": 95000000
+  },
+  {
+   "date": "2020-02-07",
+   "exchange": "NASDAQ Global",
+   "name": "OneWater Marine Inc.",
+   "numberOfShares": 4615385,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "ONEW",
+   "totalSharesValue": 55384620
+  },
+  {
+   "date": "2020-02-06",
+   "exchange": "NASDAQ Global Select",
+   "name": "PPD, Inc.",
+   "numberOfShares": 60000000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "PPD",
+   "totalSharesValue": 1620000000
+  },
+  {
+   "date": "2020-02-06",
+   "exchange": "NYSE",
+   "name": "Casper Sleep Inc.",
+   "numberOfShares": 8350000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "CSPR",
+   "totalSharesValue": 100200000
+  },
+  {
+   "date": "2020-02-06",
+   "exchange": "NASDAQ Global Select",
+   "name": "Schrodinger, Inc.",
+   "numberOfShares": 11882352,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "SDGR",
+   "totalSharesValue": 201999984
+  },
+  {
+   "date": "2020-02-06",
+   "exchange": "NASDAQ Global Select",
+   "name": "Beam Therapeutics Inc.",
+   "numberOfShares": 10588236,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BEAM",
+   "totalSharesValue": 180000012
+  },
+  {
+   "date": "2020-02-04",
+   "exchange": null,
+   "name": "KCI Holdings, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-02-04",
+   "exchange": "NYSE",
+   "name": "Aeva Technologies, Inc.",
+   "numberOfShares": 21000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IPV'U",
+   "totalSharesValue": 210000000
+  }
+ ]
+}

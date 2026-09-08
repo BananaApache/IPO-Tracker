@@ -1,0 +1,800 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2024-11",
+ "begin_date": "20241101",
+ "end_date": "20241130",
+ "fetched_at": "2026-09-08T04:42:38.187797+00:00",
+ "hits": 58,
+ "docs": [
+  {
+   "abstract": "Mr. Musk dug into his companies\u2019 budgets, preferring to cut too much rather than too little and to deal with the fallout later. Under Donald Trump, he is set to apply those tactics to the U.S. government.",
+   "byline": {
+    "original": "By Ryan Mac, Kate Conger, Jack Ewing and Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Slash First, Fix Later: How Elon Musk Cuts Costs",
+    "kicker": "",
+    "print_headline": "Chop First and Fix Later: How Musk Tames Costs"
+   },
+   "_id": "nyt://article/048390e5-5f45-58ae-bd7c-d4e55785e4ab",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Government Employees",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Layoffs and Job Reductions",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Driverless and Semiautonomous Vehicles",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Automobile Safety Features and Defects",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 15
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Photo Illustration by Lincoln Agnew; Photographs by Doug Mills/The New York Times; Meridith Kohut for The New York Times; Todd Anderson for The New York Times; Katrin Streicher for The New York Times; Loren Elliott for The New York Times; Getty Images; iStock",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/18/business/00musk-cuts/00musk-cuts-articleLarge.jpg",
+     "height": 420,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/18/business/00musk-cuts/00musk-cuts-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-11-16T05:00:17Z",
+   "section_name": "Technology",
+   "snippet": "Mr. Musk dug into his companies\u2019 budgets, preferring to cut too much rather than too little and to deal with the fallout later. Under Donald Trump, he is set to apply those tactics to the U.S. government.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/048390e5-5f45-58ae-bd7c-d4e55785e4ab",
+   "web_url": "https://www.nytimes.com/2024/11/16/technology/elon-musk-cost-cuts.html",
+   "word_count": 2022
+  },
+  {
+   "abstract": "President-elect Donald J. Trump joined Elon Musk, as his company\u2019s prototype moon and Mars rocket carried out a sixth test flight that showed a mix of progress and setbacks.",
+   "byline": {
+    "original": "By Katrina Miller, Erica L. Green and Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Starship Launch Ends With a Dramatic Water Landing",
+    "kicker": "",
+    "print_headline": "Latest Test Flight of SpaceX\u2019s Starship Is Mix of Progress, Setbacks and Spectacle"
+   },
+   "_id": "nyt://article/080ae0b6-87f9-599e-b4dd-9e942087a9ac",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Brownsville (Tex)",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "The view from the Starship spacecraft during the launch on Tuesday.",
+    "credit": "SpaceX, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/19/multimedia/19starship-launch-03-fmcz/19starship-launch-03-fmcz-articleLarge.jpg",
+     "height": 338,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/19/multimedia/19starship-launch-03-fmcz/19starship-launch-03-fmcz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2024-11-19T17:00:08Z",
+   "section_name": "Science",
+   "snippet": "President-elect Donald J. Trump joined Elon Musk, as his company\u2019s prototype moon and Mars rocket carried out a sixth test flight that showed a mix of progress and setbacks.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/080ae0b6-87f9-599e-b4dd-9e942087a9ac",
+   "web_url": "https://www.nytimes.com/2024/11/19/science/spacex-launch-starship.html",
+   "word_count": 1033
+  },
+  {
+   "abstract": "The president-elect\u2019s decision to witness the liftoff is another example of his close ties to the world\u2019s wealthiest entrepreneur.",
+   "byline": {
+    "original": "By Michael Gold and Theodore Schleifer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Plans to Attend Musk\u2019s SpaceX Launch on Tuesday",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/9832b540-2b8b-5d5c-98b6-453718e5303e",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "The SpaceX Starship at its launchpad in Boca Chica, Texas, on Sunday, ahead of its sixth test flight.",
+    "credit": "Chandan Khanna/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/18/multimedia/18trump-news-spacex-launch-kgwq/18trump-news-spacex-launch-kgwq-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/18/multimedia/18trump-news-spacex-launch-kgwq/18trump-news-spacex-launch-kgwq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-11-18T22:33:53Z",
+   "section_name": "U.S.",
+   "snippet": "The president-elect\u2019s decision to witness the liftoff is another example of his close ties to the world\u2019s wealthiest entrepreneur.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/9832b540-2b8b-5d5c-98b6-453718e5303e",
+   "web_url": "https://www.nytimes.com/2024/11/18/us/politics/trump-musk-spacex-launch-texas.html",
+   "word_count": 569
+  },
+  {
+   "abstract": "The president-elect\u2019s appearance in Texas demonstrates the growing closeness between the two billionaires, and Mr. Musk\u2019s increasing influence in Mr. Trump\u2019s orbit.",
+   "byline": {
+    "original": "By Erica L. Green"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump to Watch Latest SpaceX Launch With Elon Musk",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/51b0577b-a935-5c2d-8a46-03a7efcb7d7d",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    }
+   ],
+   "multimedia": {
+    "caption": "The Starship spacecraft in Boca Chica, Texas.",
+    "credit": "Eric Gay/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/19/multimedia/19dc-trump-launch-cvqj/19dc-trump-launch-cvqj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/19/multimedia/19dc-trump-launch-cvqj/19dc-trump-launch-cvqj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-11-19T20:35:14Z",
+   "section_name": "U.S.",
+   "snippet": "The president-elect\u2019s appearance in Texas demonstrates the growing closeness between the two billionaires, and Mr. Musk\u2019s increasing influence in Mr. Trump\u2019s orbit.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/51b0577b-a935-5c2d-8a46-03a7efcb7d7d",
+   "web_url": "https://www.nytimes.com/2024/11/19/us/politics/trump-spacex-launch.html",
+   "word_count": 288
+  },
+  {
+   "abstract": "An independent researcher found that noise recorded miles away from the site of a recent test flight was equal to standing 200 feet from a Boeing 747 during takeoff.",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Starship\u2019s Sonic Boom Creates Risk of Structural Damage, Test Finds",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/5926eaaa-647a-5e23-b71e-faf333932744",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Noise",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "Port Isabel (Tex)",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "Padre Island (Tex)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Buildings (Structures)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Real Estate and Housing (Residential)",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The measurements of the actual sound and air pressure generated by SpaceX\u2019s new Starship rocket during its fifth test launch last month are the most comprehensive publicly released to date.",
+    "credit": "Sergio Flores/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/17/multimedia/17dc-SpaceXnoise-bwmv/17dc-SpaceXnoise-bwmv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/17/multimedia/17dc-SpaceXnoise-bwmv/17dc-SpaceXnoise-bwmv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-11-18T20:05:53Z",
+   "section_name": "U.S.",
+   "snippet": "An independent researcher found that noise recorded miles away from the site of a recent test flight was equal to standing 200 feet from a Boeing 747 during takeoff.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/5926eaaa-647a-5e23-b71e-faf333932744",
+   "web_url": "https://www.nytimes.com/2024/11/18/us/politics/spacex-starship-sonic-boom-damage.html",
+   "word_count": 1090
+  },
+  {
+   "abstract": "The world\u2019s richest man gave his money and time in campaigning for the president-elect and now is putting in his requests for a friendlier regulatory environment.",
+   "byline": {
+    "original": "By Eric Lipton, Kirsten Grind, David A. Fahrenthold and Theodore Schleifer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Helped Elect Trump. What Does He Expect in Return?",
+    "kicker": "",
+    "print_headline": "What Does Musk Want In Return for Helping Trump Win 2nd Term?"
+   },
+   "_id": "nyt://article/d740c5f5-aa9d-5786-a14f-361434f44cf3",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Communications Commission",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Defense Department",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk at a rally for former President Donald J. Trump in New York last month. Mr. Musk poured more than $100 million into Mr. Trump\u2019s campaign.",
+    "credit": "Hiroko Masuike/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/06/multimedia/06dc-musk-qwfp/06dc-musk-qwfp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/06/multimedia/06dc-musk-qwfp/06dc-musk-qwfp-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "14",
+   "print_section": "A",
+   "pub_date": "2024-11-06T21:56:36Z",
+   "section_name": "U.S.",
+   "snippet": "The world\u2019s richest man gave his money and time in campaigning for the president-elect and now is putting in his requests for a friendlier regulatory environment.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/d740c5f5-aa9d-5786-a14f-361434f44cf3",
+   "web_url": "https://www.nytimes.com/2024/11/06/us/politics/elon-musk-trump-benefits.html",
+   "word_count": 1508
+  },
+  {
+   "abstract": "SpaceX is on top right now, and, presumably, Musk wants to keep it that way.",
+   "byline": {
+    "original": "By Neel V. Patel"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Will Musk Be the Death of NASA?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/a69c7e76-d9bd-517d-9c6e-714efbb0df82",
+   "keywords": [],
+   "multimedia": {
+    "caption": "",
+    "credit": "Mark Peterson for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/21/multimedia/21blog-musk-zmql/21blog-musk-zmql-articleLarge.jpg",
+     "height": 401,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/21/multimedia/21blog-musk-zmql/21blog-musk-zmql-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-11-22T10:03:57Z",
+   "section_name": "Opinion",
+   "snippet": "SpaceX is on top right now, and, presumably, Musk wants to keep it that way.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a69c7e76-d9bd-517d-9c6e-714efbb0df82",
+   "web_url": "https://www.nytimes.com/2024/11/22/opinion/will-musk-be-the-death-of-nasa.html",
+   "word_count": 397
+  },
+  {
+   "abstract": "The billionaire has rapidly transformed parts of the state, shocking even development-friendly officials: \u201cIt was like, \u2018Voil\u00e0, Elon is here.\u2019\u201d",
+   "byline": {
+    "original": "By J. David Goodman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "As Elon Musk Moved to the Right, His Businesses Moved to Texas",
+    "kicker": "",
+    "print_headline": "As Musk Moved to the Right, His Businesses Moved to Texas, Altering Cities"
+   },
+   "_id": "nyt://article/3487adc1-c73a-5fb3-b39e-a2cdfb851a1e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Relocation of Business",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Boring Company",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 7
+    },
+    {
+     "name": "Location",
+     "value": "Bastrop (Tex)",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Bastrop County (Tex)",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Brownsville (Tex)",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "Cameron County (Tex)",
+     "rank": 11
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk\u2019s growing presence in Texas has been part of a high-profile political transformation that could help further expand his businesses in the state.",
+    "credit": "Jordan Vonderhaar for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/19/multimedia/19nat-texas-musk-02-tgml/19nat-texas-musk-02-tgml-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/19/multimedia/19nat-texas-musk-02-tgml/19nat-texas-musk-02-tgml-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "National",
+   "print_page": "12",
+   "print_section": "A",
+   "pub_date": "2024-11-19T23:43:23Z",
+   "section_name": "U.S.",
+   "snippet": "The billionaire has rapidly transformed parts of the state, shocking even development-friendly officials: \u201cIt was like, \u2018Voil\u00e0, Elon is here.\u2019\u201d",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/3487adc1-c73a-5fb3-b39e-a2cdfb851a1e",
+   "web_url": "https://www.nytimes.com/2024/11/19/us/texas-elon-musk.html",
+   "word_count": 1867
+  },
+  {
+   "abstract": "Japan is off to a shaky start in its efforts to break into the space rocket market dominated by Elon Musk\u2019s SpaceX.",
+   "byline": {
+    "original": "By River Akira Davis and Hisako Ueno"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Rocket Engine Fire Stalls Japan\u2019s Ambitions to Launch Satellites",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/fe2f55b7-f8fd-5e3a-af49-1b289a0a27bc",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 2
+    },
+    {
+     "name": "Location",
+     "value": "Japan",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Japan Aerospace Exploration Agency",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "A fire broke out at the launch site of the Japanese rocket Epsilon S at Tanegashima Space Center, Japan, on Tuesday.",
+    "credit": "Kyodo News, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/26/multimedia/26Japan-rocket-fbtg/26Japan-rocket-fbtg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/26/multimedia/26Japan-rocket-fbtg/26Japan-rocket-fbtg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-11-26T07:57:30Z",
+   "section_name": "World",
+   "snippet": "Japan is off to a shaky start in its efforts to break into the space rocket market dominated by Elon Musk\u2019s SpaceX.",
+   "source": "The New York Times",
+   "subsection_name": "Asia Pacific",
+   "type_of_material": "News",
+   "uri": "nyt://article/fe2f55b7-f8fd-5e3a-af49-1b289a0a27bc",
+   "web_url": "https://www.nytimes.com/2024/11/26/world/asia/japan-satellite-launch-failure.html",
+   "word_count": 362
+  },
+  {
+   "abstract": "Get ready for the DOGE store.",
+   "byline": {
+    "original": "By Vanessa Friedman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk and Trump, a Bond Made in Merch",
+    "kicker": "critic\u2019s notebook",
+    "print_headline": "An Alliance of Peddlers and an Army of Portable Ads"
+   },
+   "_id": "nyt://article/863e672a-1899-53b5-b269-584c3b5d5026",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Memorabilia and Souvenirs",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Advertising and Marketing",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Shopping and Retail",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "your-feed-fashion",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk wearing the black \u201cMake America Great Again\u201d cap he favors.",
+    "credit": "Alex Brandon/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/11/21/multimedia/14MUSK-MERCH-lmph/14MUSK-MERCH-lmph-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/11/21/multimedia/14MUSK-MERCH-lmph/14MUSK-MERCH-lmph-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Styles",
+   "print_page": "4",
+   "print_section": "D",
+   "pub_date": "2024-11-15T10:04:25Z",
+   "section_name": "Style",
+   "snippet": "Get ready for the DOGE store.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News Analysis",
+   "uri": "nyt://article/863e672a-1899-53b5-b269-584c3b5d5026",
+   "web_url": "https://www.nytimes.com/2024/11/15/style/elon-musk-trump-doge.html",
+   "word_count": 978
+  }
+ ]
+}

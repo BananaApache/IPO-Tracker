@@ -1,0 +1,87 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2025-07",
+ "begin_date": "20250701",
+ "end_date": "20250731",
+ "fetched_at": "2026-09-08T05:24:50.518173+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The cryptocurrency has extended its rally as lawmakers consider legislation that would bring digital tokens further into the mainstream.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Bitcoin Soars Past $120,000 as House Takes Up Crypto Bills",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/2d6c3129-dd78-50d5-8a85-62b63085665f",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Bitcoin (Currency)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Waters, Maxine",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Securities and Exchange Commission",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Commodity Futures Trading Commission",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Bitcoin and other cryptocurrencies are soaring, and backers have suggested that President Trump deserves much of the credit.",
+    "credit": "Doug Mills/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/14/multimedia/14db-newsletter-web-pbjt/14db-newsletter-web-pbjt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/14/multimedia/14db-newsletter-web-pbjt/14db-newsletter-web-pbjt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-07-14T12:22:46Z",
+   "section_name": "Business",
+   "snippet": "The cryptocurrency has extended its rally as lawmakers consider legislation that would bring digital tokens further into the mainstream.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/2d6c3129-dd78-50d5-8a85-62b63085665f",
+   "web_url": "https://www.nytimes.com/2025/07/14/business/dealbook/bitcoin-price-btc-record-crypto-week.html",
+   "word_count": 1882
+  }
+ ]
+}

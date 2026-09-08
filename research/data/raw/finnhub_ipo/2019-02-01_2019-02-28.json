@@ -1,0 +1,267 @@
+{
+ "from": "2019-02-01",
+ "to": "2019-02-28",
+ "fetched_at": "2026-09-08T04:20:28.596804+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2019-02-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "KALEIDO BIOSCIENCES, INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "KLDO",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2019-02-28",
+   "exchange": "NASDAQ Capital",
+   "name": "DIAMONDPEAK HOLDINGS CORP.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DPHCU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2019-02-26",
+   "exchange": "NASDAQ Capital",
+   "name": "SUPER LEAGUE GAMING, INC.",
+   "numberOfShares": 2272727,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "SLGG",
+   "totalSharesValue": 24999997
+  },
+  {
+   "date": "2019-02-25",
+   "exchange": null,
+   "name": "TERRAPIN 4 ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-02-22",
+   "exchange": null,
+   "name": "VIRGIN TRAINS USA LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-02-22",
+   "exchange": "NASDAQ Capital",
+   "name": "ACAMAR PARTNERS ACQUISITION CORP.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ACAMU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2019-02-21",
+   "exchange": null,
+   "name": "MEREO BIOPHARMA GROUP PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-02-20",
+   "exchange": null,
+   "name": "INKY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2019-02-19",
+   "exchange": "NASDAQ Capital",
+   "name": "SOLITON, INC.",
+   "numberOfShares": 2172591,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SOLY",
+   "totalSharesValue": 10862955
+  },
+  {
+   "date": "2019-02-15",
+   "exchange": "NASDAQ Global",
+   "name": "STEALTH BIOTHERAPEUTICS CORP",
+   "numberOfShares": 6500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "MITO",
+   "totalSharesValue": 78000000
+  },
+  {
+   "date": "2019-02-15",
+   "exchange": "NASDAQ Capital",
+   "name": "HOTH THERAPEUTICS, INC.",
+   "numberOfShares": 1250000,
+   "price": "5.60",
+   "status": "priced",
+   "symbol": "HOTH",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2019-02-14",
+   "exchange": "NASDAQ Global",
+   "name": "AVEDRO INC",
+   "numberOfShares": 5000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "AVDR",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2019-02-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "TCR2 THERAPEUTICS INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "TCRR",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2019-02-14",
+   "exchange": null,
+   "name": "ALIGHT INC. / DE",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ALIT",
+   "totalSharesValue": 920000000
+  },
+  {
+   "date": "2019-02-13",
+   "exchange": "NASDAQ Capital",
+   "name": "IMAC HOLDINGS, INC.",
+   "numberOfShares": 850000,
+   "price": "5.125",
+   "status": "priced",
+   "symbol": "IMAC",
+   "totalSharesValue": 4360500
+  },
+  {
+   "date": "2019-02-13",
+   "exchange": null,
+   "name": "CRUCIAL INNOVATIONS, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 123000
+  },
+  {
+   "date": "2019-02-12",
+   "exchange": "NASDAQ Capital",
+   "name": "ANCHIANO THERAPEUTICS LTD.",
+   "numberOfShares": 2652174,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "ANCN",
+   "totalSharesValue": 30500001
+  },
+  {
+   "date": "2019-02-08",
+   "exchange": "NYSE",
+   "name": "RMG ACQUISITION CORP.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RMG'U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2019-02-08",
+   "exchange": "NASDAQ Global Select",
+   "name": "GOSSAMER BIO, INC.",
+   "numberOfShares": 17250000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "GOSS",
+   "totalSharesValue": 276000000
+  },
+  {
+   "date": "2019-02-08",
+   "exchange": "NASDAQ Global Select",
+   "name": "HARPOON THERAPEUTICS, INC.",
+   "numberOfShares": 5400000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "HARP",
+   "totalSharesValue": 75600000
+  },
+  {
+   "date": "2019-02-07",
+   "exchange": "NASDAQ Global Select",
+   "name": "ALECTOR, INC.",
+   "numberOfShares": 9250000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "ALEC",
+   "totalSharesValue": 175750000
+  },
+  {
+   "date": "2019-02-07",
+   "exchange": "NASDAQ Capital",
+   "name": "MONOCLE ACQUISITION CORP",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MNCLU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2019-02-06",
+   "exchange": "NASDAQ Capital",
+   "name": "WEALTHBRIDGE ACQUISITION LTD",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HHHHU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2019-02-06",
+   "exchange": null,
+   "name": "TORTOISE ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SHLLU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2019-02-04",
+   "exchange": "NASDAQ Capital",
+   "name": "INMUNE BIO, INC.",
+   "numberOfShares": 1020560,
+   "price": "8.00\t",
+   "status": "priced",
+   "symbol": "INMB",
+   "totalSharesValue": 8164480
+  },
+  {
+   "date": "2019-02-01",
+   "exchange": "NASDAQ Capital",
+   "name": "GORES METROPOULOS, INC.",
+   "numberOfShares": 37500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GMHIU",
+   "totalSharesValue": 375000000
+  }
+ ]
+}

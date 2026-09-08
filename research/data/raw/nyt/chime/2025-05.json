@@ -1,0 +1,112 @@
+{
+ "company": "Chime",
+ "query": "\"Chime\" \"banking\"",
+ "month": "2025-05",
+ "begin_date": "20250501",
+ "end_date": "20250531",
+ "fetched_at": "2026-09-08T05:24:14.461962+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "World, a start-up backed by Sam Altman, has launched in the United States with the goal of verifying your humanity.",
+   "byline": {
+    "original": "By Kevin Roose and Jason Henry"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Could Eye-Scanning Crypto Orbs Save Us From a Bot Apocalypse?",
+    "kicker": "The Shift",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/2d6acd05-3dec-563d-b481-82ffde5a08d8",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Identification Devices",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Computer and Video Games",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Eyes and Eyesight",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Biometrics",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Privacy",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 10
+    },
+    {
+     "name": "",
+     "value": "",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Altman, Samuel H",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Jason Henry for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/02/multimedia/ROOSE-Promo-kzph/ROOSE-Promo-kzph-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/02/multimedia/ROOSE-Promo-kzph/ROOSE-Promo-kzph-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-03T04:00:12Z",
+   "section_name": "Technology",
+   "snippet": "World, a start-up backed by Sam Altman, has launched in the United States with the goal of verifying your humanity.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/2d6acd05-3dec-563d-b481-82ffde5a08d8",
+   "web_url": "https://www.nytimes.com/2025/05/03/technology/world-eye-scanning-crypto-orbs-launch-in-us.html",
+   "word_count": 1320
+  }
+ ]
+}

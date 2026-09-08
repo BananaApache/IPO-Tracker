@@ -1,0 +1,62 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2024-08",
+ "begin_date": "20240801",
+ "end_date": "20240831",
+ "fetched_at": "2026-09-08T05:08:26.353042+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Two billionaire Democratic donors have publicly pressured Vice President Kamala Harris to replace the F.T.C. chair, Lina Khan. Wall Street insiders are worried that could backfire.",
+   "byline": {
+    "original": "By Lauren Hirsch and Sarah Kessler"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Saying the Quiet Part Out Loud",
+    "kicker": "DealBook Newsletter",
+    "print_headline": "Some Major Wall Street Donors Are Putting Harris on Spot Over Chief of F.T.C."
+   },
+   "_id": "nyt://article/93ee64df-30c8-5f3a-9ae2-b63fdbd92546",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Antitrust Laws and Competition Issues",
+     "rank": 2
+    }
+   ],
+   "multimedia": {
+    "caption": "Wall Street donors are working to gain influence with Vice President Kamala Harris.",
+    "credit": "Erin Schaff/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/08/03/business/03DB-DEM-DONORS/03DB-DEM-DONORS-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/08/03/business/03DB-DEM-DONORS/03DB-DEM-DONORS-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2024-08-03T12:00:03Z",
+   "section_name": "Business",
+   "snippet": "Two billionaire Democratic donors have publicly pressured Vice President Kamala Harris to replace the F.T.C. chair, Lina Khan. Wall Street insiders are worried that could backfire.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/93ee64df-30c8-5f3a-9ae2-b63fdbd92546",
+   "web_url": "https://www.nytimes.com/2024/08/03/business/dealbook/saying-the-quiet-part-out-loud.html",
+   "word_count": 1872
+  }
+ ]
+}

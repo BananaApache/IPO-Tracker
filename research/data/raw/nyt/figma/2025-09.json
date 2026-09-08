@@ -1,0 +1,239 @@
+{
+ "company": "Figma",
+ "query": "\"Figma\"",
+ "month": "2025-09",
+ "begin_date": "20250901",
+ "end_date": "20250930",
+ "fetched_at": "2026-09-08T05:29:14.614842+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "The company\u2019s shares rose more than 14 percent on the first day of trading, a sign of the health of the public markets and a willingness of investors to bet on new companies.",
+   "byline": {
+    "original": "By Michael J. de la Merced"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Klarna\u2019s Market Debut Shows Wall Street\u2019s Renewed Appetite for I.P.O.s",
+    "kicker": "",
+    "print_headline": "Klarna\u2019s Market Debut Shows a Renewed Appetite for I.P.O.s"
+   },
+   "_id": "nyt://article/9fd10815-a2d6-52ce-bdb1-9aaeccc925a8",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Sequoia Capital",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "Sebastian Siemiatkowski, the chief executive of the Swedish fintech company Klarna, at the New York Stock Exchange on Wednesday. ",
+    "credit": "Brendan McDermid/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/11/multimedia/11db-klarna-tpbh/11db-klarna-tpbh-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/11/multimedia/11db-klarna-tpbh/11db-klarna-tpbh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-09-11T17:31:43Z",
+   "section_name": "Business",
+   "snippet": "The company\u2019s shares rose more than 14 percent on the first day of trading, a sign of the health of the public markets and a willingness of investors to bet on new companies.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/9fd10815-a2d6-52ce-bdb1-9aaeccc925a8",
+   "web_url": "https://www.nytimes.com/2025/09/11/business/dealbook/klarna-ipo-stock-market.html",
+   "word_count": 615
+  },
+  {
+   "abstract": "The killing of the political activist raises new questions about the rise of targeted violence against public figures like politicians and business leaders.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Niko Gallogly"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "In the Wake of the Kirk Assassination, a Call for Leadership",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/ee3c9554-01c7-5965-94b2-81c67b7c8d9d",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Ellison, Lawrence J",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Oracle Corporation",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Cloud Computing",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Across the United States, mourners held vigils for Charlie Kirk, the activist who was assassinated in Utah on Wednesday.",
+    "credit": "Niki Chan Wylie for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/11/multimedia/11db-kirk-jzvk/11db-kirk-jzvk-articleLarge.jpg",
+     "height": 450,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/11/multimedia/11db-kirk-jzvk/11db-kirk-jzvk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-09-11T12:19:24Z",
+   "section_name": "Business",
+   "snippet": "The killing of the political activist raises new questions about the rise of targeted violence against public figures like politicians and business leaders.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/ee3c9554-01c7-5965-94b2-81c67b7c8d9d",
+   "web_url": "https://www.nytimes.com/2025/09/11/business/dealbook/oracle-ellison-ai-boom.html",
+   "word_count": 1802
+  },
+  {
+   "abstract": "The president\u2019s attacks on the central bank\u2019s  independence could undermine investor confidence in the institution at a crucial time.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, David Meyer, Ian Mount and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Potentially Big Costs of Trump\u2019s Fed Fight",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/b9b46e3c-9ff5-5847-a445-ed1bbe37168c",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Cook, Lisa D",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Miran, Stephen",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Dalio, Raymond (1949- )",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Lagarde, Christine",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "European Central Bank",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "See no evil?",
+    "credit": "Michael M. Santiago/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02db-markets-wpvq/02db-markets-wpvq-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02db-markets-wpvq/02db-markets-wpvq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-09-02T12:03:32Z",
+   "section_name": "Business",
+   "snippet": "The president\u2019s attacks on the central bank\u2019s  independence could undermine investor confidence in the institution at a crucial time.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/b9b46e3c-9ff5-5847-a445-ed1bbe37168c",
+   "web_url": "https://www.nytimes.com/2025/09/02/business/dealbook/fed-trump-cook-political-independence.html",
+   "word_count": 2018
+  }
+ ]
+}

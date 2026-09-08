@@ -1,0 +1,97 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2023-08",
+ "begin_date": "20230801",
+ "end_date": "20230831",
+ "fetched_at": "2026-09-08T04:29:38.202338+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Despite mortgage rates hitting multidecade highs and jitters in the bond market, demand for new homes is strong and prices are rising.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why Wall Street is Gung-ho on the Housing Market",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/173cf14d-c973-567a-9604-6e4608531584",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Real Estate and Housing (Residential)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Mortgages",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Berkshire Hathaway Inc",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Goldman Sachs Group Inc",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Soaring mortgage rates have hardly dented the housing market.",
+    "credit": "Joanna Kulesza for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/08/17/multimedia/17db-housing-ckjw/17db-housing-ckjw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/08/17/multimedia/17db-housing-ckjw/17db-housing-ckjw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-08-17T12:04:03Z",
+   "section_name": "Business",
+   "snippet": "Despite mortgage rates hitting multidecade highs and jitters in the bond market, demand for new homes is strong and prices are rising.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/173cf14d-c973-567a-9604-6e4608531584",
+   "web_url": "https://www.nytimes.com/2023/08/17/business/wall-street-housing-market-mortgages.html",
+   "word_count": 1703
+  }
+ ]
+}

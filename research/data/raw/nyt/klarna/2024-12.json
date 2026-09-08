@@ -1,0 +1,203 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2024-12",
+ "begin_date": "20241201",
+ "end_date": "20241231",
+ "fetched_at": "2026-09-08T05:17:50.422868+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "The billionaire has needled government agencies, armed with potential influence over their budgets. But some of these organizations are also looking into his interests.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Benjamin Mullin"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk and DOGE vs. Regulators",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/80dded26-fe4c-5104-ba11-e7721c443c40",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Ramaswamy, Vivek (1985- )",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Securities and Exchange Commission",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Internal Revenue Service",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Philanthropy",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Securities and Commodities Violations",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk\u2019s attacks on the agencies that regulate his businesses are raising questions about conflicts of interest.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/13/multimedia/db13-Musk-wvcf/db13-Musk-wvcf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/13/multimedia/db13-Musk-wvcf/db13-Musk-wvcf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-12-13T13:36:32Z",
+   "section_name": "Business",
+   "snippet": "The billionaire has needled government agencies, armed with potential influence over their budgets. But some of these organizations are also looking into his interests.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/80dded26-fe4c-5104-ba11-e7721c443c40",
+   "web_url": "https://www.nytimes.com/2024/12/13/business/dealbook/musk-doge-sec-irs.html",
+   "word_count": 1930
+  },
+  {
+   "abstract": "Luxury brands have triggered their own death spiral by selling overpriced, overexposed and lower-quality products.",
+   "byline": {
+    "original": "By Katharine K. Zarrella"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Obscene Prices, Declining Quality: Luxury Is in a Death Spiral",
+    "kicker": "Guest Essay",
+    "print_headline": "Vuitton. Chanel. Who Cares?"
+   },
+   "_id": "nyt://article/9b84c1c7-e12d-5f74-a859-543767ead7b9",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Fashion and Apparel",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Luxury Goods and Services",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Handbags and Purses",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Counterfeit Merchandise",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Shopping and Retail",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Advertising and Marketing",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Burberry",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Chanel SA",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Christian Dior SA",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Hermes International SA",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "LVMH Moet Hennessy Louis Vuitton SA",
+     "rank": 14
+    },
+    {
+     "name": "Keyword",
+     "value": "giftguide",
+     "rank": 15
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Illustration by Ben Denzer.",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/19/opinion/19Zarrella/19Zarrella-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/19/opinion/19Zarrella/19Zarrella-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "9",
+   "print_section": "SR",
+   "pub_date": "2024-12-19T10:01:59Z",
+   "section_name": "Opinion",
+   "snippet": "Luxury brands have triggered their own death spiral by selling overpriced, overexposed and lower-quality products.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Op-Ed",
+   "uri": "nyt://article/9b84c1c7-e12d-5f74-a859-543767ead7b9",
+   "web_url": "https://www.nytimes.com/2024/12/19/opinion/vuitton-chanel-burberry-lvmh-hermes.html",
+   "word_count": 2024
+  }
+ ]
+}

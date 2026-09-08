@@ -1,0 +1,437 @@
+{
+ "from": "2025-02-01",
+ "to": "2025-02-28",
+ "fetched_at": "2026-09-08T04:22:52.625412+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2025-02-28",
+   "exchange": "NASDAQ Global",
+   "name": "Fifth Era Acquisition Corp I",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FERAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-02-28",
+   "exchange": "NASDAQ Global",
+   "name": "Live Oak Acquisition Corp. V",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LOKVU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-02-28",
+   "exchange": "NASDAQ Global",
+   "name": "NewHold Investment Corp. III",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NHICU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2025-02-27",
+   "exchange": null,
+   "name": "ORANCO INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-02-27",
+   "exchange": "NYSE",
+   "name": "Rithm Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RAC'U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-02-27",
+   "exchange": "NYSE MKT",
+   "name": "Luda Technology Group Ltd",
+   "numberOfShares": 2500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "LUD",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2025-02-27",
+   "exchange": "NASDAQ Capital",
+   "name": "LZ Technology Holdings Ltd",
+   "numberOfShares": 1800000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "LZMH",
+   "totalSharesValue": 7200000
+  },
+  {
+   "date": "2025-02-27",
+   "exchange": "NASDAQ Capital",
+   "name": "Webus International Ltd.",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "WETO",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2025-02-26",
+   "exchange": "NASDAQ Capital",
+   "name": "STAK Inc.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "STAK",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-02-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Basel Medical Group Ltd",
+   "numberOfShares": 2205000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "BMGL",
+   "totalSharesValue": 8820000
+  },
+  {
+   "date": "2025-02-25",
+   "exchange": null,
+   "name": "Sichuan Hongyi Enterprise Management Co., Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SJHK",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2025-02-25",
+   "exchange": null,
+   "name": "Dalu International Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DLHZ",
+   "totalSharesValue": 10350000
+  },
+  {
+   "date": "2025-02-24",
+   "exchange": null,
+   "name": "Brilliance Group",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-02-24",
+   "exchange": null,
+   "name": "Skubbs Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SKUB",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2025-02-21",
+   "exchange": "NASDAQ Capital",
+   "name": "Wellgistics Health, Inc.",
+   "numberOfShares": 888889,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "WGRX",
+   "totalSharesValue": 4000001
+  },
+  {
+   "date": "2025-02-21",
+   "exchange": null,
+   "name": "AI ASSETS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AIAS",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2025-02-21",
+   "exchange": null,
+   "name": "Tong Ying Group",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TYZ",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2025-02-21",
+   "exchange": null,
+   "name": "DCR Tech Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DCR",
+   "totalSharesValue": 13800000
+  },
+  {
+   "date": "2025-02-19",
+   "exchange": "NASDAQ Global",
+   "name": "Anbio Biotechnology",
+   "numberOfShares": 1600000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "NNNN",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2025-02-14",
+   "exchange": null,
+   "name": "NYIAX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-02-14",
+   "exchange": null,
+   "name": "FD TECHNOLOGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-02-14",
+   "exchange": null,
+   "name": "NYIAX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-02-14",
+   "exchange": "NYSE",
+   "name": "NORTHPOINTE BANCSHARES INC",
+   "numberOfShares": 10420000,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "NPB",
+   "totalSharesValue": 151090000
+  },
+  {
+   "date": "2025-02-13",
+   "exchange": null,
+   "name": "Turo Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-02-13",
+   "exchange": "NASDAQ Global Select",
+   "name": "Aardvark Therapeutics, Inc.",
+   "numberOfShares": 5888000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "AARD",
+   "totalSharesValue": 94208000
+  },
+  {
+   "date": "2025-02-13",
+   "exchange": "NYSE",
+   "name": "Karman Holdings Inc.",
+   "numberOfShares": 23000000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "KRMN",
+   "totalSharesValue": 506000000
+  },
+  {
+   "date": "2025-02-13",
+   "exchange": "NASDAQ Global Select",
+   "name": "SailPoint, Inc.",
+   "numberOfShares": 60000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "SAIL",
+   "totalSharesValue": 1380000000
+  },
+  {
+   "date": "2025-02-13",
+   "exchange": "NASDAQ Global",
+   "name": "Maywood Acquisition Corp.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MAYAU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2025-02-13",
+   "exchange": "NASDAQ Global",
+   "name": "Artius II Acquisition Inc.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AACBU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-02-13",
+   "exchange": "NASDAQ Capital",
+   "name": "TEN Holdings, Inc.",
+   "numberOfShares": 1667000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "XHLD",
+   "totalSharesValue": 10002000
+  },
+  {
+   "date": "2025-02-12",
+   "exchange": "NASDAQ Capital",
+   "name": "Aureus Greenway Holdings Inc",
+   "numberOfShares": 3750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "AGH",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2025-02-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Odysight.ai Inc.",
+   "numberOfShares": 3307692,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "ODYS",
+   "totalSharesValue": 21499998
+  },
+  {
+   "date": "2025-02-11",
+   "exchange": "NASDAQ Global",
+   "name": "Archimedes Tech SPAC Partners II Co.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ATIIU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-02-11",
+   "exchange": null,
+   "name": "Qinhui Technology International Co. Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "QHT",
+   "totalSharesValue": 8625000
+  },
+  {
+   "date": "2025-02-07",
+   "exchange": "NASDAQ Global",
+   "name": "Sionna Therapeutics, Inc.",
+   "numberOfShares": 10588233,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "SION",
+   "totalSharesValue": 190588194
+  },
+  {
+   "date": "2025-02-07",
+   "exchange": "NYSE",
+   "name": "Titan America SA",
+   "numberOfShares": 24000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "TTAM",
+   "totalSharesValue": 384000000
+  },
+  {
+   "date": "2025-02-06",
+   "exchange": "NASDAQ Capital",
+   "name": "FBS Global Ltd",
+   "numberOfShares": 2250000,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "FBGL",
+   "totalSharesValue": 10125000
+  },
+  {
+   "date": "2025-02-06",
+   "exchange": "NASDAQ Global",
+   "name": "EPWK Holdings Ltd.",
+   "numberOfShares": 2750000,
+   "price": "4.10",
+   "status": "priced",
+   "symbol": "EPWK",
+   "totalSharesValue": 11275000
+  },
+  {
+   "date": "2025-02-05",
+   "exchange": "NASDAQ Global",
+   "name": "K&F GROWTH ACQUISITION CORP. II",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KFIIU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2025-02-05",
+   "exchange": "NASDAQ Capital",
+   "name": "CALLAN JMB INC.",
+   "numberOfShares": 1280000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CJMB",
+   "totalSharesValue": 5120000
+  },
+  {
+   "date": "2025-02-05",
+   "exchange": "NASDAQ Capital",
+   "name": "Huachen AI Parking Management Technology Holding Co., Ltd",
+   "numberOfShares": 1500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "HCAI",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2025-02-05",
+   "exchange": "NASDAQ Capital",
+   "name": "Plutus Financial Group Ltd",
+   "numberOfShares": 2100000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "PLUT",
+   "totalSharesValue": 8400000
+  },
+  {
+   "date": "2025-02-04",
+   "exchange": null,
+   "name": "BRK International Holding Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BRKHM",
+   "totalSharesValue": 1000000
+  }
+ ]
+}

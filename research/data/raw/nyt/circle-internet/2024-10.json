@@ -1,0 +1,97 @@
+{
+ "company": "Circle Internet",
+ "query": "\"Circle\" \"stablecoin\"",
+ "month": "2024-10",
+ "begin_date": "20241001",
+ "end_date": "20241031",
+ "fetched_at": "2026-09-08T05:09:38.366632+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Over the past nine months, the parents of Mr. Bankman-Fried, Ms. Ellison and Mr. Singh have written letters to Lewis A. Kaplan, the judge overseeing the FTX case, pleading for leniency for their children. They described the emotional toll of FTX\u2019s collapse, recounting wrenching conversations and endless stress.",
+   "byline": {
+    "original": ""
+   },
+   "document_type": "interactive",
+   "headline": {
+    "main": "Here is the letter from Caroline Ellison\u2019s parents to Judge Kaplan.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://interactive/6cad7519-f69b-5a9f-b1fd-dba4d542dd34",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "HK FTX Trading Ltd (Futures Exchange)",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Ellison, Caroline (1994- )",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Bitcoin (Currency)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Kaplan, Lewis A",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Bankruptcies",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Criminal Justice",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Parenting",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Ethics (Personal)",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/29/doc-3199545e-3b68-43a8-ae74-0-promo/doc-3199545e-3b68-43a8-ae74-0-promo-articleLarge.png",
+     "height": 776,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/29/doc-3199545e-3b68-43a8-ae74-0-promo/doc-3199545e-3b68-43a8-ae74-0-promo-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-10-30T11:21:21Z",
+   "section_name": "Business",
+   "snippet": "Over the past nine months, the parents of Mr. Bankman-Fried, Ms. Ellison and Mr. Singh have written letters to Lewis A. Kaplan, the judge overseeing the FTX case, pleading for leniency for their children. They described the emotional toll of FTX\u2019s collapse, recounting wrenching conversations and endless stress.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Interactive Feature",
+   "uri": "nyt://interactive/6cad7519-f69b-5a9f-b1fd-dba4d542dd34",
+   "web_url": "https://www.nytimes.com/interactive/2024/10/30/business/ftx-parents-caroline-defense-memo.html",
+   "word_count": 0
+  }
+ ]
+}

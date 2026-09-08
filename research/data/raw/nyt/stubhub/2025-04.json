@@ -1,0 +1,319 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2025-04",
+ "begin_date": "20250401",
+ "end_date": "20250430",
+ "fetched_at": "2026-09-08T05:27:38.482240+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "These businesses, including e-commerce platforms and payment processors, are pulling back on public offering plans and bracing for pain.",
+   "byline": {
+    "original": "By Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Tariffs Are Hitting Digital Commerce Companies",
+    "kicker": "",
+    "print_headline": "Tariffs Cause E-Commerce To Retrench"
+   },
+   "_id": "nyt://article/1c01325d-e120-5a8d-87f5-9dc6d80ef91c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "E-Commerce",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Mobile Commerce and Payments",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Chime (Bancorp Bank)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Shopify Inc",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Stripe Inc",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "StubHub",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "Klarna, the digital payments company, has paused its initial public offering plans after President Trump announced sweeping new tariffs.",
+    "credit": "Supantha Mukherjee/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-ecommerce-lvcw/04biz-ecommerce-lvcw-articleLarge.jpg",
+     "height": 398,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-ecommerce-lvcw/04biz-ecommerce-lvcw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "2",
+   "print_section": "B",
+   "pub_date": "2025-04-04T23:02:57Z",
+   "section_name": "Technology",
+   "snippet": "These businesses, including e-commerce platforms and payment processors, are pulling back on public offering plans and bracing for pain.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/1c01325d-e120-5a8d-87f5-9dc6d80ef91c",
+   "web_url": "https://www.nytimes.com/2025/04/04/technology/tariffs-digital-commerce.html",
+   "word_count": 762
+  },
+  {
+   "abstract": "The financial titans who backed Trump are now dealing with the fallout from his tariffs. They spent the weekend surveying the damage of last week\u2019s major sell-off.",
+   "byline": {
+    "original": "By Rob Copeland, Lauren Hirsch and Maureen Farrell"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "After a Blowout Week, Wall Street Decision Makers Brace for More Chaos",
+    "kicker": "",
+    "print_headline": "After Meltdown, Wall St. Braces for More Chaos"
+   },
+   "_id": "nyt://article/4afb31bf-3a0e-5cad-9c8b-893b6d5b9291",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Hedge Funds",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Bessent, Scott",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Griffin, Kenneth C",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Citadel Investment Group",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Ackman, William A",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Pershing Square Capital Management",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Dimon, James",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Eisman, Steven",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "The New York Stock Exchange on Friday. Bankers, executives and traders said this weekend that they felt flashbacks to the global financial crisis that began in 2007.",
+    "credit": "Karsten Moran for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-wallstreet-worries-kzpg/06biz-wallstreet-worries-kzpg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-wallstreet-worries-kzpg/06biz-wallstreet-worries-kzpg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-04-06T18:35:38Z",
+   "section_name": "Business",
+   "snippet": "The financial titans who backed Trump are now dealing with the fallout from his tariffs. They spent the weekend surveying the damage of last week\u2019s major sell-off.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4afb31bf-3a0e-5cad-9c8b-893b6d5b9291",
+   "web_url": "https://www.nytimes.com/2025/04/06/business/stock-market-plunge-investment-bank-impact.html",
+   "word_count": 1506
+  },
+  {
+   "abstract": "If you are determined to see a celebrity in a popular show on a busy night, you may be out of luck, but with flexibility and persistence, you can cut some costs.",
+   "byline": {
+    "original": "By Michael Paulson"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Where Can I Find a Cheap Broadway Ticket?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/5b1b52e5-6026-51e8-8e69-5db74ba16370",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Theater",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Theater (Off Broadway)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Theater (Broadway)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "TKTS Booth (NYC)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "TodayTix Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Telecharge",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "BroadwayWorld.com",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "New York City",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/28/arts/mlambrick_nyt_broadwayV2/mlambrick_nyt_broadwayV2-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/28/arts/mlambrick_nyt_broadwayV2/mlambrick_nyt_broadwayV2-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Arts&Leisure",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-04-28T16:00:12Z",
+   "section_name": "Theater",
+   "snippet": "If you are determined to see a celebrity in a popular show on a busy night, you may be out of luck, but with flexibility and persistence, you can cut some costs.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/5b1b52e5-6026-51e8-8e69-5db74ba16370",
+   "web_url": "https://www.nytimes.com/2025/04/28/theater/cheap-broadway-tickets.html",
+   "word_count": 1284
+  }
+ ]
+}

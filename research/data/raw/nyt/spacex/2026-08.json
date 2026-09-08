@@ -1,0 +1,801 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2026-08",
+ "begin_date": "20260801",
+ "end_date": "20260831",
+ "fetched_at": "2026-09-08T05:33:02.531803+00:00",
+ "hits": 42,
+ "docs": [
+  {
+   "abstract": "Elon Musk\u2019s rocket company said its capital expenditures jumped nearly seven times from a year ago. Revenue also rose.",
+   "byline": {
+    "original": "By Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX\u2019s Spending on A.I. Soars, in First Results After I.P.O.",
+    "kicker": "",
+    "print_headline": "SpaceX, in First Results After I.P.O., Reports  Soaring A.I. Spending"
+   },
+   "_id": "nyt://article/c80c8e5e-0c8e-513e-8e46-8e3fc30feff4",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Company Reports",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "In its first earnings report as a public company, SpaceX also posted a quarterly loss of $541 million, narrower than the $1 billion loss in the same period a year ago.",
+    "credit": "Karsten Moran for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/08/04/multimedia/04biz-spacex-earnings-zhkp/04biz-spacex-earnings-zhkp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/08/04/multimedia/04biz-spacex-earnings-zhkp/04biz-spacex-earnings-zhkp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2026-08-04T20:45:24Z",
+   "section_name": "Technology",
+   "snippet": "Elon Musk\u2019s rocket company said its capital expenditures jumped nearly seven times from a year ago. Revenue also rose.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c80c8e5e-0c8e-513e-8e46-8e3fc30feff4",
+   "web_url": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+   "word_count": 870
+  },
+  {
+   "abstract": "It would be the rocket company\u2019s second private launch site after Starbase, its headquarters in South Texas.",
+   "byline": {
+    "original": "By Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX to Spend $100 Billion on New Spaceport in Louisiana",
+    "kicker": "",
+    "print_headline": "SpaceX to Spend $100 Billion on Louisiana Spaceport"
+   },
+   "_id": "nyt://article/bc7ad17a-5b26-5ed7-97f2-82abe773c418",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Louisiana",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Landry, Jeffrey Martin",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Gov. Jeff Landry of Louisiana during an event on Tuesday with SpaceX announcing a deal to build a spaceport in his state.",
+    "credit": "Edmund D. Fountain for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/08/25/multimedia/25biz-spacex-louisiana-sub-wfth/25biz-spacex-louisiana-sub-wfth-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/08/25/multimedia/25biz-spacex-louisiana-sub-wfth/25biz-spacex-louisiana-sub-wfth-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2026-08-25T17:50:38Z",
+   "section_name": "Technology",
+   "snippet": "It would be the rocket company\u2019s second private launch site after Starbase, its headquarters in South Texas.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/bc7ad17a-5b26-5ed7-97f2-82abe773c418",
+   "web_url": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
+   "word_count": 695
+  },
+  {
+   "abstract": "On Thursday, employees and other insiders at Elon Musk\u2019s rocket company will be released from their first stock \u201clockup\u201d and can start selling some of their shares.",
+   "byline": {
+    "original": "By Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX\u2019s Bumpy Ride on the Stock Market May Get Bumpier",
+    "kicker": "",
+    "print_headline": "For SpaceX, Bumpy Ride Might Get A Bit Gnarly"
+   },
+   "_id": "nyt://article/5808942a-f562-5a9f-a135-95f1c0daf75f",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Company Reports",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Short Selling",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Michael Parkin",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/08/04/business/00spacex-lockup/00spacex-lockup-articleLarge.jpg",
+     "height": 909,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/08/04/business/00spacex-lockup/00spacex-lockup-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-08-03T14:22:59Z",
+   "section_name": "Technology",
+   "snippet": "On Thursday, employees and other insiders at Elon Musk\u2019s rocket company will be released from their first stock \u201clockup\u201d and can start selling some of their shares.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/5808942a-f562-5a9f-a135-95f1c0daf75f",
+   "web_url": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
+   "word_count": 972
+  },
+  {
+   "abstract": "The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A SpaceX Rocket Is Headed for a Crash on the Moon",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/24d452f3-541a-5fca-99bb-3354fb961333",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Planets",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "A SpaceX Falcon 9 rocket carrying two private lunar landers launched in January last year. The second stage of this rocket will hit the moon at 5,400 miles per hour on Wednesday.",
+    "credit": "Gregg Newton/Agence France-Presse",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/08/04/multimedia/04SCI-SpaceX-Moon-Crash-ROCKET-klqw/04SCI-SpaceX-Moon-Crash-ROCKET-klqw-articleLarge.jpg",
+     "height": 353,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/08/04/multimedia/04SCI-SpaceX-Moon-Crash-ROCKET-klqw/04SCI-SpaceX-Moon-Crash-ROCKET-klqw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-08-04T09:04:37Z",
+   "section_name": "Science",
+   "snippet": "The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/24d452f3-541a-5fca-99bb-3354fb961333",
+   "web_url": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
+   "word_count": 995
+  },
+  {
+   "abstract": "As radio spectrum becomes more valuable, companies like SpaceX are jostling alongside governments to control more of it.",
+   "byline": {
+    "original": "By Peter Coy"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The High-Stakes Battle for Invisible Real Estate in Space",
+    "kicker": "DealBook Newsletter",
+    "print_headline": "There\u2019s a High-Stakes Battle to Stake a Claim in Invisible Real Estate in Space"
+   },
+   "_id": "nyt://article/9adca6a8-9c53-5e1a-be73-a2fddfde015f",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Radio Spectrum",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Communications Commission",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "International Telecommunication Union",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "International Relations",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "A rocket lifts off carrying Amazon\u2019s Project Kuiper internet network satellites.",
+    "credit": "Steve Nesius/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/08/01/multimedia/01DB-Space2-kmtl/01DB-Space2-kmtl-articleLarge.jpg",
+     "height": 411,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/08/01/multimedia/01DB-Space2-kmtl/01DB-Space2-kmtl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "2",
+   "print_section": "B",
+   "pub_date": "2026-08-01T12:00:03Z",
+   "section_name": "Business",
+   "snippet": "As radio spectrum becomes more valuable, companies like SpaceX are jostling alongside governments to control more of it.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/9adca6a8-9c53-5e1a-be73-a2fddfde015f",
+   "web_url": "https://www.nytimes.com/2026/08/01/business/dealbook/spacex-spectrum-battle.html",
+   "word_count": 1872
+  },
+  {
+   "abstract": "Amateur and professional astronomers pointed their telescopes at the impact site. Most did not detect anything.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Four-Ton SpaceX Rocket Stage Hit the Moon, but Almost No One Saw It",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/4cafcbd1-cb10-5808-8b55-e723cb19078e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Telescopes and Observatories",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Sergei Grits/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/08/11/multimedia/05SCI-SpaceX-Moon-Crash-bjmq/05SCI-SpaceX-Moon-Crash-bjmq-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/08/11/multimedia/05SCI-SpaceX-Moon-Crash-bjmq/05SCI-SpaceX-Moon-Crash-bjmq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-08-05T16:11:50Z",
+   "section_name": "Science",
+   "snippet": "Amateur and professional astronomers pointed their telescopes at the impact site. Most did not detect anything.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4cafcbd1-cb10-5808-8b55-e723cb19078e",
+   "web_url": "https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html",
+   "word_count": 623
+  },
+  {
+   "abstract": "SpaceX shares are down, but Elon Musk is still the richest man in the world. What\u2019s next?",
+   "byline": {
+    "original": "By Katrin Bennhold"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk, Money and Mars",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/33a11bc9-b310-5e84-ad2c-9aa9a476f653",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Andres Kudacki for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-theworld-spacex-01-tbkf-promo/06int-theworld-spacex-01-tbkf-promo-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-theworld-spacex-01-tbkf-promo/06int-theworld-spacex-01-tbkf-promo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-08-05T20:52:49Z",
+   "section_name": "World",
+   "snippet": "SpaceX shares are down, but Elon Musk is still the richest man in the world. What\u2019s next?",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/33a11bc9-b310-5e84-ad2c-9aa9a476f653",
+   "web_url": "https://www.nytimes.com/2026/08/05/world/elon-musk-wealth-gaza-strikes.html",
+   "word_count": 1885
+  },
+  {
+   "abstract": "Investment gains at Alphabet and Amazon reveal a new way in which technology companies\u2019 fortunes are increasingly linked.",
+   "byline": {
+    "original": "By Joe Rennison"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Tech Giants\u2019 Profits Reveal Potential Vulnerability in the Stock Market",
+    "kicker": "",
+    "print_headline": "Tech Giants\u2019 Profits Reveal Possible Risk to the Market"
+   },
+   "_id": "nyt://article/f699b4c6-10e7-5c89-911f-23e20352dad3",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Company Reports",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Alphabet Inc",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Innovation",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Alphabet and Google have benefited from the rising value of their investments in A.I. companies, adding to profits beyond their core businesses.",
+    "credit": "Lexi Parra/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/08/14/multimedia/Biz-Circular-AI-01-mcwg/Biz-Circular-AI-01-mcwg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/08/14/multimedia/Biz-Circular-AI-01-mcwg/Biz-Circular-AI-01-mcwg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-08-14T14:44:23Z",
+   "section_name": "Business",
+   "snippet": "Investment gains at Alphabet and Amazon reveal a new way in which technology companies\u2019 fortunes are increasingly linked.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/f699b4c6-10e7-5c89-911f-23e20352dad3",
+   "web_url": "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html",
+   "word_count": 866
+  },
+  {
+   "abstract": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX\u2019s rule in lower-cost spaceflight.",
+   "byline": {
+    "original": "By Adeel Hassan"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+    "kicker": "",
+    "print_headline": "Chinese Start-Up Lands Reusable Rocket for First Time"
+   },
+   "_id": "nyt://article/5bbb6e54-ec63-5fc1-9ffe-6ff07032b6fd",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "LandSpace Tech Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "China Aerospace",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "LandSpace/Xinhua, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/08/19/world/asia/China_Space__9_66/China_Space__9_66-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/08/19/world/asia/China_Space__9_66/China_Space__9_66-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "7",
+   "print_section": "A",
+   "pub_date": "2026-08-19T20:31:58Z",
+   "section_name": "World",
+   "snippet": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX\u2019s rule in lower-cost spaceflight.",
+   "source": "The New York Times",
+   "subsection_name": "Asia Pacific",
+   "type_of_material": "News",
+   "uri": "nyt://article/5bbb6e54-ec63-5fc1-9ffe-6ff07032b6fd",
+   "web_url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+   "word_count": 714
+  },
+  {
+   "abstract": "The offering could value the five-year-old A.I. start-up at $2 trillion, its bankers have told potential investors, which would exceed Elon Musk\u2019s SpaceX.",
+   "byline": {
+    "original": "By Sri Muppidi, Lauren Hirsch and Erin Griffith"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O.",
+    "kicker": "",
+    "print_headline": "Valuation Of Anthropic Could Reach $2 Trillion"
+   },
+   "_id": "nyt://article/16af43e6-9b69-5ef8-b5c5-89663e75677c",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Company Reports",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Amodei, Dario",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "From right, Dario Amodei, Anthropic\u2019s chief executive, and Daniela Amodei, an Anthropic co-founder and Mr. Amodei\u2019s sister, at a company conference in May.",
+    "credit": "Don Feria/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/08/21/multimedia/21biz-anthropic-mbzl/21biz-anthropic-mbzl-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/08/21/multimedia/21biz-anthropic-mbzl/21biz-anthropic-mbzl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2026-08-22T00:24:21Z",
+   "section_name": "Technology",
+   "snippet": "The offering could value the five-year-old A.I. start-up at $2 trillion, its bankers have told potential investors, which would exceed Elon Musk\u2019s SpaceX.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/16af43e6-9b69-5ef8-b5c5-89663e75677c",
+   "web_url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
+   "word_count": 703
+  }
+ ]
+}

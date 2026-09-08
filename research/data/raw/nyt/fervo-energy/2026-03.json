@@ -1,0 +1,117 @@
+{
+ "company": "Fervo Energy",
+ "query": "\"Fervo Energy\"",
+ "month": "2026-03",
+ "begin_date": "20260301",
+ "end_date": "20260331",
+ "fetched_at": "2026-09-08T05:23:02.454575+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Offshore wind is out. Geothermal power is in. And many climate technology start-ups are looking for ways to carry on without federal backing.",
+   "byline": {
+    "original": "By Brad Plumer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Clean Energy Firms Are Trying to Survive the Trump Era",
+    "kicker": "",
+    "print_headline": "Clean Energy Shifts Focus and Funding to Parry Trump Attack"
+   },
+   "_id": "nyt://article/443024fb-a9ba-5120-b695-4372c5b966de",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Alternative and Renewable Energy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Geothermal Power",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Solar Energy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Wind Power",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Global Warming",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Greenhouse Gas Emissions",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Aid (US)",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Offshore Drilling and Exploration",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Energy Department",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "A tour of the Geothermal House of the CERAWeek energy conference in Houston this week. Geothermal energy is emerging as one of the big green winners of the current era.",
+    "credit": "Danielle Villasana/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/06/multimedia/28cli-clean-tech-01-lkjw/28cli-clean-tech-01-lkjw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/06/multimedia/28cli-clean-tech-01-lkjw/28cli-clean-tech-01-lkjw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Climate",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-03-28T09:01:00Z",
+   "section_name": "Climate",
+   "snippet": "Offshore wind is out. Geothermal power is in. And many climate technology start-ups are looking for ways to carry on without federal backing.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/443024fb-a9ba-5120-b695-4372c5b966de",
+   "web_url": "https://www.nytimes.com/2026/03/28/climate/clean-energy-trump-renewable.html",
+   "word_count": 1640
+  }
+ ]
+}

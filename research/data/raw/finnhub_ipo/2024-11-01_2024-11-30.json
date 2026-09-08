@@ -1,0 +1,337 @@
+{
+ "from": "2024-11-01",
+ "to": "2024-11-30",
+ "fetched_at": "2026-09-08T04:22:46.620106+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2024-11-29",
+   "exchange": null,
+   "name": "YIZHIHUI TECHNOLOGY ELDERLY CARE GROUP CO., LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DYZH",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2024-11-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "Pony AI Inc.",
+   "numberOfShares": 20000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "PONY",
+   "totalSharesValue": 260000000
+  },
+  {
+   "date": "2024-11-27",
+   "exchange": "NYSE MKT",
+   "name": "BrilliA Inc",
+   "numberOfShares": 2500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "BRIA",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2024-11-27",
+   "exchange": "NYSE MKT",
+   "name": "Brazil Potash Corp.",
+   "numberOfShares": 2000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "GRO",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2024-11-27",
+   "exchange": "NYSE MKT",
+   "name": "Venu Holding Corp",
+   "numberOfShares": 1200000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VENU",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2024-11-26",
+   "exchange": "NASDAQ Global",
+   "name": "FACT II Acquisition Corp.",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FACTU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2024-11-26",
+   "exchange": "NASDAQ Capital",
+   "name": "Wing Yip Food Holdings Group Ltd",
+   "numberOfShares": 2050000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "WYHG",
+   "totalSharesValue": 8200000
+  },
+  {
+   "date": "2024-11-26",
+   "exchange": "NASDAQ Capital",
+   "name": "Creative Global Technology Holdings Ltd",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CGTL",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2024-11-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Heritage Distilling Holding Company, Inc.",
+   "numberOfShares": 1687500,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CASK",
+   "totalSharesValue": 6750000
+  },
+  {
+   "date": "2024-11-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Ming Shing Group Holdings Ltd",
+   "numberOfShares": 1500000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "MSW",
+   "totalSharesValue": 8250000
+  },
+  {
+   "date": "2024-11-22",
+   "exchange": null,
+   "name": "Papa Medical Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PAPA",
+   "totalSharesValue": 27600000
+  },
+  {
+   "date": "2024-11-21",
+   "exchange": null,
+   "name": "FG Merger III Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-11-21",
+   "exchange": null,
+   "name": "REGENTIS BIOMATERIALS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-11-21",
+   "exchange": "NASDAQ Global",
+   "name": "Dynamix Corp",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DYNXU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2024-11-21",
+   "exchange": "NASDAQ Global",
+   "name": "CO2 Energy Transition Corp.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NOEMU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2024-11-18",
+   "exchange": "NASDAQ Global",
+   "name": "Damon Inc.",
+   "numberOfShares": 1015383,
+   "price": null,
+   "status": "priced",
+   "symbol": "DMN",
+   "totalSharesValue": 191597.64
+  },
+  {
+   "date": "2024-11-15",
+   "exchange": "NASDAQ Global",
+   "name": "Horizon Space Acquisition II Corp.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HSPTU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2024-11-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Invizyne Technologies Inc",
+   "numberOfShares": 1875000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "IZTC",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2024-11-12",
+   "exchange": "NASDAQ Capital",
+   "name": "Alpha Cognition Inc.",
+   "numberOfShares": 8695653,
+   "price": "5.75",
+   "status": "priced",
+   "symbol": "ACOG",
+   "totalSharesValue": 50000005
+  },
+  {
+   "date": "2024-11-12",
+   "exchange": null,
+   "name": "QDM International Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 7500000
+  },
+  {
+   "date": "2024-11-12",
+   "exchange": null,
+   "name": "GLAMOORE Capital Group Co Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GMCG",
+   "totalSharesValue": 9200000
+  },
+  {
+   "date": "2024-11-12",
+   "exchange": null,
+   "name": "FPA ENERGY ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FPAQU",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2024-11-08",
+   "exchange": "NASDAQ Global",
+   "name": "Willow Lane Acquisition Corp.",
+   "numberOfShares": 11000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WLACU",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2024-11-08",
+   "exchange": "NASDAQ Capital",
+   "name": "ASPAC III Acquisition Corp.",
+   "numberOfShares": 5500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ASPCU",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2024-11-08",
+   "exchange": null,
+   "name": "Flag Fish Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FFSHU",
+   "totalSharesValue": 69000000
+  },
+  {
+   "date": "2024-11-07",
+   "exchange": null,
+   "name": "Navios South American Logistics Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-11-07",
+   "exchange": "NASDAQ Capital",
+   "name": "ADURO CLEAN TECHNOLOGIES INC.",
+   "numberOfShares": 941177,
+   "price": "4.25",
+   "status": "priced",
+   "symbol": "ADUR",
+   "totalSharesValue": 4000002
+  },
+  {
+   "date": "2024-11-07",
+   "exchange": "NASDAQ Global",
+   "name": "GSR III Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GSRTU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2024-11-06",
+   "exchange": null,
+   "name": "AgiiPlus Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-11-04",
+   "exchange": null,
+   "name": "FBS Global Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-11-04",
+   "exchange": null,
+   "name": "HOT MOM INTERNATIONAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LAMA",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2024-11-01",
+   "exchange": "NASDAQ Global",
+   "name": "Newbury Street II Acquisition Corp",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NTWOU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2024-11-01",
+   "exchange": "NASDAQ Global",
+   "name": "Bleichroeder Acquisition Corp. I",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BACQU",
+   "totalSharesValue": 250000000
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2025-05",
+ "begin_date": "20250501",
+ "end_date": "20250531",
+ "fetched_at": "2026-09-08T05:29:50.561653+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "The overwhelming deluge of bag content made me desperate for the luxury my lackluster bank balance would never permit.",
+   "byline": {
+    "original": "By Alim Kheraj"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How I Got Duped by Designer Dupes",
+    "kicker": "Guest Essay",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/e3403f9c-0709-53d0-bf2c-c404e22d1387",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Handbags and Purses",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Fashion and Apparel",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "E-Commerce",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Luxury Goods and Services",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Counterfeit Merchandise",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Annie Collinge",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/18/opinion/18kheraj-new/18kheraj-new-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/18/opinion/18kheraj-new/18kheraj-new-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-18T10:00:04Z",
+   "section_name": "Opinion",
+   "snippet": "The overwhelming deluge of bag content made me desperate for the luxury my lackluster bank balance would never permit.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Op-Ed",
+   "uri": "nyt://article/e3403f9c-0709-53d0-bf2c-c404e22d1387",
+   "web_url": "https://www.nytimes.com/2025/05/18/opinion/dupe-counterfeit-designer-bag.html",
+   "word_count": 1299
+  },
+  {
+   "abstract": "An increase in deferred pay-later loans has raised alarms, as the Trump administration seeks to gut the agency tasked with policing the sector.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Danielle Kaye and Grady McGregor"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "\u2018Bellwether of Risks\u2019: What \u2018Buy Now, Pay Later\u2019 Defaults Say About the Consumer",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/c7400d1f-dff3-59c8-a412-5dd7bdea0651",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Consumer Financial Protection Bureau",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "\u201cBuy now, pay later\u201d loans have been a lifeline for consumers. But a recent rise in defaults has some fearing a larger credit crisis is brewing.",
+    "credit": "Patrick T. Fallon/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/30/multimedia/30db-store-fqjw/30db-store-fqjw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/30/multimedia/30db-store-fqjw/30db-store-fqjw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-30T11:08:55Z",
+   "section_name": "Business",
+   "snippet": "An increase in deferred pay-later loans has raised alarms, as the Trump administration seeks to gut the agency tasked with policing the sector.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/c7400d1f-dff3-59c8-a412-5dd7bdea0651",
+   "web_url": "https://www.nytimes.com/2025/05/30/business/dealbook/buy-now-pay-later-defaults.html",
+   "word_count": 2025
+  }
+ ]
+}

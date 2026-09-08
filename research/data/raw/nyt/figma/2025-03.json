@@ -1,0 +1,92 @@
+{
+ "company": "Figma",
+ "query": "\"Figma\"",
+ "month": "2025-03",
+ "begin_date": "20250301",
+ "end_date": "20250331",
+ "fetched_at": "2026-09-08T05:14:50.436981+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The design tech company is exploring a public offering after regulators stymied its $20 billion sale to the software giant Adobe in 2023.",
+   "byline": {
+    "original": "By Lauren Hirsch and Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Figma in Talks With Bankers to Explore an I.P.O. This Year",
+    "kicker": "",
+    "print_headline": "Figma in Talks  With Bankers To Go Public "
+   },
+   "_id": "nyt://article/02fef5ce-1206-5b8d-a1c3-a1130e3ab53c",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Figma Inc",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Cloud Computing",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Software",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Adobe Systems Inc",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Field, Dylan (1992- )",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Dylan Field, Figma\u2019s chief executive, said at a conference last year that the company was on a path to going public.",
+    "credit": "Kimberly White/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07biz-figma-ipo-jlhg/07biz-figma-ipo-jlhg-articleLarge.jpg",
+     "height": 420,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07biz-figma-ipo-jlhg/07biz-figma-ipo-jlhg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-03-07T22:02:15Z",
+   "section_name": "Technology",
+   "snippet": "The design tech company is exploring a public offering after regulators stymied its $20 billion sale to the software giant Adobe in 2023.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/02fef5ce-1206-5b8d-a1c3-a1130e3ab53c",
+   "web_url": "https://www.nytimes.com/2025/03/07/technology/figma-ipo.html",
+   "word_count": 416
+  }
+ ]
+}

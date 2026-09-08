@@ -1,0 +1,730 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-03",
+ "begin_date": "20250301",
+ "end_date": "20250331",
+ "fetched_at": "2026-09-08T04:52:14.199166+00:00",
+ "hits": 95,
+ "docs": [
+  {
+   "abstract": "The boost in federal spending for SpaceX will come in part as a result of actions by President Trump and Elon Musk\u2019s allies and employees who hold government positions. Supporters say he has the best technology.",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk Is Positioned to Profit Off Billions in New Government Contracts",
+    "kicker": "",
+    "print_headline": "Musk In Position To Reap Billions In U.s. Contracts"
+   },
+   "_id": "nyt://article/bd9795c4-584c-5763-887b-cbd3a4a981bb",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Missiles and Missile Defense Systems",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Aviation Administration",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Communications Commission",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Commerce Department",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "United States Air Force",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "United States Space Force",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Radio Spectrum",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 15
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 16
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 17
+    }
+   ],
+   "multimedia": {
+    "caption": "A SpaceX Falcon 9 rocket preparing to launch in Cape Canaveral, Fla., in January.",
+    "credit": "Cristobal Herrera-Ulashkevich/EPA, via Shutterstock",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/00dc-spacex-01-wgkz/00dc-spacex-01-wgkz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/00dc-spacex-01-wgkz/00dc-spacex-01-wgkz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-03-23T09:00:38Z",
+   "section_name": "U.S.",
+   "snippet": "The boost in federal spending for SpaceX will come in part as a result of actions by President Trump and Elon Musk\u2019s allies and employees who hold government positions. Supporters say he has the best technology.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/bd9795c4-584c-5763-887b-cbd3a4a981bb",
+   "web_url": "https://www.nytimes.com/2025/03/23/us/politics/spacex-contracts-musk-doge-trump.html",
+   "word_count": 2876
+  },
+  {
+   "abstract": "The company has made changes to the vehicle, part of which blew up over the Caribbean in January during the seventh test flight. An issue during the countdown halted Monday\u2019s launch.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Scrubs 8th Starship Rocket Test Flight",
+    "kicker": "",
+    "print_headline": "SpaceX Scrubs Test Flight Of Giant Starship Rocket"
+   },
+   "_id": "nyt://article/94a67456-1452-5210-8421-e45e4c7ab108",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    }
+   ],
+   "multimedia": {
+    "caption": "People watched SpaceX\u2019s Starship ahead of a scrubbed launch in Texas on Monday.",
+    "credit": "Brandon Bell/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/03/multimedia/03starship-launch-pmgq/03starship-launch-pmgq-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/03/multimedia/03starship-launch-pmgq/03starship-launch-pmgq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "19",
+   "print_section": "A",
+   "pub_date": "2025-03-03T21:58:44Z",
+   "section_name": "Science",
+   "snippet": "The company has made changes to the vehicle, part of which blew up over the Caribbean in January during the seventh test flight. An issue during the countdown halted Monday\u2019s launch.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/94a67456-1452-5210-8421-e45e4c7ab108",
+   "web_url": "https://www.nytimes.com/2025/03/03/science/spacex-starship-launch.html",
+   "word_count": 1003
+  },
+  {
+   "abstract": "Consecutive losses of the Starship rocket suggest that the company\u2019s engineers are not as infallible as its fans may think.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Twin Test Flight Explosions Show SpaceX Is No Longer Defying Gravity",
+    "kicker": "",
+    "print_headline": "Blasts Show SpaceX  Is Not Defying Gravity"
+   },
+   "_id": "nyt://article/6d013d97-9458-5a3a-a235-8fcff6e218a6",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Explosions (Accidental)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Aviation Accidents, Safety and Disasters",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "A view shows debris streaking through the sky, after SpaceX\u2019s Starship spacecraft tumbled and exploded in space, in Hog Cay, Bahamas.",
+    "credit": "X @Genedoctorb/UGC, via Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07HS-starship-01-vtfk/07HS-starship-01-vtfk-articleLarge.jpg",
+     "height": 750,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07HS-starship-01-vtfk/07HS-starship-01-vtfk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "14",
+   "print_section": "A",
+   "pub_date": "2025-03-08T10:04:01Z",
+   "section_name": "Science",
+   "snippet": "Consecutive losses of the Starship rocket suggest that the company\u2019s engineers are not as infallible as its fans may think.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/6d013d97-9458-5a3a-a235-8fcff6e218a6",
+   "web_url": "https://www.nytimes.com/2025/03/08/science/starship-spacex-explosion-elon-musk.html",
+   "word_count": 1174
+  },
+  {
+   "abstract": "Video showed the upper stage of the most powerful rocket ever built spinning out of control in space, a repeat of an unsuccessful test flight in January that led to debris falling over the Caribbean.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Breakup of SpaceX\u2019s Starship Rocket Disrupts Florida Airports",
+    "kicker": "",
+    "print_headline": "Breakup of SpaceX\u2019s Starship Rocket During Test Disrupts Airports"
+   },
+   "_id": "nyt://article/07960dd1-28e0-5498-b0ed-bb05dd87f6e9",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Aviation Accidents, Safety and Disasters",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "Starbase (Tex)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Aviation Administration",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06starship-launch-01-mcjv/06starship-launch-01-mcjv-articleLarge.jpg",
+     "height": 402,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06starship-launch-01-mcjv/06starship-launch-01-mcjv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2025-03-06T22:00:05Z",
+   "section_name": "Science",
+   "snippet": "Video showed the upper stage of the most powerful rocket ever built spinning out of control in space, a repeat of an unsuccessful test flight in January that led to debris falling over the Caribbean.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/07960dd1-28e0-5498-b0ed-bb05dd87f6e9",
+   "web_url": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
+   "word_count": 1176
+  },
+  {
+   "abstract": "Frozen fuel from the Falcon 9 rocket launched Monday created a luminous display for several minutes, and was seen by people from England to Eastern Europe.",
+   "byline": {
+    "original": "By Nazaneen Ghaffar"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Rocket Leaves a Glowing Spiral in the Sky, Visible Across Europe",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/075caa8d-e8ed-5cd9-9d63-64473077ebfd",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "Europe",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Christian Medica, via Storyful",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/25/autossell/swirly-light/swirly-light-articleLarge.jpg",
+     "height": 407,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/25/autossell/swirly-light/swirly-light-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Weather",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-25T13:38:09Z",
+   "section_name": "Science",
+   "snippet": "Frozen fuel from the Falcon 9 rocket launched Monday created a luminous display for several minutes, and was seen by people from England to Eastern Europe.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/075caa8d-e8ed-5cd9-9d63-64473077ebfd",
+   "web_url": "https://www.nytimes.com/2025/03/25/science/sky-spiral-spacex-rocket-launch-musk.html",
+   "word_count": 308
+  },
+  {
+   "abstract": "Tesla might be suffering, but SpaceX is poised to profit off billions in new government contracts",
+   "byline": {
+    "original": "By Jess Bidgood"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Importance of Being SpaceX",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/3144bbc0-1e52-5d90-9aff-97ebe135620b",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Elections",
+     "rank": 2
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX is poised to profit off billions of dollars in new government contracts.",
+    "credit": "Miguel J. Rodriguez Carrillo/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/24/us/politics/musk-newsletter/musk-newsletter-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/24/us/politics/musk-newsletter/musk-newsletter-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Politics",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-24T23:26:57Z",
+   "section_name": "U.S.",
+   "snippet": "Tesla might be suffering, but SpaceX is poised to profit off billions in new government contracts",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/3144bbc0-1e52-5d90-9aff-97ebe135620b",
+   "web_url": "https://www.nytimes.com/2025/03/24/us/politics/musk-spacex.html",
+   "word_count": 1133
+  },
+  {
+   "abstract": "Plus, how to win the lottery.",
+   "byline": {
+    "original": "By Tracy Mumford, Will Jarvis, Ian Stewart, Jessica Metzger and Ben Casselman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Whiplash From the White House, and a SpaceX Explosion",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/40ec6d4d-4dcc-506d-8075-d7d5019aac8a",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "Canada",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "Mexico",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "Ukraine",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Cargo trucks wait in an overflow line to enter Mexico from California last month.",
+    "credit": "Ariana Drehsler for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/07-theheadlines/06dc-tariffs-gbkp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/07-theheadlines/06dc-tariffs-gbkp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Podcasts",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-07T11:00:10Z",
+   "section_name": "Podcasts",
+   "snippet": "Plus, how to win the lottery.",
+   "source": "The New York Times",
+   "subsection_name": "The Headlines",
+   "type_of_material": "News",
+   "uri": "nyt://article/40ec6d4d-4dcc-506d-8075-d7d5019aac8a",
+   "web_url": "https://www.nytimes.com/2025/03/07/podcasts/the-headlines/tariffs-mexico-canada-spacex-explosion.html",
+   "word_count": 180
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA\u2019s ex-chief says he never discussed a rescue mission with SpaceX, contradicting Musk.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/7dfb05d0-8cb9-5c95-bad7-9cb6bfae17e2",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Bill Nelson served as the administrator of NASA during the Biden administration.",
+    "credit": "Win Mcnamee/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17astronauts-TRUMP-MUSK-plwv/17astronauts-TRUMP-MUSK-plwv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17astronauts-TRUMP-MUSK-plwv/17astronauts-TRUMP-MUSK-plwv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-18T14:30:04Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/7dfb05d0-8cb9-5c95-bad7-9cb6bfae17e2",
+   "web_url": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex/nasas-ex-chief-says-he-never-discussed-a-rescue-mission-with-spacex-contradicting-musk",
+   "word_count": 556
+  },
+  {
+   "abstract": "Suni Williams and Butch Wilmore, the astronauts who had an unexpectedly long stay in orbit, are set to head back to Earth just two days after a replacement crew docked at the space station.",
+   "byline": {
+    "original": "By Ali Watkins and Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA Schedules Quick Return of Astronauts in SpaceX Capsule",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/7a577f5c-e5a3-560a-8a86-c24d6fb8d110",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Williams, Sunita L",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Wilmore, Barry E (Butch) (1962- )",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Astronauts greeting each other after a SpaceX capsule docked with the International Space Station on Sunday. Butch Wilmore is at far left, and Suni Williams is at top, center, in a blue shirt and clapping, with her hair aloft.",
+    "credit": "NASA, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/16/multimedia/16xp-spacex1-mhzg/16xp-spacex1-mhzg-articleLarge.jpg",
+     "height": 338,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/16/multimedia/16xp-spacex1-mhzg/16xp-spacex1-mhzg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-16T15:57:48Z",
+   "section_name": "U.S.",
+   "snippet": "Suni Williams and Butch Wilmore, the astronauts who had an unexpectedly long stay in orbit, are set to head back to Earth just two days after a replacement crew docked at the space station.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/7a577f5c-e5a3-560a-8a86-c24d6fb8d110",
+   "web_url": "https://www.nytimes.com/2025/03/16/us/spacex-iss-nasa-astronauts-return.html",
+   "word_count": 548
+  },
+  {
+   "abstract": "After their flight was scrubbed on Wednesday, four astronauts successfully lifted off, which will allow two NASA astronauts to return to Earth after an unexpected extended stay in orbit.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Launches NASA\u2019s Crew-10 Mission to the I.S.S.",
+    "kicker": "",
+    "print_headline": "SpaceX Launches Mission to Allow for Return of Astronauts From Space Station"
+   },
+   "_id": "nyt://article/2ea45970-2c11-5b49-86e2-d0bba6db8f1b",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Williams, Sunita L",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Wilmore, Barry E (Butch) (1962- )",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The Crew-10 mission lifted off on Friday night atop a SpaceX Falcon 9 rocket, with an approximately 28-hour journey to the space station ahead of them.",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/14/multimedia/14HS-astronauts-jpzv/14HS-astronauts-jpzv-articleLarge.jpg",
+     "height": 413,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/14/multimedia/14HS-astronauts-jpzv/14HS-astronauts-jpzv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "23",
+   "print_section": "A",
+   "pub_date": "2025-03-14T09:03:45Z",
+   "section_name": "Science",
+   "snippet": "After their flight was scrubbed on Wednesday, four astronauts successfully lifted off, which will allow two NASA astronauts to return to Earth after an unexpected extended stay in orbit.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/2ea45970-2c11-5b49-86e2-d0bba6db8f1b",
+   "web_url": "https://www.nytimes.com/2025/03/14/science/nasa-spacex-astronauts-iss-launch.html",
+   "word_count": 869
+  }
+ ]
+}

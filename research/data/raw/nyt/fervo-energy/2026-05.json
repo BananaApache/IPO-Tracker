@@ -1,0 +1,153 @@
+{
+ "company": "Fervo Energy",
+ "query": "\"Fervo Energy\"",
+ "month": "2026-05",
+ "begin_date": "20260501",
+ "end_date": "20260531",
+ "fetched_at": "2026-09-08T05:27:50.550538+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Fervo Energy, which uses drilling techniques from the oil and gas industry to produce power from the earth\u2019s heat, raised $1.9 billion in an initial public offering.",
+   "byline": {
+    "original": "By Ivan Penn and Brad Plumer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public",
+    "kicker": "",
+    "print_headline": "Aiming to Lift Geothermal, Energy Start-Up Goes Public"
+   },
+   "_id": "nyt://article/acaf9aca-0144-5402-8b49-46b5e3a00b03",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Fervo Energy Co",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Geothermal Power",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Electric Light and Power",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "A Fervo Energy project near Milford, Utah. The company is trying to adapt drilling techniques from the oil and gas industry to unlock vast amounts of energy from the earth\u2019s interior.",
+    "credit": "Brandon Thibodeaux for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/05/12/multimedia/00biz-fervo-ipo-01-hfwk/00biz-fervor-ipo-01-hfwk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/05/12/multimedia/00biz-fervo-ipo-01-hfwk/00biz-fervor-ipo-01-hfwk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2026-05-13T16:38:47Z",
+   "section_name": "Business",
+   "snippet": "Fervo Energy, which uses drilling techniques from the oil and gas industry to produce power from the earth\u2019s heat, raised $1.9 billion in an initial public offering.",
+   "source": "The New York Times",
+   "subsection_name": "Energy & Environment ",
+   "type_of_material": "News",
+   "uri": "nyt://article/acaf9aca-0144-5402-8b49-46b5e3a00b03",
+   "web_url": "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
+   "word_count": 1291
+  },
+  {
+   "abstract": "Kevin Warsh, President Trump\u2019s pick to run the Federal Reserve, would face a growing inflation challenge if he\u2019s confirmed.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O\u2019Keefe"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why a Warsh-Led Fed May Keep Interest Rates Steady",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/61e6837e-6a28-5fdd-9173-826f4c3d583b",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Warsh, Kevin M",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Powell, Jerome H",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Kevin Warsh, President Trump\u2019s pick to run the Fed, appears set to inherit a central bank at a crossroads as inflation surges.",
+    "credit": "Kenny Holston/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/05/13/multimedia/13db-warsh-cgft/13db-warsh-cgft-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/05/13/multimedia/13db-warsh-cgft/13db-warsh-cgft-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-05-13T12:04:39Z",
+   "section_name": "Business",
+   "snippet": "Kevin Warsh, President Trump\u2019s pick to run the Federal Reserve, would face a growing inflation challenge if he\u2019s confirmed.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/61e6837e-6a28-5fdd-9173-826f4c3d583b",
+   "web_url": "https://www.nytimes.com/2026/05/13/business/dealbook/warsh-interest-rates-trump.html",
+   "word_count": 1843
+  }
+ ]
+}

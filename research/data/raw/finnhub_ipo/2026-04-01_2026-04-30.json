@@ -1,0 +1,437 @@
+{
+ "from": "2026-04-01",
+ "to": "2026-04-30",
+ "fetched_at": "2026-09-08T04:23:20.647014+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2026-04-30",
+   "exchange": "NASDAQ Global",
+   "name": "General Catalyst Global Resilience Merger Corp.",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GCGRU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2026-04-30",
+   "exchange": "NASDAQ Global Select",
+   "name": "Avalyn Pharma Inc.",
+   "numberOfShares": 16666667,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "AVLN",
+   "totalSharesValue": 300000006
+  },
+  {
+   "date": "2026-04-30",
+   "exchange": "NASDAQ Global",
+   "name": "RRE Ventures Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RREVU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2026-04-30",
+   "exchange": "NASDAQ Global",
+   "name": "Mountain Crest Acquisition 6 Corp.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MCAHU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2026-04-30",
+   "exchange": "NYSE",
+   "name": "West Enclave Merger Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WENCU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-04-30",
+   "exchange": "NASDAQ Global",
+   "name": "Forefront Tech Holdings Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FTHAU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-04-30",
+   "exchange": "NYSE MKT",
+   "name": "SILVER BOW MINING CORP.",
+   "numberOfShares": 5200000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "SBMT",
+   "totalSharesValue": 59800000
+  },
+  {
+   "date": "2026-04-30",
+   "exchange": "NASDAQ Global",
+   "name": "ARC Group Acquisition I Corp.",
+   "numberOfShares": 10500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ARCLU",
+   "totalSharesValue": 105000000
+  },
+  {
+   "date": "2026-04-29",
+   "exchange": "NASDAQ Global",
+   "name": "Collective Acquisition Corp. II",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CAIIU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2026-04-29",
+   "exchange": "NYSE",
+   "name": "PERSHING SQUARE INC.",
+   "numberOfShares": 40516960,
+   "price": "50.00",
+   "status": "priced",
+   "symbol": "PS",
+   "totalSharesValue": 2025848000
+  },
+  {
+   "date": "2026-04-29",
+   "exchange": null,
+   "name": "Aussie Aussie Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-04-28",
+   "exchange": "NASDAQ Global",
+   "name": "Irenic Acquisition Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IACQU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2026-04-28",
+   "exchange": "NASDAQ Global",
+   "name": "Churchill Capital Corp XII",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CXIIU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2026-04-28",
+   "exchange": "NYSE",
+   "name": "Plutonian Acquisition Corp. II",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PLUNU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-04-24",
+   "exchange": "NASDAQ Global Select",
+   "name": "X-Energy, Inc.",
+   "numberOfShares": 44254659,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "XE",
+   "totalSharesValue": 1017857157
+  },
+  {
+   "date": "2026-04-23",
+   "exchange": "NASDAQ Capital",
+   "name": "Elmet Group Co.",
+   "numberOfShares": 8571428,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ELMT",
+   "totalSharesValue": 119999992
+  },
+  {
+   "date": "2026-04-23",
+   "exchange": "NASDAQ Capital",
+   "name": "Lakewood-Amedex Biotherapeutics Inc.",
+   "numberOfShares": 4689177,
+   "price": null,
+   "status": "priced",
+   "symbol": "LABT",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2026-04-22",
+   "exchange": "NASDAQ Global",
+   "name": "National Healthcare Properties, Inc.",
+   "numberOfShares": 38500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "NHP",
+   "totalSharesValue": 462000000
+  },
+  {
+   "date": "2026-04-22",
+   "exchange": "NASDAQ Global Select",
+   "name": "Yesway, Inc.",
+   "numberOfShares": 14000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "YSWY",
+   "totalSharesValue": 280000000
+  },
+  {
+   "date": "2026-04-22",
+   "exchange": "NASDAQ Capital",
+   "name": "LIBERTY DEFENSE HOLDINGS, LTD.",
+   "numberOfShares": 3673638,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "DETX",
+   "totalSharesValue": 16531371
+  },
+  {
+   "date": "2026-04-22",
+   "exchange": "NYSE MKT",
+   "name": "Encore Medical, Inc.",
+   "numberOfShares": 3000000,
+   "price": "5.00",
+   "status": "expected",
+   "symbol": "EMI",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2026-04-21",
+   "exchange": null,
+   "name": "Hall Chadwick Acquisition Corp II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HCAXU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2026-04-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "Kailera Therapeutics, Inc.",
+   "numberOfShares": 39062500,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "KLRA",
+   "totalSharesValue": 625000000
+  },
+  {
+   "date": "2026-04-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "Alamar Biosciences, Inc.",
+   "numberOfShares": 11250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ALMR",
+   "totalSharesValue": 191250000
+  },
+  {
+   "date": "2026-04-17",
+   "exchange": "NYSE",
+   "name": "AEVEX Corp.",
+   "numberOfShares": 16000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "AVEX",
+   "totalSharesValue": 320000000
+  },
+  {
+   "date": "2026-04-17",
+   "exchange": "NASDAQ Global",
+   "name": "JATT II Acquisition Corp.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JATT",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2026-04-17",
+   "exchange": null,
+   "name": "AMATUHI HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AMTU",
+   "totalSharesValue": 31050000
+  },
+  {
+   "date": "2026-04-16",
+   "exchange": "NASDAQ Global Select",
+   "name": "Arxis, Inc.",
+   "numberOfShares": 40500000,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "ARXS",
+   "totalSharesValue": 1134000000
+  },
+  {
+   "date": "2026-04-16",
+   "exchange": "NYSE",
+   "name": "Madison Air Solutions Corp",
+   "numberOfShares": 82692308,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "MAIR",
+   "totalSharesValue": 2232692316
+  },
+  {
+   "date": "2026-04-15",
+   "exchange": "NYSE",
+   "name": "QuasarEdge Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "QREDU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-04-15",
+   "exchange": "NASDAQ Global",
+   "name": "NewHold Investment Corp IV",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NHIVU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2026-04-15",
+   "exchange": null,
+   "name": "AI STRATEGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AISTU",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2026-04-15",
+   "exchange": null,
+   "name": "ROKIT America, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "RKAM",
+   "totalSharesValue": 31776318
+  },
+  {
+   "date": "2026-04-14",
+   "exchange": "NASDAQ Global",
+   "name": "Maywood Acquisition Corp. 2",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MYXXU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-04-10",
+   "exchange": null,
+   "name": "C2 Capital Group, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CCLV",
+   "totalSharesValue": 21562500
+  },
+  {
+   "date": "2026-04-10",
+   "exchange": null,
+   "name": "Encore Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ECR",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-04-10",
+   "exchange": null,
+   "name": "CAPSTONE 72, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CAPI",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2026-04-08",
+   "exchange": "NASDAQ Capital",
+   "name": "Metals Royalty Co Inc.",
+   "numberOfShares": 55061113,
+   "price": null,
+   "status": "priced",
+   "symbol": "TMCR",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2026-04-08",
+   "exchange": null,
+   "name": "INTEGRATED RAIL & RESOURCES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "IRRX",
+   "totalSharesValue": 84050000
+  },
+  {
+   "date": "2026-04-07",
+   "exchange": "NASDAQ Global",
+   "name": "Apogee Acquisition Corp",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AACPU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2026-04-07",
+   "exchange": "NASDAQ Global",
+   "name": "ACP Holdings Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ACGCU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-04-01",
+   "exchange": null,
+   "name": "Going International Holding Co Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-04-01",
+   "exchange": "NASDAQ Global Select",
+   "name": "HMH Holding Inc",
+   "numberOfShares": 10520000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "HMH",
+   "totalSharesValue": 210400000
+  }
+ ]
+}

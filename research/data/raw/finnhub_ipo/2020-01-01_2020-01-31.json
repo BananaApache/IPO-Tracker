@@ -1,0 +1,197 @@
+{
+ "from": "2020-01-01",
+ "to": "2020-01-31",
+ "fetched_at": "2026-09-08T04:20:50.551223+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2020-01-31",
+   "exchange": null,
+   "name": "Riley Exploration - Permian, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-01-31",
+   "exchange": "NASDAQ Global Select",
+   "name": "1life Healthcare Inc",
+   "numberOfShares": 17500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ONEM",
+   "totalSharesValue": 245000000
+  },
+  {
+   "date": "2020-01-31",
+   "exchange": "NASDAQ Global Select",
+   "name": "Arcutis Biotherapeutics, Inc.",
+   "numberOfShares": 9375000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ARQT",
+   "totalSharesValue": 159375000
+  },
+  {
+   "date": "2020-01-31",
+   "exchange": "NASDAQ Global Select",
+   "name": "Reynolds Consumer Products Inc.",
+   "numberOfShares": 47170000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "REYN",
+   "totalSharesValue": 1226420000
+  },
+  {
+   "date": "2020-01-30",
+   "exchange": null,
+   "name": "iShares Gold Trust Micro",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-01-30",
+   "exchange": "NASDAQ Global Select",
+   "name": "Black Diamond Therapeutics, Inc.",
+   "numberOfShares": 10586316,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "BDTX",
+   "totalSharesValue": 201140004
+  },
+  {
+   "date": "2020-01-30",
+   "exchange": "NASDAQ Global",
+   "name": "AnPac Bio-Medical Science Co., Ltd.",
+   "numberOfShares": 1333360,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "ANPC",
+   "totalSharesValue": 16000320
+  },
+  {
+   "date": "2020-01-29",
+   "exchange": "NYSE MKT",
+   "name": "Annovis Bio, Inc.",
+   "numberOfShares": 2000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ANVS",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2020-01-24",
+   "exchange": "NASDAQ Capital",
+   "name": "UWM Holdings Corp",
+   "numberOfShares": 40000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GHIVU",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2020-01-24",
+   "exchange": "NYSE",
+   "name": "SCVX Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SCVXU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-01-21",
+   "exchange": null,
+   "name": "Goxus, Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GOXS",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2020-01-21",
+   "exchange": null,
+   "name": "UTXO Acquisition Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "UTXOU",
+   "totalSharesValue": 57500000
+  },
+  {
+   "date": "2020-01-17",
+   "exchange": "NYSE",
+   "name": "Velocity Financial, Inc.",
+   "numberOfShares": 7250000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "VEL",
+   "totalSharesValue": 94250000
+  },
+  {
+   "date": "2020-01-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "LIZHI INC.",
+   "numberOfShares": 4100000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "LIZI",
+   "totalSharesValue": 45100000
+  },
+  {
+   "date": "2020-01-17",
+   "exchange": "NYSE",
+   "name": "Phoenix Tree Holdings Ltd",
+   "numberOfShares": 9600000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "DNK",
+   "totalSharesValue": 129600000
+  },
+  {
+   "date": "2020-01-17",
+   "exchange": "NASDAQ Global",
+   "name": "I-Mab",
+   "numberOfShares": 7407400,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "IMAB",
+   "totalSharesValue": 103703600
+  },
+  {
+   "date": "2020-01-17",
+   "exchange": null,
+   "name": "JIANA SCIENCE & TECHNOLOGY CO., LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JANA",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2020-01-14",
+   "exchange": null,
+   "name": "BITWISE BITCOIN ETF TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-01-08",
+   "exchange": null,
+   "name": "Ardent Health Partners, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

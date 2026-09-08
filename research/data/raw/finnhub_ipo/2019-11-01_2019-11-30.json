@@ -1,0 +1,387 @@
+{
+ "from": "2019-11-01",
+ "to": "2019-11-30",
+ "fetched_at": "2026-09-08T04:20:46.546018+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2019-11-29",
+   "exchange": null,
+   "name": "GraniteShares Gold MiniBAR Trust",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-11-22",
+   "exchange": null,
+   "name": "YX Asset Recovery Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-11-22",
+   "exchange": null,
+   "name": "Exeter Finance Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-11-22",
+   "exchange": "NYSE",
+   "name": "Alpine Income Property Trust, Inc.",
+   "numberOfShares": 7500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "PINE",
+   "totalSharesValue": 142500000
+  },
+  {
+   "date": "2019-11-22",
+   "exchange": "NASDAQ Capital",
+   "name": "CHP Merger Corp.",
+   "numberOfShares": 27500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CHPMU",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2019-11-21",
+   "exchange": "NASDAQ Global",
+   "name": "SITIME Corp",
+   "numberOfShares": 4300000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "SITM",
+   "totalSharesValue": 55900000
+  },
+  {
+   "date": "2019-11-21",
+   "exchange": "NASDAQ Global",
+   "name": "Canaan Inc.",
+   "numberOfShares": 10000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "CAN",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2019-11-20",
+   "exchange": "NASDAQ Capital",
+   "name": "Amplitude Healthcare Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AMHCU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2019-11-20",
+   "exchange": "NASDAQ Capital",
+   "name": "Software Acquisition Group Inc.",
+   "numberOfShares": 13000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SAQNU",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2019-11-20",
+   "exchange": null,
+   "name": "Excellerant, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2019-11-19",
+   "exchange": "NASDAQ Capital",
+   "name": "GreenVision Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GRNVU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2019-11-15",
+   "exchange": null,
+   "name": "Telemynd, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-11-15",
+   "exchange": null,
+   "name": "CDP Holdings, Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CDP",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2019-11-15",
+   "exchange": null,
+   "name": "Odyssey Semiconductor Technologies, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 16973440.5
+  },
+  {
+   "date": "2019-11-13",
+   "exchange": "NASDAQ Capital",
+   "name": "YayYo, Inc.",
+   "numberOfShares": 2625000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "YAYO",
+   "totalSharesValue": 10500000
+  },
+  {
+   "date": "2019-11-12",
+   "exchange": null,
+   "name": "Nuzee, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 7245000
+  },
+  {
+   "date": "2019-11-11",
+   "exchange": "NASDAQ Global",
+   "name": "89bio, Inc.",
+   "numberOfShares": 5304687,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ETNB",
+   "totalSharesValue": 84874992
+  },
+  {
+   "date": "2019-11-08",
+   "exchange": null,
+   "name": "Inhibrx, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-11-08",
+   "exchange": "NASDAQ Global",
+   "name": "TELA Bio, Inc.",
+   "numberOfShares": 4000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "TELA",
+   "totalSharesValue": 52000000
+  },
+  {
+   "date": "2019-11-08",
+   "exchange": "NYSE",
+   "name": "Juniper Industrial Holdings, Inc.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JIH'U",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2019-11-08",
+   "exchange": "NASDAQ Global",
+   "name": "ECMOHO Ltd",
+   "numberOfShares": 4375000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MOHO",
+   "totalSharesValue": 43750000
+  },
+  {
+   "date": "2019-11-08",
+   "exchange": "NASDAQ Capital",
+   "name": "Stable Road Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SRACU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2019-11-08",
+   "exchange": "NASDAQ Global",
+   "name": "36Kr Holdings Inc.",
+   "numberOfShares": 1380000,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "KRKR",
+   "totalSharesValue": 20010000
+  },
+  {
+   "date": "2019-11-08",
+   "exchange": "NASDAQ Capital",
+   "name": "CNS Pharmaceuticals, Inc.",
+   "numberOfShares": 2125000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CNSP",
+   "totalSharesValue": 8500000
+  },
+  {
+   "date": "2019-11-07",
+   "exchange": null,
+   "name": "Hylete, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-11-07",
+   "exchange": "NASDAQ Capital",
+   "name": "LGL Systems Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DFNSU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2019-11-07",
+   "exchange": "NASDAQ Global",
+   "name": "Centogene N.V.",
+   "numberOfShares": 4000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "CNTG",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2019-11-07",
+   "exchange": "NASDAQ Global",
+   "name": "Galera Therapeutics, Inc.",
+   "numberOfShares": 5000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "GRTX",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2019-11-07",
+   "exchange": "NYSE",
+   "name": "Silvergate Capital Corp",
+   "numberOfShares": 3333333,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "SI",
+   "totalSharesValue": 39999996
+  },
+  {
+   "date": "2019-11-07",
+   "exchange": null,
+   "name": "F5 Finishes, Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FLRZ",
+   "totalSharesValue": 23000000
+  },
+  {
+   "date": "2019-11-05",
+   "exchange": "NASDAQ Global",
+   "name": "Q&K INTERNATIONAL GROUP Ltd",
+   "numberOfShares": 2700000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "QK",
+   "totalSharesValue": 45900000
+  },
+  {
+   "date": "2019-11-05",
+   "exchange": "NASDAQ Capital",
+   "name": "Merida Merger Corp. I",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MCMJU",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2019-11-05",
+   "exchange": null,
+   "name": "PropTech Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PTACU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2019-11-04",
+   "exchange": null,
+   "name": "Nowtransit Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2019-11-01",
+   "exchange": "NASDAQ Global",
+   "name": "Fangdd Network Group Ltd.",
+   "numberOfShares": 6000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "DUO",
+   "totalSharesValue": 78000000
+  },
+  {
+   "date": "2019-11-01",
+   "exchange": "NYSE",
+   "name": "Osprey Technology Acquisition Corp.",
+   "numberOfShares": 27500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SFTWU",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2019-11-01",
+   "exchange": "NASDAQ Capital",
+   "name": "FinServ Acquisition Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FSRVU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2019-11-01",
+   "exchange": null,
+   "name": "Alussa Energy Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ALUSU",
+   "totalSharesValue": 250000000
+  }
+ ]
+}

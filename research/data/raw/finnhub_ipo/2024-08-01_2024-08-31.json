@@ -1,0 +1,297 @@
+{
+ "from": "2024-08-01",
+ "to": "2024-08-31",
+ "fetched_at": "2026-09-08T04:22:40.615329+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2024-08-29",
+   "exchange": "NASDAQ Global",
+   "name": "GigCapital7 Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GIGGU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2024-08-28",
+   "exchange": "NASDAQ Global",
+   "name": "Autozi Internet Technology (Global) Ltd.",
+   "numberOfShares": 2500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "AZI",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2024-08-28",
+   "exchange": "NASDAQ Capital",
+   "name": "Safe Pro Group Inc.",
+   "numberOfShares": 1020000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SPAI",
+   "totalSharesValue": 5100000
+  },
+  {
+   "date": "2024-08-28",
+   "exchange": "NASDAQ Global",
+   "name": "Black Spade Acquisition II Co",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BSIIU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2024-08-27",
+   "exchange": null,
+   "name": "Ming Shing Group Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-08-27",
+   "exchange": "NASDAQ Capital",
+   "name": "JBDI Holdings Ltd",
+   "numberOfShares": 2250000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "JBDI",
+   "totalSharesValue": 11250000
+  },
+  {
+   "date": "2024-08-27",
+   "exchange": null,
+   "name": "Mercalot Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2024-08-23",
+   "exchange": "NASDAQ Capital",
+   "name": "Reitar Logtech Holdings Ltd",
+   "numberOfShares": 2125000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "RITR",
+   "totalSharesValue": 8500000
+  },
+  {
+   "date": "2024-08-23",
+   "exchange": "NASDAQ Capital",
+   "name": "WORK Medical Technology Group LTD",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "WOK",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2024-08-22",
+   "exchange": null,
+   "name": "ZC GOLD Jewelry INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ZCXX",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2024-08-21",
+   "exchange": null,
+   "name": "Yi Yue Digital Technology Group Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "YYDT",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2024-08-16",
+   "exchange": "NASDAQ Global",
+   "name": "YXT.COM GROUP HOLDING Ltd",
+   "numberOfShares": 2273000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "YXT",
+   "totalSharesValue": 25003000
+  },
+  {
+   "date": "2024-08-16",
+   "exchange": "NASDAQ Global",
+   "name": "HCM II Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HONDU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2024-08-16",
+   "exchange": "NYSE",
+   "name": "SilverBox Corp IV",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SBXDU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2024-08-15",
+   "exchange": null,
+   "name": "Thoughtful Media Group Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TMGX",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2024-08-15",
+   "exchange": null,
+   "name": "YZSZ Holding Group Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "YZSZ",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2024-08-13",
+   "exchange": null,
+   "name": "FPA ENERGY ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-08-13",
+   "exchange": null,
+   "name": "FBS Global Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-08-13",
+   "exchange": "NASDAQ Global",
+   "name": "Cantor Equity Partners, Inc.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CEP",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2024-08-13",
+   "exchange": "NASDAQ Global",
+   "name": "ACTUATE THERAPEUTICS, INC.",
+   "numberOfShares": 2800000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "ACTU",
+   "totalSharesValue": 22400000
+  },
+  {
+   "date": "2024-08-09",
+   "exchange": "NASDAQ Global",
+   "name": "Voyager Acquisition Corp./Cayman Islands",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VACHU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2024-08-08",
+   "exchange": null,
+   "name": "First Person Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-08-07",
+   "exchange": null,
+   "name": "Droneify Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-08-07",
+   "exchange": "NYSE",
+   "name": "EQV Ventures Acquisition Corp.",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EQVU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2024-08-05",
+   "exchange": null,
+   "name": "Entertainment Activations Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2024-08-01",
+   "exchange": "NASDAQ Capital",
+   "name": "Fifth District Bancorp, Inc.",
+   "numberOfShares": 5459473,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FDSB",
+   "totalSharesValue": 54594730
+  },
+  {
+   "date": "2024-08-01",
+   "exchange": "NYSE",
+   "name": "AA Mission Acquisition Corp.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AAM'U",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2024-08-01",
+   "exchange": "NASDAQ Global",
+   "name": "M3-Brigade Acquisition V Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MBAVU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2024-08-01",
+   "exchange": "NYSE MKT",
+   "name": "OS THERAPIES Inc",
+   "numberOfShares": 1600000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "OSTX",
+   "totalSharesValue": 6400000
+  }
+ ]
+}

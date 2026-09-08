@@ -1,0 +1,755 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-08",
+ "begin_date": "20250801",
+ "end_date": "20250831",
+ "fetched_at": "2026-09-08T05:04:14.331763+00:00",
+ "hits": 16,
+ "docs": [
+  {
+   "abstract": "Elon Musk\u2019s rocket company relies on federal contracts, but years of losses have most likely let it avoid paying federal income taxes, according to internal company documents.",
+   "byline": {
+    "original": "By Susanne Craig and Kirsten Grind"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Gets Billions From the Government. It Gives Little to Nothing Back in Taxes.",
+    "kicker": "",
+    "print_headline": "SpaceX Gets Billions From U.S., But Likely Pays Very Little Taxes"
+   },
+   "_id": "nyt://article/907e87fb-94a3-5e25-bb18-08d758889a13",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Income Tax",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Tax Credits, Deductions and Exemptions",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Corporate Taxes",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Illustration by Joan Wong, Photographs by Meridith Kohut for The New York Times, Carly Zavala for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/02/business/00spacex/00spacex-articleLarge.jpg",
+     "height": 750,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/02/business/00spacex/00spacex-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-08-15T09:00:17Z",
+   "section_name": "Technology",
+   "snippet": "Elon Musk\u2019s rocket company relies on federal contracts, but years of losses have most likely let it avoid paying federal income taxes, according to internal company documents.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/907e87fb-94a3-5e25-bb18-08d758889a13",
+   "web_url": "https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html",
+   "word_count": 1650
+  },
+  {
+   "abstract": "Weather interfered on Monday night with the ability of Elon Musk\u2019s company to show it could overcome setbacks faced by its Starship prototype.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Again Scrubs Critical 10th Test Launch of Mars Rocket",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/da810128-8916-5f3f-a35a-b964c11ed708",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 3
+    }
+   ],
+   "multimedia": {
+    "caption": "A helicopter passes SpaceX\u2019s large Starship rocket on Monday at Starbase, Texas.",
+    "credit": "Eric Gay/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/25/multimedia/25HS-spacex-starship-launch-gvbl/25HS-spacex-starship-launch-gvbl-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/25/multimedia/25HS-spacex-starship-launch-gvbl/25HS-spacex-starship-launch-gvbl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-25T21:01:07Z",
+   "section_name": "Science",
+   "snippet": "Weather interfered on Monday night with the ability of Elon Musk\u2019s company to show it could overcome setbacks faced by its Starship prototype.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/da810128-8916-5f3f-a35a-b964c11ed708",
+   "web_url": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
+   "word_count": 1169
+  },
+  {
+   "abstract": "Elon Musk\u2019s company says it will try again on Monday for the next trip of its Starship prototype, which experienced setbacks during its last three flights.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Reschedules Critical 10th Test Launch of Mars Rocket",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/a3f2eab2-2307-552c-9032-e63381a99264",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "The Starship mega rocket on the launchpad at Starbase, Texas, in May, before its ninth test flight.",
+    "credit": "Eric Gay/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/24/multimedia/24HS-starship-01-fwkc/24HS-starship-01-fwkc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/24/multimedia/24HS-starship-01-fwkc/24HS-starship-01-fwkc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-24T20:18:32Z",
+   "section_name": "Science",
+   "snippet": "Elon Musk\u2019s company says it will try again on Monday for the next trip of its Starship prototype, which experienced setbacks during its last three flights.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a3f2eab2-2307-552c-9032-e63381a99264",
+   "web_url": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
+   "word_count": 1041
+  },
+  {
+   "abstract": "After setbacks during the last three launches of Starship, Elon Musk\u2019s rocket splashed down in the Indian Ocean on Tuesday night.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX\u2019s Giant Mars Rocket Completes Nearly Flawless Test Flight",
+    "kicker": "",
+    "print_headline": "Largely Successful Test Suggests SpaceX\u2019s Huge Rocket Is Back on Track"
+   },
+   "_id": "nyt://article/5af265bf-0128-54db-ad53-384fbb7bb29b",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "A prototype of SpaceX\u2019s Starship rocket lifted off on Tuesday night from South Texas.",
+    "credit": "SpaceX, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/26/multimedia/26HS-spacex-starship-launch-llwe/26HS-spacex-starship-launch-llwe-articleLarge-v2.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/26/multimedia/26HS-spacex-starship-launch-llwe/26HS-spacex-starship-launch-llwe-thumbStandard-v3.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2025-08-26T20:46:19Z",
+   "section_name": "Science",
+   "snippet": "After setbacks during the last three launches of Starship, Elon Musk\u2019s rocket splashed down in the Indian Ocean on Tuesday night.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/5af265bf-0128-54db-ad53-384fbb7bb29b",
+   "web_url": "https://www.nytimes.com/2025/08/26/science/spacex-starship-test-launch.html",
+   "word_count": 1101
+  },
+  {
+   "abstract": "After a scrubbed launch on Thursday, four astronauts lifted off from Florida and will dock at the International Space Station on Saturday.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Astronauts Head to Space Station as Clouds Stay Just Far Enough Away",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/c841bc11-0602-58a3-9bc5-078faf9f7d39",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Earth",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space Stations",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Kennedy Space Center",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Roscosmos",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Florida",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "A SpaceX Falcon 9 rocket launching on Friday. It was carrying NASA\u2019s Crew-11 astronauts to the International Space Station.",
+    "credit": "Steve Nesius/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/01/multimedia/01HS-NASA-astronauts-gfck/01HS-NASA-astronauts-gfck-articleLarge.jpg",
+     "height": 374,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/01/multimedia/01HS-NASA-astronauts-gfck/01HS-NASA-astronauts-gfck-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-01T20:30:59Z",
+   "section_name": "Science",
+   "snippet": "After a scrubbed launch on Thursday, four astronauts lifted off from Florida and will dock at the International Space Station on Saturday.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c841bc11-0602-58a3-9bc5-078faf9f7d39",
+   "web_url": "https://www.nytimes.com/2025/08/01/science/nasa-astronauts-space-station-cardman.html",
+   "word_count": 560
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Michael Roston"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Sept. 23: NASA could launch a mission to map the solar system\u2019s boundaries.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/4223a7c4-e31f-577e-8880-4810aa68c894",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "live-detached",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Solar System",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Milky Way Galaxy",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Space engineers at work on the NASA Interstellar Mapping and Acceleration Probe spacecraft at the Astrotech Space Operations facility in Titusville, Fla., in August.",
+    "credit": "Miguel J. Rodriguez Carrillo/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/01/multimedia/01space-calendar-imap-gjfl/01space-calendar-imap-gjfl-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/01/multimedia/01space-calendar-imap-gjfl/01space-calendar-imap-gjfl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-29T17:09:24Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4223a7c4-e31f-577e-8880-4810aa68c894",
+   "web_url": "https://www.nytimes.com/article/sept-23-nasa-could-launch-a-mission-to-map-the-solar-systems-boundaries.html",
+   "word_count": 114
+  },
+  {
+   "abstract": "Also, D.C. sued Trump over his takeover of the city\u2019s police. Here\u2019s the latest at the end of Friday.",
+   "byline": {
+    "original": "By Matthew Cullen"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump and Putin Meet in Alaska",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/41387332-4da5-5726-8090-9ec739d78c9b",
+   "keywords": [],
+   "multimedia": {
+    "caption": "",
+    "credit": "Doug Mills/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/15/multimedia/15evening-nl-trump-putin-ktcm/15evening-nl-trump-putin-ktcm-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/15/multimedia/15evening-nl-trump-putin-ktcm/15evening-nl-trump-putin-ktcm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "NYTNow",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-15T21:22:25Z",
+   "section_name": "Briefing",
+   "snippet": "Also, D.C. sued Trump over his takeover of the city\u2019s police. Here\u2019s the latest at the end of Friday.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/41387332-4da5-5726-8090-9ec739d78c9b",
+   "web_url": "https://www.nytimes.com/2025/08/15/briefing/trump-and-putin-meet-in-alaska.html",
+   "word_count": 1302
+  },
+  {
+   "abstract": "The acceleration of nuclear development is part of the Trump administration\u2019s efforts to focus NASA on human spaceflight. A reactor would be useful for long-term stays on the moon.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Nuclear Reactor on the Moon? Come Again?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/339aeb6e-4014-5ff9-9842-72b6eb3a03ef",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    }
+   ],
+   "multimedia": {
+    "caption": "Sean Duffy, the acting administrator of NASA, cited plans by China and Russia to put a reactor on the moon by the mid-2030s as part of a joint moon-base effort.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/04/multimedia/04trump-news-moon1-gwkf/04trump-news-moon1-gwkf-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/04/multimedia/04trump-news-moon1-gwkf/04trump-news-moon1-gwkf-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-05T02:27:08Z",
+   "section_name": "Science",
+   "snippet": "The acceleration of nuclear development is part of the Trump administration\u2019s efforts to focus NASA on human spaceflight. A reactor would be useful for long-term stays on the moon.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/339aeb6e-4014-5ff9-9842-72b6eb3a03ef",
+   "web_url": "https://www.nytimes.com/2025/08/04/science/nasa-moon-nuclear-reactor.html",
+   "word_count": 533
+  },
+  {
+   "abstract": "Before he was a senator, Mark Kelly was an astronaut. He\u2019s worried about America\u2019s leadership in space.",
+   "byline": {
+    "original": "By Mark Kelly"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Mark Kelly: My Fix for NASA",
+    "kicker": "Guest Essay",
+    "print_headline": "My Fix For NASA"
+   },
+   "_id": "nyt://article/f61cdae4-e3cc-5fcb-b16a-31c6db548bf6",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Innovation",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Layoffs and Job Reductions",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Budget (US)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Duffy, Sean P",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 12
+    },
+    {
+     "name": "Location",
+     "value": "United States",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Tamara Reynolds for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/06/multimedia/06kelly-klqg/06kelly-klqg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/06/multimedia/06kelly-klqg/06kelly-klqg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "21",
+   "print_section": "A",
+   "pub_date": "2025-08-06T09:01:54Z",
+   "section_name": "Opinion",
+   "snippet": "Before he was a senator, Mark Kelly was an astronaut. He\u2019s worried about America\u2019s leadership in space.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Op-Ed",
+   "uri": "nyt://article/f61cdae4-e3cc-5fcb-b16a-31c6db548bf6",
+   "web_url": "https://www.nytimes.com/2025/08/06/opinion/mark-kelly-nasa-trump.html",
+   "word_count": 965
+  },
+  {
+   "abstract": "The state has handed big business a series of legislative wins as it races to woo corporations from Delaware, including a law that helped pave the way for Elon Musk\u2019s big Tesla payday.",
+   "byline": {
+    "original": "By Niko Gallogly"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "New Texas Laws Open a Wild West for Corporate Governance",
+    "kicker": "DealBook Newsletter",
+    "print_headline": "Texas Laws Open a Wild West for Corporate Control"
+   },
+   "_id": "nyt://article/493aa857-fcad-5649-bc61-de16bf4ce98a",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Corporations",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Relocation of Business",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Law and Legislation",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Corporate Taxes",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Boards of Directors",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Corporate Social Responsibility",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Delaware",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Photo Illustration by Javier Palma; Photographs via Alamy",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/16/business/16db-texas/16db-texas-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/16/business/16db-texas/16db-texas-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2025-08-16T12:00:02Z",
+   "section_name": "Business",
+   "snippet": "The state has handed big business a series of legislative wins as it races to woo corporations from Delaware, including a law that helped pave the way for Elon Musk\u2019s big Tesla payday.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/493aa857-fcad-5649-bc61-de16bf4ce98a",
+   "web_url": "https://www.nytimes.com/2025/08/16/business/dealbook/texas-incorporation-delaware.html",
+   "word_count": 1907
+  }
+ ]
+}

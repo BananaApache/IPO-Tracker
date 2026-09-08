@@ -1,0 +1,884 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2024-05",
+ "begin_date": "20240501",
+ "end_date": "20240531",
+ "fetched_at": "2026-09-08T04:28:14.129598+00:00",
+ "hits": 22,
+ "docs": [
+  {
+   "abstract": "At a time when the U.S. government is concerned about its reliance on a mercurial billionaire for access to space, new competitors say Elon Musk\u2019s SpaceX is using tactics intended to squash them.",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Dominates Space Launch. Rivals Are Calling Foul.",
+    "kicker": "",
+    "print_headline": "Musk Muscles His Rivals Out In Space Race"
+   },
+   "_id": "nyt://article/d856d90f-cc83-59b7-8b4d-e7c2acba5461",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Antitrust Laws and Competition Issues",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "United Launch Alliance",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "United States Space Force",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "United States Air Force",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "Rocket Lab",
+     "rank": 14
+    },
+    {
+     "name": "Organization",
+     "value": "Relativity Space Inc",
+     "rank": 15
+    },
+    {
+     "name": "Person",
+     "value": "Beck, Peter (Scientist)",
+     "rank": 16
+    },
+    {
+     "name": "Person",
+     "value": "Ellis, Tim (1990- )",
+     "rank": 17
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Chandan Khanna/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/21/multimedia/00dc-musk-launch-promo-gqbf/00dc-musk-launch-promo-gqbf-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/21/multimedia/00dc-musk-launch-promo-gqbf/00dc-musk-launch-promo-gqbf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-05-28T09:00:43Z",
+   "section_name": "U.S.",
+   "snippet": "At a time when the U.S. government is concerned about its reliance on a mercurial billionaire for access to space, new competitors say Elon Musk\u2019s SpaceX is using tactics intended to squash them.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/d856d90f-cc83-59b7-8b4d-e7c2acba5461",
+   "web_url": "https://www.nytimes.com/2024/05/28/us/politics/elon-musk-space-launch-competition.html",
+   "word_count": 3370
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Does NASA need two rides to the space station? Elon Musk says no.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/ed2026f6-0385-5b0e-b7f4-c42331ba7cfd",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    }
+   ],
+   "multimedia": {
+    "caption": "The SpaceX Crew Dragon capsule approaching the International Space Station for docking in 2021.",
+    "credit": "NASA, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06boeing-starliner-spacex-bzhk/06boeing-starliner-spacex-bzhk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06boeing-starliner-spacex-bzhk/06boeing-starliner-spacex-bzhk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-05-06T23:30:44Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/ed2026f6-0385-5b0e-b7f4-c42331ba7cfd",
+   "web_url": "https://www.nytimes.com/live/2024/05/06/science/boeing-starliner-launch/spacex-nasa-orbit",
+   "word_count": 474
+  },
+  {
+   "abstract": "To some, Elon Musk has given Brownsville, Texas, a reason for being, a future. To others, he\u2019s a colonizer, flirting with white nationalists online while exploiting a predominantly brown work force.",
+   "byline": {
+    "original": "By Christopher Hooks and Mike Osborne"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Try Living in Elon Musk\u2019s Company Town",
+    "kicker": "Guest Essay",
+    "print_headline": "Life in SpaceX\u2019s Company Town"
+   },
+   "_id": "nyt://article/c4af754f-34d6-5805-aa34-855f03a22124",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "Brownsville (Tex)",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Austin (Tex)",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Mike Osborne for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/24/multimedia/24hooks-01-jcvz/24hooks-01-jcvz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/24/multimedia/24hooks-01-jcvz/24hooks-01-jcvz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "4",
+   "print_section": "SR",
+   "pub_date": "2024-05-24T09:00:15Z",
+   "section_name": "Opinion",
+   "snippet": "To some, Elon Musk has given Brownsville, Texas, a reason for being, a future. To others, he\u2019s a colonizer, flirting with white nationalists online while exploiting a predominantly brown work force.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Op-Ed",
+   "uri": "nyt://article/c4af754f-34d6-5805-aa34-855f03a22124",
+   "web_url": "https://www.nytimes.com/2024/05/24/opinion/elon-musk-spacex-brownsville-texas.html",
+   "word_count": 3535
+  },
+  {
+   "abstract": "Mr. Musk has built a constellation of like-minded heads of state \u2014 including Argentina\u2019s Javier Milei and India\u2019s Narendra Modi \u2014 to push his own politics and expand his business empire.",
+   "byline": {
+    "original": "By Ryan Mac, Jack Nicas and Alex Travelli"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk\u2019s Diplomacy: Woo Right-Wing World Leaders. Then Benefit.",
+    "kicker": "",
+    "print_headline": "Musk Is Wooing Global Leaders On Right Wing"
+   },
+   "_id": "nyt://article/aad53d3e-9be5-535d-bf3a-2bf6928ebb12",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Right-Wing Extremism and Alt-Right",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Fringe Groups and Movements",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Lobbying and Lobbyists",
+     "rank": 15
+    },
+    {
+     "name": "Location",
+     "value": "Argentina",
+     "rank": 16
+    },
+    {
+     "name": "Person",
+     "value": "Milei, Javier",
+     "rank": 17
+    },
+    {
+     "name": "Location",
+     "value": "Brazil",
+     "rank": 18
+    },
+    {
+     "name": "Person",
+     "value": "Bolsonaro, Jair (1955- )",
+     "rank": 19
+    },
+    {
+     "name": "Location",
+     "value": "India",
+     "rank": 20
+    },
+    {
+     "name": "Person",
+     "value": "Modi, Narendra",
+     "rank": 21
+    },
+    {
+     "name": "Subject",
+     "value": "Mines and Mining",
+     "rank": 22
+    },
+    {
+     "name": "Subject",
+     "value": "Lithium (Metal)",
+     "rank": 23
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Cristiana Couceiro",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/10/business/00musk-leaders-SUB/00musk-leaders-SUB-articleLarge.jpg",
+     "height": 815,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/10/business/00musk-leaders-SUB/00musk-leaders-SUB-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-05-12T09:00:21Z",
+   "section_name": "Technology",
+   "snippet": "Mr. Musk has built a constellation of like-minded heads of state \u2014 including Argentina\u2019s Javier Milei and India\u2019s Narendra Modi \u2014 to push his own politics and expand his business empire.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/aad53d3e-9be5-535d-bf3a-2bf6928ebb12",
+   "web_url": "https://www.nytimes.com/2024/05/12/technology/elon-musk-world-leaders.html",
+   "word_count": 2789
+  },
+  {
+   "abstract": "The market for shares of hot start-ups like SpaceX and Stripe is projected to reach a record $64 billion this year.",
+   "byline": {
+    "original": "By Erin Griffith"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Tensions Rise in Silicon Valley Over Sales of Start-Up Stocks",
+    "kicker": "",
+    "print_headline": "Tensions Rise in Silicon Valley"
+   },
+   "_id": "nyt://article/ecc3eb93-5782-5935-a5e0-5fa562fcafba",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Stripe Inc",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Prasad, Sohail",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Small Business",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Destiny Tech100 Inc",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Ryan Inzana",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/07/business/00startup-stocks/00startup-stocks-articleLarge.jpg",
+     "height": 420,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/07/business/00startup-stocks/00startup-stocks-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2024-05-06T09:01:34Z",
+   "section_name": "Technology",
+   "snippet": "The market for shares of hot start-ups like SpaceX and Stripe is projected to reach a record $64 billion this year.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ecc3eb93-5782-5935-a5e0-5fa562fcafba",
+   "web_url": "https://www.nytimes.com/2024/05/06/technology/startup-stock-funds-destiny.html",
+   "word_count": 1459
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Niraj Chokshi"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Starliner project has cost Boeing $1.4 billion more than it planned to spend.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/4a10095a-5539-503e-b263-4f5787a6a33b",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Landing at the White Sands Missile Range\u2019s Space Harbor in New Mexico after a second uncrewed test flight to the International Space Station in 2022.",
+    "credit": "Bill Ingalls/NASA",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/06/science/06boeing-starliner-money/06boeing-starliner-money-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/06/science/06boeing-starliner-money/06boeing-starliner-money-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-05-07T00:40:05Z",
+   "section_name": "Business",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/4a10095a-5539-503e-b263-4f5787a6a33b",
+   "web_url": "https://www.nytimes.com/live/2024/05/06/science/boeing-starliner-launch/the-starliner-project-has-cost-boeing-1-4-billion-more-than-it-planned-to-spend",
+   "word_count": 334
+  },
+  {
+   "abstract": "Russia has deployed advanced tech to interfere with Elon Musk\u2019s satellite internet service, Ukrainian officials said, leading to more outages on the northern front battle line.",
+   "byline": {
+    "original": "By Paul Mozur and Adam Satariano"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Russia, in New Push, Increasingly Disrupts Ukraine\u2019s Starlink Service",
+    "kicker": "",
+    "print_headline": "Starlink Is Vital to Ukraine. Now Russia Is Jamming It."
+   },
+   "_id": "nyt://article/79d50831-97b4-50ba-bf35-7c46fb1657a0",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Russian Invasion of Ukraine (2022)",
+     "rank": 1
+    },
+    {
+     "name": "Location",
+     "value": "Ukraine",
+     "rank": 2
+    },
+    {
+     "name": "Location",
+     "value": "Russia",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Defense and Military Forces",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Drones (Pilotless Planes)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Communications and Media Blackouts",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Network Outages",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Fedorov, Mykhailo",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "Members of the Achilles Drone battalion of Ukraine\u2019s 92nd Assault Brigade in Kharkiv, Ukraine. They depend on Starlink service for communications and to conduct drone strikes.",
+    "credit": "Sasha Maslov for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/22/multimedia/00starlink-ukraine-1-03-hvcm/00starlink-ukraine-1-03-hvcm-articleLarge.jpg",
+     "height": 800,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/22/multimedia/00starlink-ukraine-1-03-hvcm/00starlink-ukraine-1-03-hvcm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "8",
+   "print_section": "A",
+   "pub_date": "2024-05-24T04:01:10Z",
+   "section_name": "Technology",
+   "snippet": "Russia has deployed advanced tech to interfere with Elon Musk\u2019s satellite internet service, Ukrainian officials said, leading to more outages on the northern front battle line.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/79d50831-97b4-50ba-bf35-7c46fb1657a0",
+   "web_url": "https://www.nytimes.com/2024/05/24/technology/ukraine-russia-starlink.html",
+   "word_count": 1302
+  },
+  {
+   "abstract": "Plus, concerns about the dominance of SpaceX.",
+   "byline": {
+    "original": "By Tracy Mumford, Jonah E. Bromwich, Eric Lipton, Ian Stewart, Jessica Metzger and James Shield"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Criminal Trial Closing Arguments, and Outcry Over Rafah Strike",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/27d91fe6-fe9c-54d9-bcee-e30a8749a59a",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Deaths (Fatalities)",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "Israel",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "Rafah (Gaza Strip)",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Former President Donald J. Trump\u2019s Manhattan criminal trial is entering its final stage on Tuesday.",
+    "credit": "Dave Sanders for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/28/multimedia/28headlines-trump-jctg/28headlines-trump-jctg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/28/multimedia/28headlines-trump-jctg/28headlines-trump-jctg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Podcasts",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-05-28T10:00:07Z",
+   "section_name": "Podcasts",
+   "snippet": "Plus, concerns about the dominance of SpaceX.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/27d91fe6-fe9c-54d9-bcee-e30a8749a59a",
+   "web_url": "https://www.nytimes.com/2024/05/28/podcasts/trump-trial-israel-rafah-offensive.html",
+   "word_count": 114
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "What happens next with the delayed NASA astronaut launch.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/e0d4a8a8-b742-5957-a17c-8bb381f6f652",
+   "keywords": [],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    },
+    "thumbnail": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-05-06T22:00:36Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/e0d4a8a8-b742-5957-a17c-8bb381f6f652",
+   "web_url": "https://www.nytimes.com/live/2024/05/06/science/boeing-starliner-launch/what-to-know-about-nasas-latest-ride-to-orbit",
+   "word_count": 653
+  },
+  {
+   "abstract": "Elon Musk, who founded xAI last year, has said the business \u201cstill has a lot of catching up to do\u201d as it looks to compete with well-funded companies like OpenAI.",
+   "byline": {
+    "original": "By Jason Karaian"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk\u2019s A.I. Firm Raises $6 Billion in Race With Rivals",
+    "kicker": "",
+    "print_headline": "Musk\u2019s A.I. Firm Raises  $6 Billion to Close Gap"
+   },
+   "_id": "nyt://article/81517031-2d8a-5d96-9f4f-03423f510ed1",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Andreessen Horowitz",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Microsoft Corp",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Sequoia Capital",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Alwaleed bin Talal",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk in New York last month.",
+    "credit": "Nina Westervelt for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/27/multimedia/27Xai-vlpf/27Xai-vlpf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/27/multimedia/27Xai-vlpf/27Xai-vlpf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2024-05-27T13:15:22Z",
+   "section_name": "Business",
+   "snippet": "Elon Musk, who founded xAI last year, has said the business \u201cstill has a lot of catching up to do\u201d as it looks to compete with well-funded companies like OpenAI.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/81517031-2d8a-5d96-9f4f-03423f510ed1",
+   "web_url": "https://www.nytimes.com/2024/05/27/business/elon-musk-xai-funding.html",
+   "word_count": 476
+  }
+ ]
+}

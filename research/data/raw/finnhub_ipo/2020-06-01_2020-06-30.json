@@ -1,0 +1,407 @@
+{
+ "from": "2020-06-01",
+ "to": "2020-06-30",
+ "fetched_at": "2026-09-08T04:21:00.563816+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2020-06-30",
+   "exchange": "NYSE",
+   "name": "GS Acquisition Holdings Corp II",
+   "numberOfShares": 70000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GSAHU",
+   "totalSharesValue": 700000000
+  },
+  {
+   "date": "2020-06-30",
+   "exchange": "NASDAQ Capital",
+   "name": "ADiTx Therapeutics, Inc.",
+   "numberOfShares": 1226668,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "ADTX",
+   "totalSharesValue": 11040012
+  },
+  {
+   "date": "2020-06-26",
+   "exchange": null,
+   "name": "United States Commodity Index Funds Trust",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-06-26",
+   "exchange": null,
+   "name": "PCI Media, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-06-26",
+   "exchange": "NYSE",
+   "name": "Fusion Acquisition Corp.",
+   "numberOfShares": 30500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FUSEU",
+   "totalSharesValue": 305000000
+  },
+  {
+   "date": "2020-06-26",
+   "exchange": "NYSE",
+   "name": "QuantumScape Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KCACU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-06-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "Agora, Inc.",
+   "numberOfShares": 17500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "API",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2020-06-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "Fusion Pharmaceuticals Inc.",
+   "numberOfShares": 12500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "FUSN",
+   "totalSharesValue": 212500000
+  },
+  {
+   "date": "2020-06-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "Akouos, Inc.",
+   "numberOfShares": 12500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "AKUS",
+   "totalSharesValue": 212500000
+  },
+  {
+   "date": "2020-06-26",
+   "exchange": "NASDAQ Global",
+   "name": "PolyPid Ltd.",
+   "numberOfShares": 3750000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "PYPD",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2020-06-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "Ebang International Holdings Inc.",
+   "numberOfShares": 19264337,
+   "price": "5.23",
+   "status": "priced",
+   "symbol": "EBON",
+   "totalSharesValue": 100752483
+  },
+  {
+   "date": "2020-06-26",
+   "exchange": "NYSE",
+   "name": "Albertsons Companies, Inc.",
+   "numberOfShares": 50000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ACI",
+   "totalSharesValue": 800000000
+  },
+  {
+   "date": "2020-06-24",
+   "exchange": "NASDAQ Capital",
+   "name": "Brilliant Acquisition Corp",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BRLIU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2020-06-19",
+   "exchange": "NASDAQ Global",
+   "name": "Forma Therapeutics Holdings, Inc.",
+   "numberOfShares": 13882352,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "FMTX",
+   "totalSharesValue": 277647040
+  },
+  {
+   "date": "2020-06-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "Repare Therapeutics Inc.",
+   "numberOfShares": 11000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "RPTX",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2020-06-19",
+   "exchange": "NASDAQ Global",
+   "name": "PROGENITY, INC.",
+   "numberOfShares": 6666667,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "PROG",
+   "totalSharesValue": 100000005
+  },
+  {
+   "date": "2020-06-19",
+   "exchange": "NASDAQ Global",
+   "name": "Genetron Holdings Ltd",
+   "numberOfShares": 16000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "GTH",
+   "totalSharesValue": 256000000
+  },
+  {
+   "date": "2020-06-19",
+   "exchange": null,
+   "name": "InMed Pharmaceuticals Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "INM",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2020-06-17",
+   "exchange": "NYSE",
+   "name": "Trebia Acquisition Corp.",
+   "numberOfShares": 45000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TREBU",
+   "totalSharesValue": 450000000
+  },
+  {
+   "date": "2020-06-16",
+   "exchange": "NASDAQ Global Select",
+   "name": "Royalty Pharma plc",
+   "numberOfShares": 77681670,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "RPRX",
+   "totalSharesValue": 2175086760
+  },
+  {
+   "date": "2020-06-12",
+   "exchange": "NASDAQ Global",
+   "name": "Burning Rock Biotech Ltd",
+   "numberOfShares": 13500000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "BNR",
+   "totalSharesValue": 222750000
+  },
+  {
+   "date": "2020-06-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "Generation Bio Co.",
+   "numberOfShares": 10500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "GBIO",
+   "totalSharesValue": 199500000
+  },
+  {
+   "date": "2020-06-12",
+   "exchange": "NASDAQ Global",
+   "name": "Avidity Biosciences, Inc.",
+   "numberOfShares": 14400000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "RNA",
+   "totalSharesValue": 259200000
+  },
+  {
+   "date": "2020-06-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "Vaxcyte, Inc.",
+   "numberOfShares": 15625000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "PCVX",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2020-06-12",
+   "exchange": "NYSE",
+   "name": "AZEK Co Inc.",
+   "numberOfShares": 33250000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "AZEK",
+   "totalSharesValue": 764750000
+  },
+  {
+   "date": "2020-06-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Lantern Pharma Inc.",
+   "numberOfShares": 1750000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "LTRN",
+   "totalSharesValue": 26250000
+  },
+  {
+   "date": "2020-06-10",
+   "exchange": "NASDAQ Global",
+   "name": "uCloudlink Group Inc.",
+   "numberOfShares": 2010000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "UCL",
+   "totalSharesValue": 36180000
+  },
+  {
+   "date": "2020-06-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Talkspace, Inc.",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HECCU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2020-06-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "Vroom, Inc.",
+   "numberOfShares": 21250000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "VRM",
+   "totalSharesValue": 467500000
+  },
+  {
+   "date": "2020-06-05",
+   "exchange": "NASDAQ Global Select",
+   "name": "Applied Molecular Transport Inc.",
+   "numberOfShares": 11000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "AMTI",
+   "totalSharesValue": 154000000
+  },
+  {
+   "date": "2020-06-05",
+   "exchange": "NASDAQ Capital",
+   "name": "Cerevel Therapeutics Holdings, Inc.",
+   "numberOfShares": 13000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ARYBU",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2020-06-05",
+   "exchange": "NYSE",
+   "name": "Shift4 Payments, Inc.",
+   "numberOfShares": 15000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "FOUR",
+   "totalSharesValue": 345000000
+  },
+  {
+   "date": "2020-06-05",
+   "exchange": "NASDAQ Capital",
+   "name": "PLBY Group, Inc.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MCACU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2020-06-05",
+   "exchange": "NASDAQ Global Select",
+   "name": "Legend Biotech Corp",
+   "numberOfShares": 18425000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "LEGN",
+   "totalSharesValue": 423775000
+  },
+  {
+   "date": "2020-06-05",
+   "exchange": "NASDAQ Global Select",
+   "name": "Calliditas Therapeutics AB",
+   "numberOfShares": 4153385,
+   "price": "19.50",
+   "status": "priced",
+   "symbol": "CALT",
+   "totalSharesValue": 80991008
+  },
+  {
+   "date": "2020-06-05",
+   "exchange": "NASDAQ Global Select",
+   "name": "Dada Nexus Ltd",
+   "numberOfShares": 20000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "DADA",
+   "totalSharesValue": 320000000
+  },
+  {
+   "date": "2020-06-05",
+   "exchange": null,
+   "name": "Father Time, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3000000
+  },
+  {
+   "date": "2020-06-04",
+   "exchange": "NASDAQ Global Select",
+   "name": "ZoomInfo Technologies Inc.",
+   "numberOfShares": 44500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "ZI",
+   "totalSharesValue": 934500000
+  },
+  {
+   "date": "2020-06-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "PLIANT THERAPEUTICS, INC.",
+   "numberOfShares": 9000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "PLRX",
+   "totalSharesValue": 144000000
+  },
+  {
+   "date": "2020-06-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "Warner Music Group Corp.",
+   "numberOfShares": 77000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "WMG",
+   "totalSharesValue": 1925000000
+  }
+ ]
+}

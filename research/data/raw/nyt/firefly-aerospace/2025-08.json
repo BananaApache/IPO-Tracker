@@ -1,0 +1,112 @@
+{
+ "company": "Firefly Aerospace",
+ "query": "\"Firefly Aerospace\"",
+ "month": "2025-08",
+ "begin_date": "20250801",
+ "end_date": "20250831",
+ "fetched_at": "2026-09-08T05:27:02.522294+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The president\u2019s trade war entered a new phase on Thursday with hefty levies on scores of countries taking effect, adding further uncertainty.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Danielle Kaye and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump\u2019s Higher Tariffs Are Here. Now What?",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/d38bd35c-3032-51c3-b19e-13236cd12438",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "A P Moller-Maersk",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Toyota Motor Corp",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Apple Inc",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Cook, Timothy D",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Huang, Jen-Hsun",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Switzerland",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "India",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "International Federation of Association Football (FIFA)",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Infantino, Gianni",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "The day that many countries and companies were dreading has arrived: President Trump\u2019s new tariffs went into effect.",
+    "credit": "Doug Mills/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/07/multimedia/07db-trump-vkhg/07db-trump-vkhg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/07/multimedia/07db-trump-vkhg/07db-trump-vkhg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-08-07T11:50:00Z",
+   "section_name": "Business",
+   "snippet": "The president\u2019s trade war entered a new phase on Thursday with hefty levies on scores of countries taking effect, adding further uncertainty.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/d38bd35c-3032-51c3-b19e-13236cd12438",
+   "web_url": "https://www.nytimes.com/2025/08/07/business/dealbook/trump-tariffs-companies-earnings.html",
+   "word_count": 1769
+  }
+ ]
+}

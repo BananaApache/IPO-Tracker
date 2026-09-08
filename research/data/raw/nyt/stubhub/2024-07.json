@@ -1,0 +1,193 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2024-07",
+ "begin_date": "20240701",
+ "end_date": "20240731",
+ "fetched_at": "2026-09-08T05:06:02.318601+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Some of the president\u2019s past supporters want a new candidate, but they are leery of going public.",
+   "byline": {
+    "original": "By Theodore Schleifer, Kenneth P. Vogel, Shane Goldmacher and Kate Kelly"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Big Donors Turn on Biden. Quietly.",
+    "kicker": "",
+    "print_headline": "Some of Biden\u2019s Donors Are Turning on Him, Quietly, After His Debate"
+   },
+   "_id": "nyt://article/9f2be5b2-d16b-5956-a84f-aaf4f23f57fc",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Campaign Finance",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Democracy Alliance",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Democratic Party",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Women Donors Network",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Biden, Joseph R Jr",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Conway, Ron",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Dimon, James",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Harris, Kamala D",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Hoffman, Reid Garrett",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Klarman, Seth A",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Moskovitz, Dustin",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Newsom, Gavin",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Novogratz, Michael",
+     "rank": 14
+    },
+    {
+     "name": "Person",
+     "value": "Whitmer, Gretchen",
+     "rank": 15
+    },
+    {
+     "name": "Organization",
+     "value": "American Bridge 21st Century",
+     "rank": 16
+    }
+   ],
+   "multimedia": {
+    "caption": "Earlier moves by donors to mount campaigns to pressure President Biden to step aside have either fizzled out or prompted pushback from fellow contributors and operatives.",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/03/multimedia/03pol-biden-donors-jbwk/03pol-biden-donors-jbwk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/03/multimedia/03pol-biden-donors-jbwk/03pol-biden-donors-jbwk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Politics",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2024-07-03T09:04:10Z",
+   "section_name": "U.S.",
+   "snippet": "Some of the president\u2019s past supporters want a new candidate, but they are leery of going public.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/9f2be5b2-d16b-5956-a84f-aaf4f23f57fc",
+   "web_url": "https://www.nytimes.com/2024/07/03/us/politics/biden-donors-debate.html",
+   "word_count": 1684
+  },
+  {
+   "abstract": "The singer and songwriter, 75, wrapped his decade-long residency at Madison Square Garden on Thursday night. Up next? A new era in his live career.",
+   "byline": {
+    "original": "By Caryn Ganz"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "104 Shows. $260 Million. After 10 Years, Billy Joel Closes a Chapter.",
+    "kicker": "",
+    "print_headline": "The Piano Man Packs Them In And Ends an Era"
+   },
+   "_id": "nyt://article/d1145f13-0e51-53df-a565-b290437882cc",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Joel, Billy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Madison Square Garden",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Personal Profile",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "\u201cWe\u2019ll come back,\u201d Billy Joel promised the crowd on Thursday at the final show of his monthly residency.",
+    "credit": "Thea Traff for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/27/multimedia/26BILLY-MSG-01-kwlz/26BILLY-MSG-01-kwlz-articleLarge.jpg",
+     "height": 840,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/27/multimedia/26BILLY-MSG-01-kwlz/26BILLY-MSG-01-kwlz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Culture",
+   "print_page": "1",
+   "print_section": "C",
+   "pub_date": "2024-07-26T13:00:25Z",
+   "section_name": "Arts",
+   "snippet": "The singer and songwriter, 75, wrapped his decade-long residency at Madison Square Garden on Thursday night. Up next? A new era in his live career.",
+   "source": "The New York Times",
+   "subsection_name": "Music",
+   "type_of_material": "News",
+   "uri": "nyt://article/d1145f13-0e51-53df-a565-b290437882cc",
+   "web_url": "https://www.nytimes.com/2024/07/26/arts/music/billy-joel-msg-residency-final-show.html",
+   "word_count": 1884
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2024-02",
+ "begin_date": "20240201",
+ "end_date": "20240229",
+ "fetched_at": "2026-09-08T04:44:02.174830+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "An E.U. summit on aid for Ukraine.",
+   "byline": {
+    "original": "By Jonathan Wolfe"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Thursday Briefing",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/05a9eef2-9046-59b0-b6d1-efdcddea0406",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Residents collect aid in Chasiv Yar, a frontline town. Ukraine has cut back payments to people forced to flee their homes.",
+    "credit": "Finbarr O'Reilly for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/02/01/multimedia/01ambriefing-euro-promo/01ambriefing-euro-Ukr-pkfq-articleLarge.jpg",
+     "height": 480,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/02/01/multimedia/01ambriefing-euro-promo/01ambriefing-euro-Ukr-pkfq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "NYTNow",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-02-01T05:10:04Z",
+   "section_name": "Briefing",
+   "snippet": "An E.U. summit on aid for Ukraine.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "briefing",
+   "uri": "nyt://article/05a9eef2-9046-59b0-b6d1-efdcddea0406",
+   "web_url": "https://www.nytimes.com/2024/02/01/briefing/europe-ukraine-summit-iran.html",
+   "word_count": 1023
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2025-06",
+ "begin_date": "20250601",
+ "end_date": "20250630",
+ "fetched_at": "2026-09-08T05:22:26.481801+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Dana Rubinstein"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "His swagger intact, Adams says \u2018I know how to win a race for mayor.\u2019",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/88888e6f-72a9-5ab1-b328-ff00425747be",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Mayor Eric Adams during a news briefing last month.",
+    "credit": "Angelina Katsanis for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/24/multimedia/24nyc-election-live-items-07-mlgj/24nyc-election-live-items-07-mlgj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/24/multimedia/24nyc-election-live-items-07-mlgj/24nyc-election-live-items-07-mlgj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Metro",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-24T19:05:06Z",
+   "section_name": "New York",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/88888e6f-72a9-5ab1-b328-ff00425747be",
+   "web_url": "https://www.nytimes.com/live/2025/06/24/nyregion/nyc-democratic-primary-election-mayor/his-swagger-intact-adams-says-i-know-how-to-win-a-race-for-mayor",
+   "word_count": 433
+  },
+  {
+   "abstract": "The stock has been on a roller coaster ever since President Trump\u2019s election. The shares fell nearly 15% this week.",
+   "byline": {
+    "original": "By Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Tesla Shares Bounce but End the Week Sharply Lower",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/618cf895-e591-5dea-960a-c303278e4a81",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Law and Legislation",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Doug Mills/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/05/multimedia/05musk-trump-live-reporter-updates-tesla-pqfh/05musk-trump-live-reporter-updates-tesla-pqfh-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/05/multimedia/05musk-trump-live-reporter-updates-tesla-pqfh/05musk-trump-live-reporter-updates-tesla-pqfh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-06T17:15:50Z",
+   "section_name": "Business",
+   "snippet": "The stock has been on a roller coaster ever since President Trump\u2019s election. The shares fell nearly 15% this week.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/618cf895-e591-5dea-960a-c303278e4a81",
+   "web_url": "https://www.nytimes.com/2025/06/06/business/tesla-stock-trump-elon-musk.html",
+   "word_count": 469
+  },
+  {
+   "abstract": "Federal judges have lauded the government\u2019s goal of rooting out money laundering schemes but questioned the effectiveness of a tactic that\u2019s wreaking havoc on small money services operations.",
+   "byline": {
+    "original": "By Zach Montague"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump\u2019s Cartel Crackdown Imposes \u2018Ruinous Burdens,\u2019 Border Businesses Say",
+    "kicker": "",
+    "print_headline": "Cartel Crackdown Has Border Businesses Drowning in Paperwork"
+   },
+   "_id": "nyt://article/83d2304a-c385-548e-b565-2362ec9fbf61",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Money Laundering",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Drug Abuse and Traffic",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Financial Crimes Enforcement Network (Treasury Department)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Treasury Department",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Sammartino, Jamis Lynn",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Biery, Fred S",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "In 2024, Valuta submitted just over 120 reports in order to comply, but in the period between April 14 and May 14 since the threshold was lowered by 98 percent, Ms. Light processed almost 1,500.",
+    "credit": "Paul Ratje for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/29/us/politics/dc-border-money-promo/dc-border-money6-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/29/us/politics/dc-border-money-promo/dc-border-money-promo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "10",
+   "print_section": "A",
+   "pub_date": "2025-06-09T16:01:05Z",
+   "section_name": "U.S.",
+   "snippet": "Federal judges have lauded the government\u2019s goal of rooting out money laundering schemes but questioned the effectiveness of a tactic that\u2019s wreaking havoc on small money services operations.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/83d2304a-c385-548e-b565-2362ec9fbf61",
+   "web_url": "https://www.nytimes.com/2025/06/09/us/politics/trump-cartels-border-businesses.html",
+   "word_count": 1719
+  }
+ ]
+}

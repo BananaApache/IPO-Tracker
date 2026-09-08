@@ -1,0 +1,607 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-01",
+ "begin_date": "20250101",
+ "end_date": "20250131",
+ "fetched_at": "2026-09-08T04:47:26.251002+00:00",
+ "hits": 67,
+ "docs": [
+  {
+   "abstract": "While Elon Musk\u2019s spaceflight company repeated a spectacular catch of its powerful booster stage, the upper stage experienced a catastrophic malfunction.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Debris Rains From Space After SpaceX\u2019s Starship Is Lost in Flight",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/ab1742cf-db7f-5176-892f-ccd09aa97045",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s Starship rocket launched during its seventh test flight from Boca Chica, Texas, on Thursday.",
+    "credit": "Eric Gay/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/16/multimedia/16spacex-starship-01-zkjg/16spacex-starship-01-zkjg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/16/multimedia/16spacex-starship-01-zkjg/16spacex-starship-01-zkjg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-01-16T18:29:26Z",
+   "section_name": "Science",
+   "snippet": "While Elon Musk\u2019s spaceflight company repeated a spectacular catch of its powerful booster stage, the upper stage experienced a catastrophic malfunction.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ab1742cf-db7f-5176-892f-ccd09aa97045",
+   "web_url": "https://www.nytimes.com/2025/01/16/science/spacex-starship-test-launch-7.html",
+   "word_count": 1052
+  },
+  {
+   "abstract": "The founder of SpaceX said President Trump had asked his company to return two astronauts aboard the space station to Earth \u201cas soon as possible.\u201d NASA said it would do that \u201cas soon as practical.\u201d",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Suggests SpaceX Will Accelerate Return of NASA Astronauts",
+    "kicker": "",
+    "print_headline": "Musk Suggests SpaceX Will Accelerate Return of NASA Astronauts"
+   },
+   "_id": "nyt://article/1d019f03-6e2f-5831-98d2-7c8782733bb2",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Williams, Sunita L",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Wilmore, Barry E (Butch) (1962- )",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Suni Williams, top center, and Butch Wilmore, bottom center, on board the International Space Station last year.",
+    "credit": "NASA",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/28/multimedia/28nasa-suni-butch-elon-trump-wews/28nasa-suni-butch-elon-trump-wews-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/28/multimedia/28nasa-suni-butch-elon-trump-wews/28nasa-suni-butch-elon-trump-wews-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-01-29T02:29:43Z",
+   "section_name": "Science",
+   "snippet": "The founder of SpaceX said President Trump had asked his company to return two astronauts aboard the space station to Earth \u201cas soon as possible.\u201d NASA said it would do that \u201cas soon as practical.\u201d",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/1d019f03-6e2f-5831-98d2-7c8782733bb2",
+   "web_url": "https://www.nytimes.com/2025/01/28/science/musk-spacex-trump-nasa-astronauts.html",
+   "word_count": 814
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Blue Origin could beat SpaceX to the moon.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/036afd7f-10d4-5d2e-a177-8f923364993b",
+   "keywords": [],
+   "multimedia": {
+    "caption": "An artist\u2019s concept of the Blue Moon Mark 1 cargo lander.",
+    "credit": "Blue Origin",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/09/multimedia/09new-glenn-moon-race-bzwh/09new-glenn-moon-race-bzwh-articleLarge.jpg",
+     "height": 390,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/09/multimedia/09new-glenn-moon-race-bzwh/09new-glenn-moon-race-bzwh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-01-16T07:28:25Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/036afd7f-10d4-5d2e-a177-8f923364993b",
+   "web_url": "https://www.nytimes.com/live/2025/01/16/science/blue-origin-new-glenn-launch/how-blue-origin-could-beat-spacex-to-the-moon",
+   "word_count": 369
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why is Jeff Bezos\u2019 space company so far behind Elon Musk and SpaceX?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/11f3b1e6-3c40-51f9-ab5b-b564fc4ff237",
+   "keywords": [],
+   "multimedia": {
+    "caption": "No other space company can compare to SpaceX\u2019s rise from upstart to dominance over the last two decades.",
+    "credit": "Eric Gay/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/09/multimedia/09new-glenn-slow-space-ltcp/09new-glenn-slow-space-ltcp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/09/multimedia/09new-glenn-slow-space-ltcp/09new-glenn-slow-space-ltcp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-01-16T07:46:25Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/11f3b1e6-3c40-51f9-ab5b-b564fc4ff237",
+   "web_url": "https://www.nytimes.com/live/2025/01/16/science/blue-origin-new-glenn-launch/why-is-jeff-bezos-space-company-so-far-behind-elon-musk-and-spacex",
+   "word_count": 764
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Michael Roston"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Feb. 26: A private lander and a NASA orbiter could launch to the moon on the same SpaceX rocket.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/93117dce-0c15-594d-92df-14542cda7441",
+   "keywords": [],
+   "multimedia": {
+    "caption": "A view of the Odysseus lander during the final moments of its landing on the moon in February 2024.",
+    "credit": "Intuitive Machines",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/03/05/multimedia/01space-calendar-im-2-lunar-trailblazer/01space-calendar-im-2-lunar-trailblazer-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/03/05/multimedia/01space-calendar-im-2-lunar-trailblazer/01space-calendar-im-2-lunar-trailblazer-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-01-01T13:08:55Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/93117dce-0c15-594d-92df-14542cda7441",
+   "web_url": "https://www.nytimes.com/article/february-a-private-lander-and-a-nasa-orbiter-could-launch-to-the-moon-on-the-same-spacex-rocket.html",
+   "word_count": 95
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Michael Roston"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Jan. 15: Two privately built moon landers could launch on the same SpaceX rocket.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/d0839407-265c-5d71-aba9-253e02c02fee",
+   "keywords": [],
+   "multimedia": {
+    "caption": "An artist\u2019s concept of Firefly Aerospace\u2019s Blue Ghost lander.",
+    "credit": "Firefly Aerospace",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/01/science/01space-calendar-double-moon-launch/01space-calendar-double-moon-launch-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/01/science/01space-calendar-double-moon-launch/01space-calendar-double-moon-launch-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-01-01T13:08:42Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/d0839407-265c-5d71-aba9-253e02c02fee",
+   "web_url": "https://www.nytimes.com/article/mid-january-two-privately-built-moon-landers-could-launch-on-the-same-spacex-rocket.html",
+   "word_count": 130
+  },
+  {
+   "abstract": "The agency launched an investigation into the \u201cspace vehicle mishap\u201d on Thursday night that forced commercial flights to divert and caused debris to rain toward Caribbean islands.",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "F.A.A. Temporarily Halts Launches of Musk\u2019s Starship After Explosion",
+    "kicker": "",
+    "print_headline": "F.A.A. Temporarily Suspends Launches of Musk\u2019s Starship After Explosion"
+   },
+   "_id": "nyt://article/87c37698-3199-5680-81a2-bd31af22e9e0",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Aviation Administration",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "Debris from a SpaceX rocket in the skies over Turks and Caicos on Thursday.",
+    "credit": "Marcus Haworth, via Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/17/multimedia/17dc-spacex-fqml/17dc-spacex-fqml-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/17/multimedia/17dc-spacex-fqml/17dc-spacex-fqml-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "20",
+   "print_section": "A",
+   "pub_date": "2025-01-17T23:13:55Z",
+   "section_name": "U.S.",
+   "snippet": "The agency launched an investigation into the \u201cspace vehicle mishap\u201d on Thursday night that forced commercial flights to divert and caused debris to rain toward Caribbean islands.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/87c37698-3199-5680-81a2-bd31af22e9e0",
+   "web_url": "https://www.nytimes.com/2025/01/17/us/politics/faa-spacex-musk.html",
+   "word_count": 1258
+  },
+  {
+   "abstract": "Robotic vehicles from Firefly Aerospace of Texas and Ispace of Japan parted ways early Wednesday after being launched on the same SpaceX rocket. Both are aiming for the lunar surface.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Two Private Moon Landers Have Launched at Once: What to Know",
+    "kicker": "",
+    "print_headline": "SpaceX Launches Two New Moon Landers on One Rocket"
+   },
+   "_id": "nyt://article/fa1b7ef9-1089-5ad5-8fd3-622328684725",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Firefly Aerospace Inc",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "ispace Inc",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Gregg Newton/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/15/multimedia/15vid-double-moon-launch-vidcov-vplf/15vid-double-moon-launch-vidcov-vplf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/15/multimedia/15vid-double-moon-launch-vidcov-vplf/15vid-double-moon-launch-vidcov-vplf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "17",
+   "print_section": "A",
+   "pub_date": "2025-01-15T01:50:05Z",
+   "section_name": "Science",
+   "snippet": "Robotic vehicles from Firefly Aerospace of Texas and Ispace of Japan parted ways early Wednesday after being launched on the same SpaceX rocket. Both are aiming for the lunar surface.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/fa1b7ef9-1089-5ad5-8fd3-622328684725",
+   "web_url": "https://www.nytimes.com/2025/01/14/science/nasa-spacex-launch-lunar-landers.html",
+   "word_count": 1138
+  },
+  {
+   "abstract": "If New Glenn lifts off on Monday as planned, the Amazon founder\u2019s rocket company will be on track to give Elon Musk\u2019s SpaceX some genuine competition.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Very Long Wait for Jeff Bezos\u2019 Big Rocket Is Coming to an End",
+    "kicker": "",
+    "print_headline": "Wait May Be Over for the Launch Of Bezos\u2019 Big New Glenn Rocket"
+   },
+   "_id": "nyt://article/6b858f8e-50e5-5eb2-8f6f-e8be19150aac",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Bezos, Jeffrey P",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "The first stage of the Blue Origin New Glenn rocket being transported to Launch Complex 36 in Cape Canaveral, Fla., on Oct. 29.",
+    "credit": "Blue Origin",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/23/multimedia/00new-glenn-preview-01-lhcw/00new-glenn-preview-01-lhcw-articleLarge.jpg",
+     "height": 424,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/23/multimedia/00new-glenn-preview-01-lhcw/00new-glenn-preview-01-lhcw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "21",
+   "print_section": "A",
+   "pub_date": "2025-01-11T12:00:12Z",
+   "section_name": "Science",
+   "snippet": "If New Glenn lifts off on Monday as planned, the Amazon founder\u2019s rocket company will be on track to give Elon Musk\u2019s SpaceX some genuine competition.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/6b858f8e-50e5-5eb2-8f6f-e8be19150aac",
+   "web_url": "https://www.nytimes.com/2025/01/11/science/blue-origin-jeff-bezos-new-glenn-launch.html",
+   "word_count": 1712
+  },
+  {
+   "abstract": "The president\u2019s Inaugural Address linked landing on the Red Planet with Manifest Destiny, but left many of the specifics unclear.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "What Trump\u2019s Pledge to Plant the U.S. Flag on Mars Really Means",
+    "kicker": "",
+    "print_headline": "An Inaugural Pledge to Plant the American Flag on Mars Leaves Out the Specifics"
+   },
+   "_id": "nyt://article/44806dc3-8580-5c4e-a8d4-f26568127bf9",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Donald Trump attended a test flight of the SpaceX Starship rocket in Texas in November.",
+    "credit": "Pool photo by Brandon Bell",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/21/multimedia/21trump-mars-gmbf/21trump-mars-gmbf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/21/multimedia/21trump-mars-gmbf/21trump-mars-gmbf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "24",
+   "print_section": "A",
+   "pub_date": "2025-01-21T22:42:09Z",
+   "section_name": "Science",
+   "snippet": "The president\u2019s Inaugural Address linked landing on the Red Planet with Manifest Destiny, but left many of the specifics unclear.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/44806dc3-8580-5c4e-a8d4-f26568127bf9",
+   "web_url": "https://www.nytimes.com/2025/01/21/science/trump-mars-flag.html",
+   "word_count": 992
+  }
+ ]
+}

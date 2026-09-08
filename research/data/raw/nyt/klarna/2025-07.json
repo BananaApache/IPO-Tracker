@@ -1,0 +1,82 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2025-07",
+ "begin_date": "20250701",
+ "end_date": "20250731",
+ "fetched_at": "2026-09-08T05:34:14.535550+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Figma, which makes a design platform, was on the verge of a big payday before regulators quashed the sale. On Thursday, it went public, with its stock ending the day up 250 percent.",
+   "byline": {
+    "original": "By Natallie Rocha and Michael J. de la Merced"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "This Start-Up\u2019s $20 Billion Sale Died. It Came Fighting Back.",
+    "kicker": "",
+    "print_headline": "The Revival Of a Start-Up Once Dead"
+   },
+   "_id": "nyt://article/a37c7ffe-b09c-54f7-a27f-b30dbef2d077",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Figma Inc",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Adobe Systems Inc",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Field, Dylan (1992- )",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "New York Stock Exchange",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Figma\u2019s co-founder and chief executive, Dylan Field, with a hand on his right shoulder, before ringing the bell at the New York Stock Exchange on Thursday.",
+    "credit": "Karsten Moran for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/31/multimedia/FIGMA-IPO-chpg/FIGMA-IPO-chpg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/31/multimedia/FIGMA-IPO-chpg/FIGMA-IPO-chpg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B\\",
+   "pub_date": "2025-07-31T18:11:33Z",
+   "section_name": "Technology",
+   "snippet": "Figma, which makes a design platform, was on the verge of a big payday before regulators quashed the sale. On Thursday, it went public, with its stock ending the day up 250 percent.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a37c7ffe-b09c-54f7-a27f-b30dbef2d077",
+   "web_url": "https://www.nytimes.com/2025/07/31/technology/figma-ipo.html",
+   "word_count": 1067
+  }
+ ]
+}

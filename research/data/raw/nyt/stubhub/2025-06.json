@@ -1,0 +1,188 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2025-06",
+ "begin_date": "20250601",
+ "end_date": "20250630",
+ "fetched_at": "2026-09-08T05:32:26.523208+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "The price jump is part of an ongoing shift for credit card companies and airlines toward premium rewards and high-end travelers.",
+   "byline": {
+    "original": "By Nia Decaille and Christine Chung"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Chase Sapphire Leapfrogs Amex Platinum With a New $795 Annual Fee",
+    "kicker": "",
+    "print_headline": "Premium Perks And Higher Fee For Chase Card"
+   },
+   "_id": "nyt://article/47a3f280-3944-515f-bafc-8825d80a5a3c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Airlines and Airplanes",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Credit Cards",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Travel and Vacations",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Business Travel",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Customer Loyalty Programs",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Hotels and Travel Lodgings",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Frequent Flier Programs",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Credit Scores",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "The company also unveiled a Sapphire Reserve for Business card that offers premium perks for customers who spend at least $120,000 a year.",
+    "credit": "Owen Davies for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/17/multimedia/17trav-chase1-hpqb/17trav-chase1-hpqb-articleLarge.jpg",
+     "height": 401,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/17/multimedia/17trav-chase1-hpqb/17trav-chase1-hpqb-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Travel",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-06-17T12:00:08Z",
+   "section_name": "Travel",
+   "snippet": "The price jump is part of an ongoing shift for credit card companies and airlines toward premium rewards and high-end travelers.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/47a3f280-3944-515f-bafc-8825d80a5a3c",
+   "web_url": "https://www.nytimes.com/2025/06/17/travel/chase-sapphire-annual-fee.html",
+   "word_count": 729
+  },
+  {
+   "abstract": "But Mr. Trump\u2019s warnings to his former ally are backed by several ways the White House could punish the world\u2019s richest man.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Trump Has Leverage Over Musk",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/90e45c34-97e2-55d6-b163-a024cae5e1cd",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Wood, Cathie (1955- )",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Bezos, Jeffrey P",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Gates, Bill",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "There\u2019s still a lot of distance in the Trump-Musk relationship.",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/09/multimedia/09db-newsletter-trump-musk-tljp/09db-newsletter-trump-musk-tljp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/09/multimedia/09db-newsletter-trump-musk-tljp/09db-newsletter-trump-musk-tljp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-06-09T11:47:57Z",
+   "section_name": "Business",
+   "snippet": "But Mr. Trump\u2019s warnings to his former ally are backed by several ways the White House could punish the world\u2019s richest man.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/90e45c34-97e2-55d6-b163-a024cae5e1cd",
+   "web_url": "https://www.nytimes.com/2025/06/09/business/dealbook/trump-musk-truce.html",
+   "word_count": 1979
+  }
+ ]
+}

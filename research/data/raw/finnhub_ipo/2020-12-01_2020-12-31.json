@@ -1,0 +1,797 @@
+{
+ "from": "2020-12-01",
+ "to": "2020-12-31",
+ "fetched_at": "2026-09-08T04:21:12.566421+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2020-12-31",
+   "exchange": null,
+   "name": "REED Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-12-29",
+   "exchange": "NASDAQ Capital",
+   "name": "Medirom Healthcare Technologies Inc.",
+   "numberOfShares": 800000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "MRM",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2020-12-28",
+   "exchange": null,
+   "name": "Emaginos, Inc. \\VA\\",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-12-24",
+   "exchange": "NASDAQ Capital",
+   "name": "Ventoux CCM Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VTAQU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2020-12-23",
+   "exchange": null,
+   "name": "HeZhong International (Holding) Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-12-23",
+   "exchange": "NYSE MKT",
+   "name": "Viveon Health Acquisition Corp.",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VHAQU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2020-12-23",
+   "exchange": "NASDAQ Capital",
+   "name": "7GC & Co. Holdings Inc.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VIIAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-12-23",
+   "exchange": "NASDAQ Capital",
+   "name": "CF ACQUISITION CORP. IV",
+   "numberOfShares": 45000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CFIVU",
+   "totalSharesValue": 450000000
+  },
+  {
+   "date": "2020-12-23",
+   "exchange": "NASDAQ Capital",
+   "name": "Healthcare Services Acquisition Corp",
+   "numberOfShares": 28800000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HCARU",
+   "totalSharesValue": 288000000
+  },
+  {
+   "date": "2020-12-23",
+   "exchange": "NASDAQ Capital",
+   "name": "Inhibikase Therapeutics, Inc.",
+   "numberOfShares": 1800000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IKT",
+   "totalSharesValue": 18000000
+  },
+  {
+   "date": "2020-12-23",
+   "exchange": "NASDAQ Global",
+   "name": "GBS Inc.",
+   "numberOfShares": 1270589,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "GBS",
+   "totalSharesValue": 21600013
+  },
+  {
+   "date": "2020-12-21",
+   "exchange": "NASDAQ Capital",
+   "name": "ACKRELL SPAC Partners I Co.",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ACKIU",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2020-12-18",
+   "exchange": null,
+   "name": "US LBM HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-12-18",
+   "exchange": "NYSE",
+   "name": "Golden Falcon Acquisition Corp.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GFX'U",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-12-18",
+   "exchange": "NASDAQ Capital",
+   "name": "Seven Oaks Acquisition Corp.",
+   "numberOfShares": 22500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SVOKU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2020-12-18",
+   "exchange": "NASDAQ Capital",
+   "name": "MedTech Acquisition Corp",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MTACU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2020-12-18",
+   "exchange": "NASDAQ Global",
+   "name": "908 Devices Inc.",
+   "numberOfShares": 6500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "MASS",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2020-12-18",
+   "exchange": "NASDAQ Capital",
+   "name": "INSU ACQUISITION CORP III",
+   "numberOfShares": 21800000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IIIIU",
+   "totalSharesValue": 218000000
+  },
+  {
+   "date": "2020-12-18",
+   "exchange": "NASDAQ Capital",
+   "name": "Dune Acquisition Corp",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DUNEU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2020-12-17",
+   "exchange": "NASDAQ Capital",
+   "name": "ScION Tech Growth I",
+   "numberOfShares": 50000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SCOAU",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2020-12-17",
+   "exchange": "NASDAQ Capital",
+   "name": "Corner Growth Acquisition Corp.",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "COOLU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2020-12-17",
+   "exchange": "NASDAQ Capital",
+   "name": "MIDWEST HOLDING INC.",
+   "numberOfShares": 1000000,
+   "price": "70.00",
+   "status": "priced",
+   "symbol": "MDWT",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2020-12-17",
+   "exchange": "NASDAQ Capital",
+   "name": "Virios Therapeutics, Inc.",
+   "numberOfShares": 3000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VIRI",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2020-12-16",
+   "exchange": "NASDAQ Global",
+   "name": "Scopus Biopharma Inc.",
+   "numberOfShares": 500000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "SCPS",
+   "totalSharesValue": 2750000
+  },
+  {
+   "date": "2020-12-16",
+   "exchange": "NASDAQ Global Select",
+   "name": "ContextLogic Inc.",
+   "numberOfShares": 46000000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "WISH",
+   "totalSharesValue": 1104000000
+  },
+  {
+   "date": "2020-12-16",
+   "exchange": "NASDAQ Global",
+   "name": "BioAtla, Inc.",
+   "numberOfShares": 10500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "BCAB",
+   "totalSharesValue": 189000000
+  },
+  {
+   "date": "2020-12-16",
+   "exchange": "NASDAQ Global Select",
+   "name": "Upstart Holdings, Inc.",
+   "numberOfShares": 12015690,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "UPST",
+   "totalSharesValue": 240313800
+  },
+  {
+   "date": "2020-12-16",
+   "exchange": "NYSE",
+   "name": "Churchill Capital Corp V",
+   "numberOfShares": 45000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CCV'U",
+   "totalSharesValue": 450000000
+  },
+  {
+   "date": "2020-12-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Marquee Raine Acquisition Corp.",
+   "numberOfShares": 32500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MRACU",
+   "totalSharesValue": 325000000
+  },
+  {
+   "date": "2020-12-15",
+   "exchange": "NYSE",
+   "name": "AMERICAS TECHNOLOGY ACQUISITION CORP.",
+   "numberOfShares": 10000000,
+   "price": "10.00\t&#8203;\t",
+   "status": "priced",
+   "symbol": "ATA'U",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2020-12-15",
+   "exchange": "NASDAQ Capital",
+   "name": "KINS Technology Group, Inc.",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KINZU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2020-12-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Wunong Net Technology Co Ltd",
+   "numberOfShares": 5999910,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "WNW",
+   "totalSharesValue": 29999550
+  },
+  {
+   "date": "2020-12-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Blue Water Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BLUWU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2020-12-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Oriental Culture Holding LTD",
+   "numberOfShares": 5065000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "OCG",
+   "totalSharesValue": 20260000
+  },
+  {
+   "date": "2020-12-14",
+   "exchange": null,
+   "name": "ArcherDX, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Senior Connect Acquisition Corp. I",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SNRHU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Roth CH Acquisition II Co",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ROCCU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Globis Acquisition Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GLAQU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NYSE",
+   "name": "Motive Capital Corp",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MOTVU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NASDAQ Global Select",
+   "name": "Nanobiotix S.A.",
+   "numberOfShares": 7300000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "NBTX",
+   "totalSharesValue": 98550000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NASDAQ Global Select",
+   "name": "AbCellera Biologics Inc.",
+   "numberOfShares": 24150000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "ABCL",
+   "totalSharesValue": 483000000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NASDAQ Global Select",
+   "name": "4D Molecular Therapeutics Inc.",
+   "numberOfShares": 8400000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "FDMT",
+   "totalSharesValue": 193200000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NASDAQ Global Select",
+   "name": "Certara, Inc.",
+   "numberOfShares": 29055000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "CERT",
+   "totalSharesValue": 668265000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NYSE",
+   "name": "CBRE Acquisition Holdings, Inc.",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CBAHU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Vivos Therapeutics, Inc.",
+   "numberOfShares": 3500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "VVOS",
+   "totalSharesValue": 21000000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Thayer Ventures Acquisition Corp",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TVACU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Gores Holdings VI, Inc.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GHVIU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NASDAQ Capital",
+   "name": "EdtechX Holdings Acquisition Corp. II",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EDTXU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2020-12-11",
+   "exchange": "NYSE",
+   "name": "Delwinds Insurance Acquisition Corp.",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DWINU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2020-12-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "Airbnb, Inc.",
+   "numberOfShares": 51323531,
+   "price": "68.00",
+   "status": "priced",
+   "symbol": "ABNB",
+   "totalSharesValue": 3490000108
+  },
+  {
+   "date": "2020-12-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "HYDROFARM HOLDINGS GROUP, INC.",
+   "numberOfShares": 8666667,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "HYFM",
+   "totalSharesValue": 173333340
+  },
+  {
+   "date": "2020-12-10",
+   "exchange": "NYSE",
+   "name": "Periphas Capital Partnering Corp",
+   "numberOfShares": 14400000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "PCPCU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2020-12-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Carney Technology Acquisition Corp. II",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CTAQU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2020-12-10",
+   "exchange": "NASDAQ Capital",
+   "name": "RMG Acquisition Corp. II",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RMGBU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-12-09",
+   "exchange": "NASDAQ Capital",
+   "name": "HumanCo Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HMCOU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2020-12-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Nebula Caravel Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NEBCU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2020-12-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Frazier Lifesciences Acquisition Corp",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FLACU",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2020-12-09",
+   "exchange": "NASDAQ Global",
+   "name": "PubMatic, Inc.",
+   "numberOfShares": 5900000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "PUBM",
+   "totalSharesValue": 118000000
+  },
+  {
+   "date": "2020-12-09",
+   "exchange": "NYSE",
+   "name": "C3.ai, Inc.",
+   "numberOfShares": 15500000,
+   "price": "42.00",
+   "status": "priced",
+   "symbol": "AI",
+   "totalSharesValue": 651000000
+  },
+  {
+   "date": "2020-12-09",
+   "exchange": "NYSE",
+   "name": "DoorDash, Inc.",
+   "numberOfShares": 33000000,
+   "price": "102.00",
+   "status": "priced",
+   "symbol": "DASH",
+   "totalSharesValue": 3366000000
+  },
+  {
+   "date": "2020-12-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Altitude Acquisition Corp.",
+   "numberOfShares": 26100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ALTUU",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2020-12-08",
+   "exchange": "NASDAQ Capital",
+   "name": "DD3 Acquisition Corp. II",
+   "numberOfShares": 11000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DDMXU",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2020-12-08",
+   "exchange": "NASDAQ Capital",
+   "name": "Revolution Acceleration Acquisition Corp",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RAACU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2020-12-08",
+   "exchange": "NYSE",
+   "name": "Concord Acquisition Corp",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CND'U",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2020-12-08",
+   "exchange": "NASDAQ Capital",
+   "name": "Mudrick Capital Acquisition Corp. II",
+   "numberOfShares": 27500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MUDSU",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2020-12-04",
+   "exchange": "NASDAQ Global Select",
+   "name": "Sigilon Therapeutics, Inc.",
+   "numberOfShares": 7000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "SGTX",
+   "totalSharesValue": 126000000
+  },
+  {
+   "date": "2020-12-04",
+   "exchange": "NASDAQ Global Select",
+   "name": "17 Education & Technology Group Inc.",
+   "numberOfShares": 27400000,
+   "price": "10.50",
+   "status": "priced",
+   "symbol": "YQ",
+   "totalSharesValue": 287700000
+  },
+  {
+   "date": "2020-12-04",
+   "exchange": "NASDAQ Global Select",
+   "name": "Seer, Inc.",
+   "numberOfShares": 9210527,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "SEER",
+   "totalSharesValue": 175000013
+  },
+  {
+   "date": "2020-12-04",
+   "exchange": "NASDAQ Global",
+   "name": "Silverback Therapeutics, Inc.",
+   "numberOfShares": 11500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "SBTX",
+   "totalSharesValue": 241500000
+  },
+  {
+   "date": "2020-12-04",
+   "exchange": "NASDAQ Capital",
+   "name": "Fintech Acquisition Corp V",
+   "numberOfShares": 21800000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FTCVU",
+   "totalSharesValue": 218000000
+  },
+  {
+   "date": "2020-12-04",
+   "exchange": "NASDAQ Capital",
+   "name": "PROPTECH INVESTMENT CORP. II",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PTICU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-12-03",
+   "exchange": "NYSE",
+   "name": "JAWS Spitfire Acquisition Corp",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SPFRU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-12-03",
+   "exchange": "NYSE",
+   "name": "Highland Transcend Partners I Corp.",
+   "numberOfShares": 27500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HTPAU",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2020-12-03",
+   "exchange": "NYSE",
+   "name": "Far Peak Acquisition Corp",
+   "numberOfShares": 55000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FPACU",
+   "totalSharesValue": 550000000
+  },
+  {
+   "date": "2020-12-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "Kinnate Biopharma Inc.",
+   "numberOfShares": 12000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "KNTE",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2020-12-03",
+   "exchange": "NYSE",
+   "name": "Live Oak Acquisition Corp II",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LOKBU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2020-12-02",
+   "exchange": "NYSE",
+   "name": "Trepont Acquisition Corp I",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TACAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-12-02",
+   "exchange": "NASDAQ Capital",
+   "name": "Rodgers Silicon Valley Acquisition Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RSVAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-12-02",
+   "exchange": "NYSE",
+   "name": "Capitol Investment Corp. V",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CAP'U",
+   "totalSharesValue": 300000000
+  }
+ ]
+}

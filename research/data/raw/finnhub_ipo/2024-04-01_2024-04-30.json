@@ -1,0 +1,297 @@
+{
+ "from": "2024-04-01",
+ "to": "2024-04-30",
+ "fetched_at": "2026-09-08T04:22:32.630209+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2024-04-29",
+   "exchange": null,
+   "name": "HW Electro Co., Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-04-26",
+   "exchange": "NYSE MKT",
+   "name": "CleanCore Solutions, Inc.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ZONE",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2024-04-25",
+   "exchange": "NYSE",
+   "name": "Loar Holdings Inc.",
+   "numberOfShares": 11000000,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "LOAR",
+   "totalSharesValue": 308000000
+  },
+  {
+   "date": "2024-04-25",
+   "exchange": "NYSE",
+   "name": "Rubrik, Inc.",
+   "numberOfShares": 23500000,
+   "price": "32.00",
+   "status": "priced",
+   "symbol": "RBRK",
+   "totalSharesValue": 752000000
+  },
+  {
+   "date": "2024-04-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "Marex Group plc",
+   "numberOfShares": 15384615,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "MRX",
+   "totalSharesValue": 292307685
+  },
+  {
+   "date": "2024-04-23",
+   "exchange": null,
+   "name": "MED-X, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-04-23",
+   "exchange": "NASDAQ Capital",
+   "name": "Neo-Concept International Group Holdings Ltd",
+   "numberOfShares": 2320000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "NCI",
+   "totalSharesValue": 9280000
+  },
+  {
+   "date": "2024-04-22",
+   "exchange": "NASDAQ Capital",
+   "name": "YY Group Holding Ltd.",
+   "numberOfShares": 1125000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "YYGH",
+   "totalSharesValue": 4500000
+  },
+  {
+   "date": "2024-04-22",
+   "exchange": "NASDAQ Capital",
+   "name": "mF International Ltd",
+   "numberOfShares": 1666667,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "MFI",
+   "totalSharesValue": 7500002
+  },
+  {
+   "date": "2024-04-22",
+   "exchange": null,
+   "name": "DERUN GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DRJT",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2024-04-19",
+   "exchange": null,
+   "name": "PishPosh, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-04-19",
+   "exchange": "NASDAQ Capital",
+   "name": "Tungray Technologies Inc",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "TRSG",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2024-04-19",
+   "exchange": "NYSE MKT",
+   "name": "Sushi Ginza Onodera, Inc.",
+   "numberOfShares": 1066667,
+   "price": "7.00-8.00",
+   "status": "expected",
+   "symbol": "ONDR",
+   "totalSharesValue": 9813336.4
+  },
+  {
+   "date": "2024-04-18",
+   "exchange": "NASDAQ Capital",
+   "name": "Serve Robotics Inc. /DE/",
+   "numberOfShares": 10000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "SERV",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2024-04-18",
+   "exchange": "NYSE",
+   "name": "Ibotta, Inc.",
+   "numberOfShares": 6560700,
+   "price": "88.00",
+   "status": "priced",
+   "symbol": "IBTA",
+   "totalSharesValue": 577341600
+  },
+  {
+   "date": "2024-04-18",
+   "exchange": "NYSE",
+   "name": "Centuri Holdings, Inc.",
+   "numberOfShares": 12400000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "CTRI",
+   "totalSharesValue": 260400000
+  },
+  {
+   "date": "2024-04-18",
+   "exchange": "NASDAQ Capital",
+   "name": "Mingteng International Corp Inc.",
+   "numberOfShares": 1050000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MTEN",
+   "totalSharesValue": 4200000
+  },
+  {
+   "date": "2024-04-18",
+   "exchange": "NASDAQ Capital",
+   "name": "CDT Environmental Technology Investment Holdings Ltd",
+   "numberOfShares": 1500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CDTG",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2024-04-17",
+   "exchange": "NASDAQ Capital",
+   "name": "Junee Ltd",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "JUNE",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2024-04-16",
+   "exchange": "NASDAQ Capital",
+   "name": "Top Wealth Group Holding Ltd",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "TWG",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2024-04-16",
+   "exchange": null,
+   "name": "JIALIANG HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JLJT",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2024-04-12",
+   "exchange": "NYSE",
+   "name": "UL Solutions Inc.",
+   "numberOfShares": 33800000,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "ULS",
+   "totalSharesValue": 946400000
+  },
+  {
+   "date": "2024-04-11",
+   "exchange": "NYSE",
+   "name": "PACS Group, Inc.",
+   "numberOfShares": 21428572,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "PACS",
+   "totalSharesValue": 450000012
+  },
+  {
+   "date": "2024-04-11",
+   "exchange": null,
+   "name": "Mission Space Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MISNU",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2024-04-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Mobile-health Network Solutions",
+   "numberOfShares": 2250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MNDR",
+   "totalSharesValue": 9000000
+  },
+  {
+   "date": "2024-04-09",
+   "exchange": null,
+   "name": "Innovex Downhole Solutions, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-04-05",
+   "exchange": "NASDAQ Global Select",
+   "name": "Contineum Therapeutics, Inc.",
+   "numberOfShares": 6875000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CTNM",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2024-04-02",
+   "exchange": "NASDAQ Capital",
+   "name": "Massimo Group",
+   "numberOfShares": 1300000,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "MAMO",
+   "totalSharesValue": 5850000
+  },
+  {
+   "date": "2024-04-02",
+   "exchange": "NASDAQ Capital",
+   "name": "Zhibao Technology Inc.",
+   "numberOfShares": 1500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ZBAO",
+   "totalSharesValue": 6000000
+  }
+ ]
+}

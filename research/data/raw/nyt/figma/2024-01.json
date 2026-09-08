@@ -1,0 +1,193 @@
+{
+ "company": "Figma",
+ "query": "\"Figma\"",
+ "month": "2024-01",
+ "begin_date": "20240101",
+ "end_date": "20240131",
+ "fetched_at": "2026-09-08T04:41:14.130809+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Amazon walked away from the $1.7 billion acquisition of iRobot as it faces questions from regulators in the European Union and United States.",
+   "byline": {
+    "original": "By Adam Satariano"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Amazon Scraps Deal to Buy Maker of Roomba Amid Regulatory Scrutiny",
+    "kicker": "",
+    "print_headline": "Amazon Scraps Deal to Buy iRobot Amid Scrutiny"
+   },
+   "_id": "nyt://article/38306b4e-8457-5c62-845a-14deec477fa2",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Antitrust Laws and Competition Issues",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Robots and Robotics",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Vacuum Cleaners",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "iRobot Corp",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Trade Commission",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "European Union",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "IRobot is the maker of the self-driving Roomba vacuum, as well as robotic mops and air purifiers.",
+    "credit": "Whitten Sabbatini for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/01/29/multimedia/29amazon-iRobot-lzqk/29amazon-iRobot-lzqk-articleLarge.jpg",
+     "height": 750,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/01/29/multimedia/29amazon-iRobot-lzqk/29amazon-iRobot-lzqk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2024-01-29T15:04:51Z",
+   "section_name": "Business",
+   "snippet": "Amazon walked away from the $1.7 billion acquisition of iRobot as it faces questions from regulators in the European Union and United States.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/38306b4e-8457-5c62-845a-14deec477fa2",
+   "web_url": "https://www.nytimes.com/2024/01/29/business/amazon-roomba-irobot-deal.html",
+   "word_count": 744
+  },
+  {
+   "abstract": "Donald Trump cruised to victory in the state\u2019s Republican primary, leaving anti-Trump donors and others to grapple with the reality of a near-certain nomination.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "After New Hampshire, Business Braces for a Trump Nomination",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/9a019f0e-ee4d-5ff9-8cec-7b9e2da7b3ea",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Haley, Nikki R",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "New Hampshire",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Campaign Finance",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Cornyn, John",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Ellison, Lawrence J",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Scott, Timothy Eugene",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Donald Trump cruised to victory in the New Hampshire Republican primary on Tuesday night.",
+    "credit": "Doug Mills/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/02/23/multimedia/23db-trump-fhjt/23db-trump-fhjt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/02/23/multimedia/23db-trump-fhjt/23db-trump-fhjt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-01-24T12:51:39Z",
+   "section_name": "Business",
+   "snippet": "Donald Trump cruised to victory in the state\u2019s Republican primary, leaving anti-Trump donors and others to grapple with the reality of a near-certain nomination.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/9a019f0e-ee4d-5ff9-8cec-7b9e2da7b3ea",
+   "web_url": "https://www.nytimes.com/2024/01/24/business/dealbook/trump-nomination-business.html",
+   "word_count": 1783
+  }
+ ]
+}

@@ -1,0 +1,797 @@
+{
+ "from": "2020-09-01",
+ "to": "2020-09-30",
+ "fetched_at": "2026-09-08T04:21:06.602612+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2020-09-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Qell Acquisition Corp",
+   "numberOfShares": 33000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "QELLU",
+   "totalSharesValue": 330000000
+  },
+  {
+   "date": "2020-09-30",
+   "exchange": "NYSE",
+   "name": "EVgo Inc",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CLIIU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-09-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Beauty Health Co",
+   "numberOfShares": 40000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VSPRU",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2020-09-30",
+   "exchange": "NYSE",
+   "name": "Boqii Holding Ltd",
+   "numberOfShares": 7000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BQ",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2020-09-30",
+   "exchange": "NYSE",
+   "name": "Yalla Group Ltd",
+   "numberOfShares": 18600000,
+   "price": "7.50\t",
+   "status": "priced",
+   "symbol": "YALA",
+   "totalSharesValue": 139500000
+  },
+  {
+   "date": "2020-09-30",
+   "exchange": "NASDAQ Global Select",
+   "name": "Chindata Group Holdings Ltd",
+   "numberOfShares": 40000000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "CD",
+   "totalSharesValue": 540000000
+  },
+  {
+   "date": "2020-09-30",
+   "exchange": "NYSE",
+   "name": "FG New America Acquisition Corp.",
+   "numberOfShares": 22500000,
+   "price": "10.00\t",
+   "status": "priced",
+   "symbol": "FGNAU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2020-09-30",
+   "exchange": "NYSE",
+   "name": "Asana, Inc.",
+   "numberOfShares": 30030516,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "ASAN",
+   "totalSharesValue": 630640836
+  },
+  {
+   "date": "2020-09-30",
+   "exchange": "NYSE",
+   "name": "Palantir Technologies Inc.",
+   "numberOfShares": 257135415,
+   "price": "7.25",
+   "status": "priced",
+   "symbol": "PLTR",
+   "totalSharesValue": 1864231759
+  },
+  {
+   "date": "2020-09-29",
+   "exchange": "NASDAQ Global Select",
+   "name": "Orphazyme A/S",
+   "numberOfShares": 7616146,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ORPH",
+   "totalSharesValue": 83777606
+  },
+  {
+   "date": "2020-09-28",
+   "exchange": null,
+   "name": "TYR EQUITY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-09-28",
+   "exchange": null,
+   "name": "Diamond Standard Trust",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DIAM",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2020-09-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Perella Weinberg Partners",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FTIVU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-09-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Vector Acquisition Corp",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VACQU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-09-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Siyata Mobile Inc.",
+   "numberOfShares": 2100000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "SYTA",
+   "totalSharesValue": 12600000
+  },
+  {
+   "date": "2020-09-25",
+   "exchange": "NYSE",
+   "name": "VIA optronics AG",
+   "numberOfShares": 6250000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "VIAO",
+   "totalSharesValue": 93750000
+  },
+  {
+   "date": "2020-09-25",
+   "exchange": "NASDAQ Global",
+   "name": "GRAYBUG VISION, INC.",
+   "numberOfShares": 5625000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "GRAY",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2020-09-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "PMV Pharmaceuticals, Inc.",
+   "numberOfShares": 11765000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "PMVP",
+   "totalSharesValue": 211770000
+  },
+  {
+   "date": "2020-09-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "Prelude Therapeutics Inc",
+   "numberOfShares": 8325000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "PRLD",
+   "totalSharesValue": 158175000
+  },
+  {
+   "date": "2020-09-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Amesite Inc.",
+   "numberOfShares": 3000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "AMST",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2020-09-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Greenwich LifeSciences, Inc.",
+   "numberOfShares": 1260870,
+   "price": "5.75",
+   "status": "priced",
+   "symbol": "GLSI",
+   "totalSharesValue": 7250003
+  },
+  {
+   "date": "2020-09-24",
+   "exchange": "NYSE",
+   "name": "PERIDOT ACQUISITION CORP.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PDACU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-09-24",
+   "exchange": "NASDAQ Global Select",
+   "name": "Taysha Gene Therapies, Inc.",
+   "numberOfShares": 7869566,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "TSHA",
+   "totalSharesValue": 157391320
+  },
+  {
+   "date": "2020-09-23",
+   "exchange": "NYSE",
+   "name": "Aspirational Consumer Lifestyle Corp.",
+   "numberOfShares": 22500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ASPLU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2020-09-23",
+   "exchange": "NASDAQ Capital",
+   "name": "VPC Impact Acquisition Holdings",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VIHAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-09-23",
+   "exchange": "NASDAQ Capital",
+   "name": "Proterra Inc",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ACTCU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2020-09-23",
+   "exchange": "NYSE MKT",
+   "name": "Laird Superfood, Inc.",
+   "numberOfShares": 2650000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "LSF",
+   "totalSharesValue": 58300000
+  },
+  {
+   "date": "2020-09-23",
+   "exchange": "NASDAQ Global Select",
+   "name": "GoodRx Holdings, Inc.",
+   "numberOfShares": 34615384,
+   "price": "33.00",
+   "status": "priced",
+   "symbol": "GDRX",
+   "totalSharesValue": 1142307672
+  },
+  {
+   "date": "2020-09-23",
+   "exchange": "NASDAQ Global Select",
+   "name": "BENTLEY SYSTEMS INC",
+   "numberOfShares": 10750000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "BSY",
+   "totalSharesValue": 236500000
+  },
+  {
+   "date": "2020-09-23",
+   "exchange": "NASDAQ Global Select",
+   "name": "Corsair Gaming, Inc.",
+   "numberOfShares": 14000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "CRSR",
+   "totalSharesValue": 238000000
+  },
+  {
+   "date": "2020-09-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Sharecare, Inc.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FCACU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-09-22",
+   "exchange": "NYSE",
+   "name": "PMV Consumer Acquisition Corp.",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PMVCU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2020-09-21",
+   "exchange": null,
+   "name": "Tego Cyber, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2500000
+  },
+  {
+   "date": "2020-09-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "COMPASS Pathways plc",
+   "numberOfShares": 7500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "CMPS",
+   "totalSharesValue": 127500000
+  },
+  {
+   "date": "2020-09-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "Athira Pharma, Inc.",
+   "numberOfShares": 12000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ATHA",
+   "totalSharesValue": 204000000
+  },
+  {
+   "date": "2020-09-18",
+   "exchange": "NYSE",
+   "name": "Unity Software Inc.",
+   "numberOfShares": 25000000,
+   "price": "52.00",
+   "status": "priced",
+   "symbol": "U",
+   "totalSharesValue": 1300000000
+  },
+  {
+   "date": "2020-09-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "Vitru Ltd",
+   "numberOfShares": 6000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "VTRU",
+   "totalSharesValue": 96000000
+  },
+  {
+   "date": "2020-09-18",
+   "exchange": "NASDAQ Capital",
+   "name": "North Mountain Merger Corp.",
+   "numberOfShares": 11500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NMMCU",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2020-09-18",
+   "exchange": "NASDAQ Capital",
+   "name": "Alpha Healthcare Acquisition Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AHACU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2020-09-17",
+   "exchange": "NYSE",
+   "name": "Reinvent Technology Partners",
+   "numberOfShares": 60000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RTP'U",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2020-09-17",
+   "exchange": "NYSE",
+   "name": "Oaktree Acquisition Corp. II",
+   "numberOfShares": 22500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OACBU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2020-09-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "ACON S2 Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "STWOU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2020-09-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "Pactiv Evergreen Inc.",
+   "numberOfShares": 41026000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "PTVE",
+   "totalSharesValue": 574364000
+  },
+  {
+   "date": "2020-09-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "Sumo Logic, Inc.",
+   "numberOfShares": 14800000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "SUMO",
+   "totalSharesValue": 325600000
+  },
+  {
+   "date": "2020-09-17",
+   "exchange": "NYSE",
+   "name": "American Well Corp",
+   "numberOfShares": 41222222,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "AMWL",
+   "totalSharesValue": 741999996
+  },
+  {
+   "date": "2020-09-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "Dyne Therapeutics, Inc.",
+   "numberOfShares": 12251578,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "DYN",
+   "totalSharesValue": 232779982
+  },
+  {
+   "date": "2020-09-17",
+   "exchange": "NYSE",
+   "name": "Broadstone Net Lease, Inc.",
+   "numberOfShares": 33500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BNL",
+   "totalSharesValue": 569500000
+  },
+  {
+   "date": "2020-09-16",
+   "exchange": "NYSE",
+   "name": "Equity Distribution Acquisition Corp.",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EQD'U",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2020-09-16",
+   "exchange": "NYSE",
+   "name": "Executive Network Partnering Corp",
+   "numberOfShares": 14400000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "ENPCU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2020-09-16",
+   "exchange": "NASDAQ Global Select",
+   "name": "JFrog Ltd",
+   "numberOfShares": 11568218,
+   "price": "44.00",
+   "status": "priced",
+   "symbol": "FROG",
+   "totalSharesValue": 509001592
+  },
+  {
+   "date": "2020-09-16",
+   "exchange": "NYSE",
+   "name": "Snowflake Inc.",
+   "numberOfShares": 28000000,
+   "price": "120.00",
+   "status": "priced",
+   "symbol": "SNOW",
+   "totalSharesValue": 3360000000
+  },
+  {
+   "date": "2020-09-16",
+   "exchange": "NASDAQ Global",
+   "name": "Metacrine, Inc.",
+   "numberOfShares": 6540000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "MTCR",
+   "totalSharesValue": 85020000
+  },
+  {
+   "date": "2020-09-16",
+   "exchange": "NASDAQ Global Select",
+   "name": "StepStone Group Inc.",
+   "numberOfShares": 17500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "STEP",
+   "totalSharesValue": 315000000
+  },
+  {
+   "date": "2020-09-15",
+   "exchange": "NYSE",
+   "name": "Sandbridge Acquisition Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SBG'U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-09-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Software Acquisition Group Inc. II",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SAIIU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2020-09-15",
+   "exchange": "NASDAQ Global Select",
+   "name": "Outset Medical, Inc.",
+   "numberOfShares": 8951111,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "OM",
+   "totalSharesValue": 241679997
+  },
+  {
+   "date": "2020-09-15",
+   "exchange": null,
+   "name": "AMMO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2020-09-14",
+   "exchange": null,
+   "name": "NUGENEREX IMMUNO-ONCOLOGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NGIO",
+   "totalSharesValue": 60694445.5
+  },
+  {
+   "date": "2020-09-11",
+   "exchange": "NYSE",
+   "name": "Tortoise Acquisition Corp. II",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SNPRU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-09-11",
+   "exchange": "NYSE",
+   "name": "Ribbit LEAP, Ltd.",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LEAPU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2020-09-11",
+   "exchange": "NASDAQ Capital",
+   "name": "TWC Tech Holdings II Corp.",
+   "numberOfShares": 52500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TWCTU",
+   "totalSharesValue": 525000000
+  },
+  {
+   "date": "2020-09-11",
+   "exchange": "NYSE",
+   "name": "Broadstone Acquisition Corp.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BSN'U",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-09-10",
+   "exchange": "NASDAQ Capital",
+   "name": "STARBOARD VALUE ACQUISITION CORP.",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SVACU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2020-09-10",
+   "exchange": "NYSE",
+   "name": "Prime Impact Acquisition I",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PIAIU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-09-10",
+   "exchange": "NYSE",
+   "name": "NavSight Holdings, Inc.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NSH'U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-09-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Industrial Tech Acquisitions, Inc.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ITACU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2020-09-09",
+   "exchange": "NYSE",
+   "name": "Cohn Robbins Holdings Corp.",
+   "numberOfShares": 72000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CRHCU",
+   "totalSharesValue": 720000000
+  },
+  {
+   "date": "2020-09-08",
+   "exchange": null,
+   "name": "ADVANTAGE SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-09-08",
+   "exchange": null,
+   "name": "GameWorks, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GMWX",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2020-09-04",
+   "exchange": null,
+   "name": "CHINOS HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-09-04",
+   "exchange": "NYSE",
+   "name": "Tailwind Acquisition Corp.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TWNDU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2020-09-04",
+   "exchange": "NASDAQ Capital",
+   "name": "Quantum-Si Inc",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CAPAU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2020-09-04",
+   "exchange": null,
+   "name": "Incordex Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2020-09-04",
+   "exchange": null,
+   "name": "Sancai Holding Group Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SCIT",
+   "totalSharesValue": 18388500
+  },
+  {
+   "date": "2020-09-03",
+   "exchange": "NASDAQ Capital",
+   "name": "BCTG Acquisition Corp.",
+   "numberOfShares": 14500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BCTG",
+   "totalSharesValue": 145000000
+  },
+  {
+   "date": "2020-09-03",
+   "exchange": "NASDAQ Capital",
+   "name": "MetroMile, Inc.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "INAQU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-09-03",
+   "exchange": null,
+   "name": "Green Grass Ecological Technology Development Co., Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "QQCY",
+   "totalSharesValue": 23000000
+  },
+  {
+   "date": "2020-09-02",
+   "exchange": "NASDAQ Capital",
+   "name": "CM Life Sciences, Inc.",
+   "numberOfShares": 38500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CMLFU",
+   "totalSharesValue": 385000000
+  },
+  {
+   "date": "2020-09-01",
+   "exchange": "NASDAQ Capital",
+   "name": "PAINREFORM LTD.",
+   "numberOfShares": 2500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "PRFX",
+   "totalSharesValue": 20000000
+  }
+ ]
+}

@@ -1,0 +1,845 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-10",
+ "begin_date": "20251001",
+ "end_date": "20251031",
+ "fetched_at": "2026-09-08T05:09:02.356849+00:00",
+ "hits": 18,
+ "docs": [
+  {
+   "abstract": "Cards Against Humanity, a popular party game, had accused Elon Musk\u2019s company of squatting on land that it owns near the southern border in Texas.",
+   "byline": {
+    "original": "By Neil Vigdor"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/bd3dabbe-6130-5131-98dd-e250666b9e87",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Suits and Litigation (Civil)",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Corporations",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Trespassing",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Squatters",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Land Use Policies",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Compensation for Damages (Law)",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Border Barriers",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Crowdfunding (Internet)",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 14
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 15
+    },
+    {
+     "name": "Location",
+     "value": "Cameron County (Tex)",
+     "rank": 16
+    },
+    {
+     "name": "Location",
+     "value": "Starbase (Tex)",
+     "rank": 17
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 18
+    },
+    {
+     "name": "Title",
+     "value": "Cards Against Humanity (Game)",
+     "rank": 19
+    }
+   ],
+   "multimedia": {
+    "caption": "Cards Against Humanity argued that SpaceX had staged its construction equipment on private property without authorization and had cleared the undeveloped parcel\u2019s natural vegetation.",
+    "credit": "404th Judicial District Court in Cameron County",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/21/multimedia/21xp-spacex2/21xp-spacex-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/21/multimedia/21xp-spacex2/21xp-spacex-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-10-21T22:36:37Z",
+   "section_name": "U.S.",
+   "snippet": "Cards Against Humanity, a popular party game, had accused Elon Musk\u2019s company of squatting on land that it owns near the southern border in Texas.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/bd3dabbe-6130-5131-98dd-e250666b9e87",
+   "web_url": "https://www.nytimes.com/2025/10/21/us/spacex-cards-against-humanity-lawsuit-settlement.html",
+   "word_count": 510
+  },
+  {
+   "abstract": "Blue Origin, owned by Jeff Bezos, and Lockheed Martin are among the contractors that may compete with Elon Musk\u2019s company in the race back to the lunar surface.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
+    "kicker": "",
+    "print_headline": "With SpaceX Delayed, NASA Seeks a Plan B for a Moon Lander"
+   },
+   "_id": "nyt://article/7435ee5f-6e9b-5805-93f9-c492b578dcd1",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Duffy, Sean P",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Lockheed Martin Corporation",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "An artist\u2019s concept of a lunar lander that Lockheed Martin proposed in 2019. A new proposal could look similar.",
+    "credit": "Lockheed Martin",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/20/multimedia/20HS-nasa-moon-01-vbmc/20HS-nasa-moon-01-vbmc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/20/multimedia/20HS-nasa-moon-01-vbmc/20HS-nasa-moon-01-vbmc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "14",
+   "print_section": "A",
+   "pub_date": "2025-10-20T22:25:21Z",
+   "section_name": "Science",
+   "snippet": "Blue Origin, owned by Jeff Bezos, and Lockheed Martin are among the contractors that may compete with Elon Musk\u2019s company in the race back to the lunar surface.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/7435ee5f-6e9b-5805-93f9-c492b578dcd1",
+   "web_url": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
+   "word_count": 1322
+  },
+  {
+   "abstract": "As NASA worries that China will win the next moon race, Elon Musk and his company tangled with critics.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA Gets Moon Lander Plan B\u2019s From SpaceX and Blue Origin",
+    "kicker": "",
+    "print_headline": "Space Rivals Offer Plan B To Speed Up Moon Quest"
+   },
+   "_id": "nyt://article/fb94d994-2421-5cfd-a16c-8931a5240fd8",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Duffy, Sean P",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Bridenstine, James F (1975- )",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 11
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "An artist\u2019s concept released by SpaceX showing its proposed moon lander on the moon\u2019s surface.",
+    "credit": "SpaceX",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/31/multimedia/31HS-moon-lander-01-kpfz/31HS-moon-lander-01-kpfz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/31/multimedia/31HS-moon-lander-01-kpfz/31HS-moon-lander-01-kpfz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "6",
+   "print_section": "B",
+   "pub_date": "2025-10-31T23:34:54Z",
+   "section_name": "Science",
+   "snippet": "As NASA worries that China will win the next moon race, Elon Musk and his company tangled with critics.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/fb94d994-2421-5cfd-a16c-8931a5240fd8",
+   "web_url": "https://www.nytimes.com/2025/10/31/science/nasa-moon-lander-spacex-blue-origin.html",
+   "word_count": 985
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Pranav Baskar"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Starlink is keeping some people in Jamaica online during the storm, but for how long?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/e6e38335-8ab6-5430-b20d-8d337610a701",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Hurricane Melissa (2025)",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 2
+    },
+    {
+     "name": "Location",
+     "value": "Jamaica (West Indies)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Hurricanes and Tropical Storms",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Disasters and Emergencies",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Weather",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The hurricane has brought widespread power cuts in Jamaica.",
+    "credit": "Octavio Jones/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/28/multimedia/28wea-melissa-starlink-vcpt/28wea-melissa-starlink-vcpt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/28/multimedia/28wea-melissa-starlink-vcpt/28wea-melissa-starlink-vcpt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Weather",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-10-28T18:41:57Z",
+   "section_name": "Weather",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/e6e38335-8ab6-5430-b20d-8d337610a701",
+   "web_url": "https://www.nytimes.com/live/2025/10/28/weather/hurricane-melissa-jamaica-landfall/starlink-is-keeping-some-people-in-jamaica-online-during-the-storm-but-for-how-long",
+   "word_count": 562
+  },
+  {
+   "abstract": "The billionaire\u2019s swipes at Sean Duffy are the latest example of his tangling with members of the Trump administration.",
+   "byline": {
+    "original": "By Karoun Demirjian"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract",
+    "kicker": "",
+    "print_headline": "Musk Attacks Leader of NASA Over Reopening of Lunar Bids"
+   },
+   "_id": "nyt://article/44d855bf-4d9b-5465-833b-ebbc83432eb9",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Duffy, Sean P",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Transportation Secretary Sean Duffy at a news conference at the Capitol on Thursday.",
+    "credit": "Kent Nishimura for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/23/multimedia/23dc-duffy-wtgv/23dc-duffy-wtgv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/23/multimedia/23dc-duffy-wtgv/23dc-duffy-wtgv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "14",
+   "print_section": "A",
+   "pub_date": "2025-10-23T22:58:59Z",
+   "section_name": "U.S.",
+   "snippet": "The billionaire\u2019s swipes at Sean Duffy are the latest example of his tangling with members of the Trump administration.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/44d855bf-4d9b-5465-833b-ebbc83432eb9",
+   "web_url": "https://www.nytimes.com/2025/10/23/us/politics/elon-musk-duffy-nasa.html",
+   "word_count": 862
+  },
+  {
+   "abstract": "With the agreement, OpenAI becomes the world\u2019s most valuable privately held company, surpassing the rocket maker SpaceX.",
+   "byline": {
+    "original": "By Cade Metz"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "OpenAI Completes Deal That Values It at $500 Billion",
+    "kicker": "",
+    "print_headline": "OpenAI Deal Values Firm As Highest In the World"
+   },
+   "_id": "nyt://article/231348e8-47df-507f-997c-7af2fc520072",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "SOFTBANK Corporation",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Altman, Samuel H",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "OpenAI\u2019s valuation has jumped repeatedly over the last 12 months.",
+    "credit": "Dado Ruvic/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/02/multimedia/02biz-openai-valuation-qlvk/02biz-openai-valuation-qlvk-articleLarge.jpg",
+     "height": 367,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/02/multimedia/02biz-openai-valuation-qlvk/02biz-openai-valuation-qlvk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-10-02T17:08:29Z",
+   "section_name": "Technology",
+   "snippet": "With the agreement, OpenAI becomes the world\u2019s most valuable privately held company, surpassing the rocket maker SpaceX.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/231348e8-47df-507f-997c-7af2fc520072",
+   "web_url": "https://www.nytimes.com/2025/10/02/technology/openai-deal-500-billion.html",
+   "word_count": 388
+  },
+  {
+   "abstract": "Have you ever heard a sonic boom? Can you imagine what it might be like to hear one every day?",
+   "byline": {
+    "original": "By The Learning Network"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "What\u2019s Going On in This Graph? | Sonic Booms",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/374bea27-2b42-5728-acef-56a3d49b7783",
+   "keywords": [],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/08/learning/RocketGraph/RocketGraph-articleLarge.png",
+     "height": 590,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/08/learning/RocketGraph/RocketGraph-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Learning",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-10-02T19:00:03Z",
+   "section_name": "The Learning Network",
+   "snippet": "Have you ever heard a sonic boom? Can you imagine what it might be like to hear one every day?",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/374bea27-2b42-5728-acef-56a3d49b7783",
+   "web_url": "https://www.nytimes.com/2025/10/02/learning/whats-going-on-in-this-graph-oct-8-2025.html",
+   "word_count": 1497
+  },
+  {
+   "abstract": "His firm, 1789 Capital, has been investing in artificial intelligence and defense technology \u2014 and, he said, it has an \u201cunderstanding\u201d of President Trump\u2019s plans.",
+   "byline": {
+    "original": "By Kate Kelly"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Donald Trump Jr. Pitches \u2018Patriotic Capitalism\u2019 at Saudi Summit",
+    "kicker": "",
+    "print_headline": "Trump\u2019s Son Pitches \u2018Patriotic Capitalism\u2019 at Saudi Event"
+   },
+   "_id": "nyt://article/e125539a-0d4f-55e6-a8fc-78930c7ccc1a",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Conservatism (US Politics)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Private Equity",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "1789 Capital",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J Jr",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Donald Trump Jr. during a special address at the Future Investment Initiative in Riyadh, Saudi Arabia, on Wednesday. He and dozens of other prominent event attendees dined with Saudi Arabia\u2019s crown prince, Mohammed bin Salman, the night before.",
+    "credit": "Future Investment Initiative Media Center/Handout, via Via Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/29/multimedia/29biz-1789-capital-pqmb/29biz-1789-capital-pqmb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/29/multimedia/29biz-1789-capital-pqmb/29biz-1789-capital-pqmb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2025-10-29T16:50:31Z",
+   "section_name": "Business",
+   "snippet": "His firm, 1789 Capital, has been investing in artificial intelligence and defense technology \u2014 and, he said, it has an \u201cunderstanding\u201d of President Trump\u2019s plans.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/e125539a-0d4f-55e6-a8fc-78930c7ccc1a",
+   "web_url": "https://www.nytimes.com/2025/10/29/business/donald-trump-jr-1789-capital-saudi-arabia.html",
+   "word_count": 777
+  },
+  {
+   "abstract": "Fans of the red planet joined scientists at an annual conference sponsored by the Mars Society. One attendee said he would take a \u201cone-way ticket.\u201d",
+   "byline": {
+    "original": "By Alex Vadukul and Jamie Lee Taete"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Trip to Mars? They\u2019re Ready to Go.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/8ccb3c69-a913-55b3-a7fb-cd1657f41885",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Mars Society",
+     "rank": 2
+    },
+    {
+     "name": "Location",
+     "value": "Los Angeles (Calif)",
+     "rank": 3
+    }
+   ],
+   "multimedia": {
+    "caption": "Waiting for the next presentation.",
+    "credit": "",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/15/multimedia/15ST-MARS-SOCIETY-11-twfp/15ST-MARS-SOCIETY-11-twfp-articleLarge.jpg",
+     "height": 421,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/15/multimedia/15ST-MARS-SOCIETY-11-twfp/15ST-MARS-SOCIETY-11-twfp-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Styles",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-10-15T17:44:58Z",
+   "section_name": "Style",
+   "snippet": "Fans of the red planet joined scientists at an annual conference sponsored by the Mars Society. One attendee said he would take a \u201cone-way ticket.\u201d",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/8ccb3c69-a913-55b3-a7fb-cd1657f41885",
+   "web_url": "https://www.nytimes.com/2025/10/15/style/mars-society-convention.html",
+   "word_count": 1464
+  },
+  {
+   "abstract": "The United States, Britain and South Korea have joined a crackdown on groups running frauds from Southeast Asia. They have their work cut out.",
+   "byline": {
+    "original": "By Francesca Regalado"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Americans Have Lost Billions to Online Scams. How Is That Possible?",
+    "kicker": "",
+    "print_headline": "Several Countries Join a Crackdown On Scam Centers In Southeast Asia"
+   },
+   "_id": "nyt://article/13e54c8c-5076-5683-8811-8549dfe36d12",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "Cambodia",
+     "rank": 1
+    },
+    {
+     "name": "Location",
+     "value": "Myanmar",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Crime and Criminals",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Embargoes and Sanctions",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "Thailand",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "Laos",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Treasury Department",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Police escorting South Koreans accused of working in online scam centers in Cambodia, upon their arrival at Incheon airport in Seoul in October.",
+    "credit": "Kim Hong-Ji/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/22/multimedia/22xp-scams-wwk-qbhf/22xp-scams-wwk-qbhf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/22/multimedia/22xp-scams-wwk-qbhf/22xp-scams-wwk-qbhf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "4",
+   "print_section": "A",
+   "pub_date": "2025-10-23T06:26:02Z",
+   "section_name": "World",
+   "snippet": "The United States, Britain and South Korea have joined a crackdown on groups running frauds from Southeast Asia. They have their work cut out.",
+   "source": "The New York Times",
+   "subsection_name": "Asia Pacific",
+   "type_of_material": "News",
+   "uri": "nyt://article/13e54c8c-5076-5683-8811-8549dfe36d12",
+   "web_url": "https://www.nytimes.com/article/scam-centers-myanmar-cambodia.html",
+   "word_count": 850
+  }
+ ]
+}

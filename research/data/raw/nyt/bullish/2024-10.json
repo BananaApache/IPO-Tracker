@@ -1,0 +1,249 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2024-10",
+ "begin_date": "20241001",
+ "end_date": "20241031",
+ "fetched_at": "2026-09-08T05:03:14.411060+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "Disregarding politics has worked brilliantly in the United States for a century. But market history offers comfort only up to a point, our columnist says.",
+   "byline": {
+    "original": "By Jeff Sommer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "For Investors, What if This Time Is Different?",
+    "kicker": "Strategies",
+    "print_headline": "What if Ignoring Politics Is the Wrong Move This Time?"
+   },
+   "_id": "nyt://article/947f1efc-0bd7-5a3e-a10d-fbdd9129f8c4",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "World War II (1939-45)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Government Bonds",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Anuj Shrestha",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/27/business/27Strategies-illo/27Strategies-illo-articleLarge.jpg",
+     "height": 659,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/27/business/27Strategies-illo/27Strategies-illo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "SundayBusiness",
+   "print_page": "4",
+   "print_section": "BU",
+   "pub_date": "2024-10-27T07:00:44Z",
+   "section_name": "Business",
+   "snippet": "Disregarding politics has worked brilliantly in the United States for a century. But market history offers comfort only up to a point, our columnist says.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/947f1efc-0bd7-5a3e-a10d-fbdd9129f8c4",
+   "web_url": "https://www.nytimes.com/2024/10/27/business/market-history-elections-disasters.html",
+   "word_count": 1348
+  },
+  {
+   "abstract": "In a time when social media tends to rule the day, what can traditional news organizations to do regain trust?",
+   "byline": {
+    "original": "By The New York Times"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Athens Democracy Forum: Rethinking Journalism",
+    "kicker": "",
+    "print_headline": "Rethinking journalism"
+   },
+   "_id": "nyt://article/b28c9a12-f3bd-50d6-b0ff-dc855b74124a",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "News and News Media",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Newspapers",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Democracy (Theory and Philosophy)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Journalism Schools",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Rumors and Misinformation",
+     "rank": 6
+    },
+    {
+     "name": "Keyword",
+     "value": "Athens Democracy Forum",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Piles of newspapers in the SoHo neighborhood of Manhattan aren\u2019t as big as they once were.",
+    "credit": "Ahmed Gaber for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/10/multimedia/10sp-democracy-journalism-inyt-02-lcwz/10sp-democracy-journalism-inyt-02-lcwz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/10/multimedia/10sp-democracy-journalism-inyt-02-lcwz/10sp-democracy-journalism-inyt-02-lcwz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "SpecialSections",
+   "print_page": "7",
+   "print_section": "S",
+   "pub_date": "2024-10-08T01:54:23Z",
+   "section_name": "Business",
+   "snippet": "In a time when social media tends to rule the day, what can traditional news organizations to do regain trust?",
+   "source": "International New York Times",
+   "subsection_name": "Media",
+   "type_of_material": "News",
+   "uri": "nyt://article/b28c9a12-f3bd-50d6-b0ff-dc855b74124a",
+   "web_url": "https://www.nytimes.com/2024/10/07/business/media/athens-democracy-forum-journalism.html",
+   "word_count": 1402
+  },
+  {
+   "abstract": "You may not realize how great the stock market has been. But, our columnist says, it can\u2019t keep rising at this pace for long.",
+   "byline": {
+    "original": "By Jeff Sommer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Market Has Been Fabulous, Maybe Excessively So",
+    "kicker": "Strategies",
+    "print_headline": "The Market Has Been Fabulous. Maybe Excessively So."
+   },
+   "_id": "nyt://article/5146ed13-cf43-527b-85fe-cd53f9d71818",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Mutual Funds",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Nuclear Energy",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Giulio Bonasera",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/13/business/13strategies-illo/13strategies-illo-articleLarge.jpg",
+     "height": 673,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/13/business/13strategies-illo/13strategies-illo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "SundayBusiness",
+   "print_page": "3",
+   "print_section": "BU",
+   "pub_date": "2024-10-11T09:02:01Z",
+   "section_name": "Business",
+   "snippet": "You may not realize how great the stock market has been. But, our columnist says, it can\u2019t keep rising at this pace for long.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/5146ed13-cf43-527b-85fe-cd53f9d71818",
+   "web_url": "https://www.nytimes.com/2024/10/11/business/stocks-investing-bull-market.html",
+   "word_count": 1271
+  }
+ ]
+}

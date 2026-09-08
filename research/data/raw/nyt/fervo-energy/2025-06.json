@@ -1,0 +1,132 @@
+{
+ "company": "Fervo Energy",
+ "query": "\"Fervo Energy\"",
+ "month": "2025-06",
+ "begin_date": "20250601",
+ "end_date": "20250630",
+ "fetched_at": "2026-09-08T05:01:26.320046+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Senate Republicans understand that energy abundance is essential for the economy, national security and the country\u2019s well-being. Now they must act.",
+   "byline": {
+    "original": "By Robinson Meyer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Save Us, Senators, From a Very Expensive Mistake",
+    "kicker": "Guest Essay",
+    "print_headline": "Save Us, Senators, From a Very Expensive Mistake"
+   },
+   "_id": "nyt://article/77a49a7a-e2e9-5e58-bd06-53ec49fafb34",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "One Big Beautiful Bill Act (2025)",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Senate",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Tax Credits, Deductions and Exemptions",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation Reduction Act of 2022",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Republican Party",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Alternative and Renewable Energy",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Greenhouse Gas Emissions",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Nuclear Energy",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Geothermal Power",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Electric Light and Power",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Innovation",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Law and Legislation",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 15
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 16
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Illustration by The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/03/opinion/02meyer/02meyer-articleLarge-v5.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/03/opinion/02meyer/02meyer-thumbStandard-v6.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2025-06-02T09:01:49Z",
+   "section_name": "Opinion",
+   "snippet": "Senate Republicans understand that energy abundance is essential for the economy, national security and the country\u2019s well-being. Now they must act.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Op-Ed",
+   "uri": "nyt://article/77a49a7a-e2e9-5e58-bd06-53ec49fafb34",
+   "web_url": "https://www.nytimes.com/2025/06/02/opinion/clean-energy-tax-credits.html",
+   "word_count": 1262
+  }
+ ]
+}

@@ -1,0 +1,628 @@
+{
+ "company": "Firefly Aerospace",
+ "query": "\"Firefly Aerospace\"",
+ "month": "2025-03",
+ "begin_date": "20250301",
+ "end_date": "20250331",
+ "fetched_at": "2026-09-08T05:15:02.427101+00:00",
+ "hits": 9,
+ "docs": [
+  {
+   "abstract": "The sun has set on the Blue Ghost spacecraft, ending a successful mission to the moon.",
+   "byline": {
+    "original": "By Kenneth Chang and Jonathan Corum"
+   },
+   "document_type": "interactive",
+   "headline": {
+    "main": "A Lunar Lander\u2019s Busy Day: Eclipse Photos and Rock Collecting",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://interactive/9ce1859f-dd71-5ab0-b322-4f3deaa33a5c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Firefly Aerospace Inc",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Eclipses",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Science and Technology",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Research",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/20/multimedia/2025-03-02-moon-commercial-landings-index/2025-03-02-moon-commercial-landings-index-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/20/multimedia/2025-03-02-moon-commercial-landings-index/2025-03-02-moon-commercial-landings-index-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Graphics",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-21T13:59:00Z",
+   "section_name": "Science",
+   "snippet": "The sun has set on the Blue Ghost spacecraft, ending a successful mission to the moon.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Interactive Feature",
+   "uri": "nyt://interactive/9ce1859f-dd71-5ab0-b322-4f3deaa33a5c",
+   "web_url": "https://www.nytimes.com/interactive/2025/03/21/science/blue-ghost-moon-landing.html",
+   "word_count": 0
+  },
+  {
+   "abstract": "Firefly Aerospace\u2019s robotic vehicle became the second privately built spacecraft to make a soft landing on the moon. It could soon be joined by two more private lunar landers.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "\u2018Moon Dust on Our Boots\u2019: Texas Company\u2019s Blue Ghost Lands on Lunar Surface",
+    "kicker": "",
+    "print_headline": "For Texas Company, a Soft Landing on the Moon"
+   },
+   "_id": "nyt://article/43e29bbf-0adc-5ae6-9504-1af9bb1ff484",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Firefly Aerospace Inc",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "A handout photograph released by Firefly Aerospace showing the Blue Ghost lander\u2019s shadow on the moon\u2019s surface on Sunday.",
+    "credit": "Firefly Aerospace, via Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01blue-ghost-landing-kwvf/01blue-ghost-landing-kwvf-articleLarge.jpg",
+     "height": 450,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01blue-ghost-landing-kwvf/01blue-ghost-landing-kwvf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "20",
+   "print_section": "A",
+   "pub_date": "2025-03-02T03:00:06Z",
+   "section_name": "Science",
+   "snippet": "Firefly Aerospace\u2019s robotic vehicle became the second privately built spacecraft to make a soft landing on the moon. It could soon be joined by two more private lunar landers.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/43e29bbf-0adc-5ae6-9504-1af9bb1ff484",
+   "web_url": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
+   "word_count": 1286
+  },
+  {
+   "abstract": "Firefly Aerospace\u2019s successful moon lander has yielded a trove of data that scientists will pore over for years.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/0c14f2e8-0351-585c-9fed-4b02110ae527",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Firefly Aerospace Inc",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Research",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/21/21visualUploader-8920-cover/21visualUploader-8920-cover-articleLarge.jpg",
+     "height": 433,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/21/21visualUploader-8920-cover/21visualUploader-8920-cover-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-21T19:30:57Z",
+   "section_name": "Science",
+   "snippet": "Firefly Aerospace\u2019s successful moon lander has yielded a trove of data that scientists will pore over for years.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/0c14f2e8-0351-585c-9fed-4b02110ae527",
+   "web_url": "https://www.nytimes.com/2025/03/21/science/blue-ghost-moon-science.html",
+   "word_count": 1082
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "D\u00e9j\u00e0 moon? Another spacecraft just landed on the moon on Sunday.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/9846a2ba-dfea-579b-8f6c-6e6fd8a9ed53",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Firefly Aerospace\u2019s Blue Ghost spacecraft casting a shadow on the moon\u2019s surface after landing on March 2.",
+    "credit": "Firefly Aerospace, via Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06athena-moon-landing-firefly-jgph/06athena-moon-landing-firefly-jgph-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06athena-moon-landing-firefly-jgph/06athena-moon-landing-firefly-jgph-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-06T15:15:04Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/9846a2ba-dfea-579b-8f6c-6e6fd8a9ed53",
+   "web_url": "https://www.nytimes.com/live/2025/03/06/science/moon-landing/deja-moon-another-spacecraft-just-landed-on-the-moon-on-sunday",
+   "word_count": 198
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Michael Roston"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "An eclipse is coming on both Earth and the moon.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/2eca4b13-29a0-58ad-b2bb-eb9a40053e0f",
+   "keywords": [],
+   "multimedia": {
+    "caption": "A total lunar eclipse seen from Melbourne, Australia, in 2022.",
+    "credit": "James Ross/EPA, via Shutterstock",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06athena-moon-landing-eclipse-wztl/06athena-moon-landing-eclipse-wztl-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06athena-moon-landing-eclipse-wztl/06athena-moon-landing-eclipse-wztl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-06T21:30:05Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/2eca4b13-29a0-58ad-b2bb-eb9a40053e0f",
+   "web_url": "https://www.nytimes.com/live/2025/03/06/science/moon-landing/an-eclipse-is-coming-on-both-earth-and-the-moon",
+   "word_count": 148
+  },
+  {
+   "abstract": "The Athena lander from Intuitive Machines could not charge its batteries after ending up on its side. It largely failed to accomplish science and technology tasks for NASA and other customers.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Texas Company\u2019s Lander Dies on Moon the Day After Toppled Landing",
+    "kicker": "",
+    "print_headline": "Athena Craft Dies on Moon, One Day After Toppled Landing"
+   },
+   "_id": "nyt://article/a15110cb-f5ea-5750-a30c-f0f2d8e6db4b",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Intuitive Machines LLC",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Intuitive Machines",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07athena-moon-landing-02-fcvp/07athena-moon-landing-02-fcvp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07athena-moon-landing-02-fcvp/07athena-moon-landing-02-fcvp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2025-03-07T19:08:11Z",
+   "section_name": "Science",
+   "snippet": "The Athena lander from Intuitive Machines could not charge its batteries after ending up on its side. It largely failed to accomplish science and technology tasks for NASA and other customers.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a15110cb-f5ea-5750-a30c-f0f2d8e6db4b",
+   "web_url": "https://www.nytimes.com/2025/03/07/science/intuitive-machines-moon-lander-dead.html",
+   "word_count": 1068
+  },
+  {
+   "abstract": "After hours of uncertainty, officials from the Houston company said there are clues that the spacecraft is on its side, which could limit the mission\u2019s scientific accomplishments.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Intuitive Machines\u2019 Athena Lander Is on the Moon, but Its Fate Is Unclear",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/d0c3f943-2ddd-50c2-a8ef-453ac06a39ff",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Intuitive Machines LLC",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Research",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Aviation Accidents, Safety and Disasters",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "An image beamed from the Intuitive Machines Athena lander as it approached the moon on Thursday.",
+    "credit": "NASA, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06athena-moon-landing-write-thru/06athena-moon-landing-write-thru-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06athena-moon-landing-write-thru/06athena-moon-landing-write-thru-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-06T14:00:34Z",
+   "section_name": "Science",
+   "snippet": "After hours of uncertainty, officials from the Houston company said there are clues that the spacecraft is on its side, which could limit the mission\u2019s scientific accomplishments.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/d0c3f943-2ddd-50c2-a8ef-453ac06a39ff",
+   "web_url": "https://www.nytimes.com/2025/03/06/science/intuitive-machines-athena-moon-lander.html",
+   "word_count": 884
+  },
+  {
+   "abstract": "The former Google chief executive is taking a controlling interest in Relativity Space, which aims to build low-cost, reusable rockets to compete against Elon Musk\u2019s SpaceX and to reach Mars.",
+   "byline": {
+    "original": "By Mike Isaac and Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Eric Schmidt Joins Relativity Space, a Rocket Start-Up, as C.E.O.",
+    "kicker": "",
+    "print_headline": "Schmidt Joins Relativity Space, a Rocket Start-Up, as Its C.E.O."
+   },
+   "_id": "nyt://article/c3d2f438-69ee-5708-96eb-450abdadd4ac",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "3-D Printers",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Entrepreneurship",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Hillspire LLC",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Relativity Space Inc",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Schmidt, Eric E",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "Eric Schmidt, 69, has not served as a chief executive since he gave up the job at Google in 2011. ",
+    "credit": "Benoit Tessier/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/10/multimedia/10biz-schmidt-space-top-kzht/10biz-schmidt-space-top-kzht-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/10/multimedia/10biz-schmidt-space-top-kzht/10biz-schmidt-space-top-kzht-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2025-03-10T19:45:23Z",
+   "section_name": "Technology",
+   "snippet": "The former Google chief executive is taking a controlling interest in Relativity Space, which aims to build low-cost, reusable rockets to compete against Elon Musk\u2019s SpaceX and to reach Mars.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c3d2f438-69ee-5708-96eb-450abdadd4ac",
+   "web_url": "https://www.nytimes.com/2025/03/10/technology/eric-schmidt-relativity-space.html",
+   "word_count": 800
+  },
+  {
+   "abstract": "Earth\u2019s shadow will block most of the light that illuminates the lunar surface, creating what is known as a blood moon.",
+   "byline": {
+    "original": "By Katrina Miller"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Watch the Moon Blush Blood Red During a Total Lunar Eclipse",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/eb16b623-aa13-5202-87c1-a8d15bac04be",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Eclipses",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "United States",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/12/multimedia/2025-03-10-lunar-eclipse-index/2025-03-10-lunar-eclipse-index-articleLarge-v9.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/12/multimedia/2025-03-10-lunar-eclipse-index/2025-03-10-lunar-eclipse-index-thumbStandard-v9.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-13T09:02:43Z",
+   "section_name": "Science",
+   "snippet": "Earth\u2019s shadow will block most of the light that illuminates the lunar surface, creating what is known as a blood moon.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/eb16b623-aa13-5202-87c1-a8d15bac04be",
+   "web_url": "https://www.nytimes.com/2025/03/13/science/lunar-eclipse-blood-moon.html",
+   "word_count": 1099
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2024-07",
+ "begin_date": "20240701",
+ "end_date": "20240731",
+ "fetched_at": "2026-09-08T04:56:02.264663+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Market sectors sometimes move when the political winds shift, but trading is hazardous for your financial health, our columnist says.",
+   "byline": {
+    "original": "By Jeff Sommer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Let the Pros Play With the \u2018Trump (or Harris) Trade\u2019",
+    "kicker": "Strategies",
+    "print_headline": "Let the Pros Play With the \u2018Trump (or Harris) Trade\u2019"
+   },
+   "_id": "nyt://article/1fad23e4-03fc-58c2-b7eb-e05da9a49244",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Currency",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Immigration Detention",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Assassinations and Attempted Assassinations",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Gun Control",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Protectionism (Trade)",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "CoreCivic Inc",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Sturm Ruger & Company Inc",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "SMITH & WESSON",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Andrea Ucini",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/28/business/28Strategie-summer/28Strategie-summer-articleLarge.jpg",
+     "height": 435,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/28/business/28Strategie-summer/28Strategie-summer-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "SundayBusiness",
+   "print_page": "3",
+   "print_section": "BU",
+   "pub_date": "2024-07-26T09:03:25Z",
+   "section_name": "Business",
+   "snippet": "Market sectors sometimes move when the political winds shift, but trading is hazardous for your financial health, our columnist says.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/1fad23e4-03fc-58c2-b7eb-e05da9a49244",
+   "web_url": "https://www.nytimes.com/2024/07/26/business/trump-trade-stock-market-election-harris.html",
+   "word_count": 1188
+  },
+  {
+   "abstract": "Donald Trump\u2019s running mate is pro-labor, a fan of crypto and the F.T.C.\u2019s Lina Khan, and says Big Tech is too powerful.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How J.D. Vance Seeks to Reorient the Republicans\u2019 Approach to Business",
+    "kicker": "DealBook Newsletter",
+    "print_headline": "Recent Market Activity Betting on a Trump Win"
+   },
+   "_id": "nyt://article/37f989ec-578e-5f82-aac8-b6dcec279711",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Vance, J D",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Republican National Convention",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Vice Presidents and Vice Presidency (US)",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Donald Trump chose Senator J.D. Vance of Ohio as his running mate despite Vance\u2019s history of sharp criticism of the former president.",
+    "credit": "Doug Mills/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/16/multimedia/16db-newsletter-vancetrump-gkqj/16db-newsletter-vancetrump-gkqj-articleLarge.jpg",
+     "height": 508,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/16/multimedia/16db-newsletter-vancetrump-gkqj/16db-newsletter-vancetrump-gkqj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2024-07-16T12:17:38Z",
+   "section_name": "Business",
+   "snippet": "Donald Trump\u2019s running mate is pro-labor, a fan of crypto and the F.T.C.\u2019s Lina Khan, and says Big Tech is too powerful.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/37f989ec-578e-5f82-aac8-b6dcec279711",
+   "web_url": "https://www.nytimes.com/2024/07/16/business/dealbook/trump-vance-republicans-business.html",
+   "word_count": 1888
+  }
+ ]
+}

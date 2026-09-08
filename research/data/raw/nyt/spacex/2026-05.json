@@ -1,0 +1,876 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2026-05",
+ "begin_date": "20260501",
+ "end_date": "20260531",
+ "fetched_at": "2026-09-08T05:25:50.545127+00:00",
+ "hits": 48,
+ "docs": [
+  {
+   "abstract": "Even before the rocket company holds a major initial public offering, many people own stock in it through so-called special purpose vehicles.",
+   "byline": {
+    "original": "By Erin Griffith and Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Do So Many People Already Own Elon Musk\u2019s SpaceX?",
+    "kicker": "",
+    "print_headline": "SpaceX Shares Have Taken Off"
+   },
+   "_id": "nyt://article/c7a7200d-a058-5f72-8b14-d9d98359498b",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Leo Group",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Founders Fund",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Thiel, Peter A",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Brandon Celi",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/30/business/00spacex-investor-sub/00spacex-investor-articleLarge.jpg",
+     "height": 671,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/30/business/00spacex-investor-sub/00spacex-investor-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-05-01T09:01:11Z",
+   "section_name": "Technology",
+   "snippet": "Even before the rocket company holds a major initial public offering, many people own stock in it through so-called special purpose vehicles.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c7a7200d-a058-5f72-8b14-d9d98359498b",
+   "web_url": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
+   "word_count": 1528
+  },
+  {
+   "abstract": "The 12th test flight of SpaceX\u2019s gargantuan rocket launched on Friday evening and ended its journey in the Indian Ocean just over an hour later.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Completes Mostly Successful Starship Rocket Flight",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/ee303978-31eb-5df6-aaf5-f66ffe2e1271",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "Sunrise at Starbase in South Texas on Friday, as the SpaceX Starship rocket was preparing for another launch attempt.",
+    "credit": "Eric Gay/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/05/22/multimedia/22HS-starship-lzkc/22HS-starship-lzkc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/05/22/multimedia/22HS-starship-lzkc/22HS-starship-lzkc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-05-22T19:04:33Z",
+   "section_name": "Science",
+   "snippet": "The 12th test flight of SpaceX\u2019s gargantuan rocket launched on Friday evening and ended its journey in the Indian Ocean just over an hour later.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ee303978-31eb-5df6-aaf5-f66ffe2e1271",
+   "web_url": "https://www.nytimes.com/2026/05/22/science/spacex-starship-launch-nasa.html",
+   "word_count": 818
+  },
+  {
+   "abstract": "Mr. Musk\u2019s rocket and satellite maker disclosed its financial performance as it prepares to go public in what is set to be one of the largest offerings to date.",
+   "byline": {
+    "original": "By Ryan Mac and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk\u2019s SpaceX Reveals Its Finances for the First Time",
+    "kicker": "",
+    "print_headline": "Ahead of I.P.O., a Window Into the Finances of SpaceX"
+   },
+   "_id": "nyt://article/dae30af7-44fe-5194-a40b-8e7cc231a07f",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Company Reports",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "A successful SpaceX offering would bring riches to Wall Street, the company\u2019s employees and, of course, Elon Musk, who is already the world\u2019s richest person.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/14/multimedia/00biz-spacex-finances-hfo-zktq/00biz-spacex-finances-hfo-zktq-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/14/multimedia/00biz-spacex-finances-hfo-zktq/00biz-spacex-finances-hfo-zktq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-05-20T21:05:24Z",
+   "section_name": "Technology",
+   "snippet": "Mr. Musk\u2019s rocket and satellite maker disclosed its financial performance as it prepares to go public in what is set to be one of the largest offerings to date.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/dae30af7-44fe-5194-a40b-8e7cc231a07f",
+   "web_url": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
+   "word_count": 1191
+  },
+  {
+   "abstract": "The ways it set up its board and Mr. Musk\u2019s pay appear to benefit him at the expense of other shareholders, corporate governance experts said.",
+   "byline": {
+    "original": "By Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How SpaceX Is Structured to Favor Elon Musk",
+    "kicker": "",
+    "print_headline": "SpaceX I.P.O. Filing Shows Favorable Terms for Musk"
+   },
+   "_id": "nyt://article/643fde25-cc9c-5c7f-bace-b9cfdcfb2db0",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Boards of Directors",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Executive Compensation",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Arbitration, Conciliation and Mediation",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Corporations",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "Central to Elon Musk\u2019s power over SpaceX is his control of \u201csuper voting\u201d shares.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/05/22/multimedia/00Biz-SpaceX-Control-1-cwjt/00Biz-SpaceX-Control-1-cwjt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/05/22/multimedia/00Biz-SpaceX-Control-1-cwjt/00Biz-SpaceX-Control-1-cwjt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-05-26T14:47:56Z",
+   "section_name": "Technology",
+   "snippet": "The ways it set up its board and Mr. Musk\u2019s pay appear to benefit him at the expense of other shareholders, corporate governance experts said.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/643fde25-cc9c-5c7f-bace-b9cfdcfb2db0",
+   "web_url": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
+   "word_count": 821
+  },
+  {
+   "abstract": "Elon Musk and his bankers are working to create a self-fulfilling prophecy for the massive public offering: Make investors feel that the risks of passing it up outweigh those of buying into it.",
+   "byline": {
+    "original": "By Maureen Farrell and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "For Wall Street, the Only Thing Worse Than SpaceX Flopping Is Missing Out",
+    "kicker": "",
+    "print_headline": "SpaceX Hype Speeding Up, And Wall St. Hops Aboard"
+   },
+   "_id": "nyt://article/ff9dd133-d455-565e-b29d-2d6670ff631f",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Nasdaq Composite Index",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Bank of America Corporation",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s launch site near Boca Chica, Texas, in 2024. The company could go public as soon as next month.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/05/28/multimedia/00BIZ-SPACEX-FOMO-TOP-pvlb/00BIZ-SPACEX-FOMO-TOP-pvlb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/05/28/multimedia/00BIZ-SPACEX-FOMO-TOP-pvlb/00BIZ-SPACEX-FOMO-TOP-pvlb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-05-29T15:07:46Z",
+   "section_name": "Business",
+   "snippet": "Elon Musk and his bankers are working to create a self-fulfilling prophecy for the massive public offering: Make investors feel that the risks of passing it up outweigh those of buying into it.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ff9dd133-d455-565e-b29d-2d6670ff631f",
+   "web_url": "https://www.nytimes.com/2026/05/29/business/spacex-ipo-wall-street.html",
+   "word_count": 1221
+  },
+  {
+   "abstract": "The giant rocket was scheduled to lift off on Thursday after a seven-month pause. SpaceX could try again as soon as Friday.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Scrubs Launch Attempt of Updated Starship Rocket",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/792dc205-11eb-5fa0-a5a2-810e0c7c2db3",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Bezos, Jeffrey P",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "The booster for the SpaceX rocket Starship being rolled out to the launchpad at the Starbase in South Texas.",
+    "credit": "Eric Gay/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/05/20/multimedia/20HS-starship-01-wgjm/20HS-starship-01-wgjm-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/05/20/multimedia/20HS-starship-01-wgjm/20HS-starship-01-wgjm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-05-21T10:12:49Z",
+   "section_name": "Science",
+   "snippet": "The giant rocket was scheduled to lift off on Thursday after a seven-month pause. SpaceX could try again as soon as Friday.",
+   "source": "The New York Times",
+   "subsection_name": "Space & Cosmos",
+   "type_of_material": "News",
+   "uri": "nyt://article/792dc205-11eb-5fa0-a5a2-810e0c7c2db3",
+   "web_url": "https://www.nytimes.com/2026/05/21/science/space/spacex-starship-launch-nasa.html",
+   "word_count": 1353
+  },
+  {
+   "abstract": "The rocket company\u2019s new semiconductor factory, called Terafab, is part of the billionaire\u2019s increasing efforts to dominate artificial intelligence.",
+   "byline": {
+    "original": "By Steve Lohr"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk\u2019s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
+    "kicker": "",
+    "print_headline": "$55 Billion Tag For First Stage Of Musk\u2019s Plant  "
+   },
+   "_id": "nyt://article/c150e55b-6a18-5ddb-bbf7-9ef2ef29aab4",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Factories and Manufacturing",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "A SpaceX Starship rocket near the Starbase in Boca Chica, Texas.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/05/07/multimedia/07SpaceX-fkcl/07SpaceX-fkcl-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/05/07/multimedia/07SpaceX-fkcl/07SpaceX-fkcl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2026-05-07T15:52:21Z",
+   "section_name": "Business",
+   "snippet": "The rocket company\u2019s new semiconductor factory, called Terafab, is part of the billionaire\u2019s increasing efforts to dominate artificial intelligence.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c150e55b-6a18-5ddb-bbf7-9ef2ef29aab4",
+   "web_url": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
+   "word_count": 558
+  },
+  {
+   "abstract": "Across Wall Street, bankers have been clamoring to lead what is expected to be the biggest-ever initial public offering.",
+   "byline": {
+    "original": "By Rob Copeland, Lauren Hirsch and Maureen Farrell"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Goldman Hits the Jackpot After Banks\u2019 \u2018Dogfight\u2019 to Lead SpaceX\u2019s I.P.O.",
+    "kicker": "",
+    "print_headline": "Jackpot Hits For Goldman With SpaceX"
+   },
+   "_id": "nyt://article/eaa44dc3-3e4a-53cc-bd70-60a5d5e7977e",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Goldman Sachs Group Inc",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Morgan Stanley",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Bank of America Corporation",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Cantor Fitzgerald LP",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "JPMorgan Chase & Company",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Royal Bank of Canada",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "A SpaceX rocket in 2024. The company, led by Elon Musk, chose Goldman Sachs to be the lead bank for its initial public offering. ",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/05/21/multimedia/21biz-spacex-banks-kwhm/21biz-spacex-banks-kwhm-articleLarge.jpg",
+     "height": 902,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/05/21/multimedia/21biz-spacex-banks-kwhm/21biz-spacex-banks-kwhm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-05-21T11:38:47Z",
+   "section_name": "Business",
+   "snippet": "Across Wall Street, bankers have been clamoring to lead what is expected to be the biggest-ever initial public offering.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/eaa44dc3-3e4a-53cc-bd70-60a5d5e7977e",
+   "web_url": "https://www.nytimes.com/2026/05/21/business/spacex-ipo-banks-goldman-sachs.html",
+   "word_count": 825
+  },
+  {
+   "abstract": "SpaceX, OpenAI, and Anthropic, giants of the artificial intelligence sector, are rushing to test investor appetite in the stock markets.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O\u2019Keefe and Ian Mount"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The A.I. Race to Go Public",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/1bc87ccd-9a9d-512f-9bdd-62792cc161c9",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX, Elon Musk\u2019s rocket and A.I. company, is seeking to get the jump on rivals with an I.P.O. that could land as soon as next month.",
+    "credit": "Steve Nesius/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/05/21/multimedia/21db-spacex-jvhk/21db-spacex-jvhk-articleLarge.jpg",
+     "height": 406,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/05/21/multimedia/21db-spacex-jvhk/21db-spacex-jvhk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-05-21T12:15:54Z",
+   "section_name": "Business",
+   "snippet": "SpaceX, OpenAI, and Anthropic, giants of the artificial intelligence sector, are rushing to test investor appetite in the stock markets.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/1bc87ccd-9a9d-512f-9bdd-62792cc161c9",
+   "web_url": "https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html",
+   "word_count": 1880
+  },
+  {
+   "abstract": "When newly public companies have been valued as richly as SpaceX, OpenAI and Anthropic seem likely to be, the outlook for ordinary investors has been poor.",
+   "byline": {
+    "original": "By Jeff Sommer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Sky-High I.P.O. Pricing Isn\u2019t Great for Real People",
+    "kicker": "Strategies",
+    "print_headline": "Sky-High I.P.O. Pricing Isn\u2019t Great for Everyday Investors"
+   },
+   "_id": "nyt://article/7e0cdb5a-7e59-5bf4-a76e-a3f0922ad210",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s Starship rocket during a test flight in May. The company\u2019s chief executive, Elon Musk, stands to unlock a great fortune when the company goes public.",
+    "credit": "Eric Gay/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/05/31/multimedia/29biz-strategies-IPO-SWAP-pqkm/29biz-strategies-IPO-SWAP-pqkm-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/05/31/multimedia/29biz-strategies-IPO-SWAP-pqkm/29biz-strategies-IPO-SWAP-pqkm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "SundayBusiness",
+   "print_page": "3",
+   "print_section": "BU",
+   "pub_date": "2026-05-29T15:02:31Z",
+   "section_name": "Business",
+   "snippet": "When newly public companies have been valued as richly as SpaceX, OpenAI and Anthropic seem likely to be, the outlook for ordinary investors has been poor.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/7e0cdb5a-7e59-5bf4-a76e-a3f0922ad210",
+   "web_url": "https://www.nytimes.com/2026/05/29/business/spacex-openai-anthropic-ipo-invest.html",
+   "word_count": 1501
+  }
+ ]
+}

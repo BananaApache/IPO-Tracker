@@ -1,0 +1,951 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-11",
+ "begin_date": "20251101",
+ "end_date": "20251130",
+ "fetched_at": "2026-09-08T05:11:26.459350+00:00",
+ "hits": 15,
+ "docs": [
+  {
+   "abstract": "The lower half of the New Glenn rocket set down on a platform in the Atlantic Ocean after lifting a small NASA Mars mission to space.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Blue Origin Lands Booster After Rocket Launch and Matches SpaceX\u2019s Feat",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/8a3a508e-b26d-5819-a754-6c2884c0de34",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Cape Canaveral (Fla)",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "A screengrab from the live feed of the Blue Origin launch showing the returned booster rocket on the floating platform Jacklyn in the Atlantic Ocean.",
+    "credit": "Blue Origin, via YouTube",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/13/multimedia/13HS-blue-origin-launch-02-bqft/13HS-blue-origin-launch-02-bqft-articleLarge.jpg",
+     "height": 338,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/13/multimedia/13HS-blue-origin-launch-02-bqft/13HS-blue-origin-launch-02-bqft-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-11-13T16:12:23Z",
+   "section_name": "Science",
+   "snippet": "The lower half of the New Glenn rocket set down on a platform in the Atlantic Ocean after lifting a small NASA Mars mission to space.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/8a3a508e-b26d-5819-a754-6c2884c0de34",
+   "web_url": "https://www.nytimes.com/2025/11/13/science/blue-origin-launch-rocket.html",
+   "word_count": 1039
+  },
+  {
+   "abstract": "The nomination of the billionaire entrepreneur, private astronaut and Elon Musk ally was before the floor of the Senate when the president abruptly withdrew it in June.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Again Names Jared Isaacman to Lead NASA After Pulling His Nomination",
+    "kicker": "",
+    "print_headline": "Trump Again Names an Entrepreneur to Lead NASA After Pulling His Nomination"
+   },
+   "_id": "nyt://article/8420e722-633a-5bac-9398-5c9cf967a976",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Duffy, Sean P",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "President Trump abruptly yanked his earlier nomination of Jared Isaacman because he was upset that Mr. Isaacman had contributed to the campaigns of some Democrats.",
+    "credit": "Tierney L. Cross for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/04/multimedia/HFO-Jared-Isaacman-NASA-administrator-mcgb/HFO-Jared-Isaacman-NASA-administrator-mcgb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/04/multimedia/HFO-Jared-Isaacman-NASA-administrator-mcgb/HFO-Jared-Isaacman-NASA-administrator-mcgb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "24",
+   "print_section": "A",
+   "pub_date": "2025-11-05T00:18:18Z",
+   "section_name": "Science",
+   "snippet": "The nomination of the billionaire entrepreneur, private astronaut and Elon Musk ally was before the floor of the Senate when the president abruptly withdrew it in June.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/8420e722-633a-5bac-9398-5c9cf967a976",
+   "web_url": "https://www.nytimes.com/2025/11/04/science/nasa-isaacman-trump.html",
+   "word_count": 1004
+  },
+  {
+   "abstract": "The second flight of the orbital rocket from Jeff Bezos\u2019s space company was halted by weather. The company may try again on Wednesday.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Blue Origin Scrubs Launch of NASA\u2019s ESCAPADE Mission to Mars",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/a05a4d6d-2acc-5068-9eda-cf0e67f0c059",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "The Blue Origin New Glenn rocket seen at the Cape Canaveral Space Force Station in Cape Canaveral, Fla., on Sunday.",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/09/multimedia/09HS-blue-origin-launch-tpvf/09HS-blue-origin-launch-tpvf-articleLarge.jpg",
+     "height": 410,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/09/multimedia/09HS-blue-origin-launch-tpvf/09HS-blue-origin-launch-tpvf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-11-09T10:01:42Z",
+   "section_name": "Science",
+   "snippet": "The second flight of the orbital rocket from Jeff Bezos\u2019s space company was halted by weather. The company may try again on Wednesday.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a05a4d6d-2acc-5068-9eda-cf0e67f0c059",
+   "web_url": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
+   "word_count": 301
+  },
+  {
+   "abstract": "Summer Worden admitted lying to federal agents when she accused her spouse, the astronaut Anne McClain, of illegally accessing her bank account from space.",
+   "byline": {
+    "original": "By Ali Watkins"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Wife of Astronaut Pleads Guilty to Falsely Alleging Crime in Space",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/18493618-5232-59a0-8c48-0356d2779898",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Security",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Families and Family Life",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space Stations",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Lying",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "McClain, Anne C",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Worden, Summer",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Anne McClain was on the International Space Station in 2019 when her estranged spouse falsely accused her of illegally accessing her bank account. ",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18xp-astronaut-vftl/18xp-astronaut-vftl-articleLarge.jpg",
+     "height": 426,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18xp-astronaut-vftl/18xp-astronaut-vftl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-11-18T14:00:58Z",
+   "section_name": "U.S.",
+   "snippet": "Summer Worden admitted lying to federal agents when she accused her spouse, the astronaut Anne McClain, of illegally accessing her bank account from space.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/18493618-5232-59a0-8c48-0356d2779898",
+   "web_url": "https://www.nytimes.com/2025/11/18/us/space-crime-astronaut-anne-mcclain.html",
+   "word_count": 360
+  },
+  {
+   "abstract": "Called Project Prometheus, the company is focusing on artificial intelligence for the engineering and manufacturing of computers, automobiles and spacecraft.",
+   "byline": {
+    "original": "By Cade Metz"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Jeff Bezos Creates A.I. Start-Up Where He Will Be Co-Chief Executive",
+    "kicker": "",
+    "print_headline": "Bezos Makes A.I. Plunge By Co-Leading Start-Up"
+   },
+   "_id": "nyt://article/ae10489c-bb60-5759-86ac-6f64c25a328a",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Research",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Periodic Labs",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Bezos, Jeffrey P",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Project Prometheus",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "The new artificial intelligence project partly financed by Jeff Bezos is entering an increasingly crowded market.",
+    "credit": "Jeenah Moon for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/17/multimedia/17bezos-ktmh/17bezos-ktmh-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/17/multimedia/17bezos-ktmh/17bezos-ktmh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2025-11-17T09:00:05Z",
+   "section_name": "Technology",
+   "snippet": "Called Project Prometheus, the company is focusing on artificial intelligence for the engineering and manufacturing of computers, automobiles and spacecraft.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ae10489c-bb60-5759-86ac-6f64c25a328a",
+   "web_url": "https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html",
+   "word_count": 833
+  },
+  {
+   "abstract": "At least one space launch has been put on hold, as satellite operators and rocket companies manage the effects of the current geomagnetic storm hitting Earth.",
+   "byline": {
+    "original": "By Katrina Miller"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Northern Lights Are Beautiful, but They\u2019re Risky for Satellites",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/b96af7c8-bc16-5477-9ebe-48cf5732fb51",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Aurora Borealis",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Sun",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "United Launch Alliance",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "ViaSat Inc",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Helioviewer Project/NASA/ESA",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/12/13HS-SCI-SOLAR-WEATHER-62829-cover/13HS-SCI-SOLAR-WEATHER-62829-cover-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/12/13HS-SCI-SOLAR-WEATHER-62829-cover/13HS-SCI-SOLAR-WEATHER-62829-cover-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-11-13T01:44:43Z",
+   "section_name": "Science",
+   "snippet": "At least one space launch has been put on hold, as satellite operators and rocket companies manage the effects of the current geomagnetic storm hitting Earth.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/b96af7c8-bc16-5477-9ebe-48cf5732fb51",
+   "web_url": "https://www.nytimes.com/2025/11/12/science/northern-lights-solar-satellites.html",
+   "word_count": 993
+  },
+  {
+   "abstract": "Having struck an uneasy truce with the president, Elon Musk is starting to make political appearances again, and his allies are planning a DOGE reunion party.",
+   "byline": {
+    "original": "By Theodore Schleifer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk Is Back in Politics. Does He Want to Stay a While?",
+    "kicker": "",
+    "print_headline": "Musk Re-enters Politics After Truce With Trump"
+   },
+   "_id": "nyt://article/340aea15-2c8f-5b4e-a339-2f7113856a46",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk at Charlie Kirk\u2019s memorial service in September. On Tuesday, he attended a formal dinner that President Trump held for Crown Prince Mohammed bin Salman of Saudi Arabia.",
+    "credit": "Kenny Holston/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/18/multimedia/pol-musk-trump1-bwgm/pol-musk-trump1-bwgm-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/18/multimedia/pol-musk-trump1-bwgm/pol-musk-trump1-bwgm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Politics",
+   "print_page": "16",
+   "print_section": "A",
+   "pub_date": "2025-11-18T20:52:54Z",
+   "section_name": "U.S.",
+   "snippet": "Having struck an uneasy truce with the president, Elon Musk is starting to make political appearances again, and his allies are planning a DOGE reunion party.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/340aea15-2c8f-5b4e-a339-2f7113856a46",
+   "web_url": "https://www.nytimes.com/2025/11/18/us/politics/elon-musk-politics-trump-doge.html",
+   "word_count": 1216
+  },
+  {
+   "abstract": "Neros, a company founded in 2023 by former teenage drone racers, won a coveted Army contract and is gaining popularity in the defense sector.",
+   "byline": {
+    "original": "By Farah Stockman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The 20-Somethings Who Raised $121 Million to Build Military Drones",
+    "kicker": "",
+    "print_headline": "Joystick Jockeys Land the Army"
+   },
+   "_id": "nyt://article/6bc5afd0-b1e0-5410-b730-4c5df6f3156e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Drones (Pilotless Planes)",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Defense Contracts",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Russian Invasion of Ukraine (2022)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Defense and Military Forces",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Factories and Manufacturing",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Entrepreneurship",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Defense Department",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "DJI Innovations",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Neros Inc",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Sequoia Capital",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "United States Army",
+     "rank": 14
+    },
+    {
+     "name": "Organization",
+     "value": "United States Marine Corps",
+     "rank": 15
+    },
+    {
+     "name": "Location",
+     "value": "Alaska",
+     "rank": 16
+    },
+    {
+     "name": "Location",
+     "value": "El Segundo (Los Angeles, Calif)",
+     "rank": 17
+    },
+    {
+     "name": "Location",
+     "value": "Indiana",
+     "rank": 18
+    },
+    {
+     "name": "Location",
+     "value": "Ukraine",
+     "rank": 19
+    },
+    {
+     "name": "Location",
+     "value": "Shenzhen (China)",
+     "rank": 20
+    }
+   ],
+   "multimedia": {
+    "caption": "Soren Monroe-Anderson, left, and Olaf Hichwa, the founders of Neros, a drone manufacturer, at the company\u2019s offices in El Segundo, Calif.",
+    "credit": "Gabriella Angotti-Jones for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/07/multimedia/00biz-drone-wunderkinds-01-jhbk/00biz-drone-wunderkinds-01-jhbk-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/07/multimedia/00biz-drone-wunderkinds-01-jhbk/00biz-drone-wunderkinds-01-jhbk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-11-10T17:25:52Z",
+   "section_name": "Business",
+   "snippet": "Neros, a company founded in 2023 by former teenage drone racers, won a coveted Army contract and is gaining popularity in the defense sector.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/6bc5afd0-b1e0-5410-b730-4c5df6f3156e",
+   "web_url": "https://www.nytimes.com/2025/11/10/business/neros-military-drones.html",
+   "word_count": 1425
+  },
+  {
+   "abstract": "David Sacks, the Trump administration\u2019s A.I. and crypto czar, has helped formulate policies that aid his Silicon Valley friends and many of his own tech investments.",
+   "byline": {
+    "original": "By Cecilia Kang, Tripp Mickle, Ryan Mac, David Yaffe-Bellany and Theodore Schleifer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Silicon Valley\u2019s Man in the White House Is Benefiting Himself and His Friends",
+    "kicker": "",
+    "print_headline": "Trump\u2019s A.I. and Crypto Czar Benefits Himself and His Allies"
+   },
+   "_id": "nyt://article/556003c4-7b0c-5029-af4a-a132b755db72",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Sacks, David O",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Ethics and Official Misconduct",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Podcasts",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Personal Profile",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Huang, Jen-Hsun",
+     "rank": 14
+    },
+    {
+     "name": "Organization",
+     "value": "Craft Ventures LLC",
+     "rank": 15
+    },
+    {
+     "name": "Title",
+     "value": "All-In (Radio Program)",
+     "rank": 16
+    },
+    {
+     "name": "Organization",
+     "value": "BitGo Inc",
+     "rank": 17
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 18
+    },
+    {
+     "name": "Organization",
+     "value": "Palantir Technologies",
+     "rank": 19
+    },
+    {
+     "name": "Organization",
+     "value": "PayPal",
+     "rank": 20
+    },
+    {
+     "name": "Location",
+     "value": "United Arab Emirates",
+     "rank": 21
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Mark Harris",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/23/business/00sacks/00sacks-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/23/business/00sacks/00sacks-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-11-30T10:00:14Z",
+   "section_name": "Technology",
+   "snippet": "David Sacks, the Trump administration\u2019s A.I. and crypto czar, has helped formulate policies that aid his Silicon Valley friends and many of his own tech investments.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/556003c4-7b0c-5029-af4a-a132b755db72",
+   "web_url": "https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html",
+   "word_count": 2730
+  },
+  {
+   "abstract": "We go to meet one family in Colombia.",
+   "byline": {
+    "original": "By Sam Sifton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Effects of the Boat Strikes",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/406a979f-0a96-5c25-9c5a-6b4acc5e956d",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "US Strikes on Alleged Drug Traffickers (2025- )",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Smuggling",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "International Relations",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Targeted Killings",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Colombia",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Drug Abuse and Traffic",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Fishermen arriving to the beach at the end of the day in Santa Marta.",
+    "credit": "Federico Rios for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/14/multimedia/14themorning-nl-LEDE-Boat-mcjb/14themorning-nl-LEDE-Boat-mcjb-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/14/multimedia/14themorning-nl-LEDE-Boat-mcjb/14themorning-nl-LEDE-Boat-mcjb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "NYTNow",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-11-14T12:14:00Z",
+   "section_name": "Briefing",
+   "snippet": "We go to meet one family in Colombia.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "briefing",
+   "uri": "nyt://article/406a979f-0a96-5c25-9c5a-6b4acc5e956d",
+   "web_url": "https://www.nytimes.com/2025/11/14/briefing/the-effects-of-the-boat-strikes.html",
+   "word_count": 1827
+  }
+ ]
+}

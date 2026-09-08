@@ -1,0 +1,956 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2026-02",
+ "begin_date": "20260201",
+ "end_date": "20260228",
+ "fetched_at": "2026-09-08T05:18:38.456398+00:00",
+ "hits": 41,
+ "docs": [
+  {
+   "abstract": "The National Labor Relations Board, having accused the company of unfair retaliation in 2024, now says it has no jurisdiction over Elon Musk\u2019s space company.",
+   "byline": {
+    "original": "By Noam Scheiber and Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Top Labor Regulator Dismisses Complaint Against SpaceX",
+    "kicker": "",
+    "print_headline": "U.S. Agency Drops Case Of 8 Fired By SpaceX"
+   },
+   "_id": "nyt://article/86624963-5b0a-509c-8e4f-3fbe08452709",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Labor Relations Board",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Layoffs and Job Reductions",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Labor and Jobs",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Decisions and Verdicts",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Eight SpaceX employees were fired soon after asking the company to distance itself from comments made by Elon Musk, including one in which he made light of accusations of harassment directed at him.",
+    "credit": "Haiyun Jiang/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/02/11/multimedia/11Biz-SpaceX-NLRB-fbwk/11Biz-SpaceX-NLRB-fbwk-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/02/11/multimedia/11Biz-SpaceX-NLRB-fbwk/11Biz-SpaceX-NLRB-fbwk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2026-02-10T18:28:11Z",
+   "section_name": "Business",
+   "snippet": "The National Labor Relations Board, having accused the company of unfair retaliation in 2024, now says it has no jurisdiction over Elon Musk\u2019s space company.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/86624963-5b0a-509c-8e4f-3fbe08452709",
+   "web_url": "https://www.nytimes.com/2026/02/10/business/spacex-nlrb-labor-elon-musk.html",
+   "word_count": 805
+  },
+  {
+   "abstract": "The deal further intermingles Mr. Musk\u2019s companies and creates the most valuable private company on earth.",
+   "byline": {
+    "original": "By Ryan Mac, Kate Conger, Maureen Farrell and Rob Copeland"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Merges SpaceX With His A.I. Start-Up xAI",
+    "kicker": "",
+    "print_headline": "Musk Folds A.I. Start-Up Into SpaceX"
+   },
+   "_id": "nyt://article/33dd7251-7d4a-5646-bc85-cbcfef54c797",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s rocket facility in Boca Chica, Texas.",
+    "credit": "Callaghan O'Hare for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/02/03/multimedia/00biz-spacex-xai-hfo-1-blpc/00biz-spacex-xai-hfo-1-blpc-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/02/03/multimedia/00biz-spacex-xai-hfo-1-blpc/00biz-spacex-xai-hfo-1-blpc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-02-02T21:52:06Z",
+   "section_name": "Technology",
+   "snippet": "The deal further intermingles Mr. Musk\u2019s companies and creates the most valuable private company on earth.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/33dd7251-7d4a-5646-bc85-cbcfef54c797",
+   "web_url": "https://www.nytimes.com/2026/02/02/technology/spacex-xai-deal.html",
+   "word_count": 1434
+  },
+  {
+   "abstract": "The billionaire\u2019s decision to merge his A.I. start-up with his rocket company will test investors\u2019 interest in giant combinations of unalike businesses.",
+   "byline": {
+    "original": "By Kate Conger and Jack Ewing"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Is Betting Another Tech Conglomerate (His) Can Win Over Wall St.",
+    "kicker": "",
+    "print_headline": "Musk Tests Wall St.\u2019s Appetite for Odd Mixtures in a Merger"
+   },
+   "_id": "nyt://article/6209d503-8bd4-570e-95af-815f7c680b5c",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s launchpad near Brownsville, Texas. In addition to rockets and satellites, Elon Musk\u2019s company now includes artificial intelligence and social media businesses. ",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/02/05/multimedia/00biz-spacex-conglomerate-kpgw/00biz-spacex-conglomerate-kpgw-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/02/05/multimedia/00biz-spacex-conglomerate-kpgw/00biz-spacex-conglomerate-kpgw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-02-07T10:02:10Z",
+   "section_name": "Technology",
+   "snippet": "The billionaire\u2019s decision to merge his A.I. start-up with his rocket company will test investors\u2019 interest in giant combinations of unalike businesses.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/6209d503-8bd4-570e-95af-815f7c680b5c",
+   "web_url": "https://www.nytimes.com/2026/02/07/technology/elon-musk-spacex-xai.html",
+   "word_count": 1224
+  },
+  {
+   "abstract": "Elon Musk wants to launch a million satellites, but researchers say global warming is changing the upper atmosphere in ways that makes space junk linger.",
+   "byline": {
+    "original": "By Sachi Kitajima Mulkey"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Sorry, SpaceX: It\u2019s Getting Too Crowded Up There",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/ad8ba06f-a55d-5e94-8739-1a208dd9f367",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Global Warming",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Earth",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Research",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Greenhouse Gas Emissions",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "An Ariane 5 rocket launched from French Guiana last year. Its two satellites joined the roughly 13,000 already in orbit.",
+    "credit": "Jody Amiet/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/02/25/multimedia/00CLI-MUSK-SATELLITES-01-vgbt/00CLI-MUSK-SATELLITES-01-vgbt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/02/25/multimedia/00CLI-MUSK-SATELLITES-01-vgbt/00CLI-MUSK-SATELLITES-01-vgbt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Climate",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-02-26T16:50:52Z",
+   "section_name": "Climate",
+   "snippet": "Elon Musk wants to launch a million satellites, but researchers say global warming is changing the upper atmosphere in ways that makes space junk linger.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ad8ba06f-a55d-5e94-8739-1a208dd9f367",
+   "web_url": "https://www.nytimes.com/2026/02/26/climate/spacex-climate-musk-orbiting-data-centers.html",
+   "word_count": 886
+  },
+  {
+   "abstract": "The combination of SpaceX and xAI will create a rocket-and-A.I. giant. But investors and experts have concerns about the consequences of the deal.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O\u2019Keefe and Ian Mount"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Numbers, and Questions, Behind Musk\u2019s Mega-Merger",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/6222b7e3-5ed5-581d-a1a2-4e7c4b8e9382",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX is now a rocket-launching giant, a dominant force in satellite internet, a money-burning artificial intelligence business and a popular but divisive social media company.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/02/03/multimedia/03db-spacex-kvlh/03db-spacex-kvlh-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/02/03/multimedia/03db-spacex-kvlh/03db-spacex-kvlh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-02-03T13:20:38Z",
+   "section_name": "Business",
+   "snippet": "The combination of SpaceX and xAI will create a rocket-and-A.I. giant. But investors and experts have concerns about the consequences of the deal.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/6222b7e3-5ed5-581d-a1a2-4e7c4b8e9382",
+   "web_url": "https://www.nytimes.com/2026/02/03/business/dealbook/spacex-xai-merger.html",
+   "word_count": 1951
+  },
+  {
+   "abstract": "Humain, which was created by Crown Prince Mohammed bin Salman last year, said it made the investment just before xAI was acquired by SpaceX, Mr. Musk\u2019s rocket company.",
+   "byline": {
+    "original": "By Adam Satariano"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk\u2019s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
+    "kicker": "",
+    "print_headline": "Saudi Firm Has Invested $3 Billion In Musk\u2019s xAI"
+   },
+   "_id": "nyt://article/264b37f5-6cc7-5a8f-9e2b-025ad90a1b52",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Humain",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "Saudi Arabia",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Crown Prince Mohammed bin Salman with Elon Musk at a Saudi Arabia Investment forum at the Kennedy Center in Washington last year.",
+    "credit": "Haiyun Jiang/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/02/18/multimedia/18BIZ-Xai-Humain-jwtb/18BIZ-Xai-Humain-jwtb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/02/18/multimedia/18BIZ-Xai-Humain-jwtb/18BIZ-Xai-Humain-jwtb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2026-02-18T14:35:12Z",
+   "section_name": "Business",
+   "snippet": "Humain, which was created by Crown Prince Mohammed bin Salman last year, said it made the investment just before xAI was acquired by SpaceX, Mr. Musk\u2019s rocket company.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/264b37f5-6cc7-5a8f-9e2b-025ad90a1b52",
+   "web_url": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
+   "word_count": 463
+  },
+  {
+   "abstract": "In a meeting with employees at his company xAI, Mr. Musk revealed a vision for a facility that includes a giant catapult to launch his satellites into space.",
+   "byline": {
+    "original": "By Kate Conger and Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk Wants to Build an A.I. Satellite Factory on the Moon",
+    "kicker": "",
+    "print_headline": "Musk Proposes  New Location  Of A.I. Factory:  The Moon"
+   },
+   "_id": "nyt://article/b6f872fb-f505-538a-99b0-59eee0a978e4",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Factories and Manufacturing",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk told employees of xAI that he plans to put a factory on the moon as a steppingstone to colonizing Mars.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/02/10/multimedia/10BIZ-ELON-XAI-01-qwtz/10BIZ-ELON-XAI-01-qwtz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/02/10/multimedia/10BIZ-ELON-XAI-01-qwtz/10BIZ-ELON-XAI-01-qwtz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2026-02-11T02:04:43Z",
+   "section_name": "Technology",
+   "snippet": "In a meeting with employees at his company xAI, Mr. Musk revealed a vision for a facility that includes a giant catapult to launch his satellites into space.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/b6f872fb-f505-538a-99b0-59eee0a978e4",
+   "web_url": "https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html",
+   "word_count": 669
+  },
+  {
+   "abstract": "The megabillionaire was tied to about 90 companies in the state, which he uses for everything from paying nannies to buying land to supporting Donald Trump\u2019s re-election, according to a Times examination.",
+   "byline": {
+    "original": "By Kirsten Grind, Susanne Craig, Alex Klavens and Leo Dominguez"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk\u2019s Secret Web of Companies in Texas",
+    "kicker": "",
+    "print_headline": "Secret Web of Companies Is Helping Musk Cloak His Spending"
+   },
+   "_id": "nyt://article/8c43e398-8b0a-587b-87e8-1b650aab4b28",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Campaign Finance",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Political Action Committees",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Real Estate and Housing (Residential)",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Privacy",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "America PAC",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Neuralink Corp",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Ad Astra School LLC",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 14
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 15
+    },
+    {
+     "name": "Person",
+     "value": "Gracias, Antonio",
+     "rank": 16
+    },
+    {
+     "name": "Person",
+     "value": "Davis, Steve (Construction Executive)",
+     "rank": 17
+    },
+    {
+     "name": "Person",
+     "value": "Zilis, Shivon",
+     "rank": 18
+    },
+    {
+     "name": "Person",
+     "value": "Birchall, Jared (1974- )",
+     "rank": 19
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 20
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Jordan Vonderhaar for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/02/23/multimedia/00biz-musk-companies-2-02-ctpw/00biz-musk-companies-2-02-ctpw-articleLarge.jpg",
+     "height": 429,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/02/23/multimedia/00biz-musk-companies-2-02-ctpw/00biz-musk-companies-2-02-ctpw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2026-02-27T10:00:35Z",
+   "section_name": "Technology",
+   "snippet": "The megabillionaire was tied to about 90 companies in the state, which he uses for everything from paying nannies to buying land to supporting Donald Trump\u2019s re-election, according to a Times examination.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/8c43e398-8b0a-587b-87e8-1b650aab4b28",
+   "web_url": "https://www.nytimes.com/2026/02/27/technology/elon-musk-companies-texas.html",
+   "word_count": 2375
+  },
+  {
+   "abstract": "The disgraced financier regularly courted tech industry figures not just for their prestige but also for access to promising companies.",
+   "byline": {
+    "original": "By Ryan Mac, Erin Griffith and Matthew Goldstein"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Jeffrey Epstein\u2019s Money Mingled With Silicon Valley Start-Ups",
+    "kicker": "",
+    "print_headline": "Tech Founders Offered Epstein Access to Deals"
+   },
+   "_id": "nyt://article/69ba03ff-cb24-59ca-ba0d-dad21ddfe14d",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Epstein, Jeffrey E (1953- )",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Human Trafficking",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Sex Crimes",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Child Abuse and Neglect",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Prostitution",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Thiel, Peter A",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Palantir Technologies",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Coinbase Inc",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Deutsche Bank AG",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Jawbone",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "Last week\u2019s disclosures of Jeffrey Epstein\u2019s communications offer insight into how he made his money as an investor after his 2008 conviction.",
+    "credit": "Department of Justice, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/02/03/multimedia/Biz-EPSTEIN-DEALFLOW-Epstein-tlvk/Biz-EPSTEIN-DEALFLOW-Epstein-tlvk-articleLarge.jpg",
+     "height": 460,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/02/03/multimedia/Biz-EPSTEIN-DEALFLOW-Epstein-tlvk/Biz-EPSTEIN-DEALFLOW-Epstein-tlvk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2026-02-05T05:00:12Z",
+   "section_name": "Business",
+   "snippet": "The disgraced financier regularly courted tech industry figures not just for their prestige but also for access to promising companies.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/69ba03ff-cb24-59ca-ba0d-dad21ddfe14d",
+   "web_url": "https://www.nytimes.com/2026/02/05/business/epstein-investments-palantir-coinbase-thiel.html",
+   "word_count": 1896
+  },
+  {
+   "abstract": "\u201cA very valuable and profitable company in SpaceX has acquired a cash furnace named xAI.\u201d",
+   "byline": {
+    "original": "By Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Vjeran Pavic, Katie McMurran, Dan Powell, Marion Lozano and Rowan Niemisto"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk\u2019s Mega-Merger + We Test Google\u2019s Project Genie + What\u2019s Next for Moltbook Creator",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/b8e1f976-174b-5716-a0ba-2e09914015c9",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Science and Technology",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Oracle Corporation",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Google Inc",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Moltbook",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Photo Illustration by The New York Times: Photo: Patrick T. Fallon/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/04/podcasts/04hardfork-Spacex-merger/04hardfork-Spacex-merger-articleLarge-v2.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/04/podcasts/04hardfork-Spacex-merger/04hardfork-Spacex-merger-thumbStandard-v2.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Podcasts",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-02-06T12:00:03Z",
+   "section_name": "Podcasts",
+   "snippet": "\u201cA very valuable and profitable company in SpaceX has acquired a cash furnace named xAI.\u201d",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/b8e1f976-174b-5716-a0ba-2e09914015c9",
+   "web_url": "https://www.nytimes.com/2026/02/06/podcasts/hardfork-musk-merger-genie.html",
+   "word_count": 234
+  }
+ ]
+}

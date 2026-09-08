@@ -1,0 +1,92 @@
+{
+ "company": "CoreWeave",
+ "query": "\"CoreWeave\"",
+ "month": "2023-06",
+ "begin_date": "20230601",
+ "end_date": "20230630",
+ "fetched_at": "2026-09-08T04:33:26.114760+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "With the fight over the debt ceiling resolved, investors are turning to other concerns, including inflation and interest rates.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Markets Await Clues for Fed\u2019s Next Move in May Jobs Report",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/12eab1b5-51a8-5b7c-b051-95027551ecec",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Goldman Sachs Group Inc",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Trian Fund Management LP",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Garden, Edward P",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Labor and Jobs",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Supreme Court (US)",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "The May jobs report could influence whether the Fed will raise rates in two weeks.",
+    "credit": "Joe Raedle/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/06/02/multimedia/db02-jobs-report-jqcf/db02-jobs-report-jqcf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/06/02/multimedia/db02-jobs-report-jqcf/db02-jobs-report-jqcf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-06-02T11:45:54Z",
+   "section_name": "Business",
+   "snippet": "With the fight over the debt ceiling resolved, investors are turning to other concerns, including inflation and interest rates.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/12eab1b5-51a8-5b7c-b051-95027551ecec",
+   "web_url": "https://www.nytimes.com/2023/06/02/business/dealbook/jobs-report-fed-rates.html",
+   "word_count": 1724
+  }
+ ]
+}

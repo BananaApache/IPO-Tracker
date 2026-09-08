@@ -1,0 +1,855 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-04",
+ "begin_date": "20250401",
+ "end_date": "20250430",
+ "fetched_at": "2026-09-08T04:54:38.259661+00:00",
+ "hits": 41,
+ "docs": [
+  {
+   "abstract": "After years of NASA and private crews returning to Earth near Florida, the company shifted its landing zone to the West Coast for the private Fram2 mission.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Astronauts Splash Down Off California Coast for the First Time",
+    "kicker": "",
+    "print_headline": "For the First Time, SpaceX Astronauts Splash Down Off California"
+   },
+   "_id": "nyt://article/dc2335f5-804f-55f2-9104-6ba859fdb729",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Location",
+     "value": "California",
+     "rank": 2
+    },
+    {
+     "name": "Location",
+     "value": "Pacific Ocean",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Travel and Vacations",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "The Fram2 mission returned to Earth in the Pacific Ocean on Friday.",
+    "credit": "SpaceX, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04HS-spacex-01-mzlw/04HS-spacex-01-mzlw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04HS-spacex-01-mzlw/04HS-spacex-01-mzlw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "20",
+   "print_section": "A",
+   "pub_date": "2025-04-04T17:27:59Z",
+   "section_name": "Science",
+   "snippet": "After years of NASA and private crews returning to Earth near Florida, the company shifted its landing zone to the West Coast for the private Fram2 mission.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/dc2335f5-804f-55f2-9104-6ba859fdb729",
+   "web_url": "https://www.nytimes.com/2025/04/04/science/spacex-fram2-splashdown-california.html",
+   "word_count": 836
+  },
+  {
+   "abstract": "Chun Wang, a Chinese-born crypto entrepreneur, paid an undisclosed amount for the mission. Some satellites are already in polar orbit, and researchers called it a routine flight.",
+   "byline": {
+    "original": "By Qasim Nauman and Isabella Kwai"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Puts Humans in Orbit Over Earth\u2019s Poles for the First Time",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/265e3530-5170-5b8d-b21b-31e9915f2f61",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Earth",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "Arctic Regions",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "Florida",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "A SpaceX Falcon 9 rocket launching on Monday night in Florida with four private astronauts.",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/01/multimedia/31xp-spacex-wpgm/31xp-spacex-wpgm-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/01/multimedia/31xp-spacex-wpgm/31xp-spacex-wpgm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-04-01T12:54:18Z",
+   "section_name": "World",
+   "snippet": "Chun Wang, a Chinese-born crypto entrepreneur, paid an undisclosed amount for the mission. Some satellites are already in polar orbit, and researchers called it a routine flight.",
+   "source": "The New York Times",
+   "subsection_name": "Asia Pacific",
+   "type_of_material": "News",
+   "uri": "nyt://article/265e3530-5170-5b8d-b21b-31e9915f2f61",
+   "web_url": "https://www.nytimes.com/2025/04/01/world/asia/spacex-rocket-launch.html",
+   "word_count": 504
+  },
+  {
+   "abstract": "The Astrogeology Science Center, which has helped astronauts and robots reach other worlds safely, is facing a substantial number of job reductions.",
+   "byline": {
+    "original": "By Matthew Phelan"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings",
+    "kicker": "",
+    "print_headline": "DOGE Cuts Hobble Experts  In Moon and Mars Landings"
+   },
+   "_id": "nyt://article/b6693ccf-6215-51c5-9f9c-636ca45fabd4",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Research",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Government Employees",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Layoffs and Job Reductions",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Maps",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Astrogeology Science Center",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "United States Geological Survey",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Interior Department",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 14
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 15
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 16
+    }
+   ],
+   "multimedia": {
+    "caption": "Over the decades, the center\u2019s experts have taken a lead role in generating detailed topographical maps of Mars.",
+    "credit": "NASA/JPL-Caltech/ASU",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/11/science/11HS-astrogeology-02/11HS-astrogeology-02-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/11/science/11HS-astrogeology-02/11HS-astrogeology-02-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2025-04-14T14:05:43Z",
+   "section_name": "Science",
+   "snippet": "The Astrogeology Science Center, which has helped astronauts and robots reach other worlds safely, is facing a substantial number of job reductions.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/b6693ccf-6215-51c5-9f9c-636ca45fabd4",
+   "web_url": "https://www.nytimes.com/2025/04/14/science/astrogeology-mars-maps-spacex.html",
+   "word_count": 1113
+  },
+  {
+   "abstract": "It has been a rough patch for Mr. Musk, but he is about to realize a dream for SpaceX, its employees and for himself, his own town on the southern tip of Texas.",
+   "byline": {
+    "original": "By J. David Goodman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "At Elon Musk\u2019s Behest, Voters Cast Ballots for a New Town: Starbase, Texas",
+    "kicker": "",
+    "print_headline": "At Musk\u2019s Behest, Voters Cast Ballots for a New Town: Starbase, Texas"
+   },
+   "_id": "nyt://article/3b2a71fb-5669-5a81-b82c-6a2646cfb067",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "Starbase (Tex)",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Referendums",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Planned Cities and Communities",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The SpaceX facilities in Texas. A few dozen people began to vote on Tuesday on whether to formally launch a new town called Starbase, Texas.",
+    "credit": "Gabriel V. C\u00e1rdenas for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23NAT-MUSK-CITY-01-jqtk/23NAT-MUSK-CITY-01-jqtk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23NAT-MUSK-CITY-01-jqtk/23NAT-MUSK-CITY-01-jqtk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "National",
+   "print_page": "14",
+   "print_section": "A",
+   "pub_date": "2025-04-23T09:03:55Z",
+   "section_name": "U.S.",
+   "snippet": "It has been a rough patch for Mr. Musk, but he is about to realize a dream for SpaceX, its employees and for himself, his own town on the southern tip of Texas.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/3b2a71fb-5669-5a81-b82c-6a2646cfb067",
+   "web_url": "https://www.nytimes.com/2025/04/23/us/elon-musk-town-starbase-texas.html",
+   "word_count": 1286
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Tim Balk"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The U.S. awarded large space contracts to companies owned by Elon Musk and Jeff Bezos.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/be99ede8-a70f-5901-b05d-798727824f5f",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Elon Musk demonstrating a SpaceX test flight in November to President-elect Donald J. Trump and others in Boca Chica, Texas. SpaceX won a large contract announced by the Pentagon on Friday.",
+    "credit": "Pool photo by Brandon Bell",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04trump-news-space-contracts1-vtkj/04trump-news-space-contracts1-vtkj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04trump-news-space-contracts1-vtkj/04trump-news-space-contracts1-vtkj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-04-05T02:50:14Z",
+   "section_name": "U.S.",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/be99ede8-a70f-5901-b05d-798727824f5f",
+   "web_url": "https://www.nytimes.com/live/2025/04/05/us/trump-news-tariffs/the-us-awarded-large-space-contracts-to-companies-owned-by-elon-musk-and-jeff-bezos",
+   "word_count": 435
+  },
+  {
+   "abstract": "Donald Trump has set a new standard for egregious and potentially illegal behavior.",
+   "byline": {
+    "original": "By Steven Rattner"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump\u2019s Biggest Beneficiary: Himself",
+    "kicker": "Guest Essay",
+    "print_headline": "Trump\u2019s Biggest Beneficiary: Himself"
+   },
+   "_id": "nyt://article/e1bc1b18-e341-5845-9d89-b13acaa6749d",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Power (US)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Presidents and Presidency (US)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Corruption (Institutional)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Campaign Finance",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Haik Avanian",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/03/opinion/27rattner-still/27rattner-still-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/03/opinion/27rattner-still/27rattner-still-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "OpEd",
+   "print_page": "26",
+   "print_section": "A",
+   "pub_date": "2025-04-27T10:00:19Z",
+   "section_name": "Opinion",
+   "snippet": "Donald Trump has set a new standard for egregious and potentially illegal behavior.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Op-Ed",
+   "uri": "nyt://article/e1bc1b18-e341-5845-9d89-b13acaa6749d",
+   "web_url": "https://www.nytimes.com/2025/04/27/opinion/trump-crypto-musk-spacex.html",
+   "word_count": 1561
+  },
+  {
+   "abstract": "Elon Musk, and the feelings that working for him can engender, can come between even the closest of pals.",
+   "byline": {
+    "original": "By Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Friendship Divided by Musk",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/bc818287-3509-5e17-bcb8-114aa4649466",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Elections",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2020",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Conspiracy Theories",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Immigration and Emigration",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Davis, Steve (Construction Executive)",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Ellis, Jo (Pilot)",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Gracias, Antonio",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Wallace, Matt (Influencer)",
+     "rank": 13
+    },
+    {
+     "name": "Location",
+     "value": "Maricopa County (Ariz)",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "Steve Davis, left, a longtime Musk lieutenant, and Stephen Richer, who won the 2020 election for recorder of Maricopa County, Ariz.",
+    "credit": "Patrick Fallon/ZUMA Wire, via Alamy Live News; Rebecca Noble for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/09/us/politics/09-pol-on-politics-newsletter-musk-topitem/09-pol-on-politics-newsletter-musk-topitem-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/09/us/politics/09-pol-on-politics-newsletter-musk-topitem/09-pol-on-politics-newsletter-musk-topitem-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Politics",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-04-09T23:35:09Z",
+   "section_name": "U.S.",
+   "snippet": "Elon Musk, and the feelings that working for him can engender, can come between even the closest of pals.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/bc818287-3509-5e17-bcb8-114aa4649466",
+   "web_url": "https://www.nytimes.com/2025/04/09/us/politics/musk-doge-steve-davis.html",
+   "word_count": 1351
+  },
+  {
+   "abstract": "Jared Isaacman, a billionaire entrepreneur who has twice launched to orbit in a SpaceX vehicle, faced pointed questions from senators of both parties before the Senate on Wednesday.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump\u2019s NASA Nominee Questioned Over Moon Plans and Elon Musk",
+    "kicker": "",
+    "print_headline": "Mars Will Be the Top Mission, Trump\u2019s Nominee to Lead NASA Says"
+   },
+   "_id": "nyt://article/f29128a9-49e4-5ac9-a8c3-a4fdfe1f5627",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Cruz, Ted",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Senate",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Jared Isaacman, President Trump\u2019s nominee to lead NASA, on Wednesday.",
+    "credit": "Ken Cedeno/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09HS-NASA-confirmation-new-vcmj/09HS-NASA-confirmation-new-vcmj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09HS-NASA-confirmation-new-vcmj/09HS-NASA-confirmation-new-vcmj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "19",
+   "print_section": "A",
+   "pub_date": "2025-04-09T04:01:04Z",
+   "section_name": "Science",
+   "snippet": "Jared Isaacman, a billionaire entrepreneur who has twice launched to orbit in a SpaceX vehicle, faced pointed questions from senators of both parties before the Senate on Wednesday.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/f29128a9-49e4-5ac9-a8c3-a4fdfe1f5627",
+   "web_url": "https://www.nytimes.com/2025/04/09/science/nasa-jared-isaacman-confirmation.html",
+   "word_count": 1103
+  },
+  {
+   "abstract": "The spacecraft are the online giant\u2019s entry into beaming wireless service from space, but the company has much to do before it can compete with SpaceX\u2019s Starlink.",
+   "byline": {
+    "original": "By Karen Weise and Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Amazon Launches First 27 Project Kuiper Internet Satellites",
+    "kicker": "",
+    "print_headline": "Project Kuiper Satellites Launched by Amazon "
+   },
+   "_id": "nyt://article/027dd9f6-4009-56a8-8c2b-c69cb62c838e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Kuiper Systems (Amazon.com Inc)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "United Launch Alliance",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "A U.L.A. Atlas V lifts off on Monday, carrying 27 Amazon internet satellites.",
+    "credit": "Joe Skipper/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28HS-kuiper-launch02-jlqb/28HS-kuiper-launch02-jlqb-articleLarge.jpg",
+     "height": 392,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28HS-kuiper-launch02-jlqb/28HS-kuiper-launch02-jlqb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "24",
+   "print_section": "A",
+   "pub_date": "2025-04-28T20:08:42Z",
+   "section_name": "Science",
+   "snippet": "The spacecraft are the online giant\u2019s entry into beaming wireless service from space, but the company has much to do before it can compete with SpaceX\u2019s Starlink.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/027dd9f6-4009-56a8-8c2b-c69cb62c838e",
+   "web_url": "https://www.nytimes.com/2025/04/28/science/amazon-kuiper-launch-ula.html",
+   "word_count": 1070
+  },
+  {
+   "abstract": "DOGE once demanded that federal employees list five accomplishments each week. Here are Elon Musk\u2019s from his time in Washington.",
+   "byline": {
+    "original": "By Lisa Lerer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "5 Things Musk Accomplished With Trump",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/f2907d53-d336-53b2-aa8d-a8d01507aae8",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Elections",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Republican Party",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "A bust in honor of Elon Musk in Brownsville, Texas, was recently vandalized.",
+    "credit": "Gabriel V. C\u00e1rdenas for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23-pol-on-politics1-gjqc/23-pol-on-politics1-gjqc-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23-pol-on-politics1-gjqc/23-pol-on-politics1-gjqc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Politics",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-04-23T23:04:18Z",
+   "section_name": "U.S.",
+   "snippet": "DOGE once demanded that federal employees list five accomplishments each week. Here are Elon Musk\u2019s from his time in Washington.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/f2907d53-d336-53b2-aa8d-a8d01507aae8",
+   "web_url": "https://www.nytimes.com/2025/04/23/us/politics/elon-musk-trump-doge-tesla.html",
+   "word_count": 1016
+  }
+ ]
+}

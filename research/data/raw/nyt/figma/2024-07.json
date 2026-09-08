@@ -1,0 +1,127 @@
+{
+ "company": "Figma",
+ "query": "\"Figma\"",
+ "month": "2024-07",
+ "begin_date": "20240701",
+ "end_date": "20240731",
+ "fetched_at": "2026-09-08T04:55:38.192490+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "The S&P 500 winning streak rolled on after the Fed chair made encouraging comments about inflation and the state of the labor market.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Powell Cheers Markets Looking for Signs on Rate Cuts",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/095b28ae-f832-5cee-9fbd-e02ca1e19bc7",
+   "keywords": [],
+   "multimedia": {
+    "caption": "The markets liked what Jay Powell, the Fed chair, had to say on Day 1 of his Capitol Hill testimony.",
+    "credit": "Cheriss May for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/10/multimedia/10db-powell-mkgc/10db-powell-mkgc-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/10/multimedia/10db-powell-mkgc/10db-powell-mkgc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-07-10T11:54:48Z",
+   "section_name": "Business",
+   "snippet": "The S&P 500 winning streak rolled on after the Fed chair made encouraging comments about inflation and the state of the labor market.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/095b28ae-f832-5cee-9fbd-e02ca1e19bc7",
+   "web_url": "https://www.nytimes.com/2024/07/10/business/dealbook/powell-fed-rate-cuts.html",
+   "word_count": 1820
+  },
+  {
+   "abstract": "Fear of being seen as circumventing an open nomination process is one reason that some backers have not yet publicly endorsed the vice president.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why Some Donors Are Holding Back on Endorsing Harris (for Now)",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/a4909041-c429-58a4-a841-f35008f0c534",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Bloomberg, Michael R",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Harris, Kamala D",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Khosla, Vinod",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Pelosi, Nancy",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Jeffries, Hakeem",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Schumer, Charles E",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Vice President Kamala Harris has secured the backing of most leading Democrats and big donors, but some worry that going too fast could backfire with voters. ",
+    "credit": "Erin Schaff/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/23/multimedia/db23-Kamala-Harris-wfml/db23-Kamala-Harris-wfml-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/23/multimedia/db23-Kamala-Harris-wfml/db23-Kamala-Harris-wfml-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-07-23T12:15:20Z",
+   "section_name": "Business",
+   "snippet": "Fear of being seen as circumventing an open nomination process is one reason that some backers have not yet publicly endorsed the vice president.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/a4909041-c429-58a4-a841-f35008f0c534",
+   "web_url": "https://www.nytimes.com/2024/07/23/business/dealbook/harris-donors-endorsements.html",
+   "word_count": 1894
+  }
+ ]
+}

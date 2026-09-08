@@ -1,0 +1,835 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2024-09",
+ "begin_date": "20240901",
+ "end_date": "20240930",
+ "fetched_at": "2026-09-08T04:37:50.142144+00:00",
+ "hits": 32,
+ "docs": [
+  {
+   "abstract": "The SpaceX capsule, whose crew was led by the billionaire Jared Isaacman, splashed down near the Gulf of Mexico early Sunday.",
+   "byline": {
+    "original": "By Yan Zhuang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Polaris Dawn Astronauts Return to Earth After First Private Spacewalk",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/281a6752-fa45-5d0b-85aa-7363df6f5ecb",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "Polaris Dawn launched Tuesday morning from NASA\u2019s Kennedy Space Center in Florida.",
+    "credit": "Craig Bailey/USA Today Network",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/15/multimedia/15xp-spacex/15xp-spacex-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/15/multimedia/15xp-spacex/15xp-spacex-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-09-15T07:47:48Z",
+   "section_name": "U.S.",
+   "snippet": "The SpaceX capsule, whose crew was led by the billionaire Jared Isaacman, splashed down near the Gulf of Mexico early Sunday.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/281a6752-fa45-5d0b-85aa-7363df6f5ecb",
+   "web_url": "https://www.nytimes.com/2024/09/15/us/spacex-polaris-dawn-landing.html",
+   "word_count": 444
+  },
+  {
+   "abstract": "Two astronauts \u2014 one American, one Russian \u2014 are headed to the International Space Station with two empty seats for crewmates who are already in orbit.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Launches Mission to Bring Back Starliner Astronauts",
+    "kicker": "",
+    "print_headline": "SpaceX Launches Mission to Retrieve Starliner\u2019s Crew From Space Station"
+   },
+   "_id": "nyt://article/32112eba-d880-5734-ae2d-38902e1abaee",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Roscosmos",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Williams, Sunita L",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Wilmore, Barry E (Butch) (1962- )",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Hague, Nick (1975- )",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Gorbunov, Aleksandr (Astronaut)",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Aleksandr Gorbunov, left, and Nick Hague arriving at Cape Canaveral, Fla., to prepare for the Crew-9 mission on Sept. 21.",
+    "credit": "Miguel J. Rodr\u00edguez Carrillo/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/28/multimedia/28spacex-launch-03-zvbp/28spacex-launch-03-zvbp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/28/multimedia/28spacex-launch-03-zvbp/28spacex-launch-03-zvbp-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "21",
+   "print_section": "A",
+   "pub_date": "2024-09-28T12:00:10Z",
+   "section_name": "Science",
+   "snippet": "Two astronauts \u2014 one American, one Russian \u2014 are headed to the International Space Station with two empty seats for crewmates who are already in orbit.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/32112eba-d880-5734-ae2d-38902e1abaee",
+   "web_url": "https://www.nytimes.com/2024/09/28/science/spacex-launch-nasa.html",
+   "word_count": 1085
+  },
+  {
+   "abstract": "The mission is taking people farther from Earth than anyone has traveled since the end of NASA\u2019s Apollo moon missions.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Polaris Dawn Astronauts Launch on Ambitious Private Mission",
+    "kicker": "",
+    "print_headline": "4 Astronauts Take Off on SpaceX Mission of Firsts"
+   },
+   "_id": "nyt://article/ae54e2c8-fea6-540b-b9ee-4041d7b586a2",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Kennedy Space Center",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "St Jude Children's Research Hospital",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "The spacecraft for the Polaris Dawn mission lifting off from Kennedy Space Center in Cape Canaveral, Fla., on Tuesday.",
+    "credit": "Chandan Khanna/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/10/multimedia/10polaris-dawn/10polaris-dawn-launch-jwpk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/10/multimedia/10polaris-dawn/10polaris-dawn-launch-jwpk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "21",
+   "print_section": "A",
+   "pub_date": "2024-09-10T04:01:16Z",
+   "section_name": "Science",
+   "snippet": "The mission is taking people farther from Earth than anyone has traveled since the end of NASA\u2019s Apollo moon missions.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ae54e2c8-fea6-540b-b9ee-4041d7b586a2",
+   "web_url": "https://www.nytimes.com/2024/09/10/science/spacex-polaris-dawn-launch-spacewalk.html",
+   "word_count": 857
+  },
+  {
+   "abstract": "Jared Isaacman, the billionaire leading the Polaris Dawn mission, and Sarah Gillis, a SpaceX engineer, exited and re-entered their spacecraft in a test of commercial space technologies.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "First Private Spacewalk in SpaceX Capsule Achieves New Milestone",
+    "kicker": "",
+    "print_headline": "First Private Spacewalk Achieves a Milestone For Musk\u2019s Mars Vision"
+   },
+   "_id": "nyt://article/4e18dcf1-14aa-544a-924e-ca6a30ab88a5",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Protective Clothing and Gear",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Gillis, Sarah",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Poteet, Scott",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Menon, Anna",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Jared Isaacman began his spacewalk during the first ever private spacewalk on Thursday.",
+    "credit": "SpaceX",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/11/multimedia/11polaris-dawn-spacewalk-plbq/11polaris-dawn-spacewalk-plbq-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/11/multimedia/11polaris-dawn-spacewalk-plbq/11polaris-dawn-spacewalk-plbq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2024-09-12T01:01:17Z",
+   "section_name": "Science",
+   "snippet": "Jared Isaacman, the billionaire leading the Polaris Dawn mission, and Sarah Gillis, a SpaceX engineer, exited and re-entered their spacecraft in a test of commercial space technologies.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4e18dcf1-14aa-544a-924e-ca6a30ab88a5",
+   "web_url": "https://www.nytimes.com/2024/09/11/science/spacex-polaris-dawn-astronauts-spacewalk.html",
+   "word_count": 1076
+  },
+  {
+   "abstract": "After launching early on Tuesday, the billionaire Jared Isaacman and his crew traveled to altitudes not visited by any astronaut since the Apollo moon missions of the 1960s and \u201970s.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Polaris Dawn Astronauts Reach Record High Orbit Above Earth",
+    "kicker": "",
+    "print_headline": "Polaris Dawn\u2019s Civilian Astronauts Prepare for Their Walk in Space"
+   },
+   "_id": "nyt://article/a1e05819-d19c-5f2e-8131-8f20677023b5",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Records and Achievements",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "A view from SpaceX\u2019s Crew Dragon Skywalker spacewalk platform released on Tuesday.",
+    "credit": "SpaceX",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/10/climate/10polaris-dawn-launch-new/10polaris-dawn-launch-new-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/10/climate/10polaris-dawn-launch-new/10polaris-dawn-launch-new-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "17",
+   "print_section": "A",
+   "pub_date": "2024-09-11T01:47:31Z",
+   "section_name": "Science",
+   "snippet": "After launching early on Tuesday, the billionaire Jared Isaacman and his crew traveled to altitudes not visited by any astronaut since the Apollo moon missions of the 1960s and \u201970s.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a1e05819-d19c-5f2e-8131-8f20677023b5",
+   "web_url": "https://www.nytimes.com/2024/09/10/science/polaris-dawn-spacex-orbit-astronauts.html",
+   "word_count": 831
+  },
+  {
+   "abstract": "The capsule, which returned without astronauts, and other space programs at Boeing have suffered many delays and cost overruns.",
+   "byline": {
+    "original": "By Niraj Chokshi"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Starliner\u2019s Troubles Are Latest Setback for Boeing\u2019s Space Business",
+    "kicker": "",
+    "print_headline": "Starliner\u2019s Woes Are Latest Setback For Boeing\u2019s Spaceflight Business"
+   },
+   "_id": "nyt://article/f40e5394-116c-5d46-85a9-90b9d3eebd21",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Boeing Company",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Airlines and Airplanes",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Aviation Accidents, Safety and Disasters",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Boeing 737 Max Groundings and Safety Concerns (2019)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "United Launch Alliance",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "The June trip of Boeing\u2019s Starliner to the International Space Station was supposed to be the final step in certifying that the capsule was ready to make the voyage annually.",
+    "credit": "NASA, via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/05/multimedia/00boeing-space-02-fqkz/00boeing-space-02-fqkz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/05/multimedia/00boeing-space-02-fqkz/00boeing-space-02-fqkz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "15",
+   "print_section": "A",
+   "pub_date": "2024-09-07T14:06:38Z",
+   "section_name": "Business",
+   "snippet": "The capsule, which returned without astronauts, and other space programs at Boeing have suffered many delays and cost overruns.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/f40e5394-116c-5d46-85a9-90b9d3eebd21",
+   "web_url": "https://www.nytimes.com/2024/09/07/business/boeing-starliner-nasa-spacex.html",
+   "word_count": 1299
+  },
+  {
+   "abstract": "Their fast-evolving political friendship has become a potential minefield, as Mr. Musk\u2019s sprawling businesses may present conflicts of interest if Mr. Trump is elected in November.",
+   "byline": {
+    "original": "By Ryan Mac, Theodore Schleifer and Maggie Haberman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Elon Musk Is Influencing Donald Trump",
+    "kicker": "",
+    "print_headline": "Musk\u2019s Ability To Sway Trump Carries Pitfalls"
+   },
+   "_id": "nyt://article/6397f0b8-eeac-5dc5-bba6-c02e4fa30875",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 14
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Trade Commission",
+     "rank": 15
+    },
+    {
+     "name": "Organization",
+     "value": "Justice Department",
+     "rank": 16
+    },
+    {
+     "name": "Organization",
+     "value": "Securities and Exchange Commission",
+     "rank": 17
+    }
+   ],
+   "multimedia": {
+    "caption": "Former President Donald J. Trump said he would name Elon Musk the head of a new government efficiency commission if he was elected in November. Mr. Trump is pictured at a SpaceX event with Mr. Musk in 2020.",
+    "credit": "Alex Brandon/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/05/multimedia/MUSK-TRUMP-2-02-cbkv/MUSK-TRUMP-2-02-cbkv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/05/multimedia/MUSK-TRUMP-2-02-cbkv/MUSK-TRUMP-2-02-cbkv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-09-06T16:21:13Z",
+   "section_name": "Technology",
+   "snippet": "Their fast-evolving political friendship has become a potential minefield, as Mr. Musk\u2019s sprawling businesses may present conflicts of interest if Mr. Trump is elected in November.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/6397f0b8-eeac-5dc5-bba6-c02e4fa30875",
+   "web_url": "https://www.nytimes.com/2024/09/06/technology/elon-musk-donald-trump-influence.html",
+   "word_count": 1214
+  },
+  {
+   "abstract": "The satellite internet service controlled by Elon Musk is refusing to comply with a court order to block his social network, X, regulators said.",
+   "byline": {
+    "original": "By Jack Nicas"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk\u2019s Starlink Defies Order to Block X in Brazil",
+    "kicker": "",
+    "print_headline": "Starlink Defies Court Order to Block X As Musk Stands His Ground in Brazil"
+   },
+   "_id": "nyt://article/208c2f6a-924d-5d1e-a03f-996695ffc330",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Location",
+     "value": "Brazil",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Moraes, Alexandre de (1968- )",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Rumors and Misinformation",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Hate Speech",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Assets, Frozen",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Starlink, the satellite-internet service controlled by Elon Musk, has 250,000 customers in Brazil.",
+    "credit": "Amir Hamja/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/01/multimedia/00brazil-x-lbvp/00brazil-x-lbvp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/01/multimedia/00brazil-x-lbvp/00brazil-x-lbvp-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "9",
+   "print_section": "A",
+   "pub_date": "2024-09-02T03:43:47Z",
+   "section_name": "World",
+   "snippet": "The satellite internet service controlled by Elon Musk is refusing to comply with a court order to block his social network, X, regulators said.",
+   "source": "The New York Times",
+   "subsection_name": "Americas",
+   "type_of_material": "News",
+   "uri": "nyt://article/208c2f6a-924d-5d1e-a03f-996695ffc330",
+   "web_url": "https://www.nytimes.com/2024/09/01/world/americas/elon-musk-brazil-starlink-x.html",
+   "word_count": 1063
+  },
+  {
+   "abstract": "A Brazilian Supreme Court justice said that because Elon Musk controlled both X and Starlink, one company was responsible for the fines of the other.",
+   "byline": {
+    "original": "By Jack Nicas"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Brazilian Court Makes One Musk Company Pay Fines of Another",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/019cc577-cf26-51e6-aba9-14c984f884cc",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Fines (Penalties)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Assets, Frozen",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Supreme Federal Court (Brazil)",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Moraes, Alexandre de (1968- )",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Brazil",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "A Starlink antenna in a village of the Marubo Indigenous people, deep in the Brazilian Amazon.",
+    "credit": "Victor Moriyama for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/02/multimedia/13brazil/02brazil-court-bwmj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/02/multimedia/13brazil/02brazil-court-bwmj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-09-13T20:10:24Z",
+   "section_name": "World",
+   "snippet": "A Brazilian Supreme Court justice said that because Elon Musk controlled both X and Starlink, one company was responsible for the fines of the other.",
+   "source": "The New York Times",
+   "subsection_name": "Americas",
+   "type_of_material": "News",
+   "uri": "nyt://article/019cc577-cf26-51e6-aba9-14c984f884cc",
+   "web_url": "https://www.nytimes.com/2024/09/13/world/americas/brazil-musk-x-starlink.html",
+   "word_count": 416
+  },
+  {
+   "abstract": "Plus, will Taylor Swift\u2019s endorsement affect the U.S. election?",
+   "byline": {
+    "original": "By Gaya Gupta"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Friday Briefing: U.S. May Let Ukraine Use Long-range Weapons",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/dd6ff074-a77c-5581-b290-85917e015dfb",
+   "keywords": [],
+   "multimedia": {
+    "caption": "The aftermath of a Russian missile strike on a sports complex in Kharkiv, Ukraine, this month.",
+    "credit": "David Guttenfelder for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/12/multimedia/13ambriefing-asia-ukraine/13ambriefing-asia-ukraine-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/12/multimedia/13ambriefing-asia-ukraine/13ambriefing-asia-ukraine-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "NYTNow",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-09-12T21:03:14Z",
+   "section_name": "Briefing",
+   "snippet": "Plus, will Taylor Swift\u2019s endorsement affect the U.S. election?",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "briefing",
+   "uri": "nyt://article/dd6ff074-a77c-5581-b290-85917e015dfb",
+   "web_url": "https://www.nytimes.com/2024/09/12/briefing/ukraine-election-spacewalk.html",
+   "word_count": 1218
+  }
+ ]
+}

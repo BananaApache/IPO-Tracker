@@ -1,0 +1,163 @@
+{
+ "company": "Circle Internet",
+ "query": "\"Circle\" \"stablecoin\"",
+ "month": "2025-05",
+ "begin_date": "20250501",
+ "end_date": "20250531",
+ "fetched_at": "2026-09-08T05:26:26.569004+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "The White House would like some control of U.S. Steel if it approves its sale to Nippon Steel. Such deals could alter foreign investment in the United States.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Danielle Kaye and Vivienne Walt"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Allure (and Complications) of Trump\u2019s \u2018Golden Shares\u2019",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/b1e8635f-5177-5287-8884-d9903cca1fe7",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Nippon Steel Corporation",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "United States Steel Corporation",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Protectionism (Trade)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Nationalization of Industry",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Shareholder Rights and Activism",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Foreign Investments",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Could the United States begin demanding more \u201cgolden shares\u201d to exert further control over strategic companies?",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28db-trump-kftz/28db-trump-kftz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28db-trump-kftz/28db-trump-kftz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-28T11:55:00Z",
+   "section_name": "Business",
+   "snippet": "The White House would like some control of U.S. Steel if it approves its sale to Nippon Steel. Such deals could alter foreign investment in the United States.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/b1e8635f-5177-5287-8884-d9903cca1fe7",
+   "web_url": "https://www.nytimes.com/2025/05/28/business/dealbook/us-steel-golden-share-us-investments.html",
+   "word_count": 1828
+  },
+  {
+   "abstract": "The carmaker denied a report that its board had explored finding a successor to Elon Musk. But even if he sticks around, he and the company face big challenges.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch, Edmund Lee and Colby Smith"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Much Time Will Musk Devote to Tesla?",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/0ee1b945-180b-549e-91c0-ea7e43671c43",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Denholm, Robyn",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk joked yesterday that he often wears multiple hats, as in multiple roles. Can he devote the time needed to fixing Tesla?",
+    "credit": "Pete Marovich for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01db-newsletter-musk-fvcl/01db-newsletter-musk-fvcl-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01db-newsletter-musk-fvcl/01db-newsletter-musk-fvcl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-01T12:25:41Z",
+   "section_name": "Business",
+   "snippet": "The carmaker denied a report that its board had explored finding a successor to Elon Musk. But even if he sticks around, he and the company face big challenges.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/0ee1b945-180b-549e-91c0-ea7e43671c43",
+   "web_url": "https://www.nytimes.com/2025/05/01/business/dealbook/tesla-musk-ceo.html",
+   "word_count": 2221
+  }
+ ]
+}

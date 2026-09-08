@@ -1,0 +1,10 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2023-08",
+ "begin_date": "20230801",
+ "end_date": "20230831",
+ "fetched_at": "2026-09-08T04:39:26.166502+00:00",
+ "hits": 0,
+ "docs": []
+}

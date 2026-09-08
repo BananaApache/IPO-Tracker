@@ -1,0 +1,92 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2023-11",
+ "begin_date": "20231101",
+ "end_date": "20231130",
+ "fetched_at": "2026-09-08T04:36:50.128134+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The Law and Justice party tried to reshape the country via the arts. Now that it appears set to lose office, its critics are split over how to move on.",
+   "byline": {
+    "original": "By Alex Marshall"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Poland\u2019s Art World Awaits a Culture War Counteroffensive",
+    "kicker": "",
+    "print_headline": "When a Regime Hangs Its Politics  On Museum Walls"
+   },
+   "_id": "nyt://article/3d114193-5ac0-59df-acde-980146f5540b",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Museums",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Art",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Civic Coalition (Poland)",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Law and Justice (Poland)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Museum of the Second World War",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Ujazdowski Castle Center for Contemporary Art",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Poland",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Glinski, Piotr",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Piotr Glinski, Poland\u2019s culture minister, at the opening of an exhibition on Germany\u2019s actions in Poland in World War II, in Warsaw in 2022.",
+    "credit": "Attila Husejnow/SOPA Images, via Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/11/08/arts/06poland-culture/06poland-culture-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/11/08/arts/06poland-culture/06poland-culture-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Culture",
+   "print_page": "3",
+   "print_section": "C",
+   "pub_date": "2023-11-06T16:09:40Z",
+   "section_name": "Arts",
+   "snippet": "The Law and Justice party tried to reshape the country via the arts. Now that it appears set to lose office, its critics are split over how to move on.",
+   "source": "The New York Times",
+   "subsection_name": "Art & Design",
+   "type_of_material": "News",
+   "uri": "nyt://article/3d114193-5ac0-59df-acde-980146f5540b",
+   "web_url": "https://www.nytimes.com/2023/11/06/arts/design/poland-culture-election.html",
+   "word_count": 1107
+  }
+ ]
+}

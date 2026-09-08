@@ -1,0 +1,537 @@
+{
+ "from": "2025-09-01",
+ "to": "2025-09-30",
+ "fetched_at": "2026-09-08T04:23:06.640515+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2025-09-30",
+   "exchange": "NYSE",
+   "name": "Bain Capital GSS Investment Corp.",
+   "numberOfShares": 40000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BCSSU",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2025-09-30",
+   "exchange": "NASDAQ Global",
+   "name": "BTC Development Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BDCIU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-09-30",
+   "exchange": "NASDAQ Capital",
+   "name": "StoneBridge Acquisition II Corp",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "APACU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2025-09-29",
+   "exchange": "NYSE MKT",
+   "name": "KNOREX LTD.",
+   "numberOfShares": 3000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "KNRX",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2025-09-29",
+   "exchange": null,
+   "name": "Modern Mining Technology Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MDRN",
+   "totalSharesValue": 29999997.75
+  },
+  {
+   "date": "2025-09-29",
+   "exchange": null,
+   "name": "Cansince Innovations Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KASH",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2025-09-29",
+   "exchange": null,
+   "name": "Sharewow Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SUWA",
+   "totalSharesValue": 30187500
+  },
+  {
+   "date": "2025-09-26",
+   "exchange": "NYSE",
+   "name": "FutureCrest Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FCRSU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2025-09-26",
+   "exchange": "NYSE",
+   "name": "American Exceptionalism Acquisition Corp. A",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AEXA",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2025-09-26",
+   "exchange": "NASDAQ Capital",
+   "name": "Megan Holdings Ltd.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MGN",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-09-26",
+   "exchange": null,
+   "name": "YCS Group Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2025-09-26",
+   "exchange": "NASDAQ Capital",
+   "name": "Rise Smart Group Holdings Ltd",
+   "numberOfShares": 1800000,
+   "price": "4.00",
+   "status": "expected",
+   "symbol": "RSHL",
+   "totalSharesValue": 8280000
+  },
+  {
+   "date": "2025-09-25",
+   "exchange": "NASDAQ Global",
+   "name": "Drugs Made In America Acquisition II Corp.",
+   "numberOfShares": 50000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DMIIU",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2025-09-25",
+   "exchange": "NASDAQ Global",
+   "name": "Emmis Acquisition Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EMISU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2025-09-25",
+   "exchange": null,
+   "name": "Seahawk Recycling Holdings, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SEAH",
+   "totalSharesValue": 13800000
+  },
+  {
+   "date": "2025-09-22",
+   "exchange": null,
+   "name": "CSC Collective Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CSC",
+   "totalSharesValue": 8625000
+  },
+  {
+   "date": "2025-09-22",
+   "exchange": null,
+   "name": "Creative Future Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CFACU",
+   "totalSharesValue": 69000000
+  },
+  {
+   "date": "2025-09-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "Pattern Group Inc.",
+   "numberOfShares": 21428572,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "PTRN",
+   "totalSharesValue": 300000008
+  },
+  {
+   "date": "2025-09-19",
+   "exchange": "NASDAQ Global",
+   "name": "Galata Acquisition Corp. II",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LATAU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-09-19",
+   "exchange": "NASDAQ Capital",
+   "name": "Platinum Analytics Cayman Ltd",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "PLTS",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2025-09-19",
+   "exchange": null,
+   "name": "JOSS Realty REIT, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JOSS",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2025-09-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "Netskope Inc",
+   "numberOfShares": 47800000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "NTSK",
+   "totalSharesValue": 908200000
+  },
+  {
+   "date": "2025-09-18",
+   "exchange": null,
+   "name": "Guident Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GDNT",
+   "totalSharesValue": 19210224.6
+  },
+  {
+   "date": "2025-09-17",
+   "exchange": "NYSE",
+   "name": "WaterBridge Infrastructure LLC",
+   "numberOfShares": 31700000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "WBI",
+   "totalSharesValue": 634000000
+  },
+  {
+   "date": "2025-09-17",
+   "exchange": "NYSE",
+   "name": "StubHub Holdings, Inc.",
+   "numberOfShares": 34042553,
+   "price": "23.50",
+   "status": "priced",
+   "symbol": "STUB",
+   "totalSharesValue": 799999996
+  },
+  {
+   "date": "2025-09-17",
+   "exchange": null,
+   "name": "Yuanxiang Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "YXCA",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2025-09-16",
+   "exchange": "NASDAQ Global",
+   "name": "Chenghe Acquisition III Co.",
+   "numberOfShares": 11000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CHECU",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2025-09-16",
+   "exchange": "NYSE MKT",
+   "name": "ChowChow Cloud International Holdings Ltd",
+   "numberOfShares": 2600000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CHOW",
+   "totalSharesValue": 10400000
+  },
+  {
+   "date": "2025-09-16",
+   "exchange": null,
+   "name": "Global Development Engineering Co Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GDEL",
+   "totalSharesValue": 18750000
+  },
+  {
+   "date": "2025-09-15",
+   "exchange": null,
+   "name": "Elite Performance Holding Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-09-15",
+   "exchange": null,
+   "name": "AMATUHI HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AMTU",
+   "totalSharesValue": 6900000
+  },
+  {
+   "date": "2025-09-12",
+   "exchange": "NASDAQ Global",
+   "name": "OTG Acquisition Corp. I",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OTGAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-09-12",
+   "exchange": "NASDAQ Global",
+   "name": "BLACK ROCK COFFEE BAR, INC.",
+   "numberOfShares": 14705882,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "BRCB",
+   "totalSharesValue": 294117640
+  },
+  {
+   "date": "2025-09-12",
+   "exchange": "NYSE",
+   "name": "Via Transportation, Inc.",
+   "numberOfShares": 10714285,
+   "price": "46.00",
+   "status": "priced",
+   "symbol": "VIA",
+   "totalSharesValue": 492857110
+  },
+  {
+   "date": "2025-09-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "Legence Corp.",
+   "numberOfShares": 26000000,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "LGN",
+   "totalSharesValue": 728000000
+  },
+  {
+   "date": "2025-09-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "Gemini Space Station, Inc.",
+   "numberOfShares": 15178572,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "GEMI",
+   "totalSharesValue": 425000016
+  },
+  {
+   "date": "2025-09-12",
+   "exchange": "NASDAQ Capital",
+   "name": "Hang Feng Technology Innovation Co., Ltd.",
+   "numberOfShares": 1375000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "FOFO",
+   "totalSharesValue": 5500000
+  },
+  {
+   "date": "2025-09-12",
+   "exchange": null,
+   "name": "Lendbuzz Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LBZZ",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2025-09-12",
+   "exchange": null,
+   "name": "ANGIE HOLDINGS Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AGIE",
+   "totalSharesValue": 10350000
+  },
+  {
+   "date": "2025-09-11",
+   "exchange": "NASDAQ Global",
+   "name": "LB PHARMACEUTICALS INC",
+   "numberOfShares": 19000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "LBRX",
+   "totalSharesValue": 285000000
+  },
+  {
+   "date": "2025-09-11",
+   "exchange": "NASDAQ Global Select",
+   "name": "Figure Technology Solutions, Inc.",
+   "numberOfShares": 31500000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "FIGR",
+   "totalSharesValue": 787500000
+  },
+  {
+   "date": "2025-09-11",
+   "exchange": null,
+   "name": "SunHo BioTech Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2025-09-10",
+   "exchange": "NASDAQ Global",
+   "name": "Trailblazer Acquisition Corp.",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BLZRU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2025-09-10",
+   "exchange": "NYSE",
+   "name": "Klarna Group plc",
+   "numberOfShares": 34311274,
+   "price": "40.00",
+   "status": "priced",
+   "symbol": "KLAR",
+   "totalSharesValue": 1372450960
+  },
+  {
+   "date": "2025-09-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Talon Capital Corp.",
+   "numberOfShares": 22500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TLNCU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2025-09-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Zenta Group Co Ltd",
+   "numberOfShares": 1500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ZGM",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2025-09-08",
+   "exchange": null,
+   "name": "Barentsz Capital Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BRKK",
+   "totalSharesValue": 7875000
+  },
+  {
+   "date": "2025-09-05",
+   "exchange": null,
+   "name": "LORENZO DEVELOPMENTS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LCDC",
+   "totalSharesValue": 13800000
+  },
+  {
+   "date": "2025-09-04",
+   "exchange": "NASDAQ Global",
+   "name": "Spring Valley Acquisition Corp. III",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SVACU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-09-04",
+   "exchange": "NASDAQ Global",
+   "name": "GSR IV Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GSRFU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-09-04",
+   "exchange": "NASDAQ Capital",
+   "name": "Fitness Champs Holdings Ltd",
+   "numberOfShares": 3750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "FCHL",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2025-09-04",
+   "exchange": null,
+   "name": "Nihon Shintatsu Co., Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JSTT",
+   "totalSharesValue": 8625000
+  },
+  {
+   "date": "2025-09-04",
+   "exchange": "NASDAQ Capital",
+   "name": "FG Holdings Ltd",
+   "numberOfShares": 2000000,
+   "price": "4.00-5.00",
+   "status": "expected",
+   "symbol": "FGO",
+   "totalSharesValue": 11500000
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2025-09",
+ "begin_date": "20250901",
+ "end_date": "20250930",
+ "fetched_at": "2026-09-08T05:35:50.601431+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "The company\u2019s shares rose more than 14 percent on the first day of trading, a sign of the health of the public markets and a willingness of investors to bet on new companies.",
+   "byline": {
+    "original": "By Michael J. de la Merced"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Klarna\u2019s Market Debut Shows Wall Street\u2019s Renewed Appetite for I.P.O.s",
+    "kicker": "",
+    "print_headline": "Klarna\u2019s Market Debut Shows a Renewed Appetite for I.P.O.s"
+   },
+   "_id": "nyt://article/9fd10815-a2d6-52ce-bdb1-9aaeccc925a8",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Sequoia Capital",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "Sebastian Siemiatkowski, the chief executive of the Swedish fintech company Klarna, at the New York Stock Exchange on Wednesday. ",
+    "credit": "Brendan McDermid/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/11/multimedia/11db-klarna-tpbh/11db-klarna-tpbh-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/11/multimedia/11db-klarna-tpbh/11db-klarna-tpbh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-09-11T17:31:43Z",
+   "section_name": "Business",
+   "snippet": "The company\u2019s shares rose more than 14 percent on the first day of trading, a sign of the health of the public markets and a willingness of investors to bet on new companies.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/9fd10815-a2d6-52ce-bdb1-9aaeccc925a8",
+   "web_url": "https://www.nytimes.com/2025/09/11/business/dealbook/klarna-ipo-stock-market.html",
+   "word_count": 615
+  },
+  {
+   "abstract": "The pros and cons of buying travel on a layaway plan.",
+   "byline": {
+    "original": "By Elaine Glusac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Travel Now, Pay Later? What to Know Before You Splurge.",
+    "kicker": "Frugal Traveler",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/dd236e3c-bd07-53f2-9e81-91f33966299f",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Travel and Vacations",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Affirm Inc",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Afterpay Touch Group Ltd",
+     "rank": 7
+    },
+    {
+     "name": "Keyword",
+     "value": "Buy Now Pay Later",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Wenjia Tang",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/25/travel/00frugal-BNPL-illo/00frugal-BNPL-illo-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/25/travel/00frugal-BNPL-illo/00frugal-BNPL-illo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Travel",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-09-29T09:02:31Z",
+   "section_name": "Travel",
+   "snippet": "The pros and cons of buying travel on a layaway plan.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/dd236e3c-bd07-53f2-9e81-91f33966299f",
+   "web_url": "https://www.nytimes.com/2025/09/29/travel/buy-now-pay-later-frugal-traveler.html",
+   "word_count": 1277
+  }
+ ]
+}

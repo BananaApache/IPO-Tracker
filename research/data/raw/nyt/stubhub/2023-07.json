@@ -1,0 +1,67 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2023-07",
+ "begin_date": "20230701",
+ "end_date": "20230731",
+ "fetched_at": "2026-09-08T04:37:14.152903+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The magazine\u2019s Ethicist columnist on the fairness of selling a scarce good at an exorbitant price.",
+   "byline": {
+    "original": "By Kwame Anthony Appiah"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Can I Resell My Taylor Swift Concert Tickets for Thousands of Dollars?",
+    "kicker": "The Ethicist",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/03e1c319-34d2-51aa-8d52-2571a1717117",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Ethics (Personal)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Ticket Scalping",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Illustration by Tomi Um",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/07/09/magazine/09mag-ethicist-online/09mag-ethicist-online-articleLarge.jpg",
+     "height": 336,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/07/09/magazine/09mag-ethicist-online/09mag-ethicist-online-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Magazine",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-07-05T15:19:52Z",
+   "section_name": "Magazine",
+   "snippet": "The magazine\u2019s Ethicist columnist on the fairness of selling a scarce good at an exorbitant price.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/03e1c319-34d2-51aa-8d52-2571a1717117",
+   "web_url": "https://www.nytimes.com/2023/07/05/magazine/concert-ticket-resale-ethics.html",
+   "word_count": 1447
+  }
+ ]
+}

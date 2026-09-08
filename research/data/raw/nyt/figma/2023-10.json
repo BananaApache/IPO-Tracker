@@ -1,0 +1,178 @@
+{
+ "company": "Figma",
+ "query": "\"Figma\"",
+ "month": "2023-10",
+ "begin_date": "20231001",
+ "end_date": "20231031",
+ "fetched_at": "2026-09-08T04:34:02.179732+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Approval from British regulators for the $69 billion takeover was the last hurdle left for the tech giant, which saw off serious challenges to the transaction.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Microsoft Beats the Antitrust Odds on Its Activision Deal",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/1497aa86-f5cc-5b0c-98ec-bfa6f7248963",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computer and Video Games",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Activision Blizzard Inc",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Competition and Markets Authority (Great Britain)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Microsoft Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Trade Commission",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Khan, Lina",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Adobe Systems Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Cisco Systems Inc",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Figma Inc",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Splunk Inc",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Ubisoft Entertainment",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "Microsoft overcame sometimes daunting odds in its efforts to buy Activision Blizzard.",
+    "credit": "Mike Segar/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/10/13/multimedia/13db-newsletter-msft-plmc/13db-newsletter-msft-plmc-articleLarge.jpg",
+     "height": 398,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/10/13/multimedia/13db-newsletter-msft-plmc/13db-newsletter-msft-plmc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-10-13T11:41:28Z",
+   "section_name": "Business",
+   "snippet": "Approval from British regulators for the $69 billion takeover was the last hurdle left for the tech giant, which saw off serious challenges to the transaction.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/1497aa86-f5cc-5b0c-98ec-bfa6f7248963",
+   "web_url": "https://www.nytimes.com/2023/10/13/business/dealbook/microsoft-activision-antitrust.html",
+   "word_count": 1822
+  },
+  {
+   "abstract": "Exxon Mobil is reportedly in talks to buy Pioneer Natural Resources, a major shale driller, in what would be the biggest takeover of the year.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Mega-Deal May Await in the Oil Patch",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/7e285d3f-7d99-5938-9e4b-bc1a19010e85",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Oil (Petroleum) and Gasoline",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Exxon Mobil Corp",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Pioneer Natural Resources Company",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Shale",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "A potential takeover of the shale oil giant Pioneer would be Exxon Mobil\u2019s biggest deal in 25 years.",
+    "credit": "DeSean McClinton-Holland for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/10/06/multimedia/06db-newsletter-xomstation-cftb/06db-newsletter-xomstation-cftb-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/10/06/multimedia/06db-newsletter-xomstation-cftb/06db-newsletter-xomstation-cftb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-10-06T11:53:14Z",
+   "section_name": "Business",
+   "snippet": "Exxon Mobil is reportedly in talks to buy Pioneer Natural Resources, a major shale driller, in what would be the biggest takeover of the year.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/7e285d3f-7d99-5938-9e4b-bc1a19010e85",
+   "web_url": "https://www.nytimes.com/2023/10/06/business/dealbook/exxon-pioneer-deal.html",
+   "word_count": 1766
+  }
+ ]
+}

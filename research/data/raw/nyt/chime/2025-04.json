@@ -1,0 +1,117 @@
+{
+ "company": "Chime",
+ "query": "\"Chime\" \"banking\"",
+ "month": "2025-04",
+ "begin_date": "20250401",
+ "end_date": "20250430",
+ "fetched_at": "2026-09-08T05:21:50.438684+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "These businesses, including e-commerce platforms and payment processors, are pulling back on public offering plans and bracing for pain.",
+   "byline": {
+    "original": "By Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Tariffs Are Hitting Digital Commerce Companies",
+    "kicker": "",
+    "print_headline": "Tariffs Cause E-Commerce To Retrench"
+   },
+   "_id": "nyt://article/1c01325d-e120-5a8d-87f5-9dc6d80ef91c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "E-Commerce",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Mobile Commerce and Payments",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Chime (Bancorp Bank)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Shopify Inc",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Stripe Inc",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "StubHub",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "Klarna, the digital payments company, has paused its initial public offering plans after President Trump announced sweeping new tariffs.",
+    "credit": "Supantha Mukherjee/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-ecommerce-lvcw/04biz-ecommerce-lvcw-articleLarge.jpg",
+     "height": 398,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-ecommerce-lvcw/04biz-ecommerce-lvcw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "2",
+   "print_section": "B",
+   "pub_date": "2025-04-04T23:02:57Z",
+   "section_name": "Technology",
+   "snippet": "These businesses, including e-commerce platforms and payment processors, are pulling back on public offering plans and bracing for pain.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/1c01325d-e120-5a8d-87f5-9dc6d80ef91c",
+   "web_url": "https://www.nytimes.com/2025/04/04/technology/tariffs-digital-commerce.html",
+   "word_count": 762
+  }
+ ]
+}

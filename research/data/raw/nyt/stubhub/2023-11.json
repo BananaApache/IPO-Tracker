@@ -1,0 +1,72 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2023-11",
+ "begin_date": "20231101",
+ "end_date": "20231130",
+ "fetched_at": "2026-09-08T04:46:50.192250+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The Biden administration has faced backlash from small-business owners who called the new I.R.S. reporting requirements confusing and onerous.",
+   "byline": {
+    "original": "By Alan Rappeport"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Users of Venmo, Cash App and Other Digital Wallets Get a Tax Reprieve",
+    "kicker": "",
+    "print_headline": "Users of Etsy, PayPal, Venmo and Like Get Tax Reprieve, Again"
+   },
+   "_id": "nyt://article/b31e8e29-5871-54c7-b6d0-baef33a5b3c6",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Small Business",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Mobile Commerce and Payments",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Internal Revenue Service",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Taxation",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "The Internal Revenue Service is delaying enforcement of a contentious tax policy that would require users of digital wallets and e-commerce platforms to start reporting small transactions.",
+    "credit": "Julia Nikhinson for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/11/21/multimedia/21dc-tax-kctq/21dc-tax-kctq-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/11/21/multimedia/21dc-tax-kctq/21dc-tax-kctq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2023-11-21T18:00:08Z",
+   "section_name": "Business",
+   "snippet": "The Biden administration has faced backlash from small-business owners who called the new I.R.S. reporting requirements confusing and onerous.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/b31e8e29-5871-54c7-b6d0-baef33a5b3c6",
+   "web_url": "https://www.nytimes.com/2023/11/21/business/irs-venmo-cash-app-taxes.html",
+   "word_count": 858
+  }
+ ]
+}

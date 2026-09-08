@@ -1,0 +1,10 @@
+{
+  "built_at": "2026-09-08T14:52:43.641378+00:00",
+  "rows": {
+    "cohort_comparison": 15,
+    "company_panels": 6581,
+    "relative_time": 5017,
+    "post_listing": 1131
+  },
+  "note": "Plotting reads only these files. Regenerate with the network off."
+}

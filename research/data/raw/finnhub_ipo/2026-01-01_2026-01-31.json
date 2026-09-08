@@ -1,0 +1,617 @@
+{
+ "from": "2026-01-01",
+ "to": "2026-01-31",
+ "fetched_at": "2026-09-08T04:23:14.651208+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2026-01-30",
+   "exchange": "NASDAQ Global",
+   "name": "M Evo Global Acquisition Corp II",
+   "numberOfShares": 27000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MEVOU",
+   "totalSharesValue": 270000000
+  },
+  {
+   "date": "2026-01-30",
+   "exchange": "NASDAQ Global",
+   "name": "Muzero Acquisition Corp",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MUZEU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2026-01-30",
+   "exchange": "NASDAQ Global",
+   "name": "VenHub Global, Inc.",
+   "numberOfShares": 15547669,
+   "price": null,
+   "status": "priced",
+   "symbol": "VHUB",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2026-01-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Newbridge Acquisition Ltd",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NBRGU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2026-01-29",
+   "exchange": null,
+   "name": "GalaxyEdge Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-01-29",
+   "exchange": null,
+   "name": "Bounty Minerals, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-01-29",
+   "exchange": "NASDAQ Global Select",
+   "name": "PicS N.V.",
+   "numberOfShares": 22857143,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "PICS",
+   "totalSharesValue": 434285717
+  },
+  {
+   "date": "2026-01-29",
+   "exchange": "NYSE MKT",
+   "name": "United Acquisition Corp. I",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "UACU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2026-01-29",
+   "exchange": "NYSE",
+   "name": "Yellowstone Midco Holdings II, LLC",
+   "numberOfShares": 18500000,
+   "price": "34.00",
+   "status": "priced",
+   "symbol": "YSS",
+   "totalSharesValue": 629000000
+  },
+  {
+   "date": "2026-01-29",
+   "exchange": "NASDAQ",
+   "name": "Xsolla SPAC 1",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "XSLLU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-01-29",
+   "exchange": "NASDAQ Global Select",
+   "name": "Ethos Technologies Inc.",
+   "numberOfShares": 10526315,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "LIFE",
+   "totalSharesValue": 199999985
+  },
+  {
+   "date": "2026-01-29",
+   "exchange": "NYSE",
+   "name": "K2 Capital Acquisition Corp",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KTWOU",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2026-01-28",
+   "exchange": "NASDAQ Global",
+   "name": "KRAKacquisition Corp",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KRAQU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2026-01-28",
+   "exchange": "NASDAQ Global",
+   "name": "Space Asset Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SAAQU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-01-28",
+   "exchange": "NASDAQ Global",
+   "name": "Public Policy Holding Company, Inc.",
+   "numberOfShares": 4150000,
+   "price": "12.25",
+   "status": "priced",
+   "symbol": "PPHC",
+   "totalSharesValue": 50837500
+  },
+  {
+   "date": "2026-01-28",
+   "exchange": null,
+   "name": "V Capital Consulting Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "VCCG",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2026-01-27",
+   "exchange": null,
+   "name": "SFIDA X, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-01-27",
+   "exchange": "NASDAQ Global",
+   "name": "Virtuix Holdings Inc.",
+   "numberOfShares": 34213618,
+   "price": null,
+   "status": "priced",
+   "symbol": "VTIX",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2026-01-27",
+   "exchange": "NASDAQ Global",
+   "name": "GigCapital9 Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GIXXU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2026-01-27",
+   "exchange": "NASDAQ Global",
+   "name": "Mountain Lake Acquisition Corp. II",
+   "numberOfShares": 31320000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MLAAU",
+   "totalSharesValue": 313200000
+  },
+  {
+   "date": "2026-01-27",
+   "exchange": null,
+   "name": "SWOL Holdings Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SWOL",
+   "totalSharesValue": 25875000
+  },
+  {
+   "date": "2026-01-27",
+   "exchange": null,
+   "name": "JOYBYTE HOLDINGS Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2026-01-26",
+   "exchange": null,
+   "name": "XINXU COPPER INDUSTRY TECHNOLOGY Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-01-26",
+   "exchange": null,
+   "name": "Option Therapeutics Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "OPTN",
+   "totalSharesValue": 31363632
+  },
+  {
+   "date": "2026-01-26",
+   "exchange": null,
+   "name": "XINXU COPPER INDUSTRY TECHNOLOGY Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "XXC",
+   "totalSharesValue": 20700000
+  },
+  {
+   "date": "2026-01-23",
+   "exchange": null,
+   "name": "Ga Sai Tong Enterprise Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-01-23",
+   "exchange": "NASDAQ Global",
+   "name": "Archimedes Tech SPAC Partners III Co.",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ARCIU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2026-01-23",
+   "exchange": "NYSE MKT",
+   "name": "Legato Merger Corp. IV",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LEGOU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-01-23",
+   "exchange": "NASDAQ Global Select",
+   "name": "EquipmentShare.com Inc",
+   "numberOfShares": 30500000,
+   "price": "24.50",
+   "status": "priced",
+   "symbol": "EQPT",
+   "totalSharesValue": 747250000
+  },
+  {
+   "date": "2026-01-23",
+   "exchange": "NASDAQ Global",
+   "name": "Helix Acquisition Corp. III",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HLXC",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2026-01-23",
+   "exchange": "NASDAQ Global",
+   "name": "Praetorian Acquisition Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PTORU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2026-01-23",
+   "exchange": null,
+   "name": "Ga Sai Tong Enterprise Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GST",
+   "totalSharesValue": 21000000
+  },
+  {
+   "date": "2026-01-23",
+   "exchange": null,
+   "name": "Starrygazey Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MARH",
+   "totalSharesValue": 21562500
+  },
+  {
+   "date": "2026-01-22",
+   "exchange": "NASDAQ Global",
+   "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc.",
+   "numberOfShares": 26100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ALOVU",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2026-01-22",
+   "exchange": "NYSE",
+   "name": "BITGO HOLDINGS, INC.",
+   "numberOfShares": 11821595,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "BTGO",
+   "totalSharesValue": 212788710
+  },
+  {
+   "date": "2026-01-22",
+   "exchange": null,
+   "name": "Unitrend Entertainment Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "INHI",
+   "totalSharesValue": 21562500
+  },
+  {
+   "date": "2026-01-21",
+   "exchange": null,
+   "name": "Unitrend Entertainment Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-01-21",
+   "exchange": "NASDAQ Global",
+   "name": "X3 Acquisition Corp. Ltd.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "XCBEU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-01-20",
+   "exchange": null,
+   "name": "DT House Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-01-20",
+   "exchange": null,
+   "name": "KWF Group Holding Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KWF",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2026-01-20",
+   "exchange": null,
+   "name": "Medikra Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MDKR",
+   "totalSharesValue": 31363638
+  },
+  {
+   "date": "2026-01-20",
+   "exchange": null,
+   "name": "DT House Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DTDT",
+   "totalSharesValue": 31625000
+  },
+  {
+   "date": "2026-01-16",
+   "exchange": "NASDAQ Global",
+   "name": "Infinite Eagle Acquisition Corp.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IEAGU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2026-01-16",
+   "exchange": "NASDAQ Global",
+   "name": "FG Imperii Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FGIIU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2026-01-16",
+   "exchange": null,
+   "name": "DMINT, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DMNT",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2026-01-16",
+   "exchange": null,
+   "name": "EvoNexus Group LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "EVON",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2026-01-16",
+   "exchange": null,
+   "name": "Red Wisdom Creation Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 35937500
+  },
+  {
+   "date": "2026-01-16",
+   "exchange": null,
+   "name": "Yi Feng Holdings Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "YIFE",
+   "totalSharesValue": 25875000
+  },
+  {
+   "date": "2026-01-14",
+   "exchange": null,
+   "name": "SIBO HOLDING Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-01-14",
+   "exchange": "NASDAQ Global",
+   "name": "OneIM Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OIMAU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2026-01-14",
+   "exchange": null,
+   "name": "SIBO HOLDING Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SIBO",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2026-01-13",
+   "exchange": null,
+   "name": "EvoNexus Group LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-01-13",
+   "exchange": "NYSE MKT",
+   "name": "Green Circle Decarbonize Technology Ltd",
+   "numberOfShares": 2500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "GCDT",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2026-01-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "Aktis Oncology, Inc.",
+   "numberOfShares": 17650000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "AKTS",
+   "totalSharesValue": 317700000
+  },
+  {
+   "date": "2026-01-09",
+   "exchange": "NASDAQ Global",
+   "name": "Lafayette Digital Acquisition Corp. I",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ZKPU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2026-01-08",
+   "exchange": "NASDAQ Global",
+   "name": "Bleichroeder Acquisition Corp. II",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BBCQU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2026-01-08",
+   "exchange": "NYSE MKT",
+   "name": "BUDA JUICE, INC.",
+   "numberOfShares": 2666667,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "BUDA",
+   "totalSharesValue": 20000003
+  },
+  {
+   "date": "2026-01-07",
+   "exchange": "NASDAQ Global",
+   "name": "Soren Acquisition Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SORNU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2026-01-06",
+   "exchange": null,
+   "name": "Altech Digital Co., Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2026-01-06",
+   "exchange": "NASDAQ Global",
+   "name": "Art Technology Acquisition Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ARTCU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2026-01-06",
+   "exchange": "NYSE",
+   "name": "Black Spade Acquisition III Co",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BIIIU",
+   "totalSharesValue": 150000000
+  }
+ ]
+}

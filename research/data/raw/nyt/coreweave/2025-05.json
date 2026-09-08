@@ -1,0 +1,112 @@
+{
+ "company": "CoreWeave",
+ "query": "\"CoreWeave\"",
+ "month": "2025-05",
+ "begin_date": "20250501",
+ "end_date": "20250531",
+ "fetched_at": "2026-09-08T05:28:38.467150+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The president\u2019s Middle East visit produced multibillion-dollar technology investments by the Saudis and Emiratis. But they face political pushback at home.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Inside the Rift Over Trump\u2019s A.I. Deals in the Gulf",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/dd1eb937-cb2c-5fbd-8c1f-c31a3a7daf05",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Huang, Jen-Hsun",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Altman, Samuel H",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "Abu Dhabi (United Arab Emirates)",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "Saudi Arabia",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "Qatar",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Advanced Micro Devices Inc.",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Micron Technology Inc",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Mubadala Investment Co",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "President Trump is set to wrap up his Middle East trip today, a visit that produced a slew of business deals.",
+    "credit": "Brian Snyder/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/16/multimedia/16db-trump-tlqk/16db-trump-tlqk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/16/multimedia/16db-trump-tlqk/16db-trump-tlqk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-05-16T12:06:41Z",
+   "section_name": "Business",
+   "snippet": "The president\u2019s Middle East visit produced multibillion-dollar technology investments by the Saudis and Emiratis. But they face political pushback at home.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/dd1eb937-cb2c-5fbd-8c1f-c31a3a7daf05",
+   "web_url": "https://www.nytimes.com/2025/05/16/business/dealbook/trump-nvidia-ai-middle-east.html",
+   "word_count": 1994
+  }
+ ]
+}

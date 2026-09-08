@@ -1,0 +1,102 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2025-11",
+ "begin_date": "20251101",
+ "end_date": "20251130",
+ "fetched_at": "2026-09-08T05:37:14.560004+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "David Tepper, the founder of the $20 billion Appaloosa Management, may have finally cracked the winning code for his flagging N.F.L. team.",
+   "byline": {
+    "original": "By Ken Belson and Maureen Farrell"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Hedge Fund Titan Has a Turnaround Plan (for the Carolina Panthers)",
+    "kicker": "",
+    "print_headline": "Hedge Fund Titan Finds Reasons To Be Bullish On His Panthers"
+   },
+   "_id": "nyt://article/476d8f2c-9955-50da-9885-8868edc8c6d5",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Tepper, David A",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Appaloosa Management",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Personal Profile",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Hedge Funds",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Football",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Carolina Panthers",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "National Football League",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Major League Soccer",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Charlotte FC (Soccer Team)",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "North Carolina",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "David Tepper, attending a September practice, bought the Carolina Panthers in 2018 for a record $2.3 billion.",
+    "credit": "Logan R. Cyrus for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/11/18/multimedia/00BIZ-NFL-TEPPER-bjfz/00BIZ-NFL-TEPPER-bjfz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/11/18/multimedia/00BIZ-NFL-TEPPER-bjfz/00BIZ-NFL-TEPPER-bjfz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "D",
+   "pub_date": "2025-11-23T10:00:08Z",
+   "section_name": "Business",
+   "snippet": "David Tepper, the founder of the $20 billion Appaloosa Management, may have finally cracked the winning code for his flagging N.F.L. team.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/476d8f2c-9955-50da-9885-8868edc8c6d5",
+   "web_url": "https://www.nytimes.com/2025/11/23/business/david-tepper-carolina-panthers.html",
+   "word_count": 1798
+  }
+ ]
+}

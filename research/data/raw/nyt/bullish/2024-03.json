@@ -1,0 +1,168 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2024-03",
+ "begin_date": "20240301",
+ "end_date": "20240331",
+ "fetched_at": "2026-09-08T04:46:26.162839+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Advertisers are sticking with the social media platform, even as the House prepares to vote on a bill to force the company to cut its China ties this week.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Clock Ticks for TikTok",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/53aeac2e-babb-5aa6-ab26-14e015c0f53c",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "TikTok (ByteDance)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Communist Party of China",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Beijing Bytedance Technology Co Ltd",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Advertising and Marketing",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Politics and Government",
+     "rank": 7
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Scalise, Steve",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "TikTok users are lobbying Washington lawmakers to try to derail a bill that could ban the short video app in the U.S.",
+    "credit": "Ore Huiying for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/03/12/multimedia/12db-newsletter-tiktok-cpbq/12db-newsletter-tiktok-cpbq-articleLarge.jpg",
+     "height": 450,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/03/12/multimedia/12db-newsletter-tiktok-cpbq/12db-newsletter-tiktok-cpbq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-03-12T12:17:08Z",
+   "section_name": "Business",
+   "snippet": "Advertisers are sticking with the social media platform, even as the House prepares to vote on a bill to force the company to cut its China ties this week.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/53aeac2e-babb-5aa6-ab26-14e015c0f53c",
+   "web_url": "https://www.nytimes.com/2024/03/12/business/dealbook/tiktok-house-ban.html",
+   "word_count": 1816
+  },
+  {
+   "abstract": "The chipmaker unveiled a new high-speed processor at its developer conference to power an \u201cindustrial revolution,\u201d but its sky-high valuation is coming under scrutiny.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Investors Shrug Off Nvidia\u2019s \u2018A.I. Woodstock\u2019",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/77dcef6d-0f01-5dc9-91cd-bb1c6b528c42",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Novo Nordisk A/S",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Huang, Jen-Hsun",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Jensen Huang, Nvidia\u2019s C.E.O., unveiled the company\u2019s latest A.I. chip yesterday as it hopes to build on its dominance in the sector.",
+    "credit": "Justin Sullivan/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/03/19/multimedia/db19-Nvidia-mfpw/db19-Nvidia-mfpw-articleLarge.jpg",
+     "height": 407,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/03/19/multimedia/db19-Nvidia-mfpw/db19-Nvidia-mfpw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-03-19T12:14:17Z",
+   "section_name": "Business",
+   "snippet": "The chipmaker unveiled a new high-speed processor at its developer conference to power an \u201cindustrial revolution,\u201d but its sky-high valuation is coming under scrutiny.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/77dcef6d-0f01-5dc9-91cd-bb1c6b528c42",
+   "web_url": "https://www.nytimes.com/2024/03/19/business/dealbook/nvidia-ai-woodstock-chips.html",
+   "word_count": 1824
+  }
+ ]
+}

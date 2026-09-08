@@ -1,0 +1,107 @@
+{
+ "company": "CoreWeave",
+ "query": "\"CoreWeave\"",
+ "month": "2024-01",
+ "begin_date": "20240101",
+ "end_date": "20240131",
+ "fetched_at": "2026-09-08T04:50:14.216841+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Chafing at their dependence, Amazon, Google, Meta and Microsoft are racing to cut into Nvidia\u2019s dominant share of the market.",
+   "byline": {
+    "original": "By Cade Metz, Karen Weise and Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Nvidia\u2019s Big Tech Rivals Put Their Own A.I. Chips on the Table",
+    "kicker": "",
+    "print_headline": "Amazon, Google, Meta and Microsoft Are Building Their Own A.I. Chips .... Slowly"
+   },
+   "_id": "nyt://article/287d2d01-dff8-54bb-9c8f-b7b72fffdf0e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Factories and Manufacturing",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Cloud Computing",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Google Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Microsoft Corp",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Huang, Jen-Hsun",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Chris Gash",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/12/07/business/00ai-bigtech-chips/00ai-bigtech-chips-articleLarge.jpg",
+     "height": 358,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/12/07/business/00ai-bigtech-chips/00ai-bigtech-chips-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-01-29T10:00:34Z",
+   "section_name": "Technology",
+   "snippet": "Chafing at their dependence, Amazon, Google, Meta and Microsoft are racing to cut into Nvidia\u2019s dominant share of the market.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/287d2d01-dff8-54bb-9c8f-b7b72fffdf0e",
+   "web_url": "https://www.nytimes.com/2024/01/29/technology/ai-chips-nvidia-amazon-google-microsoft-meta.html",
+   "word_count": 1301
+  }
+ ]
+}

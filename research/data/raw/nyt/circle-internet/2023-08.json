@@ -1,0 +1,77 @@
+{
+ "company": "Circle Internet",
+ "query": "\"Circle\" \"stablecoin\"",
+ "month": "2023-08",
+ "begin_date": "20230801",
+ "end_date": "20230831",
+ "fetched_at": "2026-09-08T04:36:02.157960+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "John Rogers, one of the Wall Street firm\u2019s most influential executives, will hand over his chief of staff role to Russell Horwitz, a onetime deputy.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Goldman Sachs\u2019s C.E.O. Whisperer Takes a Step Back",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/d14c1f51-da16-57a4-a128-e56e1c4a660c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Goldman Sachs Group Inc",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Rogers, John F W",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Horwitz, Russell W",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "Over nearly 25 years, John Rogers amassed considerable influence at Goldman Sachs as its chief of staff.",
+    "credit": "Brendan McDermid/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/08/08/multimedia/08db-newsletter-gsrogers-hjmv/08db-newsletter-gsrogers-hjmv-articleLarge.jpg",
+     "height": 427,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/08/08/multimedia/08db-newsletter-gsrogers-hjmv/08db-newsletter-gsrogers-hjmv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-08-08T12:16:06Z",
+   "section_name": "Business",
+   "snippet": "John Rogers, one of the Wall Street firm\u2019s most influential executives, will hand over his chief of staff role to Russell Horwitz, a onetime deputy.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/d14c1f51-da16-57a4-a128-e56e1c4a660c",
+   "web_url": "https://www.nytimes.com/2023/08/08/business/dealbook/goldman-sachs-rogers-horwitz.html",
+   "word_count": 1755
+  }
+ ]
+}

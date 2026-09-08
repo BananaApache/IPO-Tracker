@@ -1,0 +1,507 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2025-03",
+ "begin_date": "20250301",
+ "end_date": "20250331",
+ "fetched_at": "2026-09-08T05:25:14.529239+00:00",
+ "hits": 6,
+ "docs": [
+  {
+   "abstract": "The ticket reselling site joins the social chat app Discord and the artificial intelligence company CoreWeave in pursuing a public offering.",
+   "byline": {
+    "original": "By Lauren Hirsch and Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "StubHub Eyes Potential I.P.O. as Soon as This Year",
+    "kicker": "",
+    "print_headline": "Ticket Reseller StubHub Eyes Potential I.P.O. For This Year"
+   },
+   "_id": "nyt://article/c0b3918c-32d7-544a-8762-dc2cb6216cf8",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "StubHub",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Mobile Applications",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "A growing number of tech companies appear ready to contemplate public listings, despite market volatility stemming from President Trump\u2019s constant changes to economic policies.",
+    "credit": "John Taggart for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/BIZ-TECH-IPO-sub-mzhv/BIZ-TECH-IPO-sub-mzhv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/06/multimedia/BIZ-TECH-IPO-sub-mzhv/BIZ-TECH-IPO-sub-mzhv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2025-03-06T22:47:47Z",
+   "section_name": "Technology",
+   "snippet": "The ticket reselling site joins the social chat app Discord and the artificial intelligence company CoreWeave in pursuing a public offering.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c0b3918c-32d7-544a-8762-dc2cb6216cf8",
+   "web_url": "https://www.nytimes.com/2025/03/06/technology/figma-stubhub-ipo.html",
+   "word_count": 411
+  },
+  {
+   "abstract": "Two people stand accused of taking hundreds of tickets from StubHub to redirect them to others who resold them, prosecutors said.",
+   "byline": {
+    "original": "By Amanda Holpuch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Hackers Stole $635,000 in Taylor Swift Ticket Scheme, Queens D.A. Says",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/b0caebd2-ef5b-5588-ad67-9b49c3b06420",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Robberies and Thefts",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Ticket Scalping",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Frauds and Swindling",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Cyberattacks and Hackers",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Fans (Persons)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "E-Commerce",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "StubHub",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Swift, Taylor",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "Jamaica (Queens, NY)",
+     "rank": 11
+    },
+    {
+     "name": "Location",
+     "value": "Kingston (Jamaica)",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "Taylor Swift fans attending an Eras Tour concert in Vancouver, Canada, last year.",
+    "credit": "Alana Paterson for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05xp-tickets-cvgk/05xp-tickets-cvgk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05xp-tickets-cvgk/05xp-tickets-cvgk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-05T18:59:16Z",
+   "section_name": "Business",
+   "snippet": "Two people stand accused of taking hundreds of tickets from StubHub to redirect them to others who resold them, prosecutors said.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/b0caebd2-ef5b-5588-ad67-9b49c3b06420",
+   "web_url": "https://www.nytimes.com/2025/03/05/business/taylor-swift-tickets-stolen-stubhub.html",
+   "word_count": 677
+  },
+  {
+   "abstract": "Corporate chiefs see \u201cchaos,\u201d and investors see red as the effect of President Trump\u2019s shifting trade policy begins to weigh on board rooms and trading rooms.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch, Edmund Lee and Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Tariff Tantrum",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/69b916dc-b719-5c6b-bc41-2775387dc309",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Protectionism (Trade)",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trudeau, Justin",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Bessent, Scott",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Commerce Department",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Canada",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Mexico",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "The S&P 500 is on pace for its worst week in two years as tariff tensions intensify.",
+    "credit": "Lucas Jackson/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07db-tariff-tantrum-vhml/07db-tariff-tantrum-vhml-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07db-tariff-tantrum-vhml/07db-tariff-tantrum-vhml-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-03-07T12:07:48Z",
+   "section_name": "Business",
+   "snippet": "Corporate chiefs see \u201cchaos,\u201d and investors see red as the effect of President Trump\u2019s shifting trade policy begins to weigh on board rooms and trading rooms.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/69b916dc-b719-5c6b-bc41-2775387dc309",
+   "web_url": "https://www.nytimes.com/2025/03/07/business/dealbook/trump-tariff-tantrum-markets.html",
+   "word_count": 1856
+  },
+  {
+   "abstract": "The design tech company is exploring a public offering after regulators stymied its $20 billion sale to the software giant Adobe in 2023.",
+   "byline": {
+    "original": "By Lauren Hirsch and Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Figma in Talks With Bankers to Explore an I.P.O. This Year",
+    "kicker": "",
+    "print_headline": "Figma in Talks  With Bankers To Go Public "
+   },
+   "_id": "nyt://article/02fef5ce-1206-5b8d-a1c3-a1130e3ab53c",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Figma Inc",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Cloud Computing",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Software",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Adobe Systems Inc",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Field, Dylan (1992- )",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Dylan Field, Figma\u2019s chief executive, said at a conference last year that the company was on a path to going public.",
+    "credit": "Kimberly White/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07biz-figma-ipo-jlhg/07biz-figma-ipo-jlhg-articleLarge.jpg",
+     "height": 420,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07biz-figma-ipo-jlhg/07biz-figma-ipo-jlhg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-03-07T22:02:15Z",
+   "section_name": "Technology",
+   "snippet": "The design tech company is exploring a public offering after regulators stymied its $20 billion sale to the software giant Adobe in 2023.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/02fef5ce-1206-5b8d-a1c3-a1130e3ab53c",
+   "web_url": "https://www.nytimes.com/2025/03/07/technology/figma-ipo.html",
+   "word_count": 416
+  },
+  {
+   "abstract": "The start-up, which provides the processing power to help develop A.I. systems, faces questions about its debt and the overall economy.",
+   "byline": {
+    "original": "By Eli Tan and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "CoreWeave Disappoints on Opening of Trading",
+    "kicker": "",
+    "print_headline": "A.I. Start-Up Disappoints On Opening Of Trading"
+   },
+   "_id": "nyt://article/04ed2638-fbe9-5722-bb64-03f2472d77cb",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "CoreWeave",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "CoreWeave, which runs data centers that help power giant A.I. systems, raised $1.5 billion in its initial offering, less than the $4 billion that analysts had anticipated.",
+    "credit": "Lucia Vazquez for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/28/multimedia/28biz-coreweave-ipo-hfo-tmbz/28biz-coreweave-ipo-hfo-tmbz-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/28/multimedia/28biz-coreweave-ipo-hfo-tmbz/28biz-coreweave-ipo-hfo-tmbz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-03-28T18:27:48Z",
+   "section_name": "Technology",
+   "snippet": "The start-up, which provides the processing power to help develop A.I. systems, faces questions about its debt and the overall economy.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/04ed2638-fbe9-5722-bb64-03f2472d77cb",
+   "web_url": "https://www.nytimes.com/2025/03/28/technology/coreweave-stock.html",
+   "word_count": 557
+  },
+  {
+   "abstract": "President Trump has been trying to eliminate the tax loophole, which benefits Wall Street, but Congressional Republicans may stand in the way.",
+   "byline": {
+    "original": "By Grady McGregor"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Wants to Kill Carried Interest. Wall Street Will Fight to Keep It.",
+    "kicker": "dealbook newsletter",
+    "print_headline": "Wall Street Is Set to Fight Trump\u2019s Efforts to Kill Carried Interest"
+   },
+   "_id": "nyt://article/cdecf12d-63b6-571f-afd2-01e614aa09d6",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Law and Legislation",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Lobbying and Lobbyists",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Republican Party",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Tax Credits, Deductions and Exemptions",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "President Donald Trump wants to eliminate the carried interest tax loophole.",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/08/multimedia/08db-newsletter-vwbc/08db-newsletter-vwbc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/08/multimedia/08db-newsletter-vwbc/08db-newsletter-vwbc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-03-08T13:11:54Z",
+   "section_name": "Business",
+   "snippet": "President Trump has been trying to eliminate the tax loophole, which benefits Wall Street, but Congressional Republicans may stand in the way.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/cdecf12d-63b6-571f-afd2-01e614aa09d6",
+   "web_url": "https://www.nytimes.com/2025/03/08/business/dealbook/trump-carried-interest.html",
+   "word_count": 2175
+  }
+ ]
+}

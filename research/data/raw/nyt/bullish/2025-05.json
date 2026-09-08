@@ -1,0 +1,137 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2025-05",
+ "begin_date": "20250501",
+ "end_date": "20250531",
+ "fetched_at": "2026-09-08T05:20:02.449689+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The president\u2019s economic policy approach is so far rattling markets, businesses and consumers.",
+   "byline": {
+    "original": "By Tony Romm and Colby Smith"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Pivoting From Tax Cuts to Tariffs, Trump Ignores Economic Warning Signs",
+    "kicker": "",
+    "print_headline": "Pivoting From Tax Cuts to Tariffs, Trump Ignores the Warning Signs"
+   },
+   "_id": "nyt://article/f3754824-0aa4-5539-a47b-ddd1f7101e67",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Taxation",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Tax Credits, Deductions and Exemptions",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "European Union",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Apple Inc",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Income Inequality",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Shopping and Retail",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Behavior",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 15
+    },
+    {
+     "name": "Subject",
+     "value": "National Debt (US)",
+     "rank": 16
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Budget (US)",
+     "rank": 17
+    }
+   ],
+   "multimedia": {
+    "caption": "President Trump has ignored repeated warnings that his agenda could worsen the debt, harm the poor and contribute far less growth than the White House contends.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/05/24/multimedia/24dc-trump-econ-vzwt/24dc-trump-econ-vzwt-articleLarge.jpg",
+     "height": 899,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/05/24/multimedia/24dc-trump-econ-vzwt/24dc-trump-econ-vzwt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-05-24T09:01:48Z",
+   "section_name": "U.S.",
+   "snippet": "The president\u2019s economic policy approach is so far rattling markets, businesses and consumers.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/f3754824-0aa4-5539-a47b-ddd1f7101e67",
+   "web_url": "https://www.nytimes.com/2025/05/24/us/politics/trump-taxes-tariffs-economy.html",
+   "word_count": 1628
+  }
+ ]
+}

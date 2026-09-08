@@ -1,0 +1,82 @@
+{
+ "company": "Cerebras Systems",
+ "query": "\"Cerebras Systems\"",
+ "month": "2026-03",
+ "begin_date": "20260301",
+ "end_date": "20260331",
+ "fetched_at": "2026-09-08T05:39:50.544276+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "A spike in oil prices has roiled stocks and bonds again and threatens to accelerate inflation \u2014 adding pressure on the White House.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O\u2019Keefe, Ian Mount, Grady McGregor and Jessica Testa"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Investors and Trump Face an Iran Dilemma",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/7a9b4b72-6f5c-51ab-ae8d-0447db416988",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "Iran",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Oil (Petroleum) and Gasoline",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Strait of Hormuz",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "A big rise in oil prices has set off another global sell-off in stocks and bonds.",
+    "credit": "Essam Al-Sudani/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/09/multimedia/09db-crude-jfzc/09db-crude-jfzc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/09/multimedia/09db-crude-jfzc/09db-crude-jfzc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-03-09T12:20:11Z",
+   "section_name": "Business",
+   "snippet": "A spike in oil prices has roiled stocks and bonds again and threatens to accelerate inflation \u2014 adding pressure on the White House.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/7a9b4b72-6f5c-51ab-ae8d-0447db416988",
+   "web_url": "https://www.nytimes.com/2026/03/09/business/dealbook/markets-trump-iran.html",
+   "word_count": 1980
+  }
+ ]
+}

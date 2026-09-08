@@ -28,3 +28,14 @@ line-length = 100
 dev = [
     "pytest>=9.1.1",
 ]
+# Research module only (research/). NOT installed by the deployed image, which
+# runs `uv sync --locked --no-dev` and so takes only [project.dependencies].
+# Kept out of the main dependency list on purpose: the API and worker must not
+# grow a pandas/matplotlib dependency for the sake of a notebook.
+research = [
+    "pandas>=2.2",
+    "pyarrow>=17",
+    "matplotlib>=3.9",
+    "jupyterlab>=4.2",
+]
+

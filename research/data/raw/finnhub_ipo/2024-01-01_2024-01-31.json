@@ -1,0 +1,327 @@
+{
+ "from": "2024-01-01",
+ "to": "2024-01-31",
+ "fetched_at": "2026-09-08T04:22:26.617141+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2024-01-31",
+   "exchange": "NASDAQ Global",
+   "name": "FibroBiologics, Inc.",
+   "numberOfShares": 4806226,
+   "price": "30.00",
+   "status": "priced",
+   "symbol": "FBLG",
+   "totalSharesValue": 144186780
+  },
+  {
+   "date": "2024-01-31",
+   "exchange": "NASDAQ Capital",
+   "name": "BioLingus (Cayman) Ltd",
+   "numberOfShares": 360000,
+   "price": "20.00",
+   "status": "expected",
+   "symbol": "SUBL",
+   "totalSharesValue": 8280000
+  },
+  {
+   "date": "2024-01-29",
+   "exchange": "NASDAQ Capital",
+   "name": "Autonomix Medical, Inc.",
+   "numberOfShares": 2234222,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "AMIX",
+   "totalSharesValue": 11171110
+  },
+  {
+   "date": "2024-01-26",
+   "exchange": null,
+   "name": "PSI Group Holdings Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-01-26",
+   "exchange": "NASDAQ Global",
+   "name": "ArriVent Biopharma, Inc.",
+   "numberOfShares": 9722222,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "AVBP",
+   "totalSharesValue": 174999996
+  },
+  {
+   "date": "2024-01-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "BrightSpring Health Services, Inc.",
+   "numberOfShares": 53333334,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "BTSG",
+   "totalSharesValue": 693333342
+  },
+  {
+   "date": "2024-01-26",
+   "exchange": "NASDAQ Capital",
+   "name": "Haoxi Health Technology Ltd",
+   "numberOfShares": 2400000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "HAO",
+   "totalSharesValue": 9600000
+  },
+  {
+   "date": "2024-01-26",
+   "exchange": null,
+   "name": "Semidux (Cayman) Holding Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JIE",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2024-01-26",
+   "exchange": null,
+   "name": "Tesspay Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TPI",
+   "totalSharesValue": 8970000
+  },
+  {
+   "date": "2024-01-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "CG Oncology, Inc.",
+   "numberOfShares": 20000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "CGON",
+   "totalSharesValue": 380000000
+  },
+  {
+   "date": "2024-01-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Planet Image International Ltd",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "YIBO",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2024-01-24",
+   "exchange": "NASDAQ Capital",
+   "name": "SU Group Holdings Ltd",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "SUGP",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2024-01-24",
+   "exchange": "NASDAQ Global",
+   "name": "J-Long Group Ltd",
+   "numberOfShares": 1400000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "JL",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2024-01-22",
+   "exchange": null,
+   "name": "VNG Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-01-22",
+   "exchange": null,
+   "name": "JUHEYING INTELLIGENT TECHNOLOGY LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JHY",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2024-01-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "Joint Stock Co Kaspi.kz",
+   "numberOfShares": 11300000,
+   "price": "92.00",
+   "status": "priced",
+   "symbol": "KSPI",
+   "totalSharesValue": 1039600000
+  },
+  {
+   "date": "2024-01-19",
+   "exchange": "NASDAQ Capital",
+   "name": "JVSPAC Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JVSAU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2024-01-18",
+   "exchange": "NASDAQ Capital",
+   "name": "CCSC Technology International Holdings Ltd",
+   "numberOfShares": 1375000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CCTG",
+   "totalSharesValue": 5500000
+  },
+  {
+   "date": "2024-01-17",
+   "exchange": null,
+   "name": "C3 Bullion, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-01-17",
+   "exchange": null,
+   "name": "BRB Foods Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2024-01-12",
+   "exchange": "NYSE MKT",
+   "name": "Silynxcom Ltd.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "SYNX",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2024-01-11",
+   "exchange": "NYSE",
+   "name": "Smith Douglas Homes Corp.",
+   "numberOfShares": 7692308,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "SDHC",
+   "totalSharesValue": 161538468
+  },
+  {
+   "date": "2024-01-11",
+   "exchange": "NYSE Arca",
+   "name": "Bitwise Bitcoin ETF",
+   "numberOfShares": 0,
+   "price": null,
+   "status": "priced",
+   "symbol": "BITB",
+   "totalSharesValue": 25000
+  },
+  {
+   "date": "2024-01-11",
+   "exchange": "NASDAQ Global",
+   "name": "Valkyrie Bitcoin Fund",
+   "numberOfShares": 0,
+   "price": null,
+   "status": "priced",
+   "symbol": "BRRR",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2024-01-09",
+   "exchange": null,
+   "name": "BLUE ROOM ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-01-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Roma Green Finance Ltd",
+   "numberOfShares": 3075460,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ROMA",
+   "totalSharesValue": 12301840
+  },
+  {
+   "date": "2024-01-09",
+   "exchange": null,
+   "name": "DeerHorse One Zero Eight Group Holding Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LUMA",
+   "totalSharesValue": 4000000
+  },
+  {
+   "date": "2024-01-08",
+   "exchange": null,
+   "name": "Love & Health Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LLLLU",
+   "totalSharesValue": 57500000
+  },
+  {
+   "date": "2024-01-05",
+   "exchange": null,
+   "name": "MCNB Holding Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-01-05",
+   "exchange": null,
+   "name": "Boustead Wavefront Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-01-04",
+   "exchange": null,
+   "name": "Inkstone Feibo Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-01-03",
+   "exchange": null,
+   "name": "Midori Group Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

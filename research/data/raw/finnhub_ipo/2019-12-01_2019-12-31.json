@@ -1,0 +1,217 @@
+{
+ "from": "2019-12-01",
+ "to": "2019-12-31",
+ "fetched_at": "2026-09-08T04:20:48.552462+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2019-12-31",
+   "exchange": null,
+   "name": "GoodBulk Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-12-27",
+   "exchange": null,
+   "name": "Gateway Casinos & Entertainment Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-12-27",
+   "exchange": null,
+   "name": "VALTECH SE",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-12-26",
+   "exchange": null,
+   "name": "GENERATION INCOME PROPERTIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2019-12-20",
+   "exchange": null,
+   "name": "Cirius Therapeutics, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-12-19",
+   "exchange": "NASDAQ Capital",
+   "name": "Monopar Therapeutics",
+   "numberOfShares": 1111112,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "MNPR",
+   "totalSharesValue": 8888896
+  },
+  {
+   "date": "2019-12-19",
+   "exchange": "NYSE MKT",
+   "name": "Indonesia Energy Corp Ltd",
+   "numberOfShares": 1363637,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "INDO",
+   "totalSharesValue": 15000007
+  },
+  {
+   "date": "2019-12-13",
+   "exchange": "NYSE",
+   "name": "ONECONNECT FINANCIAL TECHNOLOGY CO., LTD.",
+   "numberOfShares": 31200000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OCFT",
+   "totalSharesValue": 312000000
+  },
+  {
+   "date": "2019-12-13",
+   "exchange": "NASDAQ Capital",
+   "name": "CIIG Merger Corp.",
+   "numberOfShares": 22500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CIICU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2019-12-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Healthcare Merger Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HCCOU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2019-12-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Sprout Social, Inc.",
+   "numberOfShares": 8823530,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "SPT",
+   "totalSharesValue": 150000010
+  },
+  {
+   "date": "2019-12-13",
+   "exchange": null,
+   "name": "Processa Pharmaceuticals, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25875000
+  },
+  {
+   "date": "2019-12-12",
+   "exchange": "NYSE",
+   "name": "Bill.com Holdings, Inc.",
+   "numberOfShares": 9823529,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "BILL",
+   "totalSharesValue": 216117638
+  },
+  {
+   "date": "2019-12-12",
+   "exchange": "NASDAQ Global",
+   "name": "EHang Holdings Ltd",
+   "numberOfShares": 3200000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "EH",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2019-12-11",
+   "exchange": "NASDAQ Global Select",
+   "name": "XP Inc.",
+   "numberOfShares": 72510641,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "XP",
+   "totalSharesValue": 1957787307
+  },
+  {
+   "date": "2019-12-11",
+   "exchange": "NASDAQ Capital",
+   "name": "LIV Capital Acquisition Corp.",
+   "numberOfShares": 7000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LIVKU",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2019-12-11",
+   "exchange": null,
+   "name": "DUOS TECHNOLOGIES GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 9200000
+  },
+  {
+   "date": "2019-12-09",
+   "exchange": null,
+   "name": "LOHA CO. LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LOHA",
+   "totalSharesValue": 34500004
+  },
+  {
+   "date": "2019-12-06",
+   "exchange": null,
+   "name": "Molecular Data Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MKD",
+   "totalSharesValue": 61870000
+  },
+  {
+   "date": "2019-12-05",
+   "exchange": null,
+   "name": "Scopus Biopharma Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-12-05",
+   "exchange": "NASDAQ Capital",
+   "name": "LMP Automotive Holdings, Inc.",
+   "numberOfShares": 2300000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "LMPX",
+   "totalSharesValue": 11500000
+  }
+ ]
+}

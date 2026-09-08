@@ -1,0 +1,363 @@
+{
+ "company": "Firefly Aerospace",
+ "query": "\"Firefly Aerospace\"",
+ "month": "2025-01",
+ "begin_date": "20250101",
+ "end_date": "20250131",
+ "fetched_at": "2026-09-08T05:10:14.444519+00:00",
+ "hits": 5,
+ "docs": [
+  {
+   "abstract": "Robotic vehicles from Firefly Aerospace of Texas and Ispace of Japan parted ways early Wednesday after being launched on the same SpaceX rocket. Both are aiming for the lunar surface.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Two Private Moon Landers Have Launched at Once: What to Know",
+    "kicker": "",
+    "print_headline": "SpaceX Launches Two New Moon Landers on One Rocket"
+   },
+   "_id": "nyt://article/fa1b7ef9-1089-5ad5-8fd3-622328684725",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Firefly Aerospace Inc",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "ispace Inc",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Gregg Newton/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/15/multimedia/15vid-double-moon-launch-vidcov-vplf/15vid-double-moon-launch-vidcov-vplf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/15/multimedia/15vid-double-moon-launch-vidcov-vplf/15vid-double-moon-launch-vidcov-vplf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "17",
+   "print_section": "A",
+   "pub_date": "2025-01-15T01:50:05Z",
+   "section_name": "Science",
+   "snippet": "Robotic vehicles from Firefly Aerospace of Texas and Ispace of Japan parted ways early Wednesday after being launched on the same SpaceX rocket. Both are aiming for the lunar surface.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/fa1b7ef9-1089-5ad5-8fd3-622328684725",
+   "web_url": "https://www.nytimes.com/2025/01/14/science/nasa-spacex-launch-lunar-landers.html",
+   "word_count": 1138
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Michael Roston"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Jan. 15: Two privately built moon landers could launch on the same SpaceX rocket.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/d0839407-265c-5d71-aba9-253e02c02fee",
+   "keywords": [],
+   "multimedia": {
+    "caption": "An artist\u2019s concept of Firefly Aerospace\u2019s Blue Ghost lander.",
+    "credit": "Firefly Aerospace",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/01/science/01space-calendar-double-moon-launch/01space-calendar-double-moon-launch-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/01/science/01space-calendar-double-moon-launch/01space-calendar-double-moon-launch-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-01-01T13:08:42Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/d0839407-265c-5d71-aba9-253e02c02fee",
+   "web_url": "https://www.nytimes.com/article/mid-january-two-privately-built-moon-landers-could-launch-on-the-same-spacex-rocket.html",
+   "word_count": 130
+  },
+  {
+   "abstract": "Here are some key events to look forward to in space and astronomy in the year ahead.",
+   "byline": {
+    "original": "By Michael Roston and Katrina Miller"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Big Rockets, a Big Telescope and Big Changes in Space Await in 2025",
+    "kicker": "",
+    "print_headline": " Heavy Traffic Expected In Space"
+   },
+   "_id": "nyt://article/0f90422b-fc29-5e5a-b43d-cef53c0aa2bf",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Two Thousand Twenty Five",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Kuiper Systems (Amazon.com Inc)",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Bezos, Jeffrey P",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Telescopes and Observatories",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Large Synoptic Survey Telescope",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Rubin, Vera (1928-2016)",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Dark Matter (Astronomy)",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 14
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 15
+    },
+    {
+     "name": "Organization",
+     "value": "ispace Inc",
+     "rank": 16
+    },
+    {
+     "name": "Organization",
+     "value": "Intuitive Machines LLC",
+     "rank": 17
+    },
+    {
+     "name": "Subject",
+     "value": "Voyager Project",
+     "rank": 18
+    },
+    {
+     "name": "Organization",
+     "value": "Axiom Space Inc",
+     "rank": 19
+    },
+    {
+     "name": "Organization",
+     "value": "Sierra Space Corp",
+     "rank": 20
+    },
+    {
+     "name": "Organization",
+     "value": "Firefly Aerospace Inc",
+     "rank": 21
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 22
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 23
+    },
+    {
+     "name": "Location",
+     "value": "India",
+     "rank": 24
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 25
+    },
+    {
+     "name": "Subject",
+     "value": "Stars and Galaxies",
+     "rank": 26
+    }
+   ],
+   "multimedia": {
+    "caption": "The Dream Chaser, built by Sierra Space, undergoing testing at NASA\u2019s Neil Armstrong Test Facility in Sandusky, Ohio. The company hopes it will carry cargo to the International Space Station for the first time this year.",
+    "credit": "Jef Janis/NASA",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/12/31/multimedia/01sci-spacepreview-zktb/01sci-spacepreview-zktb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/12/31/multimedia/01sci-spacepreview-zktb/01sci-spacepreview-zktb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "2",
+   "print_section": "D",
+   "pub_date": "2025-01-01T12:54:51Z",
+   "section_name": "Science",
+   "snippet": "Here are some key events to look forward to in space and astronomy in the year ahead.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/0f90422b-fc29-5e5a-b43d-cef53c0aa2bf",
+   "web_url": "https://www.nytimes.com/2025/01/01/science/space-astronomy-nasa.html",
+   "word_count": 1272
+  },
+  {
+   "abstract": "Plus, ancient Celtic gender roles.",
+   "byline": {
+    "original": "By Emmett Lindner"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Thursday Briefing: A Gaza Cease-Fire Deal",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/d8ca59d4-0342-52f0-a4b0-b218894611f9",
+   "keywords": [],
+   "multimedia": {
+    "caption": "People celebrate while watching a television along a street in Khan Younis yesterday.",
+    "credit": "Bashar Taleb/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/15/multimedia/16ambriefing-asia-deal/16ambriefing-asia-deal-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/15/multimedia/16ambriefing-asia-deal/00mideast-crisis-carousel-jwpf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "NYTNow",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-01-15T20:53:14Z",
+   "section_name": "Briefing",
+   "snippet": "Plus, ancient Celtic gender roles.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "briefing",
+   "uri": "nyt://article/d8ca59d4-0342-52f0-a4b0-b218894611f9",
+   "web_url": "https://www.nytimes.com/2025/01/15/briefing/israel-hamas-cease-fire-senate-hearings-yoon-detainment-korea.html",
+   "word_count": 1126
+  },
+  {
+   "abstract": "Here\u2019s what you need to know.",
+   "byline": {
+    "original": "By Natasha Frost"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Thursday Briefing",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/c2de5029-d911-5ddc-a769-d2e722dcc671",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Palestinians in Deir al Balah, central Gaza, reacting to news of the cease-fire deal.",
+    "credit": "Mohammed Saber/EPA, via Shutterstock",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/01/15/multimedia/16ambriefing-europe-mideast-crisis/16ambriefing-europe-mideast-crisis-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/01/15/multimedia/16ambriefing-europe-mideast-crisis/16ambriefing-europe-mideast-crisis-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "NYTNow",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-01-16T05:01:14Z",
+   "section_name": "Briefing",
+   "snippet": "Here\u2019s what you need to know.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "briefing",
+   "uri": "nyt://article/c2de5029-d911-5ddc-a769-d2e722dcc671",
+   "web_url": "https://www.nytimes.com/2025/01/16/briefing/israel-hamas-poland-russia.html",
+   "word_count": 1482
+  }
+ ]
+}

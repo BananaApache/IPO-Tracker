@@ -1,0 +1,307 @@
+{
+ "from": "2019-04-01",
+ "to": "2019-04-30",
+ "fetched_at": "2026-09-08T04:20:32.554790+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2019-04-30",
+   "exchange": "NASDAQ Capital",
+   "name": "WAH FU EDUCATION GROUP LTD",
+   "numberOfShares": 1181033,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "WAFU",
+   "totalSharesValue": 5905165
+  },
+  {
+   "date": "2019-04-30",
+   "exchange": null,
+   "name": "BIOVIE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2019-04-23",
+   "exchange": null,
+   "name": "IMPERIAL GARDEN & RESORT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-04-23",
+   "exchange": null,
+   "name": "KENLOC, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1875000
+  },
+  {
+   "date": "2019-04-22",
+   "exchange": null,
+   "name": "POSEIDA THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-04-19",
+   "exchange": null,
+   "name": "TORRID INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-04-18",
+   "exchange": "NYSE",
+   "name": "BRIGHAM MINERALS, INC.",
+   "numberOfShares": 14500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "MNRL",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2019-04-18",
+   "exchange": "NASDAQ Global",
+   "name": "GREENLANE HOLDINGS, INC.",
+   "numberOfShares": 6000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "GNLN",
+   "totalSharesValue": 102000000
+  },
+  {
+   "date": "2019-04-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "ZOOM VIDEO COMMUNICATIONS, INC.",
+   "numberOfShares": 20869565,
+   "price": "36.00",
+   "status": "priced",
+   "symbol": "ZM",
+   "totalSharesValue": 751304340
+  },
+  {
+   "date": "2019-04-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "HOOKIPA PHARMA INC.",
+   "numberOfShares": 6000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "HOOK",
+   "totalSharesValue": 84000000
+  },
+  {
+   "date": "2019-04-18",
+   "exchange": "NYSE",
+   "name": "PINTEREST, INC.",
+   "numberOfShares": 75000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "PINS",
+   "totalSharesValue": 1425000000
+  },
+  {
+   "date": "2019-04-18",
+   "exchange": null,
+   "name": "PIMCO MORTGAGE INCOME TRUST INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PMTG",
+   "totalSharesValue": 1150000000
+  },
+  {
+   "date": "2019-04-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "PALOMAR HOLDINGS, INC.",
+   "numberOfShares": 5625000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "PLMR",
+   "totalSharesValue": 84375000
+  },
+  {
+   "date": "2019-04-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "TURNING POINT THERAPEUTICS, INC.",
+   "numberOfShares": 9250000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "TPTX",
+   "totalSharesValue": 166500000
+  },
+  {
+   "date": "2019-04-17",
+   "exchange": "NASDAQ Global",
+   "name": "BRAINSWAY LTD.",
+   "numberOfShares": 2500000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "BWAY",
+   "totalSharesValue": 27500000
+  },
+  {
+   "date": "2019-04-16",
+   "exchange": null,
+   "name": "FATHER TIME, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-04-12",
+   "exchange": null,
+   "name": "IPSCO TUBULARS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-04-12",
+   "exchange": "NYSE",
+   "name": "JUMIA TECHNOLOGIES AG",
+   "numberOfShares": 13500000,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "JMIA",
+   "totalSharesValue": 195750000
+  },
+  {
+   "date": "2019-04-11",
+   "exchange": "NYSE",
+   "name": "TUFIN SOFTWARE TECHNOLOGIES LTD.",
+   "numberOfShares": 7700000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "TUFN",
+   "totalSharesValue": 107800000
+  },
+  {
+   "date": "2019-04-11",
+   "exchange": "NYSE",
+   "name": "PAGERDUTY, INC.",
+   "numberOfShares": 9070000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "PD",
+   "totalSharesValue": 217680000
+  },
+  {
+   "date": "2019-04-09",
+   "exchange": "NYSE",
+   "name": "ALTA EQUIPMENT GROUP INC.",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BRPMU",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2019-04-05",
+   "exchange": "NASDAQ Capital",
+   "name": "GUARDION HEALTH SCIENCES, INC.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "GHSI",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2019-04-05",
+   "exchange": null,
+   "name": "ACT II GLOBAL ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ACTTU",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2019-04-04",
+   "exchange": "NASDAQ Global",
+   "name": "SILK ROAD MEDICAL INC",
+   "numberOfShares": 6000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "SILK",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2019-04-04",
+   "exchange": "NASDAQ Global Select",
+   "name": "TRADEWEB MARKETS INC.",
+   "numberOfShares": 40000000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "TW",
+   "totalSharesValue": 1080000000
+  },
+  {
+   "date": "2019-04-04",
+   "exchange": "NYSE",
+   "name": "REPLAY ACQUISITION CORP.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RPLAU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2019-04-04",
+   "exchange": "NASDAQ Global Select",
+   "name": "NGM BIOPHARMACEUTICALS INC",
+   "numberOfShares": 6666667,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "NGM",
+   "totalSharesValue": 106666672
+  },
+  {
+   "date": "2019-04-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "RUHNN HOLDING LTD",
+   "numberOfShares": 10000000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "RUHN",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2019-04-02",
+   "exchange": null,
+   "name": "PROSHARES TRUST II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-04-02",
+   "exchange": "NASDAQ Capital",
+   "name": "POWERBRIDGE TECHNOLOGIES CO., LTD.",
+   "numberOfShares": 1750000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "PBTS",
+   "totalSharesValue": 8750000
+  }
+ ]
+}

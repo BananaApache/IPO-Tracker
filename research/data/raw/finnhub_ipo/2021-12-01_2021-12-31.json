@@ -1,0 +1,877 @@
+{
+ "from": "2021-12-01",
+ "to": "2021-12-31",
+ "fetched_at": "2026-09-08T04:21:36.593502+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2021-12-30",
+   "exchange": null,
+   "name": "EIP Acquisition Corp I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-12-30",
+   "exchange": "NASDAQ Global",
+   "name": "Aetherium Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GMFIU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-12-29",
+   "exchange": null,
+   "name": "AEON Biopharma, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-12-28",
+   "exchange": "NASDAQ Global",
+   "name": "Welsbach Technology Metals Acquisition Corp.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WTMAU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2021-12-28",
+   "exchange": null,
+   "name": "Hanze Asia Growth A",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HZAGU",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2021-12-27",
+   "exchange": null,
+   "name": "Castle Creek Biosciences, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-12-27",
+   "exchange": "NASDAQ Global",
+   "name": "Arogo Capital Acquisition Corp.",
+   "numberOfShares": 9000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AOGOU",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2021-12-23",
+   "exchange": null,
+   "name": "Delphi Growth Capital Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DGC'U",
+   "totalSharesValue": 345000000
+  },
+  {
+   "date": "2021-12-23",
+   "exchange": null,
+   "name": "Ledger Acquisition Co",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LEDGU",
+   "totalSharesValue": 172500000
+  },
+  {
+   "date": "2021-12-22",
+   "exchange": "NASDAQ Capital",
+   "name": "NEXGEL, INC.",
+   "numberOfShares": 2585000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "NXGL",
+   "totalSharesValue": 14217500
+  },
+  {
+   "date": "2021-12-22",
+   "exchange": "NASDAQ Global",
+   "name": "Gardiner Healthcare Acquisitions Corp.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GDNRU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2021-12-22",
+   "exchange": null,
+   "name": "brooqLy, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 492996.4
+  },
+  {
+   "date": "2021-12-21",
+   "exchange": null,
+   "name": "AdMY Technology Group, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-12-21",
+   "exchange": "NASDAQ Global",
+   "name": "Sagaliam Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SAGAU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-12-21",
+   "exchange": "NASDAQ Global",
+   "name": "Larkspur Health Acquisition Corp.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LSPRU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2021-12-20",
+   "exchange": null,
+   "name": "FWD Group Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-12-20",
+   "exchange": "NASDAQ Global",
+   "name": "NorthView Acquisition Corp",
+   "numberOfShares": 16500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NVACU",
+   "totalSharesValue": 165000000
+  },
+  {
+   "date": "2021-12-20",
+   "exchange": null,
+   "name": "Beroni Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BRNI",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2021-12-20",
+   "exchange": null,
+   "name": "Roman DBDR Tech Acquisition Corp. III",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "RDXXU",
+   "totalSharesValue": 287500000
+  },
+  {
+   "date": "2021-12-17",
+   "exchange": "NYSE",
+   "name": "AP Acquisition Corp",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "APCAU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-12-17",
+   "exchange": "NASDAQ Global",
+   "name": "Revelstone Capital Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RCACU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-12-16",
+   "exchange": "NYSE",
+   "name": "Spree Acquisition Corp. 1 Ltd",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SHAPU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2021-12-16",
+   "exchange": "NASDAQ Global",
+   "name": "FTAC Emerald Acquisition Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EMLDU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2021-12-16",
+   "exchange": "NASDAQ Global",
+   "name": "BIONOMICS LIMITED/FI",
+   "numberOfShares": 1622000,
+   "price": "12.35",
+   "status": "priced",
+   "symbol": "BNOX",
+   "totalSharesValue": 20031700
+  },
+  {
+   "date": "2021-12-16",
+   "exchange": "NYSE MKT",
+   "name": "Ault Disruptive Technologies Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ADRTU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-12-16",
+   "exchange": "NASDAQ Capital",
+   "name": "Immix Biopharma, Inc.",
+   "numberOfShares": 4200000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "IMMX",
+   "totalSharesValue": 21000000
+  },
+  {
+   "date": "2021-12-16",
+   "exchange": "NASDAQ Global",
+   "name": "CF Acquisition Corp. VII",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CFFSU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2021-12-16",
+   "exchange": null,
+   "name": "Fortune Valley Treasures, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2021-12-15",
+   "exchange": "NYSE",
+   "name": "Battery Future Acquisition Corp.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BFACU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2021-12-15",
+   "exchange": "NASDAQ Global",
+   "name": "Pearl Holdings Acquisition Corp",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PRLHU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2021-12-15",
+   "exchange": "NASDAQ Global",
+   "name": "Ahren Acquisition Corp.",
+   "numberOfShares": 27500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AHRNU",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2021-12-15",
+   "exchange": "NASDAQ Global",
+   "name": "Investcorp Europe Acquisition Corp I",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IVCBU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2021-12-15",
+   "exchange": "NYSE",
+   "name": "Samsara Inc.",
+   "numberOfShares": 35000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "IOT",
+   "totalSharesValue": 805000000
+  },
+  {
+   "date": "2021-12-15",
+   "exchange": "NYSE",
+   "name": "EVe Mobility Acquisition Corp",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EVE'U",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2021-12-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Genenta Science S.p.A.",
+   "numberOfShares": 2400000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "GNTA",
+   "totalSharesValue": 27600000
+  },
+  {
+   "date": "2021-12-15",
+   "exchange": "NASDAQ Global",
+   "name": "Swiftmerge Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IVCPU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-12-14",
+   "exchange": "NASDAQ Capital",
+   "name": "Sidus Space Inc.",
+   "numberOfShares": 3000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SIDU",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2021-12-14",
+   "exchange": "NYSE MKT",
+   "name": "Fresh Vine Wine, Inc.",
+   "numberOfShares": 2200000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VINE",
+   "totalSharesValue": 22000000
+  },
+  {
+   "date": "2021-12-14",
+   "exchange": "NASDAQ Global",
+   "name": "Kairous Acquisition Corp. Ltd",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KACLU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2021-12-14",
+   "exchange": null,
+   "name": "CERBERUS CYBER SENTINEL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2021-12-14",
+   "exchange": null,
+   "name": "TANICO Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2021-12-13",
+   "exchange": "NASDAQ Global",
+   "name": "BurTech Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BRKHU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2021-12-13",
+   "exchange": "NASDAQ Global",
+   "name": "Alpha Star Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ALSAU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-12-13",
+   "exchange": null,
+   "name": "Welsis Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2021-12-10",
+   "exchange": null,
+   "name": "Nalu Medical, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-12-10",
+   "exchange": null,
+   "name": "Cornerstone Investment Capital Holdings Co.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-12-10",
+   "exchange": "NASDAQ Global",
+   "name": "Growth for Good Acquisition Corp",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GFGDU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2021-12-10",
+   "exchange": "NYSE",
+   "name": "Southport Acquisition Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PORTU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-12-10",
+   "exchange": "NYSE",
+   "name": "Athena Technology Acquisition Corp. II",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ATEKU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2021-12-10",
+   "exchange": "NASDAQ Global",
+   "name": "Forbion European Acquisition Corp.",
+   "numberOfShares": 11000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FRBNU",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2021-12-10",
+   "exchange": "NASDAQ Global",
+   "name": "Healthcare AI Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HAIAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-12-10",
+   "exchange": "NASDAQ Global",
+   "name": "Power & Digital Infrastructure Acquisition II Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "XPDBU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2021-12-10",
+   "exchange": "NASDAQ Global",
+   "name": "Financial Strategies Acquisition Corp.",
+   "numberOfShares": 8700000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FXCOU",
+   "totalSharesValue": 87000000
+  },
+  {
+   "date": "2021-12-10",
+   "exchange": "NYSE",
+   "name": "Trajectory Alpha Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TCOAU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-12-10",
+   "exchange": null,
+   "name": "JJ Opportunity Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JJOCU",
+   "totalSharesValue": 57500000
+  },
+  {
+   "date": "2021-12-09",
+   "exchange": null,
+   "name": "Blueprint Health Merger Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-12-09",
+   "exchange": "NASDAQ Global",
+   "name": "Genesis Growth Tech Acquisition Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GGAAU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2021-12-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "HashiCorp, Inc.",
+   "numberOfShares": 15300000,
+   "price": "80.00",
+   "status": "priced",
+   "symbol": "HCP",
+   "totalSharesValue": 1224000000
+  },
+  {
+   "date": "2021-12-09",
+   "exchange": "NYSE",
+   "name": "Integrated Wellness Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WEL'U",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-12-09",
+   "exchange": "NYSE",
+   "name": "Nu Holdings Ltd.",
+   "numberOfShares": 289150555,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "NU",
+   "totalSharesValue": 2602354995
+  },
+  {
+   "date": "2021-12-09",
+   "exchange": "NASDAQ Capital",
+   "name": "NeuroSense Therapeutics Ltd.",
+   "numberOfShares": 2000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "NRSN",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2021-12-09",
+   "exchange": "NYSE",
+   "name": "Sculptor Acquisition Corp I",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SCUAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-12-09",
+   "exchange": "NASDAQ Global",
+   "name": "Emerging Markets Horizon Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HORIU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2021-12-09",
+   "exchange": "NASDAQ Global",
+   "name": "Inception Growth Acquisition Ltd",
+   "numberOfShares": 9000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IGTAU",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2021-12-09",
+   "exchange": "NYSE",
+   "name": "Jackson Acquisition Co",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RJACU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-12-09",
+   "exchange": "NASDAQ Global",
+   "name": "Target Global Acquisition I Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TGAAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-12-08",
+   "exchange": null,
+   "name": "Israel Amplify Program Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-12-08",
+   "exchange": "NASDAQ Global",
+   "name": "Chicago Atlantic Real Estate Finance, Inc.",
+   "numberOfShares": 6250000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "REFI",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-12-08",
+   "exchange": "NASDAQ Capital",
+   "name": "Cingulate Inc.",
+   "numberOfShares": 4166666,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "CING",
+   "totalSharesValue": 24999996
+  },
+  {
+   "date": "2021-12-07",
+   "exchange": "NASDAQ Global",
+   "name": "GLOBALINK INVESTMENT INC.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GLLIU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-12-07",
+   "exchange": "NASDAQ Global",
+   "name": "APx Acquisition Corp. I",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "APXIU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-12-07",
+   "exchange": "NASDAQ Global",
+   "name": "Crypto 1 Acquisition Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DAOOU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-12-07",
+   "exchange": "NYSE",
+   "name": "Motive Capital Corp II",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MTVCU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2021-12-07",
+   "exchange": "NASDAQ Global",
+   "name": "Jupiter Wellness Acquisition Corp.",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JWACU",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2021-12-03",
+   "exchange": null,
+   "name": "Delimobil Holding S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-12-03",
+   "exchange": "NASDAQ Global",
+   "name": "Bullpen Parlay Acquisition Co",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BPACU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-12-03",
+   "exchange": "NYSE",
+   "name": "ST Energy Transition I Ltd.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "STETU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2021-12-03",
+   "exchange": "NASDAQ Global",
+   "name": "Blue Ocean Acquisition Corp",
+   "numberOfShares": 16500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BOCNU",
+   "totalSharesValue": 165000000
+  },
+  {
+   "date": "2021-12-03",
+   "exchange": "NASDAQ Global",
+   "name": "BioPlus Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BIOSU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-12-02",
+   "exchange": "NASDAQ Global",
+   "name": "UTA Acquisition Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "UTAAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-12-02",
+   "exchange": "NASDAQ Global",
+   "name": "ROC Energy Acquisition Corp.",
+   "numberOfShares": 18000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ROCAU",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2021-12-02",
+   "exchange": "NASDAQ Global",
+   "name": "Games & Esports Experience Acquisition Corp.",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GEEXU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2021-12-01",
+   "exchange": null,
+   "name": "Spark Education Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-12-01",
+   "exchange": "NYSE",
+   "name": "PROOF Acquisition Corp I",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PACIU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2021-12-01",
+   "exchange": "NASDAQ Global",
+   "name": "Roth CH Acquisition V Co.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ROCLU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-12-01",
+   "exchange": "NASDAQ Global",
+   "name": "Capitalworks Emerging Markets Acquisition Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CMCAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-12-01",
+   "exchange": "NASDAQ Global",
+   "name": "TLGY ACQUISITION CORP",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TLGYU",
+   "totalSharesValue": 200000000
+  }
+ ]
+}

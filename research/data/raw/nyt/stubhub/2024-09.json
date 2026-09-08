@@ -1,0 +1,183 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2024-09",
+ "begin_date": "20240901",
+ "end_date": "20240930",
+ "fetched_at": "2026-09-08T05:10:50.377777+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "It\u2019s a long way to Row Z. But once you get there, there are advantages, tennis fans say.",
+   "byline": {
+    "original": "By Hilary Howard and Jesus Jim\u00e9nez"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The View From the Nosebleeds at the U.S. Open: Not Too Shabby",
+    "kicker": "",
+    "print_headline": "Row Z at the U.S. Open? What\u2019s Not to Love."
+   },
+   "_id": "nyt://article/a0297fd3-f870-5c54-8031-97f6e003e293",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Tennis",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "United States Open (Tennis)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Stadiums and Arenas",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Ashe, Arthur, Stadium",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Fans (Persons)",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "Flushing Meadows-Corona Park (Queens, NY)",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Dave Sanders for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/04/multimedia/04usopen-nosebleeds-01-mhbw/04usopen-nosebleeds-01-mhbw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/04/multimedia/04usopen-nosebleeds-01-mhbw/04usopen-nosebleeds-01-mhbw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Metro",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-09-04T07:00:23Z",
+   "section_name": "New York",
+   "snippet": "It\u2019s a long way to Row Z. But once you get there, there are advantages, tennis fans say.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a0297fd3-f870-5c54-8031-97f6e003e293",
+   "web_url": "https://www.nytimes.com/2024/09/04/nyregion/us-open-nosebleed-seats.html",
+   "word_count": 1339
+  },
+  {
+   "abstract": "A regulator said it was opening an investigation into Ticketmaster\u2019s actions, but the company disputed that \u201cdynamic pricing\u201d came into play.",
+   "byline": {
+    "original": "By Ben Sisario"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Oasis Fans Balked at High Ticket Prices. But Were They \u2018Dynamic\u2019?",
+    "kicker": "",
+    "print_headline": "Oasis Fans, and U.K. Politicians, Rebel Against Surging Online Ticket Prices"
+   },
+   "_id": "nyt://article/1ce8550f-6723-515d-b50f-f311239e1a7c",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Oasis (Music Group)",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Box Office Sales",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Price Gouging",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Fans (Persons)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Ticketmaster",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Live Nation Entertainment Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Competition and Markets Authority (Great Britain)",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Gallagher, Liam",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Gallagher, Noel",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "Oasis fans took to social media to complain about the prices of tickets to the band\u2019s reunion shows.",
+    "credit": "EPA, via Shutterstock",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/09/05/multimedia/05oasis-tickets-plvg/05oasis-tickets-plvg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/09/05/multimedia/05oasis-tickets-plvg/05oasis-tickets-plvg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Culture",
+   "print_page": "8",
+   "print_section": "A",
+   "pub_date": "2024-09-06T16:03:11Z",
+   "section_name": "Arts",
+   "snippet": "A regulator said it was opening an investigation into Ticketmaster\u2019s actions, but the company disputed that \u201cdynamic pricing\u201d came into play.",
+   "source": "The New York Times",
+   "subsection_name": "Music",
+   "type_of_material": "News",
+   "uri": "nyt://article/1ce8550f-6723-515d-b50f-f311239e1a7c",
+   "web_url": "https://www.nytimes.com/2024/09/06/arts/music/oasis-reunion-tour-tickets.html",
+   "word_count": 916
+  }
+ ]
+}

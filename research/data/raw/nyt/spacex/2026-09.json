@@ -1,0 +1,193 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2026-09",
+ "begin_date": "20260901",
+ "end_date": "20260930",
+ "fetched_at": "2026-09-08T05:35:02.524532+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "When Anthropic goes public in a blockbuster offering, which investors will profit? The answer says a lot about how much start-up investing has changed over the years.",
+   "byline": {
+    "original": "By Erin Griffith"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Which Investors Will Get Rich From Anthropic\u2019s IPO?",
+    "kicker": "",
+    "print_headline": "When 2 Titans of A.I. Go Public, Those Who Bet on Both May Win"
+   },
+   "_id": "nyt://article/aa4834b5-364e-5712-a5c2-f8f201a40cb7",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Sequoia Capital",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Spark Capital",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Thrive Capital",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Lightspeed Venture Partners",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Menlo Ventures IX LP",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Iconiq Capital LLC",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Simon Bailly",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/09/02/business/00anthropic-vc/00anthropic-vc-articleLarge.jpg",
+     "height": 750,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/09/02/business/00anthropic-vc/00anthropic-vc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-09-03T09:02:51Z",
+   "section_name": "Technology",
+   "snippet": "When Anthropic goes public in a blockbuster offering, which investors will profit? The answer says a lot about how much start-up investing has changed over the years.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/aa4834b5-364e-5712-a5c2-f8f201a40cb7",
+   "web_url": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
+   "word_count": 1316
+  },
+  {
+   "abstract": "The new round values the prediction market at $21 billion, up from $15 billion. Mr. Trump\u2019s firm, 1789 Capital, will invest around $300 million.",
+   "byline": {
+    "original": "By Lauren McCarthy"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Donald Trump Jr.\u2019s Firm Leads $1 Billion Funding Round for Polymarket",
+    "kicker": "",
+    "print_headline": "Trump Son\u2019s Firm Rallies Polymarket Funding"
+   },
+   "_id": "nyt://article/76559f92-28ec-5bfe-b55e-cc4a1975ddce",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Prediction Markets",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "1789 Capital",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Commodity Futures Trading Commission",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J Jr",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Polymarket (Adventure One QSS Inc)",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Donald Trump Jr. with Defense Secretary Pete Hegseth last year. Mr. Trump\u2019s venture capital firm, 1789 Capital, previously invested about $200 million in Polymarket.",
+    "credit": "Ruth Fremson/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/08/31/multimedia/31biz-polymarket-funding-1-wmkb/31biz-polymarket-funding-1-wmkb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/08/31/multimedia/31biz-polymarket-funding-1-wmkb/31biz-polymarket-funding-1-wmkb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2026-09-01T00:00:45Z",
+   "section_name": "Business",
+   "snippet": "The new round values the prediction market at $21 billion, up from $15 billion. Mr. Trump\u2019s firm, 1789 Capital, will invest around $300 million.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/76559f92-28ec-5bfe-b55e-cc4a1975ddce",
+   "web_url": "https://www.nytimes.com/2026/08/31/business/polymarket-funding-trump.html",
+   "word_count": 356
+  }
+ ]
+}

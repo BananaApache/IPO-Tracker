@@ -1,0 +1,102 @@
+{
+ "company": "Figma",
+ "query": "\"Figma\"",
+ "month": "2024-06",
+ "begin_date": "20240601",
+ "end_date": "20240630",
+ "fetched_at": "2026-09-08T04:53:14.267608+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The maker of Photoshop and other popular design software hid details of expensive cancellation fees, according to a Justice Department lawsuit.",
+   "byline": {
+    "original": "By David McCabe"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "U.S. Sues Adobe Over Hard-to-Cancel Subscriptions",
+    "kicker": "",
+    "print_headline": "U.S. Files Suit Against Adobe Over the Fees For Software"
+   },
+   "_id": "nyt://article/d2871152-a313-541e-ad90-093369e7daff",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Software",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Antitrust Laws and Competition Issues",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Suits and Litigation (Civil)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Protection",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Adobe Systems Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Trade Commission",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Justice Department",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "David Wadhwani, the president of Adobe\u2019s digital media business.",
+    "credit": "Jordan Strauss/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/17/business/17ftc-adobe-1/17ftc-adobe-1-articleLarge.jpg",
+     "height": 381,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/17/business/17ftc-adobe-1/17ftc-adobe-1-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2024-06-17T18:34:32Z",
+   "section_name": "Technology",
+   "snippet": "The maker of Photoshop and other popular design software hid details of expensive cancellation fees, according to a Justice Department lawsuit.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/d2871152-a313-541e-ad90-093369e7daff",
+   "web_url": "https://www.nytimes.com/2024/06/17/technology/us-adobe-subscription-lawsuit.html",
+   "word_count": 619
+  }
+ ]
+}

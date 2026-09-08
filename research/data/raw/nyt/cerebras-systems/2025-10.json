@@ -1,0 +1,82 @@
+{
+ "company": "Cerebras Systems",
+ "query": "\"Cerebras Systems\"",
+ "month": "2025-10",
+ "begin_date": "20251001",
+ "end_date": "20251031",
+ "fetched_at": "2026-09-08T05:38:50.587253+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The artificial intelligence giant just announced a major partnership with AMD \u2014 weeks after striking a big deal with the chipmaker\u2019s competitor, Nvidia.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Vivienne Walt and Ian Mount"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "OpenAI\u2019s Team of Rivals",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/4f8dd8f9-875c-51ce-b2fa-0fae55cbdb8c",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Advanced Micro Devices Inc.",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Sam Altman of OpenAI struck a major deal with AMD \u2014 just weeks after reaching an agreement with the chipmaker\u2019s rival, Nvidia.",
+    "credit": "Yuichi Yamazaki/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/06/multimedia/06db-newsletter-openai-twgc/06db-newsletter-openai-twgc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/06/multimedia/06db-newsletter-openai-twgc/06db-newsletter-openai-twgc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-10-06T12:17:00Z",
+   "section_name": "Business",
+   "snippet": "The artificial intelligence giant just announced a major partnership with AMD \u2014 weeks after striking a big deal with the chipmaker\u2019s competitor, Nvidia.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/4f8dd8f9-875c-51ce-b2fa-0fae55cbdb8c",
+   "web_url": "https://www.nytimes.com/2025/10/06/business/dealbook/openai-amd-nvidia.html",
+   "word_count": 2020
+  }
+ ]
+}

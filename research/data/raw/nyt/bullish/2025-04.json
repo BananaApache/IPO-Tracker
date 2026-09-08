@@ -1,0 +1,178 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2025-04",
+ "begin_date": "20250401",
+ "end_date": "20250430",
+ "fetched_at": "2026-09-08T05:17:38.435415+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Legions of ordinary Indians have gone into stock trading, lured by easy online access and a market boom. Now many of them are getting a rude shock.",
+   "byline": {
+    "original": "By Anupreeta Das, Pragati K.B. and Hari Kumar"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "India\u2019s Millions of New Investors Are Reeling From Tariff Turmoil",
+    "kicker": "",
+    "print_headline": "For Investors Across India, Tariffs Bring A Nasty Jolt"
+   },
+   "_id": "nyt://article/a0f71144-b280-52c9-8cb1-c437bd712e41",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "India",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Economic Conditions and Trends",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Reserve Bank of India",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "The Bombay Stock Exchange in Mumbai on Monday, when Indian stocks lost about $170 billion in value.",
+    "credit": "Punit Paranjpe/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-india-tariffs-markets-vgck/09int-india-tariffs-markets-vgck-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-india-tariffs-markets-vgck/09int-india-tariffs-markets-vgck-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "10",
+   "print_section": "A",
+   "pub_date": "2025-04-09T11:10:49Z",
+   "section_name": "World",
+   "snippet": "Legions of ordinary Indians have gone into stock trading, lured by easy online access and a market boom. Now many of them are getting a rude shock.",
+   "source": "The New York Times",
+   "subsection_name": "Asia Pacific",
+   "type_of_material": "News",
+   "uri": "nyt://article/a0f71144-b280-52c9-8cb1-c437bd712e41",
+   "web_url": "https://www.nytimes.com/2025/04/09/world/asia/india-tariffs-stock-market.html",
+   "word_count": 765
+  },
+  {
+   "abstract": "Trade tensions have begun to force a rethink about how much investors and businesses should bet on the United States.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Tariffs May Rewire Market Psychology",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/55a0809f-43ee-5284-a393-a872aee2ec5e",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Protectionism (Trade)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Navarro, Peter",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "International Trade and World Market",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Standard & Poor's 500-Stock Index",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Denmark",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Europe",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Tariff jitters have jolted global markets, forcing a rethink about how trade wars may upend business.",
+    "credit": "Seth Wenig/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08db-markets-tgmv/08db-markets-tgmv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08db-markets-tgmv/08db-markets-tgmv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-04-08T11:54:42Z",
+   "section_name": "Business",
+   "snippet": "Trade tensions have begun to force a rethink about how much investors and businesses should bet on the United States.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/55a0809f-43ee-5284-a393-a872aee2ec5e",
+   "web_url": "https://www.nytimes.com/2025/04/08/business/dealbook/trump-tariffs-markets.html",
+   "word_count": 1893
+  }
+ ]
+}

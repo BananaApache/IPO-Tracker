@@ -1,0 +1,951 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-02",
+ "begin_date": "20250201",
+ "end_date": "20250228",
+ "fetched_at": "2026-09-08T04:49:50.213648+00:00",
+ "hits": 56,
+ "docs": [
+  {
+   "abstract": "The Justice Department had sued SpaceX in 2023, accusing the company of violating federal law by refusing to hire refugees and people granted asylum in the United States.",
+   "byline": {
+    "original": "By Qasim Nauman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Justice Dept. to Drop Discrimination Case Against Elon Musk\u2019s SpaceX",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/a4d089f7-00ff-5ed4-9f39-9b6d4a478cd8",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Discrimination",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Courts and the Judiciary",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Labor and Jobs",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Asylum, Right of",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Refugees and Displaced Persons",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Citizenship and Naturalization",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Justice Department",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "United States",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "The SpaceX Starship launchpad at Boca Chica Beach, Texas, last year.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20trump-news-doj-spacex-fphb/20trump-news-doj-spacex-fphb-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20trump-news-doj-spacex-fphb/20trump-news-doj-spacex-fphb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-02-21T03:34:40Z",
+   "section_name": "U.S.",
+   "snippet": "The Justice Department had sued SpaceX in 2023, accusing the company of violating federal law by refusing to hire refugees and people granted asylum in the United States.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/a4d089f7-00ff-5ed4-9f39-9b6d4a478cd8",
+   "web_url": "https://www.nytimes.com/2025/02/20/us/politics/spacex-elon-musk-discrimination-doj.html",
+   "word_count": 231
+  },
+  {
+   "abstract": "Government investigations into Mr. Musk\u2019s companies are stalling amid President Trump\u2019s firings and Biden administration resignations.",
+   "byline": {
+    "original": "By Eric Lipton and Kirsten Grind"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk\u2019s Business Empire Scores Benefits Under Trump Shake-Up",
+    "kicker": "",
+    "print_headline": "Under Trump Shake-Up, Benefits for Musk Empire"
+   },
+   "_id": "nyt://article/982035ee-4e4e-536f-a290-2026b1f7a9f3",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Ethics and Official Misconduct",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Consumer Financial Protection Bureau",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Equal Employment Opportunity Commission",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Securities and Exchange Commission",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Neuralink Corp",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 13
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk controls six companies, including Tesla. Mr. Musk\u2019s companies secured $13 billion in federal contracts over the past five years.",
+    "credit": "Carly Zavala for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/13/multimedia/00DC-MUSK-CONFLICTS-topart-mcgt/00DC-MUSK-CONFLICTS-topart-mcgt-articleLarge.jpg",
+     "height": 800,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/13/multimedia/00DC-MUSK-CONFLICTS-topart-mcgt/00DC-MUSK-CONFLICTS-topart-mcgt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-02-11T17:14:06Z",
+   "section_name": "U.S.",
+   "snippet": "Government investigations into Mr. Musk\u2019s companies are stalling amid President Trump\u2019s firings and Biden administration resignations.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/982035ee-4e4e-536f-a290-2026b1f7a9f3",
+   "web_url": "https://www.nytimes.com/2025/02/11/us/politics/elon-musk-companies-conflicts.html",
+   "word_count": 2694
+  },
+  {
+   "abstract": "The employee objected to a post on X by Mr. Musk, Tesla\u2019s chief executive and a top adviser to President Trump, that referred to Nazi leaders.",
+   "byline": {
+    "original": "By Jack Ewing, Ryan Mac and Kate Conger"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Tesla Fires a Manager Who Criticized Elon Musk on Social Media",
+    "kicker": "",
+    "print_headline": "Employee at Tesla Is Fired After Objecting to Musk Post"
+   },
+   "_id": "nyt://article/6dbb3c65-c1c7-5ebf-a509-3d4a91eb0919",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Workplace Hazards and Violations",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Holocaust and the Nazi Era",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "A manager at Tesla was fired for criticizing a social media post by Elon Musk, the company\u2019s chief executive, that used the names of Nazi leaders in wordplay.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/27/multimedia/27musk-firing-cwkt/27musk-firing-cwkt-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/27/multimedia/27musk-firing-cwkt/27musk-firing-cwkt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2025-02-27T21:34:18Z",
+   "section_name": "Business",
+   "snippet": "The employee objected to a post on X by Mr. Musk, Tesla\u2019s chief executive and a top adviser to President Trump, that referred to Nazi leaders.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/6dbb3c65-c1c7-5ebf-a509-3d4a91eb0919",
+   "web_url": "https://www.nytimes.com/2025/02/27/business/elon-musk-tesla-firing-worker.html",
+   "word_count": 715
+  },
+  {
+   "abstract": "The billionaire is creating major upheaval as his team sweeps through agencies, in what has been an extraordinary flexing of power by a private individual.",
+   "byline": {
+    "original": "By Jonathan Swan, Theodore Schleifer, Maggie Haberman, Kate Conger, Ryan Mac and Madeleine Ngo"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Inside Musk\u2019s Aggressive Incursion Into the Federal Government",
+    "kicker": "",
+    "print_headline": "Musk Asserting Broad Authority"
+   },
+   "_id": "nyt://article/84f10275-1268-52d3-8726-15d5bb28b1ec",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Government Employees",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Budget (US)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Ethics and Official Misconduct",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Treasury Department",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "United States Agency for International Development",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Layoffs and Job Reductions",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Meink, Troy E",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "United States Air Force",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Transition (US)",
+     "rank": 15
+    }
+   ],
+   "multimedia": {
+    "caption": "Empowered by President Trump, Elon Musk is waging a largely unchecked war against the federal bureaucracy.",
+    "credit": "Kenny Holston/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/03/multimedia/03dc-musk-takeover-01-jkmc/03dc-musk-takeover-01-jkmc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/03/multimedia/03dc-musk-takeover-01-jkmc/03dc-musk-takeover-01-jkmc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-02-03T23:24:19Z",
+   "section_name": "U.S.",
+   "snippet": "The billionaire is creating major upheaval as his team sweeps through agencies, in what has been an extraordinary flexing of power by a private individual.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/84f10275-1268-52d3-8726-15d5bb28b1ec",
+   "web_url": "https://www.nytimes.com/2025/02/03/us/politics/musk-federal-government.html",
+   "word_count": 3290
+  },
+  {
+   "abstract": "The billionaire, whose federal cost-cutting team has been operating in secrecy, asserted that he had uncovered waste and fraud across the bureaucracy, without providing evidence.",
+   "byline": {
+    "original": "By Maggie Haberman, Theodore Schleifer and Zolan Kanno-Youngs"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "At Oval Office, Musk Makes Broad Claims of Federal Fraud Without Proof",
+    "kicker": "",
+    "print_headline": "Musk Provides Fraud Claims, But Not Proof"
+   },
+   "_id": "nyt://article/0284ab62-b4cb-5ad2-af27-6b5bc10a0c62",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Executive Orders and Memorandums",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Conflicts of Interest",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Government Employees",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Layoffs and Job Reductions",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk and his son in the Oval Office with President Trump on Tuesday.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/11/multimedia/11trump-news-leadall-jkpz/11trump-news-leadall-jkpz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/11/multimedia/11trump-news-leadall-jkpz/11trump-news-leadall-jkpz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-02-11T22:48:58Z",
+   "section_name": "U.S.",
+   "snippet": "The billionaire, whose federal cost-cutting team has been operating in secrecy, asserted that he had uncovered waste and fraud across the bureaucracy, without providing evidence.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/0284ab62-b4cb-5ad2-af27-6b5bc10a0c62",
+   "web_url": "https://www.nytimes.com/2025/02/11/us/politics/trump-musk-oval-office.html",
+   "word_count": 1011
+  },
+  {
+   "abstract": "The Times has identified more than 70 people within the so-called Department of Government Efficiency, a group formed by Elon Musk that in a short few weeks has radically upended federal agencies.",
+   "byline": {
+    "original": "By The New York Times"
+   },
+   "document_type": "interactive",
+   "headline": {
+    "main": "The People Carrying Out Musk\u2019s Plans at DOGE",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://interactive/c63ca847-7a10-50cc-b8ed-320c0d9ca5ed",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Vought, Russell T",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Office of Personnel Management",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "General Services Administration",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Smith, Brad (Entrepreneur)",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-articleLarge-v9.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-thumbStandard-v9.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Graphics",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-02-27T10:03:56Z",
+   "section_name": "U.S.",
+   "snippet": "The Times has identified more than 70 people within the so-called Department of Government Efficiency, a group formed by Elon Musk that in a short few weeks has radically upended federal agencies.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "Interactive Feature",
+   "uri": "nyt://interactive/c63ca847-7a10-50cc-b8ed-320c0d9ca5ed",
+   "web_url": "https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html",
+   "word_count": 0
+  },
+  {
+   "abstract": "After a string of deadly plane crashes, lawmakers and union members are urging the president to protect the transportation department from further personnel cuts.",
+   "byline": {
+    "original": "By Mark Walker"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Urged to Halt Firings at the F.A.A.",
+    "kicker": "",
+    "print_headline": "Union Chief Urges Trump To Halt Cuts At the F.A.A."
+   },
+   "_id": "nyt://article/3112503c-375c-5511-bd87-fd39ceb59f91",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Airlines and Airplanes",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Air Traffic Control",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Aviation Administration",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Transportation Department (US)",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Duffy, Sean P",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The air traffic control tower at Reagan National Airport in Arlington, Va.",
+    "credit": "Kayla Bartkowski/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19DC-FAA-01-zwbk/19DC-FAA-01-zwbk-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19DC-FAA-01-zwbk/19DC-FAA-01-zwbk-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "17",
+   "print_section": "A",
+   "pub_date": "2025-02-20T00:55:12Z",
+   "section_name": "U.S.",
+   "snippet": "After a string of deadly plane crashes, lawmakers and union members are urging the president to protect the transportation department from further personnel cuts.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/3112503c-375c-5511-bd87-fd39ceb59f91",
+   "web_url": "https://www.nytimes.com/2025/02/19/us/politics/trump-firings-faa.html",
+   "word_count": 617
+  },
+  {
+   "abstract": "The operation was driven with a frenetic focus by the billionaire, who channeled his resentment of regulatory oversight into a drastic overhaul of government agencies.",
+   "byline": {
+    "original": "By Jonathan Swan, Theodore Schleifer, Maggie Haberman, Ryan Mac, Kate Conger, Nicholas Nehamas and Madeleine Ngo"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Elon Musk Executed His Takeover of the Federal Bureaucracy",
+    "kicker": "",
+    "print_headline": "How Dinner Party Banter Inspired Federal Takeover"
+   },
+   "_id": "nyt://article/95773dee-1b8a-5f08-b78a-29ed1903e90c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Power (US)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Transition (US)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Government Employees",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Federal Budget (US)",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Office of Management and Budget (US)",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Lutnick, Howard W",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Miller, Stephen (1985- )",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Ramaswamy, Vivek (1985- )",
+     "rank": 14
+    },
+    {
+     "name": "Person",
+     "value": "Davis, Steve (Construction Executive)",
+     "rank": 15
+    },
+    {
+     "name": "Person",
+     "value": "Vought, Russell T",
+     "rank": 16
+    },
+    {
+     "name": "Subject",
+     "value": "audio-neutral-informative",
+     "rank": 17
+    }
+   ],
+   "multimedia": {
+    "caption": "Mr. Musk now finds himself spearheading a radical takeover of the federal bureaucracy, empowered by President Trump in ways that have no historical parallel for an unelected adviser.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/25/multimedia/dc-doge-origins-promo/dc-doge-origins-promo-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/25/multimedia/dc-doge-origins-promo/dc-doge-origins-promo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-02-28T10:02:50Z",
+   "section_name": "U.S.",
+   "snippet": "The operation was driven with a frenetic focus by the billionaire, who channeled his resentment of regulatory oversight into a drastic overhaul of government agencies.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/95773dee-1b8a-5f08-b78a-29ed1903e90c",
+   "web_url": "https://www.nytimes.com/2025/02/28/us/politics/musk-federal-bureaucracy-takeover.html",
+   "word_count": 4674
+  },
+  {
+   "abstract": "Government watchdog groups say they will challenge the Trump administration\u2019s decision to put the initiative under the Presidential Records Act, which shields its work from public disclosure.",
+   "byline": {
+    "original": "By Minho Kim"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump\u2019s Declaration Allows Musk\u2019s Efficiency Team to Skirt Open Records Laws",
+    "kicker": "",
+    "print_headline": "Efficiency Team Can Skirt Open Records Laws"
+   },
+   "_id": "nyt://article/4d40ec14-772f-56f6-baa7-f32d373770a6",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Freedom of Information Act",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Freedom of the Press Foundation",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "The White House has designated Elon Musk\u2019s office, United States DOGE Service, as an entity insulated from public records requests or most judicial intervention until at least 2034.",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/10/multimedia/10dc-doge-foia-photo-cbhg/10dc-doge-foia-photo-cbhg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/10/multimedia/10dc-doge-foia-photo-cbhg/10dc-doge-foia-photo-cbhg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "17",
+   "print_section": "A",
+   "pub_date": "2025-02-10T20:47:56Z",
+   "section_name": "U.S.",
+   "snippet": "Government watchdog groups say they will challenge the Trump administration\u2019s decision to put the initiative under the Presidential Records Act, which shields its work from public disclosure.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/4d40ec14-772f-56f6-baa7-f32d373770a6",
+   "web_url": "https://www.nytimes.com/2025/02/10/us/politics/trump-musk-doge-foia-public-records.html",
+   "word_count": 1079
+  },
+  {
+   "abstract": "The near misses on Tuesday came after a string of aviation disasters, including the midair collision between an Army helicopter and a passenger jet last month that killed 67 people.",
+   "byline": {
+    "original": "By Mark Walker"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Two Planes, in Washington and Chicago, Abort Landings to Avoid Collisions",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/772e23a7-2b27-5c9a-adc7-e26a5a67b08c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Aviation Accidents, Safety and Disasters",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "American Airlines",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Southwest Airlines Company",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Air Traffic Control",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Government Employees",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Layoffs and Job Reductions",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Reagan, Ronald, Washington National Airport",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Midway Airport (Chicago, Ill)",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Washington (DC)",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "Chicago (Ill)",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "The control tower at Ronald Reagan Washington National Airport in Arlington, Va., in February.",
+    "credit": "Kent Nishimura for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/02/25/multimedia/dc-DCA-mztf/dc-DCA-mztf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/02/25/multimedia/dc-DCA-mztf/dc-DCA-mztf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-02-25T22:58:49Z",
+   "section_name": "U.S.",
+   "snippet": "The near misses on Tuesday came after a string of aviation disasters, including the midair collision between an Army helicopter and a passenger jet last month that killed 67 people.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/772e23a7-2b27-5c9a-adc7-e26a5a67b08c",
+   "web_url": "https://www.nytimes.com/2025/02/25/us/politics/planes-near-miss-crash-washington-chicago.html",
+   "word_count": 669
+  }
+ ]
+}

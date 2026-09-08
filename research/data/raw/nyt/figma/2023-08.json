@@ -1,0 +1,102 @@
+{
+ "company": "Figma",
+ "query": "\"Figma\"",
+ "month": "2023-08",
+ "begin_date": "20230801",
+ "end_date": "20230831",
+ "fetched_at": "2026-09-08T04:29:14.134390+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "A Supreme Court justice. The governor of New Jersey. Senator Ted Cruz. A prominent MSNBC host. Practically half the tech world. What\u2019s behind this moment of thespian power?",
+   "byline": {
+    "original": "By Madison Malone Kircher"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Grown-Up Theater Kids Run the World",
+    "kicker": "",
+    "print_headline": "Theater Kids Are Older Now and Taking Over"
+   },
+   "_id": "nyt://article/f5b1fbf6-5099-565e-a446-7abd9cd22b68",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Theater",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Cruz, Ted",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Hayes, Chris (1979- )",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Jackson, Ketanji Brown (1970- )",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Actors and Actresses",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Murphy, Philip D (1957- )",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Labor and Jobs",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "audio-neutral-informative",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "audio-neutral-immersive",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Nolan Pelletier",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/08/20/fashion/20THEATER-KIDS/20THEATER-KIDS-articleLarge.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/08/20/fashion/20THEATER-KIDS/20THEATER-KIDS-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Styles",
+   "print_page": "3",
+   "print_section": "ST",
+   "pub_date": "2023-08-20T09:00:45Z",
+   "section_name": "Style",
+   "snippet": "A Supreme Court justice. The governor of New Jersey. Senator Ted Cruz. A prominent MSNBC host. Practically half the tech world. What\u2019s behind this moment of thespian power?",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/f5b1fbf6-5099-565e-a446-7abd9cd22b68",
+   "web_url": "https://www.nytimes.com/2023/08/20/style/grown-up-theater-kids.html",
+   "word_count": 1791
+  }
+ ]
+}

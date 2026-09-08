@@ -1,0 +1,921 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-09",
+ "begin_date": "20250901",
+ "end_date": "20250930",
+ "fetched_at": "2026-09-08T05:06:38.384449+00:00",
+ "hits": 17,
+ "docs": [
+  {
+   "abstract": "The company\u2019s Starship rocket, which has suffered a series of recent test explosions, is still years away from being ready for the mission, former NASA executives say.",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX",
+    "kicker": "",
+    "print_headline": "Musk Keeps Promising the Moon, But Delays Put the U.S. Behind"
+   },
+   "_id": "nyt://article/ae4894a8-a236-59d4-a315-64f33760257b",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Duffy, Sean P",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "The SpaceX Starship rocket has exploded during three of its four recent tests, and its current version can carry only a fraction of its promised payload into orbit.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/11/multimedia/spacexmoon-1-kftm/spacexmoon-1-kftm-articleLarge.jpg",
+     "height": 902,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/11/multimedia/spacexmoon-1-kftm/spacexmoon-1-kftm-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-09-20T09:00:42Z",
+   "section_name": "U.S.",
+   "snippet": "The company\u2019s Starship rocket, which has suffered a series of recent test explosions, is still years away from being ready for the mission, former NASA executives say.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/ae4894a8-a236-59d4-a315-64f33760257b",
+   "web_url": "https://www.nytimes.com/2025/09/20/us/politics/spacex-us-moon-race.html",
+   "word_count": 1784
+  },
+  {
+   "abstract": "A NASA mission, IMAP, and two more spacecraft that will study space weather are traveling through space atop a single SpaceX rocket.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "NASA Launches Mission to Map the Bubble Around Our Solar System",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/27e34a56-26f3-5c39-8e05-5db8a8ab590e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Telescopes and Observatories",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Solar System",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "NASA\u2019s Interstellar Mapping and Acceleration Probe, along with two spacecraft, during encapsulation inside a SpaceX Falcon 9 rocket at the Kennedy Space Center in Florida this month.",
+    "credit": "Kim Shiflett/NASA",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/23/multimedia/23HS-IMAP-launch-qmbp/23HS-IMAP-launch-qmbp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/23/multimedia/23HS-IMAP-launch-qmbp/23HS-IMAP-launch-qmbp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-09-24T09:02:24Z",
+   "section_name": "Science",
+   "snippet": "A NASA mission, IMAP, and two more spacecraft that will study space weather are traveling through space atop a single SpaceX rocket.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/27e34a56-26f3-5c39-8e05-5db8a8ab590e",
+   "web_url": "https://www.nytimes.com/2025/09/24/science/imap-nasa-spacex-launch.html",
+   "word_count": 1025
+  },
+  {
+   "abstract": "In \u201cRocket Dreams,\u201d Christian Davenport revels in the struggle between the billionaire moguls Elon Musk and Jeff Bezos to leave the Earth behind.",
+   "byline": {
+    "original": "By Rebecca Boyle"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "What Happened to the High-Tech Space Race?",
+    "kicker": "Nonfiction",
+    "print_headline": "Spacemen"
+   },
+   "_id": "nyt://article/fe6605ed-4518-5fc3-bacf-7ffc380894f5",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Books and Literature",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Personal Profile",
+     "rank": 8
+    },
+    {
+     "name": "Title",
+     "value": "Rocket Dreams: Musk, Bezos, and the Inside Story of the New, Trillion-Dollar Space Race (Book)",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Davenport, Christian",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Blue Origin",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Bezos, Jeffrey P",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Bridenstine, James F (1975- )",
+     "rank": 14
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 15
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 16
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/13/16TBR-DavenportReview-76951-cover/16TBR-DavenportReview-76951-cover-articleLarge.jpg",
+     "height": 902,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/13/16TBR-DavenportReview-76951-cover/16TBR-DavenportReview-76951-cover-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "BookReview",
+   "print_page": "15",
+   "print_section": "BR",
+   "pub_date": "2025-09-13T09:00:07Z",
+   "section_name": "Books",
+   "snippet": "In \u201cRocket Dreams,\u201d Christian Davenport revels in the struggle between the billionaire moguls Elon Musk and Jeff Bezos to leave the Earth behind.",
+   "source": "The New York Times",
+   "subsection_name": "Book Review",
+   "type_of_material": "Review",
+   "uri": "nyt://article/fe6605ed-4518-5fc3-bacf-7ffc380894f5",
+   "web_url": "https://www.nytimes.com/2025/09/13/books/review/rocket-dreams-christian-davenport.html",
+   "word_count": 1262
+  },
+  {
+   "abstract": "Mr. Musk spent the summer at his artificial intelligence start-up xAI, trying to match the runaway success of OpenAI. The result was chaos.",
+   "byline": {
+    "original": "By Cade Metz, Kate Conger and Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Since Leaving Washington, Elon Musk Has Been All In on His A.I. Company",
+    "kicker": "",
+    "print_headline": "Musk All In At A.I. Firm After Exit From D.C."
+   },
+   "_id": "nyt://article/3fc00f59-ffd3-5b3d-9c51-accda487eb5b",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Since leaving Washington in June, Elon Musk has focused much of his time on his A.I. start-up.",
+    "credit": "Maansi Srivastava for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/18/multimedia/X-AI-musk-mzjw/X-AI-musk-mzjw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/18/multimedia/X-AI-musk-mzjw/X-AI-musk-mzjw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-09-18T21:44:46Z",
+   "section_name": "Technology",
+   "snippet": "Mr. Musk spent the summer at his artificial intelligence start-up xAI, trying to match the runaway success of OpenAI. The result was chaos.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/3fc00f59-ffd3-5b3d-9c51-accda487eb5b",
+   "web_url": "https://www.nytimes.com/2025/09/18/technology/elon-musk-artificial-intelligence-xai.html",
+   "word_count": 1681
+  },
+  {
+   "abstract": "Tech companies are displaying A.I., lasers and more as they compete for a piece of President Trump\u2019s ambitious plan for a missile defense shield.",
+   "byline": {
+    "original": "By Sheera Frenkel"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Tech Companies Show Off for Trump\u2019s \u2018Golden Dome\u2019",
+    "kicker": "",
+    "print_headline": "Tech Companies Show Off  For Trump\u2019s \u2018Golden Dome\u2019"
+   },
+   "_id": "nyt://article/be90dc4f-9a81-547e-84a3-c642ba2a99d6",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Missiles and Missile Defense Systems",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Defense Contracts",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Defense Department",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Palantir Technologies",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Anduril Industries Inc",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Varda Space Industries",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "LeoLabs Inc",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "Will Bruey, the chief executive of Varda Space Industries, at the company\u2019s headquarters in El Segundo, Calif. ",
+    "credit": "Philip Cheung for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/03/multimedia/GOLDENDOME-Bruey-qtbw/VARA-Bruey-qtbw-articleLarge.jpg",
+     "height": 450,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/03/multimedia/GOLDENDOME-Bruey-qtbw/VARA-Bruey-qtbw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2025-09-08T15:49:14Z",
+   "section_name": "Technology",
+   "snippet": "Tech companies are displaying A.I., lasers and more as they compete for a piece of President Trump\u2019s ambitious plan for a missile defense shield.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/be90dc4f-9a81-547e-84a3-c642ba2a99d6",
+   "web_url": "https://www.nytimes.com/2025/09/08/technology/space-capsules-ai-lasers-tech-golden-dome.html",
+   "word_count": 1285
+  },
+  {
+   "abstract": "The 10 astronaut candidates, six of them women, will begin two years of training before becoming eligible for missions to low-Earth orbit and perhaps one day to the moon and Mars.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Women Outnumber Men in NASA\u2019s Newest Astronaut Class",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/0b0f109a-1313-5969-9be5-14ab0a897974",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Women and Girls",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Johnson Space Center",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Menon, Anna (1985- )",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "A screenshot from the live feed of NASA\u2019s announcement of the 2025 astronaut candidate class at the Johnson Space Center in Houston on Monday.",
+    "credit": "NASA",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/22/multimedia/22HS-astronauts-cvtw/22HS-astronauts-cvtw-articleLarge.jpg",
+     "height": 338,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/22/multimedia/22HS-astronauts-cvtw/22HS-astronauts-cvtw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-09-22T18:20:48Z",
+   "section_name": "Science",
+   "snippet": "The 10 astronaut candidates, six of them women, will begin two years of training before becoming eligible for missions to low-Earth orbit and perhaps one day to the moon and Mars.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/0b0f109a-1313-5969-9be5-14ab0a897974",
+   "web_url": "https://www.nytimes.com/2025/09/22/science/nasa-new-astronauts.html",
+   "word_count": 1114
+  },
+  {
+   "abstract": "In a preview of their flight, the crew of Artemis II, three Americans and a Canadian, struck a tone that veered away from the political currents of the moment.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Astronauts on NASA Moon Mission Aim to Make Space Great for All",
+    "kicker": "",
+    "print_headline": "Moon Mission Crew Aims to Make Space An Inspiration for All"
+   },
+   "_id": "nyt://article/4b14a0ac-5f8d-5281-9b3c-08f939e9ed09",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artemis Program",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Canadian Space Agency",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Glover, Victor J Jr",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Hansen, Jeremy (1976- )",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Koch, Christina H",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Wiseman, G Reid",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "NASA\u2019s Artemis II crew members, from left, Jeremy Hansen, Christina Koch, Victor Glover and Reid Wiseman on the U.S.S. San Diego to train for capsule recovery procedures off the coast of California last year.",
+    "credit": "NASA, via Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/10/24/multimedia/24HS-moon-launch-promo/24HS-moon-launch-promo-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/10/24/multimedia/24HS-moon-launch-promo/24HS-moon-launch-promo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "14",
+   "print_section": "A",
+   "pub_date": "2025-09-26T09:00:47Z",
+   "section_name": "Science",
+   "snippet": "In a preview of their flight, the crew of Artemis II, three Americans and a Canadian, struck a tone that veered away from the political currents of the moment.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4b14a0ac-5f8d-5281-9b3c-08f939e9ed09",
+   "web_url": "https://www.nytimes.com/2025/09/26/science/nasa-astronauts-moon-artemis-ii.html",
+   "word_count": 1122
+  },
+  {
+   "abstract": "The brokerage plans to announce a new publicly traded venture capital fund that would let ordinary investors get a piece of privately held start-ups.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Ian Mount and Vivienne Walt"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Robinhood Bets Again on Opening Up Private Markets",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/88a9d752-e65e-528e-a4d7-8e719ebd2cb6",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Tenev, Vladimir",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Robinhood Financial LLC",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Securities and Exchange Commission",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Robinhood, the popular trading app, plans to give customers more access to invest in privately held companies.",
+    "credit": "Mark Lennihan/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/15/multimedia/15db-robinhood-jlbp/15db-robinhood-jlbp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/15/multimedia/15db-robinhood-jlbp/15db-robinhood-jlbp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-09-15T11:43:00Z",
+   "section_name": "Business",
+   "snippet": "The brokerage plans to announce a new publicly traded venture capital fund that would let ordinary investors get a piece of privately held start-ups.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/88a9d752-e65e-528e-a4d7-8e719ebd2cb6",
+   "web_url": "https://www.nytimes.com/2025/09/15/business/dealbook/robinhood-venture-capital-fund.html",
+   "word_count": 1714
+  },
+  {
+   "abstract": "The F.C.C. chairman, who is in the spotlight for comments that may have led to the suspension of TV show host Jimmy Kimmel, has long criticized the media for what he called liberal bias.",
+   "byline": {
+    "original": "By Cecilia Kang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Who Is Brendan Carr of the F.C.C.?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/a53131fd-e337-5c86-bfb6-9f5893cf1edb",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Carr, Brendan Thomas (1979- )",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Personal Profile",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Communications Commission",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Television",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "ABC Inc",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Kirk, Charlie (1993- )",
+     "rank": 7
+    },
+    {
+     "name": "Title",
+     "value": "Jimmy Kimmel Live (TV Program)",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Kimmel, Jimmy",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Media",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Assassinations and Attempted Assassinations",
+     "rank": 12
+    }
+   ],
+   "multimedia": {
+    "caption": "Brendan Carr, chairman of the Federal Communications Commission, in February.",
+    "credit": "Tierney L. Cross for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/18/multimedia/18biz-carr-faq-vgzl/18biz-carr-faq-vgzl-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/18/multimedia/18biz-carr-faq-vgzl/18biz-carr-faq-vgzl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-09-18T04:11:51Z",
+   "section_name": "Technology",
+   "snippet": "The F.C.C. chairman, who is in the spotlight for comments that may have led to the suspension of TV show host Jimmy Kimmel, has long criticized the media for what he called liberal bias.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a53131fd-e337-5c86-bfb6-9f5893cf1edb",
+   "web_url": "https://www.nytimes.com/2025/09/18/technology/brendan-carr-fcc-jimmy-kimmel.html",
+   "word_count": 963
+  },
+  {
+   "abstract": "Errol Musk has been accused of sexually abusing five of his children and stepchildren since 1993, a Times investigation found. Family members have appealed to Elon Musk for help.",
+   "byline": {
+    "original": "By Kirsten Grind and John Eligon"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk\u2019s Father Accused of Child Sexual Abuse",
+    "kicker": "Times Investigation",
+    "print_headline": "Musk\u2019s Father Is Accused of Child Sexual Abuse"
+   },
+   "_id": "nyt://article/315ea89c-6a7d-5f2e-83b1-c4d02705d887",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Errol",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Sex Crimes",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Child Abuse and Neglect",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Maye (1948- )",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Bezuidenhout, Heide-Mari",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Kimbal",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "Errol Musk, who has at least nine children and stepchildren, at his home in South Africa in 2022.",
+    "credit": "Gianluigi Guercia/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/26/multimedia/00int-muskfamily-safrica-1-tfqb/00int-muskfamily-safrica-1-tfqb-articleLarge.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/26/multimedia/00int-muskfamily-safrica-1-tfqb/00int-muskfamily-safrica-1-tfqb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-09-23T09:00:28Z",
+   "section_name": "World",
+   "snippet": "Errol Musk has been accused of sexually abusing five of his children and stepchildren since 1993, a Times investigation found. Family members have appealed to Elon Musk for help.",
+   "source": "The New York Times",
+   "subsection_name": "Africa",
+   "type_of_material": "News",
+   "uri": "nyt://article/315ea89c-6a7d-5f2e-83b1-c4d02705d887",
+   "web_url": "https://www.nytimes.com/2025/09/23/world/africa/elon-musk-father-errol-child-abuse.html",
+   "word_count": 3044
+  }
+ ]
+}

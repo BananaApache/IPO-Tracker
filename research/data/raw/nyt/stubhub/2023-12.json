@@ -1,0 +1,102 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2023-12",
+ "begin_date": "20231201",
+ "end_date": "20231231",
+ "fetched_at": "2026-09-08T04:49:14.151616+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The Fans First Act would require disclosures about fees and the location of tickets, strengthen a law banning bots and set stiff penalties for violations.",
+   "byline": {
+    "original": "By Ben Sisario"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Senate Introduces Long-Awaited Bill Promising Changes for Ticket Buying",
+    "kicker": "",
+    "print_headline": "Senate Introduces Bill Promising Changes for Ticket Buying"
+   },
+   "_id": "nyt://article/8d97b36a-03d9-5164-8ea3-bb60b40f9a52",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Law and Legislation",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Ticket Scalping",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Music",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Protection",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Ticketmaster",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "StubHub",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "SeatGeek Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Anschutz Entertainment Group (AEG) Live",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Live Nation Entertainment Inc",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "The proposed law comes as ticketing has become a hot-button issue for voters and lawmakers, with prices at record highs and the selling practices of primary ticketing companies and resale marketplaces under fire.",
+    "credit": "Nina Westervelt for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/12/08/multimedia/08ticket-bill-qkfl/08ticket-bill-qkfl-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/12/08/multimedia/08ticket-bill-qkfl/08ticket-bill-qkfl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Culture",
+   "print_page": "18",
+   "print_section": "A",
+   "pub_date": "2023-12-08T18:03:15Z",
+   "section_name": "Arts",
+   "snippet": "The Fans First Act would require disclosures about fees and the location of tickets, strengthen a law banning bots and set stiff penalties for violations.",
+   "source": "The New York Times",
+   "subsection_name": "Music",
+   "type_of_material": "News",
+   "uri": "nyt://article/8d97b36a-03d9-5164-8ea3-bb60b40f9a52",
+   "web_url": "https://www.nytimes.com/2023/12/08/arts/music/fans-first-act-ticket-bill.html",
+   "word_count": 802
+  }
+ ]
+}

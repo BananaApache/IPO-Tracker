@@ -1,0 +1,202 @@
+{
+  "probed_at": "2026-09-08T04:23:09.480207+00:00",
+  "note": "What each source actually delivered, measured. See research/README.md.",
+  "probes": [
+    {
+      "source": "finnhub",
+      "question": "Does the IPO calendar return a windowed month?",
+      "request": "GET /api/v1/calendar/ipo?from=2024-03-01&to=2024-03-31",
+      "verdict": "ok",
+      "detail": "29 rows for 2024-03.",
+      "evidence": {
+        "row_count": 29,
+        "fields": [
+          "date",
+          "exchange",
+          "name",
+          "numberOfShares",
+          "price",
+          "status",
+          "symbol",
+          "totalSharesValue"
+        ],
+        "statuses": [
+          "expected",
+          "filed",
+          "priced",
+          "withdrawn"
+        ]
+      }
+    },
+    {
+      "source": "finnhub",
+      "question": "Can this key read historical daily OHLC?",
+      "request": "GET /api/v1/stock/candle?symbol=RDDT&resolution=D",
+      "verdict": "gated",
+      "detail": "HTTP 403: {\"error\":\"You don't have access to this resource.\"}",
+      "evidence": {}
+    },
+    {
+      "source": "nyt",
+      "question": "Where is the hit count, and does a known window return one?",
+      "request": "GET articlesearch q=\"Instacart\" 2023-09",
+      "verdict": "ok",
+      "detail": "hits=17 at response.metadata.hits; response.meta absent=True",
+      "evidence": {
+        "has_meta_key": false,
+        "has_metadata_key": true,
+        "returned_docs": 10,
+        "hits": 17
+      }
+    },
+    {
+      "source": "nyt",
+      "question": "Does fielded fq (Lucene) narrow a query, or return nothing?",
+      "request": "GET articlesearch fq=organizations:(\"Instacart\") 2023-09",
+      "verdict": "empty",
+      "detail": "hits=0. Fielded fq returns 0 where the same term as q returns 17; treat fq as unavailable on this key and use q only.",
+      "evidence": {
+        "hits": 0
+      }
+    },
+    {
+      "source": "nyt",
+      "question": "Does history reach 2019, the start of the study window?",
+      "request": "GET articlesearch q=\"Instacart\" 2019-01..06",
+      "verdict": "ok",
+      "detail": "hits=15 for 2019 H1.",
+      "evidence": {
+        "hits": 15
+      }
+    },
+    {
+      "source": "nyt",
+      "question": "How much noise does an ordinary-word brand pull in?",
+      "request": "GET articlesearch q=\"Circle\" vs q=\"Circle\" \"stablecoin\", 2025-06",
+      "verdict": "ok",
+      "detail": "q=\"Circle\" -> 124 hits; q=\"Circle\" \"stablecoin\" -> 5. Implicit AND of quoted phrases works and is the only precision lever available without fq.",
+      "evidence": {
+        "bare_hits": 124,
+        "phrase_hits": 5
+      }
+    },
+    {
+      "source": "gnews",
+      "question": "Does the free tier return articles for a 2023 window?",
+      "request": "GET /api/v4/search q=\"Instacart\" 2023-01..03",
+      "verdict": "gated",
+      "detail": "totalArticles=24 but articles=[] -- 10 articles were removed from the response because historical data beyond 30 days is only available on paid plans. Upgrade your plan here to access historical data: https://gnews.io/change-plan",
+      "evidence": {
+        "totalArticles": 24,
+        "returned_articles": 0,
+        "notice": "10 articles were removed from the response because historical data beyond 30 days is only available on paid plans. Upgrade your plan here to access historical data: https://gnews.io/change-plan",
+        "realtime_notice": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+      }
+    },
+    {
+      "source": "twitterapis",
+      "question": "Does search reach 2019?",
+      "request": "GET /twitter/tweet/advanced_search \"Instacart\" since:2019-01-01 until:2019-01-31",
+      "verdict": "ok",
+      "detail": "20 tweets, next_cursor present=True. No total-count field: a monthly count requires full pagination.",
+      "evidence": {
+        "returned": 20,
+        "count_field": 20,
+        "has_cursor": true,
+        "sample_created_at": [
+          "Fri Feb 01 04:05:59 +0000 2019",
+          "Fri Feb 01 01:44:02 +0000 2019",
+          "Fri Feb 01 01:06:24 +0000 2019"
+        ]
+      }
+    },
+    {
+      "source": "twitterapis",
+      "question": "Does search reach 2026?",
+      "request": "GET /twitter/tweet/advanced_search \"Figma\" since:2026-08-01 until:2026-08-31",
+      "verdict": "ok",
+      "detail": "20 tweets, next_cursor present=True. No total-count field: a monthly count requires full pagination.",
+      "evidence": {
+        "returned": 20,
+        "count_field": 20,
+        "has_cursor": true,
+        "sample_created_at": [
+          "Tue Sep 01 04:58:09 +0000 2026",
+          "Tue Sep 01 04:56:01 +0000 2026",
+          "Tue Sep 01 04:50:57 +0000 2026"
+        ]
+      }
+    },
+    {
+      "source": "redditapis",
+      "question": "How far back does one page of sort=new reach?",
+      "request": "GET /api/reddit/search?q=Instacart&sort=new&t=all&limit=100",
+      "verdict": "ok",
+      "detail": "100 posts spanning 2.17 days (2026-09-05 to 2026-09-08). The endpoint has no from/to parameter -- only a coarse `t` bucket -- so a dated monthly window cannot be requested, and reaching 2019 by paging `new` is bounded by Reddit's own listing cut-off.",
+      "evidence": {
+        "returned": 100,
+        "span_days": 2.17,
+        "listing_status": null,
+        "hint": "",
+        "date_range_params": "absent: only t=hour|day|week|month|year|all"
+      }
+    },
+    {
+      "source": "polygon",
+      "question": "How far back does the plan grant daily bars?",
+      "request": "GET /v2/aggs/ticker/AAPL/range/1/day/{d}/{d}, bisected",
+      "verdict": "ok",
+      "detail": "Earliest authorized date found: 2024-09-08. That is 730 days before 2026-09-08 -- a rolling two-year entitlement, not a fixed start date.",
+      "evidence": {
+        "earliest_authorized": "2024-09-08",
+        "probed_on": "2026-09-08",
+        "checks": [
+          {
+            "date": "2023-09-07",
+            "status": "NOT_AUTHORIZED"
+          },
+          {
+            "date": "2025-03-07",
+            "status": "OK"
+          },
+          {
+            "date": "2024-06-06",
+            "status": "NOT_AUTHORIZED"
+          },
+          {
+            "date": "2024-10-21",
+            "status": "OK"
+          },
+          {
+            "date": "2024-08-13",
+            "status": "NOT_AUTHORIZED"
+          },
+          {
+            "date": "2024-09-16",
+            "status": "OK"
+          },
+          {
+            "date": "2024-08-30",
+            "status": "NOT_AUTHORIZED"
+          },
+          {
+            "date": "2024-09-07",
+            "status": "NOT_AUTHORIZED"
+          },
+          {
+            "date": "2024-09-11",
+            "status": "OK"
+          },
+          {
+            "date": "2024-09-09",
+            "status": "OK"
+          },
+          {
+            "date": "2024-09-08",
+            "status": "OK"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+ "company": "Circle Internet",
+ "query": "\"Circle\" \"stablecoin\"",
+ "month": "2024-04",
+ "begin_date": "20240401",
+ "end_date": "20240430",
+ "fetched_at": "2026-09-08T04:55:14.204740+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The president\u2019s effort to court voters in crucial swing states is influencing economic and trade policy, and worrying longstanding allies.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Politics of a Steel Deal Hangs Over Biden\u2019s Japan Summit",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/1ebd8d29-bac1-5c4f-b15e-b04d05f03d89",
+   "keywords": [
+    {
+     "name": "Location",
+     "value": "Japan",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Kishida, Fumio",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Biden, Joseph R Jr",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Nippon Steel Corporation",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "United States Steel Corporation",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Presidential Election of 2024",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Pennsylvania",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "The White House rolled out the red carpet for Fumio Kishida, Japan\u2019s prime minister, but local politics are hitting relations between the countries.",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/04/10/multimedia/10db-kishida-tfvc/10db-kishida-tfvc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/04/10/multimedia/10db-kishida-tfvc/10db-kishida-tfvc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-04-10T11:57:04Z",
+   "section_name": "Business",
+   "snippet": "The president\u2019s effort to court voters in crucial swing states is influencing economic and trade policy, and worrying longstanding allies.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/1ebd8d29-bac1-5c4f-b15e-b04d05f03d89",
+   "web_url": "https://www.nytimes.com/2024/04/10/business/dealbook/biden-japan-summit-nippon-steel.html",
+   "word_count": 1799
+  }
+ ]
+}

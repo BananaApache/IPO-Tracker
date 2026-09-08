@@ -1,0 +1,177 @@
+{
+ "from": "2023-06-01",
+ "to": "2023-06-30",
+ "fetched_at": "2026-09-08T04:22:12.609375+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2023-06-30",
+   "exchange": null,
+   "name": "Claire's Holdings LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-06-30",
+   "exchange": "NYSE",
+   "name": "Vesta Real Estate Corporation, S.A.B. de C.V.",
+   "numberOfShares": 12500000,
+   "price": "31.00",
+   "status": "priced",
+   "symbol": "VTMX",
+   "totalSharesValue": 387500000
+  },
+  {
+   "date": "2023-06-30",
+   "exchange": "NASDAQ Capital",
+   "name": "INTENSITY THERAPEUTICS, INC.",
+   "numberOfShares": 3900000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "INTS",
+   "totalSharesValue": 19500000
+  },
+  {
+   "date": "2023-06-29",
+   "exchange": null,
+   "name": "Eleison Pharmaceuticals Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-06-29",
+   "exchange": "NYSE",
+   "name": "Fidelis Insurance Holdings Ltd",
+   "numberOfShares": 15000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "FIHL",
+   "totalSharesValue": 210000000
+  },
+  {
+   "date": "2023-06-29",
+   "exchange": "NYSE",
+   "name": "Kodiak Gas Services, Inc.",
+   "numberOfShares": 16000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "KGS",
+   "totalSharesValue": 256000000
+  },
+  {
+   "date": "2023-06-29",
+   "exchange": "NYSE",
+   "name": "Savers Value Village, Inc.",
+   "numberOfShares": 22291666,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "SVV",
+   "totalSharesValue": 401249988
+  },
+  {
+   "date": "2023-06-28",
+   "exchange": "NASDAQ Capital",
+   "name": "Bukit Jalil Global Acquisition 1 Ltd.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BUJAU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2023-06-28",
+   "exchange": "NASDAQ Global",
+   "name": "GEN Restaurant Group, Inc.",
+   "numberOfShares": 3600000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "GENK",
+   "totalSharesValue": 43200000
+  },
+  {
+   "date": "2023-06-16",
+   "exchange": "NASDAQ Capital",
+   "name": "BranchOut Food Inc.",
+   "numberOfShares": 1190000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "BOF",
+   "totalSharesValue": 7140000
+  },
+  {
+   "date": "2023-06-16",
+   "exchange": "NYSE MKT",
+   "name": "Azitra Inc",
+   "numberOfShares": 1500000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "AZTR",
+   "totalSharesValue": 7500000
+  },
+  {
+   "date": "2023-06-15",
+   "exchange": "NYSE",
+   "name": "CAVA GROUP, INC.",
+   "numberOfShares": 14444444,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "CAVA",
+   "totalSharesValue": 317777768
+  },
+  {
+   "date": "2023-06-14",
+   "exchange": "NASDAQ Global",
+   "name": "ESH Acquisition Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ESHAU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2023-06-12",
+   "exchange": null,
+   "name": "OptMed, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-06-09",
+   "exchange": null,
+   "name": "Modern Mining Technology Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MDRN",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2023-06-05",
+   "exchange": null,
+   "name": "Atlas Growth Acquisition Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-06-02",
+   "exchange": null,
+   "name": "WARRANTEE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

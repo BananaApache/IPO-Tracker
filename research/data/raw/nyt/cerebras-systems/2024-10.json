@@ -1,0 +1,51 @@
+{
+ "company": "Cerebras Systems",
+ "query": "\"Cerebras Systems\"",
+ "month": "2024-10",
+ "begin_date": "20241001",
+ "end_date": "20241031",
+ "fetched_at": "2026-09-08T05:28:02.494947+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The Justice Department could push for the tech giant to sell off a business to end its lock on online search. But a move would be tough to pull off.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why Breaking Up Google Would Be Hard to Do",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/74a77e03-d78b-5db7-8d40-4f2ebaa4475a",
+   "keywords": [],
+   "multimedia": {
+    "caption": "The Biden administration may ask for a breakup of Google to end the tech giant\u2019s lock on search.",
+    "credit": "Jason Henry for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/09/multimedia/09db-google-hkzj/09db-google-hkzj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/09/multimedia/09db-google-hkzj/09db-google-hkzj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-10-09T12:11:41Z",
+   "section_name": "Business",
+   "snippet": "The Justice Department could push for the tech giant to sell off a business to end its lock on online search. But a move would be tough to pull off.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/74a77e03-d78b-5db7-8d40-4f2ebaa4475a",
+   "web_url": "https://www.nytimes.com/2024/10/09/business/dealbook/google-breakup-antitrust.html",
+   "word_count": 1784
+  }
+ ]
+}

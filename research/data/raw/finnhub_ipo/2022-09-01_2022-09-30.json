@@ -1,0 +1,347 @@
+{
+ "from": "2022-09-01",
+ "to": "2022-09-30",
+ "fetched_at": "2026-09-08T04:21:54.590915+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2022-09-30",
+   "exchange": null,
+   "name": "Millstreet Capital Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-30",
+   "exchange": "NYSE MKT",
+   "name": "dMY Squared Technology Group, Inc.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DMYYU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2022-09-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Qomolangma Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "QOMOU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2022-09-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Laser Photonics Corp",
+   "numberOfShares": 3000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "LASE",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2022-09-29",
+   "exchange": null,
+   "name": "Leonardo DRS, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-27",
+   "exchange": null,
+   "name": "FG New America Acquisition II Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-27",
+   "exchange": "NASDAQ Global",
+   "name": "Atlis Motor Vehicles Inc",
+   "numberOfShares": 1852345,
+   "price": "27.50",
+   "status": "priced",
+   "symbol": "AMV",
+   "totalSharesValue": 50939488
+  },
+  {
+   "date": "2022-09-22",
+   "exchange": null,
+   "name": "DMB Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-20",
+   "exchange": null,
+   "name": "Dorchester Capital Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-20",
+   "exchange": "NASDAQ Global",
+   "name": "Global Star Acquisition Inc.",
+   "numberOfShares": 8000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GLSTU",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2022-09-16",
+   "exchange": "NASDAQ Capital",
+   "name": "Nexalin Technology, Inc.",
+   "numberOfShares": 2315000,
+   "price": "4.15",
+   "status": "priced",
+   "symbol": "NXL",
+   "totalSharesValue": 9607250
+  },
+  {
+   "date": "2022-09-16",
+   "exchange": "NYSE Arca",
+   "name": "Teucrium Commodity Trust",
+   "numberOfShares": 0,
+   "price": null,
+   "status": "priced",
+   "symbol": "DEFI",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2022-09-15",
+   "exchange": "NASDAQ Global",
+   "name": "Third Harmonic Bio, Inc.",
+   "numberOfShares": 10900000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "THRD",
+   "totalSharesValue": 185300000
+  },
+  {
+   "date": "2022-09-15",
+   "exchange": "NYSE",
+   "name": "Corebridge Financial, Inc.",
+   "numberOfShares": 80000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "CRBG",
+   "totalSharesValue": 1680000000
+  },
+  {
+   "date": "2022-09-14",
+   "exchange": "NASDAQ Capital",
+   "name": "LINKBANCORP, Inc.",
+   "numberOfShares": 4575000,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "LNKB",
+   "totalSharesValue": 34312500
+  },
+  {
+   "date": "2022-09-14",
+   "exchange": null,
+   "name": "GLOBAL BACKBONE TECHNOLOGY LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 7187500
+  },
+  {
+   "date": "2022-09-13",
+   "exchange": null,
+   "name": "Elicio Therapeutics, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-13",
+   "exchange": null,
+   "name": "Keter1 Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Wearable Devices Ltd.",
+   "numberOfShares": 3750000,
+   "price": "4.25",
+   "status": "priced",
+   "symbol": "WLDS",
+   "totalSharesValue": 15937500
+  },
+  {
+   "date": "2022-09-13",
+   "exchange": null,
+   "name": "Norcor Technologies Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2022-09-12",
+   "exchange": null,
+   "name": "Grandview Capital Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-12",
+   "exchange": null,
+   "name": "MN8 Energy, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MNX",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-09-09",
+   "exchange": null,
+   "name": "Agendia N.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-09",
+   "exchange": null,
+   "name": "INSU ACQUISITION CORP IV",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-09",
+   "exchange": "NASDAQ Global",
+   "name": "EF Hutton Acquisition Corp I",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EFHTU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-09-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Yoshiharu Global Co.",
+   "numberOfShares": 2940000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "YOSH",
+   "totalSharesValue": 11760000
+  },
+  {
+   "date": "2022-09-08",
+   "exchange": null,
+   "name": "Neolara Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2022-09-07",
+   "exchange": null,
+   "name": "Qiniu Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-06",
+   "exchange": null,
+   "name": "SEVEN OAKS ACQUISITION CORP. II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-06",
+   "exchange": null,
+   "name": "DD3 Acquisition Corp. III",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-02",
+   "exchange": null,
+   "name": "Chobani Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-02",
+   "exchange": null,
+   "name": "Candela Medical, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-09-02",
+   "exchange": null,
+   "name": "Prime Skyline Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PSE",
+   "totalSharesValue": 28750000
+  },
+  {
+   "date": "2022-09-01",
+   "exchange": "NASDAQ Capital",
+   "name": "bioAffinity Technologies, Inc.",
+   "numberOfShares": 1282600,
+   "price": "6.125",
+   "status": "priced",
+   "symbol": "BIAF",
+   "totalSharesValue": 7862338
+  }
+ ]
+}

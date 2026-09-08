@@ -1,0 +1,527 @@
+{
+ "from": "2021-08-01",
+ "to": "2021-08-31",
+ "fetched_at": "2026-09-08T04:21:28.576233+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2021-08-31",
+   "exchange": "NASDAQ Capital",
+   "name": "Alpine Acquisition Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "REVEU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-08-31",
+   "exchange": "NASDAQ Global Select",
+   "name": "DoubleDown Interactive Co., Ltd.",
+   "numberOfShares": 6316000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "DDI",
+   "totalSharesValue": 113688000
+  },
+  {
+   "date": "2021-08-31",
+   "exchange": null,
+   "name": "INTERNET SCIENCES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ISI",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2021-08-31",
+   "exchange": null,
+   "name": "Kepuni Holdings Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KPNT",
+   "totalSharesValue": 28750000
+  },
+  {
+   "date": "2021-08-30",
+   "exchange": "NASDAQ Capital",
+   "name": "CHW Acquisition Corp",
+   "numberOfShares": 11000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CHWAU",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2021-08-27",
+   "exchange": "NASDAQ Capital",
+   "name": "SeqLL, Inc.",
+   "numberOfShares": 3060000,
+   "price": "4.25",
+   "status": "priced",
+   "symbol": "SQL",
+   "totalSharesValue": 13005000
+  },
+  {
+   "date": "2021-08-26",
+   "exchange": null,
+   "name": "Teads S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-08-26",
+   "exchange": "NASDAQ Global",
+   "name": "Cascadia Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CCAIU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-08-26",
+   "exchange": "NASDAQ Capital",
+   "name": "Minority Equality Opportunities Acquisition Inc.",
+   "numberOfShares": 11000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MEOAU",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2021-08-26",
+   "exchange": "NASDAQ Capital",
+   "name": "RenovoRx, Inc.",
+   "numberOfShares": 1850000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "RNXT",
+   "totalSharesValue": 16650000
+  },
+  {
+   "date": "2021-08-26",
+   "exchange": "NASDAQ Capital",
+   "name": "Springwater Special Situations Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SWSSU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-08-23",
+   "exchange": null,
+   "name": "Grail, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-08-20",
+   "exchange": null,
+   "name": "Vividion Therapeutics, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-08-20",
+   "exchange": "NYSE",
+   "name": "Waverley Capital Acquisition Corp. 1",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WAVCU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-08-13",
+   "exchange": "NYSE",
+   "name": "Kensington Capital Acquisition Corp. V",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KCGIU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2021-08-13",
+   "exchange": "NASDAQ Capital",
+   "name": "AxonPrime Infrastructure Acquisition Corp",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "APMIU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-08-13",
+   "exchange": "NASDAQ Capital",
+   "name": "DatChat, Inc.",
+   "numberOfShares": 2891567,
+   "price": "4.15",
+   "status": "priced",
+   "symbol": "DATS",
+   "totalSharesValue": 12000003
+  },
+  {
+   "date": "2021-08-13",
+   "exchange": "NASDAQ Global",
+   "name": "Armada Acquisition Corp. I",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AACIU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-08-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Dermata Therapeutics, Inc.",
+   "numberOfShares": 2571428,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "DRMA",
+   "totalSharesValue": 17999996
+  },
+  {
+   "date": "2021-08-13",
+   "exchange": "NASDAQ Capital",
+   "name": "CENAQ Energy Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CENQU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-08-13",
+   "exchange": "NASDAQ Capital",
+   "name": "Jupiter Acquisition Corp",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JAQCU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-08-13",
+   "exchange": null,
+   "name": "Phoenix Acquisition Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 46000000
+  },
+  {
+   "date": "2021-08-12",
+   "exchange": "NASDAQ Capital",
+   "name": "Oxbridge Acquisition Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OXACU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-08-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "Southern States Bancshares, Inc.",
+   "numberOfShares": 2000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "SSBK",
+   "totalSharesValue": 38000000
+  },
+  {
+   "date": "2021-08-12",
+   "exchange": "NYSE",
+   "name": "AfterNext HealthTech Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AFTRU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2021-08-12",
+   "exchange": "NASDAQ Capital",
+   "name": "PHP Ventures Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PPHPU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2021-08-11",
+   "exchange": "NASDAQ Capital",
+   "name": "PONO Capital Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PONOU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-08-11",
+   "exchange": "NYSE",
+   "name": "World Quantum Growth Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WQGAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-08-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Decarbonization Plus Acquisition Corp IV",
+   "numberOfShares": 27500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DCRDU",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2021-08-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Chardan NexTech Acquisition 2 Corp.",
+   "numberOfShares": 11000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CNTQU",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2021-08-11",
+   "exchange": "NASDAQ Capital",
+   "name": "10X Capital Venture Acquisition Corp. II",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VCXAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-08-11",
+   "exchange": "NASDAQ Capital",
+   "name": "TPB Acquisition Corp I",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TPBAU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2021-08-10",
+   "exchange": null,
+   "name": "ROX Financial LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-08-10",
+   "exchange": "NASDAQ Global",
+   "name": "Eliem Therapeutics, Inc.",
+   "numberOfShares": 6400000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "ELYM",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2021-08-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Abri SPAC I, Inc.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ASPAU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2021-08-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Conyers Park III Acquisition Corp.",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CPAAU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2021-08-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Avista Public Acquisition Corp. II",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AHPAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-08-10",
+   "exchange": null,
+   "name": "IceCure Medical Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ICCM",
+   "totalSharesValue": 120370105
+  },
+  {
+   "date": "2021-08-06",
+   "exchange": null,
+   "name": "Perspectum Group plc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-08-06",
+   "exchange": "NASDAQ Global",
+   "name": "Adagio Therapeutics, Inc.",
+   "numberOfShares": 18200000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ADGI",
+   "totalSharesValue": 309400000
+  },
+  {
+   "date": "2021-08-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Roth CH Acquisition IV Co.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ROCGU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-08-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Nova Vision Acquisition Corp",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NOVVU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2021-08-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Riverview Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RVACU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2021-08-05",
+   "exchange": "NASDAQ Global Select",
+   "name": "European Wax Center, Inc.",
+   "numberOfShares": 10600000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "EWCZ",
+   "totalSharesValue": 180200000
+  },
+  {
+   "date": "2021-08-05",
+   "exchange": "NYSE",
+   "name": "Weber Inc.",
+   "numberOfShares": 17857143,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "WEBR",
+   "totalSharesValue": 250000002
+  },
+  {
+   "date": "2021-08-05",
+   "exchange": "NASDAQ Capital",
+   "name": "Orange County Bancorp, Inc. /DE/",
+   "numberOfShares": 1000000,
+   "price": "33.50",
+   "status": "priced",
+   "symbol": "OBT",
+   "totalSharesValue": 33500000
+  },
+  {
+   "date": "2021-08-05",
+   "exchange": "NASDAQ Capital",
+   "name": "Gladstone Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GLEEU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-08-05",
+   "exchange": null,
+   "name": "Hash Space Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HACUU",
+   "totalSharesValue": 46000000
+  },
+  {
+   "date": "2021-08-04",
+   "exchange": "NASDAQ Capital",
+   "name": "Blue Whale Acquisition Corp I",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BWCAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-08-04",
+   "exchange": "NASDAQ Capital",
+   "name": "AMCI Acquisition Corp. II",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AMCIU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-08-03",
+   "exchange": "NASDAQ Capital",
+   "name": "ABVC BIOPHARMA, INC.",
+   "numberOfShares": 1100000,
+   "price": "6.25",
+   "status": "priced",
+   "symbol": "ABVC",
+   "totalSharesValue": 6875000
+  },
+  {
+   "date": "2021-08-03",
+   "exchange": "NASDAQ Capital",
+   "name": "Healthwell Acquisition Corp. I",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HWELU",
+   "totalSharesValue": 250000000
+  }
+ ]
+}

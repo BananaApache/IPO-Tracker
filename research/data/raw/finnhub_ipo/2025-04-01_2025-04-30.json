@@ -1,0 +1,507 @@
+{
+ "from": "2025-04-01",
+ "to": "2025-04-30",
+ "fetched_at": "2026-09-08T04:22:56.627127+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2025-04-30",
+   "exchange": "NASDAQ Global",
+   "name": "Lakeshore Acquisition III Corp.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LCCCU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2025-04-30",
+   "exchange": "NASDAQ Global",
+   "name": "Berto Acquisition Corp.",
+   "numberOfShares": 26100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TACOU",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2025-04-30",
+   "exchange": "NASDAQ Global",
+   "name": "Yuanbao Inc.",
+   "numberOfShares": 2000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "YB",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2025-04-30",
+   "exchange": null,
+   "name": "Dankon Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2025-04-30",
+   "exchange": null,
+   "name": "MSM FRONTIER CAPITAL ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MSMUU",
+   "totalSharesValue": 258750000
+  },
+  {
+   "date": "2025-04-30",
+   "exchange": null,
+   "name": "MPJS Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MPJS",
+   "totalSharesValue": 8625000
+  },
+  {
+   "date": "2025-04-29",
+   "exchange": null,
+   "name": "J-Star Holding Co., Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-04-29",
+   "exchange": "NASDAQ Global",
+   "name": "Digital Asset Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DAAQU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-04-29",
+   "exchange": "NASDAQ Global",
+   "name": "Real Asset Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RAAQU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-04-25",
+   "exchange": "NASDAQ Global",
+   "name": "Crane Harbor Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CHACU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-04-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Phoenix Asia Holdings Ltd",
+   "numberOfShares": 1600000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "PHOE",
+   "totalSharesValue": 6400000
+  },
+  {
+   "date": "2025-04-25",
+   "exchange": "NASDAQ Global",
+   "name": "Inflection Point Acquisition Corp. III",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IPCXU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-04-24",
+   "exchange": "NASDAQ Global",
+   "name": "New Providence Acquisition Corp. III/Cayman",
+   "numberOfShares": 26100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NPACU",
+   "totalSharesValue": 261000000
+  },
+  {
+   "date": "2025-04-23",
+   "exchange": null,
+   "name": "GenEmbryomics Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-04-23",
+   "exchange": null,
+   "name": "Key Mining Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-04-23",
+   "exchange": "NASDAQ Global",
+   "name": "Texas Ventures Acquisition III Corp",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TVACU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-04-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Pinnacle Food Group Ltd",
+   "numberOfShares": 1800000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "PFAI",
+   "totalSharesValue": 7200000
+  },
+  {
+   "date": "2025-04-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Concorde International Group Ltd.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CIGL",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-04-22",
+   "exchange": null,
+   "name": "Wise Ocean Group Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AXY",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2025-04-21",
+   "exchange": "NYSE MKT",
+   "name": "TMD Energy Ltd",
+   "numberOfShares": 3100000,
+   "price": "3.25",
+   "status": "priced",
+   "symbol": "TMDE",
+   "totalSharesValue": 10075000
+  },
+  {
+   "date": "2025-04-18",
+   "exchange": null,
+   "name": "TV Channels Network Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-04-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "Chagee Holdings Ltd.",
+   "numberOfShares": 14683991,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "CHA",
+   "totalSharesValue": 411151748
+  },
+  {
+   "date": "2025-04-17",
+   "exchange": "NASDAQ Capital",
+   "name": "Everbright Digital Holding Ltd.",
+   "numberOfShares": 1500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "EDHL",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2025-04-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Haoxin Holdings Ltd",
+   "numberOfShares": 1750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "HXHX",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2025-04-15",
+   "exchange": null,
+   "name": "Green Solar Energy Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GLSA",
+   "totalSharesValue": 25875000
+  },
+  {
+   "date": "2025-04-14",
+   "exchange": null,
+   "name": "Fast Track Group",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-04-14",
+   "exchange": null,
+   "name": "Job Aire Group Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-04-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Tianci International, Inc.",
+   "numberOfShares": 1750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CIIT",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2025-04-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Aether Holdings, Inc.",
+   "numberOfShares": 1800000,
+   "price": "4.30",
+   "status": "priced",
+   "symbol": "ATHR",
+   "totalSharesValue": 7740000
+  },
+  {
+   "date": "2025-04-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Cuprina Holdings (Cayman) LTD",
+   "numberOfShares": 3000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CUPR",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2025-04-10",
+   "exchange": "NASDAQ Capital",
+   "name": "MASTERBEEF GROUP",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MB",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2025-04-10",
+   "exchange": "NASDAQ Capital",
+   "name": "iOThree Ltd",
+   "numberOfShares": 2100000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "IOTR",
+   "totalSharesValue": 8400000
+  },
+  {
+   "date": "2025-04-10",
+   "exchange": null,
+   "name": "JiaLian Technologies Holdings Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JLCN",
+   "totalSharesValue": 1800000
+  },
+  {
+   "date": "2025-04-09",
+   "exchange": "NASDAQ Global",
+   "name": "Titan Acquisition Corp.",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TACHU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2025-04-08",
+   "exchange": null,
+   "name": "Pyro AI Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-04-08",
+   "exchange": "NASDAQ Capital",
+   "name": "Ruanyun Edai Technology Inc.",
+   "numberOfShares": 3750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "RYET",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2025-04-08",
+   "exchange": "NASDAQ Capital",
+   "name": "Fatpipe Inc/UT",
+   "numberOfShares": 695656,
+   "price": "5.75",
+   "status": "priced",
+   "symbol": "FATN",
+   "totalSharesValue": 4000022
+  },
+  {
+   "date": "2025-04-04",
+   "exchange": "NASDAQ Capital",
+   "name": "BeLive Holdings",
+   "numberOfShares": 2450000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "BLIV",
+   "totalSharesValue": 9800000
+  },
+  {
+   "date": "2025-04-03",
+   "exchange": "NASDAQ Capital",
+   "name": "Lianhe Sowell International Group Ltd",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "LHSW",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2025-04-03",
+   "exchange": null,
+   "name": "Vickers Vantage Corp. II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "VCKBU",
+   "totalSharesValue": 207000000
+  },
+  {
+   "date": "2025-04-02",
+   "exchange": "NASDAQ Global",
+   "name": "Sizzle Acquisition Corp. II",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SZZLU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-04-02",
+   "exchange": "NYSE",
+   "name": "Soulpower Acquisition Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SOULU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-04-02",
+   "exchange": "NASDAQ Capital",
+   "name": "Top Win International Ltd",
+   "numberOfShares": 2664000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "TOPW",
+   "totalSharesValue": 10656000
+  },
+  {
+   "date": "2025-04-02",
+   "exchange": "NYSE",
+   "name": "SmartStop Self Storage REIT, Inc.",
+   "numberOfShares": 27000000,
+   "price": "30.00",
+   "status": "priced",
+   "symbol": "SMA",
+   "totalSharesValue": 810000000
+  },
+  {
+   "date": "2025-04-02",
+   "exchange": null,
+   "name": "AIMEI HEALTH TECHNOLOGY LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AMJK",
+   "totalSharesValue": 6250000
+  },
+  {
+   "date": "2025-04-02",
+   "exchange": null,
+   "name": "RUIGUANGHONGFENG INTERNATIONAL LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HRGH",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2025-04-01",
+   "exchange": "NASDAQ Global",
+   "name": "Siddhi Acquisition Corp (Cayman Islands)",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SDHIU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2025-04-01",
+   "exchange": "NASDAQ Capital",
+   "name": "Waton Financial Ltd",
+   "numberOfShares": 4375000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "WTF",
+   "totalSharesValue": 17500000
+  },
+  {
+   "date": "2025-04-01",
+   "exchange": "NASDAQ Capital",
+   "name": "Energys Group Ltd",
+   "numberOfShares": 2250000,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "ENGS",
+   "totalSharesValue": 10125000
+  },
+  {
+   "date": "2025-04-01",
+   "exchange": "NASDAQ Capital",
+   "name": "WF International Ltd.",
+   "numberOfShares": 1400000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "WXM",
+   "totalSharesValue": 5600000
+  }
+ ]
+}

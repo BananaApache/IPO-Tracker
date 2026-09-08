@@ -1,0 +1,287 @@
+{
+ "from": "2024-05-01",
+ "to": "2024-05-31",
+ "fetched_at": "2026-09-08T04:22:34.617245+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2024-05-31",
+   "exchange": "NASDAQ Capital",
+   "name": "Kindly MD, Inc.",
+   "numberOfShares": 1240910,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "KDLY",
+   "totalSharesValue": 6825005
+  },
+  {
+   "date": "2024-05-30",
+   "exchange": null,
+   "name": "OS THERAPIES Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-05-30",
+   "exchange": null,
+   "name": "Cambodia Airways Co., Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CAKR",
+   "totalSharesValue": 7500000
+  },
+  {
+   "date": "2024-05-29",
+   "exchange": null,
+   "name": "Medicus Pharma Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MDCX",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2024-05-29",
+   "exchange": null,
+   "name": "GUI BIN SHE INTERNATIONAL HOLDING GROUP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GBS",
+   "totalSharesValue": 7500000
+  },
+  {
+   "date": "2024-05-29",
+   "exchange": null,
+   "name": "Asep Medical Holdings Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SEPS",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2024-05-24",
+   "exchange": null,
+   "name": "Linkers Industries Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-05-23",
+   "exchange": null,
+   "name": "Reticulate Micro, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-05-23",
+   "exchange": "NYSE",
+   "name": "Bowhead Specialty Holdings Inc.",
+   "numberOfShares": 7529412,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BOW",
+   "totalSharesValue": 128000004
+  },
+  {
+   "date": "2024-05-17",
+   "exchange": "NASDAQ Global",
+   "name": "SUPER HI INTERNATIONAL HOLDING LTD.",
+   "numberOfShares": 2692700,
+   "price": "19.56",
+   "status": "priced",
+   "symbol": "HDL",
+   "totalSharesValue": 52669212
+  },
+  {
+   "date": "2024-05-17",
+   "exchange": "NASDAQ Global",
+   "name": "RF Acquisition Corp II",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RFAIU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2024-05-15",
+   "exchange": "NASDAQ Capital",
+   "name": "JIADE Ltd",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "JDZG",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2024-05-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Raytech Holding Ltd",
+   "numberOfShares": 1500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "RAY",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2024-05-14",
+   "exchange": null,
+   "name": "IMMRSIV Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-05-14",
+   "exchange": "NASDAQ Global",
+   "name": "Armlogi Holding Corp.",
+   "numberOfShares": 1600000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "BTOC",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2024-05-13",
+   "exchange": null,
+   "name": "Games Global Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-05-13",
+   "exchange": null,
+   "name": "Galleinphi Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GALE",
+   "totalSharesValue": 20700000
+  },
+  {
+   "date": "2024-05-13",
+   "exchange": null,
+   "name": "KINGTITAN TECHNOLOGY Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KTA",
+   "totalSharesValue": 25875000
+  },
+  {
+   "date": "2024-05-10",
+   "exchange": null,
+   "name": "HEALTHY EXTRACTS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-05-10",
+   "exchange": "NYSE",
+   "name": "ZEEKR Intelligent Technology Holding Ltd",
+   "numberOfShares": 21000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "ZK",
+   "totalSharesValue": 441000000
+  },
+  {
+   "date": "2024-05-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Lirum Therapeutics, Inc.",
+   "numberOfShares": 2270000,
+   "price": "10.00-12.00",
+   "status": "expected",
+   "symbol": "LRTX",
+   "totalSharesValue": 31326000
+  },
+  {
+   "date": "2024-05-09",
+   "exchange": "NASDAQ Global",
+   "name": "GP-Act III Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GPATU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2024-05-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "Silvaco Group, Inc.",
+   "numberOfShares": 6000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "SVCO",
+   "totalSharesValue": 114000000
+  },
+  {
+   "date": "2024-05-09",
+   "exchange": "NASDAQ Global",
+   "name": "Proficient Auto Logistics, Inc",
+   "numberOfShares": 14333333,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "PAL",
+   "totalSharesValue": 214999995
+  },
+  {
+   "date": "2024-05-08",
+   "exchange": "NASDAQ Capital",
+   "name": "Nano Nuclear Energy Inc.",
+   "numberOfShares": 2562500,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "NNE",
+   "totalSharesValue": 10250000
+  },
+  {
+   "date": "2024-05-06",
+   "exchange": null,
+   "name": "Triller Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-05-02",
+   "exchange": "NASDAQ Global",
+   "name": "Churchill Capital Corp IX/Cayman",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CCIXU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2024-05-01",
+   "exchange": "NYSE",
+   "name": "Viking Holdings Ltd",
+   "numberOfShares": 64041668,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "VIK",
+   "totalSharesValue": 1537000032
+  }
+ ]
+}

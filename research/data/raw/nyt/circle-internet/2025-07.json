@@ -1,0 +1,77 @@
+{
+ "company": "Circle Internet",
+ "query": "\"Circle\" \"stablecoin\"",
+ "month": "2025-07",
+ "begin_date": "20250701",
+ "end_date": "20250731",
+ "fetched_at": "2026-09-08T05:31:14.525169+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "A legislative win in Congress, and the promise of more to come, has helped lift the prospects and the wealth of the cryptocurrency industry.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Crypto\u2019s $4 Trillion Moment",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/983fa9bb-7cbd-5aaf-9cb6-560523500d76",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Bitcoin (Currency)",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Circle Internet Financial Inc",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "House Republicans approved the Genius Act, a major piece of crypto legislation, clearing the bill\u2019s path to be signed into law.",
+    "credit": "Kenny Holston/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/18/multimedia/18db-newsletter-cryptohouse-tlmw/18db-newsletter-cryptohouse-tlmw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/18/multimedia/18db-newsletter-cryptohouse-tlmw/18db-newsletter-cryptohouse-tlmw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-07-18T12:17:21Z",
+   "section_name": "Business",
+   "snippet": "A legislative win in Congress, and the promise of more to come, has helped lift the prospects and the wealth of the cryptocurrency industry.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/983fa9bb-7cbd-5aaf-9cb6-560523500d76",
+   "web_url": "https://www.nytimes.com/2025/07/18/business/dealbook/crypto-genius-act-congress.html",
+   "word_count": 1840
+  }
+ ]
+}

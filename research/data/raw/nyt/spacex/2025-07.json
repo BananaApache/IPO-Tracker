@@ -1,0 +1,779 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2025-07",
+ "begin_date": "20250701",
+ "end_date": "20250731",
+ "fetched_at": "2026-09-08T05:01:50.552889+00:00",
+ "hits": 22,
+ "docs": [
+  {
+   "abstract": "China\u2019s biggest networks have deployed less than 1 percent of their planned satellites, falling far behind SpaceX for dominance in space communications.",
+   "byline": {
+    "original": "By Selam Gebrekidan and Malika Khurana"
+   },
+   "document_type": "interactive",
+   "headline": {
+    "main": "This Was Supposed to Be the Year China Started Catching Up With SpaceX",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://interactive/c5ca66e2-3b42-541d-b1e1-3d9d440c45eb",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 3
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Malika Khurana/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/21/multimedia/2025-07-15-china-space-index/2025-07-15-china-space-index-articleLarge-v5.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/21/multimedia/2025-07-15-china-space-index/2025-07-15-china-space-index-thumbStandard-v5.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Graphics",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-07-24T02:25:40Z",
+   "section_name": "World",
+   "snippet": "China\u2019s biggest networks have deployed less than 1 percent of their planned satellites, falling far behind SpaceX for dominance in space communications.",
+   "source": "The New York Times",
+   "subsection_name": "Asia Pacific",
+   "type_of_material": "Interactive Feature",
+   "uri": "nyt://interactive/c5ca66e2-3b42-541d-b1e1-3d9d440c45eb",
+   "web_url": "https://www.nytimes.com/interactive/2025/07/23/world/asia/starlink-spacex-musk-china-satellites.html",
+   "word_count": 0
+  },
+  {
+   "abstract": "For Zena Cardman, the NASA astronaut who commands the Crew-11 mission, that means another wait for her first trip to orbit.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Bad Weather Delays Launch of Astronauts to Space Station",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/ba07ac15-3360-55b1-a0a8-6347814c785d",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "International Space Station",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Gorbunov, Aleksandr (Astronaut)",
+     "rank": 4
+    },
+    {
+     "name": "Location",
+     "value": "Florida",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "Zena Cardman, commander of the SpaceX/NASA Crew-11 mission, arriving at the Kennedy Space Center in Florida on Saturday.",
+    "credit": "Steve Nesius/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/31/multimedia/31HS-ASTRONAUTS-01-vkwp/31HS-ASTRONAUTS-01-vkwp-articleLarge.jpg",
+     "height": 410,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/31/multimedia/31HS-ASTRONAUTS-01-vkwp/31HS-ASTRONAUTS-01-vkwp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-07-31T04:01:05Z",
+   "section_name": "Science",
+   "snippet": "For Zena Cardman, the NASA astronaut who commands the Crew-11 mission, that means another wait for her first trip to orbit.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ba07ac15-3360-55b1-a0a8-6347814c785d",
+   "web_url": "https://www.nytimes.com/2025/07/31/science/nasa-astronauts-spacex.html",
+   "word_count": 876
+  },
+  {
+   "abstract": "President Trump had pulled the nomination of a close associate of Elon Musk to lead the agency in May. The decision fueled a public breakdown of their alliance.",
+   "byline": {
+    "original": "By Qasim Nauman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Names Sean Duffy as Interim Head of NASA",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/89b44013-a7f7-5a5b-9ca7-3fe1b271b7e8",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Duffy, Sean P",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Transportation Department (US)",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Transportation Secretary Sean Duffy at the White House in May.",
+    "credit": "Eric Lee/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/08/09/multimedia/09xp-nasa-qfkg/09xp-nasa-qfkg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/08/09/multimedia/09xp-nasa-qfkg/09xp-nasa-qfkg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Express",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-07-10T04:40:00Z",
+   "section_name": "U.S.",
+   "snippet": "President Trump had pulled the nomination of a close associate of Elon Musk to lead the agency in May. The decision fueled a public breakdown of their alliance.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/89b44013-a7f7-5a5b-9ca7-3fe1b271b7e8",
+   "web_url": "https://www.nytimes.com/2025/07/10/us/politics/trump-nasa-sean-duffy.html",
+   "word_count": 418
+  },
+  {
+   "abstract": "Robinhood is the latest to offer investors a novel, and potentially risky, investment opportunity: crypto that\u2019s meant to give exposure to the likes of OpenAI.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Danielle Kaye"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Tokens to Access Private Companies, or to Investor Trouble?",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/b702a17a-bbf0-59f2-8514-faf464d741c5",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Tenev, Vladimir",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Robinhood Financial LLC",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Fink, Laurence D",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "BlackRock Inc",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Securities and Exchange Commission",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Securities and Commodities Violations",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Robinhood is looking to shake up investing again \u2014 this time with the so-called tokenization of private companies.",
+    "credit": "Sasha Maslov for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/03/multimedia/03db-robinhood-zjvm/03db-robinhood-zjvm-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/03/multimedia/03db-robinhood-zjvm/03db-robinhood-zjvm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-07-03T12:09:30Z",
+   "section_name": "Business",
+   "snippet": "Robinhood is the latest to offer investors a novel, and potentially risky, investment opportunity: crypto that\u2019s meant to give exposure to the likes of OpenAI.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/b702a17a-bbf0-59f2-8514-faf464d741c5",
+   "web_url": "https://www.nytimes.com/2025/07/03/business/dealbook/tokenization-robinhood-openai-spacex.html",
+   "word_count": 1970
+  },
+  {
+   "abstract": "Plus, the global craze for matcha.",
+   "byline": {
+    "original": "By Justin Porter"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Friday Briefing: France to Recognize Palestinian Statehood",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/c15369fd-ddde-5222-9594-bf3d63e79ff6",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Palestinians waiting for food aid in Gaza City on Wednesday.",
+    "credit": "Saher Alghorra for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/24/multimedia/25ambriefing-asia-nl-gaza/25ambriefing-asia-nl-gaza-articleLarge-v2.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/24/multimedia/25ambriefing-asia-nl-gaza/25ambriefing-asia-nl-gaza-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "NYTNow",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-07-24T21:01:47Z",
+   "section_name": "Briefing",
+   "snippet": "Plus, the global craze for matcha.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "briefing",
+   "uri": "nyt://article/c15369fd-ddde-5222-9594-bf3d63e79ff6",
+   "web_url": "https://www.nytimes.com/2025/07/24/briefing/france-palestinians-gaza-israel-thailand-cambodia-spacex-china.html",
+   "word_count": 1215
+  },
+  {
+   "abstract": "Plus, the global craze for matcha.",
+   "byline": {
+    "original": "By Justin Porter"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Friday Briefing: France to Recognize Palestinian Statehood",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/4968de3d-06ea-51f4-b87b-02633d4e4720",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Palestinians waiting for food aid in Gaza City on Wednesday.",
+    "credit": "Saher Alghorra for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/24/multimedia/25ambriefing-europe-nl-gaza/25ambriefing-asia-nl-gaza-articleLarge-v2.jpg",
+     "height": 900,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/24/multimedia/25ambriefing-europe-nl-gaza/25ambriefing-asia-nl-gaza-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "NYTNow",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-07-25T04:30:05Z",
+   "section_name": "Briefing",
+   "snippet": "Plus, the global craze for matcha.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "briefing",
+   "uri": "nyt://article/4968de3d-06ea-51f4-b87b-02633d4e4720",
+   "web_url": "https://www.nytimes.com/2025/07/25/briefing/france-gaza-palestinians-israel-thailand-cambodia-spacex-china.html",
+   "word_count": 1277
+  },
+  {
+   "abstract": "Linda Yaccarino, whom Elon Musk hired to run X in 2023, grappled with the challenges the company faced after Mr. Musk took over.",
+   "byline": {
+    "original": "By Mike Isaac and Kate Conger"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "X Chief Says She Is Leaving the Social Media Platform",
+    "kicker": "",
+    "print_headline": "Musk\u2019s X Chief Announces Exit After Two Years"
+   },
+   "_id": "nyt://article/7a564a5a-0ff6-5521-a643-486130a44070",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Yaccarino, Linda",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Online Advertising",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "Linda Yaccarino at a Senate Judiciary Committee hearing in 2024. She grew close to Elon Musk in 2023 when, as an executive at NBCUniversal, she pledged to keep running ads on Twitter as other advertisers were refusing to do so.",
+    "credit": "Kenny Holston/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/09/multimedia/09biz-x-ceo-tkwv/09biz-x-ceo-tkwv-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/09/multimedia/09biz-x-ceo-tkwv/09biz-x-ceo-tkwv-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2025-07-09T14:43:02Z",
+   "section_name": "Technology",
+   "snippet": "Linda Yaccarino, whom Elon Musk hired to run X in 2023, grappled with the challenges the company faced after Mr. Musk took over.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/7a564a5a-0ff6-5521-a643-486130a44070",
+   "web_url": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
+   "word_count": 970
+  },
+  {
+   "abstract": "In the first tangible inroads Elon Musk has sought for years in India, Starlink passed a final regulatory hurdle and Tesla opened its first India store.",
+   "byline": {
+    "original": "By Pranav Baskar"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk Clears Final Hurdles for Tesla and Starlink in India",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/85b646d0-ab50-5b51-8f5c-75e2169b36dc",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Customs (Tariff)",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "India",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Cook, Timothy D",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Modi, Narendra",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Mumbai (India)",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "The first Tesla showroom in India, in Mumbai, on Tuesday.",
+    "credit": "Rafiq Maqbool/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/17/multimedia/17int-musk-india-gmft/17int-musk-india-gmft-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/17/multimedia/17int-musk-india-gmft/17int-musk-india-gmft-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Foreign",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-07-18T00:15:30Z",
+   "section_name": "World",
+   "snippet": "In the first tangible inroads Elon Musk has sought for years in India, Starlink passed a final regulatory hurdle and Tesla opened its first India store.",
+   "source": "The New York Times",
+   "subsection_name": "Asia Pacific",
+   "type_of_material": "News",
+   "uri": "nyt://article/85b646d0-ab50-5b51-8f5c-75e2169b36dc",
+   "web_url": "https://www.nytimes.com/2025/07/17/world/asia/tesla-starlink-india-elon-musk.html",
+   "word_count": 674
+  },
+  {
+   "abstract": "Hester M. Peirce said in a statement Wednesday that digital versions of stocks are still subject to federal securities laws.",
+   "byline": {
+    "original": "By Matthew Goldstein"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Head of S.E.C.\u2019s Crypto Task Force Says \u2018Tokenized\u2019 Stocks Are Securities",
+    "kicker": "",
+    "print_headline": "\u2018Token\u2019 Type Of Security Is Subject  To Same Law"
+   },
+   "_id": "nyt://article/a371c250-0f67-516e-a41f-e65be238b472",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Securities and Exchange Commission",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Peirce, Hester",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Blockchain (Technology)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Robinhood Financial LLC",
+     "rank": 7
+    },
+    {
+     "name": "Location",
+     "value": "Europe",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "United States",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "\u201cTokenized securities are still securities,\u201d Hester M. Peirce, who is also an S.E.C. commissioner, said in a statement on Wednesday.",
+    "credit": "Kayla Bartkowski/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/09/multimedia/09biz-crypto-sec-zlcf/09biz-crypto-sec-zlcf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/09/multimedia/09biz-crypto-sec-zlcf/09biz-crypto-sec-zlcf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-07-09T20:14:32Z",
+   "section_name": "Business",
+   "snippet": "Hester M. Peirce said in a statement Wednesday that digital versions of stocks are still subject to federal securities laws.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/a371c250-0f67-516e-a41f-e65be238b472",
+   "web_url": "https://www.nytimes.com/2025/07/09/business/sec-crypto-tokenized-securities.html",
+   "word_count": 536
+  },
+  {
+   "abstract": "The tech billionaire\u2019s effort to create a new political party, called the America Party, comes amid a ramped-up feud with the president over his new domestic policy law.",
+   "byline": {
+    "original": "By Tyler Pager"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump Says Musk Is \u2018Off the Rails\u2019 With His Third-Party Effort",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/78cea64a-02e6-5a68-9a73-fdf19ae3e3ff",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "One Big Beautiful Bill Act (2025)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Appointments and Executive Changes",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Government Contracts and Procurement",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Tax Credits, Deductions and Exemptions",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Government Efficiency Department (US)",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Bessent, Scott",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Isaacman, Jared (1983- )",
+     "rank": 14
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 15
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk was regularly seen alongside President Trump. After he left his role as a special government employee at the end of May, their relationship has grown cold, and the two men often spar over social media.",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/07/06/multimedia/06dc-trump-musk-gbhc/06dc-trump-musk-gbhc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/07/06/multimedia/06dc-trump-musk-gbhc/06dc-trump-musk-gbhc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-07-07T00:25:42Z",
+   "section_name": "U.S.",
+   "snippet": "The tech billionaire\u2019s effort to create a new political party, called the America Party, comes amid a ramped-up feud with the president over his new domestic policy law.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/78cea64a-02e6-5a68-9a73-fdf19ae3e3ff",
+   "web_url": "https://www.nytimes.com/2025/07/06/us/politics/trump-musk-america-party.html",
+   "word_count": 663
+  }
+ ]
+}

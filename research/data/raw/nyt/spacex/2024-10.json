@@ -1,0 +1,600 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2024-10",
+ "begin_date": "20241001",
+ "end_date": "20241031",
+ "fetched_at": "2026-09-08T04:40:14.162807+00:00",
+ "hits": 54,
+ "docs": [
+  {
+   "abstract": "The Pentagon needs what the company offers to compete with China even as it frets over its potential for dominance and the billionaire\u2019s global interests.",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk\u2019s SpaceX, Already a Leader in Satellites, Gets Into the Spy Game",
+    "kicker": "",
+    "print_headline": "Musk Expanding SpaceX Into Role For The Military"
+   },
+   "_id": "nyt://article/a06dec7a-5ed1-5cc3-876c-eaea906be86e",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Defense Contracts",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "United States Space Force",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "United States Defense and Military Forces",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Espionage and Intelligence Services",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Missiles and Missile Defense Systems",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "National Reconnaissance Office",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "China",
+     "rank": 11
+    },
+    {
+     "name": "Location",
+     "value": "Russia",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Putin, Vladimir V",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "A SpaceX Falcon 9 rocket carrying a spy satellite launching from Vandenberg Space Force Base in Lompoc, Calif., in 2022.",
+    "credit": "Patrick T. Fallon/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/29/multimedia/00dc-muskspy-01-bvwh/00dc-muskspy-01-bvwh-articleLarge-v2.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/29/multimedia/00dc-muskspy-01-bvwh/00dc-muskspy-01-bvwh-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2024-10-30T14:14:12Z",
+   "section_name": "U.S.",
+   "snippet": "The Pentagon needs what the company offers to compete with China even as it frets over its potential for dominance and the billionaire\u2019s global interests.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/a06dec7a-5ed1-5cc3-876c-eaea906be86e",
+   "web_url": "https://www.nytimes.com/2024/10/30/us/politics/spacex-spy-satellites-elon-musk.html",
+   "word_count": 1846
+  },
+  {
+   "abstract": "A commission denied a request to increase the number of rocket launches on the state\u2019s central coast, citing environmental concerns.",
+   "byline": {
+    "original": "By Orlando Mayorqu\u00edn"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "California Rejects Bid for More Frequent SpaceX Launches",
+    "kicker": "",
+    "print_headline": "California Rejects Request  For More SpaceX Launches"
+   },
+   "_id": "nyt://article/126749b9-bf49-5d0a-a6c0-6249fa3c7128",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "United States Space Force",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Location",
+     "value": "California",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "A SpaceX Falcon 9 rocket launched from the Vandenberg Space Force Base in Santa Barbara County, Calif., in June.",
+    "credit": "Kevin Carter/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/12/multimedia/12nat-cal-spacex-ghlw/12nat-cal-spacex-ghlw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/12/multimedia/12nat-cal-spacex-ghlw/12nat-cal-spacex-ghlw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "National",
+   "print_page": "28",
+   "print_section": "A",
+   "pub_date": "2024-10-12T23:03:28Z",
+   "section_name": "U.S.",
+   "snippet": "A commission denied a request to increase the number of rocket launches on the state\u2019s central coast, citing environmental concerns.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/126749b9-bf49-5d0a-a6c0-6249fa3c7128",
+   "web_url": "https://www.nytimes.com/2024/10/12/us/spacex-launch-california.html",
+   "word_count": 610
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang and Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Here\u2019s why SpaceX has been feuding with the F.A.A.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/2d0539cb-3668-59f7-9e29-ed0936c91fdf",
+   "keywords": [],
+   "multimedia": {
+    "caption": "A SpaceX Starship rocket sat on the launchpad near Cameron County, Texas, in February.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/13/multimedia/13spacex-starship-faa-mbpw/13spacex-starship-faa-mbpw-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/13/multimedia/13spacex-starship-faa-mbpw/13spacex-starship-faa-mbpw-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-10-13T12:54:54Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/2d0539cb-3668-59f7-9e29-ed0936c91fdf",
+   "web_url": "https://www.nytimes.com/live/2024/10/13/science/spacex-starship-launch/heres-why-spacex-has-been-feuding-with-the-faa",
+   "word_count": 560
+  },
+  {
+   "abstract": "The agency said the company had agreed to study the environmental impact of its launches in South Texas and ways to mitigate harm to wildlife.",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "F.A.A. Clears the Way for SpaceX to Hold Starship Launch on Sunday",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/f8b130cd-0408-51ea-a67e-6ba02fed96e5",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Suits and Litigation (Civil)",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Aviation Administration",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Environmental Protection Agency",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Fish and Wildlife Service",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The SpaceX Starbase complex in Boca Chica features a rocket manufacturing facility and launchpad.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/12/multimedia/12DC-Starship-wqzj/12DC-Starship-wqzj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/12/multimedia/12DC-Starship-wqzj/12DC-Starship-wqzj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-10-13T00:41:55Z",
+   "section_name": "U.S.",
+   "snippet": "The agency said the company had agreed to study the environmental impact of its launches in South Texas and ways to mitigate harm to wildlife.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/f8b130cd-0408-51ea-a67e-6ba02fed96e5",
+   "web_url": "https://www.nytimes.com/2024/10/12/us/politics/faa-spacex-starship-license.html",
+   "word_count": 844
+  },
+  {
+   "abstract": "Bigger than the Statue of Liberty, the SpaceX vehicle is central to NASA\u2019s plans to get to the moon and Elon Musk\u2019s dreams of the red planet.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "What Is SpaceX\u2019s Starship? It\u2019s really a Mars ship.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/c2235422-0fcc-5ab2-beb3-c8f43518c1ff",
+   "keywords": [],
+   "multimedia": {
+    "caption": "A Starship test flight in March.",
+    "credit": "Chandan Khanna/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/13/multimedia/13spacex-starship-what-is-starship-pglq/13spacex-starship-what-is-starship-pglq-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/13/multimedia/13spacex-starship-what-is-starship-pglq/13spacex-starship-what-is-starship-pglq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-10-13T10:55:05Z",
+   "section_name": "Science",
+   "snippet": "Bigger than the Statue of Liberty, the SpaceX vehicle is central to NASA\u2019s plans to get to the moon and Elon Musk\u2019s dreams of the red planet.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/c2235422-0fcc-5ab2-beb3-c8f43518c1ff",
+   "web_url": "https://www.nytimes.com/live/2024/10/13/science/spacex-starship-launch/what-is-spacexs-starship-its-really-a-mars-ship",
+   "word_count": 330
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "For Sunday\u2019s flight, SpaceX may try an audacious \u201cchopsticks\u201d landing.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/4a7c9104-e391-577e-9ac7-fc2b11e23f2a",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Starship is prepared for a test flight from Starbase in June. This test will involve the \u201cchopsticks\u201d catching the returning booster.",
+    "credit": "Eric Gay/Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/13/science/13spacex-starship-flight-path/13spacex-starship-flight-path-articleLarge.jpg",
+     "height": 399,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/13/science/13spacex-starship-flight-path/13spacex-starship-flight-path-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-10-13T12:15:06Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/4a7c9104-e391-577e-9ac7-fc2b11e23f2a",
+   "web_url": "https://www.nytimes.com/live/2024/10/13/science/spacex-starship-launch/for-sundays-flight-spacex-may-try-an-audacious-chopsticks-landing",
+   "word_count": 287
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Trump says SpaceX will reach Mars if he\u2019s elected. Could that really happen?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/5138fcbd-f7c6-55ac-923f-da32944f27a0",
+   "keywords": [],
+   "multimedia": {
+    "caption": "Former President Donald Trump was joined by Elon Musk during a rally in Butler, Pa.",
+    "credit": "Doug Mills/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/13/multimedia/13spacex-starship-trump-fkwc/13spacex-starship-trump-fkwc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/13/multimedia/13spacex-starship-trump-fkwc/13spacex-starship-trump-fkwc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-10-13T13:45:02Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/5138fcbd-f7c6-55ac-923f-da32944f27a0",
+   "web_url": "https://www.nytimes.com/live/2024/10/13/science/spacex-starship-launch/trump-says-spacex-will-reach-mars-if-hes-elected-could-that-really-happen",
+   "word_count": 695
+  },
+  {
+   "abstract": "The company completed a successful test flight of the most powerful rocket ever built. Some residents near the Texas site experienced shaking as the landing vehicle was caught by mechanical arms.",
+   "byline": {
+    "original": "By Kenneth Chang and Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Advances Starship Program With a Launch and a Catch",
+    "kicker": "",
+    "print_headline": "SpaceX Advances Starship With a Launch and a Catch"
+   },
+   "_id": "nyt://article/4c22ec89-4450-595d-90c5-cebde484945d",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "The Super Heavy booster from SpaceX\u2019s Starship vehicle returned to the launch site in Boca Chica, Texas, on Sunday.",
+    "credit": "Sergio Flores/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/13/multimedia/13spacex-starship-outcome-kgpl/13spacex-starship-outcome-kgpl-articleLarge.jpg",
+     "height": 398,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/13/multimedia/13spacex-starship-outcome-kgpl/13spacex-starship-outcome-kgpl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2024-10-13T12:37:02Z",
+   "section_name": "Science",
+   "snippet": "The company completed a successful test flight of the most powerful rocket ever built. Some residents near the Texas site experienced shaking as the landing vehicle was caught by mechanical arms.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/4c22ec89-4450-595d-90c5-cebde484945d",
+   "web_url": "https://www.nytimes.com/2024/10/13/science/space-starship-launch-landing.html",
+   "word_count": 1396
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Eric Lipton"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Texas residents around the SpaceX launch site said they felt shaking during Sunday\u2019s flight.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/2421d909-87b3-5e9b-b622-410c849ac5cf",
+   "keywords": [],
+   "multimedia": {
+    "caption": "People watching the launch of the SpaceX Starship, which lifted off from Boca Chica, Texas, on Sunday.",
+    "credit": "Sergio Flores/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/13/multimedia/13spacex-starship-sonic-boom-01-wjcl/13spacex-starship-sonic-boom-01-wjcl-articleLarge.jpg",
+     "height": 401,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/13/multimedia/13spacex-starship-sonic-boom-01-wjcl/13spacex-starship-sonic-boom-01-wjcl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-10-13T15:35:58Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/2421d909-87b3-5e9b-b622-410c849ac5cf",
+   "web_url": "https://www.nytimes.com/live/2024/10/13/science/spacex-starship-launch/texas-residents-around-the-spacex-launch-site-said-they-felt-shaking-during-sundays-flight",
+   "word_count": 453
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Four earlier Starship launches highlighted SpaceX\u2019s \u201cfail fast, learn faster\u201d approach.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/c1329091-b6f7-58d4-bc02-fa0bf1b098a0",
+   "keywords": [],
+   "multimedia": {
+    "caption": "An image posted by Elon Musk on the platform X showed a Starship Super Heavy booster fragment being pulled from the ocean last month.",
+    "credit": "via Elon Musk, X",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/10/13/science/13spacex-starship-earlier-flights/13spacex-starship-earlier-flights-articleLarge.jpg",
+     "height": 749,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/10/13/science/13spacex-starship-earlier-flights/13spacex-starship-earlier-flights-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-10-13T11:50:05Z",
+   "section_name": "Science",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/c1329091-b6f7-58d4-bc02-fa0bf1b098a0",
+   "web_url": "https://www.nytimes.com/live/2024/10/13/science/spacex-starship-launch/four-earlier-starship-launches-highlighted-spacexs-fail-fast-learn-faster-approach",
+   "word_count": 705
+  }
+ ]
+}

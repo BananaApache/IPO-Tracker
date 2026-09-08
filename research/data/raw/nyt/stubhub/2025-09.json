@@ -1,0 +1,289 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2025-09",
+ "begin_date": "20250901",
+ "end_date": "20250930",
+ "fetched_at": "2026-09-08T05:36:02.572237+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "The company\u2019s shares rose more than 14 percent on the first day of trading, a sign of the health of the public markets and a willingness of investors to bet on new companies.",
+   "byline": {
+    "original": "By Michael J. de la Merced"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Klarna\u2019s Market Debut Shows Wall Street\u2019s Renewed Appetite for I.P.O.s",
+    "kicker": "",
+    "print_headline": "Klarna\u2019s Market Debut Shows a Renewed Appetite for I.P.O.s"
+   },
+   "_id": "nyt://article/9fd10815-a2d6-52ce-bdb1-9aaeccc925a8",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Sequoia Capital",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "Sebastian Siemiatkowski, the chief executive of the Swedish fintech company Klarna, at the New York Stock Exchange on Wednesday. ",
+    "credit": "Brendan McDermid/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/11/multimedia/11db-klarna-tpbh/11db-klarna-tpbh-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/11/multimedia/11db-klarna-tpbh/11db-klarna-tpbh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "3",
+   "print_section": "B",
+   "pub_date": "2025-09-11T17:31:43Z",
+   "section_name": "Business",
+   "snippet": "The company\u2019s shares rose more than 14 percent on the first day of trading, a sign of the health of the public markets and a willingness of investors to bet on new companies.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/9fd10815-a2d6-52ce-bdb1-9aaeccc925a8",
+   "web_url": "https://www.nytimes.com/2025/09/11/business/dealbook/klarna-ipo-stock-market.html",
+   "word_count": 615
+  },
+  {
+   "abstract": "The central bank is expected to reduce interest rates on Wednesday. But there could be a internal debate about the size of a cut , and how many more to make.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Ian Mount and Ian Frisch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Powell Faces Challenges From Within the Fed, Too",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/334ff8c4-134c-5ccc-9974-1de3f9fbacd8",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Powell, Jerome H",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Reserve System",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Cook, Lisa D",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Miran, Stephen",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Inflation (Economics)",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Bowman, Michelle",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Waller, Christopher (1959- )",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "What will Jay Powell, the Fed chair, have to say today?",
+    "credit": "Caroline Gutman for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/17/multimedia/17db-powell-gkcq/17db-powell-gkcq-articleLarge.jpg",
+     "height": 450,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/17/multimedia/17db-powell-gkcq/17db-powell-gkcq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-09-17T11:50:59Z",
+   "section_name": "Business",
+   "snippet": "The central bank is expected to reduce interest rates on Wednesday. But there could be a internal debate about the size of a cut , and how many more to make.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/334ff8c4-134c-5ccc-9974-1de3f9fbacd8",
+   "web_url": "https://www.nytimes.com/2025/09/17/business/dealbook/powell-fed-rates.html",
+   "word_count": 1656
+  },
+  {
+   "abstract": "Disney\u2019s abrupt move to suspend the late-night host came after political pushback \u2014 and concerns about the media company\u2019s relations with affiliate owners.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Business Decision Behind Taking Jimmy Kimmel Off Air",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/093da783-5679-5499-b439-1750d6b39c29",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Kimmel, Jimmy",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Iger, Robert A",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Walt Disney Company",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Kirk, Charlie (1993- )",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Vance, J D",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "ABC Inc",
+     "rank": 8
+    },
+    {
+     "name": "Title",
+     "value": "Jimmy Kimmel Live (TV Program)",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Television",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Assassinations and Attempted Assassinations",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Media",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Federal Communications Commission",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "Sinclair Broadcast Group Inc",
+     "rank": 14
+    },
+    {
+     "name": "Organization",
+     "value": "Tegna Inc.",
+     "rank": 15
+    },
+    {
+     "name": "Person",
+     "value": "Carr, Brendan Thomas (1979- )",
+     "rank": 16
+    },
+    {
+     "name": "Person",
+     "value": "Fallon, Jimmy",
+     "rank": 17
+    },
+    {
+     "name": "Person",
+     "value": "Meyers, Seth",
+     "rank": 18
+    }
+   ],
+   "multimedia": {
+    "caption": "Jimmy Kimmel\u2019s show was abruptly taken off the air \u2014 but for how long?",
+    "credit": "Amir Hamja/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/09/18/multimedia/18db-kimmel-zqkf/18db-kimmel-zqkf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/09/18/multimedia/18db-kimmel-zqkf/18db-kimmel-zqkf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2025-09-18T12:27:41Z",
+   "section_name": "Business",
+   "snippet": "Disney\u2019s abrupt move to suspend the late-night host came after political pushback \u2014 and concerns about the media company\u2019s relations with affiliate owners.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/093da783-5679-5499-b439-1750d6b39c29",
+   "web_url": "https://www.nytimes.com/2025/09/18/business/dealbook/kimmel-disney-abc.html",
+   "word_count": 1875
+  }
+ ]
+}

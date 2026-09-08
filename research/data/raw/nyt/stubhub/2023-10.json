@@ -1,0 +1,244 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2023-10",
+ "begin_date": "20231001",
+ "end_date": "20231031",
+ "fetched_at": "2026-09-08T04:44:26.147271+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "Fans are buying up seats for Taylor Swift\u2019s international concerts, often finding that tickets, airfare and lodging combined cost less than just the tickets in the United States.",
+   "byline": {
+    "original": "By Jessica Shaw"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Want to See the Eras Tour? Swifties Say \u2018Grab Your Passport and My Hand.\u2019",
+    "kicker": "",
+    "print_headline": "Chase Taylor Swift and Get a Chance to See the World"
+   },
+   "_id": "nyt://article/8c5af536-c165-5f57-b2ec-7864954ed9fc",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Swift, Taylor",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Travel and Vacations",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Fans (Persons)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Ticket Scalping",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Hotels and Travel Lodgings",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Dominic Bugatto",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/10/28/travel/18-travel-taylorswift/18-travel-taylorswift-articleLarge.jpg",
+     "height": 463,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/10/28/travel/18-travel-taylorswift/18-travel-taylorswift-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Travel",
+   "print_page": "10",
+   "print_section": "C",
+   "pub_date": "2023-10-18T09:03:08Z",
+   "section_name": "Travel",
+   "snippet": "Fans are buying up seats for Taylor Swift\u2019s international concerts, often finding that tickets, airfare and lodging combined cost less than just the tickets in the United States.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/8c5af536-c165-5f57-b2ec-7864954ed9fc",
+   "web_url": "https://www.nytimes.com/2023/10/18/travel/taylor-swift-eras-tour-international.html",
+   "word_count": 1079
+  },
+  {
+   "abstract": "As two of America\u2019s biggest fandoms collide, the pop star\u2019s biggest fans are studying up and cheering along.",
+   "byline": {
+    "original": "By Emmanuel Morgan"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Notebook and Pen in Hand, a Swiftie Watches the N.F.L. and Learns",
+    "kicker": "",
+    "print_headline": "Pen in Hand, a Swiftie Pores Over the N.F.L."
+   },
+   "_id": "nyt://article/540de3e8-7aaa-5fec-9239-8fd5e573c3ce",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Football",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "National Football League",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Swift, Taylor",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Kelce, Travis",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Kansas City Chiefs",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "New York Jets",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Fans (Persons)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Pop and Rock Music",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Zainub Amir, who attended six of Taylor Swift\u2019s Eras Tours concerts this year, watched the Chiefs-Jets game from a Manhattan bar.",
+    "credit": "Mettie Ostrowski for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/10/03/multimedia/02swifties-nfl-01-qczf/02swifties-nfl-01-qczf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/10/03/multimedia/02swifties-nfl-01-qczf/02swifties-nfl-01-qczf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Culture",
+   "print_page": "2",
+   "print_section": "C",
+   "pub_date": "2023-10-02T15:30:53Z",
+   "section_name": "Arts",
+   "snippet": "As two of America\u2019s biggest fandoms collide, the pop star\u2019s biggest fans are studying up and cheering along.",
+   "source": "The New York Times",
+   "subsection_name": "Music",
+   "type_of_material": "News",
+   "uri": "nyt://article/540de3e8-7aaa-5fec-9239-8fd5e573c3ce",
+   "web_url": "https://www.nytimes.com/2023/10/02/arts/music/swifties-watching-nfl.html",
+   "word_count": 843
+  },
+  {
+   "abstract": "The W.N.B.A. team, now in the finals, is a bright spot during a rough year for local sports.",
+   "byline": {
+    "original": "By Claire Fahy"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Liberty Are Giving New Yorkers Something to Cheer For",
+    "kicker": "",
+    "print_headline": "Fans in New York Embrace a Rarity: A Team That Actually Wins"
+   },
+   "_id": "nyt://article/fe0e3248-742a-550a-adb1-5847921f4d32",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Basketball",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Fans (Persons)",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Box Office Sales",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "New York Liberty",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Women's National Basketball Assn",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Barclays Center (Brooklyn, NY)",
+     "rank": 6
+    },
+    {
+     "name": "Location",
+     "value": "Brooklyn (NYC)",
+     "rank": 7
+    },
+    {
+     "name": "Location",
+     "value": "New York City",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "The W.N.B.A. finals begin Sunday. Win or lose, the Liberty have become the rare success story in the bleak landscape of New York City\u2019s sports teams.",
+    "credit": "Michelle V. Agins/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/10/08/multimedia/08ny-liberty-wins-hbvj/08ny-liberty-wins-hbvj-articleLarge.jpg",
+     "height": 392,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/10/08/multimedia/08ny-liberty-wins-hbvj/08ny-liberty-wins-hbvj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Metro",
+   "print_page": "30",
+   "print_section": "A",
+   "pub_date": "2023-10-08T07:00:49Z",
+   "section_name": "New York",
+   "snippet": "The W.N.B.A. team, now in the finals, is a bright spot during a rough year for local sports.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/fe0e3248-742a-550a-adb1-5847921f4d32",
+   "web_url": "https://www.nytimes.com/2023/10/08/nyregion/new-york-liberty-finals.html",
+   "word_count": 1425
+  }
+ ]
+}

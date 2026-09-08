@@ -1,0 +1,846 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2026-06",
+ "begin_date": "20260601",
+ "end_date": "20260630",
+ "fetched_at": "2026-09-08T05:28:14.572266+00:00",
+ "hits": 134,
+ "docs": [
+  {
+   "abstract": "Gwynne Shotwell, the president and chief operating officer, is the adult-in-the-room foil to Mr. Musk as SpaceX prepares for a blockbuster initial public offering.",
+   "byline": {
+    "original": "By Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Steady Hand at SpaceX Is Not Elon Musk",
+    "kicker": "",
+    "print_headline": "Behind Scenes, SpaceX\u2019s No. 2 Is Foil to Musk"
+   },
+   "_id": "nyt://article/529cf49e-df18-528c-ba37-ac3a8c8f6b9c",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Shotwell, Gwynne",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Women and Girls",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Personal Profile",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Gwynne Shotwell, SpaceX\u2019s president and chief operating officer, in Miami Beach last year during one of her infrequent public appearances. \u201cI love working for Elon,\u201d she has said.",
+    "credit": "Joe Raedle/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/06/01/business/00Biz-Shotwell-SUB/00Biz-Shotwell-SUB-articleLarge.jpg",
+     "height": 407,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/06/01/business/00Biz-Shotwell-SUB/00Biz-Shotwell-SUB-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2026-06-04T14:08:29Z",
+   "section_name": "Technology",
+   "snippet": "Gwynne Shotwell, the president and chief operating officer, is the adult-in-the-room foil to Mr. Musk as SpaceX prepares for a blockbuster initial public offering.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/529cf49e-df18-528c-ba37-ac3a8c8f6b9c",
+   "web_url": "https://www.nytimes.com/2026/06/04/technology/gwynne-shotwell-spacex.html",
+   "word_count": 1446
+  },
+  {
+   "abstract": "The blockbuster stock market debut of Elon Musk\u2019s rocket company paves the way for a wave of enormous offerings that are coming from OpenAI and Anthropic.",
+   "byline": {
+    "original": "By Ryan Mac and Lauren Hirsch"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Rises 20% in Largest I.P.O. Ever",
+    "kicker": "",
+    "print_headline": "SpaceX\u2019s I.P.O. Makes Musk The First Trillionaire on Earth"
+   },
+   "_id": "nyt://article/3e50f340-4a18-5824-a0c4-c23be9302b2c",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "Traders at the New York Stock Exchange watching news about SpaceX\u2019s initial public offering on the Nasdaq exchange on Friday.",
+    "credit": "Karsten Moran for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/06/12/multimedia/12biz-spacex-firstday-2-gvkl/12biz-spacex-firstday-2-gvkl-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/06/12/multimedia/12biz-spacex-firstday-2-gvkl/12biz-spacex-firstday-2-gvkl-thumbStandard-v2.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2026-06-12T15:59:57Z",
+   "section_name": "Technology",
+   "snippet": "The blockbuster stock market debut of Elon Musk\u2019s rocket company paves the way for a wave of enormous offerings that are coming from OpenAI and Anthropic.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/3e50f340-4a18-5824-a0c4-c23be9302b2c",
+   "web_url": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-elon-musk.html",
+   "word_count": 1247
+  },
+  {
+   "abstract": "While Elon Musk may soon become a trillionaire, his rocket company\u2019s market debut is set to change the lives of its current and former employees, too.",
+   "byline": {
+    "original": "By Kirsten Grind"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX\u2019s I.P.O. Could Turn 4,400 Employees Into Millionaires",
+    "kicker": "",
+    "print_headline": "Thousands of SpaceX Workers Near New Frontier: Millionaire"
+   },
+   "_id": "nyt://article/c4d3a5d3-4d28-5a10-b23c-3e330de8f4b9",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "High Net Worth Individuals",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Chelsea Beck",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/06/10/business/00biz-spacex-employees/00biz-spacex-employees-articleLarge.jpg",
+     "height": 909,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/06/10/business/00biz-spacex-employees/00biz-spacex-employees-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2026-06-10T14:57:12Z",
+   "section_name": "Technology",
+   "snippet": "While Elon Musk may soon become a trillionaire, his rocket company\u2019s market debut is set to change the lives of its current and former employees, too.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c4d3a5d3-4d28-5a10-b23c-3e330de8f4b9",
+   "web_url": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
+   "word_count": 1020
+  },
+  {
+   "abstract": "If you have index funds \u2014 such as in a 401(k) \u2014 they may soon include shares of the mega company. Here\u2019s a rough calculation.",
+   "byline": {
+    "original": "By C.J. Robinson"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Much SpaceX Are You About to Own?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/7de1c05e-f31d-5ebb-ac3b-539075769fb9",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/06/12/multimedia/2026-06-03-spacex-index/2026-06-03-spacex-index-articleLarge-v5.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/06/12/multimedia/2026-06-03-spacex-index/2026-06-03-spacex-index-thumbStandard-v5.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Upshot",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-06-12T17:40:07Z",
+   "section_name": "The Upshot",
+   "snippet": "If you have index funds \u2014 such as in a 401(k) \u2014 they may soon include shares of the mega company. Here\u2019s a rough calculation.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/7de1c05e-f31d-5ebb-ac3b-539075769fb9",
+   "web_url": "https://www.nytimes.com/2026/06/12/upshot/spacex-stock-ipo.html",
+   "word_count": 860
+  },
+  {
+   "abstract": "The company\u2019s deep commitment to Mars colonization and Elon Musk\u2019s nearly total control make SpaceX stock an astonishingly speculative bet, our columnist says.",
+   "byline": {
+    "original": "By Jeff Sommer"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Much Is SpaceX Really Worth?",
+    "kicker": "Strategies",
+    "print_headline": "How Much Are SpaceX And Its Dreams Worth?"
+   },
+   "_id": "nyt://article/846c2f16-b2c0-59b6-9c77-b8eda67d2eb0",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Morningstar Inc",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "NVIDIA Corporation",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Giulio Bonasera",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/06/21/business/21strategies-illo/21strategies-illo-articleLarge.jpg",
+     "height": 500,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/06/21/business/21strategies-illo/21strategies-illo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "SundayBusiness",
+   "print_page": "7",
+   "print_section": "BU",
+   "pub_date": "2026-06-19T09:02:04Z",
+   "section_name": "Business",
+   "snippet": "The company\u2019s deep commitment to Mars colonization and Elon Musk\u2019s nearly total control make SpaceX stock an astonishingly speculative bet, our columnist says.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/846c2f16-b2c0-59b6-9c77-b8eda67d2eb0",
+   "web_url": "https://www.nytimes.com/2026/06/19/business/spacex-stock-price.html",
+   "word_count": 1461
+  },
+  {
+   "abstract": "In its first few days of trading, Elon Musk\u2019s newly listed rocket maker has become one of the world\u2019s most valuable companies.",
+   "byline": {
+    "original": "By Jason Karaian"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Is More Valuable Than Meta, Broadcom and Many Others",
+    "kicker": "",
+    "print_headline": "Market Gains Propel SpaceX Into the Top Tier of Companies"
+   },
+   "_id": "nyt://article/e666edc8-2523-53de-a6e9-2928cd9e1ad5",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Company Reports",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/06/16/multimedia/2026-06-biz-june-promos-spacex-value/2026-06-biz-june-promos-spacex-value-articleLarge-v11.png",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/06/16/multimedia/2026-06-biz-june-promos-spacex-value/2026-06-biz-june-promos-spacex-value-thumbStandard-v11.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2026-06-16T17:19:00Z",
+   "section_name": "Business",
+   "snippet": "In its first few days of trading, Elon Musk\u2019s newly listed rocket maker has become one of the world\u2019s most valuable companies.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/e666edc8-2523-53de-a6e9-2928cd9e1ad5",
+   "web_url": "https://www.nytimes.com/2026/06/16/business/spacex-market-value-ranking.html",
+   "word_count": 321
+  },
+  {
+   "abstract": "As the company prepares its stock market debut, here\u2019s what the offering means for banks, Elon Musk and everyday investors.",
+   "byline": {
+    "original": "By Aruni Soni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Want to Invest in SpaceX? Here\u2019s What to Know",
+    "kicker": "",
+    "print_headline": "Want a Piece of the Action? Tips About the Offering."
+   },
+   "_id": "nyt://article/1f00f3b1-fecd-5172-bd3f-4ad2d5b9d2c4",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Nasdaq Composite Index",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Shares of SpaceX are expected to start trading on Friday.",
+    "credit": "Gabriel V. C\u00e1rdenas for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/06/09/multimedia/09biz-spacex-ipo-wtk-qwbg/09biz-spacex-ipo-wtk-qwbg-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/06/09/multimedia/09biz-spacex-ipo-wtk-qwbg/09biz-spacex-ipo-wtk-qwbg-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2026-06-10T09:02:59Z",
+   "section_name": "Business",
+   "snippet": "As the company prepares its stock market debut, here\u2019s what the offering means for banks, Elon Musk and everyday investors.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/1f00f3b1-fecd-5172-bd3f-4ad2d5b9d2c4",
+   "web_url": "https://www.nytimes.com/2026/06/10/business/spacex-ipo-what-to-know.html",
+   "word_count": 994
+  },
+  {
+   "abstract": "Some shareholders might object, but there is little they could do, legal experts say.",
+   "byline": {
+    "original": "By Jack Ewing and Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Musk\u2019s Next Move May Be a Megamerger of SpaceX and Tesla",
+    "kicker": "",
+    "print_headline": "Megamerger Of SpaceX  And Tesla?"
+   },
+   "_id": "nyt://article/465fd906-a63a-5284-bccf-d71625ac0b27",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Shareholder Rights and Activism",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Delaware",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "Texas",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Boards of Directors",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Botha, Roelof F (1973- )",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 15
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 16
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 17
+    }
+   ],
+   "multimedia": {
+    "caption": "Tesla has sold car and batteries to SpaceX, and the two companies are jointly working on chips and software.",
+    "credit": "Mike Blake/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/06/17/multimedia/00spacex-tesla-4-ltpz-promo/00spacex-tesla-4-ltpz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/06/17/multimedia/00spacex-tesla-4-ltpz-promo/00spacex-tesla-4-ltpz-promo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-06-17T16:20:24Z",
+   "section_name": "Business",
+   "snippet": "Some shareholders might object, but there is little they could do, legal experts say.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/465fd906-a63a-5284-bccf-d71625ac0b27",
+   "web_url": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html",
+   "word_count": 1451
+  },
+  {
+   "abstract": "Elon Musk\u2019s rocket company said Google would pay it $920 million a month, as it prepared for its initial public offering.",
+   "byline": {
+    "original": "By Kate Conger"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power",
+    "kicker": "",
+    "print_headline": "For SpaceX, An A.I. Deal With Google Is a Payday"
+   },
+   "_id": "nyt://article/b2e8e983-0893-5aca-999d-a780dcdcc9a8",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Google Inc",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Cloud Computing",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Chips",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s Starbase offices in Texas. The agreement with Google could help to establish SpaceX as an infrastructure provider for companies that are fiercely competing in the A.I. race.",
+    "credit": "Carlos Barria/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/06/05/multimedia/05biz-spacex-google-qzjh/05biz-spacex-google-qzjh-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/06/05/multimedia/05biz-spacex-google-qzjh/05biz-spacex-google-qzjh-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2026-06-06T00:44:15Z",
+   "section_name": "Technology",
+   "snippet": "Elon Musk\u2019s rocket company said Google would pay it $920 million a month, as it prepared for its initial public offering.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/b2e8e983-0893-5aca-999d-a780dcdcc9a8",
+   "web_url": "https://www.nytimes.com/2026/06/05/technology/spacex-google-deal.html",
+   "word_count": 432
+  },
+  {
+   "abstract": "Few are as delighted by the pending market debut as the vibrant community of space enthusiasts who want to push discovery of the final frontier.",
+   "byline": {
+    "original": "By Sheera Frenkel"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Space Nerds, Rejoice! SpaceX\u2019s I.P.O. Lifts Dreams of the Cosmos.",
+    "kicker": "",
+    "print_headline": "Simply Over the Moon About SpaceX\u2019s I.P.O.  And Link to the Cosmos"
+   },
+   "_id": "nyt://article/349bef88-0f88-5f30-a647-e2e94d9d83fd",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Podcasts",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Mark Wang",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/06/05/business/00spacex-nerds/00spacex-nerds-articleLarge.jpg",
+     "height": 909,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/06/05/business/00spacex-nerds/00spacex-nerds-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-06-04T14:08:43Z",
+   "section_name": "Technology",
+   "snippet": "Few are as delighted by the pending market debut as the vibrant community of space enthusiasts who want to push discovery of the final frontier.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/349bef88-0f88-5f30-a647-e2e94d9d83fd",
+   "web_url": "https://www.nytimes.com/2026/06/04/technology/space-nerds-spacex-ipo.html",
+   "word_count": 889
+  }
+ ]
+}

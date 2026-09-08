@@ -1,0 +1,87 @@
+{
+ "company": "Firefly Aerospace",
+ "query": "\"Firefly Aerospace\"",
+ "month": "2025-06",
+ "begin_date": "20250601",
+ "end_date": "20250630",
+ "fetched_at": "2026-09-08T05:22:14.454239+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The loss of the Resilience spacecraft by Ispace repeated a crash into the moon in 2023 of the company\u2019s first robotic lunar landing mission.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Japanese Company\u2019s Moon Lander Has Crashed",
+    "kicker": "",
+    "print_headline": "Second Ispace Lander Crashes to the Moon"
+   },
+   "_id": "nyt://article/07ee8d45-d251-5e9a-af59-42beac76d74d",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "ispace Inc",
+     "rank": 2
+    },
+    {
+     "name": "Location",
+     "value": "Japan",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Robots and Robotics",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "ispace, inc., via Associated Press",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/06/05/multimedia/05HS-moon-landing-01-pvfz/05HS-moon-landing-01-pvfz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/06/05/multimedia/05HS-moon-landing-01-pvfz/05HS-moon-landing-01-pvfz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "8",
+   "print_section": "A",
+   "pub_date": "2025-06-05T14:28:18Z",
+   "section_name": "Science",
+   "snippet": "The loss of the Resilience spacecraft by Ispace repeated a crash into the moon in 2023 of the company\u2019s first robotic lunar landing mission.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/07ee8d45-d251-5e9a-af59-42beac76d74d",
+   "web_url": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
+   "word_count": 1006
+  }
+ ]
+}

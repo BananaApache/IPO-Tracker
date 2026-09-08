@@ -1,0 +1,102 @@
+{
+ "company": "Firefly Aerospace",
+ "query": "\"Firefly Aerospace\"",
+ "month": "2025-02",
+ "begin_date": "20250201",
+ "end_date": "20250228",
+ "fetched_at": "2026-09-08T05:12:38.408552+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The company reached the lunar surface in 2024, and now its second lander aims to improve on the feat. Three other spacecraft also hitched a ride on the SpaceX rocket.",
+   "byline": {
+    "original": "By Kenneth Chang"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Intuitive Machines\u2019 Athena Lander Launches on Journey to the Moon",
+    "kicker": "",
+    "print_headline": "Athena Lander Heads To Moon With a Goal: Try Not to Topple Over"
+   },
+   "_id": "nyt://article/8770234b-ee0b-5de4-b4c7-a65463989395",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Intuitive Machines LLC",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "National Aeronautics and Space Administration",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Rocket Science and Propulsion",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "AstroForge Inc",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Lunar Outpost Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Nokia Oyj",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Intuitive Machines",
+    "default": {
+     "url": "https://static01.nyt.com/images/2025/03/26/multimedia/26moon-lander-promo-new-tchz/26moon-lander-promo-new-tchz-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2025/03/26/multimedia/26moon-lander-promo-new-tchz/26moon-lander-promo-new-tchz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Science",
+   "print_page": "20",
+   "print_section": "A",
+   "pub_date": "2025-02-26T20:19:38Z",
+   "section_name": "Science",
+   "snippet": "The company reached the lunar surface in 2024, and now its second lander aims to improve on the feat. Three other spacecraft also hitched a ride on the SpaceX rocket.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/8770234b-ee0b-5de4-b4c7-a65463989395",
+   "web_url": "https://www.nytimes.com/2025/02/26/science/intuitive-machines-second-moon-landing-launch-how-to-watch.html",
+   "word_count": 1120
+  }
+ ]
+}

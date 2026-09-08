@@ -1,0 +1,347 @@
+{
+ "from": "2024-06-01",
+ "to": "2024-06-30",
+ "fetched_at": "2026-09-08T04:22:36.632516+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2024-06-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "ALUMIS INC.",
+   "numberOfShares": 13125000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ALMS",
+   "totalSharesValue": 210000000
+  },
+  {
+   "date": "2024-06-28",
+   "exchange": "NYSE",
+   "name": "LandBridge Co LLC",
+   "numberOfShares": 14500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LB",
+   "totalSharesValue": 246500000
+  },
+  {
+   "date": "2024-06-28",
+   "exchange": "NASDAQ Capital",
+   "name": "Lakeside Holding Ltd",
+   "numberOfShares": 1500000,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "LSH",
+   "totalSharesValue": 6750000
+  },
+  {
+   "date": "2024-06-28",
+   "exchange": null,
+   "name": "SOLERA GLOBAL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SLRA",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2024-06-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "WEBTOON Entertainment Inc.",
+   "numberOfShares": 15000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "WBTN",
+   "totalSharesValue": 315000000
+  },
+  {
+   "date": "2024-06-27",
+   "exchange": "NYSE",
+   "name": "Tamboran Resources Corp",
+   "numberOfShares": 3125000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "TBN",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2024-06-26",
+   "exchange": "NYSE MKT",
+   "name": "Graf Global Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GRAFU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2024-06-21",
+   "exchange": "NASDAQ Capital",
+   "name": "Rectitude Holdings Ltd.",
+   "numberOfShares": 2000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "RECT",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2024-06-20",
+   "exchange": null,
+   "name": "F3 Platform Biologics INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-06-18",
+   "exchange": "NASDAQ Global",
+   "name": "Melar Acquisition Corp. I/Cayman",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MACIU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2024-06-18",
+   "exchange": "NASDAQ Global",
+   "name": "Lionheart Holdings",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CUBWU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2024-06-18",
+   "exchange": "NASDAQ Global",
+   "name": "Flag Ship Acquisition Corp",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FSHPU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2024-06-17",
+   "exchange": null,
+   "name": "Zhong Shi International Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ZSMA",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2024-06-14",
+   "exchange": null,
+   "name": "Telix Pharmaceuticals Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-06-14",
+   "exchange": null,
+   "name": "XJet Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-06-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "Tempus AI, Inc.",
+   "numberOfShares": 11100000,
+   "price": "37.00",
+   "status": "priced",
+   "symbol": "TEM",
+   "totalSharesValue": 410700000
+  },
+  {
+   "date": "2024-06-13",
+   "exchange": null,
+   "name": "Veg House Holdings Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-06-12",
+   "exchange": null,
+   "name": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-06-12",
+   "exchange": "NASDAQ Global",
+   "name": "Perceptive Capital Solutions Corp",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PCSC",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2024-06-12",
+   "exchange": null,
+   "name": "Calor Del Sol Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2024-06-11",
+   "exchange": null,
+   "name": "Huake Holding Biology Co., LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-06-11",
+   "exchange": "NASDAQ Global",
+   "name": "Centurion Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ALFUU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2024-06-11",
+   "exchange": null,
+   "name": "Carbon Zero Technologies International Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2024-06-10",
+   "exchange": null,
+   "name": "Harden Technologies Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-06-10",
+   "exchange": null,
+   "name": "Sustainable Projects Group Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LIHV",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2024-06-07",
+   "exchange": "NASDAQ Global",
+   "name": "Rapport Therapeutics, Inc.",
+   "numberOfShares": 8000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "RAPP",
+   "totalSharesValue": 136000000
+  },
+  {
+   "date": "2024-06-07",
+   "exchange": "NYSE MKT",
+   "name": "Chenghe Acquisition II Co.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CHEBU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2024-06-07",
+   "exchange": "NASDAQ Global Select",
+   "name": "Waystar Holding Corp.",
+   "numberOfShares": 45000000,
+   "price": "21.50",
+   "status": "priced",
+   "symbol": "WAY",
+   "totalSharesValue": 967500000
+  },
+  {
+   "date": "2024-06-07",
+   "exchange": null,
+   "name": "UEOPLE Technology Holding Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "UEOP",
+   "totalSharesValue": 8625000
+  },
+  {
+   "date": "2024-06-07",
+   "exchange": null,
+   "name": "Barony Power Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3600000
+  },
+  {
+   "date": "2024-06-06",
+   "exchange": null,
+   "name": "New Ruipeng Pet Group Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2024-06-06",
+   "exchange": "NASDAQ Global Select",
+   "name": "Life360, Inc.",
+   "numberOfShares": 5750000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "LIF",
+   "totalSharesValue": 155250000
+  },
+  {
+   "date": "2024-06-06",
+   "exchange": "NASDAQ Global",
+   "name": "Gauzy Ltd.",
+   "numberOfShares": 4411765,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "GAUZ",
+   "totalSharesValue": 75000005
+  },
+  {
+   "date": "2024-06-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Fly-E Group, Inc.",
+   "numberOfShares": 2250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "FLYE",
+   "totalSharesValue": 9000000
+  }
+ ]
+}

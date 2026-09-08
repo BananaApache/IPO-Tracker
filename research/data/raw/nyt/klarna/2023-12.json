@@ -1,0 +1,132 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2023-12",
+ "begin_date": "20231201",
+ "end_date": "20231231",
+ "fetched_at": "2026-09-08T04:49:02.198045+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Buying mattresses, clothes and other goods on installment plans has propped up spending, but economists worry that such loans could put some people at risk.",
+   "byline": {
+    "original": "By Ben Casselman and Jordyn Holman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Americans May Be Taking On Too Much Pay-Later \u2018Phantom Debt\u2019",
+    "kicker": "",
+    "print_headline": "Pay-Later Loans Put Some At Risk for \u2018Phantom Debt\u2019"
+   },
+   "_id": "nyt://article/db5cf4bf-ccd0-5d23-a4c4-6c647bfc61b8",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Credit Cards",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "E-Commerce",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Behavior",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Interest Rates",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Shopping and Retail",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Affirm Inc",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Afterpay Touch Group Ltd",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Klarna AB",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "TransUnion LLC",
+     "rank": 14
+    },
+    {
+     "name": "Location",
+     "value": "United States",
+     "rank": 15
+    },
+    {
+     "name": "Keyword",
+     "value": "Buy Now Pay Later",
+     "rank": 16
+    }
+   ],
+   "multimedia": {
+    "caption": "Pay-later loans became available in the United States years ago, but they took off during the pandemic when online shopping surged.",
+    "credit": "Tony Cenicola/The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/12/22/multimedia/00pay-later01-hjcm/00pay-later01-hjcm-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/12/22/multimedia/00pay-later01-hjcm/00pay-later01-hjcm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2023-12-20T17:00:16Z",
+   "section_name": "Business",
+   "snippet": "Buying mattresses, clothes and other goods on installment plans has propped up spending, but economists worry that such loans could put some people at risk.",
+   "source": "The New York Times",
+   "subsection_name": "Economy",
+   "type_of_material": "News",
+   "uri": "nyt://article/db5cf4bf-ccd0-5d23-a4c4-6c647bfc61b8",
+   "web_url": "https://www.nytimes.com/2023/12/20/business/economy/pay-later-credit-debt.html",
+   "word_count": 1695
+  }
+ ]
+}

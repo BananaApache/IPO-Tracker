@@ -1,0 +1,967 @@
+{
+ "from": "2021-06-01",
+ "to": "2021-06-30",
+ "fetched_at": "2026-09-08T04:21:24.584628+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2021-06-30",
+   "exchange": "NYSE",
+   "name": "DiDi Global Inc.",
+   "numberOfShares": 316800000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "DIDI",
+   "totalSharesValue": 4435200000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Global",
+   "name": "Aerovate Therapeutics, Inc.",
+   "numberOfShares": 8682142,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "AVTE",
+   "totalSharesValue": 121549988
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Global Select",
+   "name": "Xometry, Inc.",
+   "numberOfShares": 6875000,
+   "price": "44.00",
+   "status": "priced",
+   "symbol": "XMTR",
+   "totalSharesValue": 302500000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Global Select",
+   "name": "INTEGRAL AD SCIENCE HOLDING CORP.",
+   "numberOfShares": 15000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "IAS",
+   "totalSharesValue": 270000000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Global Select",
+   "name": "CVRx, Inc.",
+   "numberOfShares": 7000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "CVRX",
+   "totalSharesValue": 126000000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Global Select",
+   "name": "LEGALZOOM.COM, INC.",
+   "numberOfShares": 19121000,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "LZ",
+   "totalSharesValue": 535388000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Global Select",
+   "name": "Intapp, Inc.",
+   "numberOfShares": 10500000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "INTA",
+   "totalSharesValue": 273000000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NYSE",
+   "name": "Clear Secure, Inc.",
+   "numberOfShares": 13200000,
+   "price": "31.00",
+   "status": "priced",
+   "symbol": "YOU",
+   "totalSharesValue": 409200000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Social Capital Suvretta Holdings Corp. I",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DNAA",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Social Capital Suvretta Holdings Corp. II",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DNAB",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Social Capital Suvretta Holdings Corp. III",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DNAC",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Social Capital Suvretta Holdings Corp. IV",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DNAD",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NYSE",
+   "name": "SentinelOne, Inc.",
+   "numberOfShares": 35000000,
+   "price": "35.00",
+   "status": "priced",
+   "symbol": "S",
+   "totalSharesValue": 1225000000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Mountain Crest Acquisition Corp. IV",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MCAFU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Global",
+   "name": "Thunder Bridge Capital Partners IV, Inc.",
+   "numberOfShares": 22500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "THCPU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Global",
+   "name": "Pop Culture Group Co., Ltd",
+   "numberOfShares": 6200000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "CPOP",
+   "totalSharesValue": 37200000
+  },
+  {
+   "date": "2021-06-30",
+   "exchange": "NASDAQ Capital",
+   "name": "Shelter Acquisition Corp I",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SHQAU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-06-29",
+   "exchange": "NASDAQ Capital",
+   "name": "Gobi Acquisition Corp.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GOBI",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2021-06-29",
+   "exchange": "NYSE",
+   "name": "Dingdong (Cayman) Ltd",
+   "numberOfShares": 4072000,
+   "price": "23.50",
+   "status": "priced",
+   "symbol": "DDL",
+   "totalSharesValue": 95692000
+  },
+  {
+   "date": "2021-06-29",
+   "exchange": "NYSE MKT",
+   "name": "Better Choice Co Inc.",
+   "numberOfShares": 8000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "BTTR",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2021-06-29",
+   "exchange": "NYSE Arca",
+   "name": "iShares Gold Trust Micro",
+   "numberOfShares": 120000000,
+   "price": null,
+   "status": "priced",
+   "symbol": "IAUM",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2021-06-29",
+   "exchange": "NYSE",
+   "name": "Elliott Opportunity II Corp.",
+   "numberOfShares": 53000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EOCWU",
+   "totalSharesValue": 530000000
+  },
+  {
+   "date": "2021-06-28",
+   "exchange": null,
+   "name": "Ipsidy Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 23000000
+  },
+  {
+   "date": "2021-06-25",
+   "exchange": "NASDAQ Global",
+   "name": "Missfresh Ltd",
+   "numberOfShares": 21000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "MF",
+   "totalSharesValue": 273000000
+  },
+  {
+   "date": "2021-06-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "Elevation Oncology, Inc.",
+   "numberOfShares": 6250000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ELEV",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-06-25",
+   "exchange": "NASDAQ Global",
+   "name": "GH Research PLC",
+   "numberOfShares": 10000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "GHRS",
+   "totalSharesValue": 160000000
+  },
+  {
+   "date": "2021-06-25",
+   "exchange": "NASDAQ Global",
+   "name": "Alpha Teknova, Inc.",
+   "numberOfShares": 6000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "TKNO",
+   "totalSharesValue": 96000000
+  },
+  {
+   "date": "2021-06-25",
+   "exchange": "NASDAQ Global",
+   "name": "Graphite Bio, Inc.",
+   "numberOfShares": 14000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "GRPH",
+   "totalSharesValue": 238000000
+  },
+  {
+   "date": "2021-06-25",
+   "exchange": "NYSE",
+   "name": "Mister Car Wash, Inc.",
+   "numberOfShares": 37500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "MCW",
+   "totalSharesValue": 562500000
+  },
+  {
+   "date": "2021-06-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Acurx Pharmaceuticals, Inc.",
+   "numberOfShares": 2500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ACXP",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2021-06-25",
+   "exchange": "NASDAQ Capital",
+   "name": "G Medical Innovations Holdings Ltd.",
+   "numberOfShares": 3000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "GMVD",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2021-06-25",
+   "exchange": null,
+   "name": "Manycore Tech Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KOOL",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-06-24",
+   "exchange": "NASDAQ Global Select",
+   "name": "Monte Rosa Therapeutics, Inc.",
+   "numberOfShares": 11700000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "GLUE",
+   "totalSharesValue": 222300000
+  },
+  {
+   "date": "2021-06-24",
+   "exchange": "NASDAQ Capital",
+   "name": "Northern Lights Acquisition Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NLITU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2021-06-24",
+   "exchange": "NASDAQ Global Select",
+   "name": "Confluent, Inc.",
+   "numberOfShares": 23000000,
+   "price": "36.00",
+   "status": "priced",
+   "symbol": "CFLT",
+   "totalSharesValue": 828000000
+  },
+  {
+   "date": "2021-06-24",
+   "exchange": "NYSE",
+   "name": "Doximity, Inc.",
+   "numberOfShares": 23300000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "DOCS",
+   "totalSharesValue": 605800000
+  },
+  {
+   "date": "2021-06-24",
+   "exchange": "NASDAQ Capital",
+   "name": "Miromatrix Medical Inc.",
+   "numberOfShares": 4800000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "MIRO",
+   "totalSharesValue": 43200000
+  },
+  {
+   "date": "2021-06-24",
+   "exchange": "NYSE",
+   "name": "Bright Health Group Inc.",
+   "numberOfShares": 51350000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "BHG",
+   "totalSharesValue": 924300000
+  },
+  {
+   "date": "2021-06-24",
+   "exchange": "NASDAQ Capital",
+   "name": "GROVE, INC.",
+   "numberOfShares": 2200000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "GRVI",
+   "totalSharesValue": 11000000
+  },
+  {
+   "date": "2021-06-24",
+   "exchange": "NASDAQ Capital",
+   "name": "FINTECH ACQUISITION CORP VI",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FTVIU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2021-06-24",
+   "exchange": "NASDAQ Capital",
+   "name": "Bon Natural Life Ltd",
+   "numberOfShares": 2200000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "BON",
+   "totalSharesValue": 11000000
+  },
+  {
+   "date": "2021-06-24",
+   "exchange": null,
+   "name": "CoJax Oil & Gas Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2592500
+  },
+  {
+   "date": "2021-06-23",
+   "exchange": "NASDAQ Global Select",
+   "name": "FIRST ADVANTAGE CORP",
+   "numberOfShares": 25500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "FA",
+   "totalSharesValue": 382500000
+  },
+  {
+   "date": "2021-06-23",
+   "exchange": "NYSE",
+   "name": "Sprinklr, Inc.",
+   "numberOfShares": 16625000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CXM",
+   "totalSharesValue": 266000000
+  },
+  {
+   "date": "2021-06-23",
+   "exchange": "NASDAQ Capital",
+   "name": "Coliseum Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MITAU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-06-23",
+   "exchange": null,
+   "name": "SPECIFICITY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2647500
+  },
+  {
+   "date": "2021-06-23",
+   "exchange": null,
+   "name": "Orion Bliss Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2021-06-22",
+   "exchange": "NYSE",
+   "name": "Full Truck Alliance Co. Ltd.",
+   "numberOfShares": 82500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "YMM",
+   "totalSharesValue": 1567500000
+  },
+  {
+   "date": "2021-06-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Golden Path Acquisition Corp",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GPCOU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2021-06-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "Cyteir Therapeutics, Inc.",
+   "numberOfShares": 7400000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "CYT",
+   "totalSharesValue": 133200000
+  },
+  {
+   "date": "2021-06-18",
+   "exchange": "NYSE",
+   "name": "ATRenew Inc.",
+   "numberOfShares": 16233000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "RERE",
+   "totalSharesValue": 227262000
+  },
+  {
+   "date": "2021-06-18",
+   "exchange": "NYSE",
+   "name": "Ambrx Biopharma Inc.",
+   "numberOfShares": 7000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "AMAM",
+   "totalSharesValue": 126000000
+  },
+  {
+   "date": "2021-06-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "Codex DNA, Inc.",
+   "numberOfShares": 6666665,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "DNAY",
+   "totalSharesValue": 106666640
+  },
+  {
+   "date": "2021-06-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "Century Therapeutics, Inc.",
+   "numberOfShares": 10550000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "IPSC",
+   "totalSharesValue": 211000000
+  },
+  {
+   "date": "2021-06-18",
+   "exchange": "NASDAQ Global",
+   "name": "Tremor International Ltd.",
+   "numberOfShares": 6768953,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "TRMR",
+   "totalSharesValue": 128610107
+  },
+  {
+   "date": "2021-06-18",
+   "exchange": "NASDAQ Capital",
+   "name": "FEMASYS INC",
+   "numberOfShares": 2650000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "FEMY",
+   "totalSharesValue": 34450000
+  },
+  {
+   "date": "2021-06-18",
+   "exchange": "NASDAQ Global",
+   "name": "ATAI Life Sciences N.V.",
+   "numberOfShares": 15000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ATAI",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2021-06-18",
+   "exchange": "NASDAQ Capital",
+   "name": "Jaws Juggernaut Acquisition Corp",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JUGGU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2021-06-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "Verve Therapeutics, Inc.",
+   "numberOfShares": 14035789,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "VERV",
+   "totalSharesValue": 266679991
+  },
+  {
+   "date": "2021-06-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "Lyell Immunopharma, Inc.",
+   "numberOfShares": 25000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LYEL",
+   "totalSharesValue": 425000000
+  },
+  {
+   "date": "2021-06-17",
+   "exchange": "NYSE",
+   "name": "Angel Oak Mortgage, Inc.",
+   "numberOfShares": 7200000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "AOMR",
+   "totalSharesValue": 136800000
+  },
+  {
+   "date": "2021-06-17",
+   "exchange": "NASDAQ Capital",
+   "name": "CORNER GROWTH ACQUISITION CORP. 2",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TRONU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2021-06-17",
+   "exchange": "NASDAQ Capital",
+   "name": "iSpecimen Inc.",
+   "numberOfShares": 2250000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "ISPC",
+   "totalSharesValue": 18000000
+  },
+  {
+   "date": "2021-06-16",
+   "exchange": "NYSE",
+   "name": "Convey Health Solutions Holdings, Inc.",
+   "numberOfShares": 13333334,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "CNVY",
+   "totalSharesValue": 186666676
+  },
+  {
+   "date": "2021-06-16",
+   "exchange": "NASDAQ Global Select",
+   "name": "WalkMe Ltd.",
+   "numberOfShares": 9250000,
+   "price": "31.00",
+   "status": "priced",
+   "symbol": "WKME",
+   "totalSharesValue": 286750000
+  },
+  {
+   "date": "2021-06-16",
+   "exchange": "NASDAQ Global Select",
+   "name": "MOLECULAR PARTNERS AG",
+   "numberOfShares": 3000000,
+   "price": "21.25",
+   "status": "priced",
+   "symbol": "MOLN",
+   "totalSharesValue": 63750000
+  },
+  {
+   "date": "2021-06-16",
+   "exchange": "NASDAQ Global",
+   "name": "Zimmer Energy Transition Acquisition Corp.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ZTAQU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2021-06-16",
+   "exchange": "NYSE",
+   "name": "Rice Acquisition Corp. II",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RONIU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2021-06-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Alzamend Neuro, Inc.",
+   "numberOfShares": 2500000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "ALZN",
+   "totalSharesValue": 12500000
+  },
+  {
+   "date": "2021-06-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Dila Capital Acquisition Corp",
+   "numberOfShares": 5500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DILAU",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2021-06-15",
+   "exchange": "NYSE",
+   "name": "G Squared Ascend II, Inc.",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GSQBU",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2021-06-11",
+   "exchange": "NASDAQ Global Select",
+   "name": "Kanzhun Ltd",
+   "numberOfShares": 48000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "BZ",
+   "totalSharesValue": 912000000
+  },
+  {
+   "date": "2021-06-11",
+   "exchange": "NASDAQ Global",
+   "name": "Janux Therapeutics, Inc.",
+   "numberOfShares": 11400000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "JANX",
+   "totalSharesValue": 193800000
+  },
+  {
+   "date": "2021-06-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Lakeshore Acquisition I Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LAAAU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2021-06-11",
+   "exchange": "NASDAQ Global Select",
+   "name": "TaskUs, Inc.",
+   "numberOfShares": 13200000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "TASK",
+   "totalSharesValue": 303600000
+  },
+  {
+   "date": "2021-06-11",
+   "exchange": "NYSE MKT",
+   "name": "SPLASH BEVERAGE GROUP, INC.",
+   "numberOfShares": 3750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "SBEV",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2021-06-11",
+   "exchange": "NASDAQ Global",
+   "name": "Logistics Innovation Technologies Corp.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LITTU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2021-06-11",
+   "exchange": "NASDAQ Capital",
+   "name": "Jaws Hurricane Acquisition Corp",
+   "numberOfShares": 27500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HCNEU",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2021-06-10",
+   "exchange": null,
+   "name": "Gyroscope Therapeutics Holdings plc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-06-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "monday.com Ltd.",
+   "numberOfShares": 3700000,
+   "price": "155.00",
+   "status": "priced",
+   "symbol": "MNDY",
+   "totalSharesValue": 573500000
+  },
+  {
+   "date": "2021-06-10",
+   "exchange": "NASDAQ Global",
+   "name": "1stdibs.com, Inc.",
+   "numberOfShares": 5750000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "DIBS",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2021-06-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "LifeStance Health Group, Inc.",
+   "numberOfShares": 40000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "LFST",
+   "totalSharesValue": 720000000
+  },
+  {
+   "date": "2021-06-10",
+   "exchange": "NASDAQ Capital",
+   "name": "Blue Safari Group Acquisition Corp",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BSGAU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2021-06-10",
+   "exchange": "NYSE",
+   "name": "Zeta Global Holdings Corp.",
+   "numberOfShares": 21500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ZETA",
+   "totalSharesValue": 215000000
+  },
+  {
+   "date": "2021-06-09",
+   "exchange": null,
+   "name": "LCP Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2021-06-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "Marqeta, Inc.",
+   "numberOfShares": 45454546,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "MQ",
+   "totalSharesValue": 1227272742
+  },
+  {
+   "date": "2021-06-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Summit Healthcare Acquisition Corp.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SMIHU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2021-06-09",
+   "exchange": "NYSE",
+   "name": "Colombier Acquisition Corp.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CLBRU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-06-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Iron Spark I Inc.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ISAA",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2021-06-09",
+   "exchange": "NASDAQ Capital",
+   "name": "Global Consumer Acquisition Corp",
+   "numberOfShares": 17000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GACQU",
+   "totalSharesValue": 170000000
+  },
+  {
+   "date": "2021-06-08",
+   "exchange": "NYSE",
+   "name": "Zhangmen Education Inc.",
+   "numberOfShares": 3623000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "ZME",
+   "totalSharesValue": 41664500
+  },
+  {
+   "date": "2021-06-08",
+   "exchange": "NASDAQ Capital",
+   "name": "SPK Acquisition Corp.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SPKAU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2021-06-08",
+   "exchange": null,
+   "name": "Privacy & Value Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2021-06-04",
+   "exchange": null,
+   "name": "UK Wisdom Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "UKWIU",
+   "totalSharesValue": 57500000
+  },
+  {
+   "date": "2021-06-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "dLocal Ltd",
+   "numberOfShares": 29411765,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "DLO",
+   "totalSharesValue": 617647065
+  },
+  {
+   "date": "2021-06-02",
+   "exchange": null,
+   "name": "Norcor Technologies Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 12000000
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+company,ticker,calendar_date,first_trade_date,verdict,detail
+CoreWeave,CRWV,2025-03-28,2025-03-28,agrees,first session equals the calendar date
+Circle Internet,CRCL,2025-06-05,2025-06-05,agrees,first session equals the calendar date
+Chime,CHYM,2025-06-12,2025-06-12,agrees,first session equals the calendar date
+Figma,FIG,2025-07-31,2025-07-31,agrees,first session equals the calendar date
+Firefly Aerospace,FLY,2025-08-07,2025-08-07,agrees,first session equals the calendar date
+Bullish,BLSH,2025-08-13,2025-08-13,agrees,first session equals the calendar date
+Klarna,KLAR,2025-09-10,2025-09-10,agrees,first session equals the calendar date
+StubHub,STUB,2025-09-17,2025-09-17,agrees,first session equals the calendar date
+Fervo Energy,FRVO,2026-05-13,2026-05-13,agrees,first session equals the calendar date
+Cerebras Systems,CBRS,2026-05-14,2026-05-14,agrees,first session equals the calendar date
+SpaceX,SPCX,2026-06-12,2026-06-12,agrees,first session equals the calendar date
+Jersey Mike's Subs,JMKE,2026-07-30,2026-07-30,agrees,first session equals the calendar date

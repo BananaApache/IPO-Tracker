@@ -1,0 +1,297 @@
+{
+ "from": "2023-08-01",
+ "to": "2023-08-31",
+ "fetched_at": "2026-09-08T04:22:16.624130+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2023-08-31",
+   "exchange": null,
+   "name": "AMERICAN TUOYUAN INTERNATIONAL SECURITIES GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TYGJU",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2023-08-30",
+   "exchange": "NASDAQ Capital",
+   "name": "INSPIRE VETERINARY PARTNERS, INC.",
+   "numberOfShares": 1600000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "IVP",
+   "totalSharesValue": 6400000
+  },
+  {
+   "date": "2023-08-29",
+   "exchange": null,
+   "name": "Mitesco, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-08-24",
+   "exchange": null,
+   "name": "Mission Control Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MISNU",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2023-08-23",
+   "exchange": null,
+   "name": "HONGXU SHANGZENG GLOBAL HOLDING LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HXSZ",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2023-08-18",
+   "exchange": "NASDAQ Global",
+   "name": "99 Acquisition Group Inc.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NNAGU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2023-08-17",
+   "exchange": null,
+   "name": "LAFAYETTE ENERGY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-08-17",
+   "exchange": null,
+   "name": "WALL STREET ACQUISITIONS, Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-08-17",
+   "exchange": "NASDAQ Capital",
+   "name": "Sezzle Inc.",
+   "numberOfShares": 3241221,
+   "price": null,
+   "status": "priced",
+   "symbol": "SEZL",
+   "totalSharesValue": 43220765.77
+  },
+  {
+   "date": "2023-08-16",
+   "exchange": null,
+   "name": "PROTONIQ Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-08-15",
+   "exchange": "NASDAQ Capital",
+   "name": "SRM Entertainment, Inc.",
+   "numberOfShares": 1250000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SRM",
+   "totalSharesValue": 6250000
+  },
+  {
+   "date": "2023-08-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Sacks Parente Golf, Inc.",
+   "numberOfShares": 3200000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "SPGC",
+   "totalSharesValue": 12800000
+  },
+  {
+   "date": "2023-08-11",
+   "exchange": null,
+   "name": "Merqueo Holdings",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-08-11",
+   "exchange": null,
+   "name": "ZHONGXING HOLDING GROUP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ZXTY",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2023-08-10",
+   "exchange": "NASDAQ Capital",
+   "name": "LQR House Inc.",
+   "numberOfShares": 1000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "LQR",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2023-08-10",
+   "exchange": null,
+   "name": "SIX15 TECHNOLOGIES HOLDING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SXV",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2023-08-09",
+   "exchange": null,
+   "name": "EV TRANSPORTATION SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-08-09",
+   "exchange": "NYSE MKT",
+   "name": "Neuraxis, INC",
+   "numberOfShares": 1098667,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "NRXS",
+   "totalSharesValue": 6592002
+  },
+  {
+   "date": "2023-08-08",
+   "exchange": "NASDAQ Capital",
+   "name": "Fitell Corp",
+   "numberOfShares": 3000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "FTEL",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2023-08-08",
+   "exchange": null,
+   "name": "reAlpha Tech Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AIRE",
+   "totalSharesValue": 1284895.13
+  },
+  {
+   "date": "2023-08-08",
+   "exchange": null,
+   "name": "ZHIDING YUEMEI TECHNOLOGY CO., LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ZDYM",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2023-08-04",
+   "exchange": null,
+   "name": "JIZHILONG HOLDING GROUP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JZL",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2023-08-03",
+   "exchange": "NASDAQ Capital",
+   "name": "MIRA PHARMACEUTICALS, INC.",
+   "numberOfShares": 1275000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "MIRA",
+   "totalSharesValue": 8925000
+  },
+  {
+   "date": "2023-08-02",
+   "exchange": null,
+   "name": "Vittoria Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "VITT",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2023-08-01",
+   "exchange": null,
+   "name": "Sedibelo Resources Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-08-01",
+   "exchange": "NASDAQ Capital",
+   "name": "BV Financial, Inc.",
+   "numberOfShares": 9798980,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BVFL",
+   "totalSharesValue": 97989800
+  },
+  {
+   "date": "2023-08-01",
+   "exchange": "NASDAQ Capital",
+   "name": "PIXIE DUST TECHNOLOGIES, INC.",
+   "numberOfShares": 1666667,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "PXDT",
+   "totalSharesValue": 15000003
+  },
+  {
+   "date": "2023-08-01",
+   "exchange": "NASDAQ Capital",
+   "name": "CHEETAH NET SUPPLY CHAIN SERVICE INC.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CTNT",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2023-08-01",
+   "exchange": "NASDAQ Capital",
+   "name": "Hanryu Holdings, Inc.",
+   "numberOfShares": 877328,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HRYU",
+   "totalSharesValue": 8773280
+  }
+ ]
+}

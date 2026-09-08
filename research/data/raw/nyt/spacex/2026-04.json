@@ -1,0 +1,865 @@
+{
+ "company": "SpaceX",
+ "query": "\"SpaceX\"",
+ "month": "2026-04",
+ "begin_date": "20260401",
+ "end_date": "20260430",
+ "fetched_at": "2026-09-08T05:23:26.548724+00:00",
+ "hits": 57,
+ "docs": [
+  {
+   "abstract": "The rocket maker has been a useful financial tool for Mr. Musk, providing the billionaire with loans and aiding his struggling companies, a Times examination found.",
+   "byline": {
+    "original": "By Susanne Craig and Kirsten Grind"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "How Elon Musk Used SpaceX to Benefit Himself and His Businesses",
+    "kicker": "",
+    "print_headline": "Musk Borrowed $500 Million From SpaceX"
+   },
+   "_id": "nyt://article/35eb7713-18d9-5288-a403-4caf556a5da6",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Innovation",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Electric and Hybrid Vehicles",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Boards of Directors",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 12
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Shareholder Rights and Activism",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 15
+    },
+    {
+     "name": "Organization",
+     "value": "Founders Fund",
+     "rank": 16
+    },
+    {
+     "name": "Organization",
+     "value": "SolarCity Inc",
+     "rank": 17
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 18
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 19
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 20
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 21
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 22
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "David Plunkert",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/25/business/00musk-piggybank-SUB/00musk-piggybank-SUB-articleLarge.jpg",
+     "height": 909,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/25/business/00musk-piggybank-SUB/00musk-piggybank-SUB-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "A",
+   "pub_date": "2026-04-24T09:00:20Z",
+   "section_name": "Technology",
+   "snippet": "The rocket maker has been a useful financial tool for Mr. Musk, providing the billionaire with loans and aiding his struggling companies, a Times examination found.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/35eb7713-18d9-5288-a403-4caf556a5da6",
+   "web_url": "https://www.nytimes.com/2026/04/24/technology/elon-musk-spacex-loans.html",
+   "word_count": 2275
+  },
+  {
+   "abstract": "An initial public offering of Elon Musk\u2019s rocket and satellite company would most likely be a generational wealth event and one of the largest offerings ever.",
+   "byline": {
+    "original": "By Ryan Mac, Lauren Hirsch and Maureen Farrell"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Files to Go Public, Setting Stage for Huge I.P.O.",
+    "kicker": "",
+    "print_headline": "SpaceX Files  Initial Plans  To Go Public"
+   },
+   "_id": "nyt://article/f02846d2-3606-5adc-9bb4-01b4cb79cba0",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Moon",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX\u2019s Starship rocket in Cameron County, Texas, in 2024.",
+    "credit": "Meridith Kohut for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/03/25/multimedia/00biz-spacex-ipo-filing-HFO-1-02-wfpq/00biz-spacex-ipo-filing-HFO-1-02-wfpq-articleLarge.jpg",
+     "height": 902,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/03/25/multimedia/00biz-spacex-ipo-filing-HFO-1-02-wfpq/00biz-spacex-ipo-filing-HFO-1-02-wfpq-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-04-01T17:26:10Z",
+   "section_name": "Technology",
+   "snippet": "An initial public offering of Elon Musk\u2019s rocket and satellite company would most likely be a generational wealth event and one of the largest offerings ever.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/f02846d2-3606-5adc-9bb4-01b4cb79cba0",
+   "web_url": "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html",
+   "word_count": 1019
+  },
+  {
+   "abstract": "The potential acquisition comes as Elon Musk\u2019s rocket and satellite maker, which has been emphasizing artificial intelligence, is preparing to go public.",
+   "byline": {
+    "original": "By Erin Griffith, Mike Isaac and Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "SpaceX Strikes Deal With Cursor for $60 Billion",
+    "kicker": "",
+    "print_headline": "SpaceX Strikes a Deal With Cursor for $60 Billion"
+   },
+   "_id": "nyt://article/432f8bae-ceb7-5e28-ab7a-5b5f80d634f3",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Cursor (Anysphere Inc)",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX said a deal with Cursor gave it the option to buy the artificial intelligence start-up, which makes code-writing software, for $60 billion later this year. ",
+    "credit": "Mario Tama/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/21/multimedia/21biz-spacex-cursor-3-ctwj/21biz-spacex-cursor-3-ctwj-articleLarge.jpg",
+     "height": 379,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/21/multimedia/21biz-spacex-cursor-3-ctwj/21biz-spacex-cursor-3-ctwj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2026-04-21T22:14:32Z",
+   "section_name": "Business",
+   "snippet": "The potential acquisition comes as Elon Musk\u2019s rocket and satellite maker, which has been emphasizing artificial intelligence, is preparing to go public.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/432f8bae-ceb7-5e28-ab7a-5b5f80d634f3",
+   "web_url": "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html",
+   "word_count": 728
+  },
+  {
+   "abstract": "As SpaceX prepares to go public, Mr. Musk has proposed moonshots that differ from the company\u2019s original aim of reaching Mars.",
+   "byline": {
+    "original": "By Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Mars or the Moon or A.I.? Elon Musk\u2019s Changing Goals for SpaceX.",
+    "kicker": "",
+    "print_headline": "Has Musk Given Up on Going to Mars?"
+   },
+   "_id": "nyt://article/b3b1e6ae-f812-5535-ae7b-bfcb52cf2efd",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 1
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Mars (Planet)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Data Centers",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 10
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 11
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Cursor (Anysphere Inc)",
+     "rank": 13
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 14
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Ben Voldman",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/23/business/00spacex-changes/00spacex-changes-articleLarge.jpg",
+     "height": 909,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/23/business/00spacex-changes/00spacex-changes-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2026-04-22T09:01:02Z",
+   "section_name": "Technology",
+   "snippet": "As SpaceX prepares to go public, Mr. Musk has proposed moonshots that differ from the company\u2019s original aim of reaching Mars.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/b3b1e6ae-f812-5535-ae7b-bfcb52cf2efd",
+   "web_url": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
+   "word_count": 1244
+  },
+  {
+   "abstract": "Mr. Musk is requiring Wall Street firms to purchase subscriptions to his A.I. chatbot if they want to advise on one of the largest initial public offerings in history.",
+   "byline": {
+    "original": "By Maureen Farrell"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Big Banks Seeking a Piece of SpaceX\u2019s I.P.O. Must Subscribe to Elon Musk\u2019s Grok",
+    "kicker": "",
+    "print_headline": "Banks That Want a Piece of SpaceX\u2019s I.P.O. Must Subscribe to Musk\u2019s Grok"
+   },
+   "_id": "nyt://article/11a271f0-2630-56f0-9e9e-66b582aed178",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk has promoted Grok, his A.I. chatbot, as the antidote to political correctness. ",
+    "credit": "Evelyn Hockstein/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/02/multimedia/00biz-Wall-Street-Grok-hklj/00biz-Wall-Street-Grok-hklj-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/02/multimedia/00biz-Wall-Street-Grok-hklj/00biz-Wall-Street-Grok-hklj-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2026-04-03T17:20:09Z",
+   "section_name": "Business",
+   "snippet": "Mr. Musk is requiring Wall Street firms to purchase subscriptions to his A.I. chatbot if they want to advise on one of the largest initial public offerings in history.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/11a271f0-2630-56f0-9e9e-66b582aed178",
+   "web_url": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
+   "word_count": 748
+  },
+  {
+   "abstract": "Elon Musk\u2019s rocket and satellite internet titan may pay $60 billion for an A.I. coding start-up. It further clouds SpaceX\u2019s once-simple business plan.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O\u2019Keefe and Jessica Testa"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Consequences of SpaceX\u2019s Latest A.I. Moonshot",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/c1f9be87-1754-5bd6-8b6d-0c864f39b9a9",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Cursor (Anysphere Inc)",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "X.ai Inc",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "SpaceX increasingly isn\u2019t just about space anymore.",
+    "credit": "Brendan McDermid/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/22/multimedia/22db-spacex-zlpc/22db-spacex-zlpc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/22/multimedia/22db-spacex-zlpc/22db-spacex-zlpc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-04-22T11:52:04Z",
+   "section_name": "Business",
+   "snippet": "Elon Musk\u2019s rocket and satellite internet titan may pay $60 billion for an A.I. coding start-up. It further clouds SpaceX\u2019s once-simple business plan.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/c1f9be87-1754-5bd6-8b6d-0c864f39b9a9",
+   "web_url": "https://www.nytimes.com/2026/04/22/business/dealbook/spacex-ai-cursor.html",
+   "word_count": 1970
+  },
+  {
+   "abstract": "A verified account with the @elonmusk handle also recently showed up on Instagram, as the billionaire prepares to take his rocket company SpaceX public.",
+   "byline": {
+    "original": "By Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Elon Musk, Who Owns X, Appears to Post on TikTok",
+    "kicker": "",
+    "print_headline": "Musk, the Owner of X, Appears To Have a Presence on TikTok"
+   },
+   "_id": "nyt://article/fb5160c9-0780-5472-80f2-9deb9ac1fdd9",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "X (Formerly Twitter)",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "TikTok (ByteDance)",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Instagram Inc",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk has previously shown disdain for other social media companies that X competes against.",
+    "credit": "Denis Balibouse/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/12/multimedia/12biz-musk-social-flck/12biz-musk-social-flck-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/12/multimedia/12biz-musk-social-flck/12biz-musk-social-flck-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2026-04-12T23:43:48Z",
+   "section_name": "Technology",
+   "snippet": "A verified account with the @elonmusk handle also recently showed up on Instagram, as the billionaire prepares to take his rocket company SpaceX public.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/fb5160c9-0780-5472-80f2-9deb9ac1fdd9",
+   "web_url": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
+   "word_count": 559
+  },
+  {
+   "abstract": "The e-commerce giant is buying Globalstar, a satellite communications company, as it aims to expand its own satellite internet service to compete with Elon Musk\u2019s Starlink.",
+   "byline": {
+    "original": "By Natallie Rocha"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Amazon Buys Globalstar for $10.8 Billion to Build Its Efforts in Space",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/20e696a9-6a07-5243-91b3-3441a12af759",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Amazon.com Inc",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Globalstar Telecommunications Ltd",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Satellites",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Space and Astronomy",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Private Spaceflight",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Space Exploration Technologies Corp",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Starlink Satellite Constellation (SpaceX)",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "A United Launch Alliance Atlas V rocket lifting off from the Cape Canaveral Space Force Station last year, carrying Amazon\u2019s Project Kuiper internet network satellites.",
+    "credit": "Steve Nesius/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/14/multimedia/14biz-amazon-globalstar-kuiper-zjkt/14biz-amazon-globalstar-kuiper-zjkt-articleLarge.jpg",
+     "height": 373,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/14/multimedia/14biz-amazon-globalstar-kuiper-zjkt/14biz-amazon-globalstar-kuiper-zjkt-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-04-14T17:41:35Z",
+   "section_name": "Technology",
+   "snippet": "The e-commerce giant is buying Globalstar, a satellite communications company, as it aims to expand its own satellite internet service to compete with Elon Musk\u2019s Starlink.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/20e696a9-6a07-5243-91b3-3441a12af759",
+   "web_url": "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html",
+   "word_count": 350
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Erin Griffith, Mike Isaac and Ryan Mac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Even without OpenAI, Elon Musk has made A.I. a big part of his business empire.",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/af06bb91-d658-56e0-812c-a458dec11f95",
+   "keywords": [],
+   "multimedia": {
+    "caption": "SpaceX said a deal with Cursor gave it the option to buy the artificial intelligence start-up, which makes code-writing software, for $60 billion later this year.",
+    "credit": "Mario Tama/Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/29/multimedia/29openai-trial-spacex-cursor-VERSION-1-bghp/29openai-trial-spacex-cursor-VERSION-1-bghp-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/29/multimedia/29openai-trial-spacex-cursor-VERSION-1-bghp/29openai-trial-spacex-cursor-VERSION-1-bghp-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-04-29T19:20:42Z",
+   "section_name": "Technology",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/af06bb91-d658-56e0-812c-a458dec11f95",
+   "web_url": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/even-without-openai-elon-musk-has-made-ai-a-big-part-of-his-business-empire",
+   "word_count": 315
+  },
+  {
+   "abstract": "",
+   "byline": {
+    "original": "By Ryan Mac and Mike Isaac"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Why does Elon Musk talk so much about saving humanity?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/75127fff-a263-564a-9bf7-98e3971692be",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 2
+    },
+    {
+     "name": "Person",
+     "value": "Musk, Elon",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Altman, Samuel H",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Suits and Litigation (Civil)",
+     "rank": 5
+    }
+   ],
+   "multimedia": {
+    "caption": "Elon Musk has said that he founded SpaceX, his rocket manufacturer, to take humans to Mars.",
+    "credit": "Adrees Latif/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/04/28/multimedia/28openai-trial-spacex-ipo-mcth/28openai-trial-spacex-ipo-mcth-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/04/28/multimedia/28openai-trial-spacex-ipo-mcth/28openai-trial-spacex-ipo-mcth-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-04-28T19:55:10Z",
+   "section_name": "Technology",
+   "snippet": "",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Live Blog Post",
+   "uri": "nyt://article/75127fff-a263-564a-9bf7-98e3971692be",
+   "web_url": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/why-does-elon-musk-talk-so-much-about-saving-humanity",
+   "word_count": 312
+  }
+ ]
+}

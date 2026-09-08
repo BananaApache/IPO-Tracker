@@ -1,0 +1,324 @@
+{
+ "company": "StubHub",
+ "query": "\"StubHub\"",
+ "month": "2024-05",
+ "begin_date": "20240501",
+ "end_date": "20240531",
+ "fetched_at": "2026-09-08T05:01:14.332188+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "Live Nation Entertainment, which owns Ticketmaster, is accused of violating antitrust laws. The Justice Department drew on the concert behemoth\u2019s internal communications in its lawsuit.",
+   "byline": {
+    "original": "By Ben Sisario"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Emails at the Heart of the Government\u2019s Ticketmaster Case",
+    "kicker": "",
+    "print_headline": "Emails Outline the Case Against Ticketmaster"
+   },
+   "_id": "nyt://article/6ee5661e-2066-5938-ba01-2423e948fe62",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Live Nation Entertainment Inc",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Ticketmaster",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Music",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Antitrust Laws and Competition Issues",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "Justice Department",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Suits and Litigation (Civil)",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Prices (Fares, Fees and Rates)",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Threats and Threatening Messages",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "SeatGeek Inc",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "StubHub",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Rapino, Michael",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Azoff, Irving",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "Silver Lake Partners",
+     "rank": 14
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 15
+    }
+   ],
+   "multimedia": {
+    "caption": "The Justice Department relied on internal emails in its antitrust suit against Live Nation that offered a rare behind-the-scenes look at the industry. ",
+    "credit": "Mike Blake/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/24/multimedia/24livenation-gzpf/24livenation-gzpf-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/24/multimedia/24livenation-gzpf/24livenation-gzpf-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Culture",
+   "print_page": "19",
+   "print_section": "A",
+   "pub_date": "2024-05-24T22:02:43Z",
+   "section_name": "Arts",
+   "snippet": "Live Nation Entertainment, which owns Ticketmaster, is accused of violating antitrust laws. The Justice Department drew on the concert behemoth\u2019s internal communications in its lawsuit.",
+   "source": "The New York Times",
+   "subsection_name": "Music",
+   "type_of_material": "News",
+   "uri": "nyt://article/6ee5661e-2066-5938-ba01-2423e948fe62",
+   "web_url": "https://www.nytimes.com/2024/05/24/arts/music/ticketmaster-live-nation-emails.html",
+   "word_count": 1291
+  },
+  {
+   "abstract": "The Bidens invited more than 450 guests, including Barack Obama, Bill and Hillary Clinton, Carol Moseley Braun, Melinda Gates, Lester Holt, LeVar Burton and Sean Penn.",
+   "byline": {
+    "original": "By Minho Kim"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The Full Guest List for Biden\u2019s State Dinner With Kenya",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/a52b3d1b-52b3-566d-a23a-edf3785d8a41",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "United States Politics and Government",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "United States International Relations",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Foreign Aid",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Parties (Social)",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "White House Building (Washington, DC)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Philanthropy",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Biden, Joseph R Jr",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Blinken, Antony J",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Booker, Cory A",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Bottoms, Keisha Lance",
+     "rank": 10
+    },
+    {
+     "name": "Person",
+     "value": "Clinton, Bill",
+     "rank": 11
+    },
+    {
+     "name": "Person",
+     "value": "Clinton, Hillary Rodham",
+     "rank": 12
+    },
+    {
+     "name": "Person",
+     "value": "Gates, Melinda",
+     "rank": 13
+    },
+    {
+     "name": "Person",
+     "value": "Goodell, Roger",
+     "rank": 14
+    },
+    {
+     "name": "Person",
+     "value": "Harris, Kamala D",
+     "rank": 15
+    },
+    {
+     "name": "Person",
+     "value": "Holt, Lester (1959- )",
+     "rank": 16
+    },
+    {
+     "name": "Person",
+     "value": "Kingsolver, Barbara",
+     "rank": 17
+    },
+    {
+     "name": "Person",
+     "value": "Penn, Sean",
+     "rank": 18
+    },
+    {
+     "name": "Person",
+     "value": "Moseley-Braun, Carol",
+     "rank": 19
+    },
+    {
+     "name": "Person",
+     "value": "Obama, Barack",
+     "rank": 20
+    }
+   ],
+   "multimedia": {
+    "caption": "President Biden and Dr. Jill Biden welcoming President William Ruto of Kenya and Rachel Ruto for their state visit at the White House on Thursday.",
+    "credit": "Haiyun Jiang for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/23/multimedia/23dc-guestlist-kjpv/23dc-guestlist-kjpv-articleLarge-v3.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/23/multimedia/23dc-guestlist-kjpv/23dc-guestlist-kjpv-thumbStandard-v3.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Washington",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-05-23T23:05:45Z",
+   "section_name": "U.S.",
+   "snippet": "The Bidens invited more than 450 guests, including Barack Obama, Bill and Hillary Clinton, Carol Moseley Braun, Melinda Gates, Lester Holt, LeVar Burton and Sean Penn.",
+   "source": "The New York Times",
+   "subsection_name": "Politics",
+   "type_of_material": "News",
+   "uri": "nyt://article/a52b3d1b-52b3-566d-a23a-edf3785d8a41",
+   "web_url": "https://www.nytimes.com/2024/05/23/us/politics/full-guest-list-biden-state-dinner-kenya.html",
+   "word_count": 2142
+  },
+  {
+   "abstract": "The Justice Department called for the company, which owns Ticketmaster, to be broken up.",
+   "byline": {
+    "original": ""
+   },
+   "document_type": "interactive",
+   "headline": {
+    "main": "Read the lawsuit against Live Nation",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://interactive/f5e1a428-4dcb-5a7c-99a6-313bbc99704c",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Suits and Litigation (Civil)",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Live Nation Entertainment Inc",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Ticketmaster",
+     "rank": 3
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/23/doc-e771b7dc-bed8-4d41-9ef3-9-promo/doc-e771b7dc-bed8-4d41-9ef3-9-promo-articleLarge.png",
+     "height": 776,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/23/doc-e771b7dc-bed8-4d41-9ef3-9-promo/doc-e771b7dc-bed8-4d41-9ef3-9-promo-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-05-23T15:06:21Z",
+   "section_name": "U.S.",
+   "snippet": "The Justice Department called for the company, which owns Ticketmaster, to be broken up.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Interactive Feature",
+   "uri": "nyt://interactive/f5e1a428-4dcb-5a7c-99a6-313bbc99704c",
+   "web_url": "https://www.nytimes.com/interactive/2024/05/23/us/23livenation-lawsuit.html",
+   "word_count": 0
+  }
+ ]
+}

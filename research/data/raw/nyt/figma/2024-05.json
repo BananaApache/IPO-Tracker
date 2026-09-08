@@ -1,0 +1,77 @@
+{
+ "company": "Figma",
+ "query": "\"Figma\"",
+ "month": "2024-05",
+ "begin_date": "20240501",
+ "end_date": "20240531",
+ "fetched_at": "2026-09-08T04:50:50.193880+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "A win for the Consumer Financial Protection Bureau removed the existential threat hanging over the agency, but opponents have vowed to keep on fighting.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "A Supreme Court Victory Won\u2019t End a War on Regulators",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/be48d59b-cfa0-5445-9368-eafd8c99225b",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Consumer Financial Protection Bureau",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Warren, Elizabeth",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Thomas, Clarence",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "United States Chamber of Commerce",
+     "rank": 6
+    }
+   ],
+   "multimedia": {
+    "caption": "The Consumer Financial Protection Bureau won a reprieve in the Supreme Court on Thursday, but other legal challenges loom.",
+    "credit": "Andrew Kelly/Reuters",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/05/17/multimedia/17db-cfpb-hcbm/17db-cfpb-hcbm-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/05/17/multimedia/17db-cfpb-hcbm/17db-cfpb-hcbm-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-05-17T12:02:55Z",
+   "section_name": "Business",
+   "snippet": "A win for the Consumer Financial Protection Bureau removed the existential threat hanging over the agency, but opponents have vowed to keep on fighting.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/be48d59b-cfa0-5445-9368-eafd8c99225b",
+   "web_url": "https://www.nytimes.com/2024/05/17/business/dealbook/cfpb-supreme-court-regulators.html",
+   "word_count": 1799
+  }
+ ]
+}

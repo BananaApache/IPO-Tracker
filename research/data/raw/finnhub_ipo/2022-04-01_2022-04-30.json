@@ -1,0 +1,497 @@
+{
+ "from": "2022-04-01",
+ "to": "2022-04-30",
+ "fetched_at": "2026-09-08T04:21:44.584999+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2022-04-29",
+   "exchange": null,
+   "name": "VICTORY ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-29",
+   "exchange": null,
+   "name": "Space Acquisition Corp. I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-29",
+   "exchange": "NASDAQ Global Select",
+   "name": "HilleVax, Inc.",
+   "numberOfShares": 11765000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "HLVX",
+   "totalSharesValue": 200005000
+  },
+  {
+   "date": "2022-04-29",
+   "exchange": "NASDAQ Capital",
+   "name": "BELITE BIO, INC",
+   "numberOfShares": 6000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "BLTE",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2022-04-28",
+   "exchange": null,
+   "name": "Hony Capital Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-28",
+   "exchange": "NASDAQ Global",
+   "name": "Chenghe Acquisition Co.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CHEAU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-04-28",
+   "exchange": "NASDAQ Global",
+   "name": "ClimateRock",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CLRCU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2022-04-27",
+   "exchange": null,
+   "name": "EF HUTTON ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-27",
+   "exchange": "NASDAQ Capital",
+   "name": "Tenon Medical, Inc.",
+   "numberOfShares": 3200000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "TNON",
+   "totalSharesValue": 16000000
+  },
+  {
+   "date": "2022-04-27",
+   "exchange": "NASDAQ Capital",
+   "name": "Ostin Technology Group Co., Ltd.",
+   "numberOfShares": 3375000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "OST",
+   "totalSharesValue": 13500000
+  },
+  {
+   "date": "2022-04-26",
+   "exchange": null,
+   "name": "Siddhi Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-26",
+   "exchange": null,
+   "name": "Queen's Gambit Growth Capital II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-26",
+   "exchange": null,
+   "name": "Graf Acquisition Corp. II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-26",
+   "exchange": "NASDAQ Global",
+   "name": "Aimfinity Investment Corp. I",
+   "numberOfShares": 7000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AIMAU",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2022-04-26",
+   "exchange": null,
+   "name": "Hemoglobin Oxygen Therapeutics LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HOTI",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2022-04-22",
+   "exchange": null,
+   "name": "Navigation Capital Acquisition VII Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-22",
+   "exchange": "NASDAQ Capital",
+   "name": "JE Cleantech Holdings Ltd",
+   "numberOfShares": 3000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "JCSE",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2022-04-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Aclarion, Inc.",
+   "numberOfShares": 2165000,
+   "price": "4.35",
+   "status": "priced",
+   "symbol": "ACON",
+   "totalSharesValue": 9417750
+  },
+  {
+   "date": "2022-04-22",
+   "exchange": null,
+   "name": "Zi Toprun Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ZTOPU",
+   "totalSharesValue": 126500000
+  },
+  {
+   "date": "2022-04-21",
+   "exchange": null,
+   "name": "Navigation Capital Acquisition VI Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-21",
+   "exchange": null,
+   "name": "Navigation Capital Acquisition VIII Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-21",
+   "exchange": null,
+   "name": "Navigation Capital Acquisition IX Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-20",
+   "exchange": null,
+   "name": "Avanea Energy Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-20",
+   "exchange": null,
+   "name": "Gateway Strategic Acquisition Co.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-20",
+   "exchange": "NASDAQ Global",
+   "name": "Yotta Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "YOTAU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-04-19",
+   "exchange": null,
+   "name": "ForU Worldwide Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-19",
+   "exchange": null,
+   "name": "Laris Media Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-15",
+   "exchange": null,
+   "name": "Foresite Life Sciences Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-15",
+   "exchange": null,
+   "name": "Medies",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MEDE",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2022-04-15",
+   "exchange": null,
+   "name": "Abri SPAC 2, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ASPPU",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2022-04-14",
+   "exchange": "NASDAQ Capital",
+   "name": "Sharps Technology Inc.",
+   "numberOfShares": 3750000,
+   "price": "4.25",
+   "status": "priced",
+   "symbol": "STSS",
+   "totalSharesValue": 15937500
+  },
+  {
+   "date": "2022-04-13",
+   "exchange": "NASDAQ Global",
+   "name": "Aura Fat Projects Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AFARU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2022-04-13",
+   "exchange": "NYSE",
+   "name": "Excelerate Energy, Inc.",
+   "numberOfShares": 16000000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "EE",
+   "totalSharesValue": 384000000
+  },
+  {
+   "date": "2022-04-13",
+   "exchange": "NASDAQ Global Select",
+   "name": "Applied Blockchain, Inc.",
+   "numberOfShares": 8000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "APLD",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2022-04-12",
+   "exchange": null,
+   "name": "BCC Investment Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-12",
+   "exchange": "NYSE MKT",
+   "name": "Genius Group Ltd",
+   "numberOfShares": 3272727,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "GNS",
+   "totalSharesValue": 19636362
+  },
+  {
+   "date": "2022-04-11",
+   "exchange": null,
+   "name": "LinkDoc Technology Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-08",
+   "exchange": null,
+   "name": "Graf Acquisition Corp. III",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-08",
+   "exchange": null,
+   "name": "Advancit Acquisition Corp. I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-07",
+   "exchange": "NASDAQ Global",
+   "name": "Denali Capital Acquisition Corp.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DECAU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2022-04-06",
+   "exchange": null,
+   "name": "iFit Health & Fitness Inc",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-06",
+   "exchange": null,
+   "name": "Spinning Eagle Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-06",
+   "exchange": null,
+   "name": "Think Elevation Capital Growth Opportunities",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-05",
+   "exchange": null,
+   "name": "Easler Law PLLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-05",
+   "exchange": null,
+   "name": "Horizon Acquisition Corp III",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-05",
+   "exchange": null,
+   "name": "EnergieInvesting.com Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 246000
+  },
+  {
+   "date": "2022-04-01",
+   "exchange": null,
+   "name": "TPG Pace Tech Opportunities II Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2022-04-01",
+   "exchange": "NASDAQ Capital",
+   "name": "Expion360 Inc.",
+   "numberOfShares": 2145000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "XPON",
+   "totalSharesValue": 15015000
+  },
+  {
+   "date": "2022-04-01",
+   "exchange": "NASDAQ Global",
+   "name": "Metal Sky Star Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MSSAU",
+   "totalSharesValue": 100000000
+  }
+ ]
+}

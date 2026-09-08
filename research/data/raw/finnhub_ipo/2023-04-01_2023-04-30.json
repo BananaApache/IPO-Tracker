@@ -1,0 +1,177 @@
+{
+ "from": "2023-04-01",
+ "to": "2023-04-30",
+ "fetched_at": "2026-09-08T04:22:08.598143+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2023-04-28",
+   "exchange": "NASDAQ Global",
+   "name": "Interactive Strength, Inc.",
+   "numberOfShares": 1500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "TRNR",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2023-04-21",
+   "exchange": "NYSE",
+   "name": "Ares Acquisition Corp II",
+   "numberOfShares": 45000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AACTU",
+   "totalSharesValue": 450000000
+  },
+  {
+   "date": "2023-04-21",
+   "exchange": "NASDAQ Capital",
+   "name": "Jayud Global Logistics Ltd",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "JYD",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2023-04-21",
+   "exchange": null,
+   "name": "JP Outfitters, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JPO",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2023-04-20",
+   "exchange": "NASDAQ Capital",
+   "name": "U.S. GoldMining Inc.",
+   "numberOfShares": 2000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "USGO",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2023-04-20",
+   "exchange": "NASDAQ Capital",
+   "name": "U Power Ltd",
+   "numberOfShares": 2416667,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "UCAR",
+   "totalSharesValue": 14500002
+  },
+  {
+   "date": "2023-04-20",
+   "exchange": "NASDAQ Capital",
+   "name": "WANG & LEE GROUP, Inc.",
+   "numberOfShares": 1600000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "WLGS",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2023-04-18",
+   "exchange": "NASDAQ Capital",
+   "name": "Top KingWin Ltd",
+   "numberOfShares": 2750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "TCJH",
+   "totalSharesValue": 11000000
+  },
+  {
+   "date": "2023-04-18",
+   "exchange": "NYSE MKT",
+   "name": "Trio Petroleum Corp.",
+   "numberOfShares": 2000000,
+   "price": "3.00",
+   "status": "priced",
+   "symbol": "TPET",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2023-04-14",
+   "exchange": "NASDAQ Capital",
+   "name": "CytoMed Therapeutics Ltd",
+   "numberOfShares": 2412369,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "GDTC",
+   "totalSharesValue": 9649476
+  },
+  {
+   "date": "2023-04-13",
+   "exchange": "NASDAQ Capital",
+   "name": "VCI Global Ltd",
+   "numberOfShares": 1280000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "VCIG",
+   "totalSharesValue": 5120000
+  },
+  {
+   "date": "2023-04-12",
+   "exchange": "NASDAQ Capital",
+   "name": "GOLDEN HEAVEN GROUP HOLDINGS LTD.",
+   "numberOfShares": 1750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "GDHG",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2023-04-07",
+   "exchange": null,
+   "name": "TypTap Insurance Group, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2023-04-05",
+   "exchange": "NASDAQ Capital",
+   "name": "ARB IOT Group Ltd",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ARBB",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2023-04-04",
+   "exchange": "NASDAQ Capital",
+   "name": "Ispire Technology Inc.",
+   "numberOfShares": 2700000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "ISPR",
+   "totalSharesValue": 18900000
+  },
+  {
+   "date": "2023-04-04",
+   "exchange": "NASDAQ Capital",
+   "name": "Millennium Group International Holdings Ltd",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MGIH",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2023-04-03",
+   "exchange": "NYSE MKT",
+   "name": "Multi Ways Holdings Ltd",
+   "numberOfShares": 7240000,
+   "price": "2.50",
+   "status": "priced",
+   "symbol": "MWG",
+   "totalSharesValue": 18100000
+  }
+ ]
+}

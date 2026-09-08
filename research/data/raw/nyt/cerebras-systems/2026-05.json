@@ -1,0 +1,97 @@
+{
+ "company": "Cerebras Systems",
+ "query": "\"Cerebras Systems\"",
+ "month": "2026-05",
+ "begin_date": "20260501",
+ "end_date": "20260531",
+ "fetched_at": "2026-09-08T05:40:14.578509+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The technology giant met with administration officials last week to address a growing concern in Washington: insufficient computing power for artificial intelligence.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O\u2019Keefe"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "What Was Discussed at Google\u2019s White House Meeting About A.I.",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/da75532a-cd1a-5bea-a0fd-90027855b8f5",
+   "keywords": [
+    {
+     "name": "Person",
+     "value": "Pichai, Sundar",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Google Inc",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Alphabet Inc",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Anthropic AI LLC",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Computer Security",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Trump, Donald J",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "OpenAI Labs",
+     "rank": 9
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "Sundar Pichai, Alphabet\u2019s C.E.O., pictured here at the 2024 DealBook Summit, was in Washington last week to discuss new worries about A.I.",
+    "credit": "Jeenah Moon for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2026/05/04/multimedia/04db-pichai-zkpl/04db-pichai-zkpl-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2026/05/04/multimedia/04db-pichai-zkpl/04db-pichai-zkpl-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2026-05-04T11:59:32Z",
+   "section_name": "Business",
+   "snippet": "The technology giant met with administration officials last week to address a growing concern in Washington: insufficient computing power for artificial intelligence.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/da75532a-cd1a-5bea-a0fd-90027855b8f5",
+   "web_url": "https://www.nytimes.com/2026/05/04/business/dealbook/google-ai-white-house.html",
+   "word_count": 1973
+  }
+ ]
+}

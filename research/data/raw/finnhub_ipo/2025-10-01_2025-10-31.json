@@ -1,0 +1,567 @@
+{
+ "from": "2025-10-01",
+ "to": "2025-10-31",
+ "fetched_at": "2026-09-08T04:23:08.647179+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2025-10-31",
+   "exchange": "NYSE",
+   "name": "Viking Acquisition Corp I",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VACIU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-10-31",
+   "exchange": "NASDAQ Capital",
+   "name": "Nomadar Corp.",
+   "numberOfShares": 13268718,
+   "price": null,
+   "status": "priced",
+   "symbol": "NOMA",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2025-10-31",
+   "exchange": null,
+   "name": "Regenique Group Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "RGGG",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2025-10-30",
+   "exchange": "NASDAQ Global Select",
+   "name": "Navan, Inc.",
+   "numberOfShares": 36924406,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "NAVN",
+   "totalSharesValue": 923110150
+  },
+  {
+   "date": "2025-10-30",
+   "exchange": "NASDAQ Global",
+   "name": "Dynamix Corp III",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DNMXU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2025-10-29",
+   "exchange": "NASDAQ Global",
+   "name": "Insight Digital Partners II",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DYORU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2025-10-29",
+   "exchange": null,
+   "name": "JJH International Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JJHR",
+   "totalSharesValue": 5750000
+  },
+  {
+   "date": "2025-10-28",
+   "exchange": "NASDAQ Global",
+   "name": "Apex Treasury Corp",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "APXTU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2025-10-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "MapLight Therapeutics, Inc.",
+   "numberOfShares": 14750000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "MPLT",
+   "totalSharesValue": 250750000
+  },
+  {
+   "date": "2025-10-24",
+   "exchange": "NASDAQ Global",
+   "name": "LaFayette Acquisition Corp.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LAFAU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2025-10-24",
+   "exchange": null,
+   "name": "Duke Holding Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DUKL",
+   "totalSharesValue": 7187500
+  },
+  {
+   "date": "2025-10-24",
+   "exchange": null,
+   "name": "Gigabit Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GBH",
+   "totalSharesValue": 5750000
+  },
+  {
+   "date": "2025-10-24",
+   "exchange": null,
+   "name": "Brava Acquisition Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BRVAU",
+   "totalSharesValue": 86250000
+  },
+  {
+   "date": "2025-10-23",
+   "exchange": "NASDAQ Global",
+   "name": "Miluna Acquisition Corp",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MMTXU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2025-10-23",
+   "exchange": "NASDAQ Global",
+   "name": "Harvard Ave Acquisition Corp",
+   "numberOfShares": 14500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HAVAU",
+   "totalSharesValue": 145000000
+  },
+  {
+   "date": "2025-10-23",
+   "exchange": null,
+   "name": "CGL Logistics Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CGL",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2025-10-23",
+   "exchange": "NASDAQ Capital",
+   "name": "ELC Group Holdings Ltd.",
+   "numberOfShares": 1870000,
+   "price": "4.00-6.00",
+   "status": "expected",
+   "symbol": "ELCG",
+   "totalSharesValue": 12903000
+  },
+  {
+   "date": "2025-10-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Agencia Comercial Spirits Ltd.",
+   "numberOfShares": 1750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "AGCC",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2025-10-22",
+   "exchange": "NASDAQ Capital",
+   "name": "Texxon Holding Ltd",
+   "numberOfShares": 1900000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "NPT",
+   "totalSharesValue": 9500000
+  },
+  {
+   "date": "2025-10-22",
+   "exchange": "NASDAQ Global",
+   "name": "Calisa Acquisition Corp",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ALISU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2025-10-21",
+   "exchange": "NASDAQ Capital",
+   "name": "Charming Medical Ltd",
+   "numberOfShares": 1600000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MCTA",
+   "totalSharesValue": 6400000
+  },
+  {
+   "date": "2025-10-21",
+   "exchange": "NASDAQ Global",
+   "name": "BGIN BLOCKCHAIN Ltd",
+   "numberOfShares": 5000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "BGIN",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2025-10-21",
+   "exchange": "NASDAQ Capital",
+   "name": "AMBITIONS ENTERPRISE MANAGEMENT CO. L.L.C",
+   "numberOfShares": 1500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "AHMA",
+   "totalSharesValue": 6000000
+  },
+  {
+   "date": "2025-10-20",
+   "exchange": null,
+   "name": "DeepGreenX Group Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-10-17",
+   "exchange": "NASDAQ Capital",
+   "name": "Acco Group Holdings Ltd",
+   "numberOfShares": 1400000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ACCL",
+   "totalSharesValue": 5600000
+  },
+  {
+   "date": "2025-10-16",
+   "exchange": "NASDAQ Global",
+   "name": "OBOOK HOLDINGS INC.",
+   "numberOfShares": 4729695,
+   "price": null,
+   "status": "priced",
+   "symbol": "OWLS",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2025-10-16",
+   "exchange": "NASDAQ Capital",
+   "name": "Aptera Motors Corp",
+   "numberOfShares": 31741948,
+   "price": null,
+   "status": "priced",
+   "symbol": "SEV",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2025-10-15",
+   "exchange": "NYSE MKT",
+   "name": "TechCreate Group Ltd.",
+   "numberOfShares": 2550000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "TCGL",
+   "totalSharesValue": 10200000
+  },
+  {
+   "date": "2025-10-15",
+   "exchange": "NASDAQ Capital",
+   "name": "Smart Logistics Global Ltd",
+   "numberOfShares": 1000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SLGB",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-10-14",
+   "exchange": "NASDAQ Capital",
+   "name": "Republic Power Group Ltd",
+   "numberOfShares": 2120000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "RPGL",
+   "totalSharesValue": 8480000
+  },
+  {
+   "date": "2025-10-10",
+   "exchange": null,
+   "name": "BOUNDLESS GROUP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BLTG",
+   "totalSharesValue": 23000000
+  },
+  {
+   "date": "2025-10-10",
+   "exchange": null,
+   "name": "SONIC LIGHTING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SONC",
+   "totalSharesValue": 14231250
+  },
+  {
+   "date": "2025-10-09",
+   "exchange": "NYSE",
+   "name": "Alliance Laundry Holdings Inc.",
+   "numberOfShares": 37560974,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "ALH",
+   "totalSharesValue": 826341428
+  },
+  {
+   "date": "2025-10-09",
+   "exchange": "NYSE",
+   "name": "Phoenix Education Partners, Inc.",
+   "numberOfShares": 4250000,
+   "price": "32.00",
+   "status": "priced",
+   "symbol": "PXED",
+   "totalSharesValue": 136000000
+  },
+  {
+   "date": "2025-10-09",
+   "exchange": "NASDAQ Capital",
+   "name": "One & one Green Technologies. INC",
+   "numberOfShares": 2000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "YDDL",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2025-10-09",
+   "exchange": "NASDAQ Capital",
+   "name": "LEIFRAS Co., Ltd.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "LFS",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-10-09",
+   "exchange": null,
+   "name": "Keystone Global Financial Group",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KCG",
+   "totalSharesValue": 8625000
+  },
+  {
+   "date": "2025-10-08",
+   "exchange": "NASDAQ Global",
+   "name": "Turn Therapeutics Inc.",
+   "numberOfShares": 17868760,
+   "price": null,
+   "status": "priced",
+   "symbol": "TTRX",
+   "totalSharesValue": 0
+  },
+  {
+   "date": "2025-10-08",
+   "exchange": "NASDAQ Global",
+   "name": "POMDOCTOR Ltd",
+   "numberOfShares": 5000004,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "POM",
+   "totalSharesValue": 20000016
+  },
+  {
+   "date": "2025-10-08",
+   "exchange": null,
+   "name": "Akston Biosciences Corp",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AXTN",
+   "totalSharesValue": 25555550
+  },
+  {
+   "date": "2025-10-07",
+   "exchange": "NASDAQ Global",
+   "name": "Lake Superior Acquisition Corp",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LKSPU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2025-10-07",
+   "exchange": null,
+   "name": "Neutrans Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NEUT",
+   "totalSharesValue": 12937500
+  },
+  {
+   "date": "2025-10-06",
+   "exchange": "NASDAQ Global",
+   "name": "GigCapital8 Corp.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GIWWU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2025-10-06",
+   "exchange": null,
+   "name": "Law's Business Group Holding Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LSBA",
+   "totalSharesValue": 10350000
+  },
+  {
+   "date": "2025-10-03",
+   "exchange": null,
+   "name": "Cerebras Systems Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2025-10-03",
+   "exchange": "NASDAQ Global",
+   "name": "Range Capital Acquisition Corp II",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RNGTU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2025-10-03",
+   "exchange": "NASDAQ Capital",
+   "name": "CCH Holdings Ltd",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CCHH",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2025-10-03",
+   "exchange": "NYSE",
+   "name": "AI Infrastructure Acquisition Corp.",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AIIAU",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2025-10-02",
+   "exchange": "NASDAQ Capital",
+   "name": "Commercial Bancgroup, Inc.",
+   "numberOfShares": 7173092,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "CBK",
+   "totalSharesValue": 172154208
+  },
+  {
+   "date": "2025-10-02",
+   "exchange": null,
+   "name": "Wealth Management System Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GIVE",
+   "totalSharesValue": 12650000
+  },
+  {
+   "date": "2025-10-02",
+   "exchange": null,
+   "name": "Pyrostone Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PYST",
+   "totalSharesValue": 6900000
+  },
+  {
+   "date": "2025-10-01",
+   "exchange": "NASDAQ Global Select",
+   "name": "Fermi Inc.",
+   "numberOfShares": 32500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "FRMI",
+   "totalSharesValue": 682500000
+  },
+  {
+   "date": "2025-10-01",
+   "exchange": "NYSE",
+   "name": "Neptune Insurance Holdings Inc.",
+   "numberOfShares": 18421053,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "NP",
+   "totalSharesValue": 368421060
+  },
+  {
+   "date": "2025-10-01",
+   "exchange": "NYSE",
+   "name": "Rice Acquisition Corp 3",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KRSPU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2025-10-01",
+   "exchange": "NYSE",
+   "name": "AA Mission Acquisition Corp. II",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "YCYU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2025-10-01",
+   "exchange": "NASDAQ Capital",
+   "name": "Agroz Inc.",
+   "numberOfShares": 1250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "AGRZ",
+   "totalSharesValue": 5000000
+  }
+ ]
+}

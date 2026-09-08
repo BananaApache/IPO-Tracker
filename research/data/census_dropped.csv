@@ -1,0 +1,166 @@
+name,symbol,exchange,status,calendar_date,shares,total_shares_value,price_low,price_high,price_as_returned,window_file,fetched_at,dedupe_key,_rank,drop_reason
+Warburg Pincus Capital Corp I-B,WPCAU,NYSE,priced,2021-03-05,50000000.0,500000000.0,10.0,10.0,10.00,2021-03-01_2021-03-31.json,2026-09-08T04:21:18.575141+00:00,sym:WPCAU|2021-03-05,0,duplicate of a higher-information row for the same symbol+date
+"SHUTTLE PHARMACEUTICALS, INC.",,,withdrawn,2019-01-22,,,,,,2019-01-01_2019-01-31.json,2026-09-08T04:20:26.643283+00:00,sym:nan|2019-01-22,3,duplicate of a higher-information row for the same symbol+date
+"REMORA ROYALTIES, INC.",,,withdrawn,2019-01-29,,,,,,2019-01-01_2019-01-31.json,2026-09-08T04:20:26.643283+00:00,sym:nan|2019-01-29,3,duplicate of a higher-information row for the same symbol+date
+POLYPID LTD.,,,withdrawn,2019-03-05,,,,,,2019-03-01_2019-03-31.json,2026-09-08T04:20:30.557845+00:00,sym:nan|2019-03-05,3,duplicate of a higher-information row for the same symbol+date
+GBS INC.,,,withdrawn,2019-03-27,,,,,,2019-03-01_2019-03-31.json,2026-09-08T04:20:30.557845+00:00,sym:nan|2019-03-27,3,duplicate of a higher-information row for the same symbol+date
+VRIO CORP.,,,withdrawn,2019-03-27,,,,,,2019-03-01_2019-03-31.json,2026-09-08T04:20:30.557845+00:00,sym:nan|2019-03-27,3,duplicate of a higher-information row for the same symbol+date
+"IMPERIAL GARDEN & RESORT, INC.",,,withdrawn,2019-04-23,,,,,,2019-04-01_2019-04-30.json,2026-09-08T04:20:32.554790+00:00,sym:nan|2019-04-23,3,duplicate of a higher-information row for the same symbol+date
+"CIBUS GLOBAL, LTD.",,,withdrawn,2019-05-24,,,,,,2019-05-01_2019-05-31.json,2026-09-08T04:20:34.550338+00:00,sym:nan|2019-05-24,3,duplicate of a higher-information row for the same symbol+date
+CIBUS LTD.,,,withdrawn,2019-05-24,,,,,,2019-05-01_2019-05-31.json,2026-09-08T04:20:34.550338+00:00,sym:nan|2019-05-24,3,duplicate of a higher-information row for the same symbol+date
+CROWN ELECTROKINETICS CORP.,,,filed,2019-06-28,,9440468.25,,,,2019-06-01_2019-06-30.json,2026-09-08T04:20:36.544970+00:00,sym:nan|2019-06-28,2,duplicate of a higher-information row for the same symbol+date
+"IHEARTMEDIA, INC.",,,withdrawn,2019-06-28,,,,,,2019-06-01_2019-06-30.json,2026-09-08T04:20:36.544970+00:00,sym:nan|2019-06-28,3,duplicate of a higher-information row for the same symbol+date
+ADVANTAGE INSURANCE INC.,,,withdrawn,2019-06-28,,,,,,2019-06-01_2019-06-30.json,2026-09-08T04:20:36.544970+00:00,sym:nan|2019-06-28,3,duplicate of a higher-information row for the same symbol+date
+"GUARDION HEALTH SCIENCES, INC.",,,withdrawn,2019-07-10,,,,,,2019-07-01_2019-07-31.json,2026-09-08T04:20:38.548103+00:00,sym:nan|2019-07-10,3,duplicate of a higher-information row for the same symbol+date
+"Telemynd, Inc.",,,withdrawn,2019-11-15,,,,,,2019-11-01_2019-11-30.json,2026-09-08T04:20:46.546018+00:00,sym:nan|2019-11-15,3,duplicate of a higher-information row for the same symbol+date
+Exeter Finance Corp,,,withdrawn,2019-11-22,,,,,,2019-11-01_2019-11-30.json,2026-09-08T04:20:46.546018+00:00,sym:nan|2019-11-22,3,duplicate of a higher-information row for the same symbol+date
+VALTECH SE,,,withdrawn,2019-12-27,,,,,,2019-12-01_2019-12-31.json,2026-09-08T04:20:48.552462+00:00,sym:nan|2019-12-27,3,duplicate of a higher-information row for the same symbol+date
+"SeqLL, Inc.",,,withdrawn,2020-04-24,,,,,,2020-04-01_2020-04-30.json,2026-09-08T04:20:56.564714+00:00,sym:nan|2020-04-24,3,duplicate of a higher-information row for the same symbol+date
+"PCI Media, Inc.",,,withdrawn,2020-06-26,,,,,,2020-06-01_2020-06-30.json,2026-09-08T04:21:00.563816+00:00,sym:nan|2020-06-26,3,duplicate of a higher-information row for the same symbol+date
+"Fortis Minerals, LLC",,,withdrawn,2020-08-06,,,,,,2020-08-01_2020-08-31.json,2026-09-08T04:21:04.604024+00:00,sym:nan|2020-08-06,3,duplicate of a higher-information row for the same symbol+date
+"CHINOS HOLDINGS, INC.",,,withdrawn,2020-09-04,,,,,,2020-09-01_2020-09-30.json,2026-09-08T04:21:06.602612+00:00,sym:nan|2020-09-04,3,duplicate of a higher-information row for the same symbol+date
+"Aspire Real Estate Investors, Inc.",,,withdrawn,2020-11-25,,,,,,2020-11-01_2020-11-30.json,2026-09-08T04:21:10.564733+00:00,sym:nan|2020-11-25,3,duplicate of a higher-information row for the same symbol+date
+"Interior Logic Group Holdings, LLC",,,withdrawn,2021-02-05,,,,,,2021-02-01_2021-02-28.json,2026-09-08T04:21:16.575192+00:00,sym:nan|2021-02-05,3,duplicate of a higher-information row for the same symbol+date
+"AVADIM HEALTH, INC.",,,withdrawn,2021-02-05,,,,,,2021-02-01_2021-02-28.json,2026-09-08T04:21:16.575192+00:00,sym:nan|2021-02-05,3,duplicate of a higher-information row for the same symbol+date
+LEO HOLDINGS V CORP,,,filed,2021-03-15,,287500000.0,,,,2021-03-01_2021-03-31.json,2026-09-08T04:21:18.575141+00:00,sym:nan|2021-03-15,2,duplicate of a higher-information row for the same symbol+date
+FirstMark Acquisition Corp. III,,,filed,2021-03-15,,460000000.0,,,,2021-03-01_2021-03-31.json,2026-09-08T04:21:18.575141+00:00,sym:nan|2021-03-15,2,duplicate of a higher-information row for the same symbol+date
+Minerva Gold Inc.,,,filed,2021-04-21,,200000.0,,,,2021-04-01_2021-04-30.json,2026-09-08T04:21:20.568457+00:00,sym:nan|2021-04-21,2,duplicate of a higher-information row for the same symbol+date
+Centrexion Therapeutics Corp,,,withdrawn,2021-05-05,,,,,,2021-05-01_2021-05-31.json,2026-09-08T04:21:22.577907+00:00,sym:nan|2021-05-05,3,duplicate of a higher-information row for the same symbol+date
+Orion Bliss Corp.,,,filed,2021-06-23,,100000.0,,,,2021-06-01_2021-06-30.json,2026-09-08T04:21:24.584628+00:00,sym:nan|2021-06-23,2,duplicate of a higher-information row for the same symbol+date
+Hello Inc. /Cayman Islands/,,,withdrawn,2021-07-27,,,,,,2021-07-01_2021-07-31.json,2026-09-08T04:21:26.584430+00:00,sym:nan|2021-07-27,3,duplicate of a higher-information row for the same symbol+date
+Brimstone Acquisition Holdings Corp.,,,withdrawn,2021-10-12,,,,,,2021-10-01_2021-10-31.json,2026-09-08T04:21:32.587154+00:00,sym:nan|2021-10-12,3,duplicate of a higher-information row for the same symbol+date
+"Golden Matrix Group, Inc.",,,withdrawn,2021-10-13,,,,,,2021-10-01_2021-10-31.json,2026-09-08T04:21:32.587154+00:00,sym:nan|2021-10-13,3,duplicate of a higher-information row for the same symbol+date
+"Southeastern Grocers, Inc.",,,withdrawn,2021-10-29,,,,,,2021-10-01_2021-10-31.json,2026-09-08T04:21:32.587154+00:00,sym:nan|2021-10-29,3,duplicate of a higher-information row for the same symbol+date
+Cornerstone Investment Capital Holdings Co.,,,withdrawn,2021-12-10,,,,,,2021-12-01_2021-12-31.json,2026-09-08T04:21:36.593502+00:00,sym:nan|2021-12-10,3,duplicate of a higher-information row for the same symbol+date
+TANICO Inc.,,,filed,2021-12-14,,100000.0,,,,2021-12-01_2021-12-31.json,2026-09-08T04:21:36.593502+00:00,sym:nan|2021-12-14,2,duplicate of a higher-information row for the same symbol+date
+1.12 Acquisition Corp,,,withdrawn,2022-01-04,,,,,,2022-01-01_2022-01-31.json,2026-09-08T04:21:38.592118+00:00,sym:nan|2022-01-04,3,duplicate of a higher-information row for the same symbol+date
+RMG Acquisition Corp. VII,,,withdrawn,2022-01-11,,,,,,2022-01-01_2022-01-31.json,2026-09-08T04:21:38.592118+00:00,sym:nan|2022-01-11,3,duplicate of a higher-information row for the same symbol+date
+RMG Acquisition Corp. V,,,withdrawn,2022-01-11,,,,,,2022-01-01_2022-01-31.json,2026-09-08T04:21:38.592118+00:00,sym:nan|2022-01-11,3,duplicate of a higher-information row for the same symbol+date
+Quiet Plus I Acquisition Corp.,,,withdrawn,2022-01-13,,,,,,2022-01-01_2022-01-31.json,2026-09-08T04:21:38.592118+00:00,sym:nan|2022-01-13,3,duplicate of a higher-information row for the same symbol+date
+H.I.G. Acquisition Corp. II,,,withdrawn,2022-01-20,,,,,,2022-01-01_2022-01-31.json,2026-09-08T04:21:38.592118+00:00,sym:nan|2022-01-20,3,duplicate of a higher-information row for the same symbol+date
+N2 Acquisition Holdings Corp.,,,withdrawn,2022-01-21,,,,,,2022-01-01_2022-01-31.json,2026-09-08T04:21:38.592118+00:00,sym:nan|2022-01-21,3,duplicate of a higher-information row for the same symbol+date
+"Moose Pond Acquisition Corp, NCV I",,,withdrawn,2022-01-21,,,,,,2022-01-01_2022-01-31.json,2026-09-08T04:21:38.592118+00:00,sym:nan|2022-01-21,3,duplicate of a higher-information row for the same symbol+date
+"CommerceByUs, Inc.",,,withdrawn,2022-01-21,,,,,,2022-01-01_2022-01-31.json,2026-09-08T04:21:38.592118+00:00,sym:nan|2022-01-21,3,duplicate of a higher-information row for the same symbol+date
+TCG Growth Opportunities Corp.,,,withdrawn,2022-01-25,,,,,,2022-01-01_2022-01-31.json,2026-09-08T04:21:38.592118+00:00,sym:nan|2022-01-25,3,duplicate of a higher-information row for the same symbol+date
+Do It Again Corp.,,,withdrawn,2022-01-26,,,,,,2022-01-01_2022-01-31.json,2026-09-08T04:21:38.592118+00:00,sym:nan|2022-01-26,3,duplicate of a higher-information row for the same symbol+date
+Crucible Acquisition Corp. III,,,withdrawn,2022-02-08,,,,,,2022-02-01_2022-02-28.json,2026-09-08T04:21:40.581574+00:00,sym:nan|2022-02-08,3,duplicate of a higher-information row for the same symbol+date
+Jaws Wildcat Acquisition Corp,,,withdrawn,2022-02-23,,,,,,2022-02-01_2022-02-28.json,2026-09-08T04:21:40.581574+00:00,sym:nan|2022-02-23,3,duplicate of a higher-information row for the same symbol+date
+Heroic Empire Acquisition Ltd,,,filed,2022-02-25,,86250000.0,,,,2022-02-01_2022-02-28.json,2026-09-08T04:21:40.581574+00:00,sym:nan|2022-02-25,2,duplicate of a higher-information row for the same symbol+date
+Activate Permanent Capital Corp.,,,withdrawn,2022-02-25,,,,,,2022-02-01_2022-02-28.json,2026-09-08T04:21:40.581574+00:00,sym:nan|2022-02-25,3,duplicate of a higher-information row for the same symbol+date
+Anthropos Capital Corp,,,withdrawn,2022-02-25,,,,,,2022-02-01_2022-02-28.json,2026-09-08T04:21:40.581574+00:00,sym:nan|2022-02-25,3,duplicate of a higher-information row for the same symbol+date
+Fifth Wall Acquisition Corp. II,,,withdrawn,2022-02-25,,,,,,2022-02-01_2022-02-28.json,2026-09-08T04:21:40.581574+00:00,sym:nan|2022-02-25,3,duplicate of a higher-information row for the same symbol+date
+VIDA FLaSH Acquisitions,,,withdrawn,2022-02-28,,,,,,2022-02-01_2022-02-28.json,2026-09-08T04:21:40.581574+00:00,sym:nan|2022-02-28,3,duplicate of a higher-information row for the same symbol+date
+"Social Investment Holdings, Inc.",,,withdrawn,2022-02-28,,,,,,2022-02-01_2022-02-28.json,2026-09-08T04:21:40.581574+00:00,sym:nan|2022-02-28,3,duplicate of a higher-information row for the same symbol+date
+Capitol Investment Corp. VII,,,withdrawn,2022-03-04,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-04,3,duplicate of a higher-information row for the same symbol+date
+Cain Acquisition Corp,,,withdrawn,2022-03-07,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-07,3,duplicate of a higher-information row for the same symbol+date
+Denham Sustainable Performance Acquisition Corp.,,,withdrawn,2022-03-14,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-14,3,duplicate of a higher-information row for the same symbol+date
+AUNA S.A.A.,,,withdrawn,2022-03-14,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-14,3,duplicate of a higher-information row for the same symbol+date
+Aperture Acquisition Corp,,,withdrawn,2022-03-15,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-15,3,duplicate of a higher-information row for the same symbol+date
+Silverman Acquisition Corp I,,,withdrawn,2022-03-16,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-16,3,duplicate of a higher-information row for the same symbol+date
+Atlas Crest Investment Corp. IV,,,withdrawn,2022-03-16,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-16,3,duplicate of a higher-information row for the same symbol+date
+ACI Corp. III,,,withdrawn,2022-03-16,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-16,3,duplicate of a higher-information row for the same symbol+date
+"Firemark Global Capital, Inc.",,,withdrawn,2022-03-18,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-18,3,duplicate of a higher-information row for the same symbol+date
+"Vital Human Capital, Inc.",,,withdrawn,2022-03-18,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-18,3,duplicate of a higher-information row for the same symbol+date
+Venice Brands Acquisition Corp. I,,,withdrawn,2022-03-18,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-18,3,duplicate of a higher-information row for the same symbol+date
+New Beginnings Acquisition Corp. III,,,withdrawn,2022-03-18,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-18,3,duplicate of a higher-information row for the same symbol+date
+Sagimet Biosciences Inc.,,,withdrawn,2022-03-21,,,,,,2022-03-01_2022-03-31.json,2026-09-08T04:21:42.589079+00:00,sym:nan|2022-03-21,3,duplicate of a higher-information row for the same symbol+date
+Easler Law PLLC,,,withdrawn,2022-04-05,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-05,3,duplicate of a higher-information row for the same symbol+date
+Horizon Acquisition Corp III,,,withdrawn,2022-04-05,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-05,3,duplicate of a higher-information row for the same symbol+date
+Spinning Eagle Acquisition Corp.,,,withdrawn,2022-04-06,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-06,3,duplicate of a higher-information row for the same symbol+date
+Think Elevation Capital Growth Opportunities,,,withdrawn,2022-04-06,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-06,3,duplicate of a higher-information row for the same symbol+date
+Advancit Acquisition Corp. I,,,withdrawn,2022-04-08,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-08,3,duplicate of a higher-information row for the same symbol+date
+Laris Media Acquisition Corp,,,withdrawn,2022-04-19,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-19,3,duplicate of a higher-information row for the same symbol+date
+Gateway Strategic Acquisition Co.,,,withdrawn,2022-04-20,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-20,3,duplicate of a higher-information row for the same symbol+date
+Navigation Capital Acquisition VIII Corp.,,,withdrawn,2022-04-21,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-21,3,duplicate of a higher-information row for the same symbol+date
+Navigation Capital Acquisition IX Corp.,,,withdrawn,2022-04-21,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-21,3,duplicate of a higher-information row for the same symbol+date
+Queen's Gambit Growth Capital II,,,withdrawn,2022-04-26,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-26,3,duplicate of a higher-information row for the same symbol+date
+Graf Acquisition Corp. II,,,withdrawn,2022-04-26,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-26,3,duplicate of a higher-information row for the same symbol+date
+Space Acquisition Corp. I,,,withdrawn,2022-04-29,,,,,,2022-04-01_2022-04-30.json,2026-09-08T04:21:44.584999+00:00,sym:nan|2022-04-29,3,duplicate of a higher-information row for the same symbol+date
+"Samba TV, Inc.",,,withdrawn,2022-05-13,,,,,,2022-05-01_2022-05-31.json,2026-09-08T04:21:46.610800+00:00,sym:nan|2022-05-13,3,duplicate of a higher-information row for the same symbol+date
+Mindset Growth Opportunities I Corp.,,,withdrawn,2022-06-01,,,,,,2022-06-01_2022-06-30.json,2026-09-08T04:21:48.592542+00:00,sym:nan|2022-06-01,3,duplicate of a higher-information row for the same symbol+date
+Freestone Acquisition Corp,,,withdrawn,2022-06-10,,,,,,2022-06-01_2022-06-30.json,2026-09-08T04:21:48.592542+00:00,sym:nan|2022-06-10,3,duplicate of a higher-information row for the same symbol+date
+Lionheart IV CORP,,,withdrawn,2022-06-21,,,,,,2022-06-01_2022-06-30.json,2026-09-08T04:21:48.592542+00:00,sym:nan|2022-06-21,3,duplicate of a higher-information row for the same symbol+date
+Switchback III Corp,,,withdrawn,2022-06-29,,,,,,2022-06-01_2022-06-30.json,2026-09-08T04:21:48.592542+00:00,sym:nan|2022-06-29,3,duplicate of a higher-information row for the same symbol+date
+Spartan Acquisition Corp. IV,,,withdrawn,2022-06-30,,,,,,2022-06-01_2022-06-30.json,2026-09-08T04:21:48.592542+00:00,sym:nan|2022-06-30,3,duplicate of a higher-information row for the same symbol+date
+"GLOHAB, INC",,,withdrawn,2022-07-06,,,,,,2022-07-01_2022-07-31.json,2026-09-08T04:21:50.580925+00:00,sym:nan|2022-07-06,3,duplicate of a higher-information row for the same symbol+date
+"Fresh Market Holdings, Inc.",,,withdrawn,2022-07-13,,,,,,2022-07-01_2022-07-31.json,2026-09-08T04:21:50.580925+00:00,sym:nan|2022-07-13,3,duplicate of a higher-information row for the same symbol+date
+RMG Acquisition Corp. IV,,,withdrawn,2022-08-01,,,,,,2022-08-01_2022-08-31.json,2026-09-08T04:21:52.589851+00:00,sym:nan|2022-08-01,3,duplicate of a higher-information row for the same symbol+date
+Cedarlake Acquisition Corp.,,,withdrawn,2022-08-05,,,,,,2022-08-01_2022-08-31.json,2026-09-08T04:21:52.589851+00:00,sym:nan|2022-08-05,3,duplicate of a higher-information row for the same symbol+date
+Cerberus Telecom Acquisition Corp. II,,,withdrawn,2022-08-05,,,,,,2022-08-01_2022-08-31.json,2026-09-08T04:21:52.589851+00:00,sym:nan|2022-08-05,3,duplicate of a higher-information row for the same symbol+date
+Science Strategic Acquisition Corp. Bravo,,,withdrawn,2022-08-09,,,,,,2022-08-01_2022-08-31.json,2026-09-08T04:21:52.589851+00:00,sym:nan|2022-08-09,3,duplicate of a higher-information row for the same symbol+date
+Science Strategic Acquisition Corp. Charlie,,,withdrawn,2022-08-09,,,,,,2022-08-01_2022-08-31.json,2026-09-08T04:21:52.589851+00:00,sym:nan|2022-08-09,3,duplicate of a higher-information row for the same symbol+date
+"Candela Medical, Inc.",,,withdrawn,2022-09-02,,,,,,2022-09-01_2022-09-30.json,2026-09-08T04:21:54.590915+00:00,sym:nan|2022-09-02,3,duplicate of a higher-information row for the same symbol+date
+DD3 Acquisition Corp. III,,,withdrawn,2022-09-06,,,,,,2022-09-01_2022-09-30.json,2026-09-08T04:21:54.590915+00:00,sym:nan|2022-09-06,3,duplicate of a higher-information row for the same symbol+date
+INSU ACQUISITION CORP IV,,,withdrawn,2022-09-09,,,,,,2022-09-01_2022-09-30.json,2026-09-08T04:21:54.590915+00:00,sym:nan|2022-09-09,3,duplicate of a higher-information row for the same symbol+date
+"Elicio Therapeutics, Inc.",,,withdrawn,2022-09-13,,,,,,2022-09-01_2022-09-30.json,2026-09-08T04:21:54.590915+00:00,sym:nan|2022-09-13,3,duplicate of a higher-information row for the same symbol+date
+Keter1 Acquisition Corp,,,withdrawn,2022-09-13,,,,,,2022-09-01_2022-09-30.json,2026-09-08T04:21:54.590915+00:00,sym:nan|2022-09-13,3,duplicate of a higher-information row for the same symbol+date
+Ascendant Mobility Acquisition Corp I,,,withdrawn,2022-10-07,,,,,,2022-10-01_2022-10-31.json,2026-09-08T04:21:56.597850+00:00,sym:nan|2022-10-07,3,duplicate of a higher-information row for the same symbol+date
+Lazard Fintech Acquisition Corp. I,,,withdrawn,2022-10-07,,,,,,2022-10-01_2022-10-31.json,2026-09-08T04:21:56.597850+00:00,sym:nan|2022-10-07,3,duplicate of a higher-information row for the same symbol+date
+Lazard Healthcare Acquisition Corp. I,,,withdrawn,2022-10-07,,,,,,2022-10-01_2022-10-31.json,2026-09-08T04:21:56.597850+00:00,sym:nan|2022-10-07,3,duplicate of a higher-information row for the same symbol+date
+"PurposeBuilt Brands, Inc.",,,withdrawn,2022-10-07,,,,,,2022-10-01_2022-10-31.json,2026-09-08T04:21:56.597850+00:00,sym:nan|2022-10-07,3,duplicate of a higher-information row for the same symbol+date
+"Rue Gilt Groupe, Inc.",,,withdrawn,2022-10-13,,,,,,2022-10-01_2022-10-31.json,2026-09-08T04:21:56.597850+00:00,sym:nan|2022-10-13,3,duplicate of a higher-information row for the same symbol+date
+Apollo Strategic Growth Capital III,,,withdrawn,2022-11-03,,,,,,2022-11-01_2022-11-30.json,2026-09-08T04:21:58.596430+00:00,sym:nan|2022-11-03,3,duplicate of a higher-information row for the same symbol+date
+"BrightSpring Health Services, Inc.",,,withdrawn,2022-11-23,,,,,,2022-11-01_2022-11-30.json,2026-09-08T04:21:58.596430+00:00,sym:nan|2022-11-23,3,duplicate of a higher-information row for the same symbol+date
+Alpha Investment Inc.,,,withdrawn,2022-12-01,,,,,,2022-12-01_2022-12-31.json,2026-09-08T04:22:00.594741+00:00,sym:nan|2022-12-01,3,duplicate of a higher-information row for the same symbol+date
+"GigCapital6, Inc.",,,withdrawn,2022-12-13,,,,,,2022-12-01_2022-12-31.json,2026-09-08T04:22:00.594741+00:00,sym:nan|2022-12-13,3,duplicate of a higher-information row for the same symbol+date
+"Unique Logistics International, Inc.",,,withdrawn,2022-12-19,,,,,,2022-12-01_2022-12-31.json,2026-09-08T04:22:00.594741+00:00,sym:nan|2022-12-19,3,duplicate of a higher-information row for the same symbol+date
+Four Springs Capital Trust,,,withdrawn,2022-12-28,,,,,,2022-12-01_2022-12-31.json,2026-09-08T04:22:00.594741+00:00,sym:nan|2022-12-28,3,duplicate of a higher-information row for the same symbol+date
+"Agora Digital Holdings, Inc.",,,withdrawn,2023-01-11,,,,,,2023-01-01_2023-01-31.json,2026-09-08T04:22:02.600260+00:00,sym:nan|2023-01-11,3,duplicate of a higher-information row for the same symbol+date
+Vector Acquisition Corp IV,,,withdrawn,2023-01-19,,,,,,2023-01-01_2023-01-31.json,2026-09-08T04:22:02.600260+00:00,sym:nan|2023-01-19,3,duplicate of a higher-information row for the same symbol+date
+Vector Acquisition Corp III,,,withdrawn,2023-01-19,,,,,,2023-01-01_2023-01-31.json,2026-09-08T04:22:02.600260+00:00,sym:nan|2023-01-19,3,duplicate of a higher-information row for the same symbol+date
+Constitution Acquisition Corp.,,,withdrawn,2023-01-23,,,,,,2023-01-01_2023-01-31.json,2026-09-08T04:22:02.600260+00:00,sym:nan|2023-01-23,3,duplicate of a higher-information row for the same symbol+date
+C&W Acquisition Corp.,,,withdrawn,2023-01-27,,,,,,2023-01-01_2023-01-31.json,2026-09-08T04:22:02.600260+00:00,sym:nan|2023-01-27,3,duplicate of a higher-information row for the same symbol+date
+Reverence Acquisition Corp.,,,withdrawn,2023-02-28,,,,,,2023-02-01_2023-02-28.json,2026-09-08T04:22:04.621293+00:00,sym:nan|2023-02-28,3,duplicate of a higher-information row for the same symbol+date
+"WALL STREET ACQUISITIONS, Corp",,,withdrawn,2023-08-17,,,,,,2023-08-01_2023-08-31.json,2026-09-08T04:22:16.624130+00:00,sym:nan|2023-08-17,3,duplicate of a higher-information row for the same symbol+date
+Tiga Acquisition Corp. II,,,withdrawn,2023-11-13,,,,,,2023-11-01_2023-11-30.json,2026-09-08T04:22:22.608187+00:00,sym:nan|2023-11-13,3,duplicate of a higher-information row for the same symbol+date
+Boustead Wavefront Inc.,,,withdrawn,2024-01-05,,,,,,2024-01-01_2024-01-31.json,2026-09-08T04:22:26.617141+00:00,sym:nan|2024-01-05,3,duplicate of a higher-information row for the same symbol+date
+"C3 Bullion, Inc.",,,withdrawn,2024-01-17,,,,,,2024-01-01_2024-01-31.json,2026-09-08T04:22:26.617141+00:00,sym:nan|2024-01-17,3,duplicate of a higher-information row for the same symbol+date
+Thimble Point Acquisition Corp. II,,,withdrawn,2024-03-19,,,,,,2024-03-01_2024-03-31.json,2026-09-08T04:22:30.615375+00:00,sym:nan|2024-03-19,3,duplicate of a higher-information row for the same symbol+date
+Biotech Group Acquisition Corp,,,withdrawn,2024-03-26,,,,,,2024-03-01_2024-03-31.json,2026-09-08T04:22:30.615375+00:00,sym:nan|2024-03-26,3,duplicate of a higher-information row for the same symbol+date
+"Gladstone Companies, Inc.",,,withdrawn,2024-03-26,,,,,,2024-03-01_2024-03-31.json,2026-09-08T04:22:30.615375+00:00,sym:nan|2024-03-26,3,duplicate of a higher-information row for the same symbol+date
+"Opti-Harvest, Inc.",,,withdrawn,2024-03-29,,,,,,2024-03-01_2024-03-31.json,2026-09-08T04:22:30.615375+00:00,sym:nan|2024-03-29,3,duplicate of a higher-information row for the same symbol+date
+"Huake Holding Biology Co., LTD",,,withdrawn,2024-06-11,,,,,,2024-06-01_2024-06-30.json,2026-09-08T04:22:36.632516+00:00,sym:nan|2024-06-11,3,duplicate of a higher-information row for the same symbol+date
+"NEONC TECHNOLOGIES HOLDINGS, INC.",,,withdrawn,2024-06-12,,,,,,2024-06-01_2024-06-30.json,2026-09-08T04:22:36.632516+00:00,sym:nan|2024-06-12,3,duplicate of a higher-information row for the same symbol+date
+XJet Ltd.,,,withdrawn,2024-06-14,,,,,,2024-06-01_2024-06-30.json,2026-09-08T04:22:36.632516+00:00,sym:nan|2024-06-14,3,duplicate of a higher-information row for the same symbol+date
+Ocean Capital Acquisition Corp,,,withdrawn,2024-07-16,,,,,,2024-07-01_2024-07-31.json,2026-09-08T04:22:38.616374+00:00,sym:nan|2024-07-16,3,duplicate of a higher-information row for the same symbol+date
+"EMULATE THERAPEUTICS, INC.",,,withdrawn,2024-07-31,,,,,,2024-07-01_2024-07-31.json,2026-09-08T04:22:38.616374+00:00,sym:nan|2024-07-31,3,duplicate of a higher-information row for the same symbol+date
+FBS Global Ltd,,,withdrawn,2024-08-13,,,,,,2024-08-01_2024-08-31.json,2026-09-08T04:22:40.615329+00:00,sym:nan|2024-08-13,3,duplicate of a higher-information row for the same symbol+date
+Ming Shing Group Holdings Ltd,,,withdrawn,2024-08-27,,,,,,2024-08-01_2024-08-31.json,2026-09-08T04:22:40.615329+00:00,sym:nan|2024-08-27,3,duplicate of a higher-information row for the same symbol+date
+APRINOIA Therapeutics Inc.,,,withdrawn,2024-10-28,,,,,,2024-10-01_2024-10-31.json,2026-09-08T04:22:44.623040+00:00,sym:nan|2024-10-28,3,duplicate of a higher-information row for the same symbol+date
+REGENTIS BIOMATERIALS LTD.,,,withdrawn,2024-11-21,,,,,,2024-11-01_2024-11-30.json,2026-09-08T04:22:46.620106+00:00,sym:nan|2024-11-21,3,duplicate of a higher-information row for the same symbol+date
+Luda Technology Group Ltd,,,withdrawn,2024-12-06,,,,,,2024-12-01_2024-12-31.json,2026-09-08T04:22:48.622657+00:00,sym:nan|2024-12-06,3,duplicate of a higher-information row for the same symbol+date
+FD TECHNOLOGY INC.,,,withdrawn,2025-02-14,,,,,,2025-02-01_2025-02-28.json,2026-09-08T04:22:52.625412+00:00,sym:nan|2025-02-14,3,duplicate of a higher-information row for the same symbol+date
+"NYIAX, INC.",,,withdrawn,2025-02-14,,,,,,2025-02-01_2025-02-28.json,2026-09-08T04:22:52.625412+00:00,sym:nan|2025-02-14,3,duplicate of a higher-information row for the same symbol+date
+Job Aire Group Inc.,,,withdrawn,2025-04-14,,,,,,2025-04-01_2025-04-30.json,2026-09-08T04:22:56.627127+00:00,sym:nan|2025-04-14,3,duplicate of a higher-information row for the same symbol+date
+Key Mining Corp.,,,withdrawn,2025-04-23,,,,,,2025-04-01_2025-04-30.json,2026-09-08T04:22:56.627127+00:00,sym:nan|2025-04-23,3,duplicate of a higher-information row for the same symbol+date
+Center Holdings Inc.,,,withdrawn,2025-05-02,,,,,,2025-05-01_2025-05-31.json,2026-09-08T04:22:58.655233+00:00,sym:nan|2025-05-02,3,duplicate of a higher-information row for the same symbol+date
+GrowHub Ltd,,,withdrawn,2025-05-02,,,,,,2025-05-01_2025-05-31.json,2026-09-08T04:22:58.655233+00:00,sym:nan|2025-05-02,3,duplicate of a higher-information row for the same symbol+date
+"HW Electro Co., Ltd.",,,withdrawn,2025-05-09,,,,,,2025-05-01_2025-05-31.json,2026-09-08T04:22:58.655233+00:00,sym:nan|2025-05-09,3,duplicate of a higher-information row for the same symbol+date
+"PHI Group, Inc./DE",,,withdrawn,2025-05-23,,,,,,2025-05-01_2025-05-31.json,2026-09-08T04:22:58.655233+00:00,sym:nan|2025-05-23,3,duplicate of a higher-information row for the same symbol+date
+E I L Holdings Ltd,,,withdrawn,2025-06-24,,,,,,2025-06-01_2025-06-30.json,2026-09-08T04:23:00.645298+00:00,sym:nan|2025-06-24,3,duplicate of a higher-information row for the same symbol+date
+COR3&Co. (Holdings) Ltd,,,withdrawn,2025-07-18,,,,,,2025-07-01_2025-07-31.json,2026-09-08T04:23:02.633346+00:00,sym:nan|2025-07-18,3,duplicate of a higher-information row for the same symbol+date
+White Knights Alliance Capital Corp,,,filed,2025-12-29,,8000000.0,,,,2025-12-01_2025-12-31.json,2026-09-08T04:23:12.646043+00:00,sym:nan|2025-12-29,2,duplicate of a higher-information row for the same symbol+date
+"SFIDA X, Inc.",,,withdrawn,2026-01-27,,,,,,2026-01-01_2026-01-31.json,2026-09-08T04:23:14.651208+00:00,sym:nan|2026-01-27,3,duplicate of a higher-information row for the same symbol+date
+"Bounty Minerals, Inc.",,,withdrawn,2026-01-29,,,,,,2026-01-01_2026-01-31.json,2026-09-08T04:23:14.651208+00:00,sym:nan|2026-01-29,3,duplicate of a higher-information row for the same symbol+date
+Gravity AI,,,filed,2026-02-06,,21562500.0,,,,2026-02-01_2026-02-28.json,2026-09-08T04:23:16.661816+00:00,sym:nan|2026-02-06,2,duplicate of a higher-information row for the same symbol+date
+C&K Group Ltd,,,withdrawn,2026-02-13,,,,,,2026-02-01_2026-02-28.json,2026-09-08T04:23:16.661816+00:00,sym:nan|2026-02-13,3,duplicate of a higher-information row for the same symbol+date
+LEMENG HOLDINGS LTD,,,withdrawn,2026-02-13,,,,,,2026-02-01_2026-02-28.json,2026-09-08T04:23:16.661816+00:00,sym:nan|2026-02-13,3,duplicate of a higher-information row for the same symbol+date
+"Liftoff Mobile, Inc.",,,withdrawn,2026-02-17,,,,,,2026-02-01_2026-02-28.json,2026-09-08T04:23:16.661816+00:00,sym:nan|2026-02-17,3,duplicate of a higher-information row for the same symbol+date
+AIGO HOLDING Ltd,,,withdrawn,2026-02-24,,,,,,2026-02-01_2026-02-28.json,2026-09-08T04:23:16.661816+00:00,sym:nan|2026-02-24,3,duplicate of a higher-information row for the same symbol+date
+BILLION GROUP HOLDINGS Ltd,,,withdrawn,2026-02-27,,,,,,2026-02-01_2026-02-28.json,2026-09-08T04:23:16.661816+00:00,sym:nan|2026-02-27,3,duplicate of a higher-information row for the same symbol+date
+QuasarEdge Acquisition Corp,,,withdrawn,2026-03-05,,,,,,2026-03-01_2026-03-31.json,2026-09-08T04:23:18.645280+00:00,sym:nan|2026-03-05,3,duplicate of a higher-information row for the same symbol+date
+RIKU DINING GROUP Ltd,,,withdrawn,2026-03-16,,,,,,2026-03-01_2026-03-31.json,2026-09-08T04:23:18.645280+00:00,sym:nan|2026-03-16,3,duplicate of a higher-information row for the same symbol+date
+VISTEK LTD,,,withdrawn,2026-05-20,,,,,,2026-05-01_2026-05-31.json,2026-09-08T04:23:22.643995+00:00,sym:nan|2026-05-20,3,duplicate of a higher-information row for the same symbol+date
+Global Thrive Fulfill Group Inc,,,withdrawn,2026-05-29,,,,,,2026-05-01_2026-05-31.json,2026-09-08T04:23:22.643995+00:00,sym:nan|2026-05-29,3,duplicate of a higher-information row for the same symbol+date
+"Envoy Technologies, Inc.",,,withdrawn,2026-05-29,,,,,,2026-05-01_2026-05-31.json,2026-09-08T04:23:22.643995+00:00,sym:nan|2026-05-29,3,duplicate of a higher-information row for the same symbol+date
+Star Integratia Ltd,,,filed,2026-06-08,,38333336.0,,,,2026-06-01_2026-06-30.json,2026-09-08T04:23:24.647106+00:00,sym:nan|2026-06-08,2,duplicate of a higher-information row for the same symbol+date
+"MED EIBY Holding Co., Ltd",,,withdrawn,2026-06-16,,,,,,2026-06-01_2026-06-30.json,2026-09-08T04:23:24.647106+00:00,sym:nan|2026-06-16,3,duplicate of a higher-information row for the same symbol+date
+"Safepoint Holdings, Inc.",,,withdrawn,2026-06-24,,,,,,2026-06-01_2026-06-30.json,2026-09-08T04:23:24.647106+00:00,sym:nan|2026-06-24,3,duplicate of a higher-information row for the same symbol+date
+"Kilcoy Global Foods, Ltd.",,,withdrawn,2026-06-24,,,,,,2026-06-01_2026-06-30.json,2026-09-08T04:23:24.647106+00:00,sym:nan|2026-06-24,3,duplicate of a higher-information row for the same symbol+date
+Gifts International Holdings Ltd,,,withdrawn,2026-06-26,,,,,,2026-06-01_2026-06-30.json,2026-09-08T04:23:24.647106+00:00,sym:nan|2026-06-26,3,duplicate of a higher-information row for the same symbol+date
+INFINT Acquisition Corp 2,,,withdrawn,2026-07-08,,,,,,2026-07-01_2026-07-31.json,2026-09-08T04:23:26.641177+00:00,sym:nan|2026-07-08,3,duplicate of a higher-information row for the same symbol+date
+"Blue-Touch Holdings Group Co., Ltd",,,withdrawn,2026-07-10,,,,,,2026-07-01_2026-07-31.json,2026-09-08T04:23:26.641177+00:00,sym:nan|2026-07-10,3,duplicate of a higher-information row for the same symbol+date
+"SPECTRAL IP, INC.",,,withdrawn,2026-07-24,,,,,,2026-07-01_2026-07-31.json,2026-09-08T04:23:26.641177+00:00,sym:nan|2026-07-24,3,duplicate of a higher-information row for the same symbol+date
+Zensitive Holding Limited,,,filed,2026-08-07,,28750000.0,,,,2026-08-01_2026-08-31.json,2026-09-08T04:23:28.659530+00:00,sym:nan|2026-08-07,2,duplicate of a higher-information row for the same symbol+date
+Living Homeopathy International Ltd.,,,withdrawn,2026-08-18,,,,,,2026-08-01_2026-08-31.json,2026-09-08T04:23:28.659530+00:00,sym:nan|2026-08-18,3,duplicate of a higher-information row for the same symbol+date
+Hercules Sub LLC,,,withdrawn,2026-09-01,,,,,,2026-09-01_2026-09-08.json,2026-09-08T04:23:30.666973+00:00,sym:nan|2026-09-01,3,duplicate of a higher-information row for the same symbol+date

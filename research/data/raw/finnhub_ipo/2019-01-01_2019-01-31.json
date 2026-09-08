@@ -1,0 +1,167 @@
+{
+ "from": "2019-01-01",
+ "to": "2019-01-31",
+ "fetched_at": "2026-09-08T04:20:26.643283+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2019-01-31",
+   "exchange": "NYSE",
+   "name": "KLDISCOVERY INC.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PVT'U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2019-01-31",
+   "exchange": "NASDAQ Global Select",
+   "name": "NEW FORTRESS ENERGY LLC",
+   "numberOfShares": 20000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NFE",
+   "totalSharesValue": 280000000
+  },
+  {
+   "date": "2019-01-29",
+   "exchange": null,
+   "name": "REMORA ROYALTIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-01-29",
+   "exchange": "NASDAQ Capital",
+   "name": "ANDINA ACQUISITION CORP. III",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ANDAU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2019-01-29",
+   "exchange": null,
+   "name": "BIONEXUS GENE LAB COPORATION",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 519939
+  },
+  {
+   "date": "2019-01-28",
+   "exchange": null,
+   "name": "NEW WORLD TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HART",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2019-01-22",
+   "exchange": null,
+   "name": "QUALTRICS INTERNATIONAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-01-22",
+   "exchange": null,
+   "name": "SHUTTLE PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-01-17",
+   "exchange": null,
+   "name": "STREAM EXCHANGE TRADED TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-01-16",
+   "exchange": null,
+   "name": "ALZHEON, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-01-14",
+   "exchange": null,
+   "name": "ZAMEE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 208000
+  },
+  {
+   "date": "2019-01-11",
+   "exchange": null,
+   "name": "UNITED STATES BITCOIN & TREASURY INVESTMENT TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BXT",
+   "totalSharesValue": 20100000
+  },
+  {
+   "date": "2019-01-08",
+   "exchange": "NASDAQ Capital",
+   "name": "MMTEC, INC.",
+   "numberOfShares": 1800000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "MTC",
+   "totalSharesValue": 7200000
+  },
+  {
+   "date": "2019-01-08",
+   "exchange": "NASDAQ Capital",
+   "name": "MDJM LTD",
+   "numberOfShares": 1241459,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "MDJH",
+   "totalSharesValue": 6207295
+  },
+  {
+   "date": "2019-01-04",
+   "exchange": "NASDAQ Capital",
+   "name": "CHINA SXT PHARMACEUTICALS, INC.",
+   "numberOfShares": 2546275,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "SXTC",
+   "totalSharesValue": 10185100
+  },
+  {
+   "date": "2019-01-03",
+   "exchange": null,
+   "name": "WATCHGUARD, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

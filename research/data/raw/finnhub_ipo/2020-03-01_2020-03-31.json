@@ -1,0 +1,97 @@
+{
+ "from": "2020-03-01",
+ "to": "2020-03-31",
+ "fetched_at": "2026-09-08T04:20:54.566983+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2020-03-13",
+   "exchange": null,
+   "name": "Leaping Group Co., Ltd.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-03-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "IMARA Inc.",
+   "numberOfShares": 4700000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "IMRA",
+   "totalSharesValue": 75200000
+  },
+  {
+   "date": "2020-03-11",
+   "exchange": "NASDAQ Capital",
+   "name": "DFP HEALTHCARE ACQUISITIONS CORP.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DFPHU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2020-03-06",
+   "exchange": "NASDAQ Capital",
+   "name": "Vincerx Pharma, Inc.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LSACU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2020-03-06",
+   "exchange": "NYSE",
+   "name": "Skillz Inc.",
+   "numberOfShares": 60000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FEACU",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2020-03-06",
+   "exchange": null,
+   "name": "WeTrade Group Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 991011
+  },
+  {
+   "date": "2020-03-05",
+   "exchange": null,
+   "name": "SAFE AUTO INSURANCE GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-03-04",
+   "exchange": null,
+   "name": "Meten International Education Group",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2020-03-03",
+   "exchange": "NYSE",
+   "name": "GFL Environmental Inc.",
+   "numberOfShares": 75000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "GFL",
+   "totalSharesValue": 1425000000
+  }
+ ]
+}

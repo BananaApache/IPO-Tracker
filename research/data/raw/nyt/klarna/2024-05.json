@@ -1,0 +1,92 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2024-05",
+ "begin_date": "20240501",
+ "end_date": "20240531",
+ "fetched_at": "2026-09-08T05:01:02.309410+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Shoppers who use the popular installment loans will be guaranteed some of the same consumer protections that traditional credit cards provide.",
+   "byline": {
+    "original": "By Ann Carrns"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "\u2018Buy Now, Pay Later\u2019 Borrowers Get More Safeguards With New Rule",
+    "kicker": "Your Money Adviser",
+    "print_headline": "More Safeguards on \u2018Buy Now, Pay Later\u2019 Loans"
+   },
+   "_id": "nyt://article/ddb87343-5712-5034-a34b-f168a229e066",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Credit Scores",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "E-Commerce",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Mobile Commerce and Payments",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Protection",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Consumer Financial Protection Bureau",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Till Lauer",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/06/01/business/31adviser/31adviser-articleLarge.png",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/06/01/business/31adviser/31adviser-thumbStandard.png",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2024-05-31T13:00:16Z",
+   "section_name": "Business",
+   "snippet": "Shoppers who use the popular installment loans will be guaranteed some of the same consumer protections that traditional credit cards provide.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ddb87343-5712-5034-a34b-f168a229e066",
+   "web_url": "https://www.nytimes.com/2024/05/31/business/buy-now-pay-later-protections.html",
+   "word_count": 1153
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2023-10",
+ "begin_date": "20231001",
+ "end_date": "20231031",
+ "fetched_at": "2026-09-08T04:34:26.136257+00:00",
+ "hits": 2,
+ "docs": [
+  {
+   "abstract": "Birkenstock went from a sandal worn by hippies and hikers to a favorite of celebrities. Now, anyone can buy the company's stock. ",
+   "byline": {
+    "original": "By Marie Solis"
+   },
+   "document_type": "interactive",
+   "headline": {
+    "main": "The Big Number: $1.48 Billion",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://interactive/26444f1b-f96b-543a-89f1-1a25fc923ade",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Shoes and Boots",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Fashion and Apparel",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Company Reports",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Behavior",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Initial Public Offerings",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "Birkenstock Footprint Sandals",
+     "rank": 7
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "George Wylesol",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/10/15/business/15BigNumber-illo/15BigNumber-illo-articleLarge.jpg",
+     "height": 393,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/10/15/business/15BigNumber-illo/15BigNumber-illo-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-10-13T15:58:09Z",
+   "section_name": "Business",
+   "snippet": "Birkenstock went from a sandal worn by hippies and hikers to a favorite of celebrities. Now, anyone can buy the company's stock. ",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "Interactive Feature",
+   "uri": "nyt://interactive/26444f1b-f96b-543a-89f1-1a25fc923ade",
+   "web_url": "https://www.nytimes.com/interactive/2023/10/13/business/birkenstock-ipo.html",
+   "word_count": 0
+  },
+  {
+   "abstract": "Mr. Bankman-Fried\u2019s lawyers sought to poke holes in Ms. Ellison\u2019s testimony, but her account remained largely consistent.",
+   "byline": {
+    "original": "By Matthew Goldstein, J. Edward Moreno and David Yaffe-Bellany"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Star Witness Caroline Ellison Says Sam Bankman-Fried Made \u2018Terrible Mistakes\u2019",
+    "kicker": "",
+    "print_headline": "Star Witness in Bankman-Fried Trial Says He Made \u2018Terrible Mistakes\u2019"
+   },
+   "_id": "nyt://article/ec9f344f-591c-5eae-92ed-a0561c0bb778",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Virtual Currency",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Dating and Relationships",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Bankruptcies",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "Alameda Research LLC",
+     "rank": 6
+    },
+    {
+     "name": "Organization",
+     "value": "HK FTX Trading Ltd (Futures Exchange)",
+     "rank": 7
+    },
+    {
+     "name": "Person",
+     "value": "Bankman-Fried, Sam",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Ellison, Caroline (1994- )",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "\u201cI think they were terrible mistakes,\u201d Caroline Ellison, center, the former chief executive of Alameda Research, said of Sam Bankman-Fried\u2019s decisions in the summer of 2022.",
+    "credit": "Jefferson Siegel for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/10/12/multimedia/12sbf-caroline-sub-wgpc/12sbf-caroline-sub-wgpc-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/10/12/multimedia/12sbf-caroline-sub-wgpc/12sbf-caroline-sub-wgpc-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "6",
+   "print_section": "B",
+   "pub_date": "2023-10-12T20:51:27Z",
+   "section_name": "Technology",
+   "snippet": "Mr. Bankman-Fried\u2019s lawyers sought to poke holes in Ms. Ellison\u2019s testimony, but her account remained largely consistent.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/ec9f344f-591c-5eae-92ed-a0561c0bb778",
+   "web_url": "https://www.nytimes.com/2023/10/12/technology/caroline-ellison-sam-bankman-fried-trial.html",
+   "word_count": 1086
+  }
+ ]
+}

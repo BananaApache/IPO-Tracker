@@ -1,0 +1,72 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2024-05",
+ "begin_date": "20240501",
+ "end_date": "20240531",
+ "fetched_at": "2026-09-08T04:51:14.259994+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Keith Gill, the trader who helped turn the video game retailer into a high-flying \u201cmeme stock,\u201d posted cryptic messages online after a three-year hiatus.",
+   "byline": {
+    "original": "By J. Edward Moreno"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "GameStop Shares Surge After \u2018Roaring Kitty\u2019 Re-emerges",
+    "kicker": "",
+    "print_headline": "\u2018Roaring Kitty\u2019 Resurfaces and Shares Surge For GameStop"
+   },
+   "_id": "nyt://article/0480c0cf-4ed7-5fed-a849-f03fcf5a318d",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Computer and Video Games",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Stocks and Bonds",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "GameStop Corporation",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Gill, Keith (1986- )",
+     "rank": 4
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    },
+    "thumbnail": {
+     "url": "",
+     "height": 0,
+     "width": 0
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "4",
+   "print_section": "B",
+   "pub_date": "2024-05-13T18:45:33Z",
+   "section_name": "Business",
+   "snippet": "Keith Gill, the trader who helped turn the video game retailer into a high-flying \u201cmeme stock,\u201d posted cryptic messages online after a three-year hiatus.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/0480c0cf-4ed7-5fed-a849-f03fcf5a318d",
+   "web_url": "https://www.nytimes.com/2024/05/13/business/gamestop-stock-roaring-kitty.html",
+   "word_count": 411
+  }
+ ]
+}

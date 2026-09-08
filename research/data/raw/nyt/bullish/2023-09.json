@@ -1,0 +1,137 @@
+{
+ "company": "Bullish",
+ "query": "\"Bullish\" \"exchange\"",
+ "month": "2023-09",
+ "begin_date": "20230901",
+ "end_date": "20230930",
+ "fetched_at": "2026-09-08T04:32:02.169540+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "The walkout by thousands of factory workers presents economic and political risks for the Big Three automakers, Midwestern states and President Biden.",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "The High Stakes Behind the U.A.W.\u2019s Strike",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/997d811d-8ea7-5538-80c8-ed328b6ab974",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Automobiles",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "United States Economy",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Labor and Jobs",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Strikes",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "United Automobile Workers",
+     "rank": 5
+    },
+    {
+     "name": "Person",
+     "value": "Barra, Mary T",
+     "rank": 6
+    },
+    {
+     "name": "Person",
+     "value": "Biden, Joseph R Jr",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "General Motors",
+     "rank": 8
+    },
+    {
+     "name": "Person",
+     "value": "Zandi, Mark",
+     "rank": 9
+    },
+    {
+     "name": "Location",
+     "value": "Detroit (Mich)",
+     "rank": 10
+    },
+    {
+     "name": "Location",
+     "value": "Michigan",
+     "rank": 11
+    },
+    {
+     "name": "Organization",
+     "value": "Dodge Division of Fiat Chrysler",
+     "rank": 12
+    },
+    {
+     "name": "Organization",
+     "value": "Fiat Chrysler Automobiles NV",
+     "rank": 13
+    },
+    {
+     "name": "Organization",
+     "value": "Jeep Division of Fiat Chrysler",
+     "rank": 14
+    },
+    {
+     "name": "Organization",
+     "value": "Ram Division of Chrysler Corp",
+     "rank": 15
+    },
+    {
+     "name": "Organization",
+     "value": "Tesla Motors Inc",
+     "rank": 16
+    },
+    {
+     "name": "Organization",
+     "value": "Stellantis NV",
+     "rank": 17
+    }
+   ],
+   "multimedia": {
+    "caption": "\u201cTonight, for the first time in our history, we will strike all three of the Big Three at once,\u201d Shawn Fain, president of the United Automobile Workers, told cheering members.",
+    "credit": "Matthew Hatcher/Agence France-Presse \u2014 Getty Images",
+    "default": {
+     "url": "https://static01.nyt.com/images/2023/09/15/multimedia/15db-uaw-bjqz/15db-uaw-bjqz-articleLarge.jpg",
+     "height": 392,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2023/09/15/multimedia/15db-uaw-bjqz/15db-uaw-bjqz-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2023-09-15T11:54:34Z",
+   "section_name": "Business",
+   "snippet": "The walkout by thousands of factory workers presents economic and political risks for the Big Three automakers, Midwestern states and President Biden.",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/997d811d-8ea7-5538-80c8-ed328b6ab974",
+   "web_url": "https://www.nytimes.com/2023/09/15/business/dealbook/uaw-strike-costs-biden.html",
+   "word_count": 1844
+  }
+ ]
+}

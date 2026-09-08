@@ -1,0 +1,317 @@
+{
+ "from": "2019-10-01",
+ "to": "2019-10-31",
+ "fetched_at": "2026-09-08T04:20:44.550401+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2019-10-31",
+   "exchange": null,
+   "name": "Hoverink Biotechnologies, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-10-31",
+   "exchange": "NASDAQ Global",
+   "name": "RAPT Therapeutics, Inc.",
+   "numberOfShares": 3000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "RAPT",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2019-10-30",
+   "exchange": null,
+   "name": "Meili Auto Holdings Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ML",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2019-10-28",
+   "exchange": null,
+   "name": "Pony Group Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 250000
+  },
+  {
+   "date": "2019-10-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "Progyny, Inc.",
+   "numberOfShares": 10000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "PGNY",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2019-10-25",
+   "exchange": "NYSE",
+   "name": "Youdao, Inc.",
+   "numberOfShares": 5600000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "DAO",
+   "totalSharesValue": 95200000
+  },
+  {
+   "date": "2019-10-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "Cabaletta Bio, Inc.",
+   "numberOfShares": 6800000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "CABA",
+   "totalSharesValue": 74800000
+  },
+  {
+   "date": "2019-10-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "Phathom Pharmaceuticals, Inc.",
+   "numberOfShares": 9563157,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "PHAT",
+   "totalSharesValue": 181699983
+  },
+  {
+   "date": "2019-10-25",
+   "exchange": "NASDAQ Global",
+   "name": "Aesthetic Medical International Holdings Group Ltd",
+   "numberOfShares": 2500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "AIH",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2019-10-25",
+   "exchange": "NASDAQ Capital",
+   "name": "TFF Pharmaceuticals, Inc.",
+   "numberOfShares": 4400000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "TFFP",
+   "totalSharesValue": 22000000
+  },
+  {
+   "date": "2019-10-25",
+   "exchange": "NASDAQ Capital",
+   "name": "Happiness Biotech Group Ltd",
+   "numberOfShares": 2000000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "HAPP",
+   "totalSharesValue": 11000000
+  },
+  {
+   "date": "2019-10-24",
+   "exchange": "NASDAQ Global Select",
+   "name": "BRP Group, Inc.",
+   "numberOfShares": 16400000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "BRP",
+   "totalSharesValue": 229600000
+  },
+  {
+   "date": "2019-10-18",
+   "exchange": "NASDAQ Capital",
+   "name": "Union Acquisition Corp. II",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LATNU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2019-10-17",
+   "exchange": null,
+   "name": "Karat Packaging Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-10-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "Innate Pharma SA",
+   "numberOfShares": 12500000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "IPHA",
+   "totalSharesValue": 68750000
+  },
+  {
+   "date": "2019-10-17",
+   "exchange": "NYSE",
+   "name": "BELLRING BRANDS, INC.",
+   "numberOfShares": 34285714,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "BRBR",
+   "totalSharesValue": 479999996
+  },
+  {
+   "date": "2019-10-16",
+   "exchange": null,
+   "name": "Endeavor Group Holdings, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-10-15",
+   "exchange": null,
+   "name": "Kryptoin Bitcoin ETF Trust",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25000
+  },
+  {
+   "date": "2019-10-11",
+   "exchange": "NASDAQ Global Select",
+   "name": "Vir Biotechnology, Inc.",
+   "numberOfShares": 7142858,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "VIR",
+   "totalSharesValue": 142857160
+  },
+  {
+   "date": "2019-10-11",
+   "exchange": "NASDAQ Global Select",
+   "name": "HBT Financial, Inc.",
+   "numberOfShares": 8300000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "HBT",
+   "totalSharesValue": 132800000
+  },
+  {
+   "date": "2019-10-10",
+   "exchange": null,
+   "name": "Vyrian, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-10-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "BioNTech SE",
+   "numberOfShares": 10000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "BNTX",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2019-10-09",
+   "exchange": null,
+   "name": "Azar International Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2019-10-04",
+   "exchange": null,
+   "name": "China Eco-Materials Group Co. Ltd",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ZGHB",
+   "totalSharesValue": 11500002
+  },
+  {
+   "date": "2019-10-04",
+   "exchange": null,
+   "name": "Oyster Point Pharma, Inc.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "OYST",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2019-10-03",
+   "exchange": null,
+   "name": "ADC Therapeutics SA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2019-10-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "MetroCity Bankshares, Inc.",
+   "numberOfShares": 1939000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "MCBS",
+   "totalSharesValue": 26176500
+  },
+  {
+   "date": "2019-10-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "Frequency Therapeutics, Inc.",
+   "numberOfShares": 6000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "FREQ",
+   "totalSharesValue": 84000000
+  },
+  {
+   "date": "2019-10-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "Aprea Therapeutics, Inc.",
+   "numberOfShares": 5666667,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "APRE",
+   "totalSharesValue": 85000005
+  },
+  {
+   "date": "2019-10-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "Viela Bio, Inc.",
+   "numberOfShares": 7900000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "VIE",
+   "totalSharesValue": 150100000
+  },
+  {
+   "date": "2019-10-02",
+   "exchange": null,
+   "name": "Galileo Acquisition Corp.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GLEOU",
+   "totalSharesValue": 120000000
+  }
+ ]
+}

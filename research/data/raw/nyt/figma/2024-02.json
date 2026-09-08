@@ -1,0 +1,264 @@
+{
+ "company": "Figma",
+ "query": "\"Figma\"",
+ "month": "2024-02",
+ "begin_date": "20240201",
+ "end_date": "20240229",
+ "fetched_at": "2026-09-08T04:43:38.273320+00:00",
+ "hits": 3,
+ "docs": [
+  {
+   "abstract": "Regulatory scrutiny felled the sale of Figma, a design platform, to Adobe. Now it\u2019s grappling with employee expectations and a changing market.",
+   "byline": {
+    "original": "By Erin Griffith"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "After Its $20 Billion Windfall Evaporated, a Start-Up Picks Up the Pieces",
+    "kicker": "",
+    "print_headline": "After Lucrative Deal Collapses, a Start-Up Restarts"
+   },
+   "_id": "nyt://article/e05ef7f7-a897-5340-9b20-dcb0e0c3e211",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Software",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Mergers, Acquisitions and Divestitures",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Venture Capital",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Entrepreneurship",
+     "rank": 7
+    },
+    {
+     "name": "Organization",
+     "value": "Adobe Systems Inc",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "Figma Inc",
+     "rank": 9
+    },
+    {
+     "name": "Person",
+     "value": "Field, Dylan (1992- )",
+     "rank": 10
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "David Paul Morris/Bloomberg",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/02/13/business/00FIGMA-02/00FIGMA-02-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/02/13/business/00FIGMA-02/00FIGMA-02-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "1",
+   "print_section": "B",
+   "pub_date": "2024-02-08T10:01:25Z",
+   "section_name": "Technology",
+   "snippet": "Regulatory scrutiny felled the sale of Figma, a design platform, to Adobe. Now it\u2019s grappling with employee expectations and a changing market.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/e05ef7f7-a897-5340-9b20-dcb0e0c3e211",
+   "web_url": "https://www.nytimes.com/2024/02/08/technology/figma-adobe-.html",
+   "word_count": 1685
+  },
+  {
+   "abstract": "Plus, more ancient scrolls deciphered using artificial intelligence, Google\u2019s chatbot updates, and a fight between record labels and TikTok.",
+   "byline": {
+    "original": "By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano, Rowan Niemisto and Paula Szuchman"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Bluesky\u2019s Big Bet, and Are Deals Dead in Silicon Valley?",
+    "kicker": "",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/8970f629-e772-5c89-b475-f1eee30408f0",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Bluesky (Social Network)",
+     "rank": 1
+    },
+    {
+     "name": "Organization",
+     "value": "Figma Inc",
+     "rank": 2
+    },
+    {
+     "name": "Organization",
+     "value": "Adobe Systems Inc",
+     "rank": 3
+    },
+    {
+     "name": "Organization",
+     "value": "Universal Music Group",
+     "rank": 4
+    },
+    {
+     "name": "Organization",
+     "value": "TikTok (ByteDance)",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Computers and the Internet",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Artificial Intelligence",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Start-ups",
+     "rank": 8
+    },
+    {
+     "name": "Subject",
+     "value": "Social Media",
+     "rank": 9
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Photo Illustration by The New York Times; Photo: via Bluesky",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/02/15/podcasts/09audio-hard-ford-bluesky-treatment/09audio-hard-ford-bluesky-treatment-articleLarge.jpg",
+     "height": 400,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/02/15/podcasts/09audio-hard-ford-bluesky-treatment/09audio-hard-ford-bluesky-treatment-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Podcasts",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-02-09T10:03:44Z",
+   "section_name": "Podcasts",
+   "snippet": "Plus, more ancient scrolls deciphered using artificial intelligence, Google\u2019s chatbot updates, and a fight between record labels and TikTok.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/8970f629-e772-5c89-b475-f1eee30408f0",
+   "web_url": "https://www.nytimes.com/2024/02/09/podcasts/hard-fork-bluesky-figma.html",
+   "word_count": 192
+  },
+  {
+   "abstract": "The media giant beat analysts\u2019 profit forecasts and announced a slew of new content. Will that be enough to fend off the activist investor Nelson Peltz?",
+   "byline": {
+    "original": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Strong Earnings, and Taylor Swift, Add to Disney\u2019s Defenses",
+    "kicker": "DealBook Newsletter",
+    "print_headline": ""
+   },
+   "_id": "nyt://article/2be30cb6-f049-51b2-84c6-b89605d00397",
+   "keywords": [
+    {
+     "name": "Organization",
+     "value": "Walt Disney Company",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Shareholder Rights and Activism",
+     "rank": 3
+    },
+    {
+     "name": "Person",
+     "value": "Peltz, Nelson",
+     "rank": 4
+    },
+    {
+     "name": "Person",
+     "value": "Swift, Taylor",
+     "rank": 5
+    },
+    {
+     "name": "Organization",
+     "value": "ESPN",
+     "rank": 6
+    },
+    {
+     "name": "Title",
+     "value": "Moana (Movie)",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Video Recordings, Downloads and Streaming",
+     "rank": 8
+    }
+   ],
+   "multimedia": {
+    "caption": "Disney handily beat Wall Street\u2019s profit expectations, sending its stock higher.",
+    "credit": "Todd Anderson for The New York Times",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/02/08/multimedia/08db-disney-tfcb/08db-disney-tfcb-articleLarge.jpg",
+     "height": 416,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/02/08/multimedia/08db-disney-tfcb/08db-disney-tfcb-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "",
+   "print_section": "",
+   "pub_date": "2024-02-08T12:43:45Z",
+   "section_name": "Business",
+   "snippet": "The media giant beat analysts\u2019 profit forecasts and announced a slew of new content. Will that be enough to fend off the activist investor Nelson Peltz?",
+   "source": "The New York Times",
+   "subsection_name": "DealBook",
+   "type_of_material": "News",
+   "uri": "nyt://article/2be30cb6-f049-51b2-84c6-b89605d00397",
+   "web_url": "https://www.nytimes.com/2024/02/08/business/dealbook/disney-peltz-earnings-swift.html",
+   "word_count": 1801
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "company": "Klarna",
+ "query": "\"Klarna\" \"payments\"",
+ "month": "2024-07",
+ "begin_date": "20240701",
+ "end_date": "20240731",
+ "fetched_at": "2026-09-08T05:05:50.344345+00:00",
+ "hits": 1,
+ "docs": [
+  {
+   "abstract": "Financial regulators and consumer advocates frown upon using credit cards to pay off installment loans because of the risk that consumers will dig themselves further into debt.",
+   "byline": {
+    "original": "By Ann Carrns"
+   },
+   "document_type": "article",
+   "headline": {
+    "main": "Chase to Bar Customers From Using Credit Cards for \u2018Pay Later\u2019 Loans",
+    "kicker": "your money adviser",
+    "print_headline": "Chase Will Bar \u2018Pay Later\u2019 Loans on Its Cards"
+   },
+   "_id": "nyt://article/c23810af-6f2e-5f54-b075-eb5a9880a00d",
+   "keywords": [
+    {
+     "name": "Subject",
+     "value": "Banking and Financial Institutions",
+     "rank": 1
+    },
+    {
+     "name": "Subject",
+     "value": "Credit Cards",
+     "rank": 2
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Protection",
+     "rank": 3
+    },
+    {
+     "name": "Subject",
+     "value": "Personal Finances",
+     "rank": 4
+    },
+    {
+     "name": "Subject",
+     "value": "Regulation and Deregulation of Industry",
+     "rank": 5
+    },
+    {
+     "name": "Subject",
+     "value": "Consumer Behavior",
+     "rank": 6
+    },
+    {
+     "name": "Subject",
+     "value": "Credit and Debt",
+     "rank": 7
+    },
+    {
+     "name": "Subject",
+     "value": "Content Type: Service",
+     "rank": 8
+    },
+    {
+     "name": "Organization",
+     "value": "JPMorgan Chase & Company",
+     "rank": 9
+    },
+    {
+     "name": "Organization",
+     "value": "Capital One Financial Corporation",
+     "rank": 10
+    },
+    {
+     "name": "Organization",
+     "value": "Consumer Financial Protection Bureau",
+     "rank": 11
+    }
+   ],
+   "multimedia": {
+    "caption": "",
+    "credit": "Thomas Fuchs",
+    "default": {
+     "url": "https://static01.nyt.com/images/2024/07/27/business/26adviser-print/26adviser-articleLarge.jpg",
+     "height": 600,
+     "width": 600
+    },
+    "thumbnail": {
+     "url": "https://static01.nyt.com/images/2024/07/27/business/26adviser-print/26adviser-thumbStandard.jpg",
+     "height": 75,
+     "width": 75
+    }
+   },
+   "news_desk": "Business",
+   "print_page": "5",
+   "print_section": "B",
+   "pub_date": "2024-07-26T13:00:06Z",
+   "section_name": "Your Money",
+   "snippet": "Financial regulators and consumer advocates frown upon using credit cards to pay off installment loans because of the risk that consumers will dig themselves further into debt.",
+   "source": "The New York Times",
+   "subsection_name": "",
+   "type_of_material": "News",
+   "uri": "nyt://article/c23810af-6f2e-5f54-b075-eb5a9880a00d",
+   "web_url": "https://www.nytimes.com/2024/07/26/your-money/chase-pay-later-loans-credit-cards.html",
+   "word_count": 1071
+  }
+ ]
+}
