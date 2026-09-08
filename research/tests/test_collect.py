@@ -579,3 +579,115 @@ class TestTiingoPrices:
         # and must be null rather than assigned a ratio from a few days.
         no_base = up[up["abnormal_attention"].isna()]
         assert (no_base["baseline_days"] < 30).all()
+
+
+class TestNotabilityDesign:
+    """The article-existence redesign, and the three ways it could go fake."""
+
+    def test_spac_rules_do_not_catch_unity(self):
+        """Unity trades as plain "U". A bare endswith('U') rule would classify
+        it as a SPAC unit ticker and silently drop a real company."""
+        from research.collect.notability import is_spac
+        assert is_spac("Unity Software Inc.", "U", 68.0)[0] is False
+        assert is_spac("Snowflake Inc.", "SNOW", 120.0)[0] is False
+        # Real SPACs, by name and by the 4-letter unit convention.
+        assert is_spac("Future Vision II Acquisition Corp.", "FVNNU", 10.0)[0]
+        assert is_spac("Some Shell Co", "AACIU", 10.0)[0]
+
+    def test_ten_dollar_offers_are_excluded_from_the_population(self):
+        """Measured: every SPAC that survived the name/ticker rules priced at
+        exactly $10.00. Pooling them manufactures a 'no article -> no pop'
+        correlation that is entirely the SPAC distinction."""
+        import pandas as pd
+
+        from research.collect.notability import SAMPLE_PARQUET
+        if not SAMPLE_PARQUET.exists():
+            import pytest
+            pytest.skip("sample not drawn yet")
+        s = pd.read_parquet(SAMPLE_PARQUET)
+        assert not (s["offer_price"] == 10.0).any(), \
+            "a $10.00 offer survived into the sample"
+
+    def test_distinctive_token_guard_rejects_a_shared_generic_word(self):
+        from research.collect.notability import shares_distinctive_token
+        # The failure it exists for.
+        assert not shares_distinctive_token("Legence Corp.", "VF Corporation")
+        assert not shares_distinctive_token("Professional Holding Corp.", "Holdings")
+        assert shares_distinctive_token("Reddit, Inc.", "Reddit")
+        assert shares_distinctive_token("Maplebear Inc.", "Maplebear")
+
+    def test_candidate_titles_strip_suffixes_most_specific_first(self):
+        from research.collect.notability import candidate_titles
+        c = candidate_titles("Reddit, Inc.")
+        assert c[-1] == "Reddit"
+        assert "Maplebear" in candidate_titles("Maplebear Inc.")
+
+    def test_treatment_excludes_an_article_created_by_the_ipo(self):
+        """An article created during the IPO window is an effect of the outcome,
+        not prior notability. 27 of 110 matched articles were created inside 90
+        days of listing."""
+        import pandas as pd
+
+        from research.collect.notability import NOTABILITY_PARQUET
+        if not NOTABILITY_PARQUET.exists():
+            import pytest
+            pytest.skip("notability.parquet not built yet")
+        d = pd.read_parquet(NOTABILITY_PARQUET)
+        endog = d[d["article_after_cutoff"]]
+        # Every excluded row has an article, and none counts as treated.
+        assert endog["has_article"].all()
+        assert not endog["notable_pre_ipo"].any()
+
+    def test_mann_whitney_matches_a_known_case(self):
+        from research.collect.notability import _mann_whitney
+        # Perfectly separated groups: U = n1*n2, rank-biserial = +1.
+        r = _mann_whitney([10, 11, 12, 13], [1, 2, 3, 4])
+        assert r["u"] == 16.0
+        assert r["rank_biserial"] == 1.0
+        assert r["p"] < 0.05
+        # Identical groups: no separation.
+        r2 = _mann_whitney([5, 5, 5, 5], [5, 5, 5, 5])
+        assert abs(r2["rank_biserial"]) < 1e-9
+
+
+class TestRateLimitDetection:
+    """A 429 must be recognised through the exception chain, not the message."""
+
+    def test_status_code_is_not_in_the_message(self):
+        """`backend.http` reports the URL and attempt count and keeps the HTTP
+        error as __cause__, so a naive `"429" in str(exc)` never matches. That
+        bug burned one ticker per rate-limited request."""
+        import httpx
+
+        from backend.http import HttpError
+        from research.collect.notability import _is_rate_limited
+
+        req = httpx.Request("GET", "https://example.com/x")
+        resp = httpx.Response(429, request=req)
+        cause = httpx.HTTPStatusError("429", request=req, response=resp)
+        exc = HttpError("giving up on https://example.com/x after 1 attempts")
+        exc.__cause__ = cause
+
+        assert "429" not in str(exc), "premise of the bug no longer holds"
+        assert _is_rate_limited(exc) is True
+
+    def test_an_unrelated_failure_is_not_treated_as_a_rate_limit(self):
+        import httpx
+
+        from backend.http import HttpError
+        from research.collect.notability import _is_rate_limited
+
+        req = httpx.Request("GET", "https://example.com/x")
+        cause = httpx.HTTPStatusError(
+            "500", request=req, response=httpx.Response(500, request=req))
+        exc = HttpError("giving up on https://example.com/x after 1 attempts")
+        exc.__cause__ = cause
+        assert _is_rate_limited(exc) is False
+
+    def test_it_terminates_on_a_self_referential_chain(self):
+        from research.collect.notability import _is_rate_limited
+        a = RuntimeError("a")
+        b = RuntimeError("b")
+        a.__cause__ = b
+        b.__cause__ = a          # a cycle must not hang the walk
+        assert _is_rate_limited(a) is False

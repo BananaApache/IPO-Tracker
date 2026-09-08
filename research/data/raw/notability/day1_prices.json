@@ -1,0 +1,182 @@
+{
+ "MAX": {
+  "symbol": "MAX",
+  "first_trade_date": "2020-10-28",
+  "d1_open": 23.0,
+  "d1_close": 31.86,
+  "d1_volume": 5456366,
+  "calendar_listing_date": "2020-10-28",
+  "n_bars": 8
+ },
+ "INST": {
+  "symbol": "INST",
+  "first_trade_date": "2021-07-22",
+  "d1_open": 23.05,
+  "d1_close": 20.98,
+  "d1_volume": 2949721,
+  "calendar_listing_date": "2021-07-22",
+  "n_bars": 7
+ },
+ "INTA": {
+  "symbol": "INTA",
+  "first_trade_date": "2021-06-30",
+  "d1_open": 25.25,
+  "d1_close": 28.0,
+  "d1_volume": 4946922,
+  "calendar_listing_date": "2021-06-30",
+  "n_bars": 7
+ },
+ "BBNX": {
+  "symbol": "BBNX",
+  "first_trade_date": "2025-01-30",
+  "d1_open": 22.0,
+  "d1_close": 23.63,
+  "d1_volume": 7166052,
+  "calendar_listing_date": "2025-01-30",
+  "n_bars": 7
+ },
+ "TP": {
+  "symbol": "TP",
+  "first_trade_date": "2026-08-07",
+  "d1_open": 7.0,
+  "d1_close": 7.0,
+  "d1_volume": 197801,
+  "calendar_listing_date": "2026-08-07",
+  "n_bars": 7
+ },
+ "VIE": {
+  "symbol": "VIE",
+  "first_trade_date": "2019-10-03",
+  "d1_open": 21.5,
+  "d1_close": 23.41,
+  "d1_volume": 1608027,
+  "calendar_listing_date": "2019-10-03",
+  "n_bars": 7
+ },
+ "YMM": {
+  "symbol": "YMM",
+  "first_trade_date": "2021-06-22",
+  "d1_open": 22.5,
+  "d1_close": 21.5,
+  "d1_volume": 36954393,
+  "calendar_listing_date": "2021-06-22",
+  "n_bars": 9
+ },
+ "LYNX": {
+  "symbol": "LYNX",
+  "first_trade_date": "2026-08-19",
+  "d1_open": 15.5,
+  "d1_close": 15.01,
+  "d1_volume": 10682230,
+  "calendar_listing_date": "2026-08-19",
+  "n_bars": 8
+ },
+ "ALZN": {
+  "symbol": "ALZN",
+  "first_trade_date": "2021-06-15",
+  "d1_open": 29.0,
+  "d1_close": 13.5,
+  "d1_volume": 5127141,
+  "calendar_listing_date": "2021-06-15",
+  "n_bars": 9
+ },
+ "LI": {
+  "symbol": "LI",
+  "first_trade_date": "2020-07-30",
+  "d1_open": 15.5,
+  "d1_close": 16.46,
+  "d1_volume": 64611284,
+  "calendar_listing_date": "2020-07-30",
+  "n_bars": 7
+ },
+ "EWTX": {
+  "symbol": "EWTX",
+  "first_trade_date": "2021-03-26",
+  "d1_open": 27.0,
+  "d1_close": 30.0,
+  "d1_volume": 1959057,
+  "calendar_listing_date": "2021-03-26",
+  "n_bars": 6
+ },
+ "SRAD": {
+  "symbol": "SRAD",
+  "first_trade_date": "2021-09-14",
+  "d1_open": 27.0,
+  "d1_close": 25.05,
+  "d1_volume": 12819400,
+  "calendar_listing_date": "2021-09-14",
+  "n_bars": 9
+ },
+ "TBN": {
+  "symbol": "TBN",
+  "first_trade_date": "2024-06-27",
+  "d1_open": 22.5,
+  "d1_close": 21.75,
+  "d1_volume": 540064,
+  "calendar_listing_date": "2024-06-27",
+  "n_bars": 6
+ },
+ "LAW": {
+  "symbol": "LAW",
+  "first_trade_date": "2021-07-21",
+  "d1_open": 45.26,
+  "d1_close": 41.0,
+  "d1_volume": 4937560,
+  "calendar_listing_date": "2021-07-21",
+  "n_bars": 8
+ },
+ "JZXN": {
+  "symbol": "JZXN",
+  "first_trade_date": "2021-05-18",
+  "d1_open": 45.0,
+  "d1_close": 18.62,
+  "d1_volume": 592291,
+  "calendar_listing_date": "2021-05-18",
+  "n_bars": 9
+ },
+ "JZ": {
+  "symbol": "JZ",
+  "first_trade_date": "2022-08-26",
+  "d1_open": 126.0,
+  "d1_close": 18.75,
+  "d1_volume": 5202584,
+  "calendar_listing_date": "2022-08-26",
+  "n_bars": 6
+ },
+ "BLSM": {
+  "symbol": "BLSM",
+  "first_trade_date": "2026-08-07",
+  "d1_open": 15.75,
+  "d1_close": 16.0,
+  "d1_volume": 1757634,
+  "calendar_listing_date": "2026-08-07",
+  "n_bars": 7
+ },
+ "ELWS": {
+  "symbol": "ELWS",
+  "first_trade_date": "2023-07-25",
+  "d1_open": 3.5,
+  "d1_close": 3.6,
+  "d1_volume": 3178862,
+  "calendar_listing_date": "2023-07-25",
+  "n_bars": 9
+ },
+ "SHC": {
+  "symbol": "SHC",
+  "first_trade_date": "2020-11-20",
+  "d1_open": 27.0,
+  "d1_close": 25.1,
+  "d1_volume": 19131652,
+  "calendar_listing_date": "2020-11-20",
+  "n_bars": 6
+ },
+ "ETNB": {
+  "symbol": "ETNB",
+  "first_trade_date": "2019-11-11",
+  "d1_open": 20.0,
+  "d1_close": 20.8,
+  "d1_volume": 244254,
+  "calendar_listing_date": "2019-11-11",
+  "n_bars": 9
+ }
+}
