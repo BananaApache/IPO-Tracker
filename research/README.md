@@ -45,7 +45,8 @@ Measured **2026-09-08**:
 | **Wikipedia pageviews** | dense attention | keyless, monthly, absolute counts, **2015-07-01 → today** | **in use, free** |
 | **Finnhub IPO calendar** | Tier A census | 2019-01 → today, month-windowed, full documented field set | **in use** |
 | **Finnhub `stock/candle`** | price history | `HTTP 403 You don't have access to this resource` | **gated** |
-| **Polygon daily aggs** | price history | works, but a **rolling 730-day** entitlement — older listings return `NOT_AUTHORIZED`, not an empty series | **in use, truncated** |
+| **Tiingo daily** | price history | as-traded daily bars for **all 39** Tier B tickers back to 2019; agrees with Polygon to **$0.0000** over 1,131 overlapping sessions | **in use, primary** |
+| **Polygon daily aggs** | price history | works, but a **rolling 730-day** entitlement — older listings return `NOT_AUTHORIZED`, not an empty series | **in use, cross-check** |
 | **NYT Article Search** | primary news signal | works and reaches 2019. Count is at `response.metadata.hits` | **in use** |
 | **GNews** | corroborating news | `totalArticles` returned, but *articles stripped*: "historical data beyond 30 days is only available on paid plans" | **dropped** |
 | **twitterapis.com** | social | no total-count field; paging runs newest-first. Date operators degrade badly on older windows | **in use, two fixed windows** |
@@ -688,6 +689,133 @@ Of the 11 companies with both windows complete, **11 of 11 rose**, sign test
 Three companies had *exactly zero* pre-filing Reddit posts, and unlike the
 partial sweeps these are real zeros — the sweep reached back past the window.
 
+### Underpricing: a better-posed question, still underpowered
+
+`collect/underpricing.py`. **Underpricing** — `(day-1 close − offer price) /
+offer price` — is a far better dependent variable than the 30/90-day returns
+elsewhere in this module: measured on day one so there is no window to choose,
+and with decades of literature giving a benchmark (~15–20% in the US).
+
+The design follows **Da, Engelberg & Gao (2011, *Journal of Finance*)**, who
+found Google search volume predicts IPO first-day returns. Two choices come
+from that paper:
+
+* **Attention is measured strictly before the price is set.** The offer price is
+  fixed the evening before the first trade, so the event window is days −30 to
+  −1. Monthly pageviews cannot express that, so this uses **daily** granularity.
+* **Abnormal attention, not level.** Raw views are dominated by fame. The
+  regressor is the event window's mean daily views over the company's *own*
+  baseline (days −120 to −31).
+
+**Why it cannot be scaled to the census, which was the original hope.** Wikipedia
+coverage is the wall: **0 of 20** randomly sampled recent IPOs have an article,
+because Wikipedia's notability bar excludes most issuers. Google's search index
+covers *every string*, including "Galaxy Payroll Group Ltd"; Wikipedia covers
+notable subjects. That asymmetry is precisely why Da et al.'s design worked and
+why this one is confined to the hand-picked watchlist. Search-based resolution
+does not rescue it — it returns confidently wrong entities (SharonAI → *OpenAI*,
+BKV Corp → *Devon Energy*, Legence → *VF Corporation*).
+
+Prices come from **Tiingo**, which covers all 39 Tier B companies back to 2019
+and agrees with Polygon to **$0.0000** across 1,131 overlapping sessions. Three
+companies are excluded for having no pre-IPO baseline — Peloton, Astera Labs and
+Tempus AI had Wikipedia articles created at or after their IPO, so no abnormal
+ratio can be formed. That leaves **n = 35**.
+
+#### The effect attenuated, and that is the finding
+
+This section first ran at **n = 12**, when Polygon's 730-day wall was the binding
+constraint. Tiingo took it to n = 35 and the estimate nearly halved:
+
+| n | ρ | 95% CI | threshold |
+|---|---|---|---|
+| 12 | +0.517 | [−0.080, +0.841] | 0.576 |
+| **35** | **+0.282** | [−0.057, +0.562] | 0.333 |
+
+That is the most valuable thing this study produced, and it is a warning rather
+than a result. The n=12 estimate was **inflated by small-sample noise** — the
+most common way quantitative research goes wrong. Written up at n=12 with its
+"ρ ≈ 0.52, just short of significance" framing, it would have been a false
+positive dressed as near-evidence.
+
+Full results at n = 35:
+
+| relationship | Spearman ρ | 95% CI |
+|---|---|---|
+| abnormal attention → underpricing | **+0.282** | [−0.057, +0.562] |
+| abnormal attention → opening pop | +0.315 | [−0.021, +0.587] |
+| **raw** event views → underpricing | +0.219 | [−0.123, +0.515] |
+| log(deal size) → underpricing | +0.111 | [−0.217, +0.416] |
+
+Three observations survive the expansion:
+
+1. **The direction is stable.** All three attention measures stay positive.
+   Nothing reversed sign the way the 30/60/90-day returns in the earlier section
+   did.
+2. **The abnormal construction's advantage shrank, and an earlier revision of
+   this README overstated it.** At n=12 abnormal beat raw 0.517 vs 0.105 — a 5×
+   gap described here as "earning its keep". At n=35 it is 0.282 vs 0.219. That
+   5× was also small-sample noise.
+3. **The smaller estimate is the more credible one.** ρ ≈ 0.28 sits squarely in
+   the published range for attention effects (0.1–0.3); 0.52 was implausibly
+   large. Deal size correlates at only +0.11, so attention is not merely
+   proxying for company size.
+
+Median underpricing in this sample is **31.2%**, well above the US long-run
+average — the watchlist bias again, since it is 68% billion-dollar deals.
+
+**Status: a positive relationship of roughly literature-typical size, not
+statistically distinguishable from zero at n = 35.** Detecting ρ = 0.28 at 80%
+power needs **n ≈ 97**. Prices are no longer the constraint; the binding number
+is how many Wikipedia-notable US listings can be curated, and expanding the
+hand-assembled watchlist from 44 toward ~120 is the one move that would settle
+it.
+
+#### The free-tier price hunt, and why it is over
+
+The n=12 ceiling is set entirely by the price feed, so four providers were tried
+for a historical end-of-day close. All four fail, for four *different* reasons —
+worth recording so none of them is retried.
+
+| provider | free-tier verdict | net new companies |
+|---|---|---|
+| **Polygon** | 730-day entitlement, **account-wide** — `/v1/open-close`, `/v2/aggs/grouped` and `/v3/trades` all return `NOT_AUTHORIZED` for 2019 dates | baseline (12) |
+| **Finnhub** | `/stock/candle` returns `403` on this key | 0 |
+| **FMP** | Endpoint path is right (`/stable/historical-price-eod/full`; the legacy `/api/v3/historical-price-full` is closed to accounts created after 2025-08-31) and history reaches **5 years** — better than Polygon. But there is a **symbol allowlist**: only 8 of 39 watchlist tickers resolve (COIN, HOOD, PINS, PLTR, RBLX, RIVN, UBER, ZM), and 7 of those listed before the 5-year floor. The block is symbol-level across the whole API — even `/quote` refuses `RDDT` while `UBER` works on every endpoint | **+1** (Rivian) |
+| **Alpha Vantage** | **No symbol restriction** — every ticker resolves. But `outputsize=full` and `TIME_SERIES_INTRADAY`'s historical `month` parameter are both premium, `compact` returns only the last 100 days, and `TIME_SERIES_WEEKLY` — which *is* free and unlimited — **systematically omits the IPO's first trading week**. Verified on 6 companies across Wednesday, Thursday and Friday listings: Figma's weekly series starts 2025-08-08 and its first bar maps onto Polygon's Aug 4–8, with the actual listing days (Jul 31, Aug 1) absent | **0** |
+
+The demo key is worth a warning: `apikey=demo` *does* serve
+`outputsize=full` (6,752 bars for IBM back to 1999), so a probe against `demo`
+suggests the free tier works when it does not. Always verify entitlements with
+the real key.
+
+**Tiingo resolved it, on the free tier.** Documented, keyed, no symbol
+restriction, and one call per ticker covers the whole window: 39 of 39 companies
+collected back to 2019-03-29, zero failures. It satisfies the same §7 bar as
+Polygon and Finnhub — a provider granting the use with an API key.
+
+A fifth option was investigated and **rejected on licensing**: Dukascopy, via
+`dukascopy-node`. Its own client library states it is *"not affiliated,
+endorsed, or vetted by Dukascopy Bank SA"*, the binary `.bi5` feed needs no key
+and grants no permission, and the format had to be reverse-engineered. That is
+the same ground Yahoo Finance was rejected on in `docs/sources.md`. It also
+covered only 6 of 39 tickers and quotes **CFD** prices rather than exchange
+closes, which is the wrong number for underpricing regardless of licence.
+
+One trap worth recording: Alpha Vantage's `apikey=demo` *does* serve
+`outputsize=full` (6,752 IBM bars back to 1999), so probing with the demo key
+makes the free tier look far more capable than it is. Always verify entitlements
+with the real key.
+
+**What would settle it is not a better attention measure.** It is a price feed
+with real history: `census.parquet` already holds **705 priced IPOs with a clean
+single offer price** inside the current entitlement, of which **392 are
+operating companies** once SPACs are excluded (they price at $10 with ~0% pop by
+construction). At n=392 the detectable effect drops from 0.53 to **0.10** —
+inside literature range. The blocker is that Polygon's 730-day wall is
+account-wide, not per-endpoint: `/v1/open-close`, `/v2/aggs/grouped` and
+`/v3/trades` all return `NOT_AUTHORIZED` for older dates.
+
 ### Three instruments, one direction
 
 | instrument | usable | rose | test |
@@ -762,9 +890,11 @@ Read these before quoting any number from this module.
    not interpolated, backfilled, zero-filled, or replaced with a private
    valuation series. The blank is a fact about the company, not missing data.
 
-4. **Price history reaches back only two years.** 27 of 39 Tier B rows have no
-   price panel at all, and four of the remaining 12 have fewer than 90 trading
-   sessions. This is a provider entitlement, not a property of the companies.
+4. **Price coverage is now complete; four companies still lack a full 90-day
+   window.** Tiingo supplies all 39 Tier B companies back to 2019, superseding
+   Polygon's 730-day limit. Four of the most recent listings have fewer than 90
+   trading sessions simply because they have not traded that long yet, and no
+   return is imputed for them.
 
 5. **Social data covers two fixed windows, not a time series.** There is no
    monthly social panel; `collect/twitter.py` is complete but unrun. Figure 1's
@@ -835,6 +965,8 @@ research/
     twitter.py          X monthly density; needs --budget, --recompute is free
     twitter_windows.py  X counts in two fixed windows; fits a small budget
     reddit_windows.py   Reddit counts, bucketed client-side (no date-range API)
+    underpricing.py     daily pageviews + offer price -> first-day underpricing
+    tiingo_prices.py    licensed daily bars for all 39, back to 2019
     edgar_events.py     DRS / Form D / comment letters / withdrawals -- free, offline
     wikipedia.py        pageviews: keyless, dense, 2015->today
     prices.py           Polygon daily bars + first-trade reconciliation
@@ -848,6 +980,8 @@ research/
     wikipedia_monthly.parquet / wikipedia_resolution.csv
     twitter_windows.parquet                        before/after X counts
     reddit_windows.parquet                         before/after Reddit counts
+    underpricing.parquet                           attention vs first-day pop
+    tiingo_daily.parquet                           daily bars, all 39 companies
     nyt_monthly_counts.parquet
     twitter_monthly_counts.parquet
     prices_daily.parquet

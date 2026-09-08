@@ -466,3 +466,116 @@ class TestRedditWindows:
         assert mentions({"title": "IPO news", "text": "about nubank"},
                         ["Nu Holdings", "Nubank"])
         assert not mentions({"title": "Anthropic IPO rumour", "text": ""}, ["Figma"])
+
+
+class TestUnderpricing:
+    """Attention must be measured before the offer price is set."""
+
+    def test_event_window_ends_before_the_listing_day(self):
+        """The offer price is fixed the evening before the first trade, so any
+        day from the listing onwards is contaminated by the outcome."""
+        from datetime import date, timedelta
+
+        from research.collect.underpricing import BASELINE_END, BASELINE_START, EVENT_DAYS
+        listing = date(2025, 7, 31)
+        event = [listing - timedelta(days=d) for d in range(1, EVENT_DAYS + 1)]
+        assert max(event) == listing - timedelta(days=1)
+        assert listing not in event
+
+        baseline = [listing - timedelta(days=d)
+                    for d in range(BASELINE_END, BASELINE_START + 1)]
+        # The two windows must not overlap, or the ratio is partly self-referential.
+        assert not (set(event) & set(baseline))
+        assert max(baseline) < min(event)
+
+    def test_underpricing_and_pop_formulas(self):
+        offer, d1_open, d1_close = 33.0, 85.0, 115.5
+        assert round(d1_close / offer - 1, 4) == 2.5      # Figma: +250%
+        assert round(d1_open / offer - 1, 4) == 1.5758    # opening pop
+
+    def test_abnormal_attention_normalises_away_scale(self):
+        """Two companies with identical relative run-ups must score the same
+        however famous they are -- that is the whole point of the ratio."""
+        famous = {"event": 6000.0, "base": 3000.0}
+        obscure = {"event": 20.0, "base": 10.0}
+        assert (famous["event"] / famous["base"]
+                == obscure["event"] / obscure["base"] == 2.0)
+
+    def test_sparse_coverage_yields_missing_not_a_ratio(self):
+        import pandas as pd
+
+        from research.collect.underpricing import UNDERPRICING_PARQUET
+        if not UNDERPRICING_PARQUET.exists():
+            import pytest
+            pytest.skip("underpricing.parquet not built yet")
+        df = pd.read_parquet(UNDERPRICING_PARQUET)
+        # Where a ratio exists, both windows must have had real coverage.
+        got = df[df["abnormal_attention"].notna()]
+        assert (got["event_days"] >= 24).all()      # 80% of a 30-day window
+        assert (got["baseline_days"] >= 30).all()
+
+
+class TestTiingoPrices:
+    """The licensed feed that removed the 730-day price ceiling."""
+
+    def test_it_covers_every_tier_b_company(self):
+        import pandas as pd
+
+        from research.collect.tiingo_prices import TIINGO_PARQUET
+        if not TIINGO_PARQUET.exists():
+            import pytest
+            pytest.skip("tiingo_daily.parquet not built yet")
+        ti = pd.read_parquet(TIINGO_PARQUET)
+        wl = pd.read_csv("research/data/watchlist.csv")
+        want = wl[wl["tier_b"] & wl["finnhub_symbol"].notna()]["company"]
+        missing = set(want) - set(ti["company"])
+        assert not missing, f"no Tiingo bars for: {sorted(missing)}"
+
+    def test_it_agrees_with_polygon_exactly(self):
+        """Two licensed feeds must agree on an as-traded price.
+
+        A disagreement would mean one is adjusting, and a published underpricing
+        figure would then depend on which feed produced it. Measured at $0.0000
+        across 1,131 overlapping sessions.
+        """
+        import pandas as pd
+
+        from research.collect.paths import DATA, PRICES_PARQUET
+        from research.collect.tiingo_prices import TIINGO_PARQUET
+        if not (TIINGO_PARQUET.exists() and PRICES_PARQUET.exists()):
+            import pytest
+            pytest.skip("both price panels required")
+        m = pd.read_parquet(PRICES_PARQUET).merge(
+            pd.read_parquet(TIINGO_PARQUET), on=["company", "day"],
+            suffixes=("_poly", "_tiingo"))
+        assert len(m) > 500, f"only {len(m)} overlapping sessions to compare"
+        assert (m["open_poly"] - m["open_tiingo"]).abs().max() < 0.02
+        assert (m["close_poly"] - m["close_tiingo"]).abs().max() < 0.02
+
+    def test_raw_not_adjusted_prices_are_used(self):
+        """An adjusted series is rewritten retroactively by a split, which would
+        make a published underpricing figure irreproducible."""
+        import pandas as pd
+
+        from research.collect.tiingo_prices import TIINGO_PARQUET
+        if not TIINGO_PARQUET.exists():
+            import pytest
+            pytest.skip("tiingo_daily.parquet not built yet")
+        ti = pd.read_parquet(TIINGO_PARQUET)
+        # Both are retained so the choice is inspectable, and they differ for at
+        # least one company -- otherwise this test proves nothing.
+        assert {"open", "close", "adjOpen", "adjClose"} <= set(ti.columns)
+
+    def test_underpricing_sample_grew_and_records_missing_baselines(self):
+        import pandas as pd
+
+        from research.collect.underpricing import UNDERPRICING_PARQUET
+        if not UNDERPRICING_PARQUET.exists():
+            import pytest
+            pytest.skip("underpricing.parquet not built yet")
+        up = pd.read_parquet(UNDERPRICING_PARQUET)
+        assert len(up) > 12, "Tiingo should have lifted the sample past Polygon's 12"
+        # Companies whose Wikipedia article postdates the IPO have no baseline,
+        # and must be null rather than assigned a ratio from a few days.
+        no_base = up[up["abnormal_attention"].isna()]
+        assert (no_base["baseline_days"] < 30).all()

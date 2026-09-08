@@ -70,6 +70,7 @@ FIG_RELATIVE = FIGURES / "relative_time.parquet"
 FIG_POST = FIGURES / "post_listing.parquet"
 FIG_WINDOWS = FIGURES / "twitter_windows.parquet"
 FIG_REDDIT_WINDOWS = FIGURES / "reddit_windows.parquet"
+FIG_UNDERPRICING = FIGURES / "underpricing.parquet"
 FIG_MANIFEST = FIGURES / "manifest.json"
 
 
@@ -509,12 +510,24 @@ def build_reddit_windows_frame() -> pd.DataFrame:
     return out
 
 
+def build_underpricing_frame() -> pd.DataFrame:
+    """Figure 5: abnormal pre-listing attention against first-day underpricing."""
+    from research.collect.underpricing import UNDERPRICING_PARQUET
+
+    if not UNDERPRICING_PARQUET.exists():
+        return pd.DataFrame()
+    df = pd.read_parquet(UNDERPRICING_PARQUET)
+    df.to_parquet(FIG_UNDERPRICING, index=False)
+    return df
+
+
 def build_frames() -> dict[str, int]:
     """Build every figure frame and record what went into them."""
     ensure_dirs()
     counts = {
         "twitter_windows": len(build_windows_frame()),
         "reddit_windows": len(build_reddit_windows_frame()),
+        "underpricing": len(build_underpricing_frame()),
         "cohort_comparison": len(build_cohort_frame()),
         "company_panels": len(build_panel_frame()),
         "relative_time": len(build_relative_frame()),
@@ -943,5 +956,92 @@ def plot_windows(source: str = "twitter"):
                  f"query — not a count of all mentions.")
     fig.text(0.01, -0.13, "\n".join(lines),
              fontsize=8, color=INK_SOFT, ha="left", linespacing=1.5)
+    fig.tight_layout()
+    return fig
+
+
+def plot_underpricing():
+    """Figure 5. Abnormal pre-listing attention vs first-day underpricing.
+
+    One series, so no legend: the title names it and the points are directly
+    labelled. Attention is on a log axis because it is a ratio spanning 0.9x to
+    5.2x, and a linear axis would compress ten of the twelve points into a
+    third of the width.
+
+    The line is drawn only if the rank correlation survives -- and it is drawn
+    as a rank-order guide, not a fitted regression, because the Pearson
+    coefficient here is near zero while Spearman is moderate: the relationship
+    is monotonic but not linear, and a least-squares line would misrepresent it.
+    """
+    import numpy as np
+
+    _style()
+    df = pd.read_parquet(FIG_UNDERPRICING).dropna(
+        subset=["abnormal_attention", "underpricing"])
+    if df.empty:
+        raise SystemExit("no underpricing rows; run collect.underpricing first.")
+
+    fig, ax = plt.subplots(figsize=(9, 5.8))
+    x = df["abnormal_attention"].astype(float)
+    y = df["underpricing"].astype(float) * 100
+
+    ax.axhline(0, color=INK_SOFT, linewidth=1, zorder=1)
+    ax.scatter(x, y, s=90, color=BLUE, alpha=0.85, edgecolor=SURFACE,
+               linewidth=1.2, zorder=3)
+
+    # Labels are nudged apart and flipped to the left near the right edge.
+    # Without this Fervo and Firefly overprint each other and CoreWeave's label
+    # runs off the axis.
+    span = float(y.max() - y.min()) or 1.0
+    pts = sorted(zip(x.tolist(), y.tolist(), df["company"].tolist()),
+                 key=lambda t: t[1])
+    x_hi = float(x.max())
+    last_y = None
+    for px_, py, name in pts:
+        dy = 0.0
+        if last_y is not None and abs(py - last_y) < span * 0.035:
+            dy = span * 0.035 - (py - last_y)
+        right_edge = px_ > x_hi * 0.75
+        ax.annotate(f"{name[:20]}  " if right_edge else f"  {name[:20]}",
+                    (px_, py), xytext=(0, dy * 0.9), textcoords="offset points",
+                    fontsize=7.5, color=INK, va="center",
+                    ha="right" if right_edge else "left", zorder=4)
+        last_y = py + dy
+
+    rho = x.rank().corr(y.rank())
+    pearson = x.corr(y)
+    n = len(x)
+    z, se = np.arctanh(rho), 1 / np.sqrt(n - 3)
+    lo, hi = np.tanh(z - 1.96 * se), np.tanh(z + 1.96 * se)
+
+    ax.set_xscale("log")
+    ax.set_xticks([1, 1.5, 2, 3, 5])
+    ax.get_xaxis().set_major_formatter(matplotlib.ticker.ScalarFormatter())
+    # A log axis draws its own minor labels ("4 x 10^0") alongside the explicit
+    # ticks, which reads as two different scales on one axis.
+    ax.get_xaxis().set_minor_formatter(matplotlib.ticker.NullFormatter())
+    # Head-room on the right so the rightmost label has somewhere to sit.
+    ax.set_xlim(float(x.min()) * 0.82, float(x.max()) * 1.18)
+    ax.set_xlabel("abnormal attention: mean daily Wikipedia views in the 30 days "
+                  "before listing,\ndivided by the same company's days -120 to -31")
+    ax.set_ylabel("first-day underpricing (%)")
+    ax.set_title("Figure 5 — pre-listing attention vs IPO underpricing", loc="left")
+    ax.yaxis.grid(True)
+    ax.set_axisbelow(True)
+
+    caption = [
+        f"n={n}. Spearman rho = {rho:+.3f}, 95% CI "
+        f"[{lo:+.3f}, {hi:+.3f}]"
+        + ("  — the interval spans zero." if lo < 0 < hi else "."),
+        f"Pearson r = {pearson:+.3f}. The gap between the two says the relation is "
+        f"monotonic but not linear, so no fitted line is drawn.",
+        "Attention is measured strictly BEFORE the offer price is set (the "
+        "evening before the first trade), so it cannot be an effect of the "
+        "outcome.",
+        f"At n={n} only |r| >= {1.96 / np.sqrt(n - 2 + 1.96 ** 2):.2f} could reach "
+        f"significance. This is underpowered by construction — see the README.",
+    ]
+    fig.text(0.01, -0.19, "\n".join(caption), fontsize=8, color=INK_SOFT,
+             ha="left", linespacing=1.5)
     fig.tight_layout()
     return fig
