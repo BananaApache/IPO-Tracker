@@ -1,0 +1,147 @@
+{
+ "from": "2009-08-01",
+ "to": "2009-08-31",
+ "fetched_at": "2026-09-09T01:22:25.480910+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2009-08-18",
+   "exchange": null,
+   "name": "AEI",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-08-17",
+   "exchange": null,
+   "name": "HEALTHPORT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-08-13",
+   "exchange": null,
+   "name": "MIRION TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-08-12",
+   "exchange": null,
+   "name": "CLOUD PEAK ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-08-12",
+   "exchange": "New York Stock Exchange",
+   "name": "STARWOOD PROPERTY TRUST, INC.",
+   "numberOfShares": 40500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "STWD",
+   "totalSharesValue": 810000000
+  },
+  {
+   "date": "2009-08-12",
+   "exchange": "New York Stock Exchange",
+   "name": "CHANGE HEALTHCARE HOLDINGS, INC.",
+   "numberOfShares": 23700000,
+   "price": "15.50",
+   "status": "priced",
+   "symbol": "EM",
+   "totalSharesValue": 367350000
+  },
+  {
+   "date": "2009-08-11",
+   "exchange": "Nasdaq National Market",
+   "name": "CUMBERLAND PHARMACEUTICALS INC",
+   "numberOfShares": 5000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "CPIX",
+   "totalSharesValue": 85000000
+  },
+  {
+   "date": "2009-08-10",
+   "exchange": null,
+   "name": "INFRASTRUX GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-08-10",
+   "exchange": null,
+   "name": "DR. TATTOFF, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-08-10",
+   "exchange": null,
+   "name": "SUBAYE.COM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-08-10",
+   "exchange": null,
+   "name": "ASGAARD MEDIA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 31250000
+  },
+  {
+   "date": "2009-08-07",
+   "exchange": null,
+   "name": "PLACETORENT.COM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-08-06",
+   "exchange": "Nasdaq National Market",
+   "name": "CDC SOFTWARE CORP",
+   "numberOfShares": 4800000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "CDCS",
+   "totalSharesValue": 57600000
+  },
+  {
+   "date": "2009-08-06",
+   "exchange": "Nasdaq National Market",
+   "name": "AVAGO TECHNOLOGIES LTD",
+   "numberOfShares": 43200000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "AVGO",
+   "totalSharesValue": 648000000
+  }
+ ]
+}

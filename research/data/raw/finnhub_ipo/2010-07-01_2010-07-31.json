@@ -1,0 +1,267 @@
+{
+ "from": "2010-07-01",
+ "to": "2010-07-31",
+ "fetched_at": "2026-09-09T01:22:47.462035+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2010-07-29",
+   "exchange": null,
+   "name": "SIGE SEMICONDUCTOR INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-07-29",
+   "exchange": "New York Stock Exchange",
+   "name": "MOLYCORP, INC.",
+   "numberOfShares": 28125000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MCP",
+   "totalSharesValue": 393750000
+  },
+  {
+   "date": "2010-07-29",
+   "exchange": "New York Stock Exchange",
+   "name": "ENVESTNET, INC.",
+   "numberOfShares": 7000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "ENV",
+   "totalSharesValue": 63000000
+  },
+  {
+   "date": "2010-07-29",
+   "exchange": "New York Stock Exchange",
+   "name": "WILLIAMS PARTNERS L.P.",
+   "numberOfShares": 21250000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "CHKM",
+   "totalSharesValue": 446250000
+  },
+  {
+   "date": "2010-07-29",
+   "exchange": null,
+   "name": "BIOCANCELL THERAPEUTICS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 6233945.79
+  },
+  {
+   "date": "2010-07-27",
+   "exchange": null,
+   "name": "UCI INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-07-27",
+   "exchange": null,
+   "name": "LISBOA LEISURE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 32000
+  },
+  {
+   "date": "2010-07-26",
+   "exchange": null,
+   "name": "BULK STORAGE SOFTWARE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 313270
+  },
+  {
+   "date": "2010-07-22",
+   "exchange": "New York Stock Exchange",
+   "name": "AMERESCO, INC.",
+   "numberOfShares": 8696820,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AMRC",
+   "totalSharesValue": 86968200
+  },
+  {
+   "date": "2010-07-22",
+   "exchange": "New York Stock Exchange",
+   "name": "GREEN DOT CORP",
+   "numberOfShares": 4558050,
+   "price": "36.00",
+   "status": "priced",
+   "symbol": "GDOT",
+   "totalSharesValue": 164089800
+  },
+  {
+   "date": "2010-07-22",
+   "exchange": null,
+   "name": "GO GREEN DIRECTORIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 102000
+  },
+  {
+   "date": "2010-07-21",
+   "exchange": "New York Stock Exchange",
+   "name": "CAMELOT INFORMATION SYSTEMS INC.",
+   "numberOfShares": 13333334,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "CIS",
+   "totalSharesValue": 146666674
+  },
+  {
+   "date": "2010-07-20",
+   "exchange": "Nasdaq National Market",
+   "name": "BIQI INTERNATIONAL HOLDINGS CORP",
+   "numberOfShares": 2000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "OINK",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2010-07-16",
+   "exchange": "Nasdaq National Market",
+   "name": "QLIK TECHNOLOGIES INC",
+   "numberOfShares": 11200000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "QLIK",
+   "totalSharesValue": 112000000
+  },
+  {
+   "date": "2010-07-16",
+   "exchange": "New York Stock Exchange",
+   "name": "REALD INC.",
+   "numberOfShares": 12500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "RLD",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2010-07-16",
+   "exchange": null,
+   "name": "OICCO ACQUISITION III, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 250000
+  },
+  {
+   "date": "2010-07-15",
+   "exchange": "Nasdaq National Market",
+   "name": "SMART TECHNOLOGIES INC.",
+   "numberOfShares": 38830000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "SMT",
+   "totalSharesValue": 660110000
+  },
+  {
+   "date": "2010-07-14",
+   "exchange": "New York Stock Exchange",
+   "name": "WESTMORELAND RESOURCE PARTNERS, LP",
+   "numberOfShares": 8750000,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "OXF",
+   "totalSharesValue": 161875000
+  },
+  {
+   "date": "2010-07-13",
+   "exchange": null,
+   "name": "PLANDEL RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2010-07-12",
+   "exchange": null,
+   "name": "SOLARFLEX CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2010-07-09",
+   "exchange": null,
+   "name": "GURU HEALTH INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000
+  },
+  {
+   "date": "2010-07-06",
+   "exchange": null,
+   "name": "SECURED RESOURCES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-07-01",
+   "exchange": null,
+   "name": "CLS CAPITAL GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-07-01",
+   "exchange": "Nasdaq National Market",
+   "name": "AUTONAVI HOLDINGS LTD",
+   "numberOfShares": 8625000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "AMAP",
+   "totalSharesValue": 107812500
+  },
+  {
+   "date": "2010-07-01",
+   "exchange": "New York Stock Exchange",
+   "name": "ENERGY CORP OF AMERICA",
+   "numberOfShares": 8802500,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "ECT",
+   "totalSharesValue": 176050000
+  },
+  {
+   "date": "2010-07-01",
+   "exchange": null,
+   "name": "DEMAND POOLING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 510500
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "from": "2018-05-01",
+ "to": "2018-05-31",
+ "fetched_at": "2026-09-09T01:25:55.561619+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2018-05-31",
+   "exchange": "NASDAQ Capital",
+   "name": "HANCOCK JAFFE LABORATORIES, INC.",
+   "numberOfShares": 1500000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "HJLI",
+   "totalSharesValue": 7500000
+  },
+  {
+   "date": "2018-05-30",
+   "exchange": "NASDAQ Global Select",
+   "name": "TRIDENT ACQUISITIONS CORP.",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TDACU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2018-05-25",
+   "exchange": null,
+   "name": "SOULCYCLE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-05-24",
+   "exchange": "NASDAQ Global Select",
+   "name": "KINIKSA PHARMACEUTICALS, LTD.",
+   "numberOfShares": 8477777,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "KNSA",
+   "totalSharesValue": 152599986
+  },
+  {
+   "date": "2018-05-24",
+   "exchange": "NASDAQ Global Select",
+   "name": "SCHOLAR ROCK HOLDING CORP",
+   "numberOfShares": 5360000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "SRRK",
+   "totalSharesValue": 75040000
+  },
+  {
+   "date": "2018-05-24",
+   "exchange": "NASDAQ Global Select",
+   "name": "GREENSKY, INC.",
+   "numberOfShares": 38000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "GSKY",
+   "totalSharesValue": 874000000
+  },
+  {
+   "date": "2018-05-24",
+   "exchange": "NASDAQ Capital",
+   "name": "CLPS INC",
+   "numberOfShares": 2000000,
+   "price": "5.25",
+   "status": "priced",
+   "symbol": "CLPS",
+   "totalSharesValue": 10500000
+  },
+  {
+   "date": "2018-05-23",
+   "exchange": "NASDAQ Global Select",
+   "name": "EVO PAYMENTS, INC.",
+   "numberOfShares": 14000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "EVOP",
+   "totalSharesValue": 224000000
+  },
+  {
+   "date": "2018-05-22",
+   "exchange": null,
+   "name": "MARKHAM WOODS PRESS PUBLISHING COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2018-05-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "PLURALSIGHT, INC.",
+   "numberOfShares": 20700000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "PS",
+   "totalSharesValue": 310500000
+  },
+  {
+   "date": "2018-05-16",
+   "exchange": null,
+   "name": "ABPRO CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-05-16",
+   "exchange": "NASDAQ Capital",
+   "name": "VECTOIQ ACQUISITION CORP.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VTIQU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2018-05-15",
+   "exchange": "NASDAQ Capital",
+   "name": "TRINITY MERGER CORP.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TMCXU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2018-05-15",
+   "exchange": null,
+   "name": "URBAN-GRO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4157936
+  },
+  {
+   "date": "2018-05-14",
+   "exchange": null,
+   "name": "KLEOPATRA HOLDINGS 2 S.C.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-05-14",
+   "exchange": null,
+   "name": "GADSDEN GROWTH PROPERTIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-05-14",
+   "exchange": null,
+   "name": "FMC GLOBALSAT HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3049960
+  },
+  {
+   "date": "2018-05-11",
+   "exchange": "NYSE",
+   "name": "HUYA INC.",
+   "numberOfShares": 15000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "HUYA",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2018-05-10",
+   "exchange": "NYSE",
+   "name": "EQUITABLE HOLDINGS, INC.",
+   "numberOfShares": 137250000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "EQH",
+   "totalSharesValue": 2745000000
+  },
+  {
+   "date": "2018-05-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "ORIGIN BANCORP, INC.",
+   "numberOfShares": 3636176,
+   "price": "34.00",
+   "status": "priced",
+   "symbol": "OBNK",
+   "totalSharesValue": 123629984
+  },
+  {
+   "date": "2018-05-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "EVELO BIOSCIENCES, INC.",
+   "numberOfShares": 5312500,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "EVLO",
+   "totalSharesValue": 85000000
+  },
+  {
+   "date": "2018-05-04",
+   "exchange": null,
+   "name": "CORPORATE COACHES,INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-05-04",
+   "exchange": "NASDAQ Global Select",
+   "name": "SPIRIT OF TEXAS BANCSHARES, INC.",
+   "numberOfShares": 2000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "STXB",
+   "totalSharesValue": 42000000
+  },
+  {
+   "date": "2018-05-04",
+   "exchange": "NASDAQ Global Select",
+   "name": "CONSTRUCTION PARTNERS, INC.",
+   "numberOfShares": 11250000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "ROAD",
+   "totalSharesValue": 135000000
+  },
+  {
+   "date": "2018-05-04",
+   "exchange": "NASDAQ Global Select",
+   "name": "CARBON BLACK, INC.",
+   "numberOfShares": 8000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "CBLK",
+   "totalSharesValue": 152000000
+  },
+  {
+   "date": "2018-05-04",
+   "exchange": "NASDAQ Global Select",
+   "name": "BAYCOM CORP",
+   "numberOfShares": 2851218,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "BCML",
+   "totalSharesValue": 62726796
+  },
+  {
+   "date": "2018-05-04",
+   "exchange": "NASDAQ Global",
+   "name": "ASLAN PHARMACEUTICALS LTD",
+   "numberOfShares": 6000000,
+   "price": "7.03",
+   "status": "priced",
+   "symbol": "ASLN",
+   "totalSharesValue": 42180000
+  },
+  {
+   "date": "2018-05-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "UNITY BIOTECHNOLOGY, INC.",
+   "numberOfShares": 5000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "UBX",
+   "totalSharesValue": 85000000
+  },
+  {
+   "date": "2018-05-03",
+   "exchange": "NYSE",
+   "name": "INSPIRE MEDICAL SYSTEMS, INC.",
+   "numberOfShares": 6750000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "INSP",
+   "totalSharesValue": 108000000
+  },
+  {
+   "date": "2018-05-03",
+   "exchange": "NASDAQ Capital",
+   "name": "EDISON NATION, INC.",
+   "numberOfShares": 1307120,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "XSPL",
+   "totalSharesValue": 6535600
+  },
+  {
+   "date": "2018-05-02",
+   "exchange": "NYSE",
+   "name": "PERMROCK ROYALTY TRUST",
+   "numberOfShares": 6250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "PRT",
+   "totalSharesValue": 106250000
+  },
+  {
+   "date": "2018-05-01",
+   "exchange": null,
+   "name": "ALZHEON, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-05-01",
+   "exchange": null,
+   "name": "ITERUM THERAPEUTICS PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ITRM",
+   "totalSharesValue": 79950000
+  }
+ ]
+}

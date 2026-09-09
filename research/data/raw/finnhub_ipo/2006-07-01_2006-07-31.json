@@ -1,0 +1,387 @@
+{
+ "from": "2006-07-01",
+ "to": "2006-07-31",
+ "fetched_at": "2026-09-09T01:21:11.417398+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2006-07-31",
+   "exchange": null,
+   "name": "SMART MOVE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-28",
+   "exchange": null,
+   "name": "PURE PLAY MEDIA HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-28",
+   "exchange": "Nasdaq National Market",
+   "name": "GEOMET, INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GMET",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2006-07-28",
+   "exchange": "Nasdaq National Market",
+   "name": "GEOMET, INC.",
+   "numberOfShares": 10250000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GMET",
+   "totalSharesValue": 102500000
+  },
+  {
+   "date": "2006-07-28",
+   "exchange": "New York Stock Exchange",
+   "name": "CRYSTAL RIVER CAPITAL, INC.",
+   "numberOfShares": 7500000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "CRZ",
+   "totalSharesValue": 172500000
+  },
+  {
+   "date": "2006-07-27",
+   "exchange": "OTCBB",
+   "name": "O2 SECURE WIRELESS, INC.",
+   "numberOfShares": 9599783,
+   "price": "1.50",
+   "status": "priced",
+   "symbol": "OTOW",
+   "totalSharesValue": 14399675
+  },
+  {
+   "date": "2006-07-26",
+   "exchange": "Nasdaq National Market",
+   "name": "CHART INDUSTRIES INC",
+   "numberOfShares": 12500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "GTLS",
+   "totalSharesValue": 187500000
+  },
+  {
+   "date": "2006-07-26",
+   "exchange": "OTCBB",
+   "name": "AFFINITY MEDIA INTERNATIONAL CORP.,",
+   "numberOfShares": 2750000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "AFMI",
+   "totalSharesValue": 16500000
+  },
+  {
+   "date": "2006-07-25",
+   "exchange": null,
+   "name": "RBS GLOBAL INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-25",
+   "exchange": null,
+   "name": "CHG HEALTHCARE SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-24",
+   "exchange": "Nasdaq Smallcap Market",
+   "name": "LIBERTY BANCORP INC",
+   "numberOfShares": 2794750,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LBCP",
+   "totalSharesValue": 27947500
+  },
+  {
+   "date": "2006-07-21",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "CLEVELAND BIOLABS INC",
+   "numberOfShares": 1700000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "CBLI",
+   "totalSharesValue": 10200000
+  },
+  {
+   "date": "2006-07-21",
+   "exchange": "New York Stock Exchange",
+   "name": "TARGA ENERGY LP",
+   "numberOfShares": 3600000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "AHD",
+   "totalSharesValue": 82800000
+  },
+  {
+   "date": "2006-07-21",
+   "exchange": "New York Stock Exchange",
+   "name": "ISHARES S&P GSCI COMMODITY-INDEXED TRUST",
+   "numberOfShares": 13949600,
+   "price": "50.00",
+   "status": "priced",
+   "symbol": "GSG",
+   "totalSharesValue": 697480000
+  },
+  {
+   "date": "2006-07-20",
+   "exchange": null,
+   "name": "PNY TECHNOLOGIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-20",
+   "exchange": "American Stock Exchange",
+   "name": "MILLENNIUM INVESTMENT & ACQUISITION CO INC.",
+   "numberOfShares": 7250000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "MQC.U",
+   "totalSharesValue": 58000000
+  },
+  {
+   "date": "2006-07-19",
+   "exchange": "American Stock Exchange",
+   "name": "ENERGY INFRASTRUCTURE ACQUISITION CORP.",
+   "numberOfShares": 20250000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EIIU",
+   "totalSharesValue": 202500000
+  },
+  {
+   "date": "2006-07-18",
+   "exchange": null,
+   "name": "SOURCE ATLANTIC, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-17",
+   "exchange": null,
+   "name": "ISHARES GS COMMODITY LIVESTOCK INDEXED TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-17",
+   "exchange": null,
+   "name": "ISHARES GS COMMODITY NON ENERGY INDEXED TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-17",
+   "exchange": null,
+   "name": "ISHARES GS COMMODITY LIGHT ENERGY INDEXED TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-17",
+   "exchange": null,
+   "name": "ISHARES GS COMMODITY INDUSTRIAL METALS INDEXED TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-14",
+   "exchange": null,
+   "name": "HERTZ CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-14",
+   "exchange": "Nasdaq National Market",
+   "name": "COWEN HOLDINGS, INC.",
+   "numberOfShares": 11217392,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "COWN",
+   "totalSharesValue": 179478272
+  },
+  {
+   "date": "2006-07-14",
+   "exchange": "New York Stock Exchange",
+   "name": "NUSTAR GP HOLDINGS, LLC",
+   "numberOfShares": 17250000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "VEH",
+   "totalSharesValue": 379500000
+  },
+  {
+   "date": "2006-07-13",
+   "exchange": "OTCBB",
+   "name": "ISRAEL GROWTH PARTNERS ACQUISITION CORP.",
+   "numberOfShares": 500000,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "IGPAU",
+   "totalSharesValue": 4250000
+  },
+  {
+   "date": "2006-07-12",
+   "exchange": null,
+   "name": "EAGLE AERO HOLDINGS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-12",
+   "exchange": null,
+   "name": "WINTEGRA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-12",
+   "exchange": null,
+   "name": "BERKLINE/BENCHCRAFT HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-12",
+   "exchange": "Nasdaq National Market",
+   "name": "ROMA FINANCIAL CORP",
+   "numberOfShares": 9819562,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ROMA",
+   "totalSharesValue": 98195620
+  },
+  {
+   "date": "2006-07-12",
+   "exchange": "New York Stock Exchange",
+   "name": "ALLIED WORLD ASSURANCE CO HOLDINGS, GMBH",
+   "numberOfShares": 8800000,
+   "price": "34.00",
+   "status": "priced",
+   "symbol": "AWH",
+   "totalSharesValue": 299200000
+  },
+  {
+   "date": "2006-07-11",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ASCENT SOLAR TECHNOLOGIES, INC.",
+   "numberOfShares": 3000000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "ASTIU",
+   "totalSharesValue": 16500000
+  },
+  {
+   "date": "2006-07-07",
+   "exchange": null,
+   "name": "QUATRX PHARMACEUTICALS CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-06",
+   "exchange": null,
+   "name": "RANGE OPERATING TEXAS, L.L.C.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-06",
+   "exchange": null,
+   "name": "RANGE OPERATING TEXAS, L.L.C.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-05",
+   "exchange": null,
+   "name": "STUDIO ZONE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-05",
+   "exchange": null,
+   "name": "CLEARWIRE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-07-03",
+   "exchange": null,
+   "name": "WNS (HOLDINGS) LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "WNS",
+   "totalSharesValue": 224054160
+  }
+ ]
+}

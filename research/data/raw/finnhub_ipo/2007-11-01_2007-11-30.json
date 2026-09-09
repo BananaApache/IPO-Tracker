@@ -1,0 +1,587 @@
+{
+ "from": "2007-11-01",
+ "to": "2007-11-30",
+ "fetched_at": "2026-09-09T01:21:43.430439+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2007-11-30",
+   "exchange": "OTCBB",
+   "name": "NATIONAL AMERICAN UNIVERSITY HOLDINGS, INC.",
+   "numberOfShares": 6250000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "CAELU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2007-11-29",
+   "exchange": null,
+   "name": "SHINECO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-21",
+   "exchange": null,
+   "name": "THERAPEUTIC SOLUTIONS INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-21",
+   "exchange": "American Stock Exchange",
+   "name": "WESTERN LIBERTY BANCORP",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GHC.U",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2007-11-20",
+   "exchange": null,
+   "name": "THIRD WAVE ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-20",
+   "exchange": null,
+   "name": "BRONCUS TECHNOLOGIES INC/CA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-20",
+   "exchange": null,
+   "name": "AEGERION PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-20",
+   "exchange": "Nasdaq National Market",
+   "name": "SUCCESSFACTORS, INC.",
+   "numberOfShares": 10790000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SFSF",
+   "totalSharesValue": 107900000
+  },
+  {
+   "date": "2007-11-20",
+   "exchange": "American Stock Exchange",
+   "name": "IDEATION ACQUISITION CORP.",
+   "numberOfShares": 10000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "IDI.U",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2007-11-19",
+   "exchange": "American Stock Exchange",
+   "name": "CHINA HOLDINGS ACQUISITION CORP.",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HOL.U",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2007-11-16",
+   "exchange": "New York Stock Exchange",
+   "name": "3PAR INC.",
+   "numberOfShares": 7500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "PAR",
+   "totalSharesValue": 105000000
+  },
+  {
+   "date": "2007-11-16",
+   "exchange": "New York Stock Exchange",
+   "name": "CHIMERA INVESTMENT CORP",
+   "numberOfShares": 33333334,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CIM",
+   "totalSharesValue": 500000010
+  },
+  {
+   "date": "2007-11-16",
+   "exchange": "Nasdaq National Market",
+   "name": "INTERNET BRANDS, INC.",
+   "numberOfShares": 6000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "INET",
+   "totalSharesValue": 48000000
+  },
+  {
+   "date": "2007-11-15",
+   "exchange": "Nasdaq National Market",
+   "name": "RUBICON TECHNOLOGY, INC.",
+   "numberOfShares": 6700000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "RBCN",
+   "totalSharesValue": 93800000
+  },
+  {
+   "date": "2007-11-15",
+   "exchange": "American Stock Exchange",
+   "name": "KENNEDY-WILSON HOLDINGS, INC.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PAX",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2007-11-15",
+   "exchange": "New York Stock Exchange",
+   "name": "EL PASO PIPELINE PARTNERS, L.P.",
+   "numberOfShares": 25000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "EPB",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2007-11-15",
+   "exchange": "New York Stock Exchange",
+   "name": "MSCI INC.",
+   "numberOfShares": 14000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "MXB",
+   "totalSharesValue": 252000000
+  },
+  {
+   "date": "2007-11-15",
+   "exchange": "Nasdaq National Market",
+   "name": "RESHAPE LIFESCIENCES INC.",
+   "numberOfShares": 5000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "ETRM",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2007-11-15",
+   "exchange": "New York Stock Exchange",
+   "name": "ENERGYSOLUTIONS, INC.",
+   "numberOfShares": 30000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "ES",
+   "totalSharesValue": 690000000
+  },
+  {
+   "date": "2007-11-15",
+   "exchange": "Nasdaq National Market",
+   "name": "VIRTUAL RADIOLOGIC CORP",
+   "numberOfShares": 4000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "VRAD",
+   "totalSharesValue": 68000000
+  },
+  {
+   "date": "2007-11-14",
+   "exchange": null,
+   "name": "PELCOR, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-14",
+   "exchange": null,
+   "name": "MAGNACHIP SEMICONDUCTOR CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-14",
+   "exchange": null,
+   "name": "CGEN DIGITAL MEDIA CO LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-14",
+   "exchange": "New York Stock Exchange",
+   "name": "SCULPTOR CAPITAL MANAGEMENT, INC.",
+   "numberOfShares": 36000000,
+   "price": "32.00",
+   "status": "priced",
+   "symbol": "OZM",
+   "totalSharesValue": 1152000000
+  },
+  {
+   "date": "2007-11-13",
+   "exchange": null,
+   "name": "INITIATE SYSTEMS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-13",
+   "exchange": "New York Stock Exchange",
+   "name": "NAVIOS MARITIME PARTNERS L.P.",
+   "numberOfShares": 10000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "NMM",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2007-11-13",
+   "exchange": "American Stock Exchange",
+   "name": "NUVERRA ENVIRONMENTAL SOLUTIONS, INC.",
+   "numberOfShares": 50000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "HEK.U",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2007-11-13",
+   "exchange": "OTCBB",
+   "name": "AMERICAN DG ENERGY INC",
+   "numberOfShares": 16196291,
+   "price": "1.20",
+   "status": "priced",
+   "symbol": "ADGE",
+   "totalSharesValue": 19435549
+  },
+  {
+   "date": "2007-11-13",
+   "exchange": "New York Stock Exchange",
+   "name": "LUMBER LIQUIDATORS HOLDINGS, INC.",
+   "numberOfShares": 10000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "LL",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2007-11-13",
+   "exchange": "OTCBB",
+   "name": "REED'S, INC.",
+   "numberOfShares": 2414995,
+   "price": "6.40",
+   "status": "priced",
+   "symbol": "REED",
+   "totalSharesValue": 15455968
+  },
+  {
+   "date": "2007-11-09",
+   "exchange": null,
+   "name": "KGEN POWER CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-09",
+   "exchange": null,
+   "name": "XANODYNE PHARMACEUTICALS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-09",
+   "exchange": null,
+   "name": "CHEMOCENTRYX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-09",
+   "exchange": "Nasdaq National Market",
+   "name": "AMERICAN PUBLIC EDUCATION INC",
+   "numberOfShares": 4687500,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "APEI",
+   "totalSharesValue": 93750000
+  },
+  {
+   "date": "2007-11-09",
+   "exchange": "Nasdaq National Market",
+   "name": "ENSIGN GROUP, INC",
+   "numberOfShares": 4000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ENSG",
+   "totalSharesValue": 64000000
+  },
+  {
+   "date": "2007-11-09",
+   "exchange": "American Stock Exchange",
+   "name": "EXCEED CO LTD.",
+   "numberOfShares": 7500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "TTY.U",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2007-11-08",
+   "exchange": "New York Stock Exchange",
+   "name": "CHINA NEPSTAR CHAIN DRUGSTORE LTD.",
+   "numberOfShares": 20625000,
+   "price": "16.20",
+   "status": "priced",
+   "symbol": "NPD",
+   "totalSharesValue": 334125000
+  },
+  {
+   "date": "2007-11-08",
+   "exchange": "NASDAQ National Market",
+   "name": "ICX TECHNOLOGIES INC",
+   "numberOfShares": 5000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ICXT",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2007-11-08",
+   "exchange": "American Stock Exchange",
+   "name": "ENTERPRISE ACQUISITION CORP.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EST.U",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2007-11-08",
+   "exchange": "New York Stock Exchange",
+   "name": "OSG AMERICA L.P.",
+   "numberOfShares": 7500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "OSP",
+   "totalSharesValue": 142500000
+  },
+  {
+   "date": "2007-11-08",
+   "exchange": "Nasdaq National Market",
+   "name": "APPROACH RESOURCES INC",
+   "numberOfShares": 7666667,
+   "price": "12",
+   "status": "priced",
+   "symbol": "AREX",
+   "totalSharesValue": 92000004
+  },
+  {
+   "date": "2007-11-08",
+   "exchange": "Nasdaq National Market",
+   "name": "QUEST ENERGY PARTNERS, L.P.",
+   "numberOfShares": 9100000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "QELP",
+   "totalSharesValue": 163800000
+  },
+  {
+   "date": "2007-11-08",
+   "exchange": "Nasdaq national Market",
+   "name": "NORTHFIELD BANCORP, INC.",
+   "numberOfShares": 16752449,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NFBK",
+   "totalSharesValue": 167524490
+  },
+  {
+   "date": "2007-11-07",
+   "exchange": null,
+   "name": "FABRINET",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-07",
+   "exchange": "New York Stock Exchange",
+   "name": "AGRIA CORP",
+   "numberOfShares": 17150000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "GRO",
+   "totalSharesValue": 282975000
+  },
+  {
+   "date": "2007-11-07",
+   "exchange": "Nasdaq National Market",
+   "name": "AIRNET TECHNOLOGY INC.",
+   "numberOfShares": 15000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "AMCN",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2007-11-07",
+   "exchange": "Nasdaq National Market",
+   "name": "BIOFORM MEDICAL INC",
+   "numberOfShares": 10000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "BFRM",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2007-11-07",
+   "exchange": "Nasdaq National Market",
+   "name": "ARYX THERAPEUTICS, INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ARYX",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2007-11-06",
+   "exchange": "New York Stock Exchange",
+   "name": "SANDRIDGE ENERGY INC",
+   "numberOfShares": 28700000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "SD",
+   "totalSharesValue": 746200000
+  },
+  {
+   "date": "2007-11-05",
+   "exchange": "American Stock Exchange",
+   "name": "GOLDEN POND HEALTHCARE, INC.",
+   "numberOfShares": 15625000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "GPH.U",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2007-11-02",
+   "exchange": null,
+   "name": "CAPSTAR ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-02",
+   "exchange": null,
+   "name": "NAMEMEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-11-02",
+   "exchange": "OTCBB",
+   "name": "VELCERA, INC.",
+   "numberOfShares": 11071663,
+   "price": "3.00",
+   "status": "priced",
+   "symbol": "VLCR",
+   "totalSharesValue": 33214989
+  },
+  {
+   "date": "2007-11-02",
+   "exchange": "Nasdaq National Market",
+   "name": "INTELIQUENT, INC.",
+   "numberOfShares": 6649928,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "TNDM",
+   "totalSharesValue": 93098992
+  },
+  {
+   "date": "2007-11-01",
+   "exchange": "New York Stock Exchange",
+   "name": "GIANT INTERACTIVE GROUP INC.",
+   "numberOfShares": 57197423,
+   "price": "15.50",
+   "status": "priced",
+   "symbol": "GA",
+   "totalSharesValue": 886560057
+  },
+  {
+   "date": "2007-11-01",
+   "exchange": "Nasdaq National Market",
+   "name": "NANOSPHERE INC",
+   "numberOfShares": 7000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NSPH",
+   "totalSharesValue": 98000000
+  },
+  {
+   "date": "2007-11-01",
+   "exchange": "Nasdaq National Market",
+   "name": "DELTEK, INC",
+   "numberOfShares": 9000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "PROJ",
+   "totalSharesValue": 162000000
+  },
+  {
+   "date": "2007-11-01",
+   "exchange": "Nasdaq National Market",
+   "name": "SOUNDBITE COMMUNICATIONS INC",
+   "numberOfShares": 5202022,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "SDBT",
+   "totalSharesValue": 41616176
+  }
+ ]
+}

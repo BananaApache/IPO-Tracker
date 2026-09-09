@@ -1,0 +1,25 @@
+{
+  "registered_at": "2026-09-09T02:16:53.756964+00:00",
+  "spec": {
+    "dependent": "underpricing = d1_close / offer_price - 1",
+    "treatment": "notable_pre_ipo (1 if a Wikipedia article existed before listing minus CUTOFF_DAYS, else 0)",
+    "controls": [
+      "log(deal_usd)",
+      "log(offer_price)",
+      "offering-year fixed effects",
+      "exchange fixed effects"
+    ],
+    "standard_errors": "clustered by offering year-quarter, matching the published study's stated clustering",
+    "winsorization": "underpricing winsorised at the 1st and 99th percentiles; the raw-sample result is reported alongside, and neither is chosen after the fact",
+    "primary_estimate": "the coefficient on notable_pre_ipo",
+    "one_sided": false,
+    "not_reproducible_from_this_data": [
+      "offer price revision (no filed ranges join to priced rows)",
+      "SIC industry (delisted 2006-16 tickers absent from company_tickers.json)",
+      "underwriter rank (needs 424B4 cover parsing)",
+      "firm age, VC backing (need paid sources)",
+      "propensity score matching and the instrumental variable",
+      "analyst following and institutional ownership (I/B/E/S, 13F)"
+    ]
+  }
+}

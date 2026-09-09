@@ -1,0 +1,307 @@
+{
+ "from": "2017-10-01",
+ "to": "2017-10-31",
+ "fetched_at": "2026-09-09T01:25:41.557200+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-10-30",
+   "exchange": null,
+   "name": "HOOPS SCOUTING USA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 36000
+  },
+  {
+   "date": "2017-10-27",
+   "exchange": "NYSE",
+   "name": "NEXA RESOURCES S.A.",
+   "numberOfShares": 31000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "NEXA",
+   "totalSharesValue": 496000000
+  },
+  {
+   "date": "2017-10-27",
+   "exchange": "NASDAQ Capital",
+   "name": "MERCHANTS BANCORP",
+   "numberOfShares": 6250000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "MBIN",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2017-10-26",
+   "exchange": "NYSE",
+   "name": "BP MIDSTREAM PARTNERS LP",
+   "numberOfShares": 42500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "BPMP",
+   "totalSharesValue": 765000000
+  },
+  {
+   "date": "2017-10-26",
+   "exchange": "NASDAQ Capital",
+   "name": "KAIXIN AUTO HOLDINGS",
+   "numberOfShares": 18000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CMSSU",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2017-10-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "NATIONAL VISION HOLDINGS, INC.",
+   "numberOfShares": 15800000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "EYE",
+   "totalSharesValue": 347600000
+  },
+  {
+   "date": "2017-10-25",
+   "exchange": null,
+   "name": "GRAYSCALE BITCOIN TRUST (BTC)",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-10-25",
+   "exchange": "NASDAQ Capital",
+   "name": "HAYMAKER ACQUISITION CORP.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HYACU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2017-10-24",
+   "exchange": null,
+   "name": "INSURANCE INCOME STRATEGIES LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ILSSU",
+   "totalSharesValue": 59800000
+  },
+  {
+   "date": "2017-10-23",
+   "exchange": "NASDAQ Capital",
+   "name": "FAT BRANDS, INC",
+   "numberOfShares": 2000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "FAT",
+   "totalSharesValue": 24000000
+  },
+  {
+   "date": "2017-10-20",
+   "exchange": "NASDAQ Global",
+   "name": "RISE EDUCATION CAYMAN LTD",
+   "numberOfShares": 11000000,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "REDU",
+   "totalSharesValue": 159500000
+  },
+  {
+   "date": "2017-10-20",
+   "exchange": "NYSE",
+   "name": "VIVINT SMART HOME, INC.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MOSCU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2017-10-20",
+   "exchange": "NASDAQ Capital",
+   "name": "DRAGON VICTORY INTERNATIONAL LTD",
+   "numberOfShares": 1421394,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "LYL",
+   "totalSharesValue": 8528364
+  },
+  {
+   "date": "2017-10-19",
+   "exchange": "NASDAQ Capital",
+   "name": "RUMBLEON, INC.",
+   "numberOfShares": 2910000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "RMBL",
+   "totalSharesValue": 16005000
+  },
+  {
+   "date": "2017-10-19",
+   "exchange": "NASDAQ Global",
+   "name": "MONGODB, INC.",
+   "numberOfShares": 8000000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "MDB",
+   "totalSharesValue": 192000000
+  },
+  {
+   "date": "2017-10-19",
+   "exchange": "NYSE",
+   "name": "SEA LTD",
+   "numberOfShares": 58960000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SE",
+   "totalSharesValue": 884400000
+  },
+  {
+   "date": "2017-10-18",
+   "exchange": null,
+   "name": "ASI AVIATION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-10-18",
+   "exchange": "NYSE",
+   "name": "QUDIAN INC.",
+   "numberOfShares": 37500000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "QD",
+   "totalSharesValue": 900000000
+  },
+  {
+   "date": "2017-10-16",
+   "exchange": null,
+   "name": "JBS FOODS INTERNATIONAL B.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-10-13",
+   "exchange": "NASDAQ Global Select",
+   "name": "OPTINOSE, INC.",
+   "numberOfShares": 7500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "OPTN",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2017-10-13",
+   "exchange": null,
+   "name": "ENERGY CONVERSION SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 300000
+  },
+  {
+   "date": "2017-10-12",
+   "exchange": "NASDAQ Global",
+   "name": "VENUS CONCEPT INC.",
+   "numberOfShares": 3575000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "HAIR",
+   "totalSharesValue": 25025000
+  },
+  {
+   "date": "2017-10-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "CARGURUS, INC.",
+   "numberOfShares": 9400000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CARG",
+   "totalSharesValue": 150400000
+  },
+  {
+   "date": "2017-10-12",
+   "exchange": "NASDAQ Global",
+   "name": "ORTHOPEDIATRICS CORP",
+   "numberOfShares": 4000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "KIDS",
+   "totalSharesValue": 52000000
+  },
+  {
+   "date": "2017-10-10",
+   "exchange": null,
+   "name": "RIMINI STREET, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-10-06",
+   "exchange": "NYSE",
+   "name": "SWITCH, INC.",
+   "numberOfShares": 31250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "SWCH",
+   "totalSharesValue": 531250000
+  },
+  {
+   "date": "2017-10-05",
+   "exchange": "NASDAQ Global",
+   "name": "RHYTHM PHARMACEUTICALS, INC.",
+   "numberOfShares": 7050000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "RYTM",
+   "totalSharesValue": 119850000
+  },
+  {
+   "date": "2017-10-05",
+   "exchange": "NASDAQ Capital",
+   "name": "ALLIED ESPORTS ENTERTAINMENT, INC.",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BRACU",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2017-10-02",
+   "exchange": null,
+   "name": "ABLYNX NV",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ABLX",
+   "totalSharesValue": 200025000
+  },
+  {
+   "date": "2017-10-02",
+   "exchange": null,
+   "name": "FORESCOUT TECHNOLOGIES, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FSCT",
+   "totalSharesValue": 116160000
+  }
+ ]
+}

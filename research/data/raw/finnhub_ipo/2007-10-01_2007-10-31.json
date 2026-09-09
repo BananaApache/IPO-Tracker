@@ -1,0 +1,497 @@
+{
+ "from": "2007-10-01",
+ "to": "2007-10-31",
+ "fetched_at": "2026-09-09T01:21:41.441607+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2007-10-30",
+   "exchange": null,
+   "name": "HK ENERGY PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-10-30",
+   "exchange": null,
+   "name": "SOI HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-10-30",
+   "exchange": null,
+   "name": "HER IMPORTS",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-10-30",
+   "exchange": "Nasdaq National Market",
+   "name": "GENOPTIX INC",
+   "numberOfShares": 5000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "GXDX",
+   "totalSharesValue": 85000000
+  },
+  {
+   "date": "2007-10-29",
+   "exchange": "American Stock Exchange",
+   "name": "CHINA MEDIAEXPRESS HOLDINGS, INC.",
+   "numberOfShares": 9000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "TMI.U",
+   "totalSharesValue": 72000
+  },
+  {
+   "date": "2007-10-26",
+   "exchange": null,
+   "name": "TARONIS TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-10-26",
+   "exchange": "American Stock Exchange",
+   "name": "SEANERGY MARITIME CORP.",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SRG",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2007-10-26",
+   "exchange": "Nasdaq National Market",
+   "name": "POWER MEDICAL INTERVENTIONS, INC.",
+   "numberOfShares": 3850000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "PMII",
+   "totalSharesValue": 42350000
+  },
+  {
+   "date": "2007-10-26",
+   "exchange": "American Stock Exchange",
+   "name": "NOVABAY PHARMACEUTICALS, INC.",
+   "numberOfShares": 5000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "NBY",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2007-10-25",
+   "exchange": "NASDAQ National Market",
+   "name": "ULTA BEAUTY, INC.",
+   "numberOfShares": 8539648,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ULTA",
+   "totalSharesValue": 153713664
+  },
+  {
+   "date": "2007-10-25",
+   "exchange": "New York Stock Exchange",
+   "name": "PZENA INVESTMENT MANAGEMENT, INC.",
+   "numberOfShares": 6100000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "PZN",
+   "totalSharesValue": 109800000
+  },
+  {
+   "date": "2007-10-25",
+   "exchange": "Nasdaq National Market",
+   "name": "FGX INTERNATIONAL HOLDINGS LTD",
+   "numberOfShares": 12000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "FGXI",
+   "totalSharesValue": 192000000
+  },
+  {
+   "date": "2007-10-25",
+   "exchange": null,
+   "name": "GREEN POWER ENTERPRISES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 57500000
+  },
+  {
+   "date": "2007-10-24",
+   "exchange": "American Stock Exchange",
+   "name": "ULTIMATE ESCAPES, INC.",
+   "numberOfShares": 10000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "HLD.U",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2007-10-24",
+   "exchange": "New York Stock Exchange",
+   "name": "GRIZZLY ENERGY, LLC",
+   "numberOfShares": 5250000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "VNR",
+   "totalSharesValue": 99750000
+  },
+  {
+   "date": "2007-10-23",
+   "exchange": null,
+   "name": "DEL FRISCO'S RESTAURANT GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-10-23",
+   "exchange": null,
+   "name": "CAREDX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-10-23",
+   "exchange": "Nasdaq National Market",
+   "name": "FUQI INTERNATIONAL, INC.",
+   "numberOfShares": 7033816,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "FUQI",
+   "totalSharesValue": 63304344
+  },
+  {
+   "date": "2007-10-23",
+   "exchange": "American Stock Exchange",
+   "name": "TRIPLECROWN ACQUISITION CORP.",
+   "numberOfShares": 8000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TCW.U",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2007-10-23",
+   "exchange": "American Stock Exchange",
+   "name": "INTER-ATLANTIC FINANCIAL, INC.",
+   "numberOfShares": 7500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "IAN",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2007-10-23",
+   "exchange": "New York Stock Exchange",
+   "name": "CVR ENERGY INC",
+   "numberOfShares": 20000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "CVI",
+   "totalSharesValue": 380000000
+  },
+  {
+   "date": "2007-10-19",
+   "exchange": "New York Stock Exchange",
+   "name": "NOAH EDUCATION HOLDINGS LTD.",
+   "numberOfShares": 9847129,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NED",
+   "totalSharesValue": 137859806
+  },
+  {
+   "date": "2007-10-19",
+   "exchange": "New York Stock Exchange",
+   "name": "DUPONT FABROS TECHNOLOGY, INC.",
+   "numberOfShares": 30500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "DFT",
+   "totalSharesValue": 640500000
+  },
+  {
+   "date": "2007-10-19",
+   "exchange": "New York Stock Exchange",
+   "name": "MAXCOM TELECOMMUNICATIONS INC",
+   "numberOfShares": 12296970,
+   "price": "17.50",
+   "status": "priced",
+   "symbol": "MXT",
+   "totalSharesValue": 215196975
+  },
+  {
+   "date": "2007-10-17",
+   "exchange": null,
+   "name": "FORUM ENERGY TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-10-17",
+   "exchange": "American Stock Exchange",
+   "name": "STREAM GLOBAL SERVICES, INC.",
+   "numberOfShares": 31250000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "OOO",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2007-10-17",
+   "exchange": "Nasdaq National Market",
+   "name": "BAXANO SURGICAL, INC.",
+   "numberOfShares": 5500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "TSON",
+   "totalSharesValue": 82500000
+  },
+  {
+   "date": "2007-10-17",
+   "exchange": "American Stock Exchange",
+   "name": "RETAIL OPPORTUNITY INVESTMENTS CORP",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NAQ.U",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2007-10-16",
+   "exchange": "OTCBB",
+   "name": "STONE TAN CHINA ACQUISITION CORP.",
+   "numberOfShares": 30000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "STTAU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2007-10-15",
+   "exchange": "Nasdaq Smallcap Market",
+   "name": "LAPORTE BANCORP, INC.",
+   "numberOfShares": 1642200,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LPSB",
+   "totalSharesValue": 16422000
+  },
+  {
+   "date": "2007-10-12",
+   "exchange": null,
+   "name": "TRANSOMA MEDICAL INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-10-12",
+   "exchange": null,
+   "name": "AKELA PHARMA INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-10-12",
+   "exchange": "American Stock Exchange",
+   "name": "SP ACQUISITION HOLDINGS, INC.",
+   "numberOfShares": 40000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DSP.U",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2007-10-12",
+   "exchange": null,
+   "name": "B COMMUNICATIONS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SMLC",
+   "totalSharesValue": 106800000
+  },
+  {
+   "date": "2007-10-11",
+   "exchange": "New York Stock Exchange",
+   "name": "VIRGIN MOBILE USA, INC.",
+   "numberOfShares": 27500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "VM",
+   "totalSharesValue": 412500000
+  },
+  {
+   "date": "2007-10-10",
+   "exchange": null,
+   "name": "CRITICAL HOMECARE SOLUTIONS HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-10-10",
+   "exchange": null,
+   "name": "PLAINS GP HOLDINGS LP INACTIVE",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-10-10",
+   "exchange": "New York Stock Exchange",
+   "name": "TEXTAINER GROUP HOLDINGS LTD",
+   "numberOfShares": 9000000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "TGH",
+   "totalSharesValue": 148500000
+  },
+  {
+   "date": "2007-10-10",
+   "exchange": "New York Stock Exchange",
+   "name": "COMPELLENT TECHNOLOGIES INC",
+   "numberOfShares": 6000000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "CML",
+   "totalSharesValue": 81000000
+  },
+  {
+   "date": "2007-10-10",
+   "exchange": "Nasdaq National Market",
+   "name": "FIRST FINANCIAL NORTHWEST, INC.",
+   "numberOfShares": 18400000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FFNW",
+   "totalSharesValue": 184000000
+  },
+  {
+   "date": "2007-10-10",
+   "exchange": "Nasdaq National Market",
+   "name": "TARGANTA THERAPEUTICS CORP.",
+   "numberOfShares": 5750000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TARG",
+   "totalSharesValue": 57500000
+  },
+  {
+   "date": "2007-10-10",
+   "exchange": null,
+   "name": "FANHUA INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CISG",
+   "totalSharesValue": 188198608
+  },
+  {
+   "date": "2007-10-08",
+   "exchange": "OTCBB",
+   "name": "UNITED INSURANCE HOLDINGS CORP.",
+   "numberOfShares": 4500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "FMGQU",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2007-10-08",
+   "exchange": "American Stock Exchange",
+   "name": "HICKS ACQUISITION CO I INC.",
+   "numberOfShares": 48000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TOH",
+   "totalSharesValue": 480000000
+  },
+  {
+   "date": "2007-10-05",
+   "exchange": "New York Stock Exchange",
+   "name": "CHINA DIGITAL TV HOLDING CO., LTD.",
+   "numberOfShares": 12000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "STV",
+   "totalSharesValue": 192000000
+  },
+  {
+   "date": "2007-10-05",
+   "exchange": "Nasdaq National Market",
+   "name": "MAP PHARMACEUTICALS, INC.",
+   "numberOfShares": 5000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "MAPP",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2007-10-03",
+   "exchange": "Nasdaq National Market",
+   "name": "CONSTANT CONTACT, INC.",
+   "numberOfShares": 6700000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CTCT",
+   "totalSharesValue": 107200000
+  },
+  {
+   "date": "2007-10-02",
+   "exchange": "Nasdaq National market",
+   "name": "BEACON FEDERAL BANCORP, INC.",
+   "numberOfShares": 9487500,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BFED",
+   "totalSharesValue": 94875000
+  },
+  {
+   "date": "2007-10-02",
+   "exchange": null,
+   "name": "LONGTOP FINANCIAL TECHNOLOGIES LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LFT",
+   "totalSharesValue": 182603750
+  }
+ ]
+}

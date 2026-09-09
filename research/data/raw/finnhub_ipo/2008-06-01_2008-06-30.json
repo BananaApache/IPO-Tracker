@@ -1,0 +1,237 @@
+{
+ "from": "2008-06-01",
+ "to": "2008-06-30",
+ "fetched_at": "2026-09-09T01:21:57.443509+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2008-06-30",
+   "exchange": null,
+   "name": "AVIV REIT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-30",
+   "exchange": null,
+   "name": "WORRY FREE TEA HOUSE HOLDINGS COMPANY",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-27",
+   "exchange": null,
+   "name": "BAYHILL THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-27",
+   "exchange": null,
+   "name": "UNITED LIBERTY BUSINESS SERVICES",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-27",
+   "exchange": null,
+   "name": "LAGUNA LULU",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-26",
+   "exchange": null,
+   "name": "ASIAN TRENDS MEDIA HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-24",
+   "exchange": null,
+   "name": "ASIA DOCUMENT TRANSITION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-23",
+   "exchange": null,
+   "name": "SONICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-19",
+   "exchange": null,
+   "name": "CVR PARTNERS, LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-19",
+   "exchange": null,
+   "name": "AMERICAN WATER WORKS COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-19",
+   "exchange": "American Stock Exchange",
+   "name": "HIGHPOWER INTERNATIONAL, INC.",
+   "numberOfShares": 2590224,
+   "price": "3.25",
+   "status": "priced",
+   "symbol": "HPJ",
+   "totalSharesValue": 8418228
+  },
+  {
+   "date": "2008-06-18",
+   "exchange": "Nasdaq National Market",
+   "name": "RHI ENTERTAINMENT, INC.",
+   "numberOfShares": 13500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "RHIE",
+   "totalSharesValue": 189000000
+  },
+  {
+   "date": "2008-06-17",
+   "exchange": null,
+   "name": "NAVIOS MARITIME ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NNA.U",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2008-06-16",
+   "exchange": null,
+   "name": "EJOBRESOURCE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-11",
+   "exchange": null,
+   "name": "THINSPACE TECHNOLOGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-10",
+   "exchange": null,
+   "name": "HERB-VITA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-09",
+   "exchange": null,
+   "name": "OUTCAST INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-09",
+   "exchange": null,
+   "name": "CCS MEDICAL HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-06",
+   "exchange": null,
+   "name": "ACCLARENT INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-06",
+   "exchange": null,
+   "name": "GELTECH SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-05",
+   "exchange": null,
+   "name": "NEXTG NETWORKS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-04",
+   "exchange": null,
+   "name": "PETRA REAL ESTATE OPPORTUNITY TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-06-04",
+   "exchange": null,
+   "name": "BRITANNIA BULK HOLDINGS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DWT",
+   "totalSharesValue": 124999995
+  }
+ ]
+}

@@ -1,0 +1,467 @@
+{
+ "from": "2007-02-01",
+ "to": "2007-02-28",
+ "fetched_at": "2026-09-09T01:21:25.416403+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2007-02-27",
+   "exchange": "Nasdaq National Market",
+   "name": "ROSETTA GENOMICS LTD.",
+   "numberOfShares": 3750000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "ROSG",
+   "totalSharesValue": 26250000
+  },
+  {
+   "date": "2007-02-26",
+   "exchange": null,
+   "name": "QUADRAPOINT ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-23",
+   "exchange": null,
+   "name": "COLORADO UTAH NATURAL GAS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-20",
+   "exchange": null,
+   "name": "ROYAL STRATEGIES & SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-20",
+   "exchange": "American Stock Exchange",
+   "name": "INVESCO DB US DOLLAR INDEX TRUST",
+   "numberOfShares": 1000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "UUP",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2007-02-16",
+   "exchange": "OTCBB",
+   "name": "CHINA CARBON GRAPHITE GROUP, INC.",
+   "numberOfShares": 1768900,
+   "price": "1.10",
+   "status": "priced",
+   "symbol": "CHGI",
+   "totalSharesValue": 1945790
+  },
+  {
+   "date": "2007-02-15",
+   "exchange": null,
+   "name": "NGTV",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-15",
+   "exchange": "New York Stock Exchange",
+   "name": "QUADRA REALTY TRUST, INC.",
+   "numberOfShares": 16670000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "QRR",
+   "totalSharesValue": 250050000
+  },
+  {
+   "date": "2007-02-15",
+   "exchange": "Nasdaq National Market",
+   "name": "SALARY. COM, INC.",
+   "numberOfShares": 5700000,
+   "price": "10.50",
+   "status": "priced",
+   "symbol": "SLRY",
+   "totalSharesValue": 59850000
+  },
+  {
+   "date": "2007-02-15",
+   "exchange": "Nasdaq National Market",
+   "name": "OPNEXT INC",
+   "numberOfShares": 16909375,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "OPXT",
+   "totalSharesValue": 253640625
+  },
+  {
+   "date": "2007-02-14",
+   "exchange": "American Stock Exchange",
+   "name": "GENEVA ACQUISITION CORP",
+   "numberOfShares": 10000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "GAC.U",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2007-02-13",
+   "exchange": null,
+   "name": "NONINVASIVE MEDICAL TECHNOLOGIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-13",
+   "exchange": null,
+   "name": "ANDAIN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-13",
+   "exchange": null,
+   "name": "SPECTRUM MANAGEMENT HOLDING COMPANY, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-13",
+   "exchange": "New York Stock Exchange",
+   "name": "INVESCO CURRENCYSHARES JAPANESE YEN TRUST",
+   "numberOfShares": 23870000,
+   "price": "82.10",
+   "status": "priced",
+   "symbol": "FXY",
+   "totalSharesValue": 1959727000
+  },
+  {
+   "date": "2007-02-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "FINJAN HOLDINGS, INC.",
+   "numberOfShares": 1800000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "COINU",
+   "totalSharesValue": 9900000
+  },
+  {
+   "date": "2007-02-12",
+   "exchange": null,
+   "name": "REFINERY SCIENCE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-09",
+   "exchange": "Nasdaq National Market",
+   "name": "U.S. AUTO PARTS NETWORK, INC.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PRTS",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2007-02-09",
+   "exchange": "New York Stock Exchange",
+   "name": "FORTRESS INVESTMENT GROUP LLC",
+   "numberOfShares": 34286000,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "FIG",
+   "totalSharesValue": 634291000
+  },
+  {
+   "date": "2007-02-09",
+   "exchange": "Nasdaq National Market",
+   "name": "OPTIMER PHARMACEUTICALS INC",
+   "numberOfShares": 7000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "OPTR",
+   "totalSharesValue": 49000000
+  },
+  {
+   "date": "2007-02-09",
+   "exchange": "Nasdaq National Market",
+   "name": "TARGA RESOURCES PARTNERS LP",
+   "numberOfShares": 16800000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "NGLS",
+   "totalSharesValue": 352800000
+  },
+  {
+   "date": "2007-02-09",
+   "exchange": "American Stock Exchange",
+   "name": "TRANS-INDIA ACQUISITION CORP",
+   "numberOfShares": 10000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "TIL.U",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2007-02-09",
+   "exchange": "OTCBB",
+   "name": "MODERN CINEMA GROUP, INC.",
+   "numberOfShares": 6954517,
+   "price": "1.00",
+   "status": "priced",
+   "symbol": "HMSO",
+   "totalSharesValue": 6954517
+  },
+  {
+   "date": "2007-02-09",
+   "exchange": "Nasdaq National Market",
+   "name": "POSITIVEID CORP",
+   "numberOfShares": 3100000,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "CHIP",
+   "totalSharesValue": 20150000
+  },
+  {
+   "date": "2007-02-08",
+   "exchange": null,
+   "name": "PIONEER CAPITAL ASSOCIATES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-08",
+   "exchange": "Nasdaq National Market",
+   "name": "ACCURAY INC",
+   "numberOfShares": 16000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ARAY",
+   "totalSharesValue": 288000000
+  },
+  {
+   "date": "2007-02-08",
+   "exchange": "Nasdaq National Market",
+   "name": "NATIONAL CINEMEDIA, INC.",
+   "numberOfShares": 38000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "NCMI",
+   "totalSharesValue": 798000000
+  },
+  {
+   "date": "2007-02-08",
+   "exchange": "Nasdaq National Market",
+   "name": "SWITCH & DATA FACILITIES COMPANY, INC.",
+   "numberOfShares": 11666667,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "SDXC",
+   "totalSharesValue": 198333339
+  },
+  {
+   "date": "2007-02-08",
+   "exchange": "Nasdaq National Market",
+   "name": "MELLANOX TECHNOLOGIES, LTD.",
+   "numberOfShares": 6000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "MLNX",
+   "totalSharesValue": 102000000
+  },
+  {
+   "date": "2007-02-08",
+   "exchange": "OTCBB",
+   "name": "COUGAR BIOTECHNOLOGY, INC.",
+   "numberOfShares": 11643871,
+   "price": "9.75",
+   "status": "priced",
+   "symbol": "CGRB",
+   "totalSharesValue": 113527742
+  },
+  {
+   "date": "2007-02-07",
+   "exchange": null,
+   "name": "PATRIOT POWER CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-07",
+   "exchange": "Nasdaq National Market",
+   "name": "JA SOLAR HOLDINGS CO., LTD.",
+   "numberOfShares": 15000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "JASO",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2007-02-07",
+   "exchange": "Nasdaq National Market",
+   "name": "3SBIO INC.",
+   "numberOfShares": 7700000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "SSRX",
+   "totalSharesValue": 123200000
+  },
+  {
+   "date": "2007-02-06",
+   "exchange": "New York Stock Exchange",
+   "name": "CELLCOM ISRAEL LTD.",
+   "numberOfShares": 20000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "CEL",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2007-02-06",
+   "exchange": "Nasdaq National Market",
+   "name": "MADRIGAL PHARMACEUTICALS, INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SNTA",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2007-02-06",
+   "exchange": "American Stock Exchange",
+   "name": "UNION STREET ACQUISITION CORP.",
+   "numberOfShares": 12500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "USQ-U",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2007-02-06",
+   "exchange": "American Stock Exchange",
+   "name": "DEKANIA CORP.",
+   "numberOfShares": 9700000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DEKU",
+   "totalSharesValue": 97000000
+  },
+  {
+   "date": "2007-02-05",
+   "exchange": null,
+   "name": "TRIDENT RESOURCES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-05",
+   "exchange": null,
+   "name": "HYCO INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-02",
+   "exchange": null,
+   "name": "TUBE CITY IMS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-02",
+   "exchange": null,
+   "name": "FRESH HARVEST PRODUCTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-02",
+   "exchange": null,
+   "name": "DG ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-02-02",
+   "exchange": "Nasdaq National Market",
+   "name": "MOLECULAR INSIGHT PHARMACEUTICALS, INC.",
+   "numberOfShares": 5000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MIPI",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2007-02-01",
+   "exchange": "Nasdaq National Market",
+   "name": "XTENT INC",
+   "numberOfShares": 4700000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "XTNT",
+   "totalSharesValue": 75200000
+  },
+  {
+   "date": "2007-02-01",
+   "exchange": "American Stock Exchange",
+   "name": "INFORMATION SERVICES GROUP INC.",
+   "numberOfShares": 28125000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "III.U",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2007-02-01",
+   "exchange": "American Stock Exchange",
+   "name": "NTR ACQUISITION CO.",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NTQ.U",
+   "totalSharesValue": 240000000
+  }
+ ]
+}

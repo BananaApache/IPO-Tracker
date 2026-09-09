@@ -1,0 +1,487 @@
+{
+ "from": "2014-01-01",
+ "to": "2014-01-31",
+ "fetched_at": "2026-09-09T01:24:11.512203+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-01-31",
+   "exchange": null,
+   "name": "APTALIS HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-01-31",
+   "exchange": "Nasdaq National Market",
+   "name": "MALIBU BOATS, INC.",
+   "numberOfShares": 7142858,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MBUU",
+   "totalSharesValue": 100000012
+  },
+  {
+   "date": "2014-01-31",
+   "exchange": "Nasdaq National Market",
+   "name": "CARA THERAPEUTICS, INC.",
+   "numberOfShares": 5000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "CARA",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2014-01-31",
+   "exchange": "Nasdaq National Market",
+   "name": "ULTRAGENYX PHARMACEUTICAL INC.",
+   "numberOfShares": 5760369,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "RARE",
+   "totalSharesValue": 120967749
+  },
+  {
+   "date": "2014-01-31",
+   "exchange": "New York Stock Exchange",
+   "name": "INTRAWEST RESORTS HOLDINGS, INC.",
+   "numberOfShares": 15625000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "SNOW",
+   "totalSharesValue": 187500000
+  },
+  {
+   "date": "2014-01-31",
+   "exchange": "Nasdaq National Market",
+   "name": "TREVENA INC",
+   "numberOfShares": 9250000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "TRVN",
+   "totalSharesValue": 64750000
+  },
+  {
+   "date": "2014-01-31",
+   "exchange": "New York Stock Exchange",
+   "name": "NEW HOME CO INC.",
+   "numberOfShares": 7812500,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "NWHM",
+   "totalSharesValue": 85937500
+  },
+  {
+   "date": "2014-01-31",
+   "exchange": null,
+   "name": "CANSO ENTERPRISES LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 247500
+  },
+  {
+   "date": "2014-01-30",
+   "exchange": "Nasdaq National Market",
+   "name": "DICERNA PHARMACEUTICALS INC",
+   "numberOfShares": 6000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "DRNA",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2014-01-30",
+   "exchange": "Nasdaq National Market",
+   "name": "EIGER BIOPHARMACEUTICALS, INC.",
+   "numberOfShares": 5500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "CLDN",
+   "totalSharesValue": 44000000
+  },
+  {
+   "date": "2014-01-30",
+   "exchange": null,
+   "name": "FORMOUS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2014-01-30",
+   "exchange": null,
+   "name": "ADRENALINE VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2014-01-29",
+   "exchange": "New York Stock Exchange",
+   "name": "NORTH ATLANTIC DRILLING LTD.",
+   "numberOfShares": 13513514,
+   "price": "9.25",
+   "status": "priced",
+   "symbol": "NADL",
+   "totalSharesValue": 125000005
+  },
+  {
+   "date": "2014-01-29",
+   "exchange": null,
+   "name": "DICO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2014-01-29",
+   "exchange": null,
+   "name": "GUATE TOURISM INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2014-01-28",
+   "exchange": null,
+   "name": "TEXAS JACK OIL",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 508400
+  },
+  {
+   "date": "2014-01-28",
+   "exchange": null,
+   "name": "PRIVOZ",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 115500
+  },
+  {
+   "date": "2014-01-27",
+   "exchange": null,
+   "name": "UNITED STATES CURRENCY FUNDS TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-01-27",
+   "exchange": null,
+   "name": "GREENPRO CAPITAL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2014-01-27",
+   "exchange": null,
+   "name": "PANOPLY GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-01-24",
+   "exchange": "New York Stock Exchange",
+   "name": "CARE.COM INC",
+   "numberOfShares": 5350000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "CRCM",
+   "totalSharesValue": 90950000
+  },
+  {
+   "date": "2014-01-24",
+   "exchange": "New York Stock Exchange",
+   "name": "EQT RE, LLC",
+   "numberOfShares": 44000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "RICE",
+   "totalSharesValue": 924000000
+  },
+  {
+   "date": "2014-01-24",
+   "exchange": null,
+   "name": "SARVIK CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-01-23",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "AKERS BIOSCIENCES, INC.",
+   "numberOfShares": 2727000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "AKER",
+   "totalSharesValue": 14998500
+  },
+  {
+   "date": "2014-01-23",
+   "exchange": "New York Stock Exchange",
+   "name": "SANTANDER CONSUMER USA HOLDINGS INC.",
+   "numberOfShares": 74991470,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "SC",
+   "totalSharesValue": 1799795280
+  },
+  {
+   "date": "2014-01-23",
+   "exchange": null,
+   "name": "MIRAX CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2014-01-23",
+   "exchange": null,
+   "name": "MAXIMA GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-01-22",
+   "exchange": null,
+   "name": "FCA US LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-01-21",
+   "exchange": null,
+   "name": "TROPIC INTERNATIONAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 246638.3
+  },
+  {
+   "date": "2014-01-21",
+   "exchange": null,
+   "name": "MATINAS BIOPHARMA HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25422500
+  },
+  {
+   "date": "2014-01-21",
+   "exchange": null,
+   "name": "DANLAX, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2014-01-17",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "BLUE BIRD CORP",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HCACU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2014-01-17",
+   "exchange": "New York Stock Exchange",
+   "name": "RSP PERMIAN, INC.",
+   "numberOfShares": 20000000,
+   "price": "19.50",
+   "status": "priced",
+   "symbol": "RSPP",
+   "totalSharesValue": 390000000
+  },
+  {
+   "date": "2014-01-17",
+   "exchange": "New York Stock Exchange",
+   "name": "EP ENERGY CORP",
+   "numberOfShares": 35200000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "EPE",
+   "totalSharesValue": 704000000
+  },
+  {
+   "date": "2014-01-17",
+   "exchange": "New York Stock Exchange",
+   "name": "CHC GROUP LTD.",
+   "numberOfShares": 31000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HELI",
+   "totalSharesValue": 310000000
+  },
+  {
+   "date": "2014-01-16",
+   "exchange": null,
+   "name": "LUXURIOUS TRAVEL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 6020000
+  },
+  {
+   "date": "2014-01-15",
+   "exchange": "New York Stock Exchange",
+   "name": "CYPRESS ENVIRONMENTAL PARTNERS, L.P.",
+   "numberOfShares": 3750000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "CELP",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2014-01-14",
+   "exchange": null,
+   "name": "AUTOVATIVE TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 469298
+  },
+  {
+   "date": "2014-01-13",
+   "exchange": null,
+   "name": "NIGHTFOOD HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 726570
+  },
+  {
+   "date": "2014-01-10",
+   "exchange": null,
+   "name": "MOBILE VAULT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-01-10",
+   "exchange": null,
+   "name": "GCT SEMICONDUCTOR INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-01-10",
+   "exchange": "Nasdaq National Market",
+   "name": "RETROPHIN, INC.",
+   "numberOfShares": 4705882,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "RTRX",
+   "totalSharesValue": 39999997
+  },
+  {
+   "date": "2014-01-10",
+   "exchange": "Nasdaq National Market",
+   "name": "GLYCOMIMETICS INC",
+   "numberOfShares": 7000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "GLYC",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2014-01-08",
+   "exchange": null,
+   "name": "MYRIANT CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-01-07",
+   "exchange": null,
+   "name": "LEGALZOOM COM INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-01-06",
+   "exchange": null,
+   "name": "ZHEN DING RESOURCES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 663903
+  },
+  {
+   "date": "2014-01-03",
+   "exchange": null,
+   "name": "STRIP DEVELOPMENT, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TSDI",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2014-01-02",
+   "exchange": null,
+   "name": "NCM FINANCIAL",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30368750
+  }
+ ]
+}

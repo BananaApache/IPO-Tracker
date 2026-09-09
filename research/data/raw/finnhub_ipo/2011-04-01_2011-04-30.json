@@ -1,0 +1,487 @@
+{
+ "from": "2011-04-01",
+ "to": "2011-04-30",
+ "fetched_at": "2026-09-09T01:23:05.727873+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2011-04-29",
+   "exchange": null,
+   "name": "WPX ENERGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-04-29",
+   "exchange": null,
+   "name": "ACCEND MEDIA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2011-04-28",
+   "exchange": "Nasdaq National Market",
+   "name": "FRANKLIN FINANCIAL CORP",
+   "numberOfShares": 12075000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FRNK",
+   "totalSharesValue": 120750000
+  },
+  {
+   "date": "2011-04-27",
+   "exchange": null,
+   "name": "FANSPORT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2011-04-25",
+   "exchange": null,
+   "name": "NEPIA INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 21600
+  },
+  {
+   "date": "2011-04-25",
+   "exchange": null,
+   "name": "EXCEL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2011-04-22",
+   "exchange": null,
+   "name": "CPG INTERNATIONAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AZEK",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2011-04-22",
+   "exchange": null,
+   "name": "TANGO SUPPLIES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8000
+  },
+  {
+   "date": "2011-04-22",
+   "exchange": null,
+   "name": "ZIPPY BAGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8000
+  },
+  {
+   "date": "2011-04-22",
+   "exchange": null,
+   "name": "SHOP EAT LIVE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8000
+  },
+  {
+   "date": "2011-04-21",
+   "exchange": "Nasdaq National Market",
+   "name": "RESPONSYS INC",
+   "numberOfShares": 6619654,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "MKTG",
+   "totalSharesValue": 79435848
+  },
+  {
+   "date": "2011-04-20",
+   "exchange": "New York Stock Exchange",
+   "name": "ANDEAVOR LOGISTICS LP",
+   "numberOfShares": 13000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "TLLP",
+   "totalSharesValue": 273000000
+  },
+  {
+   "date": "2011-04-20",
+   "exchange": "Nasdaq National Market",
+   "name": "SAGENT PHARMACEUTICALS, INC.",
+   "numberOfShares": 5750000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "SGNT",
+   "totalSharesValue": 92000000
+  },
+  {
+   "date": "2011-04-20",
+   "exchange": "Nasdaq National Market",
+   "name": "MISSION NEWENERGY LTD",
+   "numberOfShares": 2785000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "MNEL",
+   "totalSharesValue": 25065000
+  },
+  {
+   "date": "2011-04-19",
+   "exchange": "New York Stock Exchange",
+   "name": "AIR LEASE CORP",
+   "numberOfShares": 30283020,
+   "price": "26.50",
+   "status": "priced",
+   "symbol": "AL",
+   "totalSharesValue": 802500030
+  },
+  {
+   "date": "2011-04-18",
+   "exchange": null,
+   "name": "INFINITY CHINA 2 ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-04-18",
+   "exchange": "OTCBB",
+   "name": "GLOBAL CORNERSTONE HOLDINGS LTD",
+   "numberOfShares": 8000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GCRSF",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2011-04-18",
+   "exchange": null,
+   "name": "TECHNOLOGIES SCAN CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1957500
+  },
+  {
+   "date": "2011-04-15",
+   "exchange": "New York Stock Exchange",
+   "name": "SEQUANS COMMUNICATIONS",
+   "numberOfShares": 7700000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SQNS",
+   "totalSharesValue": 77000000
+  },
+  {
+   "date": "2011-04-15",
+   "exchange": "New York Stock Exchange",
+   "name": "STAG INDUSTRIAL, INC.",
+   "numberOfShares": 13750000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "STIR",
+   "totalSharesValue": 178750000
+  },
+  {
+   "date": "2011-04-15",
+   "exchange": "American Stock Exchange",
+   "name": "ELLIE MAE INC",
+   "numberOfShares": 7500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ELLI",
+   "totalSharesValue": 45000000
+  },
+  {
+   "date": "2011-04-15",
+   "exchange": null,
+   "name": "TECHAPP SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000
+  },
+  {
+   "date": "2011-04-15",
+   "exchange": null,
+   "name": "ADVANCED CLOUD STORAGE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2011-04-15",
+   "exchange": null,
+   "name": "LUCID INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LCDCU",
+   "totalSharesValue": 5829600
+  },
+  {
+   "date": "2011-04-14",
+   "exchange": "New York Stock Exchange",
+   "name": "ARCOS DORADOS HOLDINGS INC.",
+   "numberOfShares": 73484164,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ARCO",
+   "totalSharesValue": 1249230788
+  },
+  {
+   "date": "2011-04-14",
+   "exchange": "Nasdaq National Market",
+   "name": "ZIPCAR INC",
+   "numberOfShares": 9684109,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ZIP",
+   "totalSharesValue": 174313962
+  },
+  {
+   "date": "2011-04-14",
+   "exchange": "New York Stock Exchange",
+   "name": "TMS INTERNATIONAL CORP.",
+   "numberOfShares": 11200000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "TMS",
+   "totalSharesValue": 145600000
+  },
+  {
+   "date": "2011-04-14",
+   "exchange": null,
+   "name": "BLUE SKY PETROLEUM INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4800000
+  },
+  {
+   "date": "2011-04-14",
+   "exchange": null,
+   "name": "INTERNATIONAL SAFETY GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2011-04-14",
+   "exchange": null,
+   "name": "SALIENT PRODUCTS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000
+  },
+  {
+   "date": "2011-04-13",
+   "exchange": "OTCBB",
+   "name": "RMG NETWORKS HOLDING CORP",
+   "numberOfShares": 8000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SCGQU",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2011-04-12",
+   "exchange": null,
+   "name": "STAFFMARK HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-04-12",
+   "exchange": null,
+   "name": "PUTNAM MORTGAGE OPPORTUNITIES CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PMOC",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2011-04-12",
+   "exchange": null,
+   "name": "LIBERTY VISION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2011-04-11",
+   "exchange": null,
+   "name": "DOGINN INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 33400
+  },
+  {
+   "date": "2011-04-08",
+   "exchange": "Nasdaq National Market",
+   "name": "GOLAR LNG PARTNERS LP",
+   "numberOfShares": 12000000,
+   "price": "22.50",
+   "status": "priced",
+   "symbol": "GMLP",
+   "totalSharesValue": 270000000
+  },
+  {
+   "date": "2011-04-08",
+   "exchange": "New York Stock Exchange",
+   "name": "CVR PARTNERS, LP",
+   "numberOfShares": 19200000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "UAN",
+   "totalSharesValue": 307200000
+  },
+  {
+   "date": "2011-04-08",
+   "exchange": "American Stock Exchange",
+   "name": "AEVI GENOMIC MEDICINE, LLC",
+   "numberOfShares": 2460000,
+   "price": "4.54",
+   "status": "priced",
+   "symbol": "MDGN",
+   "totalSharesValue": 11168400
+  },
+  {
+   "date": "2011-04-07",
+   "exchange": "New York Stock Exchange",
+   "name": "SANDRIDGE ENERGY INC",
+   "numberOfShares": 15000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "SDT",
+   "totalSharesValue": 315000000
+  },
+  {
+   "date": "2011-04-07",
+   "exchange": null,
+   "name": "T & G APOTHECARY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 12000
+  },
+  {
+   "date": "2011-04-06",
+   "exchange": null,
+   "name": "ARTISAN PARTNERS ASSET MANAGEMENT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-04-05",
+   "exchange": null,
+   "name": "SANTA FE PETROLEUM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2011-04-05",
+   "exchange": null,
+   "name": "DREWRYS BREWING CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 300000
+  },
+  {
+   "date": "2011-04-04",
+   "exchange": "Nasdaq National Market",
+   "name": "OCERA THERAPEUTICS, INC.",
+   "numberOfShares": 13500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "TZYM",
+   "totalSharesValue": 54000000
+  },
+  {
+   "date": "2011-04-04",
+   "exchange": null,
+   "name": "BOX SHIPS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TEU",
+   "totalSharesValue": 132000000
+  },
+  {
+   "date": "2011-04-04",
+   "exchange": null,
+   "name": "21VIANET GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "VNET",
+   "totalSharesValue": 195000000
+  },
+  {
+   "date": "2011-04-01",
+   "exchange": "New York Stock Exchange",
+   "name": "GNC HOLDINGS, INC.",
+   "numberOfShares": 22500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "GNC",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2011-04-01",
+   "exchange": "American Stock Exchange",
+   "name": "PREFERRED APARTMENT COMMUNITIES INC",
+   "numberOfShares": 4500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "APTS",
+   "totalSharesValue": 45000000
+  }
+ ]
+}

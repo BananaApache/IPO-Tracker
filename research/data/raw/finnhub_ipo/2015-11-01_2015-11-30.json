@@ -1,0 +1,347 @@
+{
+ "from": "2015-11-01",
+ "to": "2015-11-30",
+ "fetched_at": "2026-09-09T01:24:55.527757+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2015-11-27",
+   "exchange": null,
+   "name": "EASIC CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-11-27",
+   "exchange": null,
+   "name": "FELLAZO CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2015-11-25",
+   "exchange": null,
+   "name": "TERRYVILLE MINERAL & ROYALTY PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-11-25",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ANDINA ACQUISITION CORP. II",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ANDAU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2015-11-24",
+   "exchange": null,
+   "name": "NOMAD FOODS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NOMD",
+   "totalSharesValue": 1657749166.5
+  },
+  {
+   "date": "2015-11-23",
+   "exchange": null,
+   "name": "INNOVATION ECONOMY CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-11-20",
+   "exchange": null,
+   "name": "TIDE PETROLEUM CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-11-20",
+   "exchange": "Nasdaq National Market",
+   "name": "DULUTH HOLDINGS INC.",
+   "numberOfShares": 6666667,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "DLTH",
+   "totalSharesValue": 80000004
+  },
+  {
+   "date": "2015-11-20",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "KITOV PHARMA LTD.",
+   "numberOfShares": 3158900,
+   "price": "4.12",
+   "status": "priced",
+   "symbol": "KTOV",
+   "totalSharesValue": 13014668
+  },
+  {
+   "date": "2015-11-19",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "AXSOME THERAPEUTICS, INC.",
+   "numberOfShares": 5666667,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "AXSM",
+   "totalSharesValue": 51000003
+  },
+  {
+   "date": "2015-11-19",
+   "exchange": "New York Stock Exchange",
+   "name": "SQUARE, INC.",
+   "numberOfShares": 27000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "SQ",
+   "totalSharesValue": 243000000
+  },
+  {
+   "date": "2015-11-19",
+   "exchange": "Nasdaq National Market",
+   "name": "MIMECAST LTD",
+   "numberOfShares": 7750000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MIME",
+   "totalSharesValue": 77500000
+  },
+  {
+   "date": "2015-11-19",
+   "exchange": "Nasdaq National Market",
+   "name": "MATCH GROUP, INC.",
+   "numberOfShares": 33333333,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "MTCH",
+   "totalSharesValue": 399999996
+  },
+  {
+   "date": "2015-11-17",
+   "exchange": null,
+   "name": "PULTE ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PLTEU",
+   "totalSharesValue": 80500000
+  },
+  {
+   "date": "2015-11-16",
+   "exchange": null,
+   "name": "MESSAGEBGONE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 180000
+  },
+  {
+   "date": "2015-11-16",
+   "exchange": null,
+   "name": "EMEDIA GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2015-11-16",
+   "exchange": null,
+   "name": "MEDICO INTERNATIONAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MOTL",
+   "totalSharesValue": 700000
+  },
+  {
+   "date": "2015-11-13",
+   "exchange": "New York Stock Exchange",
+   "name": "INSTRUCTURE INC",
+   "numberOfShares": 4400000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "INST",
+   "totalSharesValue": 70400000
+  },
+  {
+   "date": "2015-11-12",
+   "exchange": null,
+   "name": "NORTHERN WIND ENERGY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-11-12",
+   "exchange": "Nasdaq National Market",
+   "name": "XTERA COMMUNICATIONS, INC.",
+   "numberOfShares": 5000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "XCOM",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2015-11-11",
+   "exchange": "Nasdaq National Market",
+   "name": "ADVANCED ACCELERATOR APPLICATIONS S.A.",
+   "numberOfShares": 4688000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "AAAP",
+   "totalSharesValue": 75008000
+  },
+  {
+   "date": "2015-11-11",
+   "exchange": "Nasdaq National Market",
+   "name": "EQUITY BANCSHARES INC",
+   "numberOfShares": 1940000,
+   "price": "22.50",
+   "status": "priced",
+   "symbol": "EQBK",
+   "totalSharesValue": 43650000
+  },
+  {
+   "date": "2015-11-11",
+   "exchange": "Nasdaq National Market",
+   "name": "VOYAGER THERAPEUTICS, INC.",
+   "numberOfShares": 5000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "VYGR",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2015-11-11",
+   "exchange": "Nasdaq National Market",
+   "name": "WAVE LIFE SCIENCES LTD.",
+   "numberOfShares": 6375000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "WVE",
+   "totalSharesValue": 102000000
+  },
+  {
+   "date": "2015-11-10",
+   "exchange": null,
+   "name": "SILENSEED LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-11-09",
+   "exchange": null,
+   "name": "GROWGENERATION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4806858
+  },
+  {
+   "date": "2015-11-09",
+   "exchange": null,
+   "name": "INFINITY (INT'L) TRAVEL HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2015-11-06",
+   "exchange": null,
+   "name": "COSTAMARE PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-11-05",
+   "exchange": "Nasdaq National Market",
+   "name": "KURA ONCOLOGY, INC.",
+   "numberOfShares": 6250000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "KURA",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2015-11-04",
+   "exchange": null,
+   "name": "INTERACTIVE DATA HOLDINGS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-11-04",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "FULING GLOBAL INC.",
+   "numberOfShares": 4000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "FORK",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2015-11-04",
+   "exchange": null,
+   "name": "SHIMMICK CONSTRUCTION COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SCCI",
+   "totalSharesValue": 93437500
+  },
+  {
+   "date": "2015-11-03",
+   "exchange": null,
+   "name": "KILLER WAVES HAWAII, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 74400
+  },
+  {
+   "date": "2015-11-02",
+   "exchange": null,
+   "name": "MESOBLAST LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MESO",
+   "totalSharesValue": 59836936
+  }
+ ]
+}

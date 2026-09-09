@@ -1,0 +1,487 @@
+{
+ "from": "2006-12-01",
+ "to": "2006-12-31",
+ "fetched_at": "2026-09-09T01:21:21.425488+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2006-12-29",
+   "exchange": null,
+   "name": "OMNEON, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-29",
+   "exchange": null,
+   "name": "INTERMETRO COMMUNICATIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-26",
+   "exchange": null,
+   "name": "DEL MAR INCOME PARTNERS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-26",
+   "exchange": "American Stock Exchange",
+   "name": "GLG PARTNERS, INC.",
+   "numberOfShares": 48000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FRH.U",
+   "totalSharesValue": 480000000
+  },
+  {
+   "date": "2006-12-22",
+   "exchange": null,
+   "name": "GNC CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-21",
+   "exchange": null,
+   "name": "DRIVER SELECT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-21",
+   "exchange": "American Stock Exchange",
+   "name": "UNIVERSAL POWER GROUP INC.",
+   "numberOfShares": 3000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "UPG",
+   "totalSharesValue": 21000000
+  },
+  {
+   "date": "2006-12-21",
+   "exchange": "OTCBB",
+   "name": "SHINE MEDIA ACQUISITION CORP.",
+   "numberOfShares": 6000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "SHNDU",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2006-12-20",
+   "exchange": "Nasdaq National Market",
+   "name": "DAYTON SUPERIOR CORP",
+   "numberOfShares": 7850000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "DSUP",
+   "totalSharesValue": 94200000
+  },
+  {
+   "date": "2006-12-20",
+   "exchange": "American Stock Exchange",
+   "name": "TRANSFORMA ACQUISITION GROUP INC.",
+   "numberOfShares": 12500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "TAQ-U",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2006-12-20",
+   "exchange": "Nasdaq National Market",
+   "name": "ARTES MEDICAL INC",
+   "numberOfShares": 4600000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ARTE",
+   "totalSharesValue": 27600000
+  },
+  {
+   "date": "2006-12-19",
+   "exchange": null,
+   "name": "EDUTRADES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-19",
+   "exchange": "Nasdaq National Market",
+   "name": "FUWEI FILMS (HOLDINGS), CO. LTD.",
+   "numberOfShares": 3750000,
+   "price": "8.28",
+   "status": "priced",
+   "symbol": "FFHL",
+   "totalSharesValue": 31050000
+  },
+  {
+   "date": "2006-12-19",
+   "exchange": "Nasdaq National Market",
+   "name": "CLAYMONT STEEL HOLDINGS, INC.",
+   "numberOfShares": 8700000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "PLTE",
+   "totalSharesValue": 147900000
+  },
+  {
+   "date": "2006-12-18",
+   "exchange": null,
+   "name": "INTERSTATE DATA USA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-15",
+   "exchange": null,
+   "name": "GOLD RUN INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-15",
+   "exchange": "Nasdaq National Market",
+   "name": "ISILON SYSTEMS, INC.",
+   "numberOfShares": 8350000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "ISLN",
+   "totalSharesValue": 108550000
+  },
+  {
+   "date": "2006-12-15",
+   "exchange": "Nasdaq National Market",
+   "name": "FIRST EAGLE PRIVATE CREDIT, LLC",
+   "numberOfShares": 12000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "NEWS",
+   "totalSharesValue": 204000000
+  },
+  {
+   "date": "2006-12-15",
+   "exchange": "Nasdaq National Market",
+   "name": "CARROLS RESTAURANT GROUP, INC.",
+   "numberOfShares": 10000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "TAST",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2006-12-15",
+   "exchange": "Nasdaq National Market",
+   "name": "ALTRA INDUSTRIAL MOTION CORP.",
+   "numberOfShares": 10000000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "AIMC",
+   "totalSharesValue": 135000000
+  },
+  {
+   "date": "2006-12-15",
+   "exchange": "Nasdaq National Market",
+   "name": "US BIOENERGY CORP",
+   "numberOfShares": 10000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "USBE",
+   "totalSharesValue": 140000000
+  },
+  {
+   "date": "2006-12-15",
+   "exchange": "Nasdaq National Market",
+   "name": "DOUBLE-TAKE SOFTWARE, INC.",
+   "numberOfShares": 7500000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "DBTK",
+   "totalSharesValue": 82500000
+  },
+  {
+   "date": "2006-12-15",
+   "exchange": "OTCBB",
+   "name": "PANTHEON CHINA ACQUISITION CORP.",
+   "numberOfShares": 5000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "PCQCU",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2006-12-15",
+   "exchange": "Nasdaq National Market",
+   "name": "AFFYMAX INC",
+   "numberOfShares": 3700000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "AFFY",
+   "totalSharesValue": 92500000
+  },
+  {
+   "date": "2006-12-15",
+   "exchange": "New York Stock Exchange",
+   "name": "CAL DIVE INTERNATIONAL, INC.",
+   "numberOfShares": 22173000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "DVR",
+   "totalSharesValue": 288249000
+  },
+  {
+   "date": "2006-12-15",
+   "exchange": "OTCBB",
+   "name": "RESTAURANT ACQUISITION PARTNERS, INC.",
+   "numberOfShares": 3333333,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "RAPIU",
+   "totalSharesValue": 19999998
+  },
+  {
+   "date": "2006-12-14",
+   "exchange": "New York Stock Exchange",
+   "name": "GENESIS LEASE LTD",
+   "numberOfShares": 27860000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "GLS",
+   "totalSharesValue": 640780000
+  },
+  {
+   "date": "2006-12-14",
+   "exchange": "New York Stock Exchange",
+   "name": "DCT INDUSTRIAL TRUST INC.",
+   "numberOfShares": 16300000,
+   "price": "12.25",
+   "status": "priced",
+   "symbol": "DCT",
+   "totalSharesValue": 199675000
+  },
+  {
+   "date": "2006-12-14",
+   "exchange": "Nasdaq National Market",
+   "name": "OBAGI MEDICAL PRODUCTS, INC.",
+   "numberOfShares": 5350000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "OMPI",
+   "totalSharesValue": 58850000
+  },
+  {
+   "date": "2006-12-14",
+   "exchange": "Nasdaq National Market",
+   "name": "WSB FINANCIAL GROUP, INC.",
+   "numberOfShares": 2300000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "WSFG",
+   "totalSharesValue": 37950000
+  },
+  {
+   "date": "2006-12-13",
+   "exchange": null,
+   "name": "LIFEWATCH CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-13",
+   "exchange": "Nasdaq National Market",
+   "name": "GUIDANCE SOFTWARE, INC.",
+   "numberOfShares": 5000000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "GUID",
+   "totalSharesValue": 57500000
+  },
+  {
+   "date": "2006-12-13",
+   "exchange": "Nasdaq National Market",
+   "name": "IPG PHOTONICS CORP",
+   "numberOfShares": 9000000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "IPGP",
+   "totalSharesValue": 148500000
+  },
+  {
+   "date": "2006-12-13",
+   "exchange": "Nasdaq National Market",
+   "name": "MEDECISION, INC.",
+   "numberOfShares": 4700000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MEDE",
+   "totalSharesValue": 47000000
+  },
+  {
+   "date": "2006-12-13",
+   "exchange": "New York Stock Exchange",
+   "name": "ATLAS ENERGY RESOURCES, LLC",
+   "numberOfShares": 6325000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "ATN",
+   "totalSharesValue": 132825000
+  },
+  {
+   "date": "2006-12-12",
+   "exchange": null,
+   "name": "AKRION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-11",
+   "exchange": null,
+   "name": "HANWHA Q CELLS CO., LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SOLF",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2006-12-08",
+   "exchange": "Nasdaq National Market",
+   "name": "HEELYS, INC.",
+   "numberOfShares": 6425000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "HLYS",
+   "totalSharesValue": 134925000
+  },
+  {
+   "date": "2006-12-08",
+   "exchange": "Nasdaq National Market",
+   "name": "ALLEGIANT TRAVEL CO",
+   "numberOfShares": 5000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ALGT",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2006-12-08",
+   "exchange": "New York Stock Exchange",
+   "name": "AEGEAN MARINE PETROLEUM NETWORK INC.",
+   "numberOfShares": 12500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ANW",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2006-12-07",
+   "exchange": "American Stock Exchange",
+   "name": "SMART MOVE, INC.",
+   "numberOfShares": 2880000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "MVE.U",
+   "totalSharesValue": 14400000
+  },
+  {
+   "date": "2006-12-06",
+   "exchange": null,
+   "name": "TRINA SOLAR LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TSL",
+   "totalSharesValue": 98050000
+  },
+  {
+   "date": "2006-12-05",
+   "exchange": null,
+   "name": "IMARX THERAPEUTICS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-05",
+   "exchange": "New York Stock Exchange",
+   "name": "PENN VIRGINIA GP HOLDINGS, L.P.",
+   "numberOfShares": 6300000,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "PVG",
+   "totalSharesValue": 116550000
+  },
+  {
+   "date": "2006-12-04",
+   "exchange": null,
+   "name": "COMPBENEFITS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-04",
+   "exchange": null,
+   "name": "LOGANS ROADHOUSE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-12-04",
+   "exchange": null,
+   "name": "ALTERA INFRASTRUCTURE L.P.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TOO",
+   "totalSharesValue": 147000000
+  },
+  {
+   "date": "2006-12-01",
+   "exchange": null,
+   "name": "MELCO RESORTS & ENTERTAINMENT LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MPEL",
+   "totalSharesValue": 1144750000
+  }
+ ]
+}

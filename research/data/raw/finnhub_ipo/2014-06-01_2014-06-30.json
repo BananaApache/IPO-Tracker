@@ -1,0 +1,537 @@
+{
+ "from": "2014-06-01",
+ "to": "2014-06-30",
+ "fetched_at": "2026-09-09T01:24:21.909769+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-06-30",
+   "exchange": null,
+   "name": "AMBRX INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-06-30",
+   "exchange": null,
+   "name": "TRHF CO LIMITED, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2014-06-27",
+   "exchange": "Nasdaq National Market",
+   "name": "MOKO SOCIAL MEDIA LTD",
+   "numberOfShares": 1100000,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "MOKO",
+   "totalSharesValue": 8250000
+  },
+  {
+   "date": "2014-06-27",
+   "exchange": "New York Stock Exchange",
+   "name": "NEXTERA ENERGY PARTNERS, LP",
+   "numberOfShares": 16250000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "NEP",
+   "totalSharesValue": 406250000
+  },
+  {
+   "date": "2014-06-27",
+   "exchange": "Nasdaq National Market",
+   "name": "MICHAELS COMPANIES, INC.",
+   "numberOfShares": 27777778,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "MIK",
+   "totalSharesValue": 472222226
+  },
+  {
+   "date": "2014-06-27",
+   "exchange": null,
+   "name": "SPIRIT INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2014-06-27",
+   "exchange": null,
+   "name": "IDDRIVEN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TXFX",
+   "totalSharesValue": 19500
+  },
+  {
+   "date": "2014-06-26",
+   "exchange": "Nasdaq National Market",
+   "name": "GOPRO, INC.",
+   "numberOfShares": 17800000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "GPRO",
+   "totalSharesValue": 427200000
+  },
+  {
+   "date": "2014-06-26",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "GARNERO GROUP ACQUISITION CO",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GGACU",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2014-06-26",
+   "exchange": "New York Stock Exchange",
+   "name": "TCP INTERNATIONAL HOLDINGS LTD.",
+   "numberOfShares": 7142858,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "TCPI",
+   "totalSharesValue": 78571438
+  },
+  {
+   "date": "2014-06-26",
+   "exchange": "New York Stock Exchange",
+   "name": "SERVICEMASTER GLOBAL HOLDINGS INC",
+   "numberOfShares": 35900000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "SERV",
+   "totalSharesValue": 610300000
+  },
+  {
+   "date": "2014-06-26",
+   "exchange": null,
+   "name": "FLASTER CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-06-25",
+   "exchange": "Nasdaq National Market",
+   "name": "AMPHASTAR PHARMACEUTICALS, INC.",
+   "numberOfShares": 8000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "AMPH",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2014-06-25",
+   "exchange": "New York Stock Exchange",
+   "name": "ADEPTUS HEALTH INC.",
+   "numberOfShares": 4900000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "ADPT",
+   "totalSharesValue": 107800000
+  },
+  {
+   "date": "2014-06-25",
+   "exchange": "Nasdaq National Market",
+   "name": "MATERIALISE NV",
+   "numberOfShares": 8000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "MTLS",
+   "totalSharesValue": 96000000
+  },
+  {
+   "date": "2014-06-25",
+   "exchange": "New York Stock Exchange",
+   "name": "IMPRIVATA INC",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "IMPR",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2014-06-24",
+   "exchange": "Nasdaq National Market",
+   "name": "XUNLEI LTD",
+   "numberOfShares": 7315000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "XNET",
+   "totalSharesValue": 87780000
+  },
+  {
+   "date": "2014-06-20",
+   "exchange": "New York Stock Exchange",
+   "name": "MONTAGE RESOURCES CORP",
+   "numberOfShares": 30300000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "ECR",
+   "totalSharesValue": 818100000
+  },
+  {
+   "date": "2014-06-20",
+   "exchange": "Nasdaq National Market",
+   "name": "KITE PHARMA, INC.",
+   "numberOfShares": 7500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "KITE",
+   "totalSharesValue": 127500000
+  },
+  {
+   "date": "2014-06-20",
+   "exchange": null,
+   "name": "OAXACA RESOURCES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 12750
+  },
+  {
+   "date": "2014-06-19",
+   "exchange": "Nasdaq National Market",
+   "name": "IHS MARKIT LTD.",
+   "numberOfShares": 53472353,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "MRKT",
+   "totalSharesValue": 1283336472
+  },
+  {
+   "date": "2014-06-19",
+   "exchange": "Nasdaq National Market",
+   "name": "ARDELYX, INC.",
+   "numberOfShares": 4286000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ARDX",
+   "totalSharesValue": 60004000
+  },
+  {
+   "date": "2014-06-19",
+   "exchange": "Nasdaq National Market",
+   "name": "ZAFGEN, INC.",
+   "numberOfShares": 6000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ZFGN",
+   "totalSharesValue": 96000000
+  },
+  {
+   "date": "2014-06-18",
+   "exchange": null,
+   "name": "FRANCHISE GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-06-18",
+   "exchange": "New York Stock Exchange",
+   "name": "CENTURY COMMUNITIES, INC.",
+   "numberOfShares": 4480000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "CCS",
+   "totalSharesValue": 103040000
+  },
+  {
+   "date": "2014-06-18",
+   "exchange": "Nasdaq National Market",
+   "name": "VIPER ENERGY PARTNERS LP",
+   "numberOfShares": 5000000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "VNOM",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2014-06-18",
+   "exchange": "Nasdaq National Market",
+   "name": "ZS PHARMA, INC.",
+   "numberOfShares": 5944444,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ZSPH",
+   "totalSharesValue": 106999992
+  },
+  {
+   "date": "2014-06-18",
+   "exchange": "Nasdaq National Market",
+   "name": "PARNELL PHARMACEUTICALS HOLDINGS LTD",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PARN",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2014-06-18",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "MIRAGEN THERAPEUTICS, INC.",
+   "numberOfShares": 850000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SGNL",
+   "totalSharesValue": 8500000
+  },
+  {
+   "date": "2014-06-18",
+   "exchange": "New York Stock Exchange",
+   "name": "FORESIGHT ENERGY LP",
+   "numberOfShares": 17500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "FELP",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2014-06-18",
+   "exchange": null,
+   "name": "MITU RESOURCES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2014-06-16",
+   "exchange": null,
+   "name": "ENERGY & EXPLORATION PARTNERS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-06-13",
+   "exchange": "Nasdaq National Market",
+   "name": "ATLANTICA YIELD PLC",
+   "numberOfShares": 24850000,
+   "price": "29.00",
+   "status": "priced",
+   "symbol": "ABY",
+   "totalSharesValue": 720650000
+  },
+  {
+   "date": "2014-06-13",
+   "exchange": "Nasdaq National Market",
+   "name": "RANGE RESOURCES - LOUISIANA, INC.",
+   "numberOfShares": 42800000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "MRD",
+   "totalSharesValue": 813200000
+  },
+  {
+   "date": "2014-06-13",
+   "exchange": "New York Stock Exchange",
+   "name": "ASPEN AEROGELS INC",
+   "numberOfShares": 7500000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ASPN",
+   "totalSharesValue": 82500000
+  },
+  {
+   "date": "2014-06-13",
+   "exchange": null,
+   "name": "MASSROOTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5040000
+  },
+  {
+   "date": "2014-06-13",
+   "exchange": null,
+   "name": "GRILLED CHEESE TRUCK, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 27631885
+  },
+  {
+   "date": "2014-06-12",
+   "exchange": "New York Stock Exchange",
+   "name": "ZHAOPIN LTD",
+   "numberOfShares": 5610000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "ZPIN",
+   "totalSharesValue": 75735000
+  },
+  {
+   "date": "2014-06-12",
+   "exchange": "Nasdaq National Market",
+   "name": "MOBILEIRON, INC.",
+   "numberOfShares": 11111111,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "MOBL",
+   "totalSharesValue": 99999999
+  },
+  {
+   "date": "2014-06-12",
+   "exchange": "New York Stock Exchange",
+   "name": "TRINSEO S.A.",
+   "numberOfShares": 10000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "TSE",
+   "totalSharesValue": 190000000
+  },
+  {
+   "date": "2014-06-12",
+   "exchange": "New York Stock Exchange",
+   "name": "HERMITAGE OFFSHORE SERVICES LTD.",
+   "numberOfShares": 5882352,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "NAO",
+   "totalSharesValue": 94117632
+  },
+  {
+   "date": "2014-06-11",
+   "exchange": null,
+   "name": "MERCURY PAYMENT SYSTEMS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-06-11",
+   "exchange": null,
+   "name": "BAIXO RELOCATION SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 45000
+  },
+  {
+   "date": "2014-06-09",
+   "exchange": null,
+   "name": "STALLION SYNERGIES, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 95000
+  },
+  {
+   "date": "2014-06-06",
+   "exchange": null,
+   "name": "ORION ENGINEERED CARBONS HOLDINGS GMBH",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-06-06",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "NEXEO SOLUTIONS, INC.",
+   "numberOfShares": 43500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WLRHU",
+   "totalSharesValue": 435000000
+  },
+  {
+   "date": "2014-06-06",
+   "exchange": "New York Stock Exchange",
+   "name": "ARISTA NETWORKS, INC.",
+   "numberOfShares": 5250000,
+   "price": "43.00",
+   "status": "priced",
+   "symbol": "ANET",
+   "totalSharesValue": 225750000
+  },
+  {
+   "date": "2014-06-06",
+   "exchange": "Nasdaq National Market",
+   "name": "RADIUS HEALTH, INC.",
+   "numberOfShares": 6500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "RDUS",
+   "totalSharesValue": 52000000
+  },
+  {
+   "date": "2014-06-06",
+   "exchange": null,
+   "name": "WORLDS MALL INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 39000
+  },
+  {
+   "date": "2014-06-05",
+   "exchange": null,
+   "name": "FCB FINANCIAL HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-06-03",
+   "exchange": null,
+   "name": "INTERNATIONAL WESTERN PETROLEUM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3442473
+  },
+  {
+   "date": "2014-06-02",
+   "exchange": null,
+   "name": "MENONO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2014-06-02",
+   "exchange": null,
+   "name": "BLOW & DRIVE INTERLOCK CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5641000
+  }
+ ]
+}

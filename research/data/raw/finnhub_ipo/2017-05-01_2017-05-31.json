@@ -1,0 +1,307 @@
+{
+ "from": "2017-05-01",
+ "to": "2017-05-31",
+ "fetched_at": "2026-09-09T01:25:31.590826+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-05-26",
+   "exchange": null,
+   "name": "FORGE INNOVATION DEVELOPMENT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1234633.75
+  },
+  {
+   "date": "2017-05-26",
+   "exchange": null,
+   "name": "CAPE POINT HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 470000
+  },
+  {
+   "date": "2017-05-25",
+   "exchange": "NASDAQ Global",
+   "name": "APPIAN CORP",
+   "numberOfShares": 6250000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "APPN",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2017-05-25",
+   "exchange": "NYSE",
+   "name": "WIDEOPENWEST, INC.",
+   "numberOfShares": 18235295,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "WOW",
+   "totalSharesValue": 310000015
+  },
+  {
+   "date": "2017-05-24",
+   "exchange": "NASDAQ Global Select",
+   "name": "SMART GLOBAL HOLDINGS, INC.",
+   "numberOfShares": 5300000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "SGH",
+   "totalSharesValue": 58300000
+  },
+  {
+   "date": "2017-05-18",
+   "exchange": "NYSE",
+   "name": "BRIGHT SCHOLAR EDUCATION HOLDINGS LTD",
+   "numberOfShares": 15000000,
+   "price": "10.50",
+   "status": "priced",
+   "symbol": "BEDU",
+   "totalSharesValue": 157500000
+  },
+  {
+   "date": "2017-05-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "ARGENX SE",
+   "numberOfShares": 5865000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ARGX",
+   "totalSharesValue": 99705000
+  },
+  {
+   "date": "2017-05-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "G1 THERAPEUTICS, INC.",
+   "numberOfShares": 7000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "GTHX",
+   "totalSharesValue": 105000000
+  },
+  {
+   "date": "2017-05-15",
+   "exchange": null,
+   "name": "SKY WOLF WIND TURBINE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 7500000
+  },
+  {
+   "date": "2017-05-12",
+   "exchange": "NASDAQ Capital",
+   "name": "MODERN MEDIA ACQUISITION CORP.",
+   "numberOfShares": 18000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MMDMU",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2017-05-12",
+   "exchange": "NYSE",
+   "name": "SOLARIS OILFIELD INFRASTRUCTURE, INC.",
+   "numberOfShares": 10100000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "SOI",
+   "totalSharesValue": 121200000
+  },
+  {
+   "date": "2017-05-12",
+   "exchange": "NASDAQ Capital",
+   "name": "VERITONE, INC.",
+   "numberOfShares": 2500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "VERI",
+   "totalSharesValue": 37500000
+  },
+  {
+   "date": "2017-05-12",
+   "exchange": "NASDAQ Capital",
+   "name": "ASV HOLDINGS, INC.",
+   "numberOfShares": 3800000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "ASV",
+   "totalSharesValue": 26600000
+  },
+  {
+   "date": "2017-05-12",
+   "exchange": "NASDAQ Capital",
+   "name": "NATIONAL ENERGY SERVICES REUNITED CORP.",
+   "numberOfShares": 21000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NESRU",
+   "totalSharesValue": 210000000
+  },
+  {
+   "date": "2017-05-12",
+   "exchange": "NYSE",
+   "name": "INGERSOLL RAND INC.",
+   "numberOfShares": 41300000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "GDI",
+   "totalSharesValue": 826000000
+  },
+  {
+   "date": "2017-05-11",
+   "exchange": null,
+   "name": "LIVEXLIVE MEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2017-05-10",
+   "exchange": "NYSE",
+   "name": "FIVE POINT HOLDINGS, LLC",
+   "numberOfShares": 21000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "FPH",
+   "totalSharesValue": 294000000
+  },
+  {
+   "date": "2017-05-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "GUARANTY BANCSHARES INC /TX/",
+   "numberOfShares": 2000000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "GNTY",
+   "totalSharesValue": 54000000
+  },
+  {
+   "date": "2017-05-09",
+   "exchange": "NASDAQ Capital",
+   "name": "ENDRA LIFE SCIENCES INC.",
+   "numberOfShares": 1680000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "NDRAU",
+   "totalSharesValue": 8400000
+  },
+  {
+   "date": "2017-05-09",
+   "exchange": null,
+   "name": "LOYAL SOURCE MARKET SERVICES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2017-05-05",
+   "exchange": null,
+   "name": "IRONSHORE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-05-05",
+   "exchange": "NYSE",
+   "name": "KKR REAL ESTATE FINANCE TRUST INC.",
+   "numberOfShares": 10250000,
+   "price": "20.50",
+   "status": "priced",
+   "symbol": "KREF",
+   "totalSharesValue": 210125000
+  },
+  {
+   "date": "2017-05-05",
+   "exchange": "NASDAQ Global Select",
+   "name": "OVID THERAPEUTICS INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "OVID",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2017-05-05",
+   "exchange": "NYSE",
+   "name": "MAGNOLIA OIL & GAS CORP",
+   "numberOfShares": 60000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TPGEU",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2017-05-04",
+   "exchange": null,
+   "name": "BIOLIGHT LIFE SCIENCES LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-05-04",
+   "exchange": "NASDAQ Global",
+   "name": "UROGEN PHARMA LTD.",
+   "numberOfShares": 4473373,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "URGN",
+   "totalSharesValue": 58153849
+  },
+  {
+   "date": "2017-05-04",
+   "exchange": "NYSE",
+   "name": "BIOHAVEN PHARMACEUTICAL HOLDING CO LTD.",
+   "numberOfShares": 9900000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BHVN",
+   "totalSharesValue": 168300000
+  },
+  {
+   "date": "2017-05-04",
+   "exchange": "NYSE",
+   "name": "ANTERO MIDSTREAM CORP",
+   "numberOfShares": 37250000,
+   "price": "23.50",
+   "status": "priced",
+   "symbol": "AMGP",
+   "totalSharesValue": 875375000
+  },
+  {
+   "date": "2017-05-03",
+   "exchange": null,
+   "name": "GOLDMERX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-05-02",
+   "exchange": null,
+   "name": "ANVIA HOLDINGS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 379670
+  }
+ ]
+}

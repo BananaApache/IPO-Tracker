@@ -1,0 +1,487 @@
+{
+ "from": "2012-03-01",
+ "to": "2012-03-31",
+ "fetched_at": "2026-09-09T01:23:27.530822+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2012-03-30",
+   "exchange": "New York Stock Exchange",
+   "name": "GASLOG LTD.",
+   "numberOfShares": 23500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "GLOG",
+   "totalSharesValue": 329000000
+  },
+  {
+   "date": "2012-03-30",
+   "exchange": "Nasdaq National Market",
+   "name": "ENPHASE ENERGY, INC.",
+   "numberOfShares": 8969697,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ENPH",
+   "totalSharesValue": 53818182
+  },
+  {
+   "date": "2012-03-29",
+   "exchange": "New York Stock Exchange",
+   "name": "MILLENNIAL MEDIA INC.",
+   "numberOfShares": 10200000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "MM",
+   "totalSharesValue": 132600000
+  },
+  {
+   "date": "2012-03-29",
+   "exchange": "Nasdaq National Market",
+   "name": "MERRIMACK PHARMACEUTICALS INC",
+   "numberOfShares": 14300000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "MACK",
+   "totalSharesValue": 100100000
+  },
+  {
+   "date": "2012-03-29",
+   "exchange": "Nasdaq National Market",
+   "name": "CAFEPRESS INC.",
+   "numberOfShares": 4500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "PRSS",
+   "totalSharesValue": 85500000
+  },
+  {
+   "date": "2012-03-29",
+   "exchange": "New York Stock Exchange",
+   "name": "REXNORD CORP",
+   "numberOfShares": 23684211,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "RXN",
+   "totalSharesValue": 426315798
+  },
+  {
+   "date": "2012-03-29",
+   "exchange": null,
+   "name": "VALMIE RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 144000
+  },
+  {
+   "date": "2012-03-29",
+   "exchange": null,
+   "name": "ADMA BIOLOGICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 22643799
+  },
+  {
+   "date": "2012-03-29",
+   "exchange": null,
+   "name": "KOLASCO CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 48000
+  },
+  {
+   "date": "2012-03-28",
+   "exchange": "New York Stock Exchange",
+   "name": "ANNIE'S, INC.",
+   "numberOfShares": 5000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "BNNY",
+   "totalSharesValue": 95000000
+  },
+  {
+   "date": "2012-03-28",
+   "exchange": "New York Stock Exchange",
+   "name": "VOCERA COMMUNICATIONS, INC.",
+   "numberOfShares": 5850000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "VCRA",
+   "totalSharesValue": 93600000
+  },
+  {
+   "date": "2012-03-28",
+   "exchange": "New York Stock Exchange",
+   "name": "REGIONAL MANAGEMENT CORP.",
+   "numberOfShares": 4200000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "RM",
+   "totalSharesValue": 63000000
+  },
+  {
+   "date": "2012-03-28",
+   "exchange": "New York Stock Exchange",
+   "name": "TEUCRIUM COMMODITY TRUST",
+   "numberOfShares": 5000000,
+   "price": "50.00",
+   "status": "priced",
+   "symbol": "TAGS",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2012-03-27",
+   "exchange": null,
+   "name": "LATROBE SPECIALTY METALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-03-27",
+   "exchange": null,
+   "name": "GLADSTONE LAND CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-03-23",
+   "exchange": null,
+   "name": "BRUKER ENERGY & SUPERCON TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-03-23",
+   "exchange": "New York Stock Exchange",
+   "name": "VIPSHOP HOLDINGS LTD",
+   "numberOfShares": 11004600,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "VIPS",
+   "totalSharesValue": 71529900
+  },
+  {
+   "date": "2012-03-23",
+   "exchange": "New York Stock Exchange",
+   "name": "WHITING PETROLEUM CORP",
+   "numberOfShares": 16000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "WHZ",
+   "totalSharesValue": 320000000
+  },
+  {
+   "date": "2012-03-22",
+   "exchange": "Nasdaq National Market",
+   "name": "CAESARSTONE LTD.",
+   "numberOfShares": 6660000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "CSTE",
+   "totalSharesValue": 73260000
+  },
+  {
+   "date": "2012-03-22",
+   "exchange": "New York Stock Exchange",
+   "name": "WORLDPAY, INC.",
+   "numberOfShares": 29412000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "VNTV",
+   "totalSharesValue": 500004000
+  },
+  {
+   "date": "2012-03-22",
+   "exchange": "New York Stock Exchange",
+   "name": "EXACTTARGET, INC.",
+   "numberOfShares": 8500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "ET",
+   "totalSharesValue": 161500000
+  },
+  {
+   "date": "2012-03-21",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "BGS ACQUISITION CORP.",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BGSCU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2012-03-21",
+   "exchange": null,
+   "name": "E-WASTE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 36000
+  },
+  {
+   "date": "2012-03-20",
+   "exchange": null,
+   "name": "BIOHORIZONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-03-20",
+   "exchange": null,
+   "name": "SECURE IT CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 112500
+  },
+  {
+   "date": "2012-03-19",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "TECNOGLASS INC.",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ANDAU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2012-03-19",
+   "exchange": null,
+   "name": "GINKGO RESIDENTIAL TRUST INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GNKO",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2012-03-16",
+   "exchange": null,
+   "name": "SAFENET HOLDING CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-03-16",
+   "exchange": null,
+   "name": "AMERICAN OIL & GAS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2012-03-15",
+   "exchange": null,
+   "name": "PENNY AUCTION SOLUTIONS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-03-15",
+   "exchange": "New York Stock Exchange",
+   "name": "ALLISON TRANSMISSION HOLDINGS INC",
+   "numberOfShares": 26100000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "ALSN",
+   "totalSharesValue": 600300000
+  },
+  {
+   "date": "2012-03-15",
+   "exchange": "Nasdaq National Market",
+   "name": "MACOM TECHNOLOGY SOLUTIONS HOLDINGS, INC.",
+   "numberOfShares": 6000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "MTSI",
+   "totalSharesValue": 114000000
+  },
+  {
+   "date": "2012-03-15",
+   "exchange": "New York Stock Exchange",
+   "name": "DEMANDWARE INC",
+   "numberOfShares": 5500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "DWRE",
+   "totalSharesValue": 88000000
+  },
+  {
+   "date": "2012-03-15",
+   "exchange": null,
+   "name": "ECOLIVEGREEN CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2012-03-14",
+   "exchange": "OTCBB",
+   "name": "MOJO DATA SOLUTIONS, INC.",
+   "numberOfShares": 1011600,
+   "price": "0.30",
+   "status": "priced",
+   "symbol": "AUTT",
+   "totalSharesValue": 303480
+  },
+  {
+   "date": "2012-03-09",
+   "exchange": null,
+   "name": "CARIBBEAN PACIFIC MARKETING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2012-03-09",
+   "exchange": null,
+   "name": "MEETINGHOUSE BANCORP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5750000
+  },
+  {
+   "date": "2012-03-08",
+   "exchange": "New York Stock Exchange",
+   "name": "NATIONSTAR MORTGAGE HOLDINGS INC.",
+   "numberOfShares": 16666667,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NSM",
+   "totalSharesValue": 233333338
+  },
+  {
+   "date": "2012-03-07",
+   "exchange": "New York Stock Exchange",
+   "name": "SELECT INCOME REIT",
+   "numberOfShares": 8000000,
+   "price": "21.50",
+   "status": "priced",
+   "symbol": "SIR",
+   "totalSharesValue": 172000000
+  },
+  {
+   "date": "2012-03-06",
+   "exchange": null,
+   "name": "ARGOS THERAPEUTICS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-03-06",
+   "exchange": null,
+   "name": "FREE FLOW, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 11344.04
+  },
+  {
+   "date": "2012-03-02",
+   "exchange": "New York Stock Exchange",
+   "name": "YELP INC",
+   "numberOfShares": 7150000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "YELP",
+   "totalSharesValue": 107250000
+  },
+  {
+   "date": "2012-03-02",
+   "exchange": null,
+   "name": "GOLDEO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2012-03-02",
+   "exchange": null,
+   "name": "SEVILLE VENTURES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 245000
+  },
+  {
+   "date": "2012-03-02",
+   "exchange": null,
+   "name": "RECURSOS MONTANA S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2012-03-01",
+   "exchange": null,
+   "name": "MONEYMINDING INTERNATIONAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-03-01",
+   "exchange": "Nasdaq National Market",
+   "name": "AMERICAN REALTY CAPITAL TRUST, INC.",
+   "numberOfShares": 6600000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ARCT",
+   "totalSharesValue": 39600000
+  },
+  {
+   "date": "2012-03-01",
+   "exchange": null,
+   "name": "QUINKO-TEK INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 66093.79
+  }
+ ]
+}

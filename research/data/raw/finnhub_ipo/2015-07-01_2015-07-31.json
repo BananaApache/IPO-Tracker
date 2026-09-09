@@ -1,0 +1,447 @@
+{
+ "from": "2015-07-01",
+ "to": "2015-07-31",
+ "fetched_at": "2026-09-09T01:24:47.525818+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2015-07-31",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "AQUA METALS, INC.",
+   "numberOfShares": 6600000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "AQMS",
+   "totalSharesValue": 33000000
+  },
+  {
+   "date": "2015-07-31",
+   "exchange": "Nasdaq National Market",
+   "name": "TERRAFORM GLOBAL, INC.",
+   "numberOfShares": 45000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "GLBL",
+   "totalSharesValue": 675000000
+  },
+  {
+   "date": "2015-07-31",
+   "exchange": "Nasdaq National Market",
+   "name": "XCEL BRANDS, INC.",
+   "numberOfShares": 1800000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "XELB",
+   "totalSharesValue": 16200000
+  },
+  {
+   "date": "2015-07-31",
+   "exchange": null,
+   "name": "INTERLINK PLUS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2015-07-30",
+   "exchange": null,
+   "name": "MEVION MEDICAL SYSTEMS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-07-30",
+   "exchange": null,
+   "name": "PERIYA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-07-30",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PURPLE INNOVATION, INC.",
+   "numberOfShares": 13500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GPACU",
+   "totalSharesValue": 135000000
+  },
+  {
+   "date": "2015-07-30",
+   "exchange": "Nasdaq National Market",
+   "name": "VTV THERAPEUTICS INC.",
+   "numberOfShares": 7812500,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "VTVT",
+   "totalSharesValue": 117187500
+  },
+  {
+   "date": "2015-07-30",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "EASTERLY ACQUISITION CORP.",
+   "numberOfShares": 18000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EACQU",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2015-07-30",
+   "exchange": null,
+   "name": "YANHUANG INTERNATIONAL DEVELOPMENT COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 300000
+  },
+  {
+   "date": "2015-07-30",
+   "exchange": null,
+   "name": "GLOBAL QUEST LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 61000
+  },
+  {
+   "date": "2015-07-28",
+   "exchange": "Nasdaq National Market",
+   "name": "NANTKWEST, INC.",
+   "numberOfShares": 8288000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "NK",
+   "totalSharesValue": 207200000
+  },
+  {
+   "date": "2015-07-27",
+   "exchange": null,
+   "name": "AUTOGENOMICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-07-24",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "TMSR HOLDING CO LTD",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WYIGU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2015-07-24",
+   "exchange": null,
+   "name": "IWEB, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 125000
+  },
+  {
+   "date": "2015-07-24",
+   "exchange": null,
+   "name": "AXIS RESEARCH & TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2015-07-24",
+   "exchange": null,
+   "name": "VIZIO HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "VZIO",
+   "totalSharesValue": 172500000
+  },
+  {
+   "date": "2015-07-23",
+   "exchange": "Nasdaq National Market",
+   "name": "NEOS THERAPEUTICS, INC.",
+   "numberOfShares": 4800000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "NEOS",
+   "totalSharesValue": 72000000
+  },
+  {
+   "date": "2015-07-23",
+   "exchange": "Nasdaq National Market",
+   "name": "LIVE OAK BANCSHARES, INC.",
+   "numberOfShares": 4800000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LOB",
+   "totalSharesValue": 81600000
+  },
+  {
+   "date": "2015-07-23",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "DASEKE, INC.",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HCACU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2015-07-22",
+   "exchange": "Nasdaq National Market",
+   "name": "BLUE BUFFALO PET PRODUCTS, INC.",
+   "numberOfShares": 33831554,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "BUFF",
+   "totalSharesValue": 676631080
+  },
+  {
+   "date": "2015-07-22",
+   "exchange": null,
+   "name": "BIRDBILL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2015-07-22",
+   "exchange": null,
+   "name": "HYDROLIX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 250000
+  },
+  {
+   "date": "2015-07-17",
+   "exchange": "Nasdaq National Market",
+   "name": "RAPID7, INC.",
+   "numberOfShares": 6450000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "RPD",
+   "totalSharesValue": 103200000
+  },
+  {
+   "date": "2015-07-17",
+   "exchange": "New York Stock Exchange",
+   "name": "OOMA INC",
+   "numberOfShares": 5000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "OOMA",
+   "totalSharesValue": 65000000
+  },
+  {
+   "date": "2015-07-17",
+   "exchange": "Nasdaq National Market",
+   "name": "MASTERCRAFT BOAT HOLDINGS, INC.",
+   "numberOfShares": 6071429,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "MCFT",
+   "totalSharesValue": 91071435
+  },
+  {
+   "date": "2015-07-17",
+   "exchange": null,
+   "name": "ETERNAL SPEECH, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2015-07-16",
+   "exchange": "Nasdaq National Market",
+   "name": "SIERRA ONCOLOGY, INC.",
+   "numberOfShares": 8100000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "DNAI",
+   "totalSharesValue": 137700000
+  },
+  {
+   "date": "2015-07-16",
+   "exchange": "Nasdaq National Market",
+   "name": "OLLIE'S BARGAIN OUTLET HOLDINGS, INC.",
+   "numberOfShares": 8925000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "OLLI",
+   "totalSharesValue": 142800000
+  },
+  {
+   "date": "2015-07-16",
+   "exchange": "Nasdaq National Market",
+   "name": "CHIASMA, INC",
+   "numberOfShares": 6365000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CHMA",
+   "totalSharesValue": 101840000
+  },
+  {
+   "date": "2015-07-16",
+   "exchange": "New York Stock Exchange",
+   "name": "JUPAI HOLDINGS LTD",
+   "numberOfShares": 5300000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JP",
+   "totalSharesValue": 53000000
+  },
+  {
+   "date": "2015-07-15",
+   "exchange": null,
+   "name": "U.S. RARE EARTHS, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-07-10",
+   "exchange": null,
+   "name": "GLOBAL BOATWORKS HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 144000
+  },
+  {
+   "date": "2015-07-09",
+   "exchange": null,
+   "name": "FRONTIER DIGITAL MEDIA GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2015-07-09",
+   "exchange": null,
+   "name": "GREYS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5127000
+  },
+  {
+   "date": "2015-07-07",
+   "exchange": "Nasdaq National Market",
+   "name": "HAILIANG EDUCATION GROUP INC.",
+   "numberOfShares": 2858000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "HLG",
+   "totalSharesValue": 20006000
+  },
+  {
+   "date": "2015-07-06",
+   "exchange": null,
+   "name": "VEGAS RENTAL DEVELOPMENT INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2015-07-02",
+   "exchange": null,
+   "name": "PRINCIPAL SOLAR, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-07-02",
+   "exchange": "Nasdaq National Market",
+   "name": "NATERA, INC.",
+   "numberOfShares": 10000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "NTRA",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2015-07-01",
+   "exchange": "Nasdaq National Market",
+   "name": "CONFORMIS INC",
+   "numberOfShares": 9000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CFMS",
+   "totalSharesValue": 135000000
+  },
+  {
+   "date": "2015-07-01",
+   "exchange": "New York Stock Exchange",
+   "name": "TELADOC HEALTH, INC.",
+   "numberOfShares": 8250000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "TDOC",
+   "totalSharesValue": 156750000
+  },
+  {
+   "date": "2015-07-01",
+   "exchange": "New York Stock Exchange",
+   "name": "CONSOL COAL RESOURCES LP",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CNXC",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2015-07-01",
+   "exchange": "American Stock Exchange",
+   "name": "UNIQUE FABRICATING, INC.",
+   "numberOfShares": 2350000,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "UFAB",
+   "totalSharesValue": 22325000
+  },
+  {
+   "date": "2015-07-01",
+   "exchange": null,
+   "name": "VODKA BRANDS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 224533
+  }
+ ]
+}

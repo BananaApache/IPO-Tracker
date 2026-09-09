@@ -1,0 +1,427 @@
+{
+ "from": "2015-05-01",
+ "to": "2015-05-31",
+ "fetched_at": "2026-09-09T01:24:43.521114+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2015-05-29",
+   "exchange": null,
+   "name": "DD'S DELUXE ROD HOLDER, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2015-05-29",
+   "exchange": null,
+   "name": "SOLE ELITE GROUP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SOLE",
+   "totalSharesValue": 16100000
+  },
+  {
+   "date": "2015-05-28",
+   "exchange": null,
+   "name": "IRONSHORE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-05-27",
+   "exchange": null,
+   "name": "MULTIVIR INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-05-27",
+   "exchange": null,
+   "name": "EWELLNESS HEALTHCARE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 455098.35
+  },
+  {
+   "date": "2015-05-21",
+   "exchange": null,
+   "name": "ELLINGTON HOUSING INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-05-21",
+   "exchange": "New York Stock Exchange",
+   "name": "COMMUNITY HEALTHCARE TRUST INC",
+   "numberOfShares": 6250000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "CHCT",
+   "totalSharesValue": 118750000
+  },
+  {
+   "date": "2015-05-21",
+   "exchange": "New York Stock Exchange",
+   "name": "PRESS GANEY HOLDINGS, INC.",
+   "numberOfShares": 8900000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "PGND",
+   "totalSharesValue": 222500000
+  },
+  {
+   "date": "2015-05-21",
+   "exchange": "New York Stock Exchange",
+   "name": "SHOPIFY INC.",
+   "numberOfShares": 7700000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "SHOP",
+   "totalSharesValue": 130900000
+  },
+  {
+   "date": "2015-05-21",
+   "exchange": "Nasdaq National Market",
+   "name": "BAOZUN INC.",
+   "numberOfShares": 11000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BZUN",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2015-05-21",
+   "exchange": null,
+   "name": "HUBILU VENTURE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 28200
+  },
+  {
+   "date": "2015-05-20",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "RIMINI STREET, INC.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GPIAU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2015-05-20",
+   "exchange": "New York Stock Exchange",
+   "name": "BLACK KNIGHT, INC.",
+   "numberOfShares": 18000000,
+   "price": "24.50",
+   "status": "priced",
+   "symbol": "BKFS",
+   "totalSharesValue": 441000000
+  },
+  {
+   "date": "2015-05-19",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "CODE REBEL CORP",
+   "numberOfShares": 2000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "CDRB",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2015-05-18",
+   "exchange": null,
+   "name": "SADIYA TRANSPORT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2015-05-15",
+   "exchange": "Nasdaq National Market",
+   "name": "ARCADIA BIOSCIENCES, INC.",
+   "numberOfShares": 8200000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "RKDA",
+   "totalSharesValue": 65600000
+  },
+  {
+   "date": "2015-05-15",
+   "exchange": "New York Stock Exchange",
+   "name": "FORTRESS TRANSPORTATION & INFRASTRUCTURE INVESTORS LLC",
+   "numberOfShares": 20000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "FTAI",
+   "totalSharesValue": 340000000
+  },
+  {
+   "date": "2015-05-14",
+   "exchange": "Nasdaq National Market",
+   "name": "FENIX PARTS, INC.",
+   "numberOfShares": 12000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "FENX",
+   "totalSharesValue": 96000000
+  },
+  {
+   "date": "2015-05-14",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "GALAPAGOS NV",
+   "numberOfShares": 6550000,
+   "price": "42.05",
+   "status": "priced",
+   "symbol": "GLPG",
+   "totalSharesValue": 275427500
+  },
+  {
+   "date": "2015-05-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "JAGUAR HEALTH, INC.",
+   "numberOfShares": 2860000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "JAGX",
+   "totalSharesValue": 20020000
+  },
+  {
+   "date": "2015-05-13",
+   "exchange": null,
+   "name": "MONDOVITA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2015-05-12",
+   "exchange": "New York Stock Exchange",
+   "name": "EQGP HOLDINGS, LP",
+   "numberOfShares": 23000000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "EQGP",
+   "totalSharesValue": 621000000
+  },
+  {
+   "date": "2015-05-12",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "BIONDVAX PHARMACEUTICALS LTD.",
+   "numberOfShares": 1910000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "BVXV",
+   "totalSharesValue": 9550000
+  },
+  {
+   "date": "2015-05-12",
+   "exchange": null,
+   "name": "AMERICATOWNE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 85094966
+  },
+  {
+   "date": "2015-05-11",
+   "exchange": null,
+   "name": "CORINDUS VASCULAR ROBOTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 41800000
+  },
+  {
+   "date": "2015-05-11",
+   "exchange": null,
+   "name": "BMP HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25200
+  },
+  {
+   "date": "2015-05-08",
+   "exchange": null,
+   "name": "COMMERCIAL CREDIT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-05-08",
+   "exchange": null,
+   "name": "ZOOSK, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-05-08",
+   "exchange": "Nasdaq National Market",
+   "name": "BOJANGLES', INC.",
+   "numberOfShares": 7750000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "BOJA",
+   "totalSharesValue": 147250000
+  },
+  {
+   "date": "2015-05-08",
+   "exchange": null,
+   "name": "UVIC INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 70000
+  },
+  {
+   "date": "2015-05-08",
+   "exchange": null,
+   "name": "BANG HOLDINGS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3382700
+  },
+  {
+   "date": "2015-05-07",
+   "exchange": "Nasdaq National Market",
+   "name": "COLLEGIUM PHARMACEUTICAL, INC",
+   "numberOfShares": 5800000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "COLL",
+   "totalSharesValue": 69600000
+  },
+  {
+   "date": "2015-05-07",
+   "exchange": "Nasdaq National Market",
+   "name": "ATYR PHARMA INC",
+   "numberOfShares": 5360000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "LIFE",
+   "totalSharesValue": 75040000
+  },
+  {
+   "date": "2015-05-07",
+   "exchange": "New York Stock Exchange",
+   "name": "TALLGRASS ENERGY, LP",
+   "numberOfShares": 41500000,
+   "price": "29.00",
+   "status": "priced",
+   "symbol": "TEGP",
+   "totalSharesValue": 1203500000
+  },
+  {
+   "date": "2015-05-06",
+   "exchange": "Nasdaq National Market",
+   "name": "ADAPTIMMUNE THERAPEUTICS PLC",
+   "numberOfShares": 11250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ADAP",
+   "totalSharesValue": 191250000
+  },
+  {
+   "date": "2015-05-06",
+   "exchange": "Nasdaq National Market",
+   "name": "COLUCID PHARMACEUTICALS, INC.",
+   "numberOfShares": 5500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CLCD",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2015-05-06",
+   "exchange": "Nasdaq National Market",
+   "name": "HTG MOLECULAR DIAGNOSTICS, INC",
+   "numberOfShares": 3570000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "HTGM",
+   "totalSharesValue": 49980000
+  },
+  {
+   "date": "2015-05-05",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "OPGEN INC",
+   "numberOfShares": 2850000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "OPGN",
+   "totalSharesValue": 17100000
+  },
+  {
+   "date": "2015-05-05",
+   "exchange": null,
+   "name": "PEEKAY BOUTIQUES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PKAY",
+   "totalSharesValue": 33400000
+  },
+  {
+   "date": "2015-05-04",
+   "exchange": null,
+   "name": "URIGEN PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-05-01",
+   "exchange": "New York Stock Exchange",
+   "name": "BLACK STONE MINERALS, L.P.",
+   "numberOfShares": 22500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "BSM",
+   "totalSharesValue": 427500000
+  },
+  {
+   "date": "2015-05-01",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "AROWANA INC.",
+   "numberOfShares": 7200000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ARWAU",
+   "totalSharesValue": 72000000
+  }
+ ]
+}

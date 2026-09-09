@@ -1,0 +1,367 @@
+{
+ "from": "2007-04-01",
+ "to": "2007-04-30",
+ "fetched_at": "2026-09-09T01:21:29.444286+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2007-04-30",
+   "exchange": null,
+   "name": "CROSS MATCH TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-30",
+   "exchange": null,
+   "name": "HIGHLAND FINANCIAL PARTNERS, L.P.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-30",
+   "exchange": null,
+   "name": "CYS INVESTMENTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-30",
+   "exchange": null,
+   "name": "MADISON RIVER COMMUNICATIONS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-30",
+   "exchange": null,
+   "name": "HIGHLAND FINANCIAL PARTNERS, L.P.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-27",
+   "exchange": null,
+   "name": "TC GLOBAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-27",
+   "exchange": "Nasdaq National Market",
+   "name": "PHARMASSET INC",
+   "numberOfShares": 5000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "VRUS",
+   "totalSharesValue": 45000000
+  },
+  {
+   "date": "2007-04-26",
+   "exchange": "American Stock Exchange",
+   "name": "VICTORY ACQUISITION CORP",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VRY.U",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2007-04-26",
+   "exchange": "Nasdaq National Market",
+   "name": "OREXIGEN THERAPEUTICS, INC.",
+   "numberOfShares": 7000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "OREX",
+   "totalSharesValue": 84000000
+  },
+  {
+   "date": "2007-04-26",
+   "exchange": "OTCBB",
+   "name": "CYALUME TECHNOLOGIES HOLDINGS, INC.",
+   "numberOfShares": 7312500,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "VTRQU",
+   "totalSharesValue": 58500000
+  },
+  {
+   "date": "2007-04-25",
+   "exchange": null,
+   "name": "ENSYNC, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-25",
+   "exchange": null,
+   "name": "MILLENIA HOPE PHARMACEUTICALS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-25",
+   "exchange": "Nasdaq National Market",
+   "name": "OCEAN POWER TECHNOLOGIES, INC.",
+   "numberOfShares": 5000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "OPTT",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2007-04-24",
+   "exchange": "New York Stock Exchange",
+   "name": "CINEMARK HOLDINGS, INC.",
+   "numberOfShares": 28000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "CNK",
+   "totalSharesValue": 532000000
+  },
+  {
+   "date": "2007-04-23",
+   "exchange": "Nasdaq National Market",
+   "name": "TFS FINANCIAL CORP",
+   "numberOfShares": 87130102,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TFSL",
+   "totalSharesValue": 871301020
+  },
+  {
+   "date": "2007-04-20",
+   "exchange": null,
+   "name": "BIDZ.COM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-20",
+   "exchange": null,
+   "name": "PTC THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-20",
+   "exchange": "New York Stock Exchange",
+   "name": "SIMCERE PHARMACEUTICAL GROUP",
+   "numberOfShares": 15625000,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "SCR",
+   "totalSharesValue": 226562500
+  },
+  {
+   "date": "2007-04-20",
+   "exchange": "OTCBB",
+   "name": "PINPOINT ADVANCE CORP",
+   "numberOfShares": 2500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PPACU",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2007-04-20",
+   "exchange": "Nasdaq National Market",
+   "name": "SUPERIOR OFFSHORE INTERNATIONAL INC.",
+   "numberOfShares": 10166667,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "DEEP",
+   "totalSharesValue": 152500005
+  },
+  {
+   "date": "2007-04-20",
+   "exchange": "American Stock Exchange",
+   "name": "CHINA HEALTHCARE ACQUISITION CORP.",
+   "numberOfShares": 8500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "CHM.U",
+   "totalSharesValue": 51000000
+  },
+  {
+   "date": "2007-04-19",
+   "exchange": "New York Stock Exchange",
+   "name": "T-MOBILE US, INC.",
+   "numberOfShares": 50000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "PCS",
+   "totalSharesValue": 1150000000
+  },
+  {
+   "date": "2007-04-18",
+   "exchange": null,
+   "name": "BANK STREET TELECOM FUNDING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-18",
+   "exchange": "American Stock Exchange",
+   "name": "UNITED STATES NATURAL GAS FUND, LP",
+   "numberOfShares": 30000000,
+   "price": "50.00",
+   "status": "priced",
+   "symbol": "UNG",
+   "totalSharesValue": 1500000000
+  },
+  {
+   "date": "2007-04-18",
+   "exchange": "American Stock Exchange",
+   "name": "MBF HEALTHCARE ACQUISITION CORP.",
+   "numberOfShares": 18750000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "MBH.U",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2007-04-17",
+   "exchange": null,
+   "name": "STALLION OILFIELD SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-17",
+   "exchange": null,
+   "name": "POLYPORE INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-13",
+   "exchange": "Nasdaq National Market",
+   "name": "COMVERGE, INC.",
+   "numberOfShares": 5300000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "COMV",
+   "totalSharesValue": 95400000
+  },
+  {
+   "date": "2007-04-12",
+   "exchange": "American Stock Exchange",
+   "name": "TAILWIND FINANCIAL INC.",
+   "numberOfShares": 12500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "TNF.U",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2007-04-10",
+   "exchange": null,
+   "name": "VANGUARD CAR RENTAL GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-09",
+   "exchange": null,
+   "name": "OCEANFREIGHT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "OCNF",
+   "totalSharesValue": 204250000
+  },
+  {
+   "date": "2007-04-05",
+   "exchange": "Nasdaq National Market",
+   "name": "DIALOGIC INC.",
+   "numberOfShares": 9000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "VRAZ",
+   "totalSharesValue": 72000000
+  },
+  {
+   "date": "2007-04-04",
+   "exchange": null,
+   "name": "TOTALMED SYSTEMS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-04-04",
+   "exchange": "Nasdaq National Market",
+   "name": "ESSA BANCORP, INC.",
+   "numberOfShares": 13800000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ESSA",
+   "totalSharesValue": 138000000
+  },
+  {
+   "date": "2007-04-04",
+   "exchange": "OTCBB",
+   "name": "CMS BANCORP, INC.",
+   "numberOfShares": 1725000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CMSB",
+   "totalSharesValue": 17250000
+  },
+  {
+   "date": "2007-04-04",
+   "exchange": null,
+   "name": "EDENOR",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "EDN",
+   "totalSharesValue": 257801515
+  }
+ ]
+}

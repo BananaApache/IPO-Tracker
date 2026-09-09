@@ -1,0 +1,447 @@
+{
+ "from": "2007-06-01",
+ "to": "2007-06-30",
+ "fetched_at": "2026-09-09T01:21:33.434365+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2007-06-29",
+   "exchange": null,
+   "name": "SYMETRA FINANCIAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-29",
+   "exchange": null,
+   "name": "HER IMPORTS",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-29",
+   "exchange": "American Stock Exchange",
+   "name": "BOISE INC.",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AII.U",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2007-06-29",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "BRIDGELINE DIGITAL, INC.",
+   "numberOfShares": 3000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "BLSW",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2007-06-29",
+   "exchange": "American Stock Exchange",
+   "name": "ALYST ACQUISITION CORP.",
+   "numberOfShares": 7000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "AYA.U",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2007-06-28",
+   "exchange": "Nasdaq National Market",
+   "name": "COMSCORE, INC.",
+   "numberOfShares": 5300000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "SCOR",
+   "totalSharesValue": 87450000
+  },
+  {
+   "date": "2007-06-28",
+   "exchange": "New York Stock Exchange",
+   "name": "PROS HOLDINGS, INC.",
+   "numberOfShares": 6825000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "PRO",
+   "totalSharesValue": 75075000
+  },
+  {
+   "date": "2007-06-28",
+   "exchange": "New York Stock Exchange",
+   "name": "POLYPORE INTERNATIONAL, INC.",
+   "numberOfShares": 15000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "PPO",
+   "totalSharesValue": 285000000
+  },
+  {
+   "date": "2007-06-27",
+   "exchange": null,
+   "name": "OGE ENOGEX PARTNERS L.P.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-27",
+   "exchange": null,
+   "name": "AFFINION GROUP HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-27",
+   "exchange": "Nasdaq National Market",
+   "name": "AUTHENTEC INC",
+   "numberOfShares": 7500000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "AUTH",
+   "totalSharesValue": 82500000
+  },
+  {
+   "date": "2007-06-27",
+   "exchange": "New York Stock Exchange",
+   "name": "SPECTRA ENERGY PARTNERS, LP",
+   "numberOfShares": 10000000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "SEP",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2007-06-27",
+   "exchange": "Nasdaq National Market",
+   "name": "DATA DOMAIN, INC.",
+   "numberOfShares": 7000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "DDUP",
+   "totalSharesValue": 105000000
+  },
+  {
+   "date": "2007-06-26",
+   "exchange": null,
+   "name": "CAMPUSU",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-26",
+   "exchange": null,
+   "name": "ENDOCEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-25",
+   "exchange": null,
+   "name": "EVERQUEST FINANCIAL LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-25",
+   "exchange": "New York Stock Exchange",
+   "name": "BLACKSTONE GROUP INC",
+   "numberOfShares": 133333334,
+   "price": "31.00",
+   "status": "priced",
+   "symbol": "BX",
+   "totalSharesValue": 4133333354
+  },
+  {
+   "date": "2007-06-22",
+   "exchange": "New York Stock Exchange",
+   "name": "TIPTREE INC.",
+   "numberOfShares": 15000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CRE",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2007-06-22",
+   "exchange": "American Stock Exchange",
+   "name": "ADVANCED TECHNOLOGY ACQUISITION CORP.",
+   "numberOfShares": 18750000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "AXC.U",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2007-06-20",
+   "exchange": null,
+   "name": "GLOBAL ENERGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-19",
+   "exchange": null,
+   "name": "MARQUEE HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-19",
+   "exchange": "New York Stock Exchange",
+   "name": "VEDANTA LTD",
+   "numberOfShares": 130440000,
+   "price": "13.44",
+   "status": "priced",
+   "symbol": "SLT",
+   "totalSharesValue": 1753113600
+  },
+  {
+   "date": "2007-06-18",
+   "exchange": null,
+   "name": "ENLIGHTENED GOURMET, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-18",
+   "exchange": "American Stock Exchange",
+   "name": "ENSYNC, INC.",
+   "numberOfShares": 3333333,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ZBB",
+   "totalSharesValue": 19999998
+  },
+  {
+   "date": "2007-06-15",
+   "exchange": null,
+   "name": "AEGERION PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-14",
+   "exchange": "Nasdaq National Market",
+   "name": "GREEN BRICK PARTNERS, INC.",
+   "numberOfShares": 5250000,
+   "price": "10.50",
+   "status": "priced",
+   "symbol": "BIOF",
+   "totalSharesValue": 55125000
+  },
+  {
+   "date": "2007-06-14",
+   "exchange": "American Stock Exchange",
+   "name": "CHINA SHENGHUO PHARMACEUTICAL HOLDINGS INC",
+   "numberOfShares": 400000,
+   "price": "3.50",
+   "status": "priced",
+   "symbol": "KUN",
+   "totalSharesValue": 1400000
+  },
+  {
+   "date": "2007-06-13",
+   "exchange": null,
+   "name": "SS&C TECHNOLOGIES HOLDINGS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-13",
+   "exchange": null,
+   "name": "ROYAL CAPITAL MANAGEMENT INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-13",
+   "exchange": "New York Stock Exchange",
+   "name": "BWAY HOLDING CO",
+   "numberOfShares": 10039216,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "BWY",
+   "totalSharesValue": 150588240
+  },
+  {
+   "date": "2007-06-12",
+   "exchange": null,
+   "name": "SINO ASSURANCE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-11",
+   "exchange": null,
+   "name": "ZARS PHARMA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-08",
+   "exchange": "New York Stock Exchange",
+   "name": "YINGLI GREEN ENERGY HOLDING CO LTD",
+   "numberOfShares": 29000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "YGE",
+   "totalSharesValue": 319000000
+  },
+  {
+   "date": "2007-06-08",
+   "exchange": "Nasdaq National Market",
+   "name": "FBR & CO.",
+   "numberOfShares": 12035000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "FBCM",
+   "totalSharesValue": 204595000
+  },
+  {
+   "date": "2007-06-08",
+   "exchange": "Nasdaq National Market",
+   "name": "LIMELIGHT NETWORKS, INC.",
+   "numberOfShares": 16000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "LLNW",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2007-06-07",
+   "exchange": "Nasdaq National Market",
+   "name": "INFINERA CORP",
+   "numberOfShares": 14000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "INFN",
+   "totalSharesValue": 182000000
+  },
+  {
+   "date": "2007-06-06",
+   "exchange": null,
+   "name": "BGC PARTNERS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-06",
+   "exchange": "Nasdaq National Market",
+   "name": "STARENT NETWORKS, CORP.",
+   "numberOfShares": 10534841,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "STAR",
+   "totalSharesValue": 126418092
+  },
+  {
+   "date": "2007-06-06",
+   "exchange": null,
+   "name": "SPREADTRUM COMMUNICATIONS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SPRD",
+   "totalSharesValue": 125897800
+  },
+  {
+   "date": "2007-06-05",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "RESPONSE GENETICS INC",
+   "numberOfShares": 3000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "RGDX",
+   "totalSharesValue": 21000000
+  },
+  {
+   "date": "2007-06-04",
+   "exchange": null,
+   "name": "KNIGHTSBRIDGE RESOURCES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-04",
+   "exchange": null,
+   "name": "NEWPORT ENTERTAINMENT GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-06-01",
+   "exchange": "New York Stock Exchange",
+   "name": "LDK SOLAR CO., LTD.",
+   "numberOfShares": 17384000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "LDK",
+   "totalSharesValue": 469368000
+  },
+  {
+   "date": "2007-06-01",
+   "exchange": "Nasdaq National Market",
+   "name": "JAZZ PHARMACEUTICALS PLC",
+   "numberOfShares": 6000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "JAZZ",
+   "totalSharesValue": 108000000
+  }
+ ]
+}

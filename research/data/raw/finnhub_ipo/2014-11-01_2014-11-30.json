@@ -1,0 +1,537 @@
+{
+ "from": "2014-11-01",
+ "to": "2014-11-30",
+ "fetched_at": "2026-09-09T01:24:31.516682+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-11-28",
+   "exchange": null,
+   "name": "JRJR33, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-11-28",
+   "exchange": null,
+   "name": "VOLITIONRX LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2014-11-28",
+   "exchange": null,
+   "name": "EMERALD DATA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2014-11-26",
+   "exchange": null,
+   "name": "TAXUS PHARMACEUTICALS HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2014-11-26",
+   "exchange": null,
+   "name": "NUTS & BOLTS INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 143750
+  },
+  {
+   "date": "2014-11-24",
+   "exchange": null,
+   "name": "VYRIX PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-11-24",
+   "exchange": null,
+   "name": "PUNTO GROUP, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2014-11-24",
+   "exchange": null,
+   "name": "7 VENTURE GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2014-11-21",
+   "exchange": "Nasdaq National Market",
+   "name": "PEAK RESORTS INC",
+   "numberOfShares": 10000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "SKIS",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2014-11-21",
+   "exchange": "New York Stock Exchange",
+   "name": "NEFF CORP",
+   "numberOfShares": 10476190,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "NEFF",
+   "totalSharesValue": 157142850
+  },
+  {
+   "date": "2014-11-20",
+   "exchange": "Nasdaq National Market",
+   "name": "HABIT RESTAURANTS, INC.",
+   "numberOfShares": 5000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "HABT",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2014-11-20",
+   "exchange": "Nasdaq National Market",
+   "name": "EVOFEM BIOSCIENCES, INC.",
+   "numberOfShares": 4650000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NEOT",
+   "totalSharesValue": 65100000
+  },
+  {
+   "date": "2014-11-20",
+   "exchange": "Nasdaq National Market",
+   "name": "CNOVA N.V.",
+   "numberOfShares": 26800000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "CNV",
+   "totalSharesValue": 187600000
+  },
+  {
+   "date": "2014-11-19",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SECOND SIGHT MEDICAL PRODUCTS INC",
+   "numberOfShares": 3500000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "EYES",
+   "totalSharesValue": 31500000
+  },
+  {
+   "date": "2014-11-19",
+   "exchange": "New York Stock Exchange",
+   "name": "PARAMOUNT GROUP, INC.",
+   "numberOfShares": 131000000,
+   "price": "17.50",
+   "status": "priced",
+   "symbol": "PGRE",
+   "totalSharesValue": 2292500000
+  },
+  {
+   "date": "2014-11-18",
+   "exchange": "New York Stock Exchange",
+   "name": "EHI CAR SERVICES LTD",
+   "numberOfShares": 10000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "EHIC",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2014-11-18",
+   "exchange": "New York Stock Exchange",
+   "name": "STORE CAPITAL CORP",
+   "numberOfShares": 27500000,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "STOR",
+   "totalSharesValue": 508750000
+  },
+  {
+   "date": "2014-11-18",
+   "exchange": null,
+   "name": "TOA OPTICAL TECH, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 17000000
+  },
+  {
+   "date": "2014-11-18",
+   "exchange": null,
+   "name": "TRIMAX CONSULTING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2014-11-17",
+   "exchange": null,
+   "name": "SUPREME LEGAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2014-11-14",
+   "exchange": "Nasdaq National Market",
+   "name": "FIBROGEN INC",
+   "numberOfShares": 8100000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "FGEN",
+   "totalSharesValue": 145800000
+  },
+  {
+   "date": "2014-11-14",
+   "exchange": "Nasdaq National Market",
+   "name": "LANDMARK INFRASTRUCTURE PARTNERS LP",
+   "numberOfShares": 2650000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "LMRK",
+   "totalSharesValue": 50350000
+  },
+  {
+   "date": "2014-11-14",
+   "exchange": "Nasdaq National Market",
+   "name": "NEURODERM LTD.",
+   "numberOfShares": 4500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NDRM",
+   "totalSharesValue": 45000000
+  },
+  {
+   "date": "2014-11-14",
+   "exchange": "Nasdaq National Market",
+   "name": "VIRGIN AMERICA INC.",
+   "numberOfShares": 13337587,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "VA",
+   "totalSharesValue": 306764501
+  },
+  {
+   "date": "2014-11-14",
+   "exchange": null,
+   "name": "ECO-STIM ENERGY SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 24700000
+  },
+  {
+   "date": "2014-11-13",
+   "exchange": null,
+   "name": "DERMTECH, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-11-13",
+   "exchange": "New York Stock Exchange",
+   "name": "NAVIOS MARITIME MIDSTREAM PARTNERS LP",
+   "numberOfShares": 8100000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "NAP",
+   "totalSharesValue": 121500000
+  },
+  {
+   "date": "2014-11-13",
+   "exchange": "Nasdaq National Market",
+   "name": "PRA HEALTH SCIENCES, INC.",
+   "numberOfShares": 16976744,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "PRAH",
+   "totalSharesValue": 305581392
+  },
+  {
+   "date": "2014-11-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SKY SOLAR HOLDINGS, LTD.",
+   "numberOfShares": 5525000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "SKYS",
+   "totalSharesValue": 44200000
+  },
+  {
+   "date": "2014-11-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SOLENO THERAPEUTICS INC",
+   "numberOfShares": 1650000,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "CAPN",
+   "totalSharesValue": 10725000
+  },
+  {
+   "date": "2014-11-13",
+   "exchange": null,
+   "name": "SMART SAND PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SSLP",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2014-11-12",
+   "exchange": null,
+   "name": "TRANSFIRST INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-11-12",
+   "exchange": null,
+   "name": "NW18 HSN HOLDINGS PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-11-12",
+   "exchange": null,
+   "name": "IMC HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-11-12",
+   "exchange": "New York Stock Exchange",
+   "name": "AXALTA COATING SYSTEMS LTD.",
+   "numberOfShares": 50000000,
+   "price": "19.50",
+   "status": "priced",
+   "symbol": "AXTA",
+   "totalSharesValue": 975000000
+  },
+  {
+   "date": "2014-11-12",
+   "exchange": null,
+   "name": "AUREUS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 24300
+  },
+  {
+   "date": "2014-11-12",
+   "exchange": null,
+   "name": "US NUCLEAR CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 772500
+  },
+  {
+   "date": "2014-11-12",
+   "exchange": null,
+   "name": "BONE BIOLOGICS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 16126626
+  },
+  {
+   "date": "2014-11-11",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "JOINT CORP",
+   "numberOfShares": 3000000,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "JYNT",
+   "totalSharesValue": 19500000
+  },
+  {
+   "date": "2014-11-07",
+   "exchange": "Nasdaq National Market",
+   "name": "SYNEOS HEALTH, INC.",
+   "numberOfShares": 8108108,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "INCR",
+   "totalSharesValue": 149999998
+  },
+  {
+   "date": "2014-11-07",
+   "exchange": "Nasdaq National Market",
+   "name": "FRESHPET, INC.",
+   "numberOfShares": 10416667,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "FRPT",
+   "totalSharesValue": 156250005
+  },
+  {
+   "date": "2014-11-07",
+   "exchange": "Nasdaq National Market",
+   "name": "TRIUMPH BANCORP, INC.",
+   "numberOfShares": 6700000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "TBK",
+   "totalSharesValue": 80400000
+  },
+  {
+   "date": "2014-11-07",
+   "exchange": null,
+   "name": "COMPUTRON, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2014-11-06",
+   "exchange": "New York Stock Exchange",
+   "name": "NEVRO CORP",
+   "numberOfShares": 7000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "NVRO",
+   "totalSharesValue": 126000000
+  },
+  {
+   "date": "2014-11-06",
+   "exchange": "Nasdaq National Market",
+   "name": "UPLAND SOFTWARE, INC.",
+   "numberOfShares": 3846154,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "UPLD",
+   "totalSharesValue": 46153848
+  },
+  {
+   "date": "2014-11-06",
+   "exchange": "Nasdaq National Market",
+   "name": "COHERUS BIOSCIENCES, INC.",
+   "numberOfShares": 6296300,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "CHRS",
+   "totalSharesValue": 85000050
+  },
+  {
+   "date": "2014-11-06",
+   "exchange": null,
+   "name": "TIANHE UNION HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 70000
+  },
+  {
+   "date": "2014-11-05",
+   "exchange": "Nasdaq National Market",
+   "name": "XENON PHARMACEUTICALS INC.",
+   "numberOfShares": 4000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "XENE",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2014-11-05",
+   "exchange": "New York Stock Exchange",
+   "name": "ANTERO MIDSTREAM PARTNERS LP",
+   "numberOfShares": 40000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "AM",
+   "totalSharesValue": 1000000000
+  },
+  {
+   "date": "2014-11-04",
+   "exchange": null,
+   "name": "JOBBOT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30900
+  },
+  {
+   "date": "2014-11-03",
+   "exchange": "Nasdaq National Market",
+   "name": "STATE NATIONAL COMPANIES, INC.",
+   "numberOfShares": 30728500,
+   "price": "11.98",
+   "status": "priced",
+   "symbol": "SNC",
+   "totalSharesValue": 368127430
+  },
+  {
+   "date": "2014-11-03",
+   "exchange": null,
+   "name": "SIERRA MADRE MINING",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2014-11-03",
+   "exchange": null,
+   "name": "SIRRUS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  }
+ ]
+}

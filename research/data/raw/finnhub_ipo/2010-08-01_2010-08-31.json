@@ -1,0 +1,347 @@
+{
+ "from": "2010-08-01",
+ "to": "2010-08-31",
+ "fetched_at": "2026-09-09T01:22:49.476817+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2010-08-31",
+   "exchange": null,
+   "name": "WILDCAP ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-08-31",
+   "exchange": null,
+   "name": "DANIELS CORPORATE ADVISORY COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4901.07
+  },
+  {
+   "date": "2010-08-27",
+   "exchange": null,
+   "name": "VELOCITY COMMERCIAL CAPITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-08-26",
+   "exchange": "American Stock Exchange",
+   "name": "WHITESTONE REIT",
+   "numberOfShares": 2200000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "WSR",
+   "totalSharesValue": 26400000
+  },
+  {
+   "date": "2010-08-25",
+   "exchange": null,
+   "name": "SWINGPLANE VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 35000
+  },
+  {
+   "date": "2010-08-23",
+   "exchange": null,
+   "name": "DRYERTECH INDUSTRIES LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-08-17",
+   "exchange": null,
+   "name": "RPM DENTAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30500
+  },
+  {
+   "date": "2010-08-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ELECTROMED, INC.",
+   "numberOfShares": 1700000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ELMD",
+   "totalSharesValue": 6800000
+  },
+  {
+   "date": "2010-08-12",
+   "exchange": null,
+   "name": "CUTANEA LIFE SCIENCES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-08-12",
+   "exchange": "Nasdaq National Market",
+   "name": "MAKEMYTRIP LTD",
+   "numberOfShares": 5000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MMYT",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2010-08-12",
+   "exchange": "Nasdaq National Market",
+   "name": "REALPAGE, INC.",
+   "numberOfShares": 12300000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "RP",
+   "totalSharesValue": 135300000
+  },
+  {
+   "date": "2010-08-12",
+   "exchange": null,
+   "name": "JINTAI MINING GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JTI",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2010-08-11",
+   "exchange": "New York Stock Exchange",
+   "name": "CHINA KANGHUI HOLDINGS",
+   "numberOfShares": 6675000,
+   "price": "10.25",
+   "status": "priced",
+   "symbol": "KH",
+   "totalSharesValue": 68418750
+  },
+  {
+   "date": "2010-08-11",
+   "exchange": "Nasdaq National Market",
+   "name": "MEDIAMIND TECHNOLOGIES INC.",
+   "numberOfShares": 5000000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "MDMD",
+   "totalSharesValue": 57500000
+  },
+  {
+   "date": "2010-08-11",
+   "exchange": null,
+   "name": "BARFRESH FOOD GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2010-08-11",
+   "exchange": null,
+   "name": "PB PROPERTIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2010-08-10",
+   "exchange": "New York Stock Exchange",
+   "name": "UNITED STATES COMMODITY INDEX FUNDS TRUST",
+   "numberOfShares": 50000000,
+   "price": "50.00",
+   "status": "priced",
+   "symbol": "USCI",
+   "totalSharesValue": 2500000000
+  },
+  {
+   "date": "2010-08-10",
+   "exchange": null,
+   "name": "ONLINE DISRUPTIVE TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ONDR",
+   "totalSharesValue": 80001
+  },
+  {
+   "date": "2010-08-10",
+   "exchange": null,
+   "name": "REVEN HOUSING REIT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 70500
+  },
+  {
+   "date": "2010-08-09",
+   "exchange": null,
+   "name": "SKYPE S.A R.L.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-08-09",
+   "exchange": null,
+   "name": "KKR & CO. INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-08-09",
+   "exchange": null,
+   "name": "PDK ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000
+  },
+  {
+   "date": "2010-08-06",
+   "exchange": null,
+   "name": "PANTHER EXPEDITED SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-08-06",
+   "exchange": "Nasdaq National Market",
+   "name": "NUPATHE INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PATH",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2010-08-06",
+   "exchange": "New York Stock Exchange",
+   "name": "INTRALINKS HOLDINGS, INC.",
+   "numberOfShares": 11000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "IL",
+   "totalSharesValue": 143000000
+  },
+  {
+   "date": "2010-08-06",
+   "exchange": "Nasdaq National Market",
+   "name": "NXP SEMICONDUCTORS N.V.",
+   "numberOfShares": 34000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NXPI",
+   "totalSharesValue": 476000000
+  },
+  {
+   "date": "2010-08-06",
+   "exchange": null,
+   "name": "CONTINUITYX SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2010-08-05",
+   "exchange": "New York Stock Exchange",
+   "name": "AMBOW EDUCATION HOLDING LTD.",
+   "numberOfShares": 10677207,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AMBO",
+   "totalSharesValue": 106772070
+  },
+  {
+   "date": "2010-08-05",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "OPHECTRA REAL ESTATE & INVTS LTD.",
+   "numberOfShares": 1500906,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "DMED",
+   "totalSharesValue": 10506342
+  },
+  {
+   "date": "2010-08-05",
+   "exchange": "Nasdaq National Market",
+   "name": "G-ESTATE LIQUIDATION STORES, INC.",
+   "numberOfShares": 5357143,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "GMAN",
+   "totalSharesValue": 58928573
+  },
+  {
+   "date": "2010-08-04",
+   "exchange": null,
+   "name": "PGI ENERGY FUND I SERIES-2010,INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-08-04",
+   "exchange": null,
+   "name": "ENERGEN RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-08-04",
+   "exchange": null,
+   "name": "GREEN & QUALITY HOME LIFE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GQHL",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2010-08-03",
+   "exchange": "Nasdaq National Market",
+   "name": "TRIUS THERAPEUTICS INC",
+   "numberOfShares": 10000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "TSRX",
+   "totalSharesValue": 50000000
+  }
+ ]
+}

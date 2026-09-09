@@ -1,0 +1,427 @@
+{
+ "from": "2010-11-01",
+ "to": "2010-11-30",
+ "fetched_at": "2026-09-09T01:22:55.477206+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2010-11-26",
+   "exchange": null,
+   "name": "S.E. ASIA EMERGING MARKET COMPANY., LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-11-24",
+   "exchange": "Nasdaq National Market",
+   "name": "ANACOR PHARMACEUTICALS, INC.",
+   "numberOfShares": 12000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "ANAC",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2010-11-24",
+   "exchange": "OTCBB",
+   "name": "L&L ACQUISITION CORP.",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LLAQU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2010-11-24",
+   "exchange": null,
+   "name": "ONTARGET360 GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 45600
+  },
+  {
+   "date": "2010-11-24",
+   "exchange": null,
+   "name": "CREDEX CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 735156.25
+  },
+  {
+   "date": "2010-11-23",
+   "exchange": "Nasdaq National Market",
+   "name": "ZOGENIX, INC.",
+   "numberOfShares": 14000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "ZGNX",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2010-11-23",
+   "exchange": null,
+   "name": "VB CLOTHING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000
+  },
+  {
+   "date": "2010-11-23",
+   "exchange": null,
+   "name": "TRAIL ONE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8000
+  },
+  {
+   "date": "2010-11-22",
+   "exchange": null,
+   "name": "GLOBUS MARITIME LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GLBS",
+   "totalSharesValue": 70961712
+  },
+  {
+   "date": "2010-11-19",
+   "exchange": null,
+   "name": "CLARUS THERAPEUTICS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-11-19",
+   "exchange": "OTCBB",
+   "name": "TILE SHOP HOLDINGS INC",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JWCAU",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2010-11-19",
+   "exchange": "Nasdaq National Market",
+   "name": "LIZHAN ENVIRONMENTAL CORP",
+   "numberOfShares": 2500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "LZEN",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2010-11-19",
+   "exchange": "New York Stock Exchange",
+   "name": "AEROFLEX HOLDING CORP.",
+   "numberOfShares": 17250000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "ARX",
+   "totalSharesValue": 232875000
+  },
+  {
+   "date": "2010-11-18",
+   "exchange": "New York Stock Exchange",
+   "name": "GENERAL MOTORS CO",
+   "numberOfShares": 478000000,
+   "price": "33.00",
+   "status": "priced",
+   "symbol": "GM",
+   "totalSharesValue": 15774000000
+  },
+  {
+   "date": "2010-11-18",
+   "exchange": "Nasdaq National Market",
+   "name": "LPL FINANCIAL HOLDINGS INC.",
+   "numberOfShares": 15657482,
+   "price": "30.00",
+   "status": "priced",
+   "symbol": "LPLA",
+   "totalSharesValue": 469724460
+  },
+  {
+   "date": "2010-11-18",
+   "exchange": "Nasdaq National Market",
+   "name": "SIMPLICITY BANCORP, INC.",
+   "numberOfShares": 9918750,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KFFG",
+   "totalSharesValue": 99187500
+  },
+  {
+   "date": "2010-11-17",
+   "exchange": "New York Stock Exchange",
+   "name": "BITAUTO HOLDINGS LTD",
+   "numberOfShares": 10600000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "BITA",
+   "totalSharesValue": 127200000
+  },
+  {
+   "date": "2010-11-17",
+   "exchange": "New York Stock Exchange",
+   "name": "BOOZ ALLEN HAMILTON HOLDING CORP",
+   "numberOfShares": 14000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BAH",
+   "totalSharesValue": 238000000
+  },
+  {
+   "date": "2010-11-16",
+   "exchange": "Nasdaq Smallcap Market",
+   "name": "AUSTRALIA ACQUISITION CORP",
+   "numberOfShares": 6400000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AACOU",
+   "totalSharesValue": 64000000
+  },
+  {
+   "date": "2010-11-12",
+   "exchange": null,
+   "name": "AVARUS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-11-12",
+   "exchange": null,
+   "name": "GEOTAG INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-11-12",
+   "exchange": null,
+   "name": "SEA-TIGER, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-11-12",
+   "exchange": null,
+   "name": "GOODMAN GLOBAL GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-11-12",
+   "exchange": null,
+   "name": "RENEWABLE FUEL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3451196
+  },
+  {
+   "date": "2010-11-11",
+   "exchange": "Nasdaq National Market",
+   "name": "COMPLETE GENOMICS INC",
+   "numberOfShares": 6000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "GNOM",
+   "totalSharesValue": 54000000
+  },
+  {
+   "date": "2010-11-11",
+   "exchange": "New York Stock Exchange",
+   "name": "INPHI CORP",
+   "numberOfShares": 6800000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "IPHI",
+   "totalSharesValue": 81600000
+  },
+  {
+   "date": "2010-11-10",
+   "exchange": "New York Stock Exchange",
+   "name": "NOAH HOLDINGS LTD",
+   "numberOfShares": 8400000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "NOAH",
+   "totalSharesValue": 100800000
+  },
+  {
+   "date": "2010-11-10",
+   "exchange": "New York Stock Exchange",
+   "name": "HOWARD HUGHES CORP",
+   "numberOfShares": 19209814,
+   "price": "36.90",
+   "status": "priced",
+   "symbol": "HHC",
+   "totalSharesValue": 708842137
+  },
+  {
+   "date": "2010-11-05",
+   "exchange": null,
+   "name": "AMBIT BIOSCIENCES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-11-05",
+   "exchange": null,
+   "name": "CASTLEROCK SECURITY HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-11-05",
+   "exchange": "Nasdaq National Market",
+   "name": "FRESH MARKET, INC.",
+   "numberOfShares": 13175000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "TFM",
+   "totalSharesValue": 289850000
+  },
+  {
+   "date": "2010-11-05",
+   "exchange": "Nasdaq National Market",
+   "name": "PRIMO WATER HOLDINGS LLC",
+   "numberOfShares": 8333333,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "PRMW",
+   "totalSharesValue": 99999996
+  },
+  {
+   "date": "2010-11-05",
+   "exchange": null,
+   "name": "WILDCAP ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 680000
+  },
+  {
+   "date": "2010-11-05",
+   "exchange": null,
+   "name": "EXCLUSIVE BUILDING SERVICES, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000
+  },
+  {
+   "date": "2010-11-04",
+   "exchange": "New York Stock Exchange",
+   "name": "COSTAMARE INC.",
+   "numberOfShares": 13300000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "CMRE",
+   "totalSharesValue": 159600000
+  },
+  {
+   "date": "2010-11-04",
+   "exchange": null,
+   "name": "DUNXIN FINANCIAL HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "XNY",
+   "totalSharesValue": 88000000
+  },
+  {
+   "date": "2010-11-04",
+   "exchange": null,
+   "name": "SYSWIN INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SYSW",
+   "totalSharesValue": 67200000
+  },
+  {
+   "date": "2010-11-03",
+   "exchange": "Nasdaq National Market",
+   "name": "SINOTECH ENERGY LTD",
+   "numberOfShares": 19736842,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "CTE",
+   "totalSharesValue": 167763157
+  },
+  {
+   "date": "2010-11-03",
+   "exchange": "Nasdaq National Market",
+   "name": "SODASTREAM INTERNATIONAL LTD.",
+   "numberOfShares": 5447368,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "SODA",
+   "totalSharesValue": 108947360
+  },
+  {
+   "date": "2010-11-03",
+   "exchange": null,
+   "name": "RJD GREEN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 105750
+  },
+  {
+   "date": "2010-11-02",
+   "exchange": "New York Stock Exchange",
+   "name": "XUEDA EDUCATION GROUP",
+   "numberOfShares": 13430000,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "XUE",
+   "totalSharesValue": 127585000
+  },
+  {
+   "date": "2010-11-01",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SP BANCORP, INC.",
+   "numberOfShares": 1725000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SPBC",
+   "totalSharesValue": 17250000
+  }
+ ]
+}

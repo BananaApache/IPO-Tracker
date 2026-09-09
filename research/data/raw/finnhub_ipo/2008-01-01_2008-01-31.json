@@ -1,0 +1,347 @@
+{
+ "from": "2008-01-01",
+ "to": "2008-01-31",
+ "fetched_at": "2026-09-09T01:21:47.448128+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2008-01-29",
+   "exchange": null,
+   "name": "OPEN ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-28",
+   "exchange": null,
+   "name": "CURRENT MEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-28",
+   "exchange": null,
+   "name": "BCD SEMICONDUCTOR MANUFACTURING LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-25",
+   "exchange": null,
+   "name": "PHENOMIX CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-25",
+   "exchange": "American Stock Exchange",
+   "name": "TRIAN ACQUISITION I CORP.",
+   "numberOfShares": 80000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TUX.U",
+   "totalSharesValue": 800000000
+  },
+  {
+   "date": "2008-01-25",
+   "exchange": "American Stock Exchange",
+   "name": "ATLAS ACQUISITION HOLDINGS CORP.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AXG.U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2008-01-24",
+   "exchange": null,
+   "name": "BEIJING BEVERAGE",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-24",
+   "exchange": "New York Stock Exchange",
+   "name": "RISKMETRICS GROUP INC",
+   "numberOfShares": 14000000,
+   "price": "17.50",
+   "status": "priced",
+   "symbol": "RMG",
+   "totalSharesValue": 245000000
+  },
+  {
+   "date": "2008-01-24",
+   "exchange": "Nasdaq National Market",
+   "name": "IPC HEALTHCARE, INC.",
+   "numberOfShares": 5200000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "IPCM",
+   "totalSharesValue": 83200000
+  },
+  {
+   "date": "2008-01-24",
+   "exchange": "American Stock Exchange",
+   "name": "WISDOMTREE CONTINUOUS COMMODITY INDEX FUND",
+   "numberOfShares": 40000000,
+   "price": "30.00",
+   "status": "priced",
+   "symbol": "GCC",
+   "totalSharesValue": 1200000000
+  },
+  {
+   "date": "2008-01-23",
+   "exchange": null,
+   "name": "XEDAR CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-23",
+   "exchange": null,
+   "name": "ACCURO HEALTHCARE SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-23",
+   "exchange": "Nasdaq National Market",
+   "name": "MERIDIAN INTERSTATE BANCORP INC",
+   "numberOfShares": 10050000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EBSB",
+   "totalSharesValue": 100500000
+  },
+  {
+   "date": "2008-01-22",
+   "exchange": null,
+   "name": "CSI MINNESOTA, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-18",
+   "exchange": "American Stock Exchange",
+   "name": "SAPPHIRE INDUSTRIALS CORP.",
+   "numberOfShares": 80000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FYR.U",
+   "totalSharesValue": 800000000
+  },
+  {
+   "date": "2008-01-18",
+   "exchange": "New York Stock Exchange",
+   "name": "WILLIAMS PIPELINE PARTNERS L.P.",
+   "numberOfShares": 16250000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "WMZ",
+   "totalSharesValue": 325000000
+  },
+  {
+   "date": "2008-01-18",
+   "exchange": "American Stock Exchange",
+   "name": "SPORTS PROPERTIES ACQUISITION CORP.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HMR.U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2008-01-17",
+   "exchange": null,
+   "name": "GREENSTREET ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-17",
+   "exchange": "American Stock Exchange",
+   "name": "GEROVA FINANCIAL GROUP LTD",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CIO.U",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2008-01-16",
+   "exchange": null,
+   "name": "STRIPER ENERGY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-14",
+   "exchange": null,
+   "name": "GRAIL INVESTMENT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-14",
+   "exchange": null,
+   "name": "BUNKER HILL MINING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-14",
+   "exchange": "American Stock Exchange",
+   "name": "HUGHES TELEMATICS, INC.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TKP.U",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2008-01-11",
+   "exchange": null,
+   "name": "VALOR COMPUTERIZED SYSTEMS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-10",
+   "exchange": null,
+   "name": "INTELIUS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-10",
+   "exchange": "Nasdaq National Market",
+   "name": "DANVERS BANCORP, INC.",
+   "numberOfShares": 14950000,
+   "price": "9.74",
+   "status": "priced",
+   "symbol": "DNBK",
+   "totalSharesValue": 145613000
+  },
+  {
+   "date": "2008-01-09",
+   "exchange": null,
+   "name": "ASM ACQUISITION CO LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-09",
+   "exchange": "NASDAQ National Market",
+   "name": "CIRCLE ENTERTAINMENT, INC.",
+   "numberOfShares": 19473349,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FXRE",
+   "totalSharesValue": 194733490
+  },
+  {
+   "date": "2008-01-09",
+   "exchange": "OTCBB",
+   "name": "CFN ENTERPRISES INC.",
+   "numberOfShares": 16826519,
+   "price": "0.75",
+   "status": "priced",
+   "symbol": "ACLZ",
+   "totalSharesValue": 12619889
+  },
+  {
+   "date": "2008-01-09",
+   "exchange": null,
+   "name": "RENESOLA LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SOL",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2008-01-08",
+   "exchange": null,
+   "name": "ATA CREATIVITY GLOBAL",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ATAI",
+   "totalSharesValue": 46303114
+  },
+  {
+   "date": "2008-01-07",
+   "exchange": null,
+   "name": "RAI ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-01-07",
+   "exchange": null,
+   "name": "CASCAL N.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HOO",
+   "totalSharesValue": 144000000
+  },
+  {
+   "date": "2008-01-04",
+   "exchange": null,
+   "name": "IPC SYSTEMS HOLDINGS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

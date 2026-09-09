@@ -1,0 +1,367 @@
+{
+ "from": "2014-08-01",
+ "to": "2014-08-31",
+ "fetched_at": "2026-09-09T01:24:25.530409+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-08-28",
+   "exchange": null,
+   "name": "CHALET LIFESTYLES, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-08-27",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SINO MERCURY ACQUISITION CORP.",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SMACU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2014-08-27",
+   "exchange": null,
+   "name": "CONNECT INTERACTIVE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2014-08-26",
+   "exchange": null,
+   "name": "FLAGSHIP GLOBAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-08-25",
+   "exchange": null,
+   "name": "SPELZON CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-08-22",
+   "exchange": null,
+   "name": "VISUAL ACUMEN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-08-21",
+   "exchange": null,
+   "name": "TYG SOLUTIONS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 101500
+  },
+  {
+   "date": "2014-08-19",
+   "exchange": null,
+   "name": "SOUTHEASTERN GROCERS, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-08-19",
+   "exchange": null,
+   "name": "CLORACKS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2955555
+  },
+  {
+   "date": "2014-08-15",
+   "exchange": null,
+   "name": "ASN TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000
+  },
+  {
+   "date": "2014-08-14",
+   "exchange": "New York Stock Exchange",
+   "name": "C1 FINANCIAL, INC.",
+   "numberOfShares": 2631579,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BNK",
+   "totalSharesValue": 44736843
+  },
+  {
+   "date": "2014-08-14",
+   "exchange": null,
+   "name": "ACCESS US OIL & GAS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 199000
+  },
+  {
+   "date": "2014-08-13",
+   "exchange": "Nasdaq National Market",
+   "name": "OTONOMY, INC.",
+   "numberOfShares": 6250000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "OTIC",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2014-08-13",
+   "exchange": null,
+   "name": "SIGNPATH PHARMA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 46774976
+  },
+  {
+   "date": "2014-08-13",
+   "exchange": null,
+   "name": "NATURAL RESOURCES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2014-08-12",
+   "exchange": null,
+   "name": "GENO LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-08-12",
+   "exchange": null,
+   "name": "OCULUS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 56838.35
+  },
+  {
+   "date": "2014-08-12",
+   "exchange": null,
+   "name": "MEGAS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 164696.42
+  },
+  {
+   "date": "2014-08-12",
+   "exchange": null,
+   "name": "SUNSTOCK, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4311902
+  },
+  {
+   "date": "2014-08-08",
+   "exchange": "New York Stock Exchange",
+   "name": "INDEPENDENCE CONTRACT DRILLING, INC.",
+   "numberOfShares": 10000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ICD",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2014-08-08",
+   "exchange": "Nasdaq National Market",
+   "name": "GREEN BANCORP, INC.",
+   "numberOfShares": 4687500,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "GNBC",
+   "totalSharesValue": 70312500
+  },
+  {
+   "date": "2014-08-08",
+   "exchange": "New York Stock Exchange",
+   "name": "RYERSON HOLDING CORP",
+   "numberOfShares": 11000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "RYI",
+   "totalSharesValue": 121000000
+  },
+  {
+   "date": "2014-08-08",
+   "exchange": null,
+   "name": "BETAFOX CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-08-07",
+   "exchange": "Nasdaq National Market",
+   "name": "T2 BIOSYSTEMS, INC.",
+   "numberOfShares": 5200000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "TTOO",
+   "totalSharesValue": 57200000
+  },
+  {
+   "date": "2014-08-07",
+   "exchange": "New York Stock Exchange",
+   "name": "HOEGH LNG PARTNERS LP",
+   "numberOfShares": 9600000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "HMLP",
+   "totalSharesValue": 192000000
+  },
+  {
+   "date": "2014-08-07",
+   "exchange": "Nasdaq National Market",
+   "name": "IDREAMSKY TECHNOLOGY LTD",
+   "numberOfShares": 7700000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "DSKY",
+   "totalSharesValue": 115500000
+  },
+  {
+   "date": "2014-08-06",
+   "exchange": "Nasdaq National Market",
+   "name": "AURIS MEDICAL HOLDING LTD.",
+   "numberOfShares": 9400000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "EARS",
+   "totalSharesValue": 56400000
+  },
+  {
+   "date": "2014-08-06",
+   "exchange": null,
+   "name": "TEARDROPPERS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TDRP",
+   "totalSharesValue": 44833
+  },
+  {
+   "date": "2014-08-05",
+   "exchange": null,
+   "name": "AINA LE'A INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-08-05",
+   "exchange": null,
+   "name": "LEGENDARY VENTURES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 416000
+  },
+  {
+   "date": "2014-08-01",
+   "exchange": "New York Stock Exchange",
+   "name": "MOBILEYE B.V.",
+   "numberOfShares": 35589000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "MBLY",
+   "totalSharesValue": 889725000
+  },
+  {
+   "date": "2014-08-01",
+   "exchange": "New York Stock Exchange",
+   "name": "VTTI ENERGY PARTNERS LP",
+   "numberOfShares": 17500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "VTTI",
+   "totalSharesValue": 367500000
+  },
+  {
+   "date": "2014-08-01",
+   "exchange": "New York Stock Exchange",
+   "name": "FCB FINANCIAL HOLDINGS, INC.",
+   "numberOfShares": 7520000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "FCB",
+   "totalSharesValue": 165440000
+  },
+  {
+   "date": "2014-08-01",
+   "exchange": "Nasdaq National Market",
+   "name": "LOXO ONCOLOGY, INC.",
+   "numberOfShares": 5261538,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "LOXO",
+   "totalSharesValue": 68399994
+  },
+  {
+   "date": "2014-08-01",
+   "exchange": null,
+   "name": "STEM SALES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-08-01",
+   "exchange": null,
+   "name": "SAFETY QUICK LIGHTING & FANS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 17112603
+  }
+ ]
+}

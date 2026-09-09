@@ -1,0 +1,197 @@
+{
+ "from": "2016-04-01",
+ "to": "2016-04-30",
+ "fetched_at": "2026-09-09T01:25:05.533281+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2016-04-28",
+   "exchange": "Nasdaq National Market",
+   "name": "GLOBAL WATER RESOURCES, INC.",
+   "numberOfShares": 1164800,
+   "price": "6.25",
+   "status": "priced",
+   "symbol": "GWRS",
+   "totalSharesValue": 7280000
+  },
+  {
+   "date": "2016-04-28",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PAVMED INC.",
+   "numberOfShares": 1060000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "PAVMU",
+   "totalSharesValue": 5300000
+  },
+  {
+   "date": "2016-04-27",
+   "exchange": "Nasdaq National Market",
+   "name": "RED ROCK RESORTS, INC.",
+   "numberOfShares": 27250000,
+   "price": "19.50",
+   "status": "priced",
+   "symbol": "RRR",
+   "totalSharesValue": 531375000
+  },
+  {
+   "date": "2016-04-27",
+   "exchange": null,
+   "name": "NEW GOLD DISCOVERIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3000000
+  },
+  {
+   "date": "2016-04-27",
+   "exchange": null,
+   "name": "RC-1, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "RCRS",
+   "totalSharesValue": 251172
+  },
+  {
+   "date": "2016-04-22",
+   "exchange": "Nasdaq National Market",
+   "name": "SECUREWORKS CORP",
+   "numberOfShares": 8000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "SCWX",
+   "totalSharesValue": 112000000
+  },
+  {
+   "date": "2016-04-21",
+   "exchange": "New York Stock Exchange",
+   "name": "AMERICAN RENAL ASSOCIATES HOLDINGS, INC.",
+   "numberOfShares": 7500000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "ARA",
+   "totalSharesValue": 165000000
+  },
+  {
+   "date": "2016-04-20",
+   "exchange": "New York Stock Exchange",
+   "name": "MGM GROWTH PROPERTIES LLC",
+   "numberOfShares": 50000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "MGP",
+   "totalSharesValue": 1050000000
+  },
+  {
+   "date": "2016-04-18",
+   "exchange": null,
+   "name": "TRIPBORN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3214285.8
+  },
+  {
+   "date": "2016-04-15",
+   "exchange": null,
+   "name": "BIOCARDIA LIFESCIENCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-04-15",
+   "exchange": null,
+   "name": "FLOOR & DECOR HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-04-14",
+   "exchange": null,
+   "name": "GENSIGHT BIOLOGICS S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-04-13",
+   "exchange": null,
+   "name": "BAVARIAN NORDIC A/S / ADR",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-04-12",
+   "exchange": null,
+   "name": "NEXT GEN WATER CORP LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 250000
+  },
+  {
+   "date": "2016-04-07",
+   "exchange": "Nasdaq National Market",
+   "name": "AEGLEA BIOTHERAPEUTICS, INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AGLE",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2016-04-06",
+   "exchange": "OTCBB",
+   "name": "DATASEA INC.",
+   "numberOfShares": 9393000,
+   "price": "0.01",
+   "status": "priced",
+   "symbol": "DTSS",
+   "totalSharesValue": 93930
+  },
+  {
+   "date": "2016-04-04",
+   "exchange": null,
+   "name": "GABBIT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2016-04-04",
+   "exchange": null,
+   "name": "YINTECH INVESTMENT HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "YIN",
+   "totalSharesValue": 101250000
+  },
+  {
+   "date": "2016-04-01",
+   "exchange": null,
+   "name": "TRANSFIRST HOLDINGS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

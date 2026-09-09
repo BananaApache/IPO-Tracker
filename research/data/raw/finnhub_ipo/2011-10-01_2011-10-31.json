@@ -1,0 +1,237 @@
+{
+ "from": "2011-10-01",
+ "to": "2011-10-31",
+ "fetched_at": "2026-09-09T01:23:17.476198+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2011-10-28",
+   "exchange": null,
+   "name": "SAVING ENERGY SOLAR INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-10-28",
+   "exchange": null,
+   "name": "GLOBAL LINES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-10-27",
+   "exchange": null,
+   "name": "CHARGER MINERALS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-10-26",
+   "exchange": null,
+   "name": "ORO EAST MINING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20599320
+  },
+  {
+   "date": "2011-10-26",
+   "exchange": null,
+   "name": "STEP OUT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000
+  },
+  {
+   "date": "2011-10-26",
+   "exchange": null,
+   "name": "AMERICAN BUSINESS SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 224000
+  },
+  {
+   "date": "2011-10-25",
+   "exchange": null,
+   "name": "HAPYKIDZ.COM",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HKDZ",
+   "totalSharesValue": 300000
+  },
+  {
+   "date": "2011-10-20",
+   "exchange": null,
+   "name": "CHIMERA ENERGY CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2011-10-20",
+   "exchange": null,
+   "name": "DAS GLOBAL CAPITAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2011-10-19",
+   "exchange": "Nasdaq National Market",
+   "name": "ZELTIQ AESTHETICS INC",
+   "numberOfShares": 7000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "ZLTQ",
+   "totalSharesValue": 91000000
+  },
+  {
+   "date": "2011-10-18",
+   "exchange": null,
+   "name": "LICONT, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 54500
+  },
+  {
+   "date": "2011-10-17",
+   "exchange": null,
+   "name": "VDO-PH INTERNATIONAL",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1131900
+  },
+  {
+   "date": "2011-10-14",
+   "exchange": "New York Stock Exchange",
+   "name": "INVESCO CURRENCYSHARES CHINESE RENMINBI TRUST",
+   "numberOfShares": 7000000,
+   "price": "78.21",
+   "status": "priced",
+   "symbol": "FXCH",
+   "totalSharesValue": 547470000
+  },
+  {
+   "date": "2011-10-14",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "BSB BANCORP, INC.",
+   "numberOfShares": 7820000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BLMT",
+   "totalSharesValue": 78200000
+  },
+  {
+   "date": "2011-10-14",
+   "exchange": "Nasdaq National Market",
+   "name": "UBIQUITI INC.",
+   "numberOfShares": 7038230,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "UBNT",
+   "totalSharesValue": 105573450
+  },
+  {
+   "date": "2011-10-14",
+   "exchange": "OTCBB",
+   "name": "HINTO ENERGY, INC",
+   "numberOfShares": 1030000,
+   "price": "0.25",
+   "status": "priced",
+   "symbol": "GVTS",
+   "totalSharesValue": 257500
+  },
+  {
+   "date": "2011-10-13",
+   "exchange": null,
+   "name": "GREEN 4 MEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 101000
+  },
+  {
+   "date": "2011-10-12",
+   "exchange": null,
+   "name": "NSJ-US. CO., LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 35000
+  },
+  {
+   "date": "2011-10-12",
+   "exchange": null,
+   "name": "PIXTEL GROUP LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3600000
+  },
+  {
+   "date": "2011-10-07",
+   "exchange": null,
+   "name": "UNIVERSAL TECH CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2011-10-06",
+   "exchange": null,
+   "name": "LABOR SMART, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 6400
+  },
+  {
+   "date": "2011-10-04",
+   "exchange": null,
+   "name": "GLOBAL SEED CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 125000
+  },
+  {
+   "date": "2011-10-04",
+   "exchange": null,
+   "name": "ISLAND LANGUAGE STUDIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20150
+  }
+ ]
+}

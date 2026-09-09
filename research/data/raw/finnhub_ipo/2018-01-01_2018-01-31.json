@@ -1,0 +1,307 @@
+{
+ "from": "2018-01-01",
+ "to": "2018-01-31",
+ "fetched_at": "2026-09-09T01:25:47.559845+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2018-01-30",
+   "exchange": "NASDAQ Capital",
+   "name": "MTECH ACQUISITION CORP",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MTECU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2018-01-30",
+   "exchange": null,
+   "name": "JINXUAN COKING COAL LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2018-01-29",
+   "exchange": null,
+   "name": "FINN POWER ENERGY CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 19999998.6
+  },
+  {
+   "date": "2018-01-26",
+   "exchange": "NYSE",
+   "name": "PLAYAGS, INC.",
+   "numberOfShares": 10250000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "AGS",
+   "totalSharesValue": 164000000
+  },
+  {
+   "date": "2018-01-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "SOLID BIOSCIENCES INC.",
+   "numberOfShares": 7812500,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "SLDB",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2018-01-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "ARMO BIOSCIENCES, INC.",
+   "numberOfShares": 7529412,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ARMO",
+   "totalSharesValue": 128000004
+  },
+  {
+   "date": "2018-01-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "RESTORBIO, INC.",
+   "numberOfShares": 5666667,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "TORC",
+   "totalSharesValue": 85000005
+  },
+  {
+   "date": "2018-01-26",
+   "exchange": null,
+   "name": "WALLEO INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2018-01-25",
+   "exchange": "NASDAQ Capital",
+   "name": "EYENOVIA, INC.",
+   "numberOfShares": 2730000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EYEN",
+   "totalSharesValue": 27300000
+  },
+  {
+   "date": "2018-01-25",
+   "exchange": "NASDAQ Capital",
+   "name": "GORDON POINTE ACQUISITION CORP.",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GPAQU",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2018-01-25",
+   "exchange": "NYSE",
+   "name": "GATES INDUSTRIAL CORP PLC",
+   "numberOfShares": 38500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "GTES",
+   "totalSharesValue": 731500000
+  },
+  {
+   "date": "2018-01-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "MENLO THERAPEUTICS INC.",
+   "numberOfShares": 7000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "MNLO",
+   "totalSharesValue": 119000000
+  },
+  {
+   "date": "2018-01-25",
+   "exchange": null,
+   "name": "HIGHTIMES HOLDING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HITM",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2018-01-24",
+   "exchange": "NYSE",
+   "name": "PAGSEGURO DIGITAL LTD.",
+   "numberOfShares": 105385555,
+   "price": "21.50",
+   "status": "priced",
+   "symbol": "PAGS",
+   "totalSharesValue": 2265789433
+  },
+  {
+   "date": "2018-01-19",
+   "exchange": "NYSE",
+   "name": "ADT INC.",
+   "numberOfShares": 105000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ADT",
+   "totalSharesValue": 1470000000
+  },
+  {
+   "date": "2018-01-19",
+   "exchange": "NYSE",
+   "name": "AMERICOLD REALTY TRUST",
+   "numberOfShares": 45300000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "COLD",
+   "totalSharesValue": 724800000
+  },
+  {
+   "date": "2018-01-19",
+   "exchange": "NYSE",
+   "name": "NINE ENERGY SERVICE, INC.",
+   "numberOfShares": 7000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "NINE",
+   "totalSharesValue": 161000000
+  },
+  {
+   "date": "2018-01-19",
+   "exchange": null,
+   "name": "AFRIKA4U",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2018-01-18",
+   "exchange": "NYSE",
+   "name": "RANPAK HOLDINGS CORP.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OMADU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2018-01-18",
+   "exchange": null,
+   "name": "VADO CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2018-01-17",
+   "exchange": null,
+   "name": "CREST RADIUS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2018-01-12",
+   "exchange": "NASDAQ Capital",
+   "name": "TARGET HOSPITALITY CORP.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EAGLU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2018-01-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "INDUSTRIAL LOGISTICS PROPERTIES TRUST",
+   "numberOfShares": 20000000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "ILPT",
+   "totalSharesValue": 480000000
+  },
+  {
+   "date": "2018-01-12",
+   "exchange": "NYSE",
+   "name": "LIBERTY OILFIELD SERVICES INC.",
+   "numberOfShares": 12731092,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LBRT",
+   "totalSharesValue": 216428564
+  },
+  {
+   "date": "2018-01-12",
+   "exchange": null,
+   "name": "ARMADA NANO TECHNOLOGIES GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2018-01-12",
+   "exchange": null,
+   "name": "VISTA PROPPANTS & LOGISTICS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "VPRL",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2018-01-10",
+   "exchange": null,
+   "name": "DOLE FOOD CO INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-01-10",
+   "exchange": "NASDAQ Capital",
+   "name": "NEBULA ACQUISITION CORP",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NEBUU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2018-01-03",
+   "exchange": null,
+   "name": "OPTIV INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-01-02",
+   "exchange": "NASDAQ Capital",
+   "name": "CUE BIOPHARMA, INC.",
+   "numberOfShares": 8820710,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "CUE",
+   "totalSharesValue": 66155325
+  }
+ ]
+}

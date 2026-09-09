@@ -1,0 +1,367 @@
+{
+ "from": "2013-12-01",
+ "to": "2013-12-31",
+ "fetched_at": "2026-09-09T01:24:09.507071+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2013-12-31",
+   "exchange": null,
+   "name": "ISHARES COPPER TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-12-31",
+   "exchange": null,
+   "name": "ROYAL BAKERY HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1366333
+  },
+  {
+   "date": "2013-12-31",
+   "exchange": null,
+   "name": "ASTA HOLDINGS, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2013-12-30",
+   "exchange": null,
+   "name": "UNITED STATES COMMODITY FUNDS TRUST I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-12-30",
+   "exchange": null,
+   "name": "UNITED STATES COMMODITY FUNDS TRUST I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-12-30",
+   "exchange": null,
+   "name": "UNITED STATES COMMODITY FUNDS TRUST I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-12-30",
+   "exchange": null,
+   "name": "UNITED STATES COMMODITY FUNDS TRUST I",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-12-26",
+   "exchange": null,
+   "name": "FOCUS UNIVERSAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 375000
+  },
+  {
+   "date": "2013-12-24",
+   "exchange": null,
+   "name": "IBV, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2013-12-23",
+   "exchange": null,
+   "name": "AMERICAN PETROLEUM TANKERS PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-12-23",
+   "exchange": null,
+   "name": "PRINCIPAL SOLAR, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 24938492.5
+  },
+  {
+   "date": "2013-12-20",
+   "exchange": null,
+   "name": "MICHAELS STORES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-12-20",
+   "exchange": null,
+   "name": "BLING MARKETING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 250000
+  },
+  {
+   "date": "2013-12-18",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ABILITY INC",
+   "numberOfShares": 7000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CAMBU",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2013-12-18",
+   "exchange": "New York Stock Exchange",
+   "name": "AMC ENTERTAINMENT HOLDINGS, INC.",
+   "numberOfShares": 18421053,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "AMC",
+   "totalSharesValue": 331578954
+  },
+  {
+   "date": "2013-12-18",
+   "exchange": null,
+   "name": "POCKET GAMES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1630000
+  },
+  {
+   "date": "2013-12-17",
+   "exchange": null,
+   "name": "ADAIAH DISTRIBUTION INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2013-12-16",
+   "exchange": null,
+   "name": "KETDARINA CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 46200
+  },
+  {
+   "date": "2013-12-16",
+   "exchange": null,
+   "name": "ASIYA PEARLS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2013-12-13",
+   "exchange": null,
+   "name": "REXIT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-12-13",
+   "exchange": "New York Stock Exchange",
+   "name": "NIMBLE STORAGE INC",
+   "numberOfShares": 8000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "NMBL",
+   "totalSharesValue": 168000000
+  },
+  {
+   "date": "2013-12-13",
+   "exchange": "American Stock Exchange",
+   "name": "CHENIERE ENERGY PARTNERS LP HOLDINGS, LLC",
+   "numberOfShares": 36000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "CQH",
+   "totalSharesValue": 720000000
+  },
+  {
+   "date": "2013-12-13",
+   "exchange": "New York Stock Exchange",
+   "name": "FIDELITY & GUARANTY LIFE",
+   "numberOfShares": 9750000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "FGL",
+   "totalSharesValue": 165750000
+  },
+  {
+   "date": "2013-12-12",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "KINDRED BIOSCIENCES, INC.",
+   "numberOfShares": 7500000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "KIN",
+   "totalSharesValue": 52500000
+  },
+  {
+   "date": "2013-12-12",
+   "exchange": "New York Stock Exchange",
+   "name": "SCORPIO BULKERS INC.",
+   "numberOfShares": 31300000,
+   "price": "9.75",
+   "status": "priced",
+   "symbol": "SALT",
+   "totalSharesValue": 305175000
+  },
+  {
+   "date": "2013-12-12",
+   "exchange": "Nasdaq National Market",
+   "name": "TETRALOGIC PHARMACEUTICALS CORP",
+   "numberOfShares": 7150000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "TLOG",
+   "totalSharesValue": 50050000
+  },
+  {
+   "date": "2013-12-12",
+   "exchange": "New York Stock Exchange",
+   "name": "ARAMARK",
+   "numberOfShares": 36250000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "ARMK",
+   "totalSharesValue": 725000000
+  },
+  {
+   "date": "2013-12-12",
+   "exchange": "New York Stock Exchange",
+   "name": "HILTON WORLDWIDE HOLDINGS INC.",
+   "numberOfShares": 117640624,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "HLT",
+   "totalSharesValue": 2352812480
+  },
+  {
+   "date": "2013-12-12",
+   "exchange": "New York Stock Exchange",
+   "name": "CATCHMARK TIMBER TRUST, INC.",
+   "numberOfShares": 10526316,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "CTT",
+   "totalSharesValue": 142105266
+  },
+  {
+   "date": "2013-12-11",
+   "exchange": "New York Stock Exchange",
+   "name": "AUTOHOME INC.",
+   "numberOfShares": 7820000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ATHM",
+   "totalSharesValue": 132940000
+  },
+  {
+   "date": "2013-12-11",
+   "exchange": "New York Stock Exchange",
+   "name": "VALERO ENERGY PARTNERS LP",
+   "numberOfShares": 15000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "VLP",
+   "totalSharesValue": 345000000
+  },
+  {
+   "date": "2013-12-06",
+   "exchange": null,
+   "name": "PERKO WORLDWIDE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 375000000
+  },
+  {
+   "date": "2013-12-05",
+   "exchange": "Nasdaq National Market",
+   "name": "KOFAX LTD",
+   "numberOfShares": 2000000,
+   "price": "5.85",
+   "status": "priced",
+   "symbol": "KFX",
+   "totalSharesValue": 11700000
+  },
+  {
+   "date": "2013-12-04",
+   "exchange": null,
+   "name": "HYPERVIEW LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-12-04",
+   "exchange": null,
+   "name": "COMPLIANCE & RISK MANAGEMENT SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 180960
+  },
+  {
+   "date": "2013-12-03",
+   "exchange": "Nasdaq National Market",
+   "name": "XENCOR INC",
+   "numberOfShares": 12730000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "XNCR",
+   "totalSharesValue": 70015000
+  }
+ ]
+}

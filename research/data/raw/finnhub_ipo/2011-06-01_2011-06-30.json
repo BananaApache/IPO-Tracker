@@ -1,0 +1,437 @@
+{
+ "from": "2011-06-01",
+ "to": "2011-06-30",
+ "fetched_at": "2026-09-09T01:23:09.479657+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2011-06-30",
+   "exchange": "New York Stock Exchange",
+   "name": "AG MORTGAGE INVESTMENT TRUST, INC.",
+   "numberOfShares": 5500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "MITT",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2011-06-30",
+   "exchange": "Nasdaq National Market",
+   "name": "FIRST CONNECTICUT BANCORP, INC.",
+   "numberOfShares": 17192500,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FBNK",
+   "totalSharesValue": 171925000
+  },
+  {
+   "date": "2011-06-29",
+   "exchange": "Nasdaq National Market",
+   "name": "HOMEAWAY INC",
+   "numberOfShares": 8000000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "AWAY",
+   "totalSharesValue": 216000000
+  },
+  {
+   "date": "2011-06-29",
+   "exchange": null,
+   "name": "AUTOVATIVE PRODUCTS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1385977
+  },
+  {
+   "date": "2011-06-29",
+   "exchange": null,
+   "name": "AVENUE CAPITAL MORTGAGE REIT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AVRE",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2011-06-29",
+   "exchange": null,
+   "name": "GETAWAY2GOLFONLINE.COM",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 18000
+  },
+  {
+   "date": "2011-06-28",
+   "exchange": null,
+   "name": "J & P REALTY TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-06-28",
+   "exchange": null,
+   "name": "DIVERSIFIED RESOURCES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 44000
+  },
+  {
+   "date": "2011-06-27",
+   "exchange": null,
+   "name": "SOLAR AMERICA CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2011-06-27",
+   "exchange": null,
+   "name": "YANEX GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2011-06-27",
+   "exchange": null,
+   "name": "MOBILE VAULT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2011-06-24",
+   "exchange": "Nasdaq National Market",
+   "name": "KIOR INC",
+   "numberOfShares": 10000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "KIOR",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2011-06-23",
+   "exchange": null,
+   "name": "RADIUS HEALTH, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 43320325.2
+  },
+  {
+   "date": "2011-06-23",
+   "exchange": null,
+   "name": "PROPANC HEALTH GROUP CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 29074761
+  },
+  {
+   "date": "2011-06-22",
+   "exchange": "OTCBB",
+   "name": "SAEXPLORATION HOLDINGS, INC.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TMRGU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2011-06-22",
+   "exchange": "New York Stock Exchange",
+   "name": "VANGUARD HEALTH SYSTEMS INC",
+   "numberOfShares": 25000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "VHS",
+   "totalSharesValue": 450000000
+  },
+  {
+   "date": "2011-06-21",
+   "exchange": null,
+   "name": "PINACLE ENTERPRISE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2011-06-17",
+   "exchange": "New York Stock Exchange",
+   "name": "BANKRATE, INC.",
+   "numberOfShares": 20000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "RATE",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2011-06-17",
+   "exchange": null,
+   "name": "OPU, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4316000
+  },
+  {
+   "date": "2011-06-16",
+   "exchange": "OTCBB",
+   "name": "INTEGRATED DRILLING EQUIPMENT HOLDINGS CORP",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EPAQU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2011-06-15",
+   "exchange": "New York Stock Exchange",
+   "name": "PANDORA MEDIA, LLC",
+   "numberOfShares": 14684000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "P",
+   "totalSharesValue": 234944000
+  },
+  {
+   "date": "2011-06-15",
+   "exchange": "Nasdaq National Market",
+   "name": "CSI COMPRESSCO LP",
+   "numberOfShares": 2670000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "GSJK",
+   "totalSharesValue": 53400000
+  },
+  {
+   "date": "2011-06-15",
+   "exchange": null,
+   "name": "GAIA REMEDIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 86300
+  },
+  {
+   "date": "2011-06-15",
+   "exchange": null,
+   "name": "REAL ESTATE CONTACTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1803000
+  },
+  {
+   "date": "2011-06-14",
+   "exchange": null,
+   "name": "GELTOLOGY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-06-14",
+   "exchange": null,
+   "name": "PREMIER BIOMEDICAL INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 418600
+  },
+  {
+   "date": "2011-06-14",
+   "exchange": null,
+   "name": "INDIA ECOMMERCE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 121400
+  },
+  {
+   "date": "2011-06-13",
+   "exchange": null,
+   "name": "CASCADE SPRINGS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1312500
+  },
+  {
+   "date": "2011-06-10",
+   "exchange": null,
+   "name": "ENTEGRA FINANCIAL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-06-10",
+   "exchange": null,
+   "name": "SCRIPSAMERICA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1045800
+  },
+  {
+   "date": "2011-06-09",
+   "exchange": "New York Stock Exchange",
+   "name": "FUSION-IO, INC.",
+   "numberOfShares": 12300000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "FIO",
+   "totalSharesValue": 233700000
+  },
+  {
+   "date": "2011-06-09",
+   "exchange": "New York Stock Exchange",
+   "name": "TAOMEE HOLDINGS LTD",
+   "numberOfShares": 7187500,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "TAOM",
+   "totalSharesValue": 64687500
+  },
+  {
+   "date": "2011-06-08",
+   "exchange": null,
+   "name": "XUNLEI LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-06-07",
+   "exchange": null,
+   "name": "LIGHTCOLLAR, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-06-06",
+   "exchange": "OTCBB",
+   "name": "SPORTS VENUES OF FLORIDA, INC.",
+   "numberOfShares": 1868400,
+   "price": "2.49",
+   "status": "priced",
+   "symbol": "BTHR",
+   "totalSharesValue": 4652316
+  },
+  {
+   "date": "2011-06-06",
+   "exchange": null,
+   "name": "HECATE EXPLORATION",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2011-06-03",
+   "exchange": null,
+   "name": "REGIUS THOROUGHBREDS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-06-03",
+   "exchange": null,
+   "name": "LIFEAPPS DIGITAL MEDIA INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-06-03",
+   "exchange": null,
+   "name": "ADELT DESIGN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8000
+  },
+  {
+   "date": "2011-06-03",
+   "exchange": null,
+   "name": "RSR DEVELOPMENT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 9999900
+  },
+  {
+   "date": "2011-06-02",
+   "exchange": null,
+   "name": "CK VINEYARDS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2011-06-02",
+   "exchange": null,
+   "name": "VIRTUAL LEARNING COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2011-06-01",
+   "exchange": null,
+   "name": "SINO DAREN CO. LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 475000
+  }
+ ]
+}

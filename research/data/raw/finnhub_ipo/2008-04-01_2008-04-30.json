@@ -1,0 +1,147 @@
+{
+ "from": "2008-04-01",
+ "to": "2008-04-30",
+ "fetched_at": "2026-09-09T01:21:53.445331+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2008-04-30",
+   "exchange": null,
+   "name": "INTERACTIVE ENTERTAINMENT GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-04-25",
+   "exchange": "New York Stock Exchange",
+   "name": "HATTERAS FINANCIAL CORP",
+   "numberOfShares": 10000000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "HTS",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2008-04-23",
+   "exchange": "New York Stock Exchange",
+   "name": "AMERICAN WATER WORKS COMPANY, INC.",
+   "numberOfShares": 58000000,
+   "price": "21.50",
+   "status": "priced",
+   "symbol": "AWK",
+   "totalSharesValue": 1247000000
+  },
+  {
+   "date": "2008-04-22",
+   "exchange": "New York Stock Exchange",
+   "name": "INTREPID POTASH, INC.",
+   "numberOfShares": 30000000,
+   "price": "32.00",
+   "status": "priced",
+   "symbol": "IPI",
+   "totalSharesValue": 960000000
+  },
+  {
+   "date": "2008-04-21",
+   "exchange": null,
+   "name": "LMI HOLDINGS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-04-21",
+   "exchange": null,
+   "name": "GF ACQUISITION CORP /CA/",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-04-17",
+   "exchange": null,
+   "name": "EPOCRATES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-04-15",
+   "exchange": null,
+   "name": "RHINO RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-04-14",
+   "exchange": null,
+   "name": "CODEXIS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-04-14",
+   "exchange": null,
+   "name": "FLUIDIGM CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-04-09",
+   "exchange": "American Stock Exchange",
+   "name": "UNITED STATES DIESEL-HEATING OIL FUND, LP",
+   "numberOfShares": 10000000,
+   "price": "50.00",
+   "status": "priced",
+   "symbol": "UHN",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2008-04-08",
+   "exchange": null,
+   "name": "APOLLO GLOBAL MANAGEMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "APO",
+   "totalSharesValue": 565393621
+  },
+  {
+   "date": "2008-04-07",
+   "exchange": null,
+   "name": "HOME SCHOOL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-04-01",
+   "exchange": null,
+   "name": "BIOTROVE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "from": "2017-12-01",
+ "to": "2017-12-31",
+ "fetched_at": "2026-09-09T01:25:45.567380+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-12-29",
+   "exchange": null,
+   "name": "HOVERINK BIOTECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-12-28",
+   "exchange": null,
+   "name": "SYNDICATED RESORTS ASSOCIATION,INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 121000
+  },
+  {
+   "date": "2017-12-26",
+   "exchange": null,
+   "name": "CAT9 GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3200000
+  },
+  {
+   "date": "2017-12-22",
+   "exchange": "NASDAQ Global",
+   "name": "ICLICK INTERACTIVE ASIA GROUP LTD",
+   "numberOfShares": 3750000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "ICLK",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2017-12-21",
+   "exchange": "NASDAQ Global",
+   "name": "LEXINFINTECH HOLDINGS LTD.",
+   "numberOfShares": 12000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "LX",
+   "totalSharesValue": 108000000
+  },
+  {
+   "date": "2017-12-20",
+   "exchange": "NASDAQ Global",
+   "name": "DOGNESS (INTERNATIONAL) CORP",
+   "numberOfShares": 11000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "DOGZ",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2017-12-20",
+   "exchange": null,
+   "name": "AERKOMM INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2017-12-18",
+   "exchange": null,
+   "name": "DUNDON CAPITAL ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-12-15",
+   "exchange": "NASDAQ Global Select",
+   "name": "CASA SYSTEMS INC",
+   "numberOfShares": 6000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "CASA",
+   "totalSharesValue": 78000000
+  },
+  {
+   "date": "2017-12-15",
+   "exchange": "NASDAQ Global Select",
+   "name": "NEWMARK GROUP, INC.",
+   "numberOfShares": 20000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NMRK",
+   "totalSharesValue": 280000000
+  },
+  {
+   "date": "2017-12-15",
+   "exchange": null,
+   "name": "REGNUM CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2017-12-08",
+   "exchange": null,
+   "name": "ARAZU, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-12-08",
+   "exchange": "NASDAQ Global Select",
+   "name": "LUTHER BURBANK CORP",
+   "numberOfShares": 12150000,
+   "price": "10.75",
+   "status": "priced",
+   "symbol": "LBC",
+   "totalSharesValue": 130612500
+  },
+  {
+   "date": "2017-12-08",
+   "exchange": "NASDAQ Global Select",
+   "name": "DENALI THERAPEUTICS INC.",
+   "numberOfShares": 13888888,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "DNLI",
+   "totalSharesValue": 249999984
+  },
+  {
+   "date": "2017-12-08",
+   "exchange": "NYSE",
+   "name": "KALEYRA, INC.",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GIG'U",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2017-12-08",
+   "exchange": null,
+   "name": "GOLDEN METROPOLIS INTERNATIONAL LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "WALL",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2017-12-07",
+   "exchange": "NASDAQ Global",
+   "name": "QUANTERIX CORP",
+   "numberOfShares": 4275200,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "QTRX",
+   "totalSharesValue": 64128000
+  },
+  {
+   "date": "2017-12-07",
+   "exchange": "NASDAQ Global Select",
+   "name": "ODONATE THERAPEUTICS, INC.",
+   "numberOfShares": 6250000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "ODT",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2017-12-07",
+   "exchange": "NYSE",
+   "name": "CURO GROUP HOLDINGS CORP.",
+   "numberOfShares": 6666667,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "CURO",
+   "totalSharesValue": 93333338
+  },
+  {
+   "date": "2017-12-06",
+   "exchange": null,
+   "name": "NEXTGLASS TECHNOLOGIES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-12-05",
+   "exchange": null,
+   "name": "DATASEA INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 6670000
+  },
+  {
+   "date": "2017-12-01",
+   "exchange": "NASDAQ Capital",
+   "name": "LEISURE ACQUISITION CORP.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LACQU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2017-12-01",
+   "exchange": "NYSE",
+   "name": "REGALWOOD GLOBAL ENERGY LTD.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RWGEU",
+   "totalSharesValue": 300000000
+  }
+ ]
+}

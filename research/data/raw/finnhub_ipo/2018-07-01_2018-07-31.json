@@ -1,0 +1,357 @@
+{
+ "from": "2018-07-01",
+ "to": "2018-07-31",
+ "fetched_at": "2026-09-09T01:25:59.578685+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2018-07-27",
+   "exchange": "NYSE",
+   "name": "ENDAVA PLC",
+   "numberOfShares": 6340000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "DAVA",
+   "totalSharesValue": 126800000
+  },
+  {
+   "date": "2018-07-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "OPERA LTD",
+   "numberOfShares": 9600000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "OPRA",
+   "totalSharesValue": 115200000
+  },
+  {
+   "date": "2018-07-27",
+   "exchange": "NASDAQ Capital",
+   "name": "SUMMIT WIRELESS TECHNOLOGIES, INC.",
+   "numberOfShares": 2400000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "WISA",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2018-07-27",
+   "exchange": "NASDAQ Capital",
+   "name": "ADIAL PHARMACEUTICALS, INC.",
+   "numberOfShares": 1464000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "ADIL",
+   "totalSharesValue": 7320000
+  },
+  {
+   "date": "2018-07-26",
+   "exchange": "NYSE",
+   "name": "CANGO INC.",
+   "numberOfShares": 4000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "CANG",
+   "totalSharesValue": 44000000
+  },
+  {
+   "date": "2018-07-26",
+   "exchange": "NASDAQ Capital",
+   "name": "LIQUIDIA TECHNOLOGIES INC",
+   "numberOfShares": 4545455,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "LQDA",
+   "totalSharesValue": 50000005
+  },
+  {
+   "date": "2018-07-26",
+   "exchange": "NASDAQ Global",
+   "name": "AURORA MOBILE LTD",
+   "numberOfShares": 9060000,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "JG",
+   "totalSharesValue": 77010000
+  },
+  {
+   "date": "2018-07-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "TENABLE HOLDINGS, INC.",
+   "numberOfShares": 10900000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "TENB",
+   "totalSharesValue": 250700000
+  },
+  {
+   "date": "2018-07-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "BERRY CORP (BRY)",
+   "numberOfShares": 13043479,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "BRY",
+   "totalSharesValue": 182608706
+  },
+  {
+   "date": "2018-07-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "PINDUODUO INC.",
+   "numberOfShares": 85600000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "PDD",
+   "totalSharesValue": 1626400000
+  },
+  {
+   "date": "2018-07-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "FOCUS FINANCIAL PARTNERS INC.",
+   "numberOfShares": 16216217,
+   "price": "33.00",
+   "status": "priced",
+   "symbol": "FOCS",
+   "totalSharesValue": 535135161
+  },
+  {
+   "date": "2018-07-25",
+   "exchange": null,
+   "name": "MARKET VECTORS COMMODITY TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-07-25",
+   "exchange": "NYSE",
+   "name": "BLOOM ENERGY CORP",
+   "numberOfShares": 18000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "BE",
+   "totalSharesValue": 270000000
+  },
+  {
+   "date": "2018-07-25",
+   "exchange": "NASDAQ Global",
+   "name": "AQUESTIVE THERAPEUTICS, INC.",
+   "numberOfShares": 4500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "AQST",
+   "totalSharesValue": 67500000
+  },
+  {
+   "date": "2018-07-25",
+   "exchange": "NASDAQ Capital",
+   "name": "GREENLAND TECHNOLOGIES HOLDING CORP.",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GLACU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2018-07-24",
+   "exchange": "NASDAQ Capital",
+   "name": "PROVENTION BIO, INC.",
+   "numberOfShares": 16375000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "PRVB",
+   "totalSharesValue": 65500000
+  },
+  {
+   "date": "2018-07-24",
+   "exchange": null,
+   "name": "JOSHUA GOLD RESOURCES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 750000
+  },
+  {
+   "date": "2018-07-23",
+   "exchange": null,
+   "name": "FAH MAI HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8430897
+  },
+  {
+   "date": "2018-07-20",
+   "exchange": null,
+   "name": "CANUELAS MILL S.A.C.I.F.I.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-07-20",
+   "exchange": "NASDAQ Global Select",
+   "name": "REPLIMUNE GROUP, INC.",
+   "numberOfShares": 6700000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "REPL",
+   "totalSharesValue": 100500000
+  },
+  {
+   "date": "2018-07-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "FIRST WESTERN FINANCIAL INC",
+   "numberOfShares": 1975000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "MYFW",
+   "totalSharesValue": 37525000
+  },
+  {
+   "date": "2018-07-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "TILRAY, INC.",
+   "numberOfShares": 9000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "TLRY",
+   "totalSharesValue": 153000000
+  },
+  {
+   "date": "2018-07-19",
+   "exchange": "NASDAQ Capital",
+   "name": "ESTABLISHMENT LABS HOLDINGS INC.",
+   "numberOfShares": 3715277,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ESTA",
+   "totalSharesValue": 66874986
+  },
+  {
+   "date": "2018-07-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "CONSTELLATION PHARMACEUTICALS INC",
+   "numberOfShares": 4000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CNST",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2018-07-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "ALLAKOS INC.",
+   "numberOfShares": 7133333,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ALLK",
+   "totalSharesValue": 128399994
+  },
+  {
+   "date": "2018-07-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "COASTAL FINANCIAL CORP",
+   "numberOfShares": 2850000,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "CCB",
+   "totalSharesValue": 41325000
+  },
+  {
+   "date": "2018-07-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "CRINETICS PHARMACEUTICALS, INC.",
+   "numberOfShares": 6000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "CRNX",
+   "totalSharesValue": 102000000
+  },
+  {
+   "date": "2018-07-18",
+   "exchange": "NASDAQ Global Select",
+   "name": "RUBIUS THERAPEUTICS, INC.",
+   "numberOfShares": 10483000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "RUBY",
+   "totalSharesValue": 241109000
+  },
+  {
+   "date": "2018-07-16",
+   "exchange": null,
+   "name": "US EXP GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-07-13",
+   "exchange": null,
+   "name": "FRANKLY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-07-09",
+   "exchange": null,
+   "name": "CURE PHARMACEUTICAL HOLDING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 16100000
+  },
+  {
+   "date": "2018-07-05",
+   "exchange": null,
+   "name": "CAMPOSOL HOLDING PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-07-05",
+   "exchange": null,
+   "name": "DATA VISION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 225000
+  },
+  {
+   "date": "2018-07-03",
+   "exchange": "NASDAQ Capital",
+   "name": "ALLEGRO MERGER CORP.",
+   "numberOfShares": 13000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ALGRU",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2018-07-02",
+   "exchange": null,
+   "name": "AMERICAN RESOURCES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4000000
+  }
+ ]
+}

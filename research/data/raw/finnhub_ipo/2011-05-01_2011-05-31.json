@@ -1,0 +1,657 @@
+{
+ "from": "2011-05-01",
+ "to": "2011-05-31",
+ "fetched_at": "2026-09-09T01:23:07.478152+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2011-05-31",
+   "exchange": null,
+   "name": "ADVENTO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-05-27",
+   "exchange": "Nasdaq National Market",
+   "name": "TERRAVIA HOLDINGS, INC.",
+   "numberOfShares": 10975000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "SZYM",
+   "totalSharesValue": 197550000
+  },
+  {
+   "date": "2011-05-27",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PINGTAN MARINE ENTERPRISE LTD.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CGEIU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2011-05-27",
+   "exchange": null,
+   "name": "HEALTH DIRECTORY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 37970
+  },
+  {
+   "date": "2011-05-27",
+   "exchange": null,
+   "name": "COMMITTED CAPITAL ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CMTPU",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2011-05-26",
+   "exchange": "New York Stock Exchange",
+   "name": "FREESCALE SEMICONDUCTOR, LTD.",
+   "numberOfShares": 43500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "FSL",
+   "totalSharesValue": 783000000
+  },
+  {
+   "date": "2011-05-26",
+   "exchange": "New York Stock Exchange",
+   "name": "LONE PINE RESOURCES INC.",
+   "numberOfShares": 15000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "LPR",
+   "totalSharesValue": 195000000
+  },
+  {
+   "date": "2011-05-26",
+   "exchange": "Nasdaq National Market",
+   "name": "SPIRIT AIRLINES, INC.",
+   "numberOfShares": 15600000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "SAVE",
+   "totalSharesValue": 187200000
+  },
+  {
+   "date": "2011-05-25",
+   "exchange": "New York Stock Exchange",
+   "name": "ACTIVE NETWORK INC",
+   "numberOfShares": 11000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ACTV",
+   "totalSharesValue": 165000000
+  },
+  {
+   "date": "2011-05-25",
+   "exchange": null,
+   "name": "CHINA FILMS TECHNOLOGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5400000
+  },
+  {
+   "date": "2011-05-24",
+   "exchange": "Nasdaq National Market",
+   "name": "YANDEX N.V.",
+   "numberOfShares": 52174088,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "YNDX",
+   "totalSharesValue": 1304352200
+  },
+  {
+   "date": "2011-05-24",
+   "exchange": null,
+   "name": "POST DATA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-05-24",
+   "exchange": null,
+   "name": "ISOFT INTERNATIONAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2011-05-24",
+   "exchange": null,
+   "name": "MASCOT PROPERTIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 242080
+  },
+  {
+   "date": "2011-05-23",
+   "exchange": null,
+   "name": "SAASMAX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200100
+  },
+  {
+   "date": "2011-05-23",
+   "exchange": null,
+   "name": "M STREET GALLERY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8100
+  },
+  {
+   "date": "2011-05-23",
+   "exchange": null,
+   "name": "SUPER LIGHT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 35500
+  },
+  {
+   "date": "2011-05-19",
+   "exchange": "New York Stock Exchange",
+   "name": "LINKEDIN CORP",
+   "numberOfShares": 7840000,
+   "price": "45.00",
+   "status": "priced",
+   "symbol": "LNKD",
+   "totalSharesValue": 352800000
+  },
+  {
+   "date": "2011-05-19",
+   "exchange": null,
+   "name": "UMAX GROUP CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2011-05-17",
+   "exchange": null,
+   "name": "AMAZONICA, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2011-05-17",
+   "exchange": null,
+   "name": "PHARMA INVESTING NEWS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 280000
+  },
+  {
+   "date": "2011-05-16",
+   "exchange": null,
+   "name": "PRESCOTT HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-05-16",
+   "exchange": null,
+   "name": "BANCTEC INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-05-16",
+   "exchange": null,
+   "name": "FLINT INT'L SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2011-05-16",
+   "exchange": null,
+   "name": "CHINA FITNESS & BEAUTY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4919.39
+  },
+  {
+   "date": "2011-05-16",
+   "exchange": null,
+   "name": "VALUE SUISSE INTERNATIONAL INVESTMENTS",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1987400
+  },
+  {
+   "date": "2011-05-16",
+   "exchange": null,
+   "name": "DEVELOPMENT CAPITAL GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 110000
+  },
+  {
+   "date": "2011-05-16",
+   "exchange": null,
+   "name": "I AM SMART TECHNOLOGY, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 18000000
+  },
+  {
+   "date": "2011-05-16",
+   "exchange": null,
+   "name": "IMMOBILIARE GLOBAL INVESTMENTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 12500000
+  },
+  {
+   "date": "2011-05-13",
+   "exchange": null,
+   "name": "MIDLAND STATES BANCORP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-05-13",
+   "exchange": "Nasdaq Smallcap Market",
+   "name": "GLOBAL EAGLE ENTERTAINMENT INC.",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EAGLU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2011-05-13",
+   "exchange": null,
+   "name": "SAFECODE DRUG TECHNOLOGIES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-05-13",
+   "exchange": null,
+   "name": "VANGUARD ENERGY CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4800000
+  },
+  {
+   "date": "2011-05-13",
+   "exchange": null,
+   "name": "JH DESIGNS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 234000
+  },
+  {
+   "date": "2011-05-13",
+   "exchange": null,
+   "name": "CHINA UNITED INSURANCE SERVICE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000
+  },
+  {
+   "date": "2011-05-13",
+   "exchange": null,
+   "name": "PUISSANT INDUSTRIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 214000
+  },
+  {
+   "date": "2011-05-12",
+   "exchange": "New York Stock Exchange",
+   "name": "CHINA ZENIX AUTO INTERNATIONAL LTD",
+   "numberOfShares": 12900000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ZX",
+   "totalSharesValue": 77400000
+  },
+  {
+   "date": "2011-05-12",
+   "exchange": "New York Stock Exchange",
+   "name": "PHOENIX NEW MEDIA LTD",
+   "numberOfShares": 12767500,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "FENG",
+   "totalSharesValue": 140442500
+  },
+  {
+   "date": "2011-05-12",
+   "exchange": "New York Stock Exchange",
+   "name": "NGL ENERGY PARTNERS LP",
+   "numberOfShares": 3500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "NGL",
+   "totalSharesValue": 73500000
+  },
+  {
+   "date": "2011-05-12",
+   "exchange": null,
+   "name": "SRAM INTERNATIONAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SRAM",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2011-05-12",
+   "exchange": null,
+   "name": "CLEAR SYSTEM RECYCLING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 114000
+  },
+  {
+   "date": "2011-05-12",
+   "exchange": null,
+   "name": "GRAND FARM INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GRFM",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2011-05-12",
+   "exchange": null,
+   "name": "WHITESMOKE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "WHSM",
+   "totalSharesValue": 21562500
+  },
+  {
+   "date": "2011-05-11",
+   "exchange": "Nasdaq National Market",
+   "name": "JIAYUAN.COM INTERNATIONAL LTD",
+   "numberOfShares": 7100000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "DATE",
+   "totalSharesValue": 78100000
+  },
+  {
+   "date": "2011-05-11",
+   "exchange": "New York Stock Exchange",
+   "name": "RLJ LODGING TRUST",
+   "numberOfShares": 27500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "RLJ",
+   "totalSharesValue": 495000000
+  },
+  {
+   "date": "2011-05-11",
+   "exchange": "New York Stock Exchange",
+   "name": "KOSMOS ENERGY LTD.",
+   "numberOfShares": 33000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "KOS",
+   "totalSharesValue": 594000000
+  },
+  {
+   "date": "2011-05-11",
+   "exchange": "Nasdaq National Market",
+   "name": "FRIENDFINDER NETWORKS INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FFN",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2011-05-11",
+   "exchange": null,
+   "name": "LCT GLOBAL RESOURCES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 14400
+  },
+  {
+   "date": "2011-05-10",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "JETPAY CORP",
+   "numberOfShares": 12000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "UBPSU",
+   "totalSharesValue": 72000000
+  },
+  {
+   "date": "2011-05-06",
+   "exchange": null,
+   "name": "NOBAO RENEWABLE ENERGY HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-05-06",
+   "exchange": null,
+   "name": "MERICOL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2011-05-05",
+   "exchange": null,
+   "name": "SINOCOM PHARMACEUTICAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-05-05",
+   "exchange": null,
+   "name": "SINOCOM PHARMACEUTICAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-05-05",
+   "exchange": "New York Stock Exchange",
+   "name": "LINK MOTION INC.",
+   "numberOfShares": 7750000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "NQ",
+   "totalSharesValue": 89125000
+  },
+  {
+   "date": "2011-05-05",
+   "exchange": "New York Stock Exchange",
+   "name": "THERMON GROUP HOLDINGS, INC.",
+   "numberOfShares": 10000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "THR",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2011-05-05",
+   "exchange": "New York Stock Exchange",
+   "name": "VOC ENERGY TRUST",
+   "numberOfShares": 11085000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "VOC",
+   "totalSharesValue": 232785000
+  },
+  {
+   "date": "2011-05-05",
+   "exchange": "OTCBB",
+   "name": "SMG INDUSTRIES INC.",
+   "numberOfShares": 4800000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SGMEU",
+   "totalSharesValue": 24000000
+  },
+  {
+   "date": "2011-05-05",
+   "exchange": null,
+   "name": "ASTRA VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 29000
+  },
+  {
+   "date": "2011-05-04",
+   "exchange": "New York Stock Exchange",
+   "name": "RENREN INC.",
+   "numberOfShares": 53100000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "RENN",
+   "totalSharesValue": 743400000
+  },
+  {
+   "date": "2011-05-04",
+   "exchange": "Nasdaq National Market",
+   "name": "BOINGO WIRELESS, INC.",
+   "numberOfShares": 5770000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "WIFI",
+   "totalSharesValue": 77895000
+  },
+  {
+   "date": "2011-05-04",
+   "exchange": "Nasdaq National Market",
+   "name": "RPX CORP",
+   "numberOfShares": 8430435,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "RPXC",
+   "totalSharesValue": 160178265
+  },
+  {
+   "date": "2011-05-03",
+   "exchange": null,
+   "name": "ORCHID ISLAND CAPITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-05-03",
+   "exchange": null,
+   "name": "STEWART & STEVENSON LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SNS",
+   "totalSharesValue": 294400000
+  },
+  {
+   "date": "2011-05-03",
+   "exchange": null,
+   "name": "SW CHINA IMPORTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2011-05-02",
+   "exchange": null,
+   "name": "WHITEGLOVE HEALTH INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

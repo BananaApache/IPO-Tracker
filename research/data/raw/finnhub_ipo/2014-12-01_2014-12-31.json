@@ -1,0 +1,407 @@
+{
+ "from": "2014-12-01",
+ "to": "2014-12-31",
+ "fetched_at": "2026-09-09T01:24:33.518410+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-12-31",
+   "exchange": null,
+   "name": "GLOBAL REAL ESTATE HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-12-31",
+   "exchange": null,
+   "name": "CARNIVAL BAY HOLDINGS, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 10850
+  },
+  {
+   "date": "2014-12-31",
+   "exchange": null,
+   "name": "MPM HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 799080145
+  },
+  {
+   "date": "2014-12-30",
+   "exchange": null,
+   "name": "TODEX CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2014-12-30",
+   "exchange": null,
+   "name": "HEAVENSTONE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1818846
+  },
+  {
+   "date": "2014-12-30",
+   "exchange": null,
+   "name": "DEVAGO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 105000
+  },
+  {
+   "date": "2014-12-23",
+   "exchange": null,
+   "name": "CARDIODX INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-12-23",
+   "exchange": null,
+   "name": "BENECHILL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BNCH",
+   "totalSharesValue": 13800000
+  },
+  {
+   "date": "2014-12-23",
+   "exchange": null,
+   "name": "QUEST MANAGEMENT INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2014-12-23",
+   "exchange": null,
+   "name": "EBIZWARE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2014-12-22",
+   "exchange": null,
+   "name": "JPM XF PHYSICAL COPPER TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-12-22",
+   "exchange": null,
+   "name": "LONGBAU GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 24163
+  },
+  {
+   "date": "2014-12-19",
+   "exchange": "Nasdaq National Market",
+   "name": "JUNO THERAPEUTICS, INC.",
+   "numberOfShares": 11022917,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "JUNO",
+   "totalSharesValue": 264550008
+  },
+  {
+   "date": "2014-12-19",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "H-CYTE, INC.",
+   "numberOfShares": 1391305,
+   "price": "5.75",
+   "status": "priced",
+   "symbol": "MDVXU",
+   "totalSharesValue": 8000004
+  },
+  {
+   "date": "2014-12-18",
+   "exchange": "Nasdaq National Market",
+   "name": "BELLICUM PHARMACEUTICALS, INC",
+   "numberOfShares": 7350000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "BLCM",
+   "totalSharesValue": 139650000
+  },
+  {
+   "date": "2014-12-18",
+   "exchange": null,
+   "name": "AMERICAN EDUCATION CENTER, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2014-12-18",
+   "exchange": null,
+   "name": "TAPIOCA CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-12-17",
+   "exchange": "New York Stock Exchange",
+   "name": "RICE MIDSTREAM PARTNERS LP",
+   "numberOfShares": 25000000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "RMP",
+   "totalSharesValue": 412500000
+  },
+  {
+   "date": "2014-12-17",
+   "exchange": "New York Stock Exchange",
+   "name": "ON DECK CAPITAL, INC.",
+   "numberOfShares": 10000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "ONDK",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2014-12-15",
+   "exchange": null,
+   "name": "ELECTRONIC CIGARETTES INTERNATIONAL GROUP, LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-12-12",
+   "exchange": "Nasdaq National Market",
+   "name": "JAMES RIVER GROUP HOLDINGS, LTD.",
+   "numberOfShares": 11000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "JRVR",
+   "totalSharesValue": 231000000
+  },
+  {
+   "date": "2014-12-12",
+   "exchange": "Nasdaq National Market",
+   "name": "HORTONWORKS, INC.",
+   "numberOfShares": 6250000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "HDP",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2014-12-12",
+   "exchange": "New York Stock Exchange",
+   "name": "NEW RELIC, INC.",
+   "numberOfShares": 5000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "NEWR",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2014-12-12",
+   "exchange": "New York Stock Exchange",
+   "name": "FIAT CHRYSLER AUTOMOBILES N.V.",
+   "numberOfShares": 87000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "FCAU",
+   "totalSharesValue": 957000000
+  },
+  {
+   "date": "2014-12-12",
+   "exchange": "New York Stock Exchange",
+   "name": "WORKIVA INC",
+   "numberOfShares": 7200000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "WK",
+   "totalSharesValue": 100800000
+  },
+  {
+   "date": "2014-12-12",
+   "exchange": "Nasdaq National Market",
+   "name": "CONNECTURE INC",
+   "numberOfShares": 6635000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "CNXR",
+   "totalSharesValue": 53080000
+  },
+  {
+   "date": "2014-12-12",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ORIGO ACQUISITION CORP",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CNLMU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2014-12-12",
+   "exchange": "New York Stock Exchange",
+   "name": "METALDYNE PERFORMANCE GROUP INC.",
+   "numberOfShares": 10000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "MPG",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2014-12-12",
+   "exchange": "New York Stock Exchange",
+   "name": "AVOLON HOLDINGS LTD",
+   "numberOfShares": 13636363,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "AVOL",
+   "totalSharesValue": 272727260
+  },
+  {
+   "date": "2014-12-11",
+   "exchange": null,
+   "name": "CIVITAS THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-12-11",
+   "exchange": "Nasdaq National Market",
+   "name": "MOMO INC.",
+   "numberOfShares": 16000000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "MOMO",
+   "totalSharesValue": 216000000
+  },
+  {
+   "date": "2014-12-11",
+   "exchange": "New York Stock Exchange",
+   "name": "LENDINGCLUB CORP",
+   "numberOfShares": 57700000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "LC",
+   "totalSharesValue": 865500000
+  },
+  {
+   "date": "2014-12-11",
+   "exchange": null,
+   "name": "CHESS SUPERSITE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 750000
+  },
+  {
+   "date": "2014-12-11",
+   "exchange": null,
+   "name": "SWEETS & TREATS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2014-12-09",
+   "exchange": null,
+   "name": "POLAR STAR REALTY TRUST INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-12-08",
+   "exchange": null,
+   "name": "ODYSSEY GROUP INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 7375000
+  },
+  {
+   "date": "2014-12-05",
+   "exchange": null,
+   "name": "DINEX CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-12-03",
+   "exchange": null,
+   "name": "SEER MORTGAGE CAPITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-12-03",
+   "exchange": "Nasdaq National Market",
+   "name": "OCUGEN, INC.",
+   "numberOfShares": 5909091,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "HSGX",
+   "totalSharesValue": 65000001
+  },
+  {
+   "date": "2014-12-02",
+   "exchange": null,
+   "name": "TERAFOX CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  }
+ ]
+}

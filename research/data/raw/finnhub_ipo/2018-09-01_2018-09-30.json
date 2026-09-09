@@ -1,0 +1,347 @@
+{
+ "from": "2018-09-01",
+ "to": "2018-09-30",
+ "fetched_at": "2026-09-09T01:26:03.556842+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2018-09-28",
+   "exchange": "NYSE",
+   "name": "COOTEK(CAYMAN)INC.",
+   "numberOfShares": 4350000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "CTK",
+   "totalSharesValue": 52200000
+  },
+  {
+   "date": "2018-09-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "GRITSTONE ONCOLOGY, INC.",
+   "numberOfShares": 6666667,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "GRTS",
+   "totalSharesValue": 100000005
+  },
+  {
+   "date": "2018-09-28",
+   "exchange": null,
+   "name": "AROG PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AROG",
+   "totalSharesValue": 74750000
+  },
+  {
+   "date": "2018-09-27",
+   "exchange": "NASDAQ Global",
+   "name": "SUTRO BIOPHARMA, INC.",
+   "numberOfShares": 5667000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "STRO",
+   "totalSharesValue": 85005000
+  },
+  {
+   "date": "2018-09-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "ARVINAS, INC.",
+   "numberOfShares": 7500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ARVN",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2018-09-27",
+   "exchange": "NYSE",
+   "name": "LAIX INC.",
+   "numberOfShares": 5750000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "LAIX",
+   "totalSharesValue": 71875000
+  },
+  {
+   "date": "2018-09-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "UROVANT SCIENCES LTD.",
+   "numberOfShares": 10000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "UROV",
+   "totalSharesValue": 140000000
+  },
+  {
+   "date": "2018-09-27",
+   "exchange": "NYSE",
+   "name": "RA MEDICAL SYSTEMS, INC.",
+   "numberOfShares": 3900000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "RMED",
+   "totalSharesValue": 66300000
+  },
+  {
+   "date": "2018-09-26",
+   "exchange": "NASDAQ Global",
+   "name": "ENTASIS THERAPEUTICS HOLDINGS INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ETTX",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2018-09-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "ARCO PLATFORM LTD.",
+   "numberOfShares": 11111111,
+   "price": "17.50",
+   "status": "priced",
+   "symbol": "ARCE",
+   "totalSharesValue": 194444443
+  },
+  {
+   "date": "2018-09-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "SVMK INC.",
+   "numberOfShares": 15000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "SVMK",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2018-09-26",
+   "exchange": "NASDAQ Global",
+   "name": "CAPITAL BANCORP INC",
+   "numberOfShares": 2228736,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "CBNK",
+   "totalSharesValue": 27859200
+  },
+  {
+   "date": "2018-09-26",
+   "exchange": null,
+   "name": "SOLTREST INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2018-09-25",
+   "exchange": null,
+   "name": "EAGLELINE ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-09-25",
+   "exchange": "NASDAQ Global Select",
+   "name": "VIOMI TECHNOLOGY CO., LTD",
+   "numberOfShares": 11400000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "VIOT",
+   "totalSharesValue": 102600000
+  },
+  {
+   "date": "2018-09-21",
+   "exchange": "NYSE",
+   "name": "FARFETCH LTD",
+   "numberOfShares": 44243749,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "FTCH",
+   "totalSharesValue": 884874980
+  },
+  {
+   "date": "2018-09-21",
+   "exchange": "NASDAQ Global Select",
+   "name": "Y-MABS THERAPEUTICS, INC.",
+   "numberOfShares": 6000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "YMAB",
+   "totalSharesValue": 96000000
+  },
+  {
+   "date": "2018-09-20",
+   "exchange": "NYSE",
+   "name": "ELANCO ANIMAL HEALTH INC",
+   "numberOfShares": 62900000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "ELAN",
+   "totalSharesValue": 1509600000
+  },
+  {
+   "date": "2018-09-20",
+   "exchange": "NYSE",
+   "name": "EVENTBRITE, INC.",
+   "numberOfShares": 10000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "EB",
+   "totalSharesValue": 230000000
+  },
+  {
+   "date": "2018-09-20",
+   "exchange": "NASDAQ Global Select",
+   "name": "BANK7 CORP.",
+   "numberOfShares": 3400000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "BSVN",
+   "totalSharesValue": 64600000
+  },
+  {
+   "date": "2018-09-19",
+   "exchange": null,
+   "name": "TAPSTONE ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-09-19",
+   "exchange": "NYSE",
+   "name": "X FINANCIAL",
+   "numberOfShares": 11000000,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "XYF",
+   "totalSharesValue": 104500000
+  },
+  {
+   "date": "2018-09-14",
+   "exchange": null,
+   "name": "ADAPTIVE INSIGHTS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-09-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "QUTOUTIAO INC.",
+   "numberOfShares": 12000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "QTT",
+   "totalSharesValue": 84000000
+  },
+  {
+   "date": "2018-09-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "PRINCIPIA BIOPHARMA INC.",
+   "numberOfShares": 6250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "PRNB",
+   "totalSharesValue": 106250000
+  },
+  {
+   "date": "2018-09-14",
+   "exchange": "NASDAQ Capital",
+   "name": "FVCBANKCORP, INC.",
+   "numberOfShares": 1750000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "FVCB",
+   "totalSharesValue": 35000000
+  },
+  {
+   "date": "2018-09-12",
+   "exchange": null,
+   "name": "BICAPITAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-09-12",
+   "exchange": "NYSE",
+   "name": "NIO INC.",
+   "numberOfShares": 160000000,
+   "price": "6.26",
+   "status": "priced",
+   "symbol": "NIO",
+   "totalSharesValue": 1001600000
+  },
+  {
+   "date": "2018-09-12",
+   "exchange": "NASDAQ Global",
+   "name": "111, INC.",
+   "numberOfShares": 7175000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "YI",
+   "totalSharesValue": 100450000
+  },
+  {
+   "date": "2018-09-10",
+   "exchange": null,
+   "name": "PRODUCT SHIPPING LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-09-07",
+   "exchange": "NASDAQ Capital",
+   "name": "PAE INC",
+   "numberOfShares": 37500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GRSHU",
+   "totalSharesValue": 375000000
+  },
+  {
+   "date": "2018-09-07",
+   "exchange": "NYSE",
+   "name": "CHURCHILL CAPITAL CORP",
+   "numberOfShares": 60000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CCC'U",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2018-09-05",
+   "exchange": null,
+   "name": "JUMP WORLD HOLDING LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JMPW",
+   "totalSharesValue": 14000000
+  },
+  {
+   "date": "2018-09-05",
+   "exchange": null,
+   "name": "UNITED EXPRESS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 790500
+  }
+ ]
+}

@@ -1,0 +1,497 @@
+{
+ "from": "2006-02-01",
+ "to": "2006-02-28",
+ "fetched_at": "2026-09-09T01:21:01.413819+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2006-02-28",
+   "exchange": "American Stock Exchange",
+   "name": "GRUBB & ELLIS REALTY ADVISORS, INC.",
+   "numberOfShares": 20833334,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "GAV'U",
+   "totalSharesValue": 125000004
+  },
+  {
+   "date": "2006-02-24",
+   "exchange": "New York Stock Exchange",
+   "name": "PACIFIC AIRPORT GROUP",
+   "numberOfShares": 29025652,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "PAC",
+   "totalSharesValue": 609538692
+  },
+  {
+   "date": "2006-02-24",
+   "exchange": "OTCBB",
+   "name": "KYN CAPITAL GROUP INC",
+   "numberOfShares": 500000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "NTYN",
+   "totalSharesValue": 2500000
+  },
+  {
+   "date": "2006-02-23",
+   "exchange": null,
+   "name": "MSTG SOLUTIONS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-23",
+   "exchange": "Nasdaq National Market",
+   "name": "LIQUIDITY SERVICES INC",
+   "numberOfShares": 7687362,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LQDT",
+   "totalSharesValue": 76873620
+  },
+  {
+   "date": "2006-02-22",
+   "exchange": null,
+   "name": "TECHNOLOGY SPECTRUM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-21",
+   "exchange": "New York Stock Exchange",
+   "name": "MARINER ENERGY INC",
+   "numberOfShares": 33348130,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "ME",
+   "totalSharesValue": 666962600
+  },
+  {
+   "date": "2006-02-17",
+   "exchange": null,
+   "name": "AMERICAN METAL TECHNOLOGY GROUP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-16",
+   "exchange": null,
+   "name": "CORUS PHARMA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-16",
+   "exchange": "American Stock Exchange",
+   "name": "CLARK HOLDINGS INC.",
+   "numberOfShares": 10000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "GLA-U",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2006-02-15",
+   "exchange": null,
+   "name": "BHC INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-14",
+   "exchange": null,
+   "name": "FUTUREFUEL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-14",
+   "exchange": "Nasdaq National Market",
+   "name": "MORGANS HOTEL GROUP CO.",
+   "numberOfShares": 18000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "MHGC",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2006-02-14",
+   "exchange": "American Stock Exchange",
+   "name": "SPARK NETWORKS INC",
+   "numberOfShares": 33263996,
+   "price": "7.12",
+   "status": "priced",
+   "symbol": "LOV",
+   "totalSharesValue": 236839652
+  },
+  {
+   "date": "2006-02-13",
+   "exchange": null,
+   "name": "MERRILL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-13",
+   "exchange": null,
+   "name": "WOOD RESOURCES LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-13",
+   "exchange": "Nasdaq National Market",
+   "name": "NBL TEXAS, LLC",
+   "numberOfShares": 50000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "ROSE",
+   "totalSharesValue": 950000000
+  },
+  {
+   "date": "2006-02-10",
+   "exchange": null,
+   "name": "WINDSOR ENERGY RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-10",
+   "exchange": null,
+   "name": "NEWSUMMIT BIOPHARMA CO., INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-10",
+   "exchange": null,
+   "name": "DEBT RESOLVE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-10",
+   "exchange": null,
+   "name": "3PEA TECHNOLOGIES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-10",
+   "exchange": "New York Stock Exchange",
+   "name": "MAGELLAN MIDSTREAM HOLDINGS LP",
+   "numberOfShares": 22000000,
+   "price": "24.50",
+   "status": "priced",
+   "symbol": "MGG",
+   "totalSharesValue": 539000000
+  },
+  {
+   "date": "2006-02-10",
+   "exchange": "Nasdaq National Market",
+   "name": "ACORDA THERAPEUTICS INC",
+   "numberOfShares": 5500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ACOR",
+   "totalSharesValue": 33000000
+  },
+  {
+   "date": "2006-02-10",
+   "exchange": "Nasdaq National Market",
+   "name": "AMCOMP INC /FL",
+   "numberOfShares": 10500000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "AMCP",
+   "totalSharesValue": 94500000
+  },
+  {
+   "date": "2006-02-10",
+   "exchange": "OTCBB",
+   "name": "OPTIONABLE INC",
+   "numberOfShares": 31431026,
+   "price": "0.20",
+   "status": "priced",
+   "symbol": "OPBL",
+   "totalSharesValue": 6286205
+  },
+  {
+   "date": "2006-02-09",
+   "exchange": null,
+   "name": "OWLSTONE NANOTECH INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-09",
+   "exchange": "New York Stock Exchange",
+   "name": "MORTONS RESTAURANT GROUP INC",
+   "numberOfShares": 9465000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "MRT",
+   "totalSharesValue": 160905000
+  },
+  {
+   "date": "2006-02-09",
+   "exchange": "New York Stock Exchange",
+   "name": "EXCO RESOURCES INC",
+   "numberOfShares": 50000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "XCO",
+   "totalSharesValue": 650000000
+  },
+  {
+   "date": "2006-02-09",
+   "exchange": "Nasdaq National Market",
+   "name": "NIGHTHAWK RADIOLOGY HOLDINGS INC",
+   "numberOfShares": 6300000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "NHWK",
+   "totalSharesValue": 100800000
+  },
+  {
+   "date": "2006-02-09",
+   "exchange": "Nasdaq National Market",
+   "name": "NTELOS HOLDINGS CORP.",
+   "numberOfShares": 14375000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "NTLS",
+   "totalSharesValue": 172500000
+  },
+  {
+   "date": "2006-02-08",
+   "exchange": "Nasdaq National Market",
+   "name": "CROCS, INC.",
+   "numberOfShares": 9900000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "CROX",
+   "totalSharesValue": 207900000
+  },
+  {
+   "date": "2006-02-07",
+   "exchange": "New York Stock Exchange",
+   "name": "EXANTAS CAPITAL CORP.",
+   "numberOfShares": 4000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "RSO",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2006-02-03",
+   "exchange": null,
+   "name": "TEXAS GENCO INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-03",
+   "exchange": null,
+   "name": "P--CE COMPUTERS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-03",
+   "exchange": "Nasdaq National Market",
+   "name": "DEX LIQUIDATING CO.",
+   "numberOfShares": 3500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CRDC",
+   "totalSharesValue": 35000000
+  },
+  {
+   "date": "2006-02-03",
+   "exchange": "American Stock Exchange",
+   "name": "COINMACH SERVICE CORP",
+   "numberOfShares": 10706638,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "DRA",
+   "totalSharesValue": 96359742
+  },
+  {
+   "date": "2006-02-03",
+   "exchange": "New York Stock Exchange",
+   "name": "HEALTHSPRING, INC.",
+   "numberOfShares": 18800000,
+   "price": "19.50",
+   "status": "priced",
+   "symbol": "HS",
+   "totalSharesValue": 366600000
+  },
+  {
+   "date": "2006-02-03",
+   "exchange": "New York Stock Exchange",
+   "name": "ENERGY TRANSFER LP",
+   "numberOfShares": 21000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "ETE",
+   "totalSharesValue": 441000000
+  },
+  {
+   "date": "2006-02-03",
+   "exchange": null,
+   "name": "GOLD HORSE INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SPHH",
+   "totalSharesValue": 806250
+  },
+  {
+   "date": "2006-02-02",
+   "exchange": "Nasdaq National Market",
+   "name": "THOMAS WEISEL PARTNERS GROUP, INC.",
+   "numberOfShares": 6000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "TWPG",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2006-02-02",
+   "exchange": "Nasdaq National Market",
+   "name": "SMART MODULAR TECHNOLOGIES (WWH), INC.",
+   "numberOfShares": 18181818,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "SMOD",
+   "totalSharesValue": 163636362
+  },
+  {
+   "date": "2006-02-02",
+   "exchange": "Nasdaq National Market",
+   "name": "ORCHARD ENTERPRISES, INC.",
+   "numberOfShares": 3900000,
+   "price": "9.75",
+   "status": "priced",
+   "symbol": "DMGI",
+   "totalSharesValue": 38025000
+  },
+  {
+   "date": "2006-02-02",
+   "exchange": "Nasdaq National Market",
+   "name": "VALERA PHARMACEUTICALS INC",
+   "numberOfShares": 3750000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "VLRX",
+   "totalSharesValue": 33750000
+  },
+  {
+   "date": "2006-02-01",
+   "exchange": null,
+   "name": "KENAN ADVANTAGE GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-02-01",
+   "exchange": "New York Stock Exchange",
+   "name": "TERNIUM S.A.",
+   "numberOfShares": 24844720,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "TX",
+   "totalSharesValue": 496894400
+  },
+  {
+   "date": "2006-02-01",
+   "exchange": "American Stock Exchange",
+   "name": "AMERICAN TELECOM SERVICES INC",
+   "numberOfShares": 3350000,
+   "price": "5.05",
+   "status": "priced",
+   "symbol": "TES",
+   "totalSharesValue": 16917500
+  },
+  {
+   "date": "2006-02-01",
+   "exchange": "Nasdaq National Market",
+   "name": "INTERCELL USA, INC.",
+   "numberOfShares": 5000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "IOMI",
+   "totalSharesValue": 35000000
+  },
+  {
+   "date": "2006-02-01",
+   "exchange": "Nasdaq National Market",
+   "name": "SGX PHARMACEUTICALS, INC.",
+   "numberOfShares": 4000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "SGXP",
+   "totalSharesValue": 24000000
+  },
+  {
+   "date": "2006-02-01",
+   "exchange": "New York Stock Exchange",
+   "name": "KOPPERS HOLDINGS INC.",
+   "numberOfShares": 10000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "KOP",
+   "totalSharesValue": 140000000
+  }
+ ]
+}

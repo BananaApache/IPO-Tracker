@@ -1,0 +1,297 @@
+{
+ "from": "2017-02-01",
+ "to": "2017-02-28",
+ "fetched_at": "2026-09-09T01:25:25.549513+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-02-28",
+   "exchange": null,
+   "name": "ADAMA AGRICULTURAL SOLUTIONS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-02-28",
+   "exchange": null,
+   "name": "MIKROCOZE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2017-02-23",
+   "exchange": null,
+   "name": "LEGALL HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2017-02-23",
+   "exchange": null,
+   "name": "ANTILIA GROUP, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2017-02-22",
+   "exchange": null,
+   "name": "BRAEBURN PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-02-22",
+   "exchange": null,
+   "name": "CRONA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 105000
+  },
+  {
+   "date": "2017-02-21",
+   "exchange": null,
+   "name": "ADVECO GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2017-02-21",
+   "exchange": null,
+   "name": "DIVERSE DEVELOPMENT GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 152250
+  },
+  {
+   "date": "2017-02-16",
+   "exchange": null,
+   "name": "ALFACOURSE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2017-02-15",
+   "exchange": null,
+   "name": "AGEAGLE AERIAL SYSTEMS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-02-14",
+   "exchange": null,
+   "name": "KINETIC GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 350000
+  },
+  {
+   "date": "2017-02-14",
+   "exchange": null,
+   "name": "ADGERO BIOPHARMACEUTICALS HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 17338400
+  },
+  {
+   "date": "2017-02-14",
+   "exchange": null,
+   "name": "CONSUMER CAPITAL GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2017-02-13",
+   "exchange": null,
+   "name": "ARTIN CONSULTING INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50090
+  },
+  {
+   "date": "2017-02-10",
+   "exchange": null,
+   "name": "VISTERRA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-02-10",
+   "exchange": "NYSE",
+   "name": "FOUNDATION BUILDING MATERIALS, INC.",
+   "numberOfShares": 12800000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "FBM",
+   "totalSharesValue": 179200000
+  },
+  {
+   "date": "2017-02-10",
+   "exchange": "NYSE",
+   "name": "CLIPPER REALTY INC.",
+   "numberOfShares": 5700000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "CLPR",
+   "totalSharesValue": 76950000
+  },
+  {
+   "date": "2017-02-10",
+   "exchange": "NYSE MKT",
+   "name": "SACHEM CAPITAL CORP.",
+   "numberOfShares": 2600000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SACH",
+   "totalSharesValue": 13000000
+  },
+  {
+   "date": "2017-02-09",
+   "exchange": null,
+   "name": "RANCHO SANTA FE MINING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-02-09",
+   "exchange": null,
+   "name": "EAUKER MINERALS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-02-08",
+   "exchange": null,
+   "name": "CBS RADIO INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-02-08",
+   "exchange": null,
+   "name": "MAUSER GROUP N.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-02-06",
+   "exchange": null,
+   "name": "HICLASST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2017-02-03",
+   "exchange": "NYSE",
+   "name": "KIMBELL ROYALTY PARTNERS, LP",
+   "numberOfShares": 5000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "KRP",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2017-02-03",
+   "exchange": "NASDAQ Global Select",
+   "name": "RAMACO RESOURCES, INC.",
+   "numberOfShares": 6000000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "METC",
+   "totalSharesValue": 81000000
+  },
+  {
+   "date": "2017-02-01",
+   "exchange": null,
+   "name": "POINTCLICKCARE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-02-01",
+   "exchange": null,
+   "name": "BIOCERES S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-02-01",
+   "exchange": "NYSE",
+   "name": "INVITATION HOMES INC.",
+   "numberOfShares": 77000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "INVH",
+   "totalSharesValue": 1540000000
+  },
+  {
+   "date": "2017-02-01",
+   "exchange": "NASDAQ Global Select",
+   "name": "LAUREATE EDUCATION, INC.",
+   "numberOfShares": 35000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "LAUR",
+   "totalSharesValue": 490000000
+  }
+ ]
+}

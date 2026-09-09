@@ -1,0 +1,377 @@
+{
+ "from": "2015-02-01",
+ "to": "2015-02-28",
+ "fetched_at": "2026-09-09T01:24:37.570370+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2015-02-27",
+   "exchange": null,
+   "name": "CERBERUS MORTGAGE CAPITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-02-27",
+   "exchange": "OTCBB",
+   "name": "INDOOR HARVEST CORP",
+   "numberOfShares": 2467003,
+   "price": "0.50",
+   "status": "priced",
+   "symbol": "INQD",
+   "totalSharesValue": 1233502
+  },
+  {
+   "date": "2015-02-27",
+   "exchange": null,
+   "name": "BROKE OUT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2015-02-26",
+   "exchange": null,
+   "name": "INTELLIGENT CLOUD RESOURCES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000
+  },
+  {
+   "date": "2015-02-26",
+   "exchange": null,
+   "name": "TESORO VENTURES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2015-02-23",
+   "exchange": null,
+   "name": "JAREX SOLUTIONS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2015-02-20",
+   "exchange": "New York Stock Exchange",
+   "name": "WISDOMTREE COAL FUND",
+   "numberOfShares": 9750000,
+   "price": "40.47",
+   "status": "priced",
+   "symbol": "TONS",
+   "totalSharesValue": 394582500
+  },
+  {
+   "date": "2015-02-19",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "CHECK-CAP LTD",
+   "numberOfShares": 2000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "CHEKU",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2015-02-19",
+   "exchange": "New York Stock Exchange",
+   "name": "ETF MANAGERS GROUP COMMODITY TRUST I",
+   "numberOfShares": 20000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "RISE",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2015-02-19",
+   "exchange": null,
+   "name": "GLOBAL TECHNOLOGIES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000
+  },
+  {
+   "date": "2015-02-18",
+   "exchange": null,
+   "name": "ADVANCED ACCELERATOR APPLICATIONS S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-02-18",
+   "exchange": null,
+   "name": "ARYSTA LIFESCIENCE PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-02-18",
+   "exchange": "Nasdaq National Market",
+   "name": "ROCKET PHARMACEUTICALS, INC.",
+   "numberOfShares": 6667000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ITEK",
+   "totalSharesValue": 40002000
+  },
+  {
+   "date": "2015-02-13",
+   "exchange": "New York Stock Exchange",
+   "name": "GREAT AJAX CORP.",
+   "numberOfShares": 5000000,
+   "price": "14.25",
+   "status": "priced",
+   "symbol": "AJX",
+   "totalSharesValue": 71250000
+  },
+  {
+   "date": "2015-02-13",
+   "exchange": "Nasdaq National Market",
+   "name": "BELLEROPHON THERAPEUTICS, INC.",
+   "numberOfShares": 5000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "BLPH",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2015-02-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "CARDCONNECT CORP.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FNTCU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2015-02-13",
+   "exchange": "OTCBB",
+   "name": "EYEGATE PHARMACEUTICALS INC",
+   "numberOfShares": 683250,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "EYEG",
+   "totalSharesValue": 4099500
+  },
+  {
+   "date": "2015-02-12",
+   "exchange": "New York Stock Exchange",
+   "name": "INVITAE CORP",
+   "numberOfShares": 6350000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "NVTA",
+   "totalSharesValue": 101600000
+  },
+  {
+   "date": "2015-02-12",
+   "exchange": "Nasdaq National Market",
+   "name": "INOVALON HOLDINGS, INC.",
+   "numberOfShares": 22222222,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "INOV",
+   "totalSharesValue": 599999994
+  },
+  {
+   "date": "2015-02-12",
+   "exchange": null,
+   "name": "PARAMOUNT SUPPLY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2015-02-11",
+   "exchange": null,
+   "name": "NEW FUEL SYSTEMS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 48408548.75
+  },
+  {
+   "date": "2015-02-10",
+   "exchange": "Nasdaq National Market",
+   "name": "AVENUE FINANCIAL HOLDINGS, INC.",
+   "numberOfShares": 2500000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "AVNU",
+   "totalSharesValue": 27500000
+  },
+  {
+   "date": "2015-02-10",
+   "exchange": null,
+   "name": "OPTILEAF, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3573334.4
+  },
+  {
+   "date": "2015-02-09",
+   "exchange": null,
+   "name": "NANOVIBRONIX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-02-09",
+   "exchange": null,
+   "name": "HEYU LEISURE HOLIDAYS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 16498646
+  },
+  {
+   "date": "2015-02-06",
+   "exchange": "New York Stock Exchange",
+   "name": "EASTERLY GOVERNMENT PROPERTIES, INC.",
+   "numberOfShares": 12000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "DEA",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2015-02-06",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "BARINGTON/HILCO ACQUISITION CORP.",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BHACU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2015-02-06",
+   "exchange": "New York Stock Exchange",
+   "name": "COLUMBIA PIPELINE PARTNERS LP",
+   "numberOfShares": 46811398,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "CPPL",
+   "totalSharesValue": 1076662154
+  },
+  {
+   "date": "2015-02-06",
+   "exchange": null,
+   "name": "NANO-TEXTILE LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4254477
+  },
+  {
+   "date": "2015-02-06",
+   "exchange": null,
+   "name": "POVERTY DIGNIFIED, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8797725
+  },
+  {
+   "date": "2015-02-05",
+   "exchange": null,
+   "name": "RADIUS BANCORP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-02-05",
+   "exchange": null,
+   "name": "ALERIS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-02-05",
+   "exchange": "Nasdaq National Market",
+   "name": "NEXVET BIOPHARMA PLC",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NVET",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2015-02-04",
+   "exchange": null,
+   "name": "HANSON BUILDING PRODUCTS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-02-04",
+   "exchange": null,
+   "name": "COSTO INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2015-02-03",
+   "exchange": null,
+   "name": "ROID GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2925000
+  },
+  {
+   "date": "2015-02-02",
+   "exchange": null,
+   "name": "CALIFORNIA CARBON INDUSTRY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  }
+ ]
+}

@@ -1,0 +1,567 @@
+{
+ "from": "2014-07-01",
+ "to": "2014-07-31",
+ "fetched_at": "2026-09-09T01:24:23.518824+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-07-31",
+   "exchange": null,
+   "name": "PROTEINSIMPLE",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-07-31",
+   "exchange": "Nasdaq National Market",
+   "name": "HEALTHEQUITY, INC.",
+   "numberOfShares": 9100000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "HQY",
+   "totalSharesValue": 127400000
+  },
+  {
+   "date": "2014-07-31",
+   "exchange": "New York Stock Exchange",
+   "name": "TRANSOCEAN PARTNERS LLC",
+   "numberOfShares": 17500000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "RIGP",
+   "totalSharesValue": 385000000
+  },
+  {
+   "date": "2014-07-31",
+   "exchange": "Nasdaq National Market",
+   "name": "LEAP THERAPEUTICS, INC.",
+   "numberOfShares": 5350000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MCUR",
+   "totalSharesValue": 53500000
+  },
+  {
+   "date": "2014-07-31",
+   "exchange": "Nasdaq National Market",
+   "name": "ADVERUM BIOTECHNOLOGIES, INC.",
+   "numberOfShares": 6000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "AAVL",
+   "totalSharesValue": 102000000
+  },
+  {
+   "date": "2014-07-31",
+   "exchange": "Nasdaq National Market",
+   "name": "MARINUS PHARMACEUTICALS INC",
+   "numberOfShares": 5625000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "MRNS",
+   "totalSharesValue": 45000000
+  },
+  {
+   "date": "2014-07-31",
+   "exchange": "New York Stock Exchange",
+   "name": "SYNCHRONY FINANCIAL",
+   "numberOfShares": 125000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "SYF",
+   "totalSharesValue": 2875000000
+  },
+  {
+   "date": "2014-07-31",
+   "exchange": "Nasdaq National Market",
+   "name": "ENLIVEX THERAPEUTICS LTD.",
+   "numberOfShares": 3200000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ORPN",
+   "totalSharesValue": 35200000
+  },
+  {
+   "date": "2014-07-31",
+   "exchange": "New York Stock Exchange",
+   "name": "CATALENT, INC.",
+   "numberOfShares": 42500000,
+   "price": "20.50",
+   "status": "priced",
+   "symbol": "CTLT",
+   "totalSharesValue": 871250000
+  },
+  {
+   "date": "2014-07-31",
+   "exchange": null,
+   "name": "CABINET GROW, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2014-07-31",
+   "exchange": null,
+   "name": "BEMAX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2014-07-30",
+   "exchange": "New York Stock Exchange",
+   "name": "WESTLAKE CHEMICAL PARTNERS LP",
+   "numberOfShares": 11250000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "WLKP",
+   "totalSharesValue": 270000000
+  },
+  {
+   "date": "2014-07-30",
+   "exchange": null,
+   "name": "KARNET CAPITAL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2014-07-29",
+   "exchange": "Nasdaq National Market",
+   "name": "SPARK ENERGY, INC.",
+   "numberOfShares": 3000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "SPKE",
+   "totalSharesValue": 54000000
+  },
+  {
+   "date": "2014-07-29",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "CONTRAFECT CORP",
+   "numberOfShares": 6000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "CFRXU",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2014-07-29",
+   "exchange": null,
+   "name": "ASTERIKO CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-07-25",
+   "exchange": "New York Stock Exchange",
+   "name": "ORION ENGINEERED CARBONS S.A.",
+   "numberOfShares": 19500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "OEC",
+   "totalSharesValue": 351000000
+  },
+  {
+   "date": "2014-07-25",
+   "exchange": "Nasdaq National Market",
+   "name": "INNOCOLL AG",
+   "numberOfShares": 6500000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "INNL",
+   "totalSharesValue": 58500000
+  },
+  {
+   "date": "2014-07-25",
+   "exchange": "Nasdaq National Market",
+   "name": "OCULAR THERAPEUTIX, INC",
+   "numberOfShares": 5000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "OCUL",
+   "totalSharesValue": 65000000
+  },
+  {
+   "date": "2014-07-25",
+   "exchange": "Nasdaq National Market",
+   "name": "EL POLLO LOCO HOLDINGS, INC.",
+   "numberOfShares": 7142857,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "LOCO",
+   "totalSharesValue": 107142855
+  },
+  {
+   "date": "2014-07-25",
+   "exchange": "New York Stock Exchange",
+   "name": "ADVANCED DRAINAGE SYSTEMS, INC.",
+   "numberOfShares": 14500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "WMS",
+   "totalSharesValue": 232000000
+  },
+  {
+   "date": "2014-07-25",
+   "exchange": null,
+   "name": "ALPHA ENERGY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-07-24",
+   "exchange": "American Stock Exchange",
+   "name": "PFENEX INC.",
+   "numberOfShares": 8333333,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "PFNX",
+   "totalSharesValue": 49999998
+  },
+  {
+   "date": "2014-07-24",
+   "exchange": "Nasdaq National Market",
+   "name": "INTERSECT ENT, INC.",
+   "numberOfShares": 5000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "XENT",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2014-07-24",
+   "exchange": "Nasdaq National Market",
+   "name": "IMMUNE DESIGN CORP.",
+   "numberOfShares": 5000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "IMDZ",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2014-07-24",
+   "exchange": "New York Stock Exchange",
+   "name": "TOWNSQUARE MEDIA, INC.",
+   "numberOfShares": 8333333,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "TSQ",
+   "totalSharesValue": 91666663
+  },
+  {
+   "date": "2014-07-23",
+   "exchange": null,
+   "name": "KINEMED INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-07-23",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "MTBC, INC.",
+   "numberOfShares": 4080000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "MTBC",
+   "totalSharesValue": 20400000
+  },
+  {
+   "date": "2014-07-22",
+   "exchange": null,
+   "name": "ULTHERA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-07-22",
+   "exchange": null,
+   "name": "CALEMINDER INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2014-07-22",
+   "exchange": null,
+   "name": "INFEED MEDICA CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-07-21",
+   "exchange": null,
+   "name": "PALAYAN RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2014-07-18",
+   "exchange": "New York Stock Exchange",
+   "name": "TRUPANION, INC.",
+   "numberOfShares": 7125000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TRUP",
+   "totalSharesValue": 71250000
+  },
+  {
+   "date": "2014-07-18",
+   "exchange": "Nasdaq National Market",
+   "name": "SAGE THERAPEUTICS, INC.",
+   "numberOfShares": 5000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "SAGE",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2014-07-18",
+   "exchange": "Nasdaq National Market",
+   "name": "TERRAFORM POWER, INC.",
+   "numberOfShares": 20065000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "TERP",
+   "totalSharesValue": 501625000
+  },
+  {
+   "date": "2014-07-18",
+   "exchange": "Nasdaq National Market",
+   "name": "TUBEMOGUL INC",
+   "numberOfShares": 6250000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "TUBE",
+   "totalSharesValue": 43750000
+  },
+  {
+   "date": "2014-07-18",
+   "exchange": "New York Stock Exchange",
+   "name": "GLOBANT S.A.",
+   "numberOfShares": 5850000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GLOB",
+   "totalSharesValue": 58500000
+  },
+  {
+   "date": "2014-07-17",
+   "exchange": "Nasdaq National Market",
+   "name": "CAREDX, INC.",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CDNA",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2014-07-17",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "YATRA USA CORP.",
+   "numberOfShares": 18500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TRTLU",
+   "totalSharesValue": 185000000
+  },
+  {
+   "date": "2014-07-17",
+   "exchange": "Nasdaq National Market",
+   "name": "SORRENTO TECH, INC.",
+   "numberOfShares": 5000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "ROKA",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2014-07-17",
+   "exchange": null,
+   "name": "3D TOTAL SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1128325
+  },
+  {
+   "date": "2014-07-17",
+   "exchange": null,
+   "name": "AMERICAN RENAISSANCE CAPITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2014-07-16",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "IRADIMED CORP",
+   "numberOfShares": 2016000,
+   "price": "6.25",
+   "status": "priced",
+   "symbol": "IRMD",
+   "totalSharesValue": 12600000
+  },
+  {
+   "date": "2014-07-16",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "LIMBACH HOLDINGS, INC.",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TFSCU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2014-07-16",
+   "exchange": null,
+   "name": "FIRST FIXTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-07-14",
+   "exchange": null,
+   "name": "ENVIRONMENTAL ENERGY INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2014-07-11",
+   "exchange": null,
+   "name": "ELITE BOOKS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2014-07-09",
+   "exchange": "OTCBB",
+   "name": "DIGILITI MONEY GROUP, INC.",
+   "numberOfShares": 4775000,
+   "price": "1.50",
+   "status": "priced",
+   "symbol": "CHTF",
+   "totalSharesValue": 7162500
+  },
+  {
+   "date": "2014-07-08",
+   "exchange": null,
+   "name": "LIVE FIT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2014-07-07",
+   "exchange": null,
+   "name": "AZUL SA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-07-03",
+   "exchange": null,
+   "name": "TAGGARES AGRICULTURE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-07-03",
+   "exchange": null,
+   "name": "TRANSPORT AMERICA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-07-02",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "GLOBEIMMUNE INC",
+   "numberOfShares": 1500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GBIM",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2014-07-01",
+   "exchange": null,
+   "name": "GATES GLOBAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-07-01",
+   "exchange": "Nasdaq National Market",
+   "name": "INVESTAR HOLDING CORP",
+   "numberOfShares": 2875000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ISTR",
+   "totalSharesValue": 40250000
+  },
+  {
+   "date": "2014-07-01",
+   "exchange": "Nasdaq National Market",
+   "name": "MINERVA NEUROSCIENCES, INC.",
+   "numberOfShares": 5454545,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "NERV",
+   "totalSharesValue": 32727270
+  }
+ ]
+}

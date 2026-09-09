@@ -1,0 +1,4514 @@
+{
+ "merged_at": "2026-09-09T01:17:37.409019+00:00",
+ "method": "union of exact-title and Wikidata rule (1), plus hand-reviewed rule (2)-(6) verdicts",
+ "companies": {
+  "CHEWY, INC.": {
+   "company": "CHEWY, INC.",
+   "symbol": "CHWY",
+   "title": "Chewy (company)",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2016-08-12T06:16:12Z"
+  },
+  "Fatpipe Inc/UT": {
+   "company": "Fatpipe Inc/UT",
+   "symbol": "FATN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Lumexa Imaging Holdings, Inc.": {
+   "company": "Lumexa Imaging Holdings, Inc.",
+   "symbol": "LMRI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Figma, Inc.": {
+   "company": "Figma, Inc.",
+   "symbol": "FIG",
+   "title": "Figma",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2020-06-01T16:09:48Z"
+  },
+  "Outset Medical, Inc.": {
+   "company": "Outset Medical, Inc.",
+   "symbol": "OM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Expion360 Inc.": {
+   "company": "Expion360 Inc.",
+   "symbol": "XPON",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ZEEKR Intelligent Technology Holding Ltd": {
+   "company": "ZEEKR Intelligent Technology Holding Ltd",
+   "symbol": "ZK",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "CASTLE BIOSCIENCES INC": {
+   "company": "CASTLE BIOSCIENCES INC",
+   "symbol": "CSTL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Kinnate Biopharma Inc.": {
+   "company": "Kinnate Biopharma Inc.",
+   "symbol": "KNTE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Home Point Capital Inc.": {
+   "company": "Home Point Capital Inc.",
+   "symbol": "HMPT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "AXCELLA HEALTH INC.": {
+   "company": "AXCELLA HEALTH INC.",
+   "symbol": "AXLA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Tivic Health Systems, Inc.": {
+   "company": "Tivic Health Systems, Inc.",
+   "symbol": "TIVC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Bob's Discount Furniture, Inc.": {
+   "company": "Bob's Discount Furniture, Inc.",
+   "symbol": "BOBS",
+   "title": "Bob's Discount Furniture",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2005-09-15T15:24:32Z"
+  },
+  "Viela Bio, Inc.": {
+   "company": "Viela Bio, Inc.",
+   "symbol": "VIE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Qualtrics International Inc.": {
+   "company": "Qualtrics International Inc.",
+   "symbol": "XM",
+   "title": "Qualtrics",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2009-09-28T17:14:18Z"
+  },
+  "Mister Car Wash, Inc.": {
+   "company": "Mister Car Wash, Inc.",
+   "symbol": "MCW",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Ingram Micro Holding Corp": {
+   "company": "Ingram Micro Holding Corp",
+   "symbol": "INGM",
+   "title": "Ingram Micro",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2004-12-22T22:55:54Z"
+  },
+  "SITIME Corp": {
+   "company": "SITIME Corp",
+   "symbol": "SITM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ITG, Inc./DE/": {
+   "company": "ITG, Inc./DE/",
+   "symbol": "ITG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ALKAMI TECHNOLOGY, INC.": {
+   "company": "ALKAMI TECHNOLOGY, INC.",
+   "symbol": "ALKT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "GOSSAMER BIO, INC.": {
+   "company": "GOSSAMER BIO, INC.",
+   "symbol": "GOSS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Cullinan Oncology, Inc.": {
+   "company": "Cullinan Oncology, Inc.",
+   "symbol": "CGEM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "WiMi Hologram Cloud Inc.": {
+   "company": "WiMi Hologram Cloud Inc.",
+   "symbol": "WIMI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Vaxxinity, Inc.": {
+   "company": "Vaxxinity, Inc.",
+   "symbol": "VAXX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Fitell Corp": {
+   "company": "Fitell Corp",
+   "symbol": "FTEL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SONIM TECHNOLOGIES INC": {
+   "company": "SONIM TECHNOLOGIES INC",
+   "symbol": "SONM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null,
+   "review_verdict": "reject: 'Mobile phone' is a generic concept, not the firm's core product article"
+  },
+  "SLACK TECHNOLOGIES, INC.": {
+   "company": "SLACK TECHNOLOGIES, INC.",
+   "symbol": "WORK",
+   "title": "Slack Technologies",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2010-09-18T05:28:23Z"
+  },
+  "WeRide Inc.": {
+   "company": "WeRide Inc.",
+   "symbol": "WRD",
+   "title": "WeRide",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2020-03-19T07:46:21Z"
+  },
+  "RayzeBio, Inc.": {
+   "company": "RayzeBio, Inc.",
+   "symbol": "RYZB",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Olo Inc.": {
+   "company": "Olo Inc.",
+   "symbol": "OLO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "UiPath, Inc.": {
+   "company": "UiPath, Inc.",
+   "symbol": "PATH",
+   "title": "UiPath",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2017-11-06T15:04:56Z"
+  },
+  "Third Harmonic Bio, Inc.": {
+   "company": "Third Harmonic Bio, Inc.",
+   "symbol": "THRD",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Circle Internet Group, Inc.": {
+   "company": "Circle Internet Group, Inc.",
+   "symbol": "CRCL",
+   "title": "Circle Internet Group",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2014-04-18T15:44:00Z"
+  },
+  "CAMBIUM NETWORKS CORP": {
+   "company": "CAMBIUM NETWORKS CORP",
+   "symbol": "CMBM",
+   "title": "Cambium Networks",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2006-07-24T17:58:39Z"
+  },
+  "I-Mab": {
+   "company": "I-Mab",
+   "symbol": "IMAB",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Rubrik, Inc.": {
+   "company": "Rubrik, Inc.",
+   "symbol": "RBRK",
+   "title": "Rubrik",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2018-03-31T05:30:00Z"
+  },
+  "Sight Sciences, Inc.": {
+   "company": "Sight Sciences, Inc.",
+   "symbol": "SGHT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Cabaletta Bio, Inc.": {
+   "company": "Cabaletta Bio, Inc.",
+   "symbol": "CABA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Atour Lifestyle Holdings Ltd": {
+   "company": "Atour Lifestyle Holdings Ltd",
+   "symbol": "ATAT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Accelerant Holdings": {
+   "company": "Accelerant Holdings",
+   "symbol": "ARX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "European Wax Center, Inc.": {
+   "company": "European Wax Center, Inc.",
+   "symbol": "EWCZ",
+   "title": "European Wax Center",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2011-03-03T22:33:36Z"
+  },
+  "Azitra Inc": {
+   "company": "Azitra Inc",
+   "symbol": "AZTR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Elite Education Group International Ltd": {
+   "company": "Elite Education Group International Ltd",
+   "symbol": "EEIQ",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Marex Group plc": {
+   "company": "Marex Group plc",
+   "symbol": "MRX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Ortho Clinical Diagnostics Holdings plc": {
+   "company": "Ortho Clinical Diagnostics Holdings plc",
+   "symbol": "OCDX",
+   "title": "Ortho Clinical Diagnostics",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2007-06-19T02:07:19Z"
+  },
+  "Bicara Therapeutics Inc.": {
+   "company": "Bicara Therapeutics Inc.",
+   "symbol": "BCAX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Brera Holdings PLC": {
+   "company": "Brera Holdings PLC",
+   "symbol": "BREA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "AGRIFORCE GROWING SYSTEMS LTD.": {
+   "company": "AGRIFORCE GROWING SYSTEMS LTD.",
+   "symbol": "AGRI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "RLX Technology Inc.": {
+   "company": "RLX Technology Inc.",
+   "symbol": "RLX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "zSpace, Inc.": {
+   "company": "zSpace, Inc.",
+   "symbol": "ZSPC",
+   "title": "ZSpace (company)",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2013-07-02T17:11:37Z"
+  },
+  "Aktis Oncology, Inc.": {
+   "company": "Aktis Oncology, Inc.",
+   "symbol": "AKTS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Jamf Holding Corp.": {
+   "company": "Jamf Holding Corp.",
+   "symbol": "JAMF",
+   "title": "Jamf",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2019-07-10T23:52:37Z"
+  },
+  "YXT.COM GROUP HOLDING Ltd": {
+   "company": "YXT.COM GROUP HOLDING Ltd",
+   "symbol": "YXT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "POWERSCHOOL HOLDINGS, INC.": {
+   "company": "POWERSCHOOL HOLDINGS, INC.",
+   "symbol": "PWSC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "PROSIGHT GLOBAL, INC.": {
+   "company": "PROSIGHT GLOBAL, INC.",
+   "symbol": "PROS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Qilian International Holding Group Ltd": {
+   "company": "Qilian International Holding Group Ltd",
+   "symbol": "QLI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "VeraDermics, Inc": {
+   "company": "VeraDermics, Inc",
+   "symbol": "MANE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Rapport Therapeutics, Inc.": {
+   "company": "Rapport Therapeutics, Inc.",
+   "symbol": "RAPP",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Oddity Tech Ltd": {
+   "company": "Oddity Tech Ltd",
+   "symbol": "ODD",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Flywire Corp": {
+   "company": "Flywire Corp",
+   "symbol": "FLYW",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Trean Insurance Group, Inc.": {
+   "company": "Trean Insurance Group, Inc.",
+   "symbol": "TIG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "CapsoVision, Inc": {
+   "company": "CapsoVision, Inc",
+   "symbol": "CV",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "MetroCity Bankshares, Inc.": {
+   "company": "MetroCity Bankshares, Inc.",
+   "symbol": "MCBS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Silverback Therapeutics, Inc.": {
+   "company": "Silverback Therapeutics, Inc.",
+   "symbol": "SBTX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "NEXTCURE, INC.": {
+   "company": "NEXTCURE, INC.",
+   "symbol": "NXTC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Zevia PBC": {
+   "company": "Zevia PBC",
+   "symbol": "ZVIA",
+   "title": "Zevia",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2012-04-02T22:41:15Z"
+  },
+  "BioAge Labs, Inc.": {
+   "company": "BioAge Labs, Inc.",
+   "symbol": "BIOA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Ozon Holdings PLC": {
+   "company": "Ozon Holdings PLC",
+   "symbol": "OZON",
+   "title": "Ozon",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2020-09-04T15:06:55Z"
+  },
+  "1847 Goedeker Inc.": {
+   "company": "1847 Goedeker Inc.",
+   "symbol": "GOED",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "AFYA LTD": {
+   "company": "AFYA LTD",
+   "symbol": "AFYA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "MILESTONE PHARMACEUTICALS INC.": {
+   "company": "MILESTONE PHARMACEUTICALS INC.",
+   "symbol": "MIST",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Frequency Therapeutics, Inc.": {
+   "company": "Frequency Therapeutics, Inc.",
+   "symbol": "FREQ",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "FTC Solar, Inc.": {
+   "company": "FTC Solar, Inc.",
+   "symbol": "FTCI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Himalaya Shipping Ltd.": {
+   "company": "Himalaya Shipping Ltd.",
+   "symbol": "HSHP",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Tenaya Therapeutics, Inc.": {
+   "company": "Tenaya Therapeutics, Inc.",
+   "symbol": "TNYA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "MACH NATURAL RESOURCES LP": {
+   "company": "MACH NATURAL RESOURCES LP",
+   "symbol": "MNR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "CG Oncology, Inc.": {
+   "company": "CG Oncology, Inc.",
+   "symbol": "CGON",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SunScout Holding Ltd": {
+   "company": "SunScout Holding Ltd",
+   "symbol": "SNSC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SILK ROAD MEDICAL INC": {
+   "company": "SILK ROAD MEDICAL INC",
+   "symbol": "SILK",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Accolade, Inc.": {
+   "company": "Accolade, Inc.",
+   "symbol": "ACCD",
+   "title": "Accolade, Inc.",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2004-02-06T21:55:47Z"
+  },
+  "Sundial Growers Inc.": {
+   "company": "Sundial Growers Inc.",
+   "symbol": "SNDL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Safe Pro Group Inc.": {
+   "company": "Safe Pro Group Inc.",
+   "symbol": "SPAI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Atotech Ltd": {
+   "company": "Atotech Ltd",
+   "symbol": "ATC",
+   "title": "Atotech",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2013-07-08T14:26:19Z"
+  },
+  "Nkarta, Inc.": {
+   "company": "Nkarta, Inc.",
+   "symbol": "NKTX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Arhaus, Inc.": {
+   "company": "Arhaus, Inc.",
+   "symbol": "ARHS",
+   "title": "Arhaus",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2017-06-30T18:22:59Z"
+  },
+  "Taysha Gene Therapies, Inc.": {
+   "company": "Taysha Gene Therapies, Inc.",
+   "symbol": "TSHA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "AvidXchange Holdings, Inc.": {
+   "company": "AvidXchange Holdings, Inc.",
+   "symbol": "AVDX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Nano Labs Ltd": {
+   "company": "Nano Labs Ltd",
+   "symbol": "NA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "QuantaSing Group Ltd": {
+   "company": "QuantaSing Group Ltd",
+   "symbol": "QSG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Klaviyo, Inc.": {
+   "company": "Klaviyo, Inc.",
+   "symbol": "KVYO",
+   "title": "Klaviyo",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2022-05-24T12:48:38Z"
+  },
+  "Global-E Online Ltd.": {
+   "company": "Global-E Online Ltd.",
+   "symbol": "GLBE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "PHOENIX MOTOR INC.": {
+   "company": "PHOENIX MOTOR INC.",
+   "symbol": "PEV",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ERock, Inc.": {
+   "company": "ERock, Inc.",
+   "symbol": "EROC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Shimmick Corp": {
+   "company": "Shimmick Corp",
+   "symbol": "SHIM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SOLITON, INC.": {
+   "company": "SOLITON, INC.",
+   "symbol": "SOLY",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Lyntris Inc.": {
+   "company": "Lyntris Inc.",
+   "symbol": "LYNX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Burning Rock Biotech Ltd": {
+   "company": "Burning Rock Biotech Ltd",
+   "symbol": "BNR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "WhiteHawk Minerals Corp.": {
+   "company": "WhiteHawk Minerals Corp.",
+   "symbol": "WHK",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Cardinal Infrastructure Group Inc.": {
+   "company": "Cardinal Infrastructure Group Inc.",
+   "symbol": "CDNL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "MeridianLink, Inc.": {
+   "company": "MeridianLink, Inc.",
+   "symbol": "MLNK",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "CureVac N.V.": {
+   "company": "CureVac N.V.",
+   "symbol": "CVAC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Rani Therapeutics Holdings, Inc.": {
+   "company": "Rani Therapeutics Holdings, Inc.",
+   "symbol": "RANI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "CARLSMED, INC.": {
+   "company": "CARLSMED, INC.",
+   "symbol": "CARL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Weave Communications, Inc.": {
+   "company": "Weave Communications, Inc.",
+   "symbol": "WEAV",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Bullish": {
+   "company": "Bullish",
+   "symbol": "BLSH",
+   "title": "Bullish",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2005-06-23T00:17:54Z"
+  },
+  "Palantir Technologies Inc.": {
+   "company": "Palantir Technologies Inc.",
+   "symbol": "PLTR",
+   "title": "Palantir",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2010-05-03T02:17:30Z"
+  },
+  "BioNTech SE": {
+   "company": "BioNTech SE",
+   "symbol": "BNTX",
+   "title": "BioNTech",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2020-07-28T18:54:38Z"
+  },
+  "Ticketplus Ltd.": {
+   "company": "Ticketplus Ltd.",
+   "symbol": "TP",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ZIPRECRUITER, INC.": {
+   "company": "ZIPRECRUITER, INC.",
+   "symbol": "ZIP",
+   "title": "ZipRecruiter",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2019-02-15T04:39:34Z"
+  },
+  "eSports Technologies, Inc.": {
+   "company": "eSports Technologies, Inc.",
+   "symbol": "EBET",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Acutus Medical, Inc.": {
+   "company": "Acutus Medical, Inc.",
+   "symbol": "AFIB",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Sensei Biotherapeutics, Inc.": {
+   "company": "Sensei Biotherapeutics, Inc.",
+   "symbol": "SNSE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Centessa Pharmaceuticals plc": {
+   "company": "Centessa Pharmaceuticals plc",
+   "symbol": "CNTA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "OLAPLEX HOLDINGS, INC.": {
+   "company": "OLAPLEX HOLDINGS, INC.",
+   "symbol": "OLPX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ANCHIANO THERAPEUTICS LTD.": {
+   "company": "ANCHIANO THERAPEUTICS LTD.",
+   "symbol": "ANCN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Full Truck Alliance Co. Ltd.": {
+   "company": "Full Truck Alliance Co. Ltd.",
+   "symbol": "YMM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Inhibrx, Inc.": {
+   "company": "Inhibrx, Inc.",
+   "symbol": "INBX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Cricut, Inc.": {
+   "company": "Cricut, Inc.",
+   "symbol": "CRCT",
+   "title": "Cricut",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2010-02-08T19:09:03Z"
+  },
+  "UBER TECHNOLOGIES, INC": {
+   "company": "UBER TECHNOLOGIES, INC",
+   "symbol": "UBER",
+   "title": "Uber",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2004-06-13T07:43:55Z"
+  },
+  "Shuttle Pharmaceuticals Holdings, Inc.": {
+   "company": "Shuttle Pharmaceuticals Holdings, Inc.",
+   "symbol": "SHPH",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Arteris, Inc.": {
+   "company": "Arteris, Inc.",
+   "symbol": "AIP",
+   "title": "Arteris",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2013-07-20T12:26:36Z"
+  },
+  "Glimpse Group, Inc.": {
+   "company": "Glimpse Group, Inc.",
+   "symbol": "VRAR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Universe Pharmaceuticals INC": {
+   "company": "Universe Pharmaceuticals INC",
+   "symbol": "UPC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Revolution Medicines, Inc.": {
+   "company": "Revolution Medicines, Inc.",
+   "symbol": "RVMD",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Bon Natural Life Ltd": {
+   "company": "Bon Natural Life Ltd",
+   "symbol": "BON",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Instil Bio, Inc.": {
+   "company": "Instil Bio, Inc.",
+   "symbol": "TIL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Hamilton Insurance Group, Ltd.": {
+   "company": "Hamilton Insurance Group, Ltd.",
+   "symbol": "HG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Parabilis Medicines, Inc.": {
+   "company": "Parabilis Medicines, Inc.",
+   "symbol": "PBLS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Oak Street Health, Inc.": {
+   "company": "Oak Street Health, Inc.",
+   "symbol": "OSH",
+   "title": "Oak Street Health",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2022-05-16T09:29:26Z"
+  },
+  "Voyager Technologies, Inc./DE": {
+   "company": "Voyager Technologies, Inc./DE",
+   "symbol": "VOYG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Jyong Biotech Ltd.": {
+   "company": "Jyong Biotech Ltd.",
+   "symbol": "MENS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Annexon, Inc.": {
+   "company": "Annexon, Inc.",
+   "symbol": "ANNX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "10X Genomics, Inc.": {
+   "company": "10X Genomics, Inc.",
+   "symbol": "TXG",
+   "title": "10x Genomics",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2019-01-28T23:33:52Z"
+  },
+  "Sun Country Airlines Holdings, Inc.": {
+   "company": "Sun Country Airlines Holdings, Inc.",
+   "symbol": "SNCY",
+   "title": "Sun Country Airlines",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2004-12-04T09:48:49Z"
+  },
+  "Patria Investments Ltd": {
+   "company": "Patria Investments Ltd",
+   "symbol": "PAX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Better Choice Co Inc.": {
+   "company": "Better Choice Co Inc.",
+   "symbol": "BTTR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Madison Air Solutions Corp": {
+   "company": "Madison Air Solutions Corp",
+   "symbol": "MAIR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "McAfee Corp.": {
+   "company": "McAfee Corp.",
+   "symbol": "MCFE",
+   "title": "McAfee",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2003-03-19T16:44:52Z"
+  },
+  "Nanobiotix S.A.": {
+   "company": "Nanobiotix S.A.",
+   "symbol": "NBTX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "InnovAge Holding Corp.": {
+   "company": "InnovAge Holding Corp.",
+   "symbol": "INNV",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Firefly Aerospace Inc.": {
+   "company": "Firefly Aerospace Inc.",
+   "symbol": "FLY",
+   "title": "Firefly Aerospace",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2014-07-30T12:02:01Z"
+  },
+  "Neutron Holdings, Inc.": {
+   "company": "Neutron Holdings, Inc.",
+   "symbol": "LIME",
+   "title": "Lime (transportation company)",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2017-08-01T01:42:06Z"
+  },
+  "Ibotta, Inc.": {
+   "company": "Ibotta, Inc.",
+   "symbol": "IBTA",
+   "title": "Ibotta",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2016-07-21T06:08:54Z"
+  },
+  "Phathom Pharmaceuticals, Inc.": {
+   "company": "Phathom Pharmaceuticals, Inc.",
+   "symbol": "PHAT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "JFrog Ltd": {
+   "company": "JFrog Ltd",
+   "symbol": "FROG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null,
+   "review_verdict": "reject: 'DevOps' is a generic concept, not a product article"
+  },
+  "TCR2 THERAPEUTICS INC.": {
+   "company": "TCR2 THERAPEUTICS INC.",
+   "symbol": "TCRR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "FGI Industries Ltd.": {
+   "company": "FGI Industries Ltd.",
+   "symbol": "FGI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SpyGlass Pharma, Inc.": {
+   "company": "SpyGlass Pharma, Inc.",
+   "symbol": "SGP",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "UserTesting, Inc.": {
+   "company": "UserTesting, Inc.",
+   "symbol": "USER",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Decibel Therapeutics, Inc.": {
+   "company": "Decibel Therapeutics, Inc.",
+   "symbol": "DBTX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "BioAtla, Inc.": {
+   "company": "BioAtla, Inc.",
+   "symbol": "BCAB",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Latham Group, Inc.": {
+   "company": "Latham Group, Inc.",
+   "symbol": "SWIM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Skillful Craftsman Education Technology Ltd": {
+   "company": "Skillful Craftsman Education Technology Ltd",
+   "symbol": "EDTK",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Yalla Group Ltd": {
+   "company": "Yalla Group Ltd",
+   "symbol": "YALA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "BlossomHill Therapeutics, Inc.": {
+   "company": "BlossomHill Therapeutics, Inc.",
+   "symbol": "BLSM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Contineum Therapeutics, Inc.": {
+   "company": "Contineum Therapeutics, Inc.",
+   "symbol": "CTNM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Honest Company, Inc.": {
+   "company": "Honest Company, Inc.",
+   "symbol": "HNST",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Blackstone Digital Infrastructure Trust Inc.": {
+   "company": "Blackstone Digital Infrastructure Trust Inc.",
+   "symbol": "BXDC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "RED RIVER BANCSHARES INC": {
+   "company": "RED RIVER BANCSHARES INC",
+   "symbol": "RRBI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Cadre Holdings, Inc.": {
+   "company": "Cadre Holdings, Inc.",
+   "symbol": "CDRE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Invizyne Technologies Inc": {
+   "company": "Invizyne Technologies Inc",
+   "symbol": "IZTC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "wShares Enhanced Gold ETF": {
+   "company": "wShares Enhanced Gold ETF",
+   "symbol": "WGLD",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Virax Biolabs Group Ltd": {
+   "company": "Virax Biolabs Group Ltd",
+   "symbol": "VRAX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Pony AI Inc.": {
+   "company": "Pony AI Inc.",
+   "symbol": "PONY",
+   "title": "Pony.ai",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2020-01-19T05:34:00Z"
+  },
+  "Janux Therapeutics, Inc.": {
+   "company": "Janux Therapeutics, Inc.",
+   "symbol": "JANX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "VTEX": {
+   "company": "VTEX",
+   "symbol": "VTEX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Oatly Group AB": {
+   "company": "Oatly Group AB",
+   "symbol": "OTLY",
+   "title": "Oatly",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2019-12-29T20:42:26Z"
+  },
+  "AVEDRO INC": {
+   "company": "AVEDRO INC",
+   "symbol": "AVDR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Mission Produce, Inc.": {
+   "company": "Mission Produce, Inc.",
+   "symbol": "AVO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "EHang Holdings Ltd": {
+   "company": "EHang Holdings Ltd",
+   "symbol": "EH",
+   "title": "EHang",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2014-09-22T01:30:05Z"
+  },
+  "NexPoint Real Estate Finance, Inc.": {
+   "company": "NexPoint Real Estate Finance, Inc.",
+   "symbol": "NREF",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Jin Medical International Ltd.": {
+   "company": "Jin Medical International Ltd.",
+   "symbol": "ZJYL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "CloudFlare, Inc.": {
+   "company": "CloudFlare, Inc.",
+   "symbol": "NET",
+   "title": "Cloudflare",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2011-08-16T01:59:05Z"
+  },
+  "GROCERY OUTLET HOLDING CORP.": {
+   "company": "GROCERY OUTLET HOLDING CORP.",
+   "symbol": "GO",
+   "title": "Grocery Outlet",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2006-04-29T17:55:00Z"
+  },
+  "Rent the Runway, Inc.": {
+   "company": "Rent the Runway, Inc.",
+   "symbol": "RENT",
+   "title": "Rent the Runway",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2011-12-15T22:51:43Z"
+  },
+  "Inventiva S.A.": {
+   "company": "Inventiva S.A.",
+   "symbol": "IVA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "DEEP FISSION, INC.": {
+   "company": "DEEP FISSION, INC.",
+   "symbol": "FISN",
+   "title": "Deep Fission, Inc.",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2026-07-13T19:17:32Z"
+  },
+  "HYDROFARM HOLDINGS GROUP, INC.": {
+   "company": "HYDROFARM HOLDINGS GROUP, INC.",
+   "symbol": "HYFM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "GFL Environmental Inc.": {
+   "company": "GFL Environmental Inc.",
+   "symbol": "GFL",
+   "title": "GFL Environmental",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2016-05-19T15:34:15Z"
+  },
+  "Generate Biomedicines, Inc.": {
+   "company": "Generate Biomedicines, Inc.",
+   "symbol": "GENB",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "INMUNE BIO, INC.": {
+   "company": "INMUNE BIO, INC.",
+   "symbol": "INMB",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "DoubleVerify Holdings, Inc.": {
+   "company": "DoubleVerify Holdings, Inc.",
+   "symbol": "DV",
+   "title": "DoubleVerify",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2026-05-08T17:46:50Z"
+  },
+  "FIVE STAR BANCORP": {
+   "company": "FIVE STAR BANCORP",
+   "symbol": "FSBC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Genius Group Ltd": {
+   "company": "Genius Group Ltd",
+   "symbol": "GNS",
+   "title": "Genius Group Limited",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2024-03-03T03:44:29Z"
+  },
+  "Sagimet Biosciences Inc.": {
+   "company": "Sagimet Biosciences Inc.",
+   "symbol": "SGMT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "89bio, Inc.": {
+   "company": "89bio, Inc.",
+   "symbol": "ETNB",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Portillo's Inc.": {
+   "company": "Portillo's Inc.",
+   "symbol": "PTLO",
+   "title": "Portillo's Restaurants",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2005-08-27T22:58:19Z"
+  },
+  "Inspira Technologies OXY B.H.N. Ltd": {
+   "company": "Inspira Technologies OXY B.H.N. Ltd",
+   "symbol": "IINN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "MEDALLIA, INC.": {
+   "company": "MEDALLIA, INC.",
+   "symbol": "MDLA",
+   "title": "Medallia",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2013-06-04T03:36:10Z"
+  },
+  "DigitalOcean Holdings, Inc.": {
+   "company": "DigitalOcean Holdings, Inc.",
+   "symbol": "DOCN",
+   "title": "DigitalOcean",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2014-04-22T16:13:21Z"
+  },
+  "JOANN Inc.": {
+   "company": "JOANN Inc.",
+   "symbol": "JOAN",
+   "title": "JoAnn Fabrics",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2006-07-18T18:51:59Z"
+  },
+  "Sotera Health Co": {
+   "company": "Sotera Health Co",
+   "symbol": "SHC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Lyra Therapeutics, Inc.": {
+   "company": "Lyra Therapeutics, Inc.",
+   "symbol": "LYRA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Cian PLC": {
+   "company": "Cian PLC",
+   "symbol": "CIAN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "RICHTECH ROBOTICS INC.": {
+   "company": "RICHTECH ROBOTICS INC.",
+   "symbol": "RR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Acurx Pharmaceuticals, Inc.": {
+   "company": "Acurx Pharmaceuticals, Inc.",
+   "symbol": "ACXP",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Zhangmen Education Inc.": {
+   "company": "Zhangmen Education Inc.",
+   "symbol": "ZME",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Playtika Holding Corp.": {
+   "company": "Playtika Holding Corp.",
+   "symbol": "PLTK",
+   "title": "Playtika",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2019-09-11T07:51:36Z"
+  },
+  "Nutriband Inc.": {
+   "company": "Nutriband Inc.",
+   "symbol": "NTRB",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Cyngn Inc.": {
+   "company": "Cyngn Inc.",
+   "symbol": "CYN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null,
+   "review_verdict": "reject: CyanogenMod is an unrelated project; name coincidence only"
+  },
+  "Alamar Biosciences, Inc.": {
+   "company": "Alamar Biosciences, Inc.",
+   "symbol": "ALMR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Airbnb, Inc.": {
+   "company": "Airbnb, Inc.",
+   "symbol": "ABNB",
+   "title": "Airbnb",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2011-06-12T12:41:57Z"
+  },
+  "HilleVax, Inc.": {
+   "company": "HilleVax, Inc.",
+   "symbol": "HLVX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Frontier Group Holdings, Inc.": {
+   "company": "Frontier Group Holdings, Inc.",
+   "symbol": "ULCC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "NeoGames S.A.": {
+   "company": "NeoGames S.A.",
+   "symbol": "NGMS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Smart Share Global Ltd": {
+   "company": "Smart Share Global Ltd",
+   "symbol": "EM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "CHANGE HEALTHCARE INC.": {
+   "company": "CHANGE HEALTHCARE INC.",
+   "symbol": "CHNG",
+   "title": "Change Healthcare",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2014-06-30T22:19:01Z"
+  },
+  "Legend Biotech Corp": {
+   "company": "Legend Biotech Corp",
+   "symbol": "LEGN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Silvergate Capital Corp": {
+   "company": "Silvergate Capital Corp",
+   "symbol": "SI",
+   "title": "Silvergate Bank",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2022-11-20T15:59:27Z"
+  },
+  "NexImmune, Inc.": {
+   "company": "NexImmune, Inc.",
+   "symbol": "NEXI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Omega Therapeutics, Inc.": {
+   "company": "Omega Therapeutics, Inc.",
+   "symbol": "OMGA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "LEAD REAL ESTATE CO., LTD": {
+   "company": "LEAD REAL ESTATE CO., LTD",
+   "symbol": "LRE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Squarespace, Inc.": {
+   "company": "Squarespace, Inc.",
+   "symbol": "SQSP",
+   "title": "Squarespace",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2007-10-13T19:16:21Z"
+  },
+  "Maze Therapeutics, Inc.": {
+   "company": "Maze Therapeutics, Inc.",
+   "symbol": "MAZE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "LIZHI INC.": {
+   "company": "LIZHI INC.",
+   "symbol": "LIZI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Edgewise Therapeutics, Inc.": {
+   "company": "Edgewise Therapeutics, Inc.",
+   "symbol": "EWTX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Anteris Technologies Global Corp.": {
+   "company": "Anteris Technologies Global Corp.",
+   "symbol": "AVR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Candel Therapeutics, Inc.": {
+   "company": "Candel Therapeutics, Inc.",
+   "symbol": "CADL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Informatica Inc.": {
+   "company": "Informatica Inc.",
+   "symbol": "INFA",
+   "title": "Informatica",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2010-05-14T20:30:56Z"
+  },
+  "Mineralys Therapeutics, Inc.": {
+   "company": "Mineralys Therapeutics, Inc.",
+   "symbol": "MLYS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Aura Minerals Inc.": {
+   "company": "Aura Minerals Inc.",
+   "symbol": "AUGO",
+   "title": "Aura Minerals",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2018-11-09T23:19:04Z"
+  },
+  "Applied Molecular Transport Inc.": {
+   "company": "Applied Molecular Transport Inc.",
+   "symbol": "AMTI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Via Transportation, Inc.": {
+   "company": "Via Transportation, Inc.",
+   "symbol": "VIA",
+   "title": "Via Transportation",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2016-06-06T21:16:53Z"
+  },
+  "AZEK Co Inc.": {
+   "company": "AZEK Co Inc.",
+   "symbol": "AZEK",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ZJK Industrial Co., Ltd.": {
+   "company": "ZJK Industrial Co., Ltd.",
+   "symbol": "ZJK",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Orphazyme A/S": {
+   "company": "Orphazyme A/S",
+   "symbol": "ORPH",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Immunocore Holdings plc": {
+   "company": "Immunocore Holdings plc",
+   "symbol": "IMCR",
+   "title": "Immunocore",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2013-07-09T15:15:25Z"
+  },
+  "Fractyl Health, Inc.": {
+   "company": "Fractyl Health, Inc.",
+   "symbol": "GUTS",
+   "title": "Fractyl Health",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2025-01-09T21:58:48Z"
+  },
+  "Corsair Gaming, Inc.": {
+   "company": "Corsair Gaming, Inc.",
+   "symbol": "CRSR",
+   "title": "Corsair Gaming",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2005-10-26T23:33:46Z"
+  },
+  "CS Disco, Inc.": {
+   "company": "CS Disco, Inc.",
+   "symbol": "LAW",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "MediaAlpha, Inc.": {
+   "company": "MediaAlpha, Inc.",
+   "symbol": "MAX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Lantern Pharma Inc.": {
+   "company": "Lantern Pharma Inc.",
+   "symbol": "LTRN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Rank One Computing Corp": {
+   "company": "Rank One Computing Corp",
+   "symbol": "ROC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Earlyworks Co., Ltd.": {
+   "company": "Earlyworks Co., Ltd.",
+   "symbol": "ELWS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Sprout Social, Inc.": {
+   "company": "Sprout Social, Inc.",
+   "symbol": "SPT",
+   "title": "Sprout Social",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2024-04-10T01:47:06Z"
+  },
+  "Kenvue Inc.": {
+   "company": "Kenvue Inc.",
+   "symbol": "KVUE",
+   "title": "Kenvue",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2023-04-20T16:01:11Z"
+  },
+  "Intapp, Inc.": {
+   "company": "Intapp, Inc.",
+   "symbol": "INTA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Professional Holding Corp.": {
+   "company": "Professional Holding Corp.",
+   "symbol": "PFHD",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Couchbase, Inc.": {
+   "company": "Couchbase, Inc.",
+   "symbol": "BASE",
+   "title": "Couchbase, Inc.",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2011-05-28T17:48:54Z"
+  },
+  "ASPEN INSURANCE HOLDINGS LTD": {
+   "company": "ASPEN INSURANCE HOLDINGS LTD",
+   "symbol": "AHL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "MAYVILLE ENGINEERING COMPANY, INC.": {
+   "company": "MAYVILLE ENGINEERING COMPANY, INC.",
+   "symbol": "MEC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "PPD, Inc.": {
+   "company": "PPD, Inc.",
+   "symbol": "PPD",
+   "title": "Christian Democratic People's Party of Switzerland",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2003-11-16T18:23:47Z"
+  },
+  "Tremor International Ltd.": {
+   "company": "Tremor International Ltd.",
+   "symbol": "TRMR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Regencell Bioscience Holdings Ltd": {
+   "company": "Regencell Bioscience Holdings Ltd",
+   "symbol": "RGC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Applovin Corp": {
+   "company": "Applovin Corp",
+   "symbol": "APP",
+   "title": "AppLovin",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2016-09-26T22:10:27Z"
+  },
+  "Direct Digital Holdings, Inc.": {
+   "company": "Direct Digital Holdings, Inc.",
+   "symbol": "DRCT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "J-Long Group Ltd": {
+   "company": "J-Long Group Ltd",
+   "symbol": "JL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Vaxcyte, Inc.": {
+   "company": "Vaxcyte, Inc.",
+   "symbol": "PCVX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "BEYOND MEAT, INC.": {
+   "company": "BEYOND MEAT, INC.",
+   "symbol": "BYND",
+   "title": "Beyond Meat",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2014-08-20T17:59:54Z"
+  },
+  "YUNJI INC.": {
+   "company": "YUNJI INC.",
+   "symbol": "YJ",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "MOLECULAR PARTNERS AG": {
+   "company": "MOLECULAR PARTNERS AG",
+   "symbol": "MOLN",
+   "title": "Molecular Partners",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2015-11-12T20:39:29Z"
+  },
+  "Bill.com Holdings, Inc.": {
+   "company": "Bill.com Holdings, Inc.",
+   "symbol": "BILL",
+   "title": "Bill.com",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2014-10-01T23:29:55Z"
+  },
+  "Turbo Energy, S.A.": {
+   "company": "Turbo Energy, S.A.",
+   "symbol": "TURB",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ThredUp Inc.": {
+   "company": "ThredUp Inc.",
+   "symbol": "TDUP",
+   "title": "ThredUp",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2024-10-05T11:06:51Z"
+  },
+  "G Medical Innovations Holdings Ltd.": {
+   "company": "G Medical Innovations Holdings Ltd.",
+   "symbol": "GMVD",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Forbright, Inc.": {
+   "company": "Forbright, Inc.",
+   "symbol": "FRBT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Jefferson Capital, Inc. / DE": {
+   "company": "Jefferson Capital, Inc. / DE",
+   "symbol": "JCAP",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SHOCKWAVE MEDICAL, INC.": {
+   "company": "SHOCKWAVE MEDICAL, INC.",
+   "symbol": "SWAV",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SUNNOVA ENERGY INTERNATIONAL INC.": {
+   "company": "SUNNOVA ENERGY INTERNATIONAL INC.",
+   "symbol": "NOVA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Sigilon Therapeutics, Inc.": {
+   "company": "Sigilon Therapeutics, Inc.",
+   "symbol": "SGTX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Apogee Therapeutics, Inc.": {
+   "company": "Apogee Therapeutics, Inc.",
+   "symbol": "APGE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Bridge Investment Group Holdings Inc.": {
+   "company": "Bridge Investment Group Holdings Inc.",
+   "symbol": "BRDG",
+   "title": "Bridge Investment Group",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2023-05-13T03:29:35Z"
+  },
+  "OneWater Marine Inc.": {
+   "company": "OneWater Marine Inc.",
+   "symbol": "ONEW",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "LMP Automotive Holdings, Inc.": {
+   "company": "LMP Automotive Holdings, Inc.",
+   "symbol": "LMPX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Sumo Logic, Inc.": {
+   "company": "Sumo Logic, Inc.",
+   "symbol": "SUMO",
+   "title": "Sumo Logic",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2012-03-13T23:00:48Z"
+  },
+  "Liftoff Mobile, Inc.": {
+   "company": "Liftoff Mobile, Inc.",
+   "symbol": "LFTO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "TaskUs, Inc.": {
+   "company": "TaskUs, Inc.",
+   "symbol": "TASK",
+   "title": "TaskUs",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2021-09-01T15:38:06Z"
+  },
+  "INSTRUCTURE HOLDINGS, INC.": {
+   "company": "INSTRUCTURE HOLDINGS, INC.",
+   "symbol": "INST",
+   "title": "Instructure",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2011-02-22T17:07:40Z"
+  },
+  "Londian Wason New Energy Tech Inc.": {
+   "company": "Londian Wason New Energy Tech Inc.",
+   "symbol": "FOIL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Applied UV, Inc.": {
+   "company": "Applied UV, Inc.",
+   "symbol": "AUVI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "WEALTHFRONT CORP": {
+   "company": "WEALTHFRONT CORP",
+   "symbol": "WLTH",
+   "title": "Wealthfront",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2014-08-22T19:58:15Z"
+  },
+  "COMPASS Pathways plc": {
+   "company": "COMPASS Pathways plc",
+   "symbol": "CMPS",
+   "title": "Compass Pathways",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2025-01-29T06:32:28Z"
+  },
+  "EagleRock Land, LLC": {
+   "company": "EagleRock Land, LLC",
+   "symbol": "EROK",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "IHS Holding Ltd": {
+   "company": "IHS Holding Ltd",
+   "symbol": "IHS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Li Auto Inc.": {
+   "company": "Li Auto Inc.",
+   "symbol": "LI",
+   "title": "Li Auto",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2020-08-06T02:47:30Z"
+  },
+  "SentinelOne, Inc.": {
+   "company": "SentinelOne, Inc.",
+   "symbol": "S",
+   "title": "SentinelOne",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2020-05-01T14:58:55Z"
+  },
+  "Petco Health & Wellness Company, Inc.": {
+   "company": "Petco Health & Wellness Company, Inc.",
+   "symbol": "WOOF",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SUJA LIFE, INC.": {
+   "company": "SUJA LIFE, INC.",
+   "symbol": "SUJA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ON24 INC.": {
+   "company": "ON24 INC.",
+   "symbol": "ONTF",
+   "title": "ON24",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2006-01-04T10:40:48Z"
+  },
+  "NEXGEL, INC.": {
+   "company": "NEXGEL, INC.",
+   "symbol": "NXGL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "AGI Inc": {
+   "company": "AGI Inc",
+   "symbol": "AGBK",
+   "title": "Alliance Global",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2015-01-23T18:04:19Z"
+  },
+  "SRM Entertainment, Inc.": {
+   "company": "SRM Entertainment, Inc.",
+   "symbol": "SRM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Viking Holdings Ltd": {
+   "company": "Viking Holdings Ltd",
+   "symbol": "VIK",
+   "title": "Viking (cruise line)",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2008-07-28T20:07:48Z"
+  },
+  "Talaris Therapeutics, Inc.": {
+   "company": "Talaris Therapeutics, Inc.",
+   "symbol": "TALS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "TELOS CORP": {
+   "company": "TELOS CORP",
+   "symbol": "TLS",
+   "title": "Telos Corporation",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2009-03-16T17:26:41Z"
+  },
+  "IGM Biosciences, Inc.": {
+   "company": "IGM Biosciences, Inc.",
+   "symbol": "IGMS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Enfusion, Inc.": {
+   "company": "Enfusion, Inc.",
+   "symbol": "ENFN",
+   "title": "Enfusion",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2011-07-29T13:08:18Z"
+  },
+  "Applied Blockchain, Inc.": {
+   "company": "Applied Blockchain, Inc.",
+   "symbol": "APLD",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "PaxMedica, Inc.": {
+   "company": "PaxMedica, Inc.",
+   "symbol": "PXMD",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Abivax S.A.": {
+   "company": "Abivax S.A.",
+   "symbol": "ABVX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ALUMIS INC.": {
+   "company": "ALUMIS INC.",
+   "symbol": "ALMS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "CinCor Pharma, Inc.": {
+   "company": "CinCor Pharma, Inc.",
+   "symbol": "CINC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Annovis Bio, Inc.": {
+   "company": "Annovis Bio, Inc.",
+   "symbol": "ANVS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "PROCORE TECHNOLOGIES, INC.": {
+   "company": "PROCORE TECHNOLOGIES, INC.",
+   "symbol": "PCOR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "TXO Energy Partners, L.P.": {
+   "company": "TXO Energy Partners, L.P.",
+   "symbol": "TXO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ARKO Petroleum Corp.": {
+   "company": "ARKO Petroleum Corp.",
+   "symbol": "APC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Yatsen Holding Ltd": {
+   "company": "Yatsen Holding Ltd",
+   "symbol": "YSG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "MAIA Biotechnology, Inc.": {
+   "company": "MAIA Biotechnology, Inc.",
+   "symbol": "MAIA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Passage BIO, Inc.": {
+   "company": "Passage BIO, Inc.",
+   "symbol": "PASG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "TDCX Inc.": {
+   "company": "TDCX Inc.",
+   "symbol": "TDCX",
+   "title": "TDCX",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2026-02-24T03:21:28Z"
+  },
+  "GREENPOWER MOTOR Co INC.": {
+   "company": "GREENPOWER MOTOR Co INC.",
+   "symbol": "GP",
+   "title": "GreenPower Motor Company",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2017-08-17T01:33:00Z"
+  },
+  "GAN Ltd": {
+   "company": "GAN Ltd",
+   "symbol": "GAN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Aerovate Therapeutics, Inc.": {
+   "company": "Aerovate Therapeutics, Inc.",
+   "symbol": "AVTE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Guardian Metal Resources PLC": {
+   "company": "Guardian Metal Resources PLC",
+   "symbol": "GMTL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Apria, Inc.": {
+   "company": "Apria, Inc.",
+   "symbol": "APR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Acumen Pharmaceuticals, Inc.": {
+   "company": "Acumen Pharmaceuticals, Inc.",
+   "symbol": "ABOS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Angel Oak Mortgage, Inc.": {
+   "company": "Angel Oak Mortgage, Inc.",
+   "symbol": "AOMR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Ming Shing Group Holdings Ltd": {
+   "company": "Ming Shing Group Holdings Ltd",
+   "symbol": "MSW",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Legence Corp.": {
+   "company": "Legence Corp.",
+   "symbol": "LGN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Neptune Insurance Holdings Inc.": {
+   "company": "Neptune Insurance Holdings Inc.",
+   "symbol": "NP",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Paragon 28, Inc.": {
+   "company": "Paragon 28, Inc.",
+   "symbol": "FNA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Eco Wave Power Global AB (publ)": {
+   "company": "Eco Wave Power Global AB (publ)",
+   "symbol": "WAVE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Certara, Inc.": {
+   "company": "Certara, Inc.",
+   "symbol": "CERT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "TELA Bio, Inc.": {
+   "company": "TELA Bio, Inc.",
+   "symbol": "TELA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Aligos Therapeutics, Inc.": {
+   "company": "Aligos Therapeutics, Inc.",
+   "symbol": "ALGS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Aesthetic Medical International Holdings Group Ltd": {
+   "company": "Aesthetic Medical International Holdings Group Ltd",
+   "symbol": "AIH",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Avalyn Pharma Inc.": {
+   "company": "Avalyn Pharma Inc.",
+   "symbol": "AVLN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Verve Therapeutics, Inc.": {
+   "company": "Verve Therapeutics, Inc.",
+   "symbol": "VERV",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "GRAYBUG VISION, INC.": {
+   "company": "GRAYBUG VISION, INC.",
+   "symbol": "GRAY",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "D-MARKET Electronic Services & Trading": {
+   "company": "D-MARKET Electronic Services & Trading",
+   "symbol": "HEPS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Prime Medicine, Inc.": {
+   "company": "Prime Medicine, Inc.",
+   "symbol": "PRME",
+   "title": "Prime Medicine",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2025-12-29T11:00:14Z"
+  },
+  "Beam Therapeutics Inc.": {
+   "company": "Beam Therapeutics Inc.",
+   "symbol": "BEAM",
+   "title": "Beam Therapeutics",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2021-07-08T21:13:31Z"
+  },
+  "PIXIE DUST TECHNOLOGIES, INC.": {
+   "company": "PIXIE DUST TECHNOLOGIES, INC.",
+   "symbol": "PXDT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Tyra Biosciences, Inc.": {
+   "company": "Tyra Biosciences, Inc.",
+   "symbol": "TYRA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Inari Medical, Inc.": {
+   "company": "Inari Medical, Inc.",
+   "symbol": "NARI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Elevation Oncology, Inc.": {
+   "company": "Elevation Oncology, Inc.",
+   "symbol": "ELEV",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Asana, Inc.": {
+   "company": "Asana, Inc.",
+   "symbol": "ASAN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Nasus Pharma Ltd": {
+   "company": "Nasus Pharma Ltd",
+   "symbol": "NSRX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Pyxis Oncology, Inc.": {
+   "company": "Pyxis Oncology, Inc.",
+   "symbol": "PYXS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Olink Holding AB (publ)": {
+   "company": "Olink Holding AB (publ)",
+   "symbol": "OLK",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Baosheng Media Group Holdings Ltd": {
+   "company": "Baosheng Media Group Holdings Ltd",
+   "symbol": "BAOS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "NIP Group Inc.": {
+   "company": "NIP Group Inc.",
+   "symbol": "NIPG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SIMILARWEB LTD.": {
+   "company": "SIMILARWEB LTD.",
+   "symbol": "SMWB",
+   "title": "Similarweb",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2011-06-30T06:51:23Z"
+  },
+  "Gitlab Inc.": {
+   "company": "Gitlab Inc.",
+   "symbol": "GTLB",
+   "title": "GitLab Inc.",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2023-01-19T00:46:49Z"
+  },
+  "Caris Life Sciences, Inc.": {
+   "company": "Caris Life Sciences, Inc.",
+   "symbol": "CAI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Trident Digital Tech Holdings Ltd": {
+   "company": "Trident Digital Tech Holdings Ltd",
+   "symbol": "TDTH",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Eargo, Inc.": {
+   "company": "Eargo, Inc.",
+   "symbol": "EAR",
+   "title": "Eargo",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2015-11-18T19:01:26Z"
+  },
+  "Alliance Laundry Holdings Inc.": {
+   "company": "Alliance Laundry Holdings Inc.",
+   "symbol": "ALH",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "UP FINTECH HOLDING LTD": {
+   "company": "UP FINTECH HOLDING LTD",
+   "symbol": "TIGR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Gloo Holdings, Inc.": {
+   "company": "Gloo Holdings, Inc.",
+   "symbol": "GLOO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Definitive Healthcare Corp.": {
+   "company": "Definitive Healthcare Corp.",
+   "symbol": "DH",
+   "title": "Definitive Healthcare",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2025-11-24T21:40:37Z"
+  },
+  "Huadi International Group Co., Ltd.": {
+   "company": "Huadi International Group Co., Ltd.",
+   "symbol": "HUDI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Robinhood Markets, Inc.": {
+   "company": "Robinhood Markets, Inc.",
+   "symbol": "HOOD",
+   "title": "Robinhood Markets",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2014-05-07T01:34:21Z"
+  },
+  "Brenmiller Energy Ltd.": {
+   "company": "Brenmiller Energy Ltd.",
+   "symbol": "BNRG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Snap One Holdings Corp.": {
+   "company": "Snap One Holdings Corp.",
+   "symbol": "SNPO",
+   "title": "Control4",
+   "has_article": true,
+   "source": "hand-reviewed relation",
+   "rule": "(2)-(6) reviewed",
+   "article_created": "2009-02-12T03:17:07Z",
+   "review_verdict": "accept: Control4 is a Snap One subsidiary, rule (3)"
+  },
+  "XPENG INC.": {
+   "company": "XPENG INC.",
+   "symbol": "XPEV",
+   "title": "XPeng",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2019-04-08T14:50:15Z"
+  },
+  "Ayala Pharmaceuticals, Inc.": {
+   "company": "Ayala Pharmaceuticals, Inc.",
+   "symbol": "AYLA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "PINTEREST, INC.": {
+   "company": "PINTEREST, INC.",
+   "symbol": "PINS",
+   "title": "Pinterest",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2011-08-22T05:24:24Z"
+  },
+  "Solo Brands, Inc.": {
+   "company": "Solo Brands, Inc.",
+   "symbol": "DTC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Ategrity Specialty Insurance Co Holdings": {
+   "company": "Ategrity Specialty Insurance Co Holdings",
+   "symbol": "ASIC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Dada Nexus Ltd": {
+   "company": "Dada Nexus Ltd",
+   "symbol": "DADA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "GH Research PLC": {
+   "company": "GH Research PLC",
+   "symbol": "GHRS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ASCENTAGE PHARMA GROUP INTERNATIONAL": {
+   "company": "ASCENTAGE PHARMA GROUP INTERNATIONAL",
+   "symbol": "AAPG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "FIRST ADVANTAGE CORP": {
+   "company": "FIRST ADVANTAGE CORP",
+   "symbol": "FA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "AZIYO BIOLOGICS, INC.": {
+   "company": "AZIYO BIOLOGICS, INC.",
+   "symbol": "AZYO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "IsoPlexis Corp": {
+   "company": "IsoPlexis Corp",
+   "symbol": "ISO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Theseus Pharmaceuticals, Inc.": {
+   "company": "Theseus Pharmaceuticals, Inc.",
+   "symbol": "THRX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Hinge Health, Inc.": {
+   "company": "Hinge Health, Inc.",
+   "symbol": "HNGE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Leslie's, Inc.": {
+   "company": "Leslie's, Inc.",
+   "symbol": "LESL",
+   "title": "Leslie's",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2011-11-27T18:55:33Z"
+  },
+  "NeuroSense Therapeutics Ltd.": {
+   "company": "NeuroSense Therapeutics Ltd.",
+   "symbol": "NRSN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Montauk Renewables, Inc.": {
+   "company": "Montauk Renewables, Inc.",
+   "symbol": "MNTK",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "DoubleDown Interactive Co., Ltd.": {
+   "company": "DoubleDown Interactive Co., Ltd.",
+   "symbol": "DDI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "9F Inc.": {
+   "company": "9F Inc.",
+   "symbol": "JFU",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Alzamend Neuro, Inc.": {
+   "company": "Alzamend Neuro, Inc.",
+   "symbol": "ALZN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Kanzhun Ltd": {
+   "company": "Kanzhun Ltd",
+   "symbol": "BZ",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "RAPT Therapeutics, Inc.": {
+   "company": "RAPT Therapeutics, Inc.",
+   "symbol": "RAPT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Lufax Holding Ltd": {
+   "company": "Lufax Holding Ltd",
+   "symbol": "LU",
+   "title": "Lufax",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2015-04-08T00:47:21Z"
+  },
+  "Fusion Pharmaceuticals Inc.": {
+   "company": "Fusion Pharmaceuticals Inc.",
+   "symbol": "FUSN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Vigil Neuroscience, Inc.": {
+   "company": "Vigil Neuroscience, Inc.",
+   "symbol": "VIGL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SOCIETY PASS INCORPORATED.": {
+   "company": "SOCIETY PASS INCORPORATED.",
+   "symbol": "SOPA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Huize Holding Ltd": {
+   "company": "Huize Holding Ltd",
+   "symbol": "HUIZ",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "U Power Ltd": {
+   "company": "U Power Ltd",
+   "symbol": "UCAR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Movano Inc.": {
+   "company": "Movano Inc.",
+   "symbol": "MOVE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Biophytis SA": {
+   "company": "Biophytis SA",
+   "symbol": "BPTS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "C3.ai, Inc.": {
+   "company": "C3.ai, Inc.",
+   "symbol": "AI",
+   "title": "C3 AI",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2023-04-10T18:14:58Z"
+  },
+  "GSX TECHEDU INC.": {
+   "company": "GSX TECHEDU INC.",
+   "symbol": "GSX",
+   "title": "Gaotu Techedu",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2021-01-20T03:48:26Z"
+  },
+  "Lincoln International, Inc.": {
+   "company": "Lincoln International, Inc.",
+   "symbol": "LCLN",
+   "title": "Lincoln International",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2010-04-09T17:52:11Z"
+  },
+  "Corebridge Financial, Inc.": {
+   "company": "Corebridge Financial, Inc.",
+   "symbol": "CRBG",
+   "title": "Corebridge Financial",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2022-10-30T23:47:06Z"
+  },
+  "Orange County Bancorp, Inc. /DE/": {
+   "company": "Orange County Bancorp, Inc. /DE/",
+   "symbol": "OBT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Nature Wood Group Ltd": {
+   "company": "Nature Wood Group Ltd",
+   "symbol": "NWGL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Sinda Ltd.": {
+   "company": "Sinda Ltd.",
+   "symbol": "SIND",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Cloopen Group Holding Ltd": {
+   "company": "Cloopen Group Holding Ltd",
+   "symbol": "RAAS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "VIA optronics AG": {
+   "company": "VIA optronics AG",
+   "symbol": "VIAO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "PAINREFORM LTD.": {
+   "company": "PAINREFORM LTD.",
+   "symbol": "PRFX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "VINE ENERGY INC.": {
+   "company": "VINE ENERGY INC.",
+   "symbol": "VEI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Unity Software Inc.": {
+   "company": "Unity Software Inc.",
+   "symbol": "U",
+   "title": "Unity Technologies",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2010-07-19T20:08:39Z"
+  },
+  "Akoya Biosciences, Inc.": {
+   "company": "Akoya Biosciences, Inc.",
+   "symbol": "AKYA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Neumora Therapeutics, Inc.": {
+   "company": "Neumora Therapeutics, Inc.",
+   "symbol": "NMRA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "AbCellera Biologics Inc.": {
+   "company": "AbCellera Biologics Inc.",
+   "symbol": "ABCL",
+   "title": "AbCellera",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2020-02-16T20:33:56Z"
+  },
+  "Jiuzi Holdings, Inc.": {
+   "company": "Jiuzi Holdings, Inc.",
+   "symbol": "JZXN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ZOOM VIDEO COMMUNICATIONS, INC.": {
+   "company": "ZOOM VIDEO COMMUNICATIONS, INC.",
+   "symbol": "ZM",
+   "title": "Zoom Communications",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2014-07-21T17:40:25Z"
+  },
+  "Coupang, Inc.": {
+   "company": "Coupang, Inc.",
+   "symbol": "CPNG",
+   "title": "Coupang",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2019-09-09T00:04:00Z"
+  },
+  "SPACE EXPLORATION TECHNOLOGIES CORP": {
+   "company": "SPACE EXPLORATION TECHNOLOGIES CORP",
+   "symbol": "SPCX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "ProFrac Holding Corp.": {
+   "company": "ProFrac Holding Corp.",
+   "symbol": "PFHC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Zenas BioPharma, Inc.": {
+   "company": "Zenas BioPharma, Inc.",
+   "symbol": "ZBIO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Laser Photonics Corp": {
+   "company": "Laser Photonics Corp",
+   "symbol": "LASE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Concentra Group Holdings Parent, Inc.": {
+   "company": "Concentra Group Holdings Parent, Inc.",
+   "symbol": "CON",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Standard Nuclear, Inc.": {
+   "company": "Standard Nuclear, Inc.",
+   "symbol": "STDN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "NERDWALLET, INC.": {
+   "company": "NERDWALLET, INC.",
+   "symbol": "NRDS",
+   "title": "NerdWallet",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2012-01-04T20:28:10Z"
+  },
+  "Torrid Holdings Inc.": {
+   "company": "Torrid Holdings Inc.",
+   "symbol": "CURV",
+   "title": "Torrid Holdings",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2004-09-01T03:42:02Z"
+  },
+  "Pactiv Evergreen Inc.": {
+   "company": "Pactiv Evergreen Inc.",
+   "symbol": "PTVE",
+   "title": "Pactiv Evergreen",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2006-08-29T14:55:52Z"
+  },
+  "Karman Holdings Inc.": {
+   "company": "Karman Holdings Inc.",
+   "symbol": "KRMN",
+   "title": "Karman Holdings",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2025-02-15T20:27:16Z"
+  },
+  "Sportradar Group AG": {
+   "company": "Sportradar Group AG",
+   "symbol": "SRAD",
+   "title": "Sportradar",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2015-11-20T22:13:51Z"
+  },
+  "4D Molecular Therapeutics Inc.": {
+   "company": "4D Molecular Therapeutics Inc.",
+   "symbol": "FDMT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Root, Inc.": {
+   "company": "Root, Inc.",
+   "symbol": "ROOT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Ambrx Biopharma Inc.": {
+   "company": "Ambrx Biopharma Inc.",
+   "symbol": "AMAM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Pandion Therapeutics, Inc.": {
+   "company": "Pandion Therapeutics, Inc.",
+   "symbol": "PAND",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "KURA SUSHI USA, INC.": {
+   "company": "KURA SUSHI USA, INC.",
+   "symbol": "KRUS",
+   "title": "Kura Sushi",
+   "has_article": true,
+   "source": "hand-reviewed relation",
+   "rule": "(2)-(6) reviewed",
+   "article_created": "2010-12-31T09:25:46Z",
+   "review_verdict": "accept: Kura Sushi is the Japanese parent, rule (2)"
+  },
+  "Vinci Partners Investments Ltd.": {
+   "company": "Vinci Partners Investments Ltd.",
+   "symbol": "VINP",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Fangdd Network Group Ltd.": {
+   "company": "Fangdd Network Group Ltd.",
+   "symbol": "DUO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Cadrenal Therapeutics, Inc.": {
+   "company": "Cadrenal Therapeutics, Inc.",
+   "symbol": "CVKD",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "High Roller Technologies, Inc.": {
+   "company": "High Roller Technologies, Inc.",
+   "symbol": "ROLR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Riskified Ltd.": {
+   "company": "Riskified Ltd.",
+   "symbol": "RSKD",
+   "title": "Riskified",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2015-12-22T22:50:22Z"
+  },
+  "Eliem Therapeutics, Inc.": {
+   "company": "Eliem Therapeutics, Inc.",
+   "symbol": "ELYM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "PARSONS CORP": {
+   "company": "PARSONS CORP",
+   "symbol": "PSN",
+   "title": "Parsons Corporation",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2006-06-20T16:31:06Z"
+  },
+  "AKERO THERAPEUTICS, INC.": {
+   "company": "AKERO THERAPEUTICS, INC.",
+   "symbol": "AKRO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Heartflow, Inc.": {
+   "company": "Heartflow, Inc.",
+   "symbol": "HTFL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "PicS N.V.": {
+   "company": "PicS N.V.",
+   "symbol": "PICS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SK hynix Inc.": {
+   "company": "SK hynix Inc.",
+   "symbol": "SKHY",
+   "title": "SK Hynix",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2005-10-01T06:11:54Z"
+  },
+  "Artiva Biotherapeutics, Inc.": {
+   "company": "Artiva Biotherapeutics, Inc.",
+   "symbol": "ARTV",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Vesta Real Estate Corporation, S.A.B. de C.V.": {
+   "company": "Vesta Real Estate Corporation, S.A.B. de C.V.",
+   "symbol": "VTMX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Antalpha Platform Holding Co": {
+   "company": "Antalpha Platform Holding Co",
+   "symbol": "ANTA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Jianzhi Education Technology Group Co Ltd": {
+   "company": "Jianzhi Education Technology Group Co Ltd",
+   "symbol": "JZ",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "REGENTIS BIOMATERIALS LTD.": {
+   "company": "REGENTIS BIOMATERIALS LTD.",
+   "symbol": "RGNT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Perfect Moment Ltd.": {
+   "company": "Perfect Moment Ltd.",
+   "symbol": "PMNT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "BENTLEY SYSTEMS INC": {
+   "company": "BENTLEY SYSTEMS INC",
+   "symbol": "BSY",
+   "title": "Bentley Systems",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2003-03-19T16:24:49Z"
+  },
+  "Day One Biopharmaceuticals, Inc.": {
+   "company": "Day One Biopharmaceuticals, Inc.",
+   "symbol": "DAWN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Compass, Inc.": {
+   "company": "Compass, Inc.",
+   "symbol": "COMP",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null,
+   "review_verdict": "reject: an Italian bank subsidiary aliased 'Compass'; Banca Monte dei Paschi di Siena is unrelated"
+  },
+  "Dynatrace, Inc.": {
+   "company": "Dynatrace, Inc.",
+   "symbol": "DT",
+   "title": "Dynatrace",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2014-12-16T18:48:56Z"
+  },
+  "Toast, Inc.": {
+   "company": "Toast, Inc.",
+   "symbol": "TOST",
+   "title": "Toast, Inc.",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2016-05-26T15:33:53Z"
+  },
+  "ENIGMATIG LTD": {
+   "company": "ENIGMATIG LTD",
+   "symbol": "EGG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SQL Technologies Corp.": {
+   "company": "SQL Technologies Corp.",
+   "symbol": "SKYX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "LAVA Therapeutics NV": {
+   "company": "LAVA Therapeutics NV",
+   "symbol": "LVTX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Hesai Group": {
+   "company": "Hesai Group",
+   "symbol": "HSAI",
+   "title": "Hesai Technology",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2025-01-25T14:27:48Z"
+  },
+  "uCloudlink Group Inc.": {
+   "company": "uCloudlink Group Inc.",
+   "symbol": "UCL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Bolt Biotherapeutics, Inc.": {
+   "company": "Bolt Biotherapeutics, Inc.",
+   "symbol": "BOLT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Vital Farms, Inc.": {
+   "company": "Vital Farms, Inc.",
+   "symbol": "VITL",
+   "title": "Vital Farms",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2024-01-10T21:33:06Z"
+  },
+  "BICYCLE THERAPEUTICS PLC": {
+   "company": "BICYCLE THERAPEUTICS PLC",
+   "symbol": "BCYC",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "SHOULDER INNOVATIONS, INC.": {
+   "company": "SHOULDER INNOVATIONS, INC.",
+   "symbol": "SI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "DPC Holdings Ltd": {
+   "company": "DPC Holdings Ltd",
+   "symbol": "DPC",
+   "title": "Digital Preservation Coalition",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2005-08-02T12:10:41Z"
+  },
+  "U-BX Technology Ltd.": {
+   "company": "U-BX Technology Ltd.",
+   "symbol": "UBXG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Membership Collective Group Inc.": {
+   "company": "Membership Collective Group Inc.",
+   "symbol": "MCG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "NetSTREIT Corp.": {
+   "company": "NetSTREIT Corp.",
+   "symbol": "NTST",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Immunome Inc.": {
+   "company": "Immunome Inc.",
+   "symbol": "IMNM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Vita Coco Company, Inc.": {
+   "company": "Vita Coco Company, Inc.",
+   "symbol": "COCO",
+   "title": "Vita Coco",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2023-08-03T00:04:17Z"
+  },
+  "Tempus AI, Inc.": {
+   "company": "Tempus AI, Inc.",
+   "symbol": "TEM",
+   "title": "Tempus AI",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2024-06-19T21:11:43Z"
+  },
+  "Titan America SA": {
+   "company": "Titan America SA",
+   "symbol": "TTAM",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "OMS Energy Technologies Inc.": {
+   "company": "OMS Energy Technologies Inc.",
+   "symbol": "OMSE",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Centogene N.V.": {
+   "company": "Centogene N.V.",
+   "symbol": "CNTG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Arcellx, Inc.": {
+   "company": "Arcellx, Inc.",
+   "symbol": "ACLX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Codex DNA, Inc.": {
+   "company": "Codex DNA, Inc.",
+   "symbol": "DNAY",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "BGIN BLOCKCHAIN Ltd": {
+   "company": "BGIN BLOCKCHAIN Ltd",
+   "symbol": "BGIN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "loanDepot, Inc.": {
+   "company": "loanDepot, Inc.",
+   "symbol": "LDI",
+   "title": "LoanDepot",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2019-01-23T01:31:39Z"
+  },
+  "Ispire Technology Inc.": {
+   "company": "Ispire Technology Inc.",
+   "symbol": "ISPR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Evommune, Inc.": {
+   "company": "Evommune, Inc.",
+   "symbol": "EVMN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Gold Royalty Corp.": {
+   "company": "Gold Royalty Corp.",
+   "symbol": "GROY",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Krispy Kreme, Inc.": {
+   "company": "Krispy Kreme, Inc.",
+   "symbol": "DNUT",
+   "title": "Krispy Kreme",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2003-01-02T21:37:13Z"
+  },
+  "Xilio Therapeutics, Inc.": {
+   "company": "Xilio Therapeutics, Inc.",
+   "symbol": "XLO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Intchains Group Ltd": {
+   "company": "Intchains Group Ltd",
+   "symbol": "ICG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Septerna, Inc.": {
+   "company": "Septerna, Inc.",
+   "symbol": "SEPN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Immuneering Corp": {
+   "company": "Immuneering Corp",
+   "symbol": "IMRX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Bowhead Specialty Holdings Inc.": {
+   "company": "Bowhead Specialty Holdings Inc.",
+   "symbol": "BOW",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "HeartBeam, Inc.": {
+   "company": "HeartBeam, Inc.",
+   "symbol": "BEAT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Freeline Therapeutics Holdings plc": {
+   "company": "Freeline Therapeutics Holdings plc",
+   "symbol": "FRLN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Presidio Property Trust, Inc.": {
+   "company": "Presidio Property Trust, Inc.",
+   "symbol": "SQFT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Netskope Inc": {
+   "company": "Netskope Inc",
+   "symbol": "NTSK",
+   "title": "Netskope",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2026-02-05T18:44:39Z"
+  },
+  "Prometheus Biosciences, Inc.": {
+   "company": "Prometheus Biosciences, Inc.",
+   "symbol": "RXDX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Grande Group Ltd/HK": {
+   "company": "Grande Group Ltd/HK",
+   "symbol": "GRAN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Exyn Technologies, Inc.": {
+   "company": "Exyn Technologies, Inc.",
+   "symbol": "EXYN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Innate Pharma SA": {
+   "company": "Innate Pharma SA",
+   "symbol": "IPHA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Endeavor Group Holdings, Inc.": {
+   "company": "Endeavor Group Holdings, Inc.",
+   "symbol": "EDR",
+   "title": "WME Group",
+   "has_article": true,
+   "source": "extended",
+   "rule": "(1) the firm",
+   "article_created": "2008-03-31T13:51:25Z"
+  },
+  "WEBTOON Entertainment Inc.": {
+   "company": "WEBTOON Entertainment Inc.",
+   "symbol": "WBTN",
+   "title": "Naver Corporation",
+   "has_article": true,
+   "source": "hand-reviewed relation",
+   "rule": "(2)-(6) reviewed",
+   "article_created": "2005-12-18T17:49:13Z",
+   "review_verdict": "accept: Naver is WEBTOON's parent, rule (2)"
+  },
+  "Valneva SE": {
+   "company": "Valneva SE",
+   "symbol": "VALN",
+   "title": "Valneva SE",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2017-04-25T15:30:58Z"
+  },
+  "LIVONGO HEALTH, INC.": {
+   "company": "LIVONGO HEALTH, INC.",
+   "symbol": "LVGO",
+   "title": "Teladoc Health",
+   "has_article": true,
+   "source": "strict",
+   "rule": "(1) the firm",
+   "article_created": "2015-06-28T14:29:57Z"
+  },
+  "FUTU HOLDINGS LTD": {
+   "company": "FUTU HOLDINGS LTD",
+   "symbol": "FHL",
+   "title": "Futu",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2020-05-06T19:47:41Z"
+  },
+  "Genenta Science S.p.A.": {
+   "company": "Genenta Science S.p.A.",
+   "symbol": "GNTA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "INNIO N.V.": {
+   "company": "INNIO N.V.",
+   "symbol": "INIO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "HireRight Holdings Corp": {
+   "company": "HireRight Holdings Corp",
+   "symbol": "HRT",
+   "title": "HireRight",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2007-08-14T13:31:45Z"
+  },
+  "BRIGHAM MINERALS, INC.": {
+   "company": "BRIGHAM MINERALS, INC.",
+   "symbol": "MNRL",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Alto Neuroscience, Inc.": {
+   "company": "Alto Neuroscience, Inc.",
+   "symbol": "ANRO",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Paymentus Holdings, Inc.": {
+   "company": "Paymentus Holdings, Inc.",
+   "symbol": "PAY",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "CoreWeave, Inc.": {
+   "company": "CoreWeave, Inc.",
+   "symbol": "CRWV",
+   "title": "CoreWeave",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2024-06-20T18:23:54Z"
+  },
+  "Pulmonx Corp": {
+   "company": "Pulmonx Corp",
+   "symbol": "LUNG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Avidity Biosciences, Inc.": {
+   "company": "Avidity Biosciences, Inc.",
+   "symbol": "RNA",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null,
+   "review_verdict": "reject: Novartis is not Avidity's parent"
+  },
+  "Csquare, Inc.": {
+   "company": "Csquare, Inc.",
+   "symbol": "CSQR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "MIDWEST HOLDING INC.": {
+   "company": "MIDWEST HOLDING INC.",
+   "symbol": "MDWT",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Core & Main, Inc.": {
+   "company": "Core & Main, Inc.",
+   "symbol": "CNM",
+   "title": "Core & Main",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2019-04-30T00:00:26Z"
+  },
+  "Seaport Therapeutics, Inc.": {
+   "company": "Seaport Therapeutics, Inc.",
+   "symbol": "SPTX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Tamboran Resources Corp": {
+   "company": "Tamboran Resources Corp",
+   "symbol": "TBN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Joint Stock Co Kaspi.kz": {
+   "company": "Joint Stock Co Kaspi.kz",
+   "symbol": "KSPI",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "TREACE MEDICAL CONCEPTS, INC.": {
+   "company": "TREACE MEDICAL CONCEPTS, INC.",
+   "symbol": "TMCI",
+   "title": "Treace Medical Concepts",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2020-10-03T18:58:30Z"
+  },
+  "Life360, Inc.": {
+   "company": "Life360, Inc.",
+   "symbol": "LIF",
+   "title": "Life360",
+   "has_article": true,
+   "source": "both",
+   "rule": "(1) the firm",
+   "article_created": "2013-10-28T15:00:06Z"
+  },
+  "Beta Bionics, Inc.": {
+   "company": "Beta Bionics, Inc.",
+   "symbol": "BBNX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "INTENSITY THERAPEUTICS, INC.": {
+   "company": "INTENSITY THERAPEUTICS, INC.",
+   "symbol": "INTS",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "TUFIN SOFTWARE TECHNOLOGIES LTD.": {
+   "company": "TUFIN SOFTWARE TECHNOLOGIES LTD.",
+   "symbol": "TUFN",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Loar Holdings Inc.": {
+   "company": "Loar Holdings Inc.",
+   "symbol": "LOAR",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Yuanbao Inc.": {
+   "company": "Yuanbao Inc.",
+   "symbol": "YB",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "Finch Therapeutics Group, Inc.": {
+   "company": "Finch Therapeutics Group, Inc.",
+   "symbol": "FNCH",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "FibroBiologics, Inc.": {
+   "company": "FibroBiologics, Inc.",
+   "symbol": "FBLG",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  },
+  "TURNING POINT THERAPEUTICS, INC.": {
+   "company": "TURNING POINT THERAPEUTICS, INC.",
+   "symbol": "TPTX",
+   "title": null,
+   "has_article": false,
+   "source": null,
+   "rule": "(1) the firm",
+   "article_created": null
+  }
+ }
+}

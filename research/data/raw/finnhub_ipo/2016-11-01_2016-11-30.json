@@ -1,0 +1,307 @@
+{
+ "from": "2016-11-01",
+ "to": "2016-11-30",
+ "fetched_at": "2026-09-09T01:25:19.547237+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2016-11-29",
+   "exchange": null,
+   "name": "PRECHECK HEALTH SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-29",
+   "exchange": null,
+   "name": "PETROSHARE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-28",
+   "exchange": null,
+   "name": "KRIPTECH INTERNATIONAL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2016-11-25",
+   "exchange": null,
+   "name": "UTAC HOLDINGS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-21",
+   "exchange": null,
+   "name": "BIOCRUDE TECHOLOGIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-21",
+   "exchange": null,
+   "name": "EURAMAX HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-18",
+   "exchange": "NASDAQ Capital",
+   "name": "HUNTER MARITIME ACQUISITION CORP.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HUNTU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2016-11-18",
+   "exchange": "NASDAQ Capital",
+   "name": "MOTIF BIO PLC",
+   "numberOfShares": 2438491,
+   "price": "6.98",
+   "status": "priced",
+   "symbol": "MTFB",
+   "totalSharesValue": 17020667
+  },
+  {
+   "date": "2016-11-18",
+   "exchange": null,
+   "name": "CH REAL ESTATE II, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 272000
+  },
+  {
+   "date": "2016-11-17",
+   "exchange": null,
+   "name": "ORESSA LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-16",
+   "exchange": null,
+   "name": "THAR PHARMACEUTICALS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-14",
+   "exchange": null,
+   "name": "AMCHI GENDYNAMY SCIENCE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-14",
+   "exchange": null,
+   "name": "EMPIRE PETROLEUM PARTNERS, LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-14",
+   "exchange": null,
+   "name": "CHINA GEWANG BIOTECHNOLOGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2016-11-14",
+   "exchange": null,
+   "name": "DIGITAL DONATIONS TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 13877880
+  },
+  {
+   "date": "2016-11-10",
+   "exchange": null,
+   "name": "METRO MEDIA HOLDING CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-10",
+   "exchange": null,
+   "name": "AVONDALE ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-10",
+   "exchange": null,
+   "name": "KNOWLEDGE POWER CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-10",
+   "exchange": null,
+   "name": "SINORAMA CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5900000
+  },
+  {
+   "date": "2016-11-10",
+   "exchange": null,
+   "name": "ALLEGRO BEAUTY PRODUCTS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 55000
+  },
+  {
+   "date": "2016-11-10",
+   "exchange": null,
+   "name": "JWIZ, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "JWIZ",
+   "totalSharesValue": 11500000
+  },
+  {
+   "date": "2016-11-09",
+   "exchange": null,
+   "name": "HEALING TOUCH HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2016-11-07",
+   "exchange": null,
+   "name": "LAZEX INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2016-11-07",
+   "exchange": null,
+   "name": "BITMIS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2016-11-04",
+   "exchange": "NASDAQ Global Select",
+   "name": "SMART SAND, INC.",
+   "numberOfShares": 11700000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "SND",
+   "totalSharesValue": 128700000
+  },
+  {
+   "date": "2016-11-03",
+   "exchange": null,
+   "name": "NORTH TEXAS ENERGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2274020
+  },
+  {
+   "date": "2016-11-02",
+   "exchange": null,
+   "name": "CANCER PREVENTION PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-02",
+   "exchange": null,
+   "name": "OCEAN RIG PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-11-02",
+   "exchange": "NASDAQ Global",
+   "name": "GDS HOLDINGS LTD",
+   "numberOfShares": 19250000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GDS",
+   "totalSharesValue": 192500000
+  },
+  {
+   "date": "2016-11-01",
+   "exchange": null,
+   "name": "VANTAGE ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

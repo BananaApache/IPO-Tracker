@@ -1,0 +1,107 @@
+{
+ "from": "2008-11-01",
+ "to": "2008-11-30",
+ "fetched_at": "2026-09-09T01:22:07.438897+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2008-11-28",
+   "exchange": null,
+   "name": "ASIA INTERACTIVE MEDIA INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-11-20",
+   "exchange": "Nasdaq National Market",
+   "name": "GRAND CANYON EDUCATION, INC.",
+   "numberOfShares": 10500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "LOPE",
+   "totalSharesValue": 126000000
+  },
+  {
+   "date": "2008-11-19",
+   "exchange": "New York Stock Exchange",
+   "name": "CURRENCYSHARES RUSSIAN RUBLE TRUST",
+   "numberOfShares": 25750000,
+   "price": "36.70",
+   "status": "priced",
+   "symbol": "XRU",
+   "totalSharesValue": 945025000
+  },
+  {
+   "date": "2008-11-18",
+   "exchange": null,
+   "name": "CHARTER CORPORATE SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-11-14",
+   "exchange": null,
+   "name": "KANDERS ACQUISITION CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-11-10",
+   "exchange": null,
+   "name": "SMART MOVE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-11-10",
+   "exchange": null,
+   "name": "TRIDENT RESOURCES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-11-07",
+   "exchange": null,
+   "name": "DB-NEW YORK NUCLEAR URANIUM FUND",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-11-05",
+   "exchange": null,
+   "name": "CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-11-05",
+   "exchange": null,
+   "name": "PB PROPERTIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

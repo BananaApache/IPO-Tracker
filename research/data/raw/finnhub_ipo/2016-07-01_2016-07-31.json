@@ -1,0 +1,327 @@
+{
+ "from": "2016-07-01",
+ "to": "2016-07-31",
+ "fetched_at": "2026-09-09T01:25:11.535942+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2016-07-29",
+   "exchange": null,
+   "name": "CORCENTRIC, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-07-29",
+   "exchange": null,
+   "name": "AINA LE'A INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-07-29",
+   "exchange": "Nasdaq National Market",
+   "name": "TALEND S.A.",
+   "numberOfShares": 5250000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "TLND",
+   "totalSharesValue": 94500000
+  },
+  {
+   "date": "2016-07-29",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "LONG BLOCKCHAIN CORP.",
+   "numberOfShares": 1818182,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "LTEA",
+   "totalSharesValue": 10000001
+  },
+  {
+   "date": "2016-07-28",
+   "exchange": "Nasdaq National Market",
+   "name": "TACTILE SYSTEMS TECHNOLOGY INC",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TCMD",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2016-07-27",
+   "exchange": "New York Stock Exchange",
+   "name": "KADMON HOLDINGS, INC.",
+   "numberOfShares": 6250000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "KDMN",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2016-07-22",
+   "exchange": "Nasdaq National Market",
+   "name": "TPI COMPOSITES, INC",
+   "numberOfShares": 6250000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "TPIC",
+   "totalSharesValue": 68750000
+  },
+  {
+   "date": "2016-07-21",
+   "exchange": null,
+   "name": "ADVANCED INHALATION THERAPIES (AIT) LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-07-21",
+   "exchange": "Nasdaq National Market",
+   "name": "IMPINJ INC",
+   "numberOfShares": 4800000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "PI",
+   "totalSharesValue": 67200000
+  },
+  {
+   "date": "2016-07-21",
+   "exchange": "New York Stock Exchange",
+   "name": "PATHEON N.V.",
+   "numberOfShares": 29761905,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "PTHN",
+   "totalSharesValue": 625000005
+  },
+  {
+   "date": "2016-07-20",
+   "exchange": "Nasdaq National Market",
+   "name": "AUDENTES THERAPEUTICS, INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "BOLD",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2016-07-18",
+   "exchange": null,
+   "name": "BMC CAPITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-07-15",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "CONYERS PARK ACQUISITION CORP.",
+   "numberOfShares": 37500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CPAAU",
+   "totalSharesValue": 375000000
+  },
+  {
+   "date": "2016-07-15",
+   "exchange": "New York Stock Exchange",
+   "name": "ADVANCEPIERRE FOODS HOLDINGS, INC.",
+   "numberOfShares": 18600000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "APFH",
+   "totalSharesValue": 390600000
+  },
+  {
+   "date": "2016-07-15",
+   "exchange": null,
+   "name": "ETHERINDEX ETHER TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ETHX",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2016-07-14",
+   "exchange": null,
+   "name": "ROYAL RESOURCES PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-07-14",
+   "exchange": null,
+   "name": "TWIST BEAUTY S.A R.L. & PARTNERS S.C.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-07-14",
+   "exchange": "New York Stock Exchange",
+   "name": "LINE CORP",
+   "numberOfShares": 35000000,
+   "price": "32.84",
+   "status": "priced",
+   "symbol": "LN",
+   "totalSharesValue": 1149400000
+  },
+  {
+   "date": "2016-07-14",
+   "exchange": null,
+   "name": "HIGH DESERT HOLDING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2016-07-14",
+   "exchange": null,
+   "name": "NPQ HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2016-07-13",
+   "exchange": null,
+   "name": "AEGIS IDENTITY SOFTWARE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AIDM",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2016-07-12",
+   "exchange": null,
+   "name": "SOLIDX BITCOIN TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "XBTC",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2016-07-08",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "INNOVATE BIOPHARMACEUTICALS, INC.",
+   "numberOfShares": 2025000,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "MSDI",
+   "totalSharesValue": 9112500
+  },
+  {
+   "date": "2016-07-08",
+   "exchange": null,
+   "name": "TECH CENTRAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1368125
+  },
+  {
+   "date": "2016-07-07",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "INFRASTRUCTURE & ENERGY ALTERNATIVES, INC.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MIIIU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2016-07-07",
+   "exchange": null,
+   "name": "CELLECT BIOTECHNOLOGY LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "APOP",
+   "totalSharesValue": 8400002
+  },
+  {
+   "date": "2016-07-06",
+   "exchange": null,
+   "name": "PRECIOUS METALS EXPLORATION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-07-06",
+   "exchange": null,
+   "name": "ROYAL COUNTRY CLUB & RECREATION HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-07-05",
+   "exchange": null,
+   "name": "FOTV MEDIA NETWORKS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FOTV",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2016-07-01",
+   "exchange": null,
+   "name": "PERFORMANCE HEALTH HOLDINGS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-07-01",
+   "exchange": null,
+   "name": "ADOMANI, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-07-01",
+   "exchange": null,
+   "name": "KINSALE CAPITAL GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KNSL",
+   "totalSharesValue": 105600000
+  }
+ ]
+}

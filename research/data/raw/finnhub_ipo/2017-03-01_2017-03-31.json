@@ -1,0 +1,317 @@
+{
+ "from": "2017-03-01",
+ "to": "2017-03-31",
+ "fetched_at": "2026-09-09T01:25:27.552003+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-03-31",
+   "exchange": null,
+   "name": "LITORIUM GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2017-03-27",
+   "exchange": null,
+   "name": "SHOW KING HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-03-27",
+   "exchange": null,
+   "name": "ECOLOMONDO CORP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-03-27",
+   "exchange": null,
+   "name": "FREIGHT SOLUTION INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 70000
+  },
+  {
+   "date": "2017-03-24",
+   "exchange": "NYSE",
+   "name": "ALTERYX, INC.",
+   "numberOfShares": 9000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "AYX",
+   "totalSharesValue": 126000000
+  },
+  {
+   "date": "2017-03-24",
+   "exchange": null,
+   "name": "FOLKUP DEVELOPMENT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2017-03-23",
+   "exchange": "NASDAQ Capital",
+   "name": "VALERITAS HOLDINGS INC.",
+   "numberOfShares": 5250000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VLRX",
+   "totalSharesValue": 52500000
+  },
+  {
+   "date": "2017-03-23",
+   "exchange": null,
+   "name": "ARION GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2017-03-22",
+   "exchange": "NASDAQ Capital",
+   "name": "THERAPIX BIOSCIENCES LTD.",
+   "numberOfShares": 2000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "TRPX",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2017-03-22",
+   "exchange": null,
+   "name": "CHEE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2017-03-21",
+   "exchange": null,
+   "name": "LUMENA PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-03-17",
+   "exchange": null,
+   "name": "PLAYA HOTELS & RESORTS B.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-03-17",
+   "exchange": "NYSE",
+   "name": "PROPETRO HOLDING CORP.",
+   "numberOfShares": 25000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "PUMP",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2017-03-17",
+   "exchange": "NYSE",
+   "name": "MULESOFT, INC",
+   "numberOfShares": 13000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "MULE",
+   "totalSharesValue": 221000000
+  },
+  {
+   "date": "2017-03-17",
+   "exchange": null,
+   "name": "TEAM 360 SPORTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 318403
+  },
+  {
+   "date": "2017-03-16",
+   "exchange": null,
+   "name": "APPDYNAMICS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-03-16",
+   "exchange": null,
+   "name": "RANDOLPH ACQUISITIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 367200
+  },
+  {
+   "date": "2017-03-15",
+   "exchange": "NYSE",
+   "name": "ARDAGH GROUP S.A.",
+   "numberOfShares": 16200000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "ARD",
+   "totalSharesValue": 307800000
+  },
+  {
+   "date": "2017-03-13",
+   "exchange": null,
+   "name": "COLONY GLOBAL ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-03-13",
+   "exchange": null,
+   "name": "QRONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 281000
+  },
+  {
+   "date": "2017-03-13",
+   "exchange": null,
+   "name": "PUEBLA RESOURCES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8250
+  },
+  {
+   "date": "2017-03-10",
+   "exchange": "NASDAQ Capital",
+   "name": "U.S. WELL SERVICES, INC.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MPACU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2017-03-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "PRESIDIO, INC.",
+   "numberOfShares": 16666666,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "PSDO",
+   "totalSharesValue": 233333324
+  },
+  {
+   "date": "2017-03-09",
+   "exchange": "NYSE",
+   "name": "J.JILL, INC.",
+   "numberOfShares": 11666667,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "JILL",
+   "totalSharesValue": 151666671
+  },
+  {
+   "date": "2017-03-09",
+   "exchange": "NASDAQ Capital",
+   "name": "BEYONDSPRING INC.",
+   "numberOfShares": 174286,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "BYSI",
+   "totalSharesValue": 3485720
+  },
+  {
+   "date": "2017-03-08",
+   "exchange": null,
+   "name": "QUINTANA SHIPPING LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-03-07",
+   "exchange": null,
+   "name": "ALTUS MIDSTREAM CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KAACU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2017-03-06",
+   "exchange": null,
+   "name": "SHEMN CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60900
+  },
+  {
+   "date": "2017-03-02",
+   "exchange": "NYSE",
+   "name": "SNAP INC",
+   "numberOfShares": 200000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "SNAP",
+   "totalSharesValue": 3400000000
+  },
+  {
+   "date": "2017-03-02",
+   "exchange": null,
+   "name": "ALTA MESA RESOURCES, INC. /DE",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SRUNU",
+   "totalSharesValue": 900000000
+  },
+  {
+   "date": "2017-03-01",
+   "exchange": "NASDAQ Global Select",
+   "name": "HAMILTON LANE INC",
+   "numberOfShares": 11875000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "HLNE",
+   "totalSharesValue": 190000000
+  }
+ ]
+}

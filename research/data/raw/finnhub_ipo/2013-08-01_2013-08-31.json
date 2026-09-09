@@ -1,0 +1,557 @@
+{
+ "from": "2013-08-01",
+ "to": "2013-08-31",
+ "fetched_at": "2026-09-09T01:24:01.544008+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2013-08-30",
+   "exchange": null,
+   "name": "ARCO-IRIS GOLD CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2013-08-30",
+   "exchange": null,
+   "name": "GEO JS TECH GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5793000
+  },
+  {
+   "date": "2013-08-29",
+   "exchange": null,
+   "name": "WNS STUDIOS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2013-08-28",
+   "exchange": null,
+   "name": "DIAMOND LANE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2013-08-27",
+   "exchange": null,
+   "name": "DMC BEVERAGE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4000000
+  },
+  {
+   "date": "2013-08-27",
+   "exchange": null,
+   "name": "KEY LINK ASSETS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 59000
+  },
+  {
+   "date": "2013-08-27",
+   "exchange": null,
+   "name": "REAL HIP-HOP NETWORK, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40880250
+  },
+  {
+   "date": "2013-08-23",
+   "exchange": null,
+   "name": "ILOADAPP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2013-08-23",
+   "exchange": null,
+   "name": "HISPANICA INTERNATIONAL DELIGHTS OF AMERICA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2013-08-22",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "TOBIRA THERAPEUTICS, INC.",
+   "numberOfShares": 10750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "RGDO",
+   "totalSharesValue": 43000000
+  },
+  {
+   "date": "2013-08-22",
+   "exchange": null,
+   "name": "BORDERLESS HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 600000
+  },
+  {
+   "date": "2013-08-22",
+   "exchange": null,
+   "name": "UNLIMITED SKY HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 17792453
+  },
+  {
+   "date": "2013-08-21",
+   "exchange": null,
+   "name": "LIST SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 600000
+  },
+  {
+   "date": "2013-08-21",
+   "exchange": null,
+   "name": "TRANSFER ENTERPRISES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 600000
+  },
+  {
+   "date": "2013-08-20",
+   "exchange": null,
+   "name": "EDGARIZING SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 600000
+  },
+  {
+   "date": "2013-08-20",
+   "exchange": null,
+   "name": "MILESTONE INTERNATIONAL, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2013-08-20",
+   "exchange": null,
+   "name": "TOMICHI CREEK OUTFITTERS",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2013-08-16",
+   "exchange": null,
+   "name": "SPRINGLEAF REIT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-08-16",
+   "exchange": "Nasdaq National Market",
+   "name": "SOPHIRIS BIO INC.",
+   "numberOfShares": 13000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SPHS",
+   "totalSharesValue": 65000000
+  },
+  {
+   "date": "2013-08-16",
+   "exchange": null,
+   "name": "MINERIA Y EXPLORACIONES OLYMPIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2013-08-16",
+   "exchange": null,
+   "name": "VESTA INTERNATIONAL, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-08-16",
+   "exchange": null,
+   "name": "UPPERSOLUTION.COM",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2013-08-16",
+   "exchange": null,
+   "name": "EXEO ENTERTAINMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25750
+  },
+  {
+   "date": "2013-08-15",
+   "exchange": "New York Stock Exchange",
+   "name": "THIRD POINT REINSURANCE LTD.",
+   "numberOfShares": 22053286,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "TPRE",
+   "totalSharesValue": 275666075
+  },
+  {
+   "date": "2013-08-15",
+   "exchange": null,
+   "name": "NANOANTIBIOTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2013-08-14",
+   "exchange": null,
+   "name": "SONORA RESOURCES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-08-14",
+   "exchange": "New York Stock Exchange",
+   "name": "ENVISION HEALTHCARE HOLDINGS, INC.",
+   "numberOfShares": 42000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "EVHC",
+   "totalSharesValue": 966000000
+  },
+  {
+   "date": "2013-08-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "TD HOLDINGS, INC.",
+   "numberOfShares": 1370000,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "CCCR",
+   "totalSharesValue": 8905000
+  },
+  {
+   "date": "2013-08-13",
+   "exchange": "American Stock Exchange",
+   "name": "INDEPENDENCE REALTY TRUST, INC.",
+   "numberOfShares": 4000000,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "IRT",
+   "totalSharesValue": 34000000
+  },
+  {
+   "date": "2013-08-13",
+   "exchange": "New York Stock Exchange",
+   "name": "ISHARES COMMODITY OPTIMIZED TRUST",
+   "numberOfShares": 20000000,
+   "price": "51.15",
+   "status": "priced",
+   "symbol": "CMDT",
+   "totalSharesValue": 1023000000
+  },
+  {
+   "date": "2013-08-12",
+   "exchange": null,
+   "name": "VOTORANTIM CIMENTOS S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-08-12",
+   "exchange": null,
+   "name": "ACEWAY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2013-08-12",
+   "exchange": null,
+   "name": "X-TREME INVESTMENTS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-08-09",
+   "exchange": "New York Stock Exchange",
+   "name": "MIX TELEMATICS LTD",
+   "numberOfShares": 6296098,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "MIXT",
+   "totalSharesValue": 100737568
+  },
+  {
+   "date": "2013-08-09",
+   "exchange": "New York Stock Exchange",
+   "name": "CVENT INC",
+   "numberOfShares": 5600000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "CVT",
+   "totalSharesValue": 117600000
+  },
+  {
+   "date": "2013-08-09",
+   "exchange": "Nasdaq National Market",
+   "name": "BMC STOCK HOLDINGS, INC.",
+   "numberOfShares": 7000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "STCK",
+   "totalSharesValue": 98000000
+  },
+  {
+   "date": "2013-08-09",
+   "exchange": "New York Stock Exchange",
+   "name": "WORLD POINT TERMINALS, LP",
+   "numberOfShares": 8750000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "WPT",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2013-08-09",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "JASON INDUSTRIES, INC.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "QPACU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2013-08-09",
+   "exchange": "New York Stock Exchange",
+   "name": "ANDEAVOR MIDSTREAM PARTNERS LP",
+   "numberOfShares": 20000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "QEPM",
+   "totalSharesValue": 420000000
+  },
+  {
+   "date": "2013-08-09",
+   "exchange": "New York Stock Exchange",
+   "name": "FRANK'S INTERNATIONAL N.V.",
+   "numberOfShares": 30000000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "FI",
+   "totalSharesValue": 660000000
+  },
+  {
+   "date": "2013-08-08",
+   "exchange": "Nasdaq National Market",
+   "name": "FOX FACTORY HOLDING CORP",
+   "numberOfShares": 8571429,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "FOXF",
+   "totalSharesValue": 128571435
+  },
+  {
+   "date": "2013-08-08",
+   "exchange": "New York Stock Exchange",
+   "name": "PRECIGEN, INC.",
+   "numberOfShares": 9999999,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "XON",
+   "totalSharesValue": 159999984
+  },
+  {
+   "date": "2013-08-07",
+   "exchange": null,
+   "name": "EXPONENTIAL INTERACTIVE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-08-07",
+   "exchange": "New York Stock Exchange",
+   "name": "YUME INC",
+   "numberOfShares": 5125000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "YUME",
+   "totalSharesValue": 46125000
+  },
+  {
+   "date": "2013-08-07",
+   "exchange": null,
+   "name": "PULSE EVOLUTION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000.04
+  },
+  {
+   "date": "2013-08-07",
+   "exchange": null,
+   "name": "NATIONAL GENERAL HOLDINGS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NGHC",
+   "totalSharesValue": 278992950
+  },
+  {
+   "date": "2013-08-06",
+   "exchange": null,
+   "name": "ARGAN BEAUTY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2013-08-06",
+   "exchange": null,
+   "name": "LF GEORGE HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1286000
+  },
+  {
+   "date": "2013-08-02",
+   "exchange": "Nasdaq National Market",
+   "name": "CONTROL4 CORP",
+   "numberOfShares": 4000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CTRL",
+   "totalSharesValue": 64000000
+  },
+  {
+   "date": "2013-08-02",
+   "exchange": "Nasdaq National Market",
+   "name": "MARRONE BIO INNOVATIONS INC",
+   "numberOfShares": 4750000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "MBII",
+   "totalSharesValue": 57000000
+  },
+  {
+   "date": "2013-08-02",
+   "exchange": "New York Stock Exchange",
+   "name": "ATHLON ENERGY INC.",
+   "numberOfShares": 15789474,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "ATHL",
+   "totalSharesValue": 315789480
+  },
+  {
+   "date": "2013-08-01",
+   "exchange": null,
+   "name": "ANDY BUSINESS CONGLOMERATE, USA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-08-01",
+   "exchange": "New York Stock Exchange",
+   "name": "AMERICAN HOMES 4 RENT",
+   "numberOfShares": 44117647,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "AMH",
+   "totalSharesValue": 705882352
+  },
+  {
+   "date": "2013-08-01",
+   "exchange": "New York Stock Exchange",
+   "name": "ARDMORE SHIPPING CORP",
+   "numberOfShares": 10000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ASC",
+   "totalSharesValue": 140000000
+  },
+  {
+   "date": "2013-08-01",
+   "exchange": "Nasdaq National Market",
+   "name": "SPROUTS FARMERS MARKET, INC.",
+   "numberOfShares": 18500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "SFM",
+   "totalSharesValue": 333000000
+  }
+ ]
+}

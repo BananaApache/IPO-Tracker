@@ -1,0 +1,137 @@
+{
+ "from": "2015-12-01",
+ "to": "2015-12-31",
+ "fetched_at": "2026-09-09T01:24:57.528814+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2015-12-21",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "CHINA CUSTOMER RELATIONS CENTERS, INC.",
+   "numberOfShares": 2400000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CCRC",
+   "totalSharesValue": 9600000
+  },
+  {
+   "date": "2015-12-18",
+   "exchange": "New York Stock Exchange",
+   "name": "YIREN DIGITAL LTD.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "YRD",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2015-12-18",
+   "exchange": null,
+   "name": "WHISKEY ACQUISITION INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 220000
+  },
+  {
+   "date": "2015-12-17",
+   "exchange": null,
+   "name": "GELESIS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-12-17",
+   "exchange": null,
+   "name": "ISIGN SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 9200000
+  },
+  {
+   "date": "2015-12-15",
+   "exchange": null,
+   "name": "LIGHTBEAM ELECTRIC CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-12-14",
+   "exchange": null,
+   "name": "INTERNATIONAL MARKET CENTERS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-12-10",
+   "exchange": "Nasdaq National Market",
+   "name": "ATLASSIAN CORP PLC",
+   "numberOfShares": 22000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "TEAM",
+   "totalSharesValue": 462000000
+  },
+  {
+   "date": "2015-12-09",
+   "exchange": null,
+   "name": "BASILEA PHARMACEUTICA LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-12-09",
+   "exchange": null,
+   "name": "ENDOSTIM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-12-04",
+   "exchange": null,
+   "name": "FUNDTHATCOMPANY",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2015-12-03",
+   "exchange": null,
+   "name": "IVDESK HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-12-01",
+   "exchange": null,
+   "name": "WOODSIDE HOMES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

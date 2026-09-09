@@ -1,0 +1,257 @@
+{
+ "from": "2017-09-01",
+ "to": "2017-09-30",
+ "fetched_at": "2026-09-09T01:25:39.555121+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-09-29",
+   "exchange": "NYSE",
+   "name": "PQ GROUP HOLDINGS INC.",
+   "numberOfShares": 29000000,
+   "price": "17.50",
+   "status": "priced",
+   "symbol": "PQG",
+   "totalSharesValue": 507500000
+  },
+  {
+   "date": "2017-09-29",
+   "exchange": null,
+   "name": "IA ENERGY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 257500
+  },
+  {
+   "date": "2017-09-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "NIGHTSTAR THERAPEUTICS PLC",
+   "numberOfShares": 5360000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NITE",
+   "totalSharesValue": 75040000
+  },
+  {
+   "date": "2017-09-27",
+   "exchange": "NYSE",
+   "name": "RYB EDUCATION, INC.",
+   "numberOfShares": 7800000,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "RYB",
+   "totalSharesValue": 144300000
+  },
+  {
+   "date": "2017-09-26",
+   "exchange": null,
+   "name": "MICROPHASE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-09-25",
+   "exchange": null,
+   "name": "ROYALTY FLOW INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "RLTY",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2017-09-22",
+   "exchange": "NASDAQ Global",
+   "name": "SECOO HOLDING LTD",
+   "numberOfShares": 8500000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "SECO",
+   "totalSharesValue": 110500000
+  },
+  {
+   "date": "2017-09-21",
+   "exchange": "NASDAQ Capital",
+   "name": "TDH HOLDINGS, INC.",
+   "numberOfShares": 1325000,
+   "price": "4.25",
+   "status": "priced",
+   "symbol": "PETZ",
+   "totalSharesValue": 5631250
+  },
+  {
+   "date": "2017-09-21",
+   "exchange": "NYSE",
+   "name": "OASIS MIDSTREAM PARTNERS LP",
+   "numberOfShares": 7500000,
+   "price": "17.00\t \t",
+   "status": "priced",
+   "symbol": "OMP",
+   "totalSharesValue": 127500000
+  },
+  {
+   "date": "2017-09-20",
+   "exchange": "NYSE",
+   "name": "DESPEGAR.COM, CORP.",
+   "numberOfShares": 12770000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "DESP",
+   "totalSharesValue": 332020000
+  },
+  {
+   "date": "2017-09-20",
+   "exchange": "NASDAQ Global",
+   "name": "ZAI LAB LTD",
+   "numberOfShares": 8333333,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ZLAB",
+   "totalSharesValue": 149999994
+  },
+  {
+   "date": "2017-09-20",
+   "exchange": "NASDAQ Capital",
+   "name": "KRYSTAL BIOTECH, INC.",
+   "numberOfShares": 3960000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KRYS",
+   "totalSharesValue": 39600000
+  },
+  {
+   "date": "2017-09-20",
+   "exchange": "NASDAQ Capital",
+   "name": "CELCUITY INC.",
+   "numberOfShares": 2400000,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "CELC",
+   "totalSharesValue": 22800000
+  },
+  {
+   "date": "2017-09-20",
+   "exchange": "NYSE",
+   "name": "BEST INC.",
+   "numberOfShares": 45000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BSTI",
+   "totalSharesValue": 450000000
+  },
+  {
+   "date": "2017-09-15",
+   "exchange": "NASDAQ Capital",
+   "name": "DRAPER OAKWOOD TECHNOLOGY ACQUISITION INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DOTAU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2017-09-15",
+   "exchange": null,
+   "name": "APAWTHECARY PETS USA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3000000
+  },
+  {
+   "date": "2017-09-14",
+   "exchange": "NYSE",
+   "name": "VIRGIN GALACTIC HOLDINGS, INC",
+   "numberOfShares": 60000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IPOAU",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2017-09-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "TREMONT MORTGAGE TRUST",
+   "numberOfShares": 2500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "TRMT",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2017-09-14",
+   "exchange": null,
+   "name": "CELEBIDDY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 850000
+  },
+  {
+   "date": "2017-09-11",
+   "exchange": null,
+   "name": "VIRTRA, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2017-09-01",
+   "exchange": "NASDAQ Capital",
+   "name": "ZK INTERNATIONAL GROUP CO., LTD.",
+   "numberOfShares": 1068346,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "ZKIN",
+   "totalSharesValue": 5341730
+  },
+  {
+   "date": "2017-09-01",
+   "exchange": null,
+   "name": "YAPPA WORLD INCOPORATED",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5624094
+  },
+  {
+   "date": "2017-09-01",
+   "exchange": null,
+   "name": "NUCANA PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NCNA",
+   "totalSharesValue": 100005000
+  },
+  {
+   "date": "2017-09-01",
+   "exchange": null,
+   "name": "DECIPHERA PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DCPH",
+   "totalSharesValue": 127500000
+  },
+  {
+   "date": "2017-09-01",
+   "exchange": null,
+   "name": "ROKU, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ROKU",
+   "totalSharesValue": 219352000
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "from": "2009-02-01",
+ "to": "2009-02-28",
+ "fetched_at": "2026-09-09T01:22:13.509499+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2009-02-27",
+   "exchange": null,
+   "name": "STRAGENICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-02-26",
+   "exchange": null,
+   "name": "BAKKEN RESOURCES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-02-12",
+   "exchange": null,
+   "name": "ESCO GLOBAL REALTY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-02-11",
+   "exchange": "New York Stock Exchange",
+   "name": "MEAD JOHNSON NUTRITION CO",
+   "numberOfShares": 30000000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "MJN",
+   "totalSharesValue": 720000000
+  },
+  {
+   "date": "2009-02-05",
+   "exchange": null,
+   "name": "AUTO STAR INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-02-02",
+   "exchange": null,
+   "name": "WAYPOINT ADVISORS, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

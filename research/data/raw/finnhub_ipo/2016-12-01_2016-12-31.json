@@ -1,0 +1,317 @@
+{
+ "from": "2016-12-01",
+ "to": "2016-12-31",
+ "fetched_at": "2026-09-09T01:25:21.550090+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2016-12-30",
+   "exchange": null,
+   "name": "UNITED GUARANTY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-30",
+   "exchange": null,
+   "name": "IASIS HEALTHCARE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-30",
+   "exchange": null,
+   "name": "DOERS EDUCATION ASEAN LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 164000
+  },
+  {
+   "date": "2016-12-27",
+   "exchange": "NASDAQ Capital",
+   "name": "HEBRON TECHNOLOGY CO., LTD",
+   "numberOfShares": 5000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "HEBT",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2016-12-22",
+   "exchange": null,
+   "name": "NEW AGE BEVERAGES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-22",
+   "exchange": null,
+   "name": "NEW AGE BEVERAGES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2016-12-21",
+   "exchange": null,
+   "name": "TRUCK HERO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-21",
+   "exchange": null,
+   "name": "HYGEA HOLDINGS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-21",
+   "exchange": null,
+   "name": "KALMIN CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2016-12-21",
+   "exchange": null,
+   "name": "OS SUPPORT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 160000
+  },
+  {
+   "date": "2016-12-16",
+   "exchange": null,
+   "name": "VERISILICON HOLDINGS CO LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-16",
+   "exchange": "NASDAQ Global Select",
+   "name": "TRIVAGO N.V.",
+   "numberOfShares": 26110118,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "TRVG",
+   "totalSharesValue": 287211298
+  },
+  {
+   "date": "2016-12-15",
+   "exchange": "NASDAQ Global Select",
+   "name": "TIGENIX NV",
+   "numberOfShares": 2300000,
+   "price": "15.50",
+   "status": "priced",
+   "symbol": "TIG",
+   "totalSharesValue": 35650000
+  },
+  {
+   "date": "2016-12-15",
+   "exchange": null,
+   "name": "FRANKLIN HILL ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 250000
+  },
+  {
+   "date": "2016-12-14",
+   "exchange": "NYSE",
+   "name": "BRAZOS VALLEY LONGHORN, L.L.C.",
+   "numberOfShares": 27500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "WRD",
+   "totalSharesValue": 412500000
+  },
+  {
+   "date": "2016-12-13",
+   "exchange": null,
+   "name": "FERD CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2016-12-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "ICHOR HOLDINGS, LTD.",
+   "numberOfShares": 5877778,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "ICHR",
+   "totalSharesValue": 52900002
+  },
+  {
+   "date": "2016-12-09",
+   "exchange": "NYSE",
+   "name": "ATHENE HOLDING LTD",
+   "numberOfShares": 27000000,
+   "price": "40.00",
+   "status": "priced",
+   "symbol": "ATH",
+   "totalSharesValue": 1080000000
+  },
+  {
+   "date": "2016-12-09",
+   "exchange": null,
+   "name": "REMARO GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2016-12-08",
+   "exchange": null,
+   "name": "KALMIN CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-08",
+   "exchange": null,
+   "name": "BLUE SKY GROUP HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-08",
+   "exchange": null,
+   "name": "INNOLIGHT TECHNOLOGY CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-08",
+   "exchange": "NASDAQ Capital",
+   "name": "SENESTECH, INC.",
+   "numberOfShares": 1875000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "SNES",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2016-12-07",
+   "exchange": null,
+   "name": "ACELITY HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-07",
+   "exchange": "NASDAQ Capital",
+   "name": "POLAR POWER, INC.",
+   "numberOfShares": 2400000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "POLA",
+   "totalSharesValue": 16800000
+  },
+  {
+   "date": "2016-12-06",
+   "exchange": null,
+   "name": "CONGATEC HOLDING AG",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-06",
+   "exchange": null,
+   "name": "BENAIAH HOLDINGS GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-02",
+   "exchange": null,
+   "name": "PHARMEDIUM HEALTHCARE HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-01",
+   "exchange": null,
+   "name": "IMPERIAL RESOURCES, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-12-01",
+   "exchange": "NYSE",
+   "name": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
+   "numberOfShares": 3350000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "IIPR",
+   "totalSharesValue": 67000000
+  },
+  {
+   "date": "2016-12-01",
+   "exchange": null,
+   "name": "BIOCRUDE TECHNOLOGIES USA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 61885812
+  }
+ ]
+}

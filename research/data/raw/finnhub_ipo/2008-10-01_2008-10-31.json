@@ -1,0 +1,67 @@
+{
+ "from": "2008-10-01",
+ "to": "2008-10-31",
+ "fetched_at": "2026-09-09T01:22:05.445200+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2008-10-27",
+   "exchange": "OTCBB",
+   "name": "CHOCOLATE CANDY CREATIONS, INC.",
+   "numberOfShares": 62000,
+   "price": "0.75",
+   "status": "priced",
+   "symbol": "CCYS",
+   "totalSharesValue": 46500
+  },
+  {
+   "date": "2008-10-24",
+   "exchange": null,
+   "name": "SOAP SILLY BATH & BODY",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-10-23",
+   "exchange": null,
+   "name": "PLASMET CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-10-16",
+   "exchange": null,
+   "name": "PLANET BEACH FRANCHISING CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-10-03",
+   "exchange": null,
+   "name": "FREEDOM 7, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-10-03",
+   "exchange": "Nasdaq National Market",
+   "name": "HOME BANCORP, INC.",
+   "numberOfShares": 7762500,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HBCP",
+   "totalSharesValue": 77625000
+  }
+ ]
+}

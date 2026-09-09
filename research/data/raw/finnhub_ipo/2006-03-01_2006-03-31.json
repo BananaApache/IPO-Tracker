@@ -1,0 +1,287 @@
+{
+ "from": "2006-03-01",
+ "to": "2006-03-31",
+ "fetched_at": "2026-09-09T01:21:03.427017+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2006-03-31",
+   "exchange": "OTCBB",
+   "name": "PHOENIX INDIA ACQUISITION CORP.",
+   "numberOfShares": 6156250,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "PXIAU",
+   "totalSharesValue": 49250000
+  },
+  {
+   "date": "2006-03-30",
+   "exchange": null,
+   "name": "MINT LEASING INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-03-24",
+   "exchange": null,
+   "name": "CATALYTIC CAPITAL INVESTMENT CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-03-24",
+   "exchange": null,
+   "name": "AEARO TECHNOLOGIES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-03-24",
+   "exchange": "New York Stock Exchange",
+   "name": "MACRO BANK INC.",
+   "numberOfShares": 9718281,
+   "price": "20.35",
+   "status": "priced",
+   "symbol": "BMA",
+   "totalSharesValue": 197767018
+  },
+  {
+   "date": "2006-03-24",
+   "exchange": "New York Stock Exchange",
+   "name": "TIM HORTONS INC.",
+   "numberOfShares": 29000000,
+   "price": "23.162",
+   "status": "priced",
+   "symbol": "THI",
+   "totalSharesValue": 671640000
+  },
+  {
+   "date": "2006-03-24",
+   "exchange": "Nasdaq National Market",
+   "name": "GLOBAL TRAFFIC NETWORK, INC.",
+   "numberOfShares": 3800000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "GNET",
+   "totalSharesValue": 19000000
+  },
+  {
+   "date": "2006-03-24",
+   "exchange": "Nasdaq National Market",
+   "name": "CLAYTON HOLDINGS INC",
+   "numberOfShares": 7500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "CLAY",
+   "totalSharesValue": 127500000
+  },
+  {
+   "date": "2006-03-23",
+   "exchange": null,
+   "name": "COATES MOTORCYCLE CO LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-03-23",
+   "exchange": "American Stock Exchange",
+   "name": "NORTH AMERICAN INSURANCE LEADERS, INC.",
+   "numberOfShares": 12500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "NAO",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2006-03-23",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "EFUTURE HOLDING INC.",
+   "numberOfShares": 1500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "EFUT",
+   "totalSharesValue": 9000000
+  },
+  {
+   "date": "2006-03-22",
+   "exchange": "Nasdaq National Market",
+   "name": "NEXTEST SYSTEMS CORP",
+   "numberOfShares": 5400000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NEXT",
+   "totalSharesValue": 75600000
+  },
+  {
+   "date": "2006-03-17",
+   "exchange": "OTCBB",
+   "name": "PET DRX CORP",
+   "numberOfShares": 6250000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "EHHAU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2006-03-16",
+   "exchange": null,
+   "name": "PREMIER INDEMNITY HOLDING CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-03-15",
+   "exchange": "New York Stock Exchange",
+   "name": "TRANSDIGM GROUP INC",
+   "numberOfShares": 10954570,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "TDG",
+   "totalSharesValue": 230045970
+  },
+  {
+   "date": "2006-03-13",
+   "exchange": null,
+   "name": "CHINA ORGANIC AGRICULTURE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-03-13",
+   "exchange": null,
+   "name": "REDPOINT BIO CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-03-13",
+   "exchange": "American Stock Exchange",
+   "name": "TOWER US HOLDINGS INC.",
+   "numberOfShares": 25000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "AQR-U",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2006-03-13",
+   "exchange": null,
+   "name": "CHINA GRENTECH CORP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GRRF",
+   "totalSharesValue": 112500000
+  },
+  {
+   "date": "2006-03-13",
+   "exchange": null,
+   "name": "HIMAX TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HIMX",
+   "totalSharesValue": 468000000
+  },
+  {
+   "date": "2006-03-10",
+   "exchange": null,
+   "name": "LEXINGTON STRATEGIC ASSET CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-03-10",
+   "exchange": "New York Stock Exchange",
+   "name": "TAM S.A.",
+   "numberOfShares": 23869565,
+   "price": "19.43",
+   "status": "priced",
+   "symbol": "TAM",
+   "totalSharesValue": 463785648
+  },
+  {
+   "date": "2006-03-10",
+   "exchange": "OTCBB",
+   "name": "UAN CULTURAL & CREATIVE CO., LTD.",
+   "numberOfShares": 500000,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "GHBAU",
+   "totalSharesValue": 4250000
+  },
+  {
+   "date": "2006-03-09",
+   "exchange": "Nasdaq National Market",
+   "name": "EAGLE TEST SYSTEMS, INC.",
+   "numberOfShares": 6500000,
+   "price": "15.50",
+   "status": "priced",
+   "symbol": "EGLT",
+   "totalSharesValue": 100750000
+  },
+  {
+   "date": "2006-03-08",
+   "exchange": "Nasdaq National Market",
+   "name": "ALEXZA PHARMACEUTICALS INC.",
+   "numberOfShares": 5500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "ALXA",
+   "totalSharesValue": 44000000
+  },
+  {
+   "date": "2006-03-07",
+   "exchange": null,
+   "name": "ABALONE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-03-03",
+   "exchange": "OTCBB",
+   "name": "ORACLE HEALTHCARE ACQUISITION CORP.",
+   "numberOfShares": 15000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "OHAQU",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2006-03-03",
+   "exchange": "American Stock Exchange",
+   "name": "INDIA GLOBALIZATION CAPITAL, INC.",
+   "numberOfShares": 9830000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "IGC-U",
+   "totalSharesValue": 58980000
+  }
+ ]
+}

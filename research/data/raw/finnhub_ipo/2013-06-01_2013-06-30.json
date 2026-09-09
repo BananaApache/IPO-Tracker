@@ -1,0 +1,417 @@
+{
+ "from": "2013-06-01",
+ "to": "2013-06-30",
+ "fetched_at": "2026-09-09T01:23:57.516837+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2013-06-28",
+   "exchange": "Nasdaq National Market",
+   "name": "NOODLES & CO",
+   "numberOfShares": 5357143,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "NDLS",
+   "totalSharesValue": 96428574
+  },
+  {
+   "date": "2013-06-28",
+   "exchange": "Nasdaq National Market",
+   "name": "PROSENSA HOLDING N.V. IN LIQUIDATIE",
+   "numberOfShares": 6000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "RNA",
+   "totalSharesValue": 78000000
+  },
+  {
+   "date": "2013-06-28",
+   "exchange": null,
+   "name": "HOMEOWNERS OF AMERICA HOLDING CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 7869591
+  },
+  {
+   "date": "2013-06-27",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "MERGEWORTHRX CORP.",
+   "numberOfShares": 6600000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "MWRX",
+   "totalSharesValue": 52800000
+  },
+  {
+   "date": "2013-06-27",
+   "exchange": "New York Stock Exchange",
+   "name": "TELARIA, INC.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TRMR",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2013-06-27",
+   "exchange": "Nasdaq National Market",
+   "name": "HD SUPPLY HOLDINGS, INC.",
+   "numberOfShares": 53191489,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "HDS",
+   "totalSharesValue": 957446802
+  },
+  {
+   "date": "2013-06-27",
+   "exchange": "Nasdaq National Market",
+   "name": "SILVERCREST ASSET MANAGEMENT GROUP INC.",
+   "numberOfShares": 4790684,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "SAMG",
+   "totalSharesValue": 52697524
+  },
+  {
+   "date": "2013-06-27",
+   "exchange": "Nasdaq National Market",
+   "name": "ARATANA THERAPEUTICS, INC.",
+   "numberOfShares": 5750000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "PETX",
+   "totalSharesValue": 34500000
+  },
+  {
+   "date": "2013-06-27",
+   "exchange": "Nasdaq National Market",
+   "name": "CDW CORP",
+   "numberOfShares": 23250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "CDW",
+   "totalSharesValue": 395250000
+  },
+  {
+   "date": "2013-06-27",
+   "exchange": null,
+   "name": "EMERALD ISLE EXPLORATIONS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 35000
+  },
+  {
+   "date": "2013-06-26",
+   "exchange": "Nasdaq National Market",
+   "name": "ESPERION THERAPEUTICS, INC.",
+   "numberOfShares": 5000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ESPR",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2013-06-26",
+   "exchange": "Nasdaq National Market",
+   "name": "NANOSTRING TECHNOLOGIES INC",
+   "numberOfShares": 5400000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NSTG",
+   "totalSharesValue": 54000000
+  },
+  {
+   "date": "2013-06-26",
+   "exchange": "New York Stock Exchange",
+   "name": "LUXOFT HOLDING, INC",
+   "numberOfShares": 4092070,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LXFT",
+   "totalSharesValue": 69565190
+  },
+  {
+   "date": "2013-06-24",
+   "exchange": null,
+   "name": "DINAMO CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2013-06-21",
+   "exchange": "Nasdaq National Market",
+   "name": "GOGO INC.",
+   "numberOfShares": 11000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "GOGO",
+   "totalSharesValue": 187000000
+  },
+  {
+   "date": "2013-06-21",
+   "exchange": null,
+   "name": "PERK INTERNATIONAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2013-06-20",
+   "exchange": "Nasdaq National Market",
+   "name": "PTC THERAPEUTICS, INC.",
+   "numberOfShares": 8372000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "PTCT",
+   "totalSharesValue": 125580000
+  },
+  {
+   "date": "2013-06-20",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "TRUETT-HURST, INC.",
+   "numberOfShares": 2700000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "THST",
+   "totalSharesValue": 16200000
+  },
+  {
+   "date": "2013-06-20",
+   "exchange": null,
+   "name": "SHOPEYE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 36500
+  },
+  {
+   "date": "2013-06-20",
+   "exchange": null,
+   "name": "Q THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "QCEL",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2013-06-19",
+   "exchange": "Nasdaq National Market",
+   "name": "BLUEBIRD BIO, INC.",
+   "numberOfShares": 5941176,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BLUE",
+   "totalSharesValue": 100999992
+  },
+  {
+   "date": "2013-06-18",
+   "exchange": null,
+   "name": "POWER GALA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100300
+  },
+  {
+   "date": "2013-06-18",
+   "exchange": null,
+   "name": "UA GRANITE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-06-17",
+   "exchange": null,
+   "name": "FOCUS VENTURE PARTNERS, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-06-14",
+   "exchange": null,
+   "name": "TRINSEO S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-06-14",
+   "exchange": null,
+   "name": "INTERNATIONAL AUTOMOTIVE COMPONENTS GROUP, S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "IACG",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2013-06-14",
+   "exchange": null,
+   "name": "OWLHEAD MINERALS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 647500
+  },
+  {
+   "date": "2013-06-13",
+   "exchange": "New York Stock Exchange",
+   "name": "COTY INC.",
+   "numberOfShares": 57142857,
+   "price": "17.50",
+   "status": "priced",
+   "symbol": "COTY",
+   "totalSharesValue": 999999998
+  },
+  {
+   "date": "2013-06-13",
+   "exchange": null,
+   "name": "GAMING ENTERTAINMENT INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2013-06-13",
+   "exchange": null,
+   "name": "AMERI METRO, INC. (FORMERLY YELLOWWOOD)",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5959815
+  },
+  {
+   "date": "2013-06-12",
+   "exchange": "New York Stock Exchange",
+   "name": "GIGAMON INC.",
+   "numberOfShares": 6750000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "GIMO",
+   "totalSharesValue": 128250000
+  },
+  {
+   "date": "2013-06-12",
+   "exchange": null,
+   "name": "BOXCEIPTS.COM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 192000
+  },
+  {
+   "date": "2013-06-10",
+   "exchange": null,
+   "name": "MAZZAL HOLDING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 622000
+  },
+  {
+   "date": "2013-06-07",
+   "exchange": null,
+   "name": "CONVERGEX INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-06-07",
+   "exchange": "New York Stock Exchange",
+   "name": "TEXTURA CORP",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "TXTR",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2013-06-07",
+   "exchange": null,
+   "name": "BROOKFIELD RENEWABLE ENERGY PARTNERS L.P.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BEP",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2013-06-06",
+   "exchange": "New York Stock Exchange",
+   "name": "LIGHTINTHEBOX HOLDING CO., LTD.",
+   "numberOfShares": 8300000,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "LITB",
+   "totalSharesValue": 78850000
+  },
+  {
+   "date": "2013-06-05",
+   "exchange": null,
+   "name": "APPLIED MEDICAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-06-05",
+   "exchange": "New York Stock Exchange",
+   "name": "RCS CAPITAL CORP",
+   "numberOfShares": 2500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "RCAP",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2013-06-05",
+   "exchange": null,
+   "name": "SOUNDSTORM DIGITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 700000
+  },
+  {
+   "date": "2013-06-03",
+   "exchange": null,
+   "name": "LANGUAGE ARTS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  }
+ ]
+}

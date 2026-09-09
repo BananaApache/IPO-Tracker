@@ -1,0 +1,437 @@
+{
+ "from": "2012-09-01",
+ "to": "2012-09-30",
+ "fetched_at": "2026-09-09T01:23:39.493625+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2012-09-28",
+   "exchange": null,
+   "name": "SCHOTTENSTEIN REALTY TRUST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-28",
+   "exchange": null,
+   "name": "PARABEL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-28",
+   "exchange": "New York Stock Exchange",
+   "name": "SUMMIT MIDSTREAM PARTNERS, LP",
+   "numberOfShares": 12500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "SMLP",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2012-09-28",
+   "exchange": "Nasdaq National Market",
+   "name": "QUALYS, INC.",
+   "numberOfShares": 7575000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "QLYS",
+   "totalSharesValue": 90900000
+  },
+  {
+   "date": "2012-09-26",
+   "exchange": null,
+   "name": "VISALUS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-26",
+   "exchange": "New York Stock Exchange",
+   "name": "SANTANDER MEXICO FINANCIAL GROUP, S.A.B. DE C.V.",
+   "numberOfShares": 238232161,
+   "price": "12.1849",
+   "status": "priced",
+   "symbol": "BSMX",
+   "totalSharesValue": 2901667721
+  },
+  {
+   "date": "2012-09-26",
+   "exchange": null,
+   "name": "ESSENTIAL INNOVATIONS TECHNOLOGY CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1500000
+  },
+  {
+   "date": "2012-09-24",
+   "exchange": null,
+   "name": "FREEDOM PETROLEUM INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 52500
+  },
+  {
+   "date": "2012-09-21",
+   "exchange": null,
+   "name": "SMITH ELECTRIC VEHICLES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-21",
+   "exchange": null,
+   "name": "MOBILE GAMING INTERNATIONAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2012-09-21",
+   "exchange": null,
+   "name": "SEAS INDUSTRIES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 24000
+  },
+  {
+   "date": "2012-09-20",
+   "exchange": null,
+   "name": "CORTINA SYSTEMS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-20",
+   "exchange": "New York Stock Exchange",
+   "name": "TRULIA, INC.",
+   "numberOfShares": 6000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "TRLA",
+   "totalSharesValue": 102000000
+  },
+  {
+   "date": "2012-09-20",
+   "exchange": "New York Stock Exchange",
+   "name": "SUNOCO LP",
+   "numberOfShares": 9500000,
+   "price": "20.50",
+   "status": "priced",
+   "symbol": "SUSP",
+   "totalSharesValue": 194750000
+  },
+  {
+   "date": "2012-09-20",
+   "exchange": "New York Stock Exchange",
+   "name": "SPIRIT REALTY CAPITAL, INC.",
+   "numberOfShares": 29000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SRC",
+   "totalSharesValue": 435000000
+  },
+  {
+   "date": "2012-09-20",
+   "exchange": "New York Stock Exchange",
+   "name": "NATIONAL BANK HOLDINGS CORP",
+   "numberOfShares": 7150000,
+   "price": "19.25",
+   "status": "priced",
+   "symbol": "NBHC",
+   "totalSharesValue": 137637500
+  },
+  {
+   "date": "2012-09-20",
+   "exchange": "Nasdaq National Market",
+   "name": "CAPITAL BANK FINANCIAL CORP.",
+   "numberOfShares": 10000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "CBF",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2012-09-19",
+   "exchange": null,
+   "name": "DIGITAL BLUE DOG, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2100287.25
+  },
+  {
+   "date": "2012-09-19",
+   "exchange": null,
+   "name": "EASY BUY PLUS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 529878.55
+  },
+  {
+   "date": "2012-09-19",
+   "exchange": null,
+   "name": "BOOK IT LOCAL INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 529880
+  },
+  {
+   "date": "2012-09-18",
+   "exchange": null,
+   "name": "NEWLIFE BIKES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 529878.55
+  },
+  {
+   "date": "2012-09-18",
+   "exchange": null,
+   "name": "RELIANT SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2012-09-17",
+   "exchange": null,
+   "name": "LAKE PLAY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 529878.6
+  },
+  {
+   "date": "2012-09-17",
+   "exchange": null,
+   "name": "BOOMER VENTURES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-09-14",
+   "exchange": null,
+   "name": "BRAINSWAY LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-13",
+   "exchange": null,
+   "name": "INFINITY OIL & GAS CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 210000
+  },
+  {
+   "date": "2012-09-12",
+   "exchange": null,
+   "name": "C3 EVENT MANAGEMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 534001
+  },
+  {
+   "date": "2012-09-12",
+   "exchange": null,
+   "name": "QUORUM CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 42505
+  },
+  {
+   "date": "2012-09-11",
+   "exchange": null,
+   "name": "LIFE STEM GENETICS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-09-11",
+   "exchange": null,
+   "name": "WISHBONE PET PRODUCTS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2012-09-10",
+   "exchange": null,
+   "name": "GILAX, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2012-09-07",
+   "exchange": null,
+   "name": "HACER, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-07",
+   "exchange": null,
+   "name": "VALER, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-07",
+   "exchange": null,
+   "name": "NUGEN HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-07",
+   "exchange": null,
+   "name": "DUANE STREET CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 180000
+  },
+  {
+   "date": "2012-09-07",
+   "exchange": null,
+   "name": "VIEW ON TWO, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 529879
+  },
+  {
+   "date": "2012-09-07",
+   "exchange": null,
+   "name": "TARHEEL BILLBOARD INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 529879.55
+  },
+  {
+   "date": "2012-09-05",
+   "exchange": null,
+   "name": "ARCADE CHINA ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-05",
+   "exchange": null,
+   "name": "AMC ENTERTAINMENT HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-05",
+   "exchange": "OTCBB",
+   "name": "ENDEAVOR IP, INC.",
+   "numberOfShares": 3000000,
+   "price": "1.40",
+   "status": "priced",
+   "symbol": "FNTU",
+   "totalSharesValue": 4200000
+  },
+  {
+   "date": "2012-09-05",
+   "exchange": null,
+   "name": "AMERICAN CRITTER COLLEGE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 244061.7
+  },
+  {
+   "date": "2012-09-04",
+   "exchange": null,
+   "name": "SERVICE TEAM INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-09-04",
+   "exchange": null,
+   "name": "BESPOKE TRICYCLES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  }
+ ]
+}

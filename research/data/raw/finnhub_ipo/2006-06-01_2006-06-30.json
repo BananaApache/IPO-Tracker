@@ -1,0 +1,437 @@
+{
+ "from": "2006-06-01",
+ "to": "2006-06-30",
+ "fetched_at": "2026-09-09T01:21:09.440076+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2006-06-30",
+   "exchange": null,
+   "name": "APPLIED PRECISION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-29",
+   "exchange": "New York Stock Exchange",
+   "name": "AVENTINE RENEWABLE ENERGY HOLDINGS INC",
+   "numberOfShares": 9058450,
+   "price": "43.00",
+   "status": "priced",
+   "symbol": "AVR",
+   "totalSharesValue": 389513350
+  },
+  {
+   "date": "2006-06-28",
+   "exchange": "Nasdaq National Market",
+   "name": "OMNITURE, INC.",
+   "numberOfShares": 10700000,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "OMTR",
+   "totalSharesValue": 69550000
+  },
+  {
+   "date": "2006-06-28",
+   "exchange": "Nasdaq National Market",
+   "name": "CARDIOVASCULAR SYSTEMS INC",
+   "numberOfShares": 4500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RDYN",
+   "totalSharesValue": 45000000
+  },
+  {
+   "date": "2006-06-28",
+   "exchange": "Nasdaq National Market",
+   "name": "PGT INNOVATIONS, INC.",
+   "numberOfShares": 8823529,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "PGTI",
+   "totalSharesValue": 123529406
+  },
+  {
+   "date": "2006-06-28",
+   "exchange": "New York Stock Exchange",
+   "name": "J CREW GROUP INC",
+   "numberOfShares": 18800000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "JCG",
+   "totalSharesValue": 376000000
+  },
+  {
+   "date": "2006-06-27",
+   "exchange": null,
+   "name": "RENOIR PUBLISHING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-27",
+   "exchange": null,
+   "name": "PACIFIC LEASE GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-26",
+   "exchange": null,
+   "name": "TABERNA REALTY FINANCE TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-26",
+   "exchange": null,
+   "name": "TABERNA REALTY FINANCE TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-26",
+   "exchange": "New York Stock Exchange",
+   "name": "INVESCO CURRENCYSHARES CANADIAN DOLLAR TRUST",
+   "numberOfShares": 11500000,
+   "price": "89.02",
+   "status": "priced",
+   "symbol": "FXC",
+   "totalSharesValue": 1023730000
+  },
+  {
+   "date": "2006-06-26",
+   "exchange": "New York Stock Exchange",
+   "name": "INVESCO CURRENCYSHARES SWEDISH KRONA TRUST",
+   "numberOfShares": 7500000,
+   "price": "136.87",
+   "status": "priced",
+   "symbol": "FXS",
+   "totalSharesValue": 1026525000
+  },
+  {
+   "date": "2006-06-26",
+   "exchange": "New York Stock Exchange",
+   "name": "INVESCO CURRENCYSHARES BRITISH POUND STERLING TRUST",
+   "numberOfShares": 8000000,
+   "price": "184.25",
+   "status": "priced",
+   "symbol": "FXB",
+   "totalSharesValue": 1474000000
+  },
+  {
+   "date": "2006-06-26",
+   "exchange": "New York Stock Exchange",
+   "name": "INVESCO CURRENCYSHARES AUSTRALIAN DOLLAR TRUST",
+   "numberOfShares": 13500000,
+   "price": "74.22",
+   "status": "priced",
+   "symbol": "FXA",
+   "totalSharesValue": 1001970000
+  },
+  {
+   "date": "2006-06-26",
+   "exchange": "New York Stock Exchange",
+   "name": "CURRENCYSHARES MEXICAN PESO TRUST",
+   "numberOfShares": 12000000,
+   "price": "87.39",
+   "status": "priced",
+   "symbol": "FXM",
+   "totalSharesValue": 1048680000
+  },
+  {
+   "date": "2006-06-26",
+   "exchange": "New York Stock Exchange",
+   "name": "INVESCO CURRENCYSHARES SWISS FRANC TRUST",
+   "numberOfShares": 12500000,
+   "price": "81.10",
+   "status": "priced",
+   "symbol": "FXF",
+   "totalSharesValue": 1013750000
+  },
+  {
+   "date": "2006-06-23",
+   "exchange": "Nasdaq National Market",
+   "name": "HOME BANCSHARES INC",
+   "numberOfShares": 2500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "HOMB",
+   "totalSharesValue": 45000000
+  },
+  {
+   "date": "2006-06-21",
+   "exchange": null,
+   "name": "RVISION, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-21",
+   "exchange": null,
+   "name": "PROGRESS RAIL SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-21",
+   "exchange": null,
+   "name": "DRESSER INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-21",
+   "exchange": "Nasdaq National Market",
+   "name": "TECHWELL INC",
+   "numberOfShares": 5500000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "TWLL",
+   "totalSharesValue": 49500000
+  },
+  {
+   "date": "2006-06-19",
+   "exchange": "American Stock Exchange",
+   "name": "BEVERLY NATIONAL CORP",
+   "numberOfShares": 700000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "BNV",
+   "totalSharesValue": 15400000
+  },
+  {
+   "date": "2006-06-19",
+   "exchange": "Nasdaq National Market",
+   "name": "EASTERN INSURANCE HOLDINGS, INC.",
+   "numberOfShares": 8305556,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EIHI",
+   "totalSharesValue": 83055560
+  },
+  {
+   "date": "2006-06-15",
+   "exchange": "Nasdaq National Market",
+   "name": "GOLFSMITH INTERNATIONAL HOLDINGS INC",
+   "numberOfShares": 6000000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "GOLF",
+   "totalSharesValue": 69000000
+  },
+  {
+   "date": "2006-06-15",
+   "exchange": "Nasdaq National Market",
+   "name": "VOLCANO CORP",
+   "numberOfShares": 6800000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "VOLC",
+   "totalSharesValue": 54400000
+  },
+  {
+   "date": "2006-06-15",
+   "exchange": "Nasdaq National Market",
+   "name": "HOUSTON WIRE & CABLE CO",
+   "numberOfShares": 8500000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "HWCC",
+   "totalSharesValue": 110500000
+  },
+  {
+   "date": "2006-06-15",
+   "exchange": "Nasdaq National Market",
+   "name": "SYNCHRONOSS TECHNOLOGIES INC",
+   "numberOfShares": 7066054,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "SNCR",
+   "totalSharesValue": 56528432
+  },
+  {
+   "date": "2006-06-14",
+   "exchange": "New York Stock Exchange",
+   "name": "VERASUN ENERGY CORP",
+   "numberOfShares": 18250000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "VSE",
+   "totalSharesValue": 419750000
+  },
+  {
+   "date": "2006-06-13",
+   "exchange": "Nasdaq National Market",
+   "name": "VERIGY LTD.",
+   "numberOfShares": 8500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "VRGY",
+   "totalSharesValue": 127500000
+  },
+  {
+   "date": "2006-06-09",
+   "exchange": null,
+   "name": "BUILDER ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-09",
+   "exchange": null,
+   "name": "BIONUMERIK PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-08",
+   "exchange": null,
+   "name": "PURPLE BEVERAGE COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-07",
+   "exchange": "Nasdaq National Market",
+   "name": "LOOPNET, INC.",
+   "numberOfShares": 6000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "LOOP",
+   "totalSharesValue": 72000000
+  },
+  {
+   "date": "2006-06-06",
+   "exchange": "American Stock Exchange",
+   "name": "COMMUNITY BANKERS TRUST CORP",
+   "numberOfShares": 7500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "BTC.U",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2006-06-06",
+   "exchange": null,
+   "name": "GMARKET INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GMKT",
+   "totalSharesValue": 139073366
+  },
+  {
+   "date": "2006-06-02",
+   "exchange": null,
+   "name": "PANTHER EXPEDITED SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-02",
+   "exchange": "Nasdaq National Market",
+   "name": "ALPHATEC HOLDINGS, INC.",
+   "numberOfShares": 9300000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "ATEC",
+   "totalSharesValue": 83700000
+  },
+  {
+   "date": "2006-06-02",
+   "exchange": "Nasdaq National Market",
+   "name": "LUNA INNOVATIONS INC",
+   "numberOfShares": 3500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "LUNA",
+   "totalSharesValue": 21000000
+  },
+  {
+   "date": "2006-06-02",
+   "exchange": "American Stock Exchange",
+   "name": "HD PARTNERS ACQUISITION CORP",
+   "numberOfShares": 18750000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "HDP.U",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2006-06-02",
+   "exchange": "Nasdaq National Market",
+   "name": "TOWN SPORTS INTERNATIONAL HOLDINGS INC",
+   "numberOfShares": 8950000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "CLUB",
+   "totalSharesValue": 116350000
+  },
+  {
+   "date": "2006-06-01",
+   "exchange": null,
+   "name": "WILON RESOURCES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-01",
+   "exchange": null,
+   "name": "PHONEX HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-06-01",
+   "exchange": "Nasdaq National Market",
+   "name": "CTC MEDIA, INC.",
+   "numberOfShares": 24709389,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "CTCM",
+   "totalSharesValue": 345931446
+  }
+ ]
+}

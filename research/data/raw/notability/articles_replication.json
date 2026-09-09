@@ -1,0 +1,3936 @@
+{
+ "resolved_at": "2026-09-09T01:29:07.352390+00:00",
+ "batches_ok": 33,
+ "batches_failed": 0,
+ "method": "exact-title only, disambiguation excluded, distinctive-token guard",
+ "companies": {
+  "CONVIO, INC.": {
+   "company": "CONVIO, INC.",
+   "symbol": "CNVO",
+   "title": "Convio",
+   "has_article": true,
+   "qid": "Q5166588",
+   "article_created": "2010-04-30T02:25:29Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "METALDYNE PERFORMANCE GROUP INC.": {
+   "company": "METALDYNE PERFORMANCE GROUP INC.",
+   "symbol": "MPG",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MOMO INC.": {
+   "company": "MOMO INC.",
+   "symbol": "MOMO",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TRULIA, INC.": {
+   "company": "TRULIA, INC.",
+   "symbol": "TRLA",
+   "title": "Trulia",
+   "has_article": true,
+   "qid": "Q7847653",
+   "article_created": "2011-03-08T05:39:18Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q658255",
+    "Q891723",
+    "Q61061942"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "STONEGATE MORTGAGE CORP": {
+   "company": "STONEGATE MORTGAGE CORP",
+   "symbol": "SGM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CHINA TOPREACH INC.": {
+   "company": "CHINA TOPREACH INC.",
+   "symbol": "CGSUF",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SMART TECHNOLOGIES INC.": {
+   "company": "SMART TECHNOLOGIES INC.",
+   "symbol": "SMT",
+   "title": "Smart Technologies",
+   "has_article": true,
+   "qid": "Q2466838",
+   "article_created": "2007-08-29T21:39:23Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q6881511",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "HD SUPPLY HOLDINGS, INC.": {
+   "company": "HD SUPPLY HOLDINGS, INC.",
+   "symbol": "HDS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SCIQUEST INC": {
+   "company": "SCIQUEST INC",
+   "symbol": "SQI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "DIAMONDBACK ENERGY, INC.": {
+   "company": "DIAMONDBACK ENERGY, INC.",
+   "symbol": "FANG",
+   "title": "Diamondback Energy",
+   "has_article": true,
+   "qid": "Q65091423",
+   "article_created": "2018-12-11T18:58:58Z",
+   "wikidata_types": [
+    "Q14941854",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "GOLDEN GATE HOMES, INC.": {
+   "company": "GOLDEN GATE HOMES, INC.",
+   "symbol": "JKA-U",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ELLINGTON FINANCIAL INC.": {
+   "company": "ELLINGTON FINANCIAL INC.",
+   "symbol": "EFC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "UNITED STATES GASOLINE FUND, LP": {
+   "company": "UNITED STATES GASOLINE FUND, LP",
+   "symbol": "UGA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ALPINE IMMUNE SCIENCES, INC.": {
+   "company": "ALPINE IMMUNE SCIENCES, INC.",
+   "symbol": "NVLS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SMART MODULAR TECHNOLOGIES (WWH), INC.": {
+   "company": "SMART MODULAR TECHNOLOGIES (WWH), INC.",
+   "symbol": "SMOD",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "HELICOS BIOSCIENCES CORP": {
+   "company": "HELICOS BIOSCIENCES CORP",
+   "symbol": "HLCS",
+   "title": "Helicos Biosciences",
+   "has_article": true,
+   "qid": "Q13522860",
+   "article_created": "2008-05-27T01:29:09Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "VARONIS SYSTEMS INC": {
+   "company": "VARONIS SYSTEMS INC",
+   "symbol": "VRNS",
+   "title": "Varonis Systems",
+   "has_article": true,
+   "qid": "Q19903773",
+   "article_created": "2015-05-06T15:03:29Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "GLOBAL GEOPHYSICAL SERVICES INC": {
+   "company": "GLOBAL GEOPHYSICAL SERVICES INC",
+   "symbol": "GGS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "QUALYS, INC.": {
+   "company": "QUALYS, INC.",
+   "symbol": "QLYS",
+   "title": "Qualys",
+   "has_article": true,
+   "qid": "Q7268802",
+   "article_created": "2007-05-11T22:30:22Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723",
+    "Q6881511"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "RH": {
+   "company": "RH",
+   "symbol": "RH",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "VELTI PLC": {
+   "company": "VELTI PLC",
+   "symbol": "VELT",
+   "title": "Velti",
+   "has_article": true,
+   "qid": "Q7919334",
+   "article_created": "2007-11-23T14:46:58Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "BOISE CASCADE CO": {
+   "company": "BOISE CASCADE CO",
+   "symbol": "BCC",
+   "title": "Boise Cascade",
+   "has_article": true,
+   "qid": "Q2909088",
+   "article_created": "2003-08-10T19:55:20Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "TALECRIS BIOTHERAPEUTICS HOLDINGS CORP.": {
+   "company": "TALECRIS BIOTHERAPEUTICS HOLDINGS CORP.",
+   "symbol": "TLCR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "OPGEN INC": {
+   "company": "OPGEN INC",
+   "symbol": "OPGN",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CSI COMPRESSCO LP": {
+   "company": "CSI COMPRESSCO LP",
+   "symbol": "GSJK",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "RUBICON PROJECT, INC.": {
+   "company": "RUBICON PROJECT, INC.",
+   "symbol": "RUBI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "REX ENERGY CORP": {
+   "company": "REX ENERGY CORP",
+   "symbol": "REXX",
+   "title": "Rex Energy",
+   "has_article": true,
+   "qid": "Q7319192",
+   "article_created": "2008-07-02T20:05:14Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "FIRST MERCURY FINANCIAL CORP": {
+   "company": "FIRST MERCURY FINANCIAL CORP",
+   "symbol": "FMR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CONTINENTAL BUILDING PRODUCTS, INC.": {
+   "company": "CONTINENTAL BUILDING PRODUCTS, INC.",
+   "symbol": "CBPX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "JA SOLAR HOLDINGS CO., LTD.": {
+   "company": "JA SOLAR HOLDINGS CO., LTD.",
+   "symbol": "JASO",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "STAG INDUSTRIAL, INC.": {
+   "company": "STAG INDUSTRIAL, INC.",
+   "symbol": "STIR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "HORTONWORKS, INC.": {
+   "company": "HORTONWORKS, INC.",
+   "symbol": "HDP",
+   "title": "Hortonworks",
+   "has_article": true,
+   "qid": "Q5906990",
+   "article_created": "2012-03-19T22:37:53Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "MATCH GROUP, INC.": {
+   "company": "MATCH GROUP, INC.",
+   "symbol": "MTCH",
+   "title": "Match Group",
+   "has_article": true,
+   "qid": "Q23133268",
+   "article_created": "2015-12-25T19:44:07Z",
+   "wikidata_types": [
+    "Q783794",
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "CONNECTONE BANCORP, INC.": {
+   "company": "CONNECTONE BANCORP, INC.",
+   "symbol": "CNOB",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "NETSUITE INC": {
+   "company": "NETSUITE INC",
+   "symbol": "N",
+   "title": "NetSuite",
+   "has_article": true,
+   "qid": "Q4045248",
+   "article_created": "2005-04-03T03:56:54Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q6881511",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "CHINA SUNERGY CO., LTD.": {
+   "company": "CHINA SUNERGY CO., LTD.",
+   "symbol": "CSUN",
+   "title": "China Sunergy",
+   "has_article": true,
+   "qid": "Q5099924",
+   "article_created": "2008-01-22T10:35:26Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "TOMOTHERAPY INC": {
+   "company": "TOMOTHERAPY INC",
+   "symbol": "TTPY",
+   "title": null,
+   "has_article": false,
+   "qid": "Q174387",
+   "article_created": null,
+   "wikidata_types": [],
+   "org_state": "wrong_subject",
+   "org_verified": false,
+   "rejected_title": "Tomotherapy",
+   "rejection": "article is not a Wikidata organisation"
+  },
+  "TEAVANA HOLDINGS INC": {
+   "company": "TEAVANA HOLDINGS INC",
+   "symbol": "TEA",
+   "title": "Teavana",
+   "has_article": true,
+   "qid": "Q795386",
+   "article_created": "2008-01-23T11:14:24Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "VOC ENERGY TRUST": {
+   "company": "VOC ENERGY TRUST",
+   "symbol": "VOC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "LINE CORP": {
+   "company": "LINE CORP",
+   "symbol": "LN",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "VIRGIN MOBILE USA, INC.": {
+   "company": "VIRGIN MOBILE USA, INC.",
+   "symbol": "VM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "WEIBO CORP": {
+   "company": "WEIBO CORP",
+   "symbol": "WB",
+   "title": null,
+   "has_article": false,
+   "qid": "Q92526",
+   "article_created": null,
+   "wikidata_types": [
+    "Q35127",
+    "Q3220391",
+    "Q6576792",
+    "Q92438"
+   ],
+   "org_state": "wrong_subject",
+   "org_verified": false,
+   "rejected_title": "Weibo",
+   "rejection": "article is not a Wikidata organisation"
+  },
+  "OMNI FINANCIAL SERVICES, INC.": {
+   "company": "OMNI FINANCIAL SERVICES, INC.",
+   "symbol": "OFSI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SOLTA MEDICAL INC": {
+   "company": "SOLTA MEDICAL INC",
+   "symbol": "THRM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "NEFF CORP": {
+   "company": "NEFF CORP",
+   "symbol": "NEFF",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "DB MULTI-SECTOR COMMODITY MASTER TRUST": {
+   "company": "DB MULTI-SECTOR COMMODITY MASTER TRUST",
+   "symbol": "DBA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SERVICEMASTER GLOBAL HOLDINGS INC": {
+   "company": "SERVICEMASTER GLOBAL HOLDINGS INC",
+   "symbol": "SERV",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TRI POINTE GROUP, INC.": {
+   "company": "TRI POINTE GROUP, INC.",
+   "symbol": "TPH",
+   "title": "Tri Pointe Homes",
+   "has_article": true,
+   "qid": "Q105038141",
+   "article_created": "2018-09-20T21:47:00Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "EXPRESS, INC.": {
+   "company": "EXPRESS, INC.",
+   "symbol": "EXPR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MACROGENICS INC": {
+   "company": "MACROGENICS INC",
+   "symbol": "MGNX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "VOXELJET AG": {
+   "company": "VOXELJET AG",
+   "symbol": "VJET",
+   "title": "Voxeljet",
+   "has_article": true,
+   "qid": "Q19799775",
+   "article_created": "2015-06-08T14:31:07Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "PIEDMONT OFFICE REALTY TRUST, INC.": {
+   "company": "PIEDMONT OFFICE REALTY TRUST, INC.",
+   "symbol": "PDM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "OCULAR THERAPEUTIX, INC": {
+   "company": "OCULAR THERAPEUTIX, INC",
+   "symbol": "OCUL",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ANGIE'S LIST, INC.": {
+   "company": "ANGIE'S LIST, INC.",
+   "symbol": "ANGI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "RECRO PHARMA, INC.": {
+   "company": "RECRO PHARMA, INC.",
+   "symbol": "REPH",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TRINSEO S.A.": {
+   "company": "TRINSEO S.A.",
+   "symbol": "TSE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "WARNER CHILCOTT PLC": {
+   "company": "WARNER CHILCOTT PLC",
+   "symbol": "WCRX",
+   "title": "Warner Chilcott",
+   "has_article": true,
+   "qid": "Q7969715",
+   "article_created": "2004-10-12T21:10:16Z",
+   "wikidata_types": [
+    "Q19644607"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "LEMAITRE VASCULAR INC": {
+   "company": "LEMAITRE VASCULAR INC",
+   "symbol": "LMAT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "US BIOENERGY CORP": {
+   "company": "US BIOENERGY CORP",
+   "symbol": "USBE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TAM S.A.": {
+   "company": "TAM S.A.",
+   "symbol": "TAM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "VISIONCHINA MEDIA INC.": {
+   "company": "VISIONCHINA MEDIA INC.",
+   "symbol": "VISN",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ISHARES COMMODITY OPTIMIZED TRUST": {
+   "company": "ISHARES COMMODITY OPTIMIZED TRUST",
+   "symbol": "CMDT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "EFUTURE HOLDING INC.": {
+   "company": "EFUTURE HOLDING INC.",
+   "symbol": "EFUT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "RAPID7, INC.": {
+   "company": "RAPID7, INC.",
+   "symbol": "RPD",
+   "title": "Rapid7, Inc.",
+   "has_article": true,
+   "qid": "Q140754223",
+   "article_created": "2026-07-15T00:52:44Z",
+   "wikidata_types": [
+    "Q783794"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "SEADRILL PARTNERS LLC": {
+   "company": "SEADRILL PARTNERS LLC",
+   "symbol": "SDLP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SURGERY PARTNERS, INC.": {
+   "company": "SURGERY PARTNERS, INC.",
+   "symbol": "SGRY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SINOTECH ENERGY LTD": {
+   "company": "SINOTECH ENERGY LTD",
+   "symbol": "CTE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "INVESCO DB G10 CURRENCY HARVEST FUND": {
+   "company": "INVESCO DB G10 CURRENCY HARVEST FUND",
+   "symbol": "DBV",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "HOWARD HUGHES CORP": {
+   "company": "HOWARD HUGHES CORP",
+   "symbol": "HHC",
+   "title": null,
+   "has_article": false,
+   "qid": "Q189081",
+   "article_created": null,
+   "wikidata_types": [
+    "Q5"
+   ],
+   "org_state": "wrong_subject",
+   "org_verified": false,
+   "rejected_title": "Howard Hughes",
+   "rejection": "article is not a Wikidata organisation"
+  },
+  "FLEXION THERAPEUTICS INC": {
+   "company": "FLEXION THERAPEUTICS INC",
+   "symbol": "FLXN",
+   "title": "Flexion Therapeutics",
+   "has_article": true,
+   "qid": "Q5459008",
+   "article_created": "2012-08-09T16:23:52Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "GLOBAL TRAFFIC NETWORK, INC.": {
+   "company": "GLOBAL TRAFFIC NETWORK, INC.",
+   "symbol": "GNET",
+   "title": "Global Traffic Network",
+   "has_article": true,
+   "qid": "Q5570694",
+   "article_created": "2008-03-10T21:55:08Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "BRIGHT HORIZONS FAMILY SOLUTIONS INC.": {
+   "company": "BRIGHT HORIZONS FAMILY SOLUTIONS INC.",
+   "symbol": "BFAM",
+   "title": "Bright Horizons",
+   "has_article": true,
+   "qid": "Q4967421",
+   "article_created": "2005-04-28T01:16:51Z",
+   "wikidata_types": [
+    "Q6881511",
+    "Q507619",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "EXCEED CO LTD.": {
+   "company": "EXCEED CO LTD.",
+   "symbol": "TTY.U",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "DAYTON SUPERIOR CORP": {
+   "company": "DAYTON SUPERIOR CORP",
+   "symbol": "DSUP",
+   "title": "Dayton Superior",
+   "has_article": true,
+   "qid": "Q17513312",
+   "article_created": "2014-06-03T19:27:24Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "RHI ENTERTAINMENT, INC.": {
+   "company": "RHI ENTERTAINMENT, INC.",
+   "symbol": "RHIE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TOWER US HOLDINGS INC.": {
+   "company": "TOWER US HOLDINGS INC.",
+   "symbol": "AQR-U",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FOGO DE CHAO, INC.": {
+   "company": "FOGO DE CHAO, INC.",
+   "symbol": "FOGO",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CYPRESS ENVIRONMENTAL PARTNERS, L.P.": {
+   "company": "CYPRESS ENVIRONMENTAL PARTNERS, L.P.",
+   "symbol": "CELP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ENVIVA PARTNERS, LP": {
+   "company": "ENVIVA PARTNERS, LP",
+   "symbol": "EVA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "STATE NATIONAL COMPANIES, INC.": {
+   "company": "STATE NATIONAL COMPANIES, INC.",
+   "symbol": "SNC",
+   "title": "State National Companies",
+   "has_article": true,
+   "qid": "Q19903674",
+   "article_created": "2015-03-31T14:28:34Z",
+   "wikidata_types": [
+    "Q783794"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "INVUITY, INC.": {
+   "company": "INVUITY, INC.",
+   "symbol": "IVTY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PROS HOLDINGS, INC.": {
+   "company": "PROS HOLDINGS, INC.",
+   "symbol": "PRO",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "INTERNET BRANDS, INC.": {
+   "company": "INTERNET BRANDS, INC.",
+   "symbol": "INET",
+   "title": "Internet Brands",
+   "has_article": true,
+   "qid": "Q3305345",
+   "article_created": "2005-10-27T22:29:42Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "LINIU TECHNOLOGY GROUP": {
+   "company": "LINIU TECHNOLOGY GROUP",
+   "symbol": "CSACF",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "EVOFEM BIOSCIENCES, INC.": {
+   "company": "EVOFEM BIOSCIENCES, INC.",
+   "symbol": "NEOT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "JONES ENERGY, INC.": {
+   "company": "JONES ENERGY, INC.",
+   "symbol": "JONE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PEBBLEBROOK HOTEL TRUST": {
+   "company": "PEBBLEBROOK HOTEL TRUST",
+   "symbol": "PEB",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GODADDY INC.": {
+   "company": "GODADDY INC.",
+   "symbol": "GDDY",
+   "title": "GoDaddy",
+   "has_article": true,
+   "qid": "Q1416215",
+   "article_created": "2004-09-25T14:22:31Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q1073015",
+    "Q891723",
+    "Q12738586"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "SITEONE LANDSCAPE SUPPLY, INC.": {
+   "company": "SITEONE LANDSCAPE SUPPLY, INC.",
+   "symbol": "SITE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BISON MERGER SUB I, LLC": {
+   "company": "BISON MERGER SUB I, LLC",
+   "symbol": "FMSA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SENESTECH, INC.": {
+   "company": "SENESTECH, INC.",
+   "symbol": "SNES",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GLADSTONE LAND CORP": {
+   "company": "GLADSTONE LAND CORP",
+   "symbol": "LAND",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "OPTIMER PHARMACEUTICALS INC": {
+   "company": "OPTIMER PHARMACEUTICALS INC",
+   "symbol": "OPTR",
+   "title": "Optimer Pharmaceuticals",
+   "has_article": true,
+   "qid": "Q24204464",
+   "article_created": "2016-04-02T02:53:12Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "NETLIST INC": {
+   "company": "NETLIST INC",
+   "symbol": "NLST",
+   "title": null,
+   "has_article": false,
+   "qid": "Q1760303",
+   "article_created": null,
+   "wikidata_types": [],
+   "org_state": "wrong_subject",
+   "org_verified": false,
+   "rejected_title": "Netlist",
+   "rejection": "article is not a Wikidata organisation"
+  },
+  "WHEELER REAL ESTATE INVESTMENT TRUST, INC.": {
+   "company": "WHEELER REAL ESTATE INVESTMENT TRUST, INC.",
+   "symbol": "WHLR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "INTRALINKS HOLDINGS, INC.": {
+   "company": "INTRALINKS HOLDINGS, INC.",
+   "symbol": "IL",
+   "title": "IntraLinks",
+   "has_article": true,
+   "qid": "Q6058311",
+   "article_created": "2008-04-27T06:24:41Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "BONA FILM GROUP LTD": {
+   "company": "BONA FILM GROUP LTD",
+   "symbol": "BONA",
+   "title": "Bona Film Group",
+   "has_article": true,
+   "qid": "Q10909544",
+   "article_created": "2008-03-10T04:29:16Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ACACIA COMMUNICATIONS, INC.": {
+   "company": "ACACIA COMMUNICATIONS, INC.",
+   "symbol": "ACIA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FRANK'S INTERNATIONAL N.V.": {
+   "company": "FRANK'S INTERNATIONAL N.V.",
+   "symbol": "FI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GREAT AJAX CORP.": {
+   "company": "GREAT AJAX CORP.",
+   "symbol": "AJX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "500.COM LTD": {
+   "company": "500.COM LTD",
+   "symbol": "WBAI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SOURCEFIRE INC": {
+   "company": "SOURCEFIRE INC",
+   "symbol": "FIRE",
+   "title": "Sourcefire",
+   "has_article": true,
+   "qid": "Q1813510",
+   "article_created": "2007-10-23T09:34:59Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q6881511"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "NOVUS THERAPEUTICS, INC.": {
+   "company": "NOVUS THERAPEUTICS, INC.",
+   "symbol": "TKAI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "UNITED STATES BRENT OIL FUND, LP": {
+   "company": "UNITED STATES BRENT OIL FUND, LP",
+   "symbol": "BNO",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PLX PHARMA INC.": {
+   "company": "PLX PHARMA INC.",
+   "symbol": "DPRX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ROCKET PHARMACEUTICALS, INC.": {
+   "company": "ROCKET PHARMACEUTICALS, INC.",
+   "symbol": "ITEK",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SWITCH & DATA FACILITIES COMPANY, INC.": {
+   "company": "SWITCH & DATA FACILITIES COMPANY, INC.",
+   "symbol": "SDXC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PENUMBRA INC": {
+   "company": "PENUMBRA INC",
+   "symbol": "PEN",
+   "title": null,
+   "has_article": false,
+   "qid": "Q1068535",
+   "article_created": null,
+   "wikidata_types": [
+    "Q16887380"
+   ],
+   "org_state": "wrong_subject",
+   "org_verified": false,
+   "rejected_title": "Umbra, penumbra and antumbra",
+   "rejection": "article is not a Wikidata organisation"
+  },
+  "PRIMERICA, INC.": {
+   "company": "PRIMERICA, INC.",
+   "symbol": "PRI",
+   "title": "Primerica",
+   "has_article": true,
+   "qid": "Q7243481",
+   "article_created": "2004-04-24T19:10:47Z",
+   "wikidata_types": [
+    "Q837171",
+    "Q6881511",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "GRUBHUB INC.": {
+   "company": "GRUBHUB INC.",
+   "symbol": "GRUB",
+   "title": "Grubhub",
+   "has_article": true,
+   "qid": "Q17019647",
+   "article_created": "2013-09-03T19:56:40Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q6881511",
+    "Q10932402",
+    "Q658255",
+    "Q19967801"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "POLYPORE INTERNATIONAL, INC.": {
+   "company": "POLYPORE INTERNATIONAL, INC.",
+   "symbol": "PPO",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "RSC HOLDINGS INC.": {
+   "company": "RSC HOLDINGS INC.",
+   "symbol": "RRR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ATENTO S.A.": {
+   "company": "ATENTO S.A.",
+   "symbol": "ATTO",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GLOBALSTAR, INC.": {
+   "company": "GLOBALSTAR, INC.",
+   "symbol": "GSAT",
+   "title": "Globalstar",
+   "has_article": true,
+   "qid": "Q1202533",
+   "article_created": "2003-07-02T22:14:52Z",
+   "wikidata_types": [
+    "Q2401749"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ARCADIA BIOSCIENCES, INC.": {
+   "company": "ARCADIA BIOSCIENCES, INC.",
+   "symbol": "RKDA",
+   "title": "Arcadia Biosciences",
+   "has_article": true,
+   "qid": "Q30285756",
+   "article_created": "2018-05-09T16:04:57Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q783794",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "PBF ENERGY INC.": {
+   "company": "PBF ENERGY INC.",
+   "symbol": "PBF",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PHILLIPS 66 PARTNERS LP": {
+   "company": "PHILLIPS 66 PARTNERS LP",
+   "symbol": "PSXP",
+   "title": "Phillips 66",
+   "has_article": true,
+   "qid": "Q1656230",
+   "article_created": "2005-04-04T19:30:41Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q6881511",
+    "Q891723",
+    "Q64027599"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ONEBEACON INSURANCE GROUP, LTD.": {
+   "company": "ONEBEACON INSURANCE GROUP, LTD.",
+   "symbol": "OB",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FIDELITY & GUARANTY LIFE": {
+   "company": "FIDELITY & GUARANTY LIFE",
+   "symbol": "FGL",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "JAGUAR HEALTH, INC.": {
+   "company": "JAGUAR HEALTH, INC.",
+   "symbol": "JAGX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BLUEKNIGHT ENERGY PARTNERS, L.P.": {
+   "company": "BLUEKNIGHT ENERGY PARTNERS, L.P.",
+   "symbol": "SGLP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "LIPOSCIENCE INC": {
+   "company": "LIPOSCIENCE INC",
+   "symbol": "LPDX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PORTOLA PHARMACEUTICALS INC": {
+   "company": "PORTOLA PHARMACEUTICALS INC",
+   "symbol": "PTLA",
+   "title": "Portola Pharmaceuticals",
+   "has_article": true,
+   "qid": "Q30269199",
+   "article_created": "2018-11-02T07:38:46Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "CVENT INC": {
+   "company": "CVENT INC",
+   "symbol": "CVT",
+   "title": "Cvent",
+   "has_article": true,
+   "qid": "Q5197142",
+   "article_created": "2011-09-23T19:51:00Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723",
+    "Q124746781"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "IMS HEALTH HOLDINGS, INC.": {
+   "company": "IMS HEALTH HOLDINGS, INC.",
+   "symbol": "IMS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ALIMERA SCIENCES INC": {
+   "company": "ALIMERA SCIENCES INC",
+   "symbol": "ALIM",
+   "title": "Alimera Sciences",
+   "has_article": true,
+   "qid": "Q4726659",
+   "article_created": "2010-11-22T16:11:27Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "OMNITURE, INC.": {
+   "company": "OMNITURE, INC.",
+   "symbol": "OMTR",
+   "title": "Omniture",
+   "has_article": true,
+   "qid": "Q7090416",
+   "article_created": "2008-06-20T21:44:20Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "INDEPENDENT BANK GROUP, INC.": {
+   "company": "INDEPENDENT BANK GROUP, INC.",
+   "symbol": "IBTX",
+   "title": "Independent Bank (Michigan)",
+   "has_article": true,
+   "qid": "Q6016398",
+   "article_created": "2006-07-26T16:51:33Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "INSTRUCTURE INC": {
+   "company": "INSTRUCTURE INC",
+   "symbol": "INST",
+   "title": "Instructure",
+   "has_article": true,
+   "qid": "Q3019900",
+   "article_created": "2011-02-22T17:07:40Z",
+   "wikidata_types": [
+    "Q57655560"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "THIRD COAST MIDSTREAM, LLC": {
+   "company": "THIRD COAST MIDSTREAM, LLC",
+   "symbol": "AMID",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "LENTUO INTERNATIONAL INC.": {
+   "company": "LENTUO INTERNATIONAL INC.",
+   "symbol": "LAS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MIDLAND STATES BANCORP, INC.": {
+   "company": "MIDLAND STATES BANCORP, INC.",
+   "symbol": "MSBI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MOLECULAR INSIGHT PHARMACEUTICALS, INC.": {
+   "company": "MOLECULAR INSIGHT PHARMACEUTICALS, INC.",
+   "symbol": "MIPI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CINER RESOURCES LP": {
+   "company": "CINER RESOURCES LP",
+   "symbol": "OCIR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "STREAM EXCHANGE TRADED TRUST": {
+   "company": "STREAM EXCHANGE TRADED TRUST",
+   "symbol": "BNPC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TRIPLE-S MANAGEMENT CORP": {
+   "company": "TRIPLE-S MANAGEMENT CORP",
+   "symbol": "GTS",
+   "title": "Triple-S Management Corporation",
+   "has_article": true,
+   "qid": "Q7843323",
+   "article_created": "2006-11-09T22:26:50Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "QUOTIENT TECHNOLOGY INC.": {
+   "company": "QUOTIENT TECHNOLOGY INC.",
+   "symbol": "COUP",
+   "title": "Quotient Technology",
+   "has_article": true,
+   "qid": "Q126519876",
+   "article_created": "2010-12-06T00:53:58Z",
+   "wikidata_types": [
+    "Q783794"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "MILLENDO THERAPEUTICS, INC.": {
+   "company": "MILLENDO THERAPEUTICS, INC.",
+   "symbol": "OVSC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "VIVINT SOLAR, INC.": {
+   "company": "VIVINT SOLAR, INC.",
+   "symbol": "VSLR",
+   "title": "Vivint Solar",
+   "has_article": true,
+   "qid": "Q7937913",
+   "article_created": "2013-02-28T20:43:14Z",
+   "wikidata_types": [
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "PGT INNOVATIONS, INC.": {
+   "company": "PGT INNOVATIONS, INC.",
+   "symbol": "PGTI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ACTIVE NETWORK INC": {
+   "company": "ACTIVE NETWORK INC",
+   "symbol": "ACTV",
+   "title": "Active Network, LLC",
+   "has_article": true,
+   "qid": "Q18204835",
+   "article_created": "2014-09-15T18:56:52Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "C&J OLD CO,INC.": {
+   "company": "C&J OLD CO,INC.",
+   "symbol": "CJES",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "VOLCANO CORP": {
+   "company": "VOLCANO CORP",
+   "symbol": "VOLC",
+   "title": null,
+   "has_article": false,
+   "qid": "Q8072",
+   "article_created": null,
+   "wikidata_types": [],
+   "org_state": "wrong_subject",
+   "org_verified": false,
+   "rejected_title": "Volcano",
+   "rejection": "article is not a Wikidata organisation"
+  },
+  "ZST DIGITAL NETWORKS, INC.": {
+   "company": "ZST DIGITAL NETWORKS, INC.",
+   "symbol": "ZSTN",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TABLEAU SOFTWARE INC": {
+   "company": "TABLEAU SOFTWARE INC",
+   "symbol": "DATA",
+   "title": "Tableau Software",
+   "has_article": true,
+   "qid": "Q7673435",
+   "article_created": "2008-10-01T00:27:49Z",
+   "wikidata_types": [
+    "Q1058914",
+    "Q28050159",
+    "Q891723",
+    "Q5001888"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "T-MOBILE US, INC.": {
+   "company": "T-MOBILE US, INC.",
+   "symbol": "PCS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ENTELLUS MEDICAL INC": {
+   "company": "ENTELLUS MEDICAL INC",
+   "symbol": "ENTL",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "RELYPSA INC": {
+   "company": "RELYPSA INC",
+   "symbol": "RLYP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FOX FACTORY HOLDING CORP": {
+   "company": "FOX FACTORY HOLDING CORP",
+   "symbol": "FOXF",
+   "title": "Fox Factory",
+   "has_article": true,
+   "qid": "Q282997",
+   "article_created": "2008-11-13T05:40:54Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723",
+    "Q6881511"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "MISTRAS GROUP, INC.": {
+   "company": "MISTRAS GROUP, INC.",
+   "symbol": "MG",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "VTTI ENERGY PARTNERS LP": {
+   "company": "VTTI ENERGY PARTNERS LP",
+   "symbol": "VTTI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GLOBE SPECIALTY METALS INC": {
+   "company": "GLOBE SPECIALTY METALS INC",
+   "symbol": "GSM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ON DECK CAPITAL, INC.": {
+   "company": "ON DECK CAPITAL, INC.",
+   "symbol": "ONDK",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GT ADVANCED TECHNOLOGIES INC.": {
+   "company": "GT ADVANCED TECHNOLOGIES INC.",
+   "symbol": "SOLR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CEMENTOS PACASMAYO SAA": {
+   "company": "CEMENTOS PACASMAYO SAA",
+   "symbol": "CPAC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CHARM COMMUNICATIONS INC.": {
+   "company": "CHARM COMMUNICATIONS INC.",
+   "symbol": "CHRM",
+   "title": "Charm Communications",
+   "has_article": true,
+   "qid": "Q16829282",
+   "article_created": "2014-03-19T01:42:38Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "SOLENO THERAPEUTICS INC": {
+   "company": "SOLENO THERAPEUTICS INC",
+   "symbol": "CAPN",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "DOLE FOOD CO INC": {
+   "company": "DOLE FOOD CO INC",
+   "symbol": "DOLE",
+   "title": "Dole plc",
+   "has_article": true,
+   "qid": "Q492747",
+   "article_created": "2004-07-07T01:34:46Z",
+   "wikidata_types": [
+    "Q1252971",
+    "Q891723",
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "U.S. SILICA HOLDINGS, INC.": {
+   "company": "U.S. SILICA HOLDINGS, INC.",
+   "symbol": "SLCA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "A10 NETWORKS, INC.": {
+   "company": "A10 NETWORKS, INC.",
+   "symbol": "ATEN",
+   "title": "A10 Networks",
+   "has_article": true,
+   "qid": "Q16157155",
+   "article_created": "2009-02-22T06:53:35Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "GREAT BASIN SCIENTIFIC, INC.": {
+   "company": "GREAT BASIN SCIENTIFIC, INC.",
+   "symbol": "GBSN",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SKY-MOBI LTD": {
+   "company": "SKY-MOBI LTD",
+   "symbol": "MOBI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CLAYTON HOLDINGS INC": {
+   "company": "CLAYTON HOLDINGS INC",
+   "symbol": "CLAY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MOLECULIN BIOTECH, INC.": {
+   "company": "MOLECULIN BIOTECH, INC.",
+   "symbol": "MBRX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "KIPS BAY MEDICAL, INC.": {
+   "company": "KIPS BAY MEDICAL, INC.",
+   "symbol": "KIPS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GOLFSMITH INTERNATIONAL HOLDINGS INC": {
+   "company": "GOLFSMITH INTERNATIONAL HOLDINGS INC",
+   "symbol": "GOLF",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "RALLY SOFTWARE DEVELOPMENT CORP": {
+   "company": "RALLY SOFTWARE DEVELOPMENT CORP",
+   "symbol": "RALY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "YINGLI GREEN ENERGY HOLDING CO LTD": {
+   "company": "YINGLI GREEN ENERGY HOLDING CO LTD",
+   "symbol": "YGE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BWAY HOLDING CO": {
+   "company": "BWAY HOLDING CO",
+   "symbol": "BWY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BIOFORM MEDICAL INC": {
+   "company": "BIOFORM MEDICAL INC",
+   "symbol": "BFRM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BONANZA CREEK ENERGY, INC.": {
+   "company": "BONANZA CREEK ENERGY, INC.",
+   "symbol": "BCEI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GALMED PHARMACEUTICALS LTD.": {
+   "company": "GALMED PHARMACEUTICALS LTD.",
+   "symbol": "GLMD",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "HOME LOAN SERVICING SOLUTIONS, LTD.": {
+   "company": "HOME LOAN SERVICING SOLUTIONS, LTD.",
+   "symbol": "HLSS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TRADE DESK, INC.": {
+   "company": "TRADE DESK, INC.",
+   "symbol": "TTD",
+   "title": "The Trade Desk",
+   "has_article": true,
+   "qid": "Q60744565",
+   "article_created": "2018-09-19T23:30:40Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "CHANNELADVISOR CORP": {
+   "company": "CHANNELADVISOR CORP",
+   "symbol": "ECOM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GASLOG PARTNERS LP": {
+   "company": "GASLOG PARTNERS LP",
+   "symbol": "GLOP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ARCSIGHT INC": {
+   "company": "ARCSIGHT INC",
+   "symbol": "ARST",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SPARK NETWORKS INC": {
+   "company": "SPARK NETWORKS INC",
+   "symbol": "LOV",
+   "title": "Spark Networks",
+   "has_article": true,
+   "qid": "Q7573631",
+   "article_created": "2009-02-11T14:32:50Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "OPOWER, INC.": {
+   "company": "OPOWER, INC.",
+   "symbol": "OPWR",
+   "title": "Opower",
+   "has_article": true,
+   "qid": "Q7098529",
+   "article_created": "2010-07-28T14:52:40Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "BANK OF N.T. BUTTERFIELD & SON LTD": {
+   "company": "BANK OF N.T. BUTTERFIELD & SON LTD",
+   "symbol": "NTB",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FATE THERAPEUTICS INC": {
+   "company": "FATE THERAPEUTICS INC",
+   "symbol": "FATE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "INTER-ATLANTIC FINANCIAL, INC.": {
+   "company": "INTER-ATLANTIC FINANCIAL, INC.",
+   "symbol": "IAN",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CALIX, INC": {
+   "company": "CALIX, INC",
+   "symbol": "CALX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "NOVAN, INC.": {
+   "company": "NOVAN, INC.",
+   "symbol": "NOVN",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TD HOLDINGS, INC.": {
+   "company": "TD HOLDINGS, INC.",
+   "symbol": "CCCR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "RETAIL PROPERTIES OF AMERICA, INC.": {
+   "company": "RETAIL PROPERTIES OF AMERICA, INC.",
+   "symbol": "RPAI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ALLEGIANT TRAVEL CO": {
+   "company": "ALLEGIANT TRAVEL CO",
+   "symbol": "ALGT",
+   "title": "Allegiant Travel Company",
+   "has_article": true,
+   "qid": "Q96371801",
+   "article_created": "2009-12-21T04:06:59Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "FUSION-IO, INC.": {
+   "company": "FUSION-IO, INC.",
+   "symbol": "FIO",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "AMERICAN RENAL ASSOCIATES HOLDINGS, INC.": {
+   "company": "AMERICAN RENAL ASSOCIATES HOLDINGS, INC.",
+   "symbol": "ARA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "IQVIA HOLDINGS INC.": {
+   "company": "IQVIA HOLDINGS INC.",
+   "symbol": "Q",
+   "title": "IQVIA",
+   "has_article": true,
+   "qid": "Q305473",
+   "article_created": "2006-08-08T02:54:33Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q760102",
+    "Q6881511",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "CURRENCYSHARES MEXICAN PESO TRUST": {
+   "company": "CURRENCYSHARES MEXICAN PESO TRUST",
+   "symbol": "FXM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MONTAGE RESOURCES CORP": {
+   "company": "MONTAGE RESOURCES CORP",
+   "symbol": "ECR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "LIVE OAK BANCSHARES, INC.": {
+   "company": "LIVE OAK BANCSHARES, INC.",
+   "symbol": "LOB",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "HARVEST OIL & GAS CORP.": {
+   "company": "HARVEST OIL & GAS CORP.",
+   "symbol": "EVEP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ZION OIL & GAS INC": {
+   "company": "ZION OIL & GAS INC",
+   "symbol": "ZN",
+   "title": "Zion Oil & Gas",
+   "has_article": true,
+   "qid": "Q125821481",
+   "article_created": "2024-04-23T00:37:31Z",
+   "wikidata_types": [
+    "Q783794"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "TEUCRIUM COMMODITY TRUST": {
+   "company": "TEUCRIUM COMMODITY TRUST",
+   "symbol": "NAGS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BALTIC TRADING LTD": {
+   "company": "BALTIC TRADING LTD",
+   "symbol": "BALT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SILVER BAY REALTY TRUST CORP.": {
+   "company": "SILVER BAY REALTY TRUST CORP.",
+   "symbol": "SBY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PRESS GANEY HOLDINGS, INC.": {
+   "company": "PRESS GANEY HOLDINGS, INC.",
+   "symbol": "PGND",
+   "title": "Press Ganey",
+   "has_article": true,
+   "qid": "Q60775727",
+   "article_created": "2018-10-26T00:02:32Z",
+   "wikidata_types": [
+    "Q783794"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "INSYS THERAPEUTICS, INC.": {
+   "company": "INSYS THERAPEUTICS, INC.",
+   "symbol": "INSY",
+   "title": "Insys Therapeutics",
+   "has_article": true,
+   "qid": "Q19903344",
+   "article_created": "2015-05-12T20:32:58Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q19644607"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "SEMILEDS CORP": {
+   "company": "SEMILEDS CORP",
+   "symbol": "LEDS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FIRST NBC BANK HOLDING CO": {
+   "company": "FIRST NBC BANK HOLDING CO",
+   "symbol": "NBCB",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SANTANDER MEXICO FINANCIAL GROUP, S.A.B. DE C.V.": {
+   "company": "SANTANDER MEXICO FINANCIAL GROUP, S.A.B. DE C.V.",
+   "symbol": "BSMX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SKY SOLAR HOLDINGS, LTD.": {
+   "company": "SKY SOLAR HOLDINGS, LTD.",
+   "symbol": "SKYS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SEMLER SCIENTIFIC, INC.": {
+   "company": "SEMLER SCIENTIFIC, INC.",
+   "symbol": "SMLR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ATARA BIOTHERAPEUTICS, INC.": {
+   "company": "ATARA BIOTHERAPEUTICS, INC.",
+   "symbol": "ATRA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "NOODLES & CO": {
+   "company": "NOODLES & CO",
+   "symbol": "NDLS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "NORTH AMERICAN CONSTRUCTION GROUP LTD.": {
+   "company": "NORTH AMERICAN CONSTRUCTION GROUP LTD.",
+   "symbol": "NOA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "RUCKUS WIRELESS INC": {
+   "company": "RUCKUS WIRELESS INC",
+   "symbol": "RKUS",
+   "title": "Ruckus Networks",
+   "has_article": true,
+   "qid": "Q7376642",
+   "article_created": "2010-04-28T09:45:14Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q6881511",
+    "Q891723",
+    "Q431289"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "VTV THERAPEUTICS INC.": {
+   "company": "VTV THERAPEUTICS INC.",
+   "symbol": "VTVT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "COMSCORE, INC.": {
+   "company": "COMSCORE, INC.",
+   "symbol": "SCOR",
+   "title": "Comscore",
+   "has_article": true,
+   "qid": "Q734779",
+   "article_created": "2006-11-02T22:32:03Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q35127",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ARCHROCK PARTNERS, L.P.": {
+   "company": "ARCHROCK PARTNERS, L.P.",
+   "symbol": "UCLP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MOBILEYE B.V.": {
+   "company": "MOBILEYE B.V.",
+   "symbol": "MBLY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ENERGY TRANSFER LP": {
+   "company": "ENERGY TRANSFER LP",
+   "symbol": "ETE",
+   "title": "Energy Transfer",
+   "has_article": true,
+   "qid": "Q5377000",
+   "article_created": "2006-04-17T03:40:09Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q6881511",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ENZYMOTEC LTD.": {
+   "company": "ENZYMOTEC LTD.",
+   "symbol": "ENZY",
+   "title": "Enzymotec",
+   "has_article": true,
+   "qid": "Q7917558",
+   "article_created": "2016-09-20T03:48:58Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "WHITESTONE REIT": {
+   "company": "WHITESTONE REIT",
+   "symbol": "WSR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "LIMELIGHT NETWORKS, INC.": {
+   "company": "LIMELIGHT NETWORKS, INC.",
+   "symbol": "LLNW",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "COLFAX CORP": {
+   "company": "COLFAX CORP",
+   "symbol": "CFX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "KIOR INC": {
+   "company": "KIOR INC",
+   "symbol": "KIOR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "APPTIO INC": {
+   "company": "APPTIO INC",
+   "symbol": "APTI",
+   "title": "Apptio",
+   "has_article": true,
+   "qid": "Q16961780",
+   "article_created": "2014-03-20T22:53:12Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "TWILIO INC": {
+   "company": "TWILIO INC",
+   "symbol": "TWLO",
+   "title": "Twilio",
+   "has_article": true,
+   "qid": "Q7858039",
+   "article_created": "2011-07-20T09:21:52Z",
+   "wikidata_types": [
+    "Q35127",
+    "Q783794",
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ADESTO TECHNOLOGIES CORP": {
+   "company": "ADESTO TECHNOLOGIES CORP",
+   "symbol": "IOTS",
+   "title": "Adesto Technologies",
+   "has_article": true,
+   "qid": "Q60741235",
+   "article_created": "2018-07-26T19:37:53Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ISHARES S&P GSCI COMMODITY-INDEXED TRUST": {
+   "company": "ISHARES S&P GSCI COMMODITY-INDEXED TRUST",
+   "symbol": "GSG",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MANIFOLD CAPITAL CORP.": {
+   "company": "MANIFOLD CAPITAL CORP.",
+   "symbol": "ACA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "UPLAND SOFTWARE, INC.": {
+   "company": "UPLAND SOFTWARE, INC.",
+   "symbol": "UPLD",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "HORSEHEAD HOLDING LLC": {
+   "company": "HORSEHEAD HOLDING LLC",
+   "symbol": "ZINC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TANDEM DIABETES CARE INC": {
+   "company": "TANDEM DIABETES CARE INC",
+   "symbol": "TNDM",
+   "title": "Tandem Diabetes Care",
+   "has_article": true,
+   "qid": "Q22121872",
+   "article_created": "2015-03-30T19:19:59Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "MYOVANT SCIENCES LTD.": {
+   "company": "MYOVANT SCIENCES LTD.",
+   "symbol": "MYOV",
+   "title": "Roivant Sciences",
+   "has_article": true,
+   "qid": "Q53308720",
+   "article_created": "2016-10-07T17:56:39Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "MONOTYPE IMAGING HOLDINGS INC.": {
+   "company": "MONOTYPE IMAGING HOLDINGS INC.",
+   "symbol": "TYPE",
+   "title": "Monotype Imaging",
+   "has_article": true,
+   "qid": "Q1583606",
+   "article_created": "2004-09-24T20:05:41Z",
+   "wikidata_types": [
+    "Q377688",
+    "Q1589009"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "GENERAL FINANCE CORP": {
+   "company": "GENERAL FINANCE CORP",
+   "symbol": "GFN-U",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FIRST DATA CORP": {
+   "company": "FIRST DATA CORP",
+   "symbol": "FDC",
+   "title": "First Data",
+   "has_article": true,
+   "qid": "Q906406",
+   "article_created": "2006-02-01T22:08:34Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "SPLUNK INC": {
+   "company": "SPLUNK INC",
+   "symbol": "SPLK",
+   "title": "Splunk",
+   "has_article": true,
+   "qid": "Q1835753",
+   "article_created": "2005-04-05T02:40:17Z",
+   "wikidata_types": [
+    "Q1058914",
+    "Q6881511",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "MEDPACE HOLDINGS, INC.": {
+   "company": "MEDPACE HOLDINGS, INC.",
+   "symbol": "MEDP",
+   "title": "Medpace",
+   "has_article": true,
+   "qid": "Q17108701",
+   "article_created": "2013-04-08T19:24:33Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "INNOVATIVE INDUSTRIAL PROPERTIES INC": {
+   "company": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
+   "symbol": "IIPR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CHEGG, INC": {
+   "company": "CHEGG, INC",
+   "symbol": "CHGG",
+   "title": "Chegg",
+   "has_article": true,
+   "qid": "Q5089544",
+   "article_created": "2010-01-14T22:55:38Z",
+   "wikidata_types": [
+    "Q1194970",
+    "Q18388277",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ELLIE MAE INC": {
+   "company": "ELLIE MAE INC",
+   "symbol": "ELLI",
+   "title": "Ellie Mae",
+   "has_article": true,
+   "qid": "Q16974631",
+   "article_created": "2014-02-23T14:54:35Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "SCULPTOR CAPITAL MANAGEMENT, INC.": {
+   "company": "SCULPTOR CAPITAL MANAGEMENT, INC.",
+   "symbol": "OZM",
+   "title": "Sculptor Capital Management",
+   "has_article": true,
+   "qid": "Q7076286",
+   "article_created": "2008-09-30T11:10:01Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "LUMOS PHARMA, INC.": {
+   "company": "LUMOS PHARMA, INC.",
+   "symbol": "NLNK",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ANIMAL HEALTH HOLDINGS, INC.": {
+   "company": "ANIMAL HEALTH HOLDINGS, INC.",
+   "symbol": "AHII",
+   "title": null,
+   "has_article": false,
+   "qid": "Q4764811",
+   "article_created": null,
+   "wikidata_types": [
+    "Q327333"
+   ],
+   "org_state": "wrong_subject",
+   "org_verified": false,
+   "rejected_title": "Animal Health",
+   "rejection": "article is not a Wikidata organisation"
+  },
+  "CAESARS ENTERTAINMENT CORP": {
+   "company": "CAESARS ENTERTAINMENT CORP",
+   "symbol": "CZR",
+   "title": "Harrah's Entertainment",
+   "has_article": true,
+   "qid": "Q892498",
+   "article_created": "2004-04-02T04:05:51Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q6881511"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "MEDEQUITIES REALTY TRUST, INC.": {
+   "company": "MEDEQUITIES REALTY TRUST, INC.",
+   "symbol": "MRT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "VITACOST.COM, INC.": {
+   "company": "VITACOST.COM, INC.",
+   "symbol": "VITC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PATTERN ENERGY GROUP INC.": {
+   "company": "PATTERN ENERGY GROUP INC.",
+   "symbol": "PEGI",
+   "title": "Pattern Energy",
+   "has_article": true,
+   "qid": "Q60764012",
+   "article_created": "2018-12-19T14:17:57Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ARCOS DORADOS HOLDINGS INC.": {
+   "company": "ARCOS DORADOS HOLDINGS INC.",
+   "symbol": "ARCO",
+   "title": "Arcos Dorados Holdings",
+   "has_article": true,
+   "qid": "Q15727302",
+   "article_created": "2013-11-17T16:31:58Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "NATURAL GROCERS BY VITAMIN COTTAGE, INC.": {
+   "company": "NATURAL GROCERS BY VITAMIN COTTAGE, INC.",
+   "symbol": "NGVC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "WISDOMTREE COAL FUND": {
+   "company": "WISDOMTREE COAL FUND",
+   "symbol": "TONS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "WILLIAMS PIPELINE PARTNERS L.P.": {
+   "company": "WILLIAMS PIPELINE PARTNERS L.P.",
+   "symbol": "WMZ",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MITEL NETWORKS CORP": {
+   "company": "MITEL NETWORKS CORP",
+   "symbol": "MITL",
+   "title": "Mitel",
+   "has_article": true,
+   "qid": "Q1957521",
+   "article_created": "2003-11-30T01:22:03Z",
+   "wikidata_types": [
+    "Q2401749",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "TARGA RESOURCES CORP.": {
+   "company": "TARGA RESOURCES CORP.",
+   "symbol": "TRGP",
+   "title": "Targa Resources",
+   "has_article": true,
+   "qid": "Q7685824",
+   "article_created": "2010-09-07T21:27:39Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "NXP SEMICONDUCTORS N.V.": {
+   "company": "NXP SEMICONDUCTORS N.V.",
+   "symbol": "NXPI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "AFFYMAX INC": {
+   "company": "AFFYMAX INC",
+   "symbol": "AFFY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SPROUTS FARMERS MARKET, INC.": {
+   "company": "SPROUTS FARMERS MARKET, INC.",
+   "symbol": "SFM",
+   "title": "Sprouts Farmers Market",
+   "has_article": true,
+   "qid": "Q7581369",
+   "article_created": "2007-02-28T01:38:00Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q50969307",
+    "Q891723",
+    "Q18043413"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "STARENT NETWORKS, CORP.": {
+   "company": "STARENT NETWORKS, CORP.",
+   "symbol": "STAR",
+   "title": "Starent Networks",
+   "has_article": true,
+   "qid": "Q7601805",
+   "article_created": "2009-05-12T14:09:07Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "GRAND CANYON EDUCATION, INC.": {
+   "company": "GRAND CANYON EDUCATION, INC.",
+   "symbol": "LOPE",
+   "title": "Grand Canyon Education",
+   "has_article": true,
+   "qid": "Q33129672",
+   "article_created": "2012-02-23T21:26:39Z",
+   "wikidata_types": [
+    "Q149789",
+    "Q57655560",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "EP ENERGY CORP": {
+   "company": "EP ENERGY CORP",
+   "symbol": "EPE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "EDGEN GROUP INC.": {
+   "company": "EDGEN GROUP INC.",
+   "symbol": "EDG",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "OTONOMY, INC.": {
+   "company": "OTONOMY, INC.",
+   "symbol": "OTIC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GAIN CAPITAL HOLDINGS, INC.": {
+   "company": "GAIN CAPITAL HOLDINGS, INC.",
+   "symbol": "GCAP",
+   "title": "GAIN Capital",
+   "has_article": true,
+   "qid": "Q5517210",
+   "article_created": "2010-12-21T10:53:46Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "HUNT COMPANIES FINANCE TRUST, INC.": {
+   "company": "HUNT COMPANIES FINANCE TRUST, INC.",
+   "symbol": "OAKS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PAPA MURPHY'S HOLDINGS, INC.": {
+   "company": "PAPA MURPHY'S HOLDINGS, INC.",
+   "symbol": "FRSH",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TRISTATE CAPITAL HOLDINGS, INC.": {
+   "company": "TRISTATE CAPITAL HOLDINGS, INC.",
+   "symbol": "TSC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "AURIS MEDICAL HOLDING LTD.": {
+   "company": "AURIS MEDICAL HOLDING LTD.",
+   "symbol": "EARS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ENERGY SERVICES OF AMERICA CORP": {
+   "company": "ENERGY SERVICES OF AMERICA CORP",
+   "symbol": "ESA.U",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "NORCRAFT COMPANIES, INC.": {
+   "company": "NORCRAFT COMPANIES, INC.",
+   "symbol": "NCFT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CARE.COM INC": {
+   "company": "CARE.COM INC",
+   "symbol": "CRCM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SGX PHARMACEUTICALS, INC.": {
+   "company": "SGX PHARMACEUTICALS, INC.",
+   "symbol": "SGXP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SINTX TECHNOLOGIES, INC.": {
+   "company": "SINTX TECHNOLOGIES, INC.",
+   "symbol": "AMDA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PENNYMAC MORTGAGE INVESTMENT TRUST": {
+   "company": "PENNYMAC MORTGAGE INVESTMENT TRUST",
+   "symbol": "PMT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "NANOSPHERE INC": {
+   "company": "NANOSPHERE INC",
+   "symbol": "NSPH",
+   "title": null,
+   "has_article": false,
+   "qid": "Q69864383",
+   "article_created": null,
+   "wikidata_types": [],
+   "org_state": "wrong_subject",
+   "org_verified": false,
+   "rejected_title": "Nanosphere",
+   "rejection": "article is not a Wikidata organisation"
+  },
+  "WESCO AIRCRAFT HOLDINGS, INC": {
+   "company": "WESCO AIRCRAFT HOLDINGS, INC",
+   "symbol": "WAIR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TOWNSQUARE MEDIA, INC.": {
+   "company": "TOWNSQUARE MEDIA, INC.",
+   "symbol": "TSQ",
+   "title": "Townsquare Media",
+   "has_article": true,
+   "qid": "Q7830269",
+   "article_created": "2005-01-04T19:13:23Z",
+   "wikidata_types": [
+    "Q1331793",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "VIVEVE MEDICAL, INC.": {
+   "company": "VIVEVE MEDICAL, INC.",
+   "symbol": "VIVE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SYNLOGIC, INC.": {
+   "company": "SYNLOGIC, INC.",
+   "symbol": "MIRN",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "UNITED STATES COMMODITY INDEX FUNDS TRUST": {
+   "company": "UNITED STATES COMMODITY INDEX FUNDS TRUST",
+   "symbol": "CPER",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GLOBAL BLOOD THERAPEUTICS, INC.": {
+   "company": "GLOBAL BLOOD THERAPEUTICS, INC.",
+   "symbol": "GBT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BARZEL INDUSTRIES INC.": {
+   "company": "BARZEL INDUSTRIES INC.",
+   "symbol": "SHJ-U",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ANDEAVOR MIDSTREAM PARTNERS LP": {
+   "company": "ANDEAVOR MIDSTREAM PARTNERS LP",
+   "symbol": "QEPM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "OMEGA NAVIGATION ENTERPRISES, INC.": {
+   "company": "OMEGA NAVIGATION ENTERPRISES, INC.",
+   "symbol": "ONAV",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CARA THERAPEUTICS, INC.": {
+   "company": "CARA THERAPEUTICS, INC.",
+   "symbol": "CARA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ACORN INTERNATIONAL, INC.": {
+   "company": "ACORN INTERNATIONAL, INC.",
+   "symbol": "ATV",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PLY GEM HOLDINGS INC": {
+   "company": "PLY GEM HOLDINGS INC",
+   "symbol": "PGEM",
+   "title": "Ply Gem",
+   "has_article": true,
+   "qid": "Q138026085",
+   "article_created": "2026-01-20T21:55:36Z",
+   "wikidata_types": [
+    "Q783794"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "EMERGENT BIOSOLUTIONS INC.": {
+   "company": "EMERGENT BIOSOLUTIONS INC.",
+   "symbol": "EBS",
+   "title": "Emergent BioSolutions",
+   "has_article": true,
+   "qid": "Q5370757",
+   "article_created": "2006-08-04T18:00:03Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723",
+    "Q43229"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "TIGENIX NV": {
+   "company": "TIGENIX NV",
+   "symbol": "TIG",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "REED'S, INC.": {
+   "company": "REED'S, INC.",
+   "symbol": "REED",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BARE ESCENTUALS INC": {
+   "company": "BARE ESCENTUALS INC",
+   "symbol": "BARE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "THIRD POINT REINSURANCE LTD.": {
+   "company": "THIRD POINT REINSURANCE LTD.",
+   "symbol": "TPRE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MAGELLAN MIDSTREAM HOLDINGS LP": {
+   "company": "MAGELLAN MIDSTREAM HOLDINGS LP",
+   "symbol": "MGG",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ALON USA PARTNERS, LP": {
+   "company": "ALON USA PARTNERS, LP",
+   "symbol": "ALDW",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MEDLEY MANAGEMENT INC.": {
+   "company": "MEDLEY MANAGEMENT INC.",
+   "symbol": "MDLY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ZAFGEN, INC.": {
+   "company": "ZAFGEN, INC.",
+   "symbol": "ZFGN",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "WESTLAKE CHEMICAL PARTNERS LP": {
+   "company": "WESTLAKE CHEMICAL PARTNERS LP",
+   "symbol": "WLKP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "DIGITALGLOBE, INC.": {
+   "company": "DIGITALGLOBE, INC.",
+   "symbol": "DGI",
+   "title": "DigitalGlobe",
+   "has_article": true,
+   "qid": "Q1224697",
+   "article_created": "2004-05-05T05:33:37Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q6881511",
+    "Q891723",
+    "Q55097243"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ARCTURUS THERAPEUTICS LTD.": {
+   "company": "ARCTURUS THERAPEUTICS LTD.",
+   "symbol": "ADHD",
+   "title": "Arcturus Therapeutics",
+   "has_article": true,
+   "qid": "Q98713358",
+   "article_created": "2015-10-06T10:52:48Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "MAP PHARMACEUTICALS, INC.": {
+   "company": "MAP PHARMACEUTICALS, INC.",
+   "symbol": "MAPP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ACHAOGEN, INC.": {
+   "company": "ACHAOGEN, INC.",
+   "symbol": "AKAO",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ANDATEE CHINA MARINE FUEL SERVICES CORP": {
+   "company": "ANDATEE CHINA MARINE FUEL SERVICES CORP",
+   "symbol": "AMCF",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "AIR LEASE CORP": {
+   "company": "AIR LEASE CORP",
+   "symbol": "AL",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "COMMUNITY BANKERS TRUST CORP": {
+   "company": "COMMUNITY BANKERS TRUST CORP",
+   "symbol": "BTC.U",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "COMPASS GROUP DIVERSIFIED HOLDINGS LLC": {
+   "company": "COMPASS GROUP DIVERSIFIED HOLDINGS LLC",
+   "symbol": "CODI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MONTVALE TECHNOLOGIES, INC.": {
+   "company": "MONTVALE TECHNOLOGIES, INC.",
+   "symbol": "II",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CERES, INC.": {
+   "company": "CERES, INC.",
+   "symbol": "CERE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TRANSUNION": {
+   "company": "TRANSUNION",
+   "symbol": "TRU",
+   "title": "TransUnion",
+   "has_article": true,
+   "qid": "Q7833641",
+   "article_created": "2004-09-05T23:07:25Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q1187145",
+    "Q6881511",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "SANDRIDGE ENERGY INC": {
+   "company": "SANDRIDGE ENERGY INC",
+   "symbol": "SDR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GMS INC.": {
+   "company": "GMS INC.",
+   "symbol": "GMS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FACTORSHARES 2X GOLD BULL/S&P500 BEAR": {
+   "company": "FACTORSHARES 2X GOLD BULL/S&P500 BEAR",
+   "symbol": "FSG",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FIREEYE, INC.": {
+   "company": "FIREEYE, INC.",
+   "symbol": "FEYE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "OPNEXT INC": {
+   "company": "OPNEXT INC",
+   "symbol": "OPXT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GALAPAGOS NV": {
+   "company": "GALAPAGOS NV",
+   "symbol": "GLPG",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SOLERA HOLDINGS, INC": {
+   "company": "SOLERA HOLDINGS, INC",
+   "symbol": "SLH",
+   "title": "Solera Holdings",
+   "has_article": true,
+   "qid": "Q7557672",
+   "article_created": "2010-01-09T12:10:35Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "MINDBODY, INC.": {
+   "company": "MINDBODY, INC.",
+   "symbol": "MB",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TUDOU HOLDINGS LTD": {
+   "company": "TUDOU HOLDINGS LTD",
+   "symbol": "TUDO",
+   "title": "Tudou",
+   "has_article": true,
+   "qid": "Q1185230",
+   "article_created": "2007-08-29T07:56:46Z",
+   "wikidata_types": [
+    "Q35127"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "HHGREGG, INC.": {
+   "company": "HHGREGG, INC.",
+   "symbol": "HGG",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "UNIQURE N.V.": {
+   "company": "UNIQURE N.V.",
+   "symbol": "QURE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FIRST EAGLE PRIVATE CREDIT, LLC": {
+   "company": "FIRST EAGLE PRIVATE CREDIT, LLC",
+   "symbol": "NEWS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "JOYY INC.": {
+   "company": "JOYY INC.",
+   "symbol": "YY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "JOINT CORP": {
+   "company": "JOINT CORP",
+   "symbol": "JYNT",
+   "title": "American Jewish Joint Distribution Committee",
+   "has_article": true,
+   "qid": "Q1702533",
+   "article_created": "2004-06-15T09:31:16Z",
+   "wikidata_types": [
+    "Q163740",
+    "Q1530022",
+    "Q865588"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "RINGCENTRAL, INC.": {
+   "company": "RINGCENTRAL, INC.",
+   "symbol": "RNG",
+   "title": "RingCentral",
+   "has_article": true,
+   "qid": "Q7334682",
+   "article_created": "2009-01-07T02:51:44Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "NOAH HOLDINGS LTD": {
+   "company": "NOAH HOLDINGS LTD",
+   "symbol": "NOAH",
+   "title": "Noah Holdings",
+   "has_article": true,
+   "qid": "Q121001340",
+   "article_created": "2023-07-29T09:22:26Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "RIGNET, INC.": {
+   "company": "RIGNET, INC.",
+   "symbol": "RNET",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "RENREN INC.": {
+   "company": "RENREN INC.",
+   "symbol": "RENN",
+   "title": "Renren",
+   "has_article": true,
+   "qid": "Q784022",
+   "article_created": "2008-03-08T00:14:38Z",
+   "wikidata_types": [
+    "Q35127",
+    "Q3220391",
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "CHINA NEW BORUN CORP": {
+   "company": "CHINA NEW BORUN CORP",
+   "symbol": "BORN",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "DIMENSION THERAPEUTICS, INC.": {
+   "company": "DIMENSION THERAPEUTICS, INC.",
+   "symbol": "DMTX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CAMPING WORLD HOLDINGS, INC.": {
+   "company": "CAMPING WORLD HOLDINGS, INC.",
+   "symbol": "CWH",
+   "title": "Camping World",
+   "has_article": true,
+   "qid": "Q5028383",
+   "article_created": "2006-03-29T07:33:45Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "RE/MAX HOLDINGS, INC.": {
+   "company": "RE/MAX HOLDINGS, INC.",
+   "symbol": "RMAX",
+   "title": "RE/MAX",
+   "has_article": true,
+   "qid": "Q965845",
+   "article_created": "2005-09-29T23:22:19Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q6881511",
+    "Q2073644"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ELOQUA, INC.": {
+   "company": "ELOQUA, INC.",
+   "symbol": "ELOQ",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SALARY. COM, INC.": {
+   "company": "SALARY. COM, INC.",
+   "symbol": "SLRY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CDC SOFTWARE CORP": {
+   "company": "CDC SOFTWARE CORP",
+   "symbol": "CDCS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "XTERA COMMUNICATIONS, INC.": {
+   "company": "XTERA COMMUNICATIONS, INC.",
+   "symbol": "XCOM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "EASTERLY GOVERNMENT PROPERTIES, INC.": {
+   "company": "EASTERLY GOVERNMENT PROPERTIES, INC.",
+   "symbol": "DEA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "XINHUA SPORTS & ENTERTAINMENT LTD": {
+   "company": "XINHUA SPORTS & ENTERTAINMENT LTD",
+   "symbol": "XFML",
+   "title": "Xinhua Sports & Entertainment",
+   "has_article": true,
+   "qid": "Q8044589",
+   "article_created": "2008-07-16T03:14:12Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "TECHTARGET INC": {
+   "company": "TECHTARGET INC",
+   "symbol": "TTGT",
+   "title": "Informa TechTarget",
+   "has_article": true,
+   "qid": "Q7692144",
+   "article_created": "2007-07-30T02:11:02Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "PREMIER, INC.": {
+   "company": "PREMIER, INC.",
+   "symbol": "PINC",
+   "title": null,
+   "has_article": false,
+   "qid": "Q959664",
+   "article_created": null,
+   "wikidata_types": [
+    "Q4164871"
+   ],
+   "org_state": "wrong_subject",
+   "org_verified": false,
+   "rejected_title": "Premier",
+   "rejection": "article is not a Wikidata organisation"
+  },
+  "CUMBERLAND PHARMACEUTICALS INC": {
+   "company": "CUMBERLAND PHARMACEUTICALS INC",
+   "symbol": "CPIX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "LUMENIS LTD": {
+   "company": "LUMENIS LTD",
+   "symbol": "LMNS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "INVESCO DB US DOLLAR INDEX TRUST": {
+   "company": "INVESCO DB US DOLLAR INDEX TRUST",
+   "symbol": "UUP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "AVOLON HOLDINGS LTD": {
+   "company": "AVOLON HOLDINGS LTD",
+   "symbol": "AVOL",
+   "title": "Avolon",
+   "has_article": true,
+   "qid": "Q4829159",
+   "article_created": "2010-12-18T03:14:36Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "GRANA & MONTERO S.A.A.": {
+   "company": "GRANA & MONTERO S.A.A.",
+   "symbol": "GRAM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CYTOMX THERAPEUTICS, INC.": {
+   "company": "CYTOMX THERAPEUTICS, INC.",
+   "symbol": "CTMX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "NBL TEXAS, LLC": {
+   "company": "NBL TEXAS, LLC",
+   "symbol": "ROSE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SINO-GLOBAL SHIPPING AMERICA, LTD.": {
+   "company": "SINO-GLOBAL SHIPPING AMERICA, LTD.",
+   "symbol": "SINO",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BLUE BUFFALO PET PRODUCTS, INC.": {
+   "company": "BLUE BUFFALO PET PRODUCTS, INC.",
+   "symbol": "BUFF",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "HILTON WORLDWIDE HOLDINGS INC.": {
+   "company": "HILTON WORLDWIDE HOLDINGS INC.",
+   "symbol": "HLT",
+   "title": "Hilton Worldwide",
+   "has_article": true,
+   "qid": "Q1057464",
+   "article_created": "2002-09-27T06:42:51Z",
+   "wikidata_types": [
+    "Q1631129",
+    "Q891723",
+    "Q161726"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "NEOS THERAPEUTICS, INC.": {
+   "company": "NEOS THERAPEUTICS, INC.",
+   "symbol": "NEOS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GOODMAN GLOBAL INC": {
+   "company": "GOODMAN GLOBAL INC",
+   "symbol": "GGL",
+   "title": "Goodman Global",
+   "has_article": true,
+   "qid": "Q5583460",
+   "article_created": "2010-02-19T19:43:59Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "INVESCO CURRENCYSHARES SWISS FRANC TRUST": {
+   "company": "INVESCO CURRENCYSHARES SWISS FRANC TRUST",
+   "symbol": "FXF",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ASCENDIS PHARMA A/S": {
+   "company": "ASCENDIS PHARMA A/S",
+   "symbol": "ASND",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BANCO SANTANDER (BRASIL) S.A.": {
+   "company": "BANCO SANTANDER (BRASIL) S.A.",
+   "symbol": "BSBR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MATERIALISE NV": {
+   "company": "MATERIALISE NV",
+   "symbol": "MTLS",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GRUBB & ELLIS REALTY ADVISORS, INC.": {
+   "company": "GRUBB & ELLIS REALTY ADVISORS, INC.",
+   "symbol": "GAV'U",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FLUIDIGM CORP": {
+   "company": "FLUIDIGM CORP",
+   "symbol": "FLDM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SYMETRA FINANCIAL CORP": {
+   "company": "SYMETRA FINANCIAL CORP",
+   "symbol": "SYA",
+   "title": "Symetra",
+   "has_article": true,
+   "qid": "Q1315706",
+   "article_created": "2006-08-29T23:06:43Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "ESPERION THERAPEUTICS, INC.": {
+   "company": "ESPERION THERAPEUTICS, INC.",
+   "symbol": "ESPR",
+   "title": "Esperion Therapeutics",
+   "has_article": true,
+   "qid": "Q5398941",
+   "article_created": "2012-05-20T21:46:20Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "MATADOR RESOURCES CO": {
+   "company": "MATADOR RESOURCES CO",
+   "symbol": "MTDR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "THOMAS WEISEL PARTNERS GROUP, INC.": {
+   "company": "THOMAS WEISEL PARTNERS GROUP, INC.",
+   "symbol": "TWPG",
+   "title": "Thomas Weisel Partners",
+   "has_article": true,
+   "qid": "Q7794960",
+   "article_created": "2006-11-09T02:54:18Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "PHYSICIANS FORMULA HOLDINGS, INC.": {
+   "company": "PHYSICIANS FORMULA HOLDINGS, INC.",
+   "symbol": "FACE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CLOUD PEAK ENERGY INC.": {
+   "company": "CLOUD PEAK ENERGY INC.",
+   "symbol": "CLD",
+   "title": "Cloud Peak Energy",
+   "has_article": true,
+   "qid": "Q16988355",
+   "article_created": "2013-07-21T18:52:30Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "NANTKWEST, INC.": {
+   "company": "NANTKWEST, INC.",
+   "symbol": "NK",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SAGE THERAPEUTICS, INC.": {
+   "company": "SAGE THERAPEUTICS, INC.",
+   "symbol": "SAGE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "WINGSTOP INC.": {
+   "company": "WINGSTOP INC.",
+   "symbol": "WING",
+   "title": "Wingstop",
+   "has_article": true,
+   "qid": "Q8025339",
+   "article_created": "2006-05-16T21:11:56Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q18509232",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "BODY CENTRAL CORP": {
+   "company": "BODY CENTRAL CORP",
+   "symbol": "BODY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CIVITAS SOLUTIONS, INC.": {
+   "company": "CIVITAS SOLUTIONS, INC.",
+   "symbol": "CIVI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BLACK STONE MINERALS, L.P.": {
+   "company": "BLACK STONE MINERALS, L.P.",
+   "symbol": "BSM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "BANKUNITED, INC.": {
+   "company": "BANKUNITED, INC.",
+   "symbol": "BKU",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "QUADRA REALTY TRUST, INC.": {
+   "company": "QUADRA REALTY TRUST, INC.",
+   "symbol": "QRR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "STEADYMED LTD.": {
+   "company": "STEADYMED LTD.",
+   "symbol": "STDY",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FORESIGHT ENERGY LP": {
+   "company": "FORESIGHT ENERGY LP",
+   "symbol": "FELP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "VOCERA COMMUNICATIONS, INC.": {
+   "company": "VOCERA COMMUNICATIONS, INC.",
+   "symbol": "VCRA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "MARRONE BIO INNOVATIONS INC": {
+   "company": "MARRONE BIO INNOVATIONS INC",
+   "symbol": "MBII",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "TEAM HEALTH HOLDINGS INC.": {
+   "company": "TEAM HEALTH HOLDINGS INC.",
+   "symbol": "TMH",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PINNACLE FOODS INC.": {
+   "company": "PINNACLE FOODS INC.",
+   "symbol": "PF",
+   "title": "Pinnacle Foods",
+   "has_article": true,
+   "qid": "Q16983587",
+   "article_created": "2005-10-10T04:15:11Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q658255"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "VIRTUAL RADIOLOGIC CORP": {
+   "company": "VIRTUAL RADIOLOGIC CORP",
+   "symbol": "VRAD",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "DOMINION ENERGY MIDSTREAM PARTNERS, LP": {
+   "company": "DOMINION ENERGY MIDSTREAM PARTNERS, LP",
+   "symbol": "DM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "EHEALTH, INC.": {
+   "company": "EHEALTH, INC.",
+   "symbol": "EHTH",
+   "title": null,
+   "has_article": false,
+   "qid": "Q4930",
+   "article_created": null,
+   "wikidata_types": [],
+   "org_state": "wrong_subject",
+   "org_verified": false,
+   "rejected_title": "EHealth",
+   "rejection": "article is not a Wikidata organisation"
+  },
+  "EMERGENT CAPITAL, INC.": {
+   "company": "EMERGENT CAPITAL, INC.",
+   "symbol": "IFT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SYNCHRONY FINANCIAL": {
+   "company": "SYNCHRONY FINANCIAL",
+   "symbol": "SYF",
+   "title": "Synchrony Financial",
+   "has_article": true,
+   "qid": "Q18387139",
+   "article_created": "2014-03-13T16:23:11Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q6881511",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "BLACKLINE, INC.": {
+   "company": "BLACKLINE, INC.",
+   "symbol": "BL",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "RPX CORP": {
+   "company": "RPX CORP",
+   "symbol": "RPXC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "ON SEMICONDUCTOR CONNECTIVITY SOLUTIONS, INC.": {
+   "company": "ON SEMICONDUCTOR CONNECTIVITY SOLUTIONS, INC.",
+   "symbol": "QTNA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "NYMEX HOLDINGS INC": {
+   "company": "NYMEX HOLDINGS INC",
+   "symbol": "NMX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "REGIONAL MANAGEMENT CORP.": {
+   "company": "REGIONAL MANAGEMENT CORP.",
+   "symbol": "RM",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FARMLAND PARTNERS INC.": {
+   "company": "FARMLAND PARTNERS INC.",
+   "symbol": "FPI",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "DUNCAN ENERGY PARTNERS L.P.": {
+   "company": "DUNCAN ENERGY PARTNERS L.P.",
+   "symbol": "DEP",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "COMPELLENT TECHNOLOGIES INC": {
+   "company": "COMPELLENT TECHNOLOGIES INC",
+   "symbol": "CML",
+   "title": "Compellent Technologies",
+   "has_article": true,
+   "qid": "Q5254109",
+   "article_created": "2010-02-13T05:43:13Z",
+   "wikidata_types": [
+    "Q4830453"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "DUPONT FABROS TECHNOLOGY, INC.": {
+   "company": "DUPONT FABROS TECHNOLOGY, INC.",
+   "symbol": "DFT",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "SORRENTO TECH, INC.": {
+   "company": "SORRENTO TECH, INC.",
+   "symbol": "ROKA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "XENCOR INC": {
+   "company": "XENCOR INC",
+   "symbol": "XNCR",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "FUNCTION(X) INC.": {
+   "company": "FUNCTION(X) INC.",
+   "symbol": "VGGL",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "DEBT RESOLVE INC": {
+   "company": "DEBT RESOLVE INC",
+   "symbol": "DRV",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "CONSOL COAL RESOURCES LP": {
+   "company": "CONSOL COAL RESOURCES LP",
+   "symbol": "CNXC",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "GSE HOLDING, INC.": {
+   "company": "GSE HOLDING, INC.",
+   "symbol": "GSE",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PROSENSA HOLDING N.V. IN LIQUIDATIE": {
+   "company": "PROSENSA HOLDING N.V. IN LIQUIDATIE",
+   "symbol": "RNA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "PBF LOGISTICS LP": {
+   "company": "PBF LOGISTICS LP",
+   "symbol": "PBFX",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "EXACTTARGET, INC.": {
+   "company": "EXACTTARGET, INC.",
+   "symbol": "ET",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  },
+  "RUE21, INC.": {
+   "company": "RUE21, INC.",
+   "symbol": "RUE",
+   "title": "Rue21",
+   "has_article": true,
+   "qid": "Q7377762",
+   "article_created": "2006-04-08T23:54:04Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q76213285"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "TIM HORTONS INC.": {
+   "company": "TIM HORTONS INC.",
+   "symbol": "THI",
+   "title": "Tim Hortons",
+   "has_article": true,
+   "qid": "Q175106",
+   "article_created": "2003-02-06T23:30:22Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q18534542",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "EPOCRATES INC": {
+   "company": "EPOCRATES INC",
+   "symbol": "EPOC",
+   "title": "Epocrates",
+   "has_article": true,
+   "qid": "Q5383792",
+   "article_created": "2010-09-23T19:14:11Z",
+   "wikidata_types": [
+    "Q4830453",
+    "Q891723"
+   ],
+   "org_state": "verified",
+   "org_verified": true
+  },
+  "COINMACH SERVICE CORP": {
+   "company": "COINMACH SERVICE CORP",
+   "symbol": "DRA",
+   "title": null,
+   "has_article": false,
+   "qid": null,
+   "article_created": null
+  }
+ }
+}

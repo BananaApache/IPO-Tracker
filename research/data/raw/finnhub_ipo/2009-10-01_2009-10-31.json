@@ -1,0 +1,267 @@
+{
+ "from": "2009-10-01",
+ "to": "2009-10-31",
+ "fetched_at": "2026-09-09T01:22:29.460600+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2009-10-30",
+   "exchange": null,
+   "name": "TRONY SOLAR HOLDINGS CO LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-10-28",
+   "exchange": null,
+   "name": "ALDAGEN INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-10-28",
+   "exchange": "Nasdaq National Market",
+   "name": "ADDUS HOMECARE CORP",
+   "numberOfShares": 5400000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ADUS",
+   "totalSharesValue": 54000000
+  },
+  {
+   "date": "2009-10-28",
+   "exchange": "New York Stock Exchange",
+   "name": "VITAMIN SHOPPE, INC.",
+   "numberOfShares": 9096077,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "VSI",
+   "totalSharesValue": 154633309
+  },
+  {
+   "date": "2009-10-23",
+   "exchange": "New York Stock Exchange",
+   "name": "DOLE FOOD CO INC",
+   "numberOfShares": 35715000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "DOLE",
+   "totalSharesValue": 446437500
+  },
+  {
+   "date": "2009-10-22",
+   "exchange": null,
+   "name": "OR-ION PRODUCTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-10-21",
+   "exchange": null,
+   "name": "FREEDOM GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-10-21",
+   "exchange": null,
+   "name": "IMPERIAL CAPITAL GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-10-21",
+   "exchange": "Nasdaq National Market",
+   "name": "AGA MEDICAL HOLDINGS, INC.",
+   "numberOfShares": 13750000,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "AGAM",
+   "totalSharesValue": 199375000
+  },
+  {
+   "date": "2009-10-20",
+   "exchange": "Nasdaq National Market",
+   "name": "ZST DIGITAL NETWORKS, INC.",
+   "numberOfShares": 3125000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "ZSTN",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2009-10-19",
+   "exchange": "Nasdaq National Market",
+   "name": "PENN MILLERS HOLDING CORP",
+   "numberOfShares": 6772221,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PMIC",
+   "totalSharesValue": 67722210
+  },
+  {
+   "date": "2009-10-16",
+   "exchange": null,
+   "name": "REXNORD CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-10-16",
+   "exchange": "Nasdaq National Market",
+   "name": "CHINA REAL ESTATE INFORMATION CORP",
+   "numberOfShares": 18000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "CRIC",
+   "totalSharesValue": 216000000
+  },
+  {
+   "date": "2009-10-14",
+   "exchange": null,
+   "name": "BJB CAREER EDUCATION COMPANY, LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-10-13",
+   "exchange": null,
+   "name": "NATIONAL BEEF, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-10-13",
+   "exchange": "New York Stock Exchange",
+   "name": "RAILAMERICA INC /DE",
+   "numberOfShares": 22000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "RA",
+   "totalSharesValue": 330000000
+  },
+  {
+   "date": "2009-10-08",
+   "exchange": null,
+   "name": "BIRDS EYE FOODS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-10-08",
+   "exchange": "New York Stock Exchange",
+   "name": "MISTRAS GROUP, INC.",
+   "numberOfShares": 8700000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "MG",
+   "totalSharesValue": 108750000
+  },
+  {
+   "date": "2009-10-08",
+   "exchange": "Nasdaq National Market",
+   "name": "OMEROS CORP",
+   "numberOfShares": 6820000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OMER",
+   "totalSharesValue": 68200000
+  },
+  {
+   "date": "2009-10-07",
+   "exchange": "New York Stock Exchange",
+   "name": "BANCO SANTANDER (BRASIL) S.A.",
+   "numberOfShares": 525000000,
+   "price": "13.4033",
+   "status": "priced",
+   "symbol": "BSBR",
+   "totalSharesValue": 7035000000
+  },
+  {
+   "date": "2009-10-07",
+   "exchange": "Nasdaq National Market",
+   "name": "VERISK ANALYTICS, INC.",
+   "numberOfShares": 85250000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "VRSK",
+   "totalSharesValue": 1875500000
+  },
+  {
+   "date": "2009-10-02",
+   "exchange": null,
+   "name": "FREE FOR ALL, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-10-02",
+   "exchange": "Nasdaq National Market",
+   "name": "ECHO GLOBAL LOGISTICS, INC.",
+   "numberOfShares": 5700000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ECHO",
+   "totalSharesValue": 79800000
+  },
+  {
+   "date": "2009-10-02",
+   "exchange": "Nasdaq National Market",
+   "name": "EDUCATION MANAGEMENT CORP",
+   "numberOfShares": 20000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "EDMC",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2009-10-01",
+   "exchange": null,
+   "name": "CUSTOM AUTOMATED SYSTEMS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-10-01",
+   "exchange": "Nasdaq National Market",
+   "name": "TALECRIS BIOTHERAPEUTICS HOLDINGS CORP.",
+   "numberOfShares": 50000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "TLCR",
+   "totalSharesValue": 950000000
+  }
+ ]
+}

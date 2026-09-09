@@ -1,0 +1,207 @@
+{
+ "from": "2018-11-01",
+ "to": "2018-11-30",
+ "fetched_at": "2026-09-09T01:26:07.599932+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2018-11-30",
+   "exchange": null,
+   "name": "BIOXYTRAN, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2018-11-28",
+   "exchange": "NASDAQ Capital",
+   "name": "MEDALIST DIVERSIFIED REIT, INC.",
+   "numberOfShares": 240000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MDRR",
+   "totalSharesValue": 2400000
+  },
+  {
+   "date": "2018-11-28",
+   "exchange": null,
+   "name": "FLASHAPP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2018-11-21",
+   "exchange": "NASDAQ Global",
+   "name": "TAIWAN LIPOSOME COMPANY, LTD.",
+   "numberOfShares": 3750000,
+   "price": "5.80",
+   "status": "priced",
+   "symbol": "TLC",
+   "totalSharesValue": 21750000
+  },
+  {
+   "date": "2018-11-20",
+   "exchange": "NASDAQ Capital",
+   "name": "TUANCHE LTD",
+   "numberOfShares": 2600000,
+   "price": "7.80",
+   "status": "priced",
+   "symbol": "TC",
+   "totalSharesValue": 20280000
+  },
+  {
+   "date": "2018-11-20",
+   "exchange": "NASDAQ Global",
+   "name": "TIZIANA LIFE SCIENCES PLC",
+   "numberOfShares": 442910,
+   "price": "9.90",
+   "status": "priced",
+   "symbol": "TLSA",
+   "totalSharesValue": 4384809
+  },
+  {
+   "date": "2018-11-16",
+   "exchange": null,
+   "name": "MCGRAW-HILL EDUCATION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-11-16",
+   "exchange": "NASDAQ Capital",
+   "name": "FINTECH ACQUISITION CORP. III",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FTACU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2018-11-16",
+   "exchange": "NASDAQ Capital",
+   "name": "AMCI ACQUISITION CORP.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AMCIU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2018-11-16",
+   "exchange": "NASDAQ Capital",
+   "name": "ATLAS TECHNICAL CONSULTANTS, INC.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BWMCU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2018-11-15",
+   "exchange": "NYSE",
+   "name": "WEIDAI LTD.",
+   "numberOfShares": 4500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WEI",
+   "totalSharesValue": 45000000
+  },
+  {
+   "date": "2018-11-14",
+   "exchange": "NYSE",
+   "name": "VAPOTHERM INC",
+   "numberOfShares": 4000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "VAPO",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2018-11-13",
+   "exchange": "NASDAQ Global Select",
+   "name": "ETON PHARMACEUTICALS, INC.",
+   "numberOfShares": 3600000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ETON",
+   "totalSharesValue": 21600000
+  },
+  {
+   "date": "2018-11-09",
+   "exchange": "NASDAQ Capital",
+   "name": "TOUGHBUILT INDUSTRIES, INC",
+   "numberOfShares": 2670000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "TBLTU",
+   "totalSharesValue": 13350000
+  },
+  {
+   "date": "2018-11-08",
+   "exchange": null,
+   "name": "TFI TAB GIDA YATIRIMLARI A.S.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-11-07",
+   "exchange": "NYSE",
+   "name": "CNFINANCE HOLDINGS LTD.",
+   "numberOfShares": 6500000,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "CNF",
+   "totalSharesValue": 48750000
+  },
+  {
+   "date": "2018-11-07",
+   "exchange": null,
+   "name": "VICTORY COMMERCIAL MANAGEMENT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2018-11-05",
+   "exchange": null,
+   "name": "SHAREDLABS, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-11-05",
+   "exchange": null,
+   "name": "UNEX HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 158100
+  },
+  {
+   "date": "2018-11-02",
+   "exchange": null,
+   "name": "ADITX THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

@@ -1,0 +1,517 @@
+{
+ "from": "2014-09-01",
+ "to": "2014-09-30",
+ "fetched_at": "2026-09-09T01:24:27.521780+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-09-30",
+   "exchange": null,
+   "name": "VERSHIRE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 45000
+  },
+  {
+   "date": "2014-09-30",
+   "exchange": null,
+   "name": "LEGACY VENTURES INTERNATIONAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 16000
+  },
+  {
+   "date": "2014-09-29",
+   "exchange": null,
+   "name": "GREEN MEADOW PRODUCTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 231750
+  },
+  {
+   "date": "2014-09-29",
+   "exchange": null,
+   "name": "KIMREE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KREE",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2014-09-29",
+   "exchange": null,
+   "name": "NOGALES RESOURCES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 11250
+  },
+  {
+   "date": "2014-09-26",
+   "exchange": null,
+   "name": "PQ HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-09-26",
+   "exchange": null,
+   "name": "PETRICHOR CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2014-09-26",
+   "exchange": null,
+   "name": "PANAMERA HEALTHCARE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 159600
+  },
+  {
+   "date": "2014-09-25",
+   "exchange": null,
+   "name": "PEAK RESORTS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-09-25",
+   "exchange": "New York Stock Exchange",
+   "name": "CNX MIDSTREAM PARTNERS LP",
+   "numberOfShares": 17500000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "CNNX",
+   "totalSharesValue": 385000000
+  },
+  {
+   "date": "2014-09-25",
+   "exchange": "New York Stock Exchange",
+   "name": "TRAVELPORT WORLDWIDE LTD",
+   "numberOfShares": 30000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "TVPT",
+   "totalSharesValue": 480000000
+  },
+  {
+   "date": "2014-09-25",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "GWG HOLDINGS, INC.",
+   "numberOfShares": 800000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "GWGH",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2014-09-24",
+   "exchange": "Nasdaq National Market",
+   "name": "VITAE PHARMACEUTICALS, INC",
+   "numberOfShares": 6875000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "VTAE",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2014-09-24",
+   "exchange": "New York Stock Exchange",
+   "name": "MEDLEY MANAGEMENT INC.",
+   "numberOfShares": 6000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "MDLY",
+   "totalSharesValue": 108000000
+  },
+  {
+   "date": "2014-09-24",
+   "exchange": "New York Stock Exchange",
+   "name": "SMART & FINAL STORES, INC.",
+   "numberOfShares": 13450000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "SFS",
+   "totalSharesValue": 161400000
+  },
+  {
+   "date": "2014-09-24",
+   "exchange": "Nasdaq National Market",
+   "name": "CYBERARK SOFTWARE LTD.",
+   "numberOfShares": 900000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CYBR",
+   "totalSharesValue": 14400000
+  },
+  {
+   "date": "2014-09-24",
+   "exchange": "New York Stock Exchange",
+   "name": "CITIZENS FINANCIAL GROUP INC/RI",
+   "numberOfShares": 140000000,
+   "price": "21.50",
+   "status": "priced",
+   "symbol": "CFG",
+   "totalSharesValue": 3010000000
+  },
+  {
+   "date": "2014-09-24",
+   "exchange": null,
+   "name": "EXMAR ENERGY PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "XMLP",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2014-09-23",
+   "exchange": null,
+   "name": "TAI SHAN COMMUNICATIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-09-23",
+   "exchange": "New York Stock Exchange",
+   "name": "GRUPO AVAL ACCIONES Y VALORES S.A.",
+   "numberOfShares": 81481482,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "AVAL",
+   "totalSharesValue": 1100000007
+  },
+  {
+   "date": "2014-09-23",
+   "exchange": null,
+   "name": "PANTOP CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-09-22",
+   "exchange": null,
+   "name": "PETROSHARE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 14026003
+  },
+  {
+   "date": "2014-09-19",
+   "exchange": null,
+   "name": "MICROLIN BIO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-09-19",
+   "exchange": null,
+   "name": "PACIFICORP INTERNATIONAL HOTEL MANAGEMENT",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-09-19",
+   "exchange": "New York Stock Exchange",
+   "name": "ALIBABA GROUP HOLDING LTD",
+   "numberOfShares": 320106100,
+   "price": "68.00",
+   "status": "priced",
+   "symbol": "BABA",
+   "totalSharesValue": 21767214800
+  },
+  {
+   "date": "2014-09-19",
+   "exchange": null,
+   "name": "LIFE CLIPS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 550250
+  },
+  {
+   "date": "2014-09-19",
+   "exchange": null,
+   "name": "EXAGEN DIAGNOSTICS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "EXDX",
+   "totalSharesValue": 69000000
+  },
+  {
+   "date": "2014-09-18",
+   "exchange": "Nasdaq National Market",
+   "name": "FOAMIX PHARMACEUTICALS LTD.",
+   "numberOfShares": 6700000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "FOMX",
+   "totalSharesValue": 40200000
+  },
+  {
+   "date": "2014-09-18",
+   "exchange": "Nasdaq National Market",
+   "name": "PROQR THERAPEUTICS N.V.",
+   "numberOfShares": 7500000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "PRQR",
+   "totalSharesValue": 97500000
+  },
+  {
+   "date": "2014-09-18",
+   "exchange": null,
+   "name": "CLEANER YOGA MAT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 600000
+  },
+  {
+   "date": "2014-09-18",
+   "exchange": null,
+   "name": "LEPOTA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100500
+  },
+  {
+   "date": "2014-09-17",
+   "exchange": "Nasdaq National Market",
+   "name": "NOVUS THERAPEUTICS, INC.",
+   "numberOfShares": 6480000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "TKAI",
+   "totalSharesValue": 97200000
+  },
+  {
+   "date": "2014-09-17",
+   "exchange": "New York Stock Exchange",
+   "name": "CIVITAS SOLUTIONS, INC.",
+   "numberOfShares": 11700000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "CIVI",
+   "totalSharesValue": 198900000
+  },
+  {
+   "date": "2014-09-16",
+   "exchange": null,
+   "name": "LIVE OAK BANCSHARES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-09-16",
+   "exchange": "OTCBB",
+   "name": "IFAN FINANCIAL, INC.",
+   "numberOfShares": 3000000,
+   "price": "0.31",
+   "status": "priced",
+   "symbol": "IFAN",
+   "totalSharesValue": 930000
+  },
+  {
+   "date": "2014-09-16",
+   "exchange": null,
+   "name": "SOMO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-09-16",
+   "exchange": null,
+   "name": "USA RESTAURANTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-09-15",
+   "exchange": null,
+   "name": "VANTAGE ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-09-15",
+   "exchange": null,
+   "name": "ISOLA GROUP LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-09-15",
+   "exchange": null,
+   "name": "DINOCO OIL, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2014-09-12",
+   "exchange": "Nasdaq National Market",
+   "name": "REWALK ROBOTICS LTD.",
+   "numberOfShares": 3000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "RWLK",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2014-09-12",
+   "exchange": "Nasdaq National Market",
+   "name": "AFFIMED N.V.",
+   "numberOfShares": 8000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "AFMD",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2014-09-12",
+   "exchange": null,
+   "name": "MP VENTURES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2014-09-12",
+   "exchange": null,
+   "name": "ISRAEL CHEMICALS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ICL",
+   "totalSharesValue": 421107001
+  },
+  {
+   "date": "2014-09-11",
+   "exchange": null,
+   "name": "LOCKBOX LINK, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LBLI",
+   "totalSharesValue": 236125
+  },
+  {
+   "date": "2014-09-08",
+   "exchange": null,
+   "name": "ECM ENERGY SERVICES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-09-04",
+   "exchange": null,
+   "name": "GALENFEHA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1282000
+  },
+  {
+   "date": "2014-09-03",
+   "exchange": null,
+   "name": "FRONTERA GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 406250
+  },
+  {
+   "date": "2014-09-03",
+   "exchange": null,
+   "name": "CORBUS PHARMACEUTICALS HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20206636
+  },
+  {
+   "date": "2014-09-03",
+   "exchange": null,
+   "name": "ABV CONSULTING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 53300
+  },
+  {
+   "date": "2014-09-02",
+   "exchange": null,
+   "name": "U.S. DRY CLEANING SERVICES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DCLN",
+   "totalSharesValue": 16100000
+  }
+ ]
+}

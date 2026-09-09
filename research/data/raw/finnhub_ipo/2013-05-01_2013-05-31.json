@@ -1,0 +1,587 @@
+{
+ "from": "2013-05-01",
+ "to": "2013-05-31",
+ "fetched_at": "2026-09-09T01:23:55.499210+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2013-05-31",
+   "exchange": "Nasdaq National Market",
+   "name": "KAMADA LTD",
+   "numberOfShares": 5582636,
+   "price": "9.25",
+   "status": "priced",
+   "symbol": "KMDA",
+   "totalSharesValue": 51639383
+  },
+  {
+   "date": "2013-05-31",
+   "exchange": "Nasdaq National Market",
+   "name": "EPIZYME, INC.",
+   "numberOfShares": 5142000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "EPZM",
+   "totalSharesValue": 77130000
+  },
+  {
+   "date": "2013-05-31",
+   "exchange": "OTCBB",
+   "name": "SALEEN AUTOMOTIVE, INC.",
+   "numberOfShares": 2000000,
+   "price": "0.55",
+   "status": "priced",
+   "symbol": "SLNN",
+   "totalSharesValue": 1100000
+  },
+  {
+   "date": "2013-05-31",
+   "exchange": null,
+   "name": "CELATOR PHARMACEUTICALS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 52905738.26
+  },
+  {
+   "date": "2013-05-31",
+   "exchange": null,
+   "name": "SOELLINGEN ADVISORY GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 43100
+  },
+  {
+   "date": "2013-05-30",
+   "exchange": null,
+   "name": "BAUSCH & LOMB HOLDINGS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-05-30",
+   "exchange": null,
+   "name": "KISMET INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2013-05-29",
+   "exchange": null,
+   "name": "INTELLISENSE SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 65033
+  },
+  {
+   "date": "2013-05-28",
+   "exchange": null,
+   "name": "COSMO VENTURES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2013-05-23",
+   "exchange": "New York Stock Exchange",
+   "name": "CHANNELADVISOR CORP",
+   "numberOfShares": 5750000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ECOM",
+   "totalSharesValue": 80500000
+  },
+  {
+   "date": "2013-05-23",
+   "exchange": "New York Stock Exchange",
+   "name": "GLOBAL BRASS & COPPER HOLDINGS, INC.",
+   "numberOfShares": 7000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "BRSS",
+   "totalSharesValue": 77000000
+  },
+  {
+   "date": "2013-05-23",
+   "exchange": "New York Stock Exchange",
+   "name": "PLY GEM HOLDINGS INC",
+   "numberOfShares": 15789474,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "PGEM",
+   "totalSharesValue": 331578954
+  },
+  {
+   "date": "2013-05-23",
+   "exchange": null,
+   "name": "POWERMEDCHAIRS",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20400
+  },
+  {
+   "date": "2013-05-23",
+   "exchange": null,
+   "name": "ENVOY GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 37500
+  },
+  {
+   "date": "2013-05-23",
+   "exchange": null,
+   "name": "GALENFEHA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 455000
+  },
+  {
+   "date": "2013-05-22",
+   "exchange": "Nasdaq National Market",
+   "name": "PORTOLA PHARMACEUTICALS INC",
+   "numberOfShares": 8422758,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "PTLA",
+   "totalSharesValue": 122129991
+  },
+  {
+   "date": "2013-05-22",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ARCTURUS THERAPEUTICS LTD.",
+   "numberOfShares": 3125000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "ADHD",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2013-05-22",
+   "exchange": null,
+   "name": "OROPLATA RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 45000
+  },
+  {
+   "date": "2013-05-22",
+   "exchange": null,
+   "name": "MADISON VENTURES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 185000
+  },
+  {
+   "date": "2013-05-21",
+   "exchange": null,
+   "name": "ESCO CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-05-20",
+   "exchange": null,
+   "name": "GULFSTREAM CAPITAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000
+  },
+  {
+   "date": "2013-05-17",
+   "exchange": null,
+   "name": "FUSIONSTORM GLOBAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-05-17",
+   "exchange": null,
+   "name": "ASPEN AEROGELS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-05-17",
+   "exchange": "New York Stock Exchange",
+   "name": "TABLEAU SOFTWARE INC",
+   "numberOfShares": 8200000,
+   "price": "31.00",
+   "status": "priced",
+   "symbol": "DATA",
+   "totalSharesValue": 254200000
+  },
+  {
+   "date": "2013-05-17",
+   "exchange": "Nasdaq National Market",
+   "name": "MARKETO, INC.",
+   "numberOfShares": 6059509,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "MKTO",
+   "totalSharesValue": 78773617
+  },
+  {
+   "date": "2013-05-16",
+   "exchange": "New York Stock Exchange",
+   "name": "WILLIAM LYON HOMES",
+   "numberOfShares": 8700000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "WLH",
+   "totalSharesValue": 217500000
+  },
+  {
+   "date": "2013-05-16",
+   "exchange": "Nasdaq National Market",
+   "name": "AMBIT BIOSCIENCES CORP",
+   "numberOfShares": 8125000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "AMBI",
+   "totalSharesValue": 65000000
+  },
+  {
+   "date": "2013-05-16",
+   "exchange": "Nasdaq National Market",
+   "name": "FRONTEO, INC.",
+   "numberOfShares": 1100000,
+   "price": "8.38",
+   "status": "priced",
+   "symbol": "UBIC",
+   "totalSharesValue": 9218000
+  },
+  {
+   "date": "2013-05-16",
+   "exchange": null,
+   "name": "VETRO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2013-05-15",
+   "exchange": null,
+   "name": "KBS INTERNATIONAL HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-05-15",
+   "exchange": null,
+   "name": "ZLATO INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2013-05-15",
+   "exchange": null,
+   "name": "COMHEAR, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3792825
+  },
+  {
+   "date": "2013-05-14",
+   "exchange": "New York Stock Exchange",
+   "name": "TALLGRASS ENERGY PARTNERS, LP",
+   "numberOfShares": 13050000,
+   "price": "21.50",
+   "status": "priced",
+   "symbol": "TEP",
+   "totalSharesValue": 280575000
+  },
+  {
+   "date": "2013-05-13",
+   "exchange": null,
+   "name": "MACCO INTERNATIONAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 63400
+  },
+  {
+   "date": "2013-05-13",
+   "exchange": null,
+   "name": "PORT OF CALL ONLINE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 64000
+  },
+  {
+   "date": "2013-05-13",
+   "exchange": null,
+   "name": "CONSTELLIUM SE",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CSTM",
+   "totalSharesValue": 333333330
+  },
+  {
+   "date": "2013-05-10",
+   "exchange": "Nasdaq National Market",
+   "name": "FIRST NBC BANK HOLDING CO",
+   "numberOfShares": 4166667,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "NBCB",
+   "totalSharesValue": 100000008
+  },
+  {
+   "date": "2013-05-10",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "LINDBLAD EXPEDITIONS HOLDINGS, INC.",
+   "numberOfShares": 18000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CLACU",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2013-05-10",
+   "exchange": "New York Stock Exchange",
+   "name": "BIOAMBER INC.",
+   "numberOfShares": 8000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BIOAU",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2013-05-09",
+   "exchange": "Nasdaq National Market",
+   "name": "TRISTATE CAPITAL HOLDINGS, INC.",
+   "numberOfShares": 5700000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "TSC",
+   "totalSharesValue": 65550000
+  },
+  {
+   "date": "2013-05-09",
+   "exchange": "New York Stock Exchange",
+   "name": "CYAN INC",
+   "numberOfShares": 8000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "CYNI",
+   "totalSharesValue": 88000000
+  },
+  {
+   "date": "2013-05-09",
+   "exchange": "Nasdaq National Market",
+   "name": "RECEPTOS, INC.",
+   "numberOfShares": 5200000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "RCPT",
+   "totalSharesValue": 72800000
+  },
+  {
+   "date": "2013-05-09",
+   "exchange": "New York Stock Exchange",
+   "name": "AMERICAN RESIDENTIAL PROPERTIES, INC.",
+   "numberOfShares": 13700500,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "ARPI",
+   "totalSharesValue": 287710500
+  },
+  {
+   "date": "2013-05-09",
+   "exchange": "New York Stock Exchange",
+   "name": "EMERGE ENERGY SERVICES LP",
+   "numberOfShares": 7500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "EMES",
+   "totalSharesValue": 127500000
+  },
+  {
+   "date": "2013-05-09",
+   "exchange": "New York Stock Exchange",
+   "name": "PNMAC HOLDINGS, INC.",
+   "numberOfShares": 11111111,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "PFSI",
+   "totalSharesValue": 199999998
+  },
+  {
+   "date": "2013-05-09",
+   "exchange": "New York Stock Exchange",
+   "name": "IQVIA HOLDINGS INC.",
+   "numberOfShares": 23684210,
+   "price": "40.00",
+   "status": "priced",
+   "symbol": "Q",
+   "totalSharesValue": 947368400
+  },
+  {
+   "date": "2013-05-08",
+   "exchange": "New York Stock Exchange",
+   "name": "ARMADA HOFFLER PROPERTIES, INC.",
+   "numberOfShares": 16525000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "AHH",
+   "totalSharesValue": 190037500
+  },
+  {
+   "date": "2013-05-07",
+   "exchange": null,
+   "name": "QUICKSILVER PRODUCTION PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-05-07",
+   "exchange": "OTCBB",
+   "name": "CALIFORNIA GOLD CORP.",
+   "numberOfShares": 100000000,
+   "price": "0.005",
+   "status": "priced",
+   "symbol": "CLGL",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2013-05-07",
+   "exchange": null,
+   "name": "ALTIMO GROUP CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-05-03",
+   "exchange": "Nasdaq National Market",
+   "name": "QIWI",
+   "numberOfShares": 12500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "QIWI",
+   "totalSharesValue": 212500000
+  },
+  {
+   "date": "2013-05-03",
+   "exchange": null,
+   "name": "ANYTRANSLATION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2013-05-02",
+   "exchange": null,
+   "name": "BIOSTAGE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-05-02",
+   "exchange": "Nasdaq National Market",
+   "name": "INSYS THERAPEUTICS, INC.",
+   "numberOfShares": 4000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "INSY",
+   "totalSharesValue": 32000000
+  },
+  {
+   "date": "2013-05-02",
+   "exchange": "New York Stock Exchange",
+   "name": "VOYA FINANCIAL, INC.",
+   "numberOfShares": 65192307,
+   "price": "19.50",
+   "status": "priced",
+   "symbol": "VOYA",
+   "totalSharesValue": 1271249987
+  },
+  {
+   "date": "2013-05-02",
+   "exchange": null,
+   "name": "COLONY AMERICAN HOMES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CAHS",
+   "totalSharesValue": 299000000
+  },
+  {
+   "date": "2013-05-01",
+   "exchange": "New York Stock Exchange",
+   "name": "ELLINGTON RESIDENTIAL MORTGAGE REIT",
+   "numberOfShares": 6450000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "EARN",
+   "totalSharesValue": 129000000
+  },
+  {
+   "date": "2013-05-01",
+   "exchange": "Nasdaq National Market",
+   "name": "GW PHARMACEUTICALS PLC",
+   "numberOfShares": 3500000,
+   "price": "8.90",
+   "status": "priced",
+   "symbol": "GWPH",
+   "totalSharesValue": 31150000
+  }
+ ]
+}

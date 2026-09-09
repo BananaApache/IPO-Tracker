@@ -1,0 +1,437 @@
+{
+ "from": "2013-09-01",
+ "to": "2013-09-30",
+ "fetched_at": "2026-09-09T01:24:03.594542+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2013-09-27",
+   "exchange": "Nasdaq National Market",
+   "name": "PATTERN ENERGY GROUP INC.",
+   "numberOfShares": 16000000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "PEGI",
+   "totalSharesValue": 352000000
+  },
+  {
+   "date": "2013-09-27",
+   "exchange": "Nasdaq National Market",
+   "name": "ENZYMOTEC LTD.",
+   "numberOfShares": 4412000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ENZY",
+   "totalSharesValue": 61768000
+  },
+  {
+   "date": "2013-09-27",
+   "exchange": "New York Stock Exchange",
+   "name": "RINGCENTRAL, INC.",
+   "numberOfShares": 7500000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "RNG",
+   "totalSharesValue": 97500000
+  },
+  {
+   "date": "2013-09-27",
+   "exchange": "New York Stock Exchange",
+   "name": "VIOLIN MEMORY INC",
+   "numberOfShares": 18000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "VMEM",
+   "totalSharesValue": 162000000
+  },
+  {
+   "date": "2013-09-27",
+   "exchange": null,
+   "name": "STARPOINT GENERAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 32000
+  },
+  {
+   "date": "2013-09-27",
+   "exchange": null,
+   "name": "TRAVELSAFE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 95000
+  },
+  {
+   "date": "2013-09-26",
+   "exchange": "Nasdaq National Market",
+   "name": "APPLIED OPTOELECTRONICS, INC.",
+   "numberOfShares": 3600000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AAOI",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2013-09-26",
+   "exchange": "Nasdaq National Market",
+   "name": "MONTAGE TECHNOLOGY GROUP LTD",
+   "numberOfShares": 7100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MONT",
+   "totalSharesValue": 71000000
+  },
+  {
+   "date": "2013-09-26",
+   "exchange": "Nasdaq National Market",
+   "name": "PREMIER, INC.",
+   "numberOfShares": 28151958,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "PINC",
+   "totalSharesValue": 760102866
+  },
+  {
+   "date": "2013-09-26",
+   "exchange": "Nasdaq National Market",
+   "name": "COVISINT CORP",
+   "numberOfShares": 6400000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "COVS",
+   "totalSharesValue": 64000000
+  },
+  {
+   "date": "2013-09-26",
+   "exchange": null,
+   "name": "SUNCHIP TECHNOLOGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2013-09-26",
+   "exchange": null,
+   "name": "NUTRAFUELS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3399994
+  },
+  {
+   "date": "2013-09-25",
+   "exchange": null,
+   "name": "SONANT SYSTEMS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-09-25",
+   "exchange": "Nasdaq National Market",
+   "name": "IVERIC BIO, INC.",
+   "numberOfShares": 7600000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "OPHT",
+   "totalSharesValue": 167200000
+  },
+  {
+   "date": "2013-09-25",
+   "exchange": "Nasdaq National Market",
+   "name": "FOUNDATION MEDICINE, INC.",
+   "numberOfShares": 5888888,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "FMI",
+   "totalSharesValue": 105999984
+  },
+  {
+   "date": "2013-09-25",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "EVOKE PHARMA INC",
+   "numberOfShares": 2100000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "EVOK",
+   "totalSharesValue": 25200000
+  },
+  {
+   "date": "2013-09-20",
+   "exchange": null,
+   "name": "BABYLON LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-09-20",
+   "exchange": "Nasdaq National Market",
+   "name": "FIREEYE, INC.",
+   "numberOfShares": 15175000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "FEYE",
+   "totalSharesValue": 303500000
+  },
+  {
+   "date": "2013-09-20",
+   "exchange": "Nasdaq National Market",
+   "name": "DNIB UNWIND, INC.",
+   "numberOfShares": 4700000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "BIND",
+   "totalSharesValue": 70500000
+  },
+  {
+   "date": "2013-09-20",
+   "exchange": "Nasdaq National Market",
+   "name": "ROCKET FUEL INC.",
+   "numberOfShares": 4000000,
+   "price": "29.00",
+   "status": "priced",
+   "symbol": "FUEL",
+   "totalSharesValue": 116000000
+  },
+  {
+   "date": "2013-09-20",
+   "exchange": "New York Stock Exchange",
+   "name": "CLUBCORP HOLDINGS, INC.",
+   "numberOfShares": 18000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MYCC",
+   "totalSharesValue": 252000000
+  },
+  {
+   "date": "2013-09-20",
+   "exchange": null,
+   "name": "AMERICAN RIDING TOURS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3000
+  },
+  {
+   "date": "2013-09-19",
+   "exchange": "Nasdaq National Market",
+   "name": "ACCELERON PHARMA INC",
+   "numberOfShares": 5580000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "XLRN",
+   "totalSharesValue": 83700000
+  },
+  {
+   "date": "2013-09-19",
+   "exchange": null,
+   "name": "OVERTECH CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-09-18",
+   "exchange": "Nasdaq National Market",
+   "name": "BENEFITFOCUS,INC.",
+   "numberOfShares": 4935000,
+   "price": "26.50",
+   "status": "priced",
+   "symbol": "BNFT",
+   "totalSharesValue": 130777500
+  },
+  {
+   "date": "2013-09-18",
+   "exchange": "Nasdaq National Market",
+   "name": "FIVE PRIME THERAPEUTICS, INC.",
+   "numberOfShares": 4800000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "FPRX",
+   "totalSharesValue": 62400000
+  },
+  {
+   "date": "2013-09-18",
+   "exchange": "New York Stock Exchange",
+   "name": "CONTROLADORA VUELA COMPANIA DE AVIACION, S.A.B. DE C.V.",
+   "numberOfShares": 22646900,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "VLRS",
+   "totalSharesValue": 271762800
+  },
+  {
+   "date": "2013-09-17",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ROI ACQUISITION CORP. II",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ROIQU",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2013-09-16",
+   "exchange": null,
+   "name": "BLEACH GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-09-16",
+   "exchange": null,
+   "name": "KNOWLEDGE MACHINE INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2013-09-13",
+   "exchange": "New York Stock Exchange",
+   "name": "CINER RESOURCES LP",
+   "numberOfShares": 5000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "OCIR",
+   "totalSharesValue": 95000000
+  },
+  {
+   "date": "2013-09-13",
+   "exchange": null,
+   "name": "STARBOARD RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 43268176
+  },
+  {
+   "date": "2013-09-13",
+   "exchange": null,
+   "name": "FUELS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 102000
+  },
+  {
+   "date": "2013-09-13",
+   "exchange": null,
+   "name": "IXIR PRODUCTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2013-09-12",
+   "exchange": null,
+   "name": "NEIMAN MARCUS GROUP LTD LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-09-11",
+   "exchange": null,
+   "name": "BAYVIEW MORTGAGE CAPITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-09-11",
+   "exchange": null,
+   "name": "ACTIVE WITH ME INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 72200
+  },
+  {
+   "date": "2013-09-11",
+   "exchange": null,
+   "name": "FANGMAX ARTIFACTS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 76914039
+  },
+  {
+   "date": "2013-09-09",
+   "exchange": null,
+   "name": "WINHA INTERNATIONAL GROUP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 509250
+  },
+  {
+   "date": "2013-09-06",
+   "exchange": null,
+   "name": "MASONITE INTERNATIONAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-09-05",
+   "exchange": null,
+   "name": "APPYEA, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 349722
+  },
+  {
+   "date": "2013-09-05",
+   "exchange": null,
+   "name": "FALCONRIDGE OIL TECHNOLOGIES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FROT",
+   "totalSharesValue": 9730500
+  },
+  {
+   "date": "2013-09-04",
+   "exchange": null,
+   "name": "REXIT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  }
+ ]
+}

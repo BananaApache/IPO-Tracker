@@ -1,0 +1,367 @@
+{
+ "from": "2011-11-01",
+ "to": "2011-11-30",
+ "fetched_at": "2026-09-09T01:23:19.482028+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2011-11-30",
+   "exchange": null,
+   "name": "MARATHON BAR CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2011-11-29",
+   "exchange": null,
+   "name": "SAFEDOX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 9113013
+  },
+  {
+   "date": "2011-11-29",
+   "exchange": null,
+   "name": "OLIE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000
+  },
+  {
+   "date": "2011-11-28",
+   "exchange": null,
+   "name": "GYSAN HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 218300
+  },
+  {
+   "date": "2011-11-23",
+   "exchange": null,
+   "name": "XR ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 704700
+  },
+  {
+   "date": "2011-11-22",
+   "exchange": null,
+   "name": "ILOAN INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-11-21",
+   "exchange": null,
+   "name": "GENERAL AIRCRAFT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 35000
+  },
+  {
+   "date": "2011-11-18",
+   "exchange": "New York Stock Exchange",
+   "name": "MANNING & NAPIER, INC.",
+   "numberOfShares": 12500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "MN",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2011-11-18",
+   "exchange": "Nasdaq National Market",
+   "name": "INTERMOLECULAR INC",
+   "numberOfShares": 9650000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IMI",
+   "totalSharesValue": 96500000
+  },
+  {
+   "date": "2011-11-18",
+   "exchange": "Nasdaq National Market",
+   "name": "MATTRESS FIRM HOLDING CORP.",
+   "numberOfShares": 5555555,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "MFRM",
+   "totalSharesValue": 105555545
+  },
+  {
+   "date": "2011-11-18",
+   "exchange": "New York Stock Exchange",
+   "name": "DIGITAL DOMAIN MEDIA GROUP, INC.",
+   "numberOfShares": 4920000,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "DDMG",
+   "totalSharesValue": 41820000
+  },
+  {
+   "date": "2011-11-18",
+   "exchange": null,
+   "name": "PAZOO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1060
+  },
+  {
+   "date": "2011-11-18",
+   "exchange": null,
+   "name": "CHINA XINGBANG INDUSTRY GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2009600
+  },
+  {
+   "date": "2011-11-17",
+   "exchange": "Nasdaq National Market",
+   "name": "ANGIE'S LIST, INC.",
+   "numberOfShares": 8793408,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "ANGI",
+   "totalSharesValue": 114314304
+  },
+  {
+   "date": "2011-11-17",
+   "exchange": "New York Stock Exchange",
+   "name": "APTIV PLC",
+   "numberOfShares": 24078827,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "DLPH",
+   "totalSharesValue": 529734194
+  },
+  {
+   "date": "2011-11-16",
+   "exchange": "Nasdaq National Market",
+   "name": "CLOVIS ONCOLOGY, INC.",
+   "numberOfShares": 10000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "CLVS",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2011-11-16",
+   "exchange": "New York Stock Exchange",
+   "name": "INVENSENSE INC",
+   "numberOfShares": 10000000,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "INVN",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2011-11-16",
+   "exchange": null,
+   "name": "BNET MEDIA GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-11-15",
+   "exchange": "New York Stock Exchange",
+   "name": "UNITED STATES COMMODITY INDEX FUNDS TRUST",
+   "numberOfShares": 30000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "CPER",
+   "totalSharesValue": 750000000
+  },
+  {
+   "date": "2011-11-14",
+   "exchange": "New York Stock Exchange",
+   "name": "CHESAPEAKE ENERGY CORP",
+   "numberOfShares": 20000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "CHKR",
+   "totalSharesValue": 380000000
+  },
+  {
+   "date": "2011-11-14",
+   "exchange": "Nasdaq National Market",
+   "name": "LUMOS PHARMA, INC.",
+   "numberOfShares": 6200000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "NLNK",
+   "totalSharesValue": 43400000
+  },
+  {
+   "date": "2011-11-14",
+   "exchange": null,
+   "name": "EUROCAN HOLDINGS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "EURC",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2011-11-11",
+   "exchange": "New York Stock Exchange",
+   "name": "LRR ENERGY, L.P.",
+   "numberOfShares": 9408000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "LRE",
+   "totalSharesValue": 178752000
+  },
+  {
+   "date": "2011-11-10",
+   "exchange": null,
+   "name": "ONE WORLD HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 329466.6
+  },
+  {
+   "date": "2011-11-09",
+   "exchange": "New York Stock Exchange",
+   "name": "IMPERVA INC",
+   "numberOfShares": 5000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "IMPV",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2011-11-08",
+   "exchange": "OTCBB",
+   "name": "HEALTHCARE CORP OF AMERICA",
+   "numberOfShares": 2000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SWCAU",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2011-11-08",
+   "exchange": null,
+   "name": "BRK, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 312500
+  },
+  {
+   "date": "2011-11-07",
+   "exchange": null,
+   "name": "SOUTH VALLEY BANCORP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-11-07",
+   "exchange": null,
+   "name": "FIRST SOCIAL NETWORX CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 45000
+  },
+  {
+   "date": "2011-11-07",
+   "exchange": null,
+   "name": "SSTL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SSTL",
+   "totalSharesValue": 71500
+  },
+  {
+   "date": "2011-11-07",
+   "exchange": null,
+   "name": "PACIFIC DRILLING S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PACD",
+   "totalSharesValue": 49500000
+  },
+  {
+   "date": "2011-11-04",
+   "exchange": "New York Stock Exchange",
+   "name": "EAST DUBUQUE NITROGEN PARTNERS, L.P.",
+   "numberOfShares": 15000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "RNF",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2011-11-04",
+   "exchange": "Nasdaq National Market",
+   "name": "GROUPON, INC.",
+   "numberOfShares": 35000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "GRPN",
+   "totalSharesValue": 700000000
+  },
+  {
+   "date": "2011-11-04",
+   "exchange": null,
+   "name": "SECURE DIGITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 498750
+  },
+  {
+   "date": "2011-11-04",
+   "exchange": null,
+   "name": "ABC RECORDS MANAGEMENT & DATA STORAGE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 19600
+  },
+  {
+   "date": "2011-11-03",
+   "exchange": "New York Stock Exchange",
+   "name": "ENDURO RESOURCE PARTNERS LLC",
+   "numberOfShares": 13200000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "NDRO",
+   "totalSharesValue": 290400000
+  }
+ ]
+}

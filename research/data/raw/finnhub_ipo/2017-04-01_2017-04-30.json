@@ -1,0 +1,287 @@
+{
+ "from": "2017-04-01",
+ "to": "2017-04-30",
+ "fetched_at": "2026-09-09T01:25:29.548118+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-04-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "NCS MULTISTAGE HOLDINGS, INC.",
+   "numberOfShares": 9500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "NCSM",
+   "totalSharesValue": 161500000
+  },
+  {
+   "date": "2017-04-28",
+   "exchange": "NYSE",
+   "name": "CHINA RAPID FINANCE LTD",
+   "numberOfShares": 10000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "XRF",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2017-04-28",
+   "exchange": "NYSE",
+   "name": "CLOUDERA, INC.",
+   "numberOfShares": 15000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CLDR",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2017-04-28",
+   "exchange": "NYSE",
+   "name": "CARVANA CO.",
+   "numberOfShares": 15000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CVNA",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2017-04-28",
+   "exchange": "NYSE",
+   "name": "EMERALD HOLDING, INC.",
+   "numberOfShares": 15500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "EEX",
+   "totalSharesValue": 263500000
+  },
+  {
+   "date": "2017-04-28",
+   "exchange": null,
+   "name": "GPM PETROLEUM LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GPMP",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2017-04-27",
+   "exchange": null,
+   "name": "YANGTZE RIVER PORT & LOGISTICS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-04-27",
+   "exchange": "NYSE",
+   "name": "FLOOR & DECOR HOLDINGS, INC.",
+   "numberOfShares": 8823500,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "FND",
+   "totalSharesValue": 185293500
+  },
+  {
+   "date": "2017-04-26",
+   "exchange": "NASDAQ Capital",
+   "name": "CATASYS, INC.",
+   "numberOfShares": 3125000,
+   "price": "4.80",
+   "status": "priced",
+   "symbol": "CATS",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2017-04-24",
+   "exchange": null,
+   "name": "YI XI XIN INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2017-04-21",
+   "exchange": "NYSE",
+   "name": "SELECT ENERGY SERVICES, INC.",
+   "numberOfShares": 8700000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "WTTR",
+   "totalSharesValue": 121800000
+  },
+  {
+   "date": "2017-04-19",
+   "exchange": null,
+   "name": "CICLET HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 135000
+  },
+  {
+   "date": "2017-04-18",
+   "exchange": null,
+   "name": "RED FISH HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-04-17",
+   "exchange": null,
+   "name": "WRAP TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3999999
+  },
+  {
+   "date": "2017-04-13",
+   "exchange": "NYSE",
+   "name": "WARRIOR MET COAL, INC.",
+   "numberOfShares": 16666667,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "HCC",
+   "totalSharesValue": 316666673
+  },
+  {
+   "date": "2017-04-13",
+   "exchange": "NASDAQ Global Select",
+   "name": "TOCAGEN INC",
+   "numberOfShares": 8500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TOCA",
+   "totalSharesValue": 85000000
+  },
+  {
+   "date": "2017-04-13",
+   "exchange": "NYSE",
+   "name": "YEXT, INC.",
+   "numberOfShares": 10500000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "YEXT",
+   "totalSharesValue": 115500000
+  },
+  {
+   "date": "2017-04-13",
+   "exchange": "NYSE",
+   "name": "CADENCE BANCORPORATION",
+   "numberOfShares": 7500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "CADE",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2017-04-12",
+   "exchange": "NYSE",
+   "name": "NETSHOES (CAYMAN) LTD.",
+   "numberOfShares": 8250000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "NETS",
+   "totalSharesValue": 148500000
+  },
+  {
+   "date": "2017-04-11",
+   "exchange": "NASDAQ Capital",
+   "name": "VANTAGE ENERGY ACQUISITION CORP.",
+   "numberOfShares": 48000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VEACU",
+   "totalSharesValue": 480000000
+  },
+  {
+   "date": "2017-04-07",
+   "exchange": "NASDAQ Global Select",
+   "name": "OKTA, INC.",
+   "numberOfShares": 11000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "OKTA",
+   "totalSharesValue": 187000000
+  },
+  {
+   "date": "2017-04-07",
+   "exchange": "NASDAQ Capital",
+   "name": "CONVERGEONE HOLDINGS, INC.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FMCIU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2017-04-06",
+   "exchange": "NYSE",
+   "name": "SCHNEIDER NATIONAL, INC.",
+   "numberOfShares": 28947000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "SNDR",
+   "totalSharesValue": 549993000
+  },
+  {
+   "date": "2017-04-06",
+   "exchange": "NYSE",
+   "name": "ELEVATE CREDIT, INC.",
+   "numberOfShares": 12400000,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "ELVT",
+   "totalSharesValue": 80600000
+  },
+  {
+   "date": "2017-04-05",
+   "exchange": "NYSE",
+   "name": "HESS MIDSTREAM OPERATIONS LP",
+   "numberOfShares": 14780000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "HESM",
+   "totalSharesValue": 339940000
+  },
+  {
+   "date": "2017-04-04",
+   "exchange": null,
+   "name": "SIDOTI & COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-04-03",
+   "exchange": null,
+   "name": "VERONA PHARMA PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "VRNA",
+   "totalSharesValue": 77868000
+  },
+  {
+   "date": "2017-04-03",
+   "exchange": null,
+   "name": "ZYMEWORKS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ZYME",
+   "totalSharesValue": 58500000
+  }
+ ]
+}

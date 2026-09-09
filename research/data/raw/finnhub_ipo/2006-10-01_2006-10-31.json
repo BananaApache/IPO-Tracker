@@ -1,0 +1,397 @@
+{
+ "from": "2006-10-01",
+ "to": "2006-10-31",
+ "fetched_at": "2026-09-09T01:21:17.452472+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2006-10-27",
+   "exchange": "Nasdaq National Market",
+   "name": "OPTIUM CORP",
+   "numberOfShares": 5200000,
+   "price": "17.50",
+   "status": "priced",
+   "symbol": "OPTM",
+   "totalSharesValue": 91000000
+  },
+  {
+   "date": "2006-10-26",
+   "exchange": null,
+   "name": "ITALK INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-26",
+   "exchange": "Nasdaq National Market",
+   "name": "ACHILLION PHARMACEUTICALS INC",
+   "numberOfShares": 4500000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "ACHN",
+   "totalSharesValue": 51750000
+  },
+  {
+   "date": "2006-10-25",
+   "exchange": null,
+   "name": "ALLIANCE CORPORATE GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-25",
+   "exchange": "Nasdaq National Market",
+   "name": "CADENCE PHARMACEUTICALS INC",
+   "numberOfShares": 6000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "CADX",
+   "totalSharesValue": 54000000
+  },
+  {
+   "date": "2006-10-25",
+   "exchange": "New York Stock Exchange",
+   "name": "NEW MEDIA INVESTMENT GROUP INC",
+   "numberOfShares": 13800000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "GHS",
+   "totalSharesValue": 248400000
+  },
+  {
+   "date": "2006-10-25",
+   "exchange": "Nasdaq National Market",
+   "name": "EAGLE ROCK ENERGY PARTNERS L P",
+   "numberOfShares": 12500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "EROC",
+   "totalSharesValue": 237500000
+  },
+  {
+   "date": "2006-10-24",
+   "exchange": null,
+   "name": "PETRIE PARKMAN & CO., INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-24",
+   "exchange": "New York Stock Exchange",
+   "name": "DOUGLAS EMMETT INC",
+   "numberOfShares": 66000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "DEI",
+   "totalSharesValue": 1386000000
+  },
+  {
+   "date": "2006-10-23",
+   "exchange": null,
+   "name": "HUNT GLOBAL RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-20",
+   "exchange": null,
+   "name": "BIOVEX GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-20",
+   "exchange": "American Stock Exchange",
+   "name": "GRANAHAN MCCOURT ACQUISITION CORP",
+   "numberOfShares": 11250000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "GHN.U",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2006-10-20",
+   "exchange": "Nasdaq National Market",
+   "name": "EXLSERVICE HOLDINGS, INC.",
+   "numberOfShares": 5000000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "EXLS",
+   "totalSharesValue": 67500000
+  },
+  {
+   "date": "2006-10-19",
+   "exchange": null,
+   "name": "MADISON RIVER DISCOVERY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-19",
+   "exchange": "Nasdaq National Market",
+   "name": "SUSSER HOLDINGS CORP",
+   "numberOfShares": 6500000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "SUSS",
+   "totalSharesValue": 107250000
+  },
+  {
+   "date": "2006-10-19",
+   "exchange": "Nasdaq National Market",
+   "name": "LEMAITRE VASCULAR INC",
+   "numberOfShares": 5500000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "LMAT",
+   "totalSharesValue": 38500000
+  },
+  {
+   "date": "2006-10-19",
+   "exchange": "American Stock Exchange",
+   "name": "MONTVALE TECHNOLOGIES, INC.",
+   "numberOfShares": 2500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "II",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2006-10-18",
+   "exchange": "Nasdaq National Market",
+   "name": "TRUBION PHARMACEUTICALS, INC",
+   "numberOfShares": 4000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "TRBN",
+   "totalSharesValue": 52000000
+  },
+  {
+   "date": "2006-10-18",
+   "exchange": "New York Stock Exchange",
+   "name": "STANLEY, INC.",
+   "numberOfShares": 6300000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "SXE",
+   "totalSharesValue": 81900000
+  },
+  {
+   "date": "2006-10-18",
+   "exchange": "New York Stock Exchange",
+   "name": "FIRST MERCURY FINANCIAL CORP",
+   "numberOfShares": 9705882,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "FMR",
+   "totalSharesValue": 164999994
+  },
+  {
+   "date": "2006-10-17",
+   "exchange": "Nasdaq National Market",
+   "name": "ARCHROCK PARTNERS, L.P.",
+   "numberOfShares": 5500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "UCLP",
+   "totalSharesValue": 115500000
+  },
+  {
+   "date": "2006-10-13",
+   "exchange": "OTCBB",
+   "name": "CYTRX ONCOLOGY CORP",
+   "numberOfShares": 8362852,
+   "price": "3.70",
+   "status": "priced",
+   "symbol": "IVPH",
+   "totalSharesValue": 30942552
+  },
+  {
+   "date": "2006-10-13",
+   "exchange": "Nasdaq National Market",
+   "name": "ACME PACKET INC",
+   "numberOfShares": 11474528,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "APKT",
+   "totalSharesValue": 109008016
+  },
+  {
+   "date": "2006-10-13",
+   "exchange": "Nasdaq National Market",
+   "name": "EHEALTH, INC.",
+   "numberOfShares": 5000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "EHTH",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2006-10-13",
+   "exchange": "Nasdaq National Market",
+   "name": "ULTRAPETROL BAHAMAS LTD",
+   "numberOfShares": 12500000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ULTR",
+   "totalSharesValue": 137500000
+  },
+  {
+   "date": "2006-10-13",
+   "exchange": "OTCBB",
+   "name": "FORTISSIMO ACQUISITION CORP.",
+   "numberOfShares": 4000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "FSMOU",
+   "totalSharesValue": 24000000
+  },
+  {
+   "date": "2006-10-13",
+   "exchange": "New York Stock Exchange",
+   "name": "LEIDOS HOLDINGS, INC.",
+   "numberOfShares": 75000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SAI",
+   "totalSharesValue": 1125000000
+  },
+  {
+   "date": "2006-10-12",
+   "exchange": null,
+   "name": "EL POLLO LOCO HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-12",
+   "exchange": null,
+   "name": "HEXION INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-06",
+   "exchange": "New York Stock Exchange",
+   "name": "DANAOS CORP",
+   "numberOfShares": 10250000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "DAC",
+   "totalSharesValue": 215250000
+  },
+  {
+   "date": "2006-10-04",
+   "exchange": null,
+   "name": "PHONEX HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-04",
+   "exchange": null,
+   "name": "ALSIUS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-04",
+   "exchange": null,
+   "name": "RF ODYSSEY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-04",
+   "exchange": "OTCBB",
+   "name": "PRIMORIS SERVICES CORP",
+   "numberOfShares": 4500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "RPSDU",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2006-10-04",
+   "exchange": "Nasdaq National Market",
+   "name": "BREITBURN ENERGY PARTNERS LP",
+   "numberOfShares": 6000000,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "BBEP",
+   "totalSharesValue": 111000000
+  },
+  {
+   "date": "2006-10-04",
+   "exchange": null,
+   "name": "HOMEINNS HOTEL GROUP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HMIN",
+   "totalSharesValue": 109020000
+  },
+  {
+   "date": "2006-10-03",
+   "exchange": "Nasdaq National Market",
+   "name": "VIEWPOINT FINANCIAL GROUP",
+   "numberOfShares": 10091250,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "VPFG",
+   "totalSharesValue": 100912500
+  },
+  {
+   "date": "2006-10-02",
+   "exchange": null,
+   "name": "IBUYDIGITAL.COM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-10-02",
+   "exchange": "New York Stock Exchange",
+   "name": "WESTERN UNION CO",
+   "numberOfShares": 22000000,
+   "price": "19.20",
+   "status": "priced",
+   "symbol": "WU",
+   "totalSharesValue": 422400000
+  }
+ ]
+}

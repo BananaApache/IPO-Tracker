@@ -691,3 +691,36 @@ class TestRateLimitDetection:
         a.__cause__ = b
         b.__cause__ = a          # a cycle must not hang the walk
         assert _is_rate_limited(a) is False
+
+
+class TestModuleEntryPointIsLast:
+    """The `if __name__` block must be the final statement in a module.
+
+    This bit twice while notability.py was being extended: functions appended
+    after the block are not yet defined when it executes, so the CLI raised
+    NameError for a function plainly present in the file. A structural test is
+    cheaper than remembering.
+    """
+
+    def test_main_guard_is_the_last_statement(self):
+        import ast
+        import pathlib
+
+        for name in ("notability.py", "twitter_windows.py", "reddit_windows.py",
+                     "underpricing.py", "tiingo_prices.py", "wikipedia.py",
+                     "edgar_events.py", "nyt.py", "prices.py", "twitter.py",
+                     "finnhub_census.py", "edgar_enrich.py", "probe_sources.py"):
+            path = pathlib.Path("research/collect") / name
+            if not path.exists():
+                continue
+            tree = ast.parse(path.read_text())
+            guards = [i for i, node in enumerate(tree.body)
+                      if isinstance(node, ast.If)
+                      and ast.dump(node.test).find("__main__") != -1]
+            if not guards:
+                continue
+            assert guards[-1] == len(tree.body) - 1, (
+                f"{name}: the `if __name__` guard is at statement {guards[-1]} of "
+                f"{len(tree.body) - 1}; anything defined after it does not exist "
+                f"when it runs"
+            )

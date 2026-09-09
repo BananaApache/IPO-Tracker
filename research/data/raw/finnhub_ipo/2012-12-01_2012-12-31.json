@@ -1,0 +1,317 @@
+{
+ "from": "2012-12-01",
+ "to": "2012-12-31",
+ "fetched_at": "2026-09-09T01:23:45.547692+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2012-12-28",
+   "exchange": null,
+   "name": "SINGULEX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-12-28",
+   "exchange": null,
+   "name": "SAFETY-KLEEN, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-12-28",
+   "exchange": null,
+   "name": "EQUITRUST USA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2012-12-26",
+   "exchange": null,
+   "name": "WALLY WORLD MEDIA, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 548000
+  },
+  {
+   "date": "2012-12-24",
+   "exchange": null,
+   "name": "CAPALL STABLES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 270000
+  },
+  {
+   "date": "2012-12-24",
+   "exchange": null,
+   "name": "SPRIZA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-12-24",
+   "exchange": null,
+   "name": "CENTURYTOUCH LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1569500
+  },
+  {
+   "date": "2012-12-21",
+   "exchange": null,
+   "name": "BLUESTEM BRANDS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-12-20",
+   "exchange": null,
+   "name": "GLORI ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-12-20",
+   "exchange": null,
+   "name": "BASTA HOLDINGS, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2012-12-20",
+   "exchange": null,
+   "name": "TRANSLATION GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-12-19",
+   "exchange": null,
+   "name": "SONGWAVE INDUSTRIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-12-19",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "URBAN TEA, INC.",
+   "numberOfShares": 40000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CISAU",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2012-12-19",
+   "exchange": "New York Stock Exchange",
+   "name": "SPROTT PHYSICAL PLATINUM & PALLADIUM TRUST",
+   "numberOfShares": 28000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SPPP",
+   "totalSharesValue": 280000000
+  },
+  {
+   "date": "2012-12-18",
+   "exchange": null,
+   "name": "BOOMERS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2012-12-17",
+   "exchange": null,
+   "name": "ONLINE SECRETARY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 125000
+  },
+  {
+   "date": "2012-12-17",
+   "exchange": null,
+   "name": "VOZ MOBILE CLOUD LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2012-12-14",
+   "exchange": null,
+   "name": "PLANET PAYMENT INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-12-14",
+   "exchange": "New York Stock Exchange",
+   "name": "SILVER BAY REALTY TRUST CORP.",
+   "numberOfShares": 13250000,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "SBY",
+   "totalSharesValue": 245125000
+  },
+  {
+   "date": "2012-12-14",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "CHART ACQUISITION CORP.",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CACGU",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2012-12-13",
+   "exchange": "Nasdaq National Market",
+   "name": "SOLARCITY CORP",
+   "numberOfShares": 11500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "SCTY",
+   "totalSharesValue": 92000000
+  },
+  {
+   "date": "2012-12-13",
+   "exchange": "New York Stock Exchange",
+   "name": "PBF ENERGY INC.",
+   "numberOfShares": 20500000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "PBF",
+   "totalSharesValue": 533000000
+  },
+  {
+   "date": "2012-12-12",
+   "exchange": null,
+   "name": "SIPUP CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2012-12-10",
+   "exchange": null,
+   "name": "EPICURE CHARCOAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 180000
+  },
+  {
+   "date": "2012-12-07",
+   "exchange": null,
+   "name": "RIB-X PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-12-07",
+   "exchange": "New York Stock Exchange",
+   "name": "WESTERN MIDSTREAM PARTNERS, LP",
+   "numberOfShares": 17181000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "WGP",
+   "totalSharesValue": 377982000
+  },
+  {
+   "date": "2012-12-07",
+   "exchange": null,
+   "name": "YEW BIO-PHARM GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4125000
+  },
+  {
+   "date": "2012-12-06",
+   "exchange": null,
+   "name": "DARKSTAR VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DAVC",
+   "totalSharesValue": 3400000
+  },
+  {
+   "date": "2012-12-05",
+   "exchange": null,
+   "name": "MANIATV INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2012-12-05",
+   "exchange": null,
+   "name": "ZEWAR JEWELLERY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 32000
+  },
+  {
+   "date": "2012-12-05",
+   "exchange": null,
+   "name": "INTERCLOUD SYSTEMS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ICLD",
+   "totalSharesValue": 20000000
+  }
+ ]
+}

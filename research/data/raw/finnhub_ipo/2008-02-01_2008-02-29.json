@@ -1,0 +1,247 @@
+{
+ "from": "2008-02-01",
+ "to": "2008-02-29",
+ "fetched_at": "2026-09-09T01:21:49.434927+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2008-02-28",
+   "exchange": null,
+   "name": "UNITED SERVICES MANAGEMENT CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-28",
+   "exchange": "OTCBB",
+   "name": "FINCERA INC.",
+   "numberOfShares": 4500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "SCRUF",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2008-02-27",
+   "exchange": null,
+   "name": "ORBIT ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-27",
+   "exchange": null,
+   "name": "SMG INDUSTRIES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-27",
+   "exchange": "American Stock Exchange",
+   "name": "BPW ACQUISITION CORP.",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BPW.U",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2008-02-27",
+   "exchange": "New York Stock Exchange",
+   "name": "UNITED STATES GASOLINE FUND, LP",
+   "numberOfShares": 30000000,
+   "price": "50.00",
+   "status": "priced",
+   "symbol": "UGA",
+   "totalSharesValue": 1500000000
+  },
+  {
+   "date": "2008-02-25",
+   "exchange": null,
+   "name": "TRI-ARTISAN ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-20",
+   "exchange": null,
+   "name": "DELOS ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-19",
+   "exchange": "American Stock Exchange",
+   "name": "IRIDIUM COMMUNICATIONS INC.",
+   "numberOfShares": 40000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GHQ.U",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2008-02-19",
+   "exchange": "Nasdaq National Market",
+   "name": "U.S. STEM CELL, INC.",
+   "numberOfShares": 1100000,
+   "price": "5.25",
+   "status": "priced",
+   "symbol": "BHRT",
+   "totalSharesValue": 5775000
+  },
+  {
+   "date": "2008-02-14",
+   "exchange": null,
+   "name": "IDS GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-14",
+   "exchange": "Nasdaq National Market",
+   "name": "ARCSIGHT INC",
+   "numberOfShares": 6861919,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "ARST",
+   "totalSharesValue": 61757271
+  },
+  {
+   "date": "2008-02-14",
+   "exchange": "Nasdaq National Market",
+   "name": "MAKO SURGICAL CORP.",
+   "numberOfShares": 5100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MAKO",
+   "totalSharesValue": 51000000
+  },
+  {
+   "date": "2008-02-12",
+   "exchange": null,
+   "name": "STOCKTRADE NETWORK INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-12",
+   "exchange": "American Stock Exchange",
+   "name": "ASIA TIME CORP",
+   "numberOfShares": 838000,
+   "price": "3.50",
+   "status": "priced",
+   "symbol": "TYM",
+   "totalSharesValue": 2933000
+  },
+  {
+   "date": "2008-02-11",
+   "exchange": "OTCBB",
+   "name": "BBV VIETNAM S.E.A. ACQUISITION CORP.",
+   "numberOfShares": 4500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "BBVUF",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2008-02-08",
+   "exchange": null,
+   "name": "JWL PARTNERS ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-04",
+   "exchange": null,
+   "name": "ENOX BIOPHARMA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-04",
+   "exchange": null,
+   "name": "RISE GOLD CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-01",
+   "exchange": null,
+   "name": "WINRAISE GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-01",
+   "exchange": null,
+   "name": "CHINA POWERSOFT TECHNOLOGIES, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-02-01",
+   "exchange": "OTCBB",
+   "name": "CHINA DISPLAY TECHNOLOGIES, INC.",
+   "numberOfShares": 1800000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "CDYT",
+   "totalSharesValue": 7200000
+  },
+  {
+   "date": "2008-02-01",
+   "exchange": "American Stock Exchange",
+   "name": "OVERTURE ACQUISITION CORP.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NLX.U",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2008-02-01",
+   "exchange": "Nasdaq National Market",
+   "name": "CAPE BANCORP, INC.",
+   "numberOfShares": 10580000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CBNJ",
+   "totalSharesValue": 105800000
+  }
+ ]
+}

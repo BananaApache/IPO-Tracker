@@ -1,0 +1,467 @@
+{
+ "from": "2012-11-01",
+ "to": "2012-11-30",
+ "fetched_at": "2026-09-09T01:23:43.512567+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2012-11-30",
+   "exchange": null,
+   "name": "TCP INTERNATIONAL HOLDINGS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-30",
+   "exchange": null,
+   "name": "FULCRUM BIOENERGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-29",
+   "exchange": null,
+   "name": "UTE ENERGY UPSTREAM HOLDINGS LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-28",
+   "exchange": null,
+   "name": "FTS INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-28",
+   "exchange": null,
+   "name": "PLAINSCAPITAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-28",
+   "exchange": null,
+   "name": "TOP TO BOTTOM PRESSURE WASHING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 140000
+  },
+  {
+   "date": "2012-11-28",
+   "exchange": null,
+   "name": "ONEPOWER SYSTEMS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1375000
+  },
+  {
+   "date": "2012-11-27",
+   "exchange": null,
+   "name": "DETECTEK INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-27",
+   "exchange": null,
+   "name": "ORION FINANCIAL GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4000000
+  },
+  {
+   "date": "2012-11-26",
+   "exchange": null,
+   "name": "IDAHO NORTH RESOURCES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 492620
+  },
+  {
+   "date": "2012-11-23",
+   "exchange": null,
+   "name": "BLUE EAGLE LITHIUM INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-21",
+   "exchange": "Nasdaq National Market",
+   "name": "JOYY INC.",
+   "numberOfShares": 7800000,
+   "price": "10.50",
+   "status": "priced",
+   "symbol": "YY",
+   "totalSharesValue": 81900000
+  },
+  {
+   "date": "2012-11-21",
+   "exchange": null,
+   "name": "AVIANA, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75500
+  },
+  {
+   "date": "2012-11-21",
+   "exchange": null,
+   "name": "SASANI FILMS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2012-11-21",
+   "exchange": null,
+   "name": "ORO CAPITAL CORPORATION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000
+  },
+  {
+   "date": "2012-11-20",
+   "exchange": null,
+   "name": "THREE RIVERS OPERATING CO INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-20",
+   "exchange": null,
+   "name": "PUSH INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-20",
+   "exchange": "New York Stock Exchange",
+   "name": "ALON USA PARTNERS, LP",
+   "numberOfShares": 10000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ALDW",
+   "totalSharesValue": 160000000
+  },
+  {
+   "date": "2012-11-20",
+   "exchange": null,
+   "name": "EASTGATE ACQUISITIONS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 47245
+  },
+  {
+   "date": "2012-11-20",
+   "exchange": null,
+   "name": "ONLINE YEARBOOK",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2012-11-19",
+   "exchange": null,
+   "name": "TAYLOR & MARTIN GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-19",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "WHEELER REAL ESTATE INVESTMENT TRUST, INC.",
+   "numberOfShares": 4000000,
+   "price": "5.25",
+   "status": "priced",
+   "symbol": "WHLR",
+   "totalSharesValue": 21000000
+  },
+  {
+   "date": "2012-11-16",
+   "exchange": "New York Stock Exchange",
+   "name": "RUCKUS WIRELESS INC",
+   "numberOfShares": 8400000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "RKUS",
+   "totalSharesValue": 126000000
+  },
+  {
+   "date": "2012-11-15",
+   "exchange": null,
+   "name": "RADIUS HEALTH, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-14",
+   "exchange": null,
+   "name": "SILVERCREST ASSET MANAGEMENT GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-14",
+   "exchange": null,
+   "name": "HEATWURX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HWX",
+   "totalSharesValue": 8970000
+  },
+  {
+   "date": "2012-11-13",
+   "exchange": null,
+   "name": "ARBOLADA CAPITAL MANAGEMENT CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-13",
+   "exchange": null,
+   "name": "CAMP NINE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000
+  },
+  {
+   "date": "2012-11-13",
+   "exchange": null,
+   "name": "FIRST RATE STAFFING CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3200000
+  },
+  {
+   "date": "2012-11-13",
+   "exchange": null,
+   "name": "XTREME HEALTHCARE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2012-11-12",
+   "exchange": "OTCBB",
+   "name": "MILLENDO THERAPEUTICS, INC.",
+   "numberOfShares": 7630683,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "OVSC",
+   "totalSharesValue": 57230123
+  },
+  {
+   "date": "2012-11-08",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ATOSSA THERAPEUTICS, INC.",
+   "numberOfShares": 800000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "ATOS",
+   "totalSharesValue": 4000000
+  },
+  {
+   "date": "2012-11-08",
+   "exchange": "OTCBB",
+   "name": "BLUE WATER GLOBAL GROUP, INC.",
+   "numberOfShares": 26300000,
+   "price": "0.01",
+   "status": "priced",
+   "symbol": "BUWR",
+   "totalSharesValue": 263000
+  },
+  {
+   "date": "2012-11-08",
+   "exchange": null,
+   "name": "OCONN INDUSTRIES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 52000
+  },
+  {
+   "date": "2012-11-08",
+   "exchange": null,
+   "name": "NEXUS ENTERPRISE SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1873000
+  },
+  {
+   "date": "2012-11-07",
+   "exchange": null,
+   "name": "GOLD RIDGE RESOURCES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-11-07",
+   "exchange": null,
+   "name": "DIVIO HOLDINGS, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2012-11-07",
+   "exchange": null,
+   "name": "VISTA HOLDING GROUP, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2012-11-02",
+   "exchange": "New York Stock Exchange",
+   "name": "DELEK LOGISTICS PARTNERS, LP",
+   "numberOfShares": 8000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "DKL",
+   "totalSharesValue": 168000000
+  },
+  {
+   "date": "2012-11-02",
+   "exchange": "New York Stock Exchange",
+   "name": "SOUTHCROSS ENERGY PARTNERS LLC",
+   "numberOfShares": 9000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "SXE",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2012-11-02",
+   "exchange": "New York Stock Exchange",
+   "name": "RH",
+   "numberOfShares": 5164332,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "RH",
+   "totalSharesValue": 123943968
+  },
+  {
+   "date": "2012-11-02",
+   "exchange": null,
+   "name": "ELECTRIC TRACTOR CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 519034
+  },
+  {
+   "date": "2012-11-02",
+   "exchange": null,
+   "name": "IDEAL RESTAURANT GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2012-11-01",
+   "exchange": null,
+   "name": "HBC ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-01",
+   "exchange": null,
+   "name": "LIQUID SPINS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-11-01",
+   "exchange": null,
+   "name": "AVANGARD CAPITAL GROUP, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000000
+  }
+ ]
+}

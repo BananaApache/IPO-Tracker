@@ -1,0 +1,257 @@
+{
+ "from": "2018-04-01",
+ "to": "2018-04-30",
+ "fetched_at": "2026-09-09T01:25:53.557245+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2018-04-30",
+   "exchange": null,
+   "name": "PLANTATION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2018-04-30",
+   "exchange": null,
+   "name": "EMR TECHNOLOGY SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2018-04-27",
+   "exchange": "NYSE",
+   "name": "SMARTSHEET INC",
+   "numberOfShares": 11633920,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SMAR",
+   "totalSharesValue": 174508800
+  },
+  {
+   "date": "2018-04-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "DOCUSIGN, INC.",
+   "numberOfShares": 21700000,
+   "price": "29.00",
+   "status": "priced",
+   "symbol": "DOCU",
+   "totalSharesValue": 629300000
+  },
+  {
+   "date": "2018-04-26",
+   "exchange": "NYSE",
+   "name": "CERIDIAN HCM HOLDING INC.",
+   "numberOfShares": 21000000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "CDAY",
+   "totalSharesValue": 462000000
+  },
+  {
+   "date": "2018-04-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "NLIGHT, INC.",
+   "numberOfShares": 6000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "LASR",
+   "totalSharesValue": 96000000
+  },
+  {
+   "date": "2018-04-26",
+   "exchange": null,
+   "name": "VERONI BRANDS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2840250
+  },
+  {
+   "date": "2018-04-25",
+   "exchange": null,
+   "name": "ELIO MOTORS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-04-25",
+   "exchange": null,
+   "name": "MR2 GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MRMR",
+   "totalSharesValue": 18112500
+  },
+  {
+   "date": "2018-04-20",
+   "exchange": "NASDAQ Global Select",
+   "name": "LEVEL ONE BANCORP INC",
+   "numberOfShares": 1200000,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "LEVL",
+   "totalSharesValue": 33600000
+  },
+  {
+   "date": "2018-04-20",
+   "exchange": "NYSE",
+   "name": "PIVOTAL SOFTWARE, INC.",
+   "numberOfShares": 37000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "PVTL",
+   "totalSharesValue": 555000000
+  },
+  {
+   "date": "2018-04-19",
+   "exchange": "NYSE",
+   "name": "GRAFTECH INTERNATIONAL LTD",
+   "numberOfShares": 35000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "EAF",
+   "totalSharesValue": 525000000
+  },
+  {
+   "date": "2018-04-19",
+   "exchange": "NASDAQ Global",
+   "name": "MORPHOSYS AG",
+   "numberOfShares": 8300000,
+   "price": "25.04",
+   "status": "priced",
+   "symbol": "MOR",
+   "totalSharesValue": 207832000
+  },
+  {
+   "date": "2018-04-19",
+   "exchange": "NASDAQ Global",
+   "name": "SURFACE ONCOLOGY, INC.",
+   "numberOfShares": 7200000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SURF",
+   "totalSharesValue": 108000000
+  },
+  {
+   "date": "2018-04-18",
+   "exchange": "NASDAQ Capital",
+   "name": "AGM GROUP HOLDINGS, INC.",
+   "numberOfShares": 1306055,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "AGMH",
+   "totalSharesValue": 6530275
+  },
+  {
+   "date": "2018-04-16",
+   "exchange": null,
+   "name": "FLAGSHIP CREDIT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-04-13",
+   "exchange": "NASDAQ Capital",
+   "name": "PURE ACQUISITION CORP.",
+   "numberOfShares": 36000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PACQU",
+   "totalSharesValue": 360000000
+  },
+  {
+   "date": "2018-04-12",
+   "exchange": "NYSE",
+   "name": "ZUORA INC",
+   "numberOfShares": 11000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ZUO",
+   "totalSharesValue": 154000000
+  },
+  {
+   "date": "2018-04-11",
+   "exchange": null,
+   "name": "THINKING GREEN",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2018-04-09",
+   "exchange": null,
+   "name": "WIGI BLOCKCHAIN TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4832445
+  },
+  {
+   "date": "2018-04-06",
+   "exchange": null,
+   "name": "ALBERTSONS COMPANIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-04-05",
+   "exchange": null,
+   "name": "AXELEREX CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2018-04-03",
+   "exchange": "NYSE",
+   "name": "SPOTIFY TECHNOLOGY S.A.",
+   "numberOfShares": 55731480,
+   "price": "165.90",
+   "status": "priced",
+   "symbol": "SPOT",
+   "totalSharesValue": 9245852532
+  },
+  {
+   "date": "2018-04-02",
+   "exchange": null,
+   "name": "MAPI - PHARMA LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-04-02",
+   "exchange": null,
+   "name": "GOOSEHEAD INSURANCE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GSHD",
+   "totalSharesValue": 85300000
+  }
+ ]
+}

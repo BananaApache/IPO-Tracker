@@ -1,0 +1,437 @@
+{
+ "from": "2013-10-01",
+ "to": "2013-10-31",
+ "fetched_at": "2026-09-09T01:24:05.505818+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2013-10-31",
+   "exchange": null,
+   "name": "GRUPO AVAL ACCIONES Y VALORES S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-10-31",
+   "exchange": "New York Stock Exchange",
+   "name": "ESSENT GROUP LTD.",
+   "numberOfShares": 19710118,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ESNT",
+   "totalSharesValue": 335072006
+  },
+  {
+   "date": "2013-10-31",
+   "exchange": "New York Stock Exchange",
+   "name": "MARCUS & MILLICHAP, INC.",
+   "numberOfShares": 6000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "MMI",
+   "totalSharesValue": 72000000
+  },
+  {
+   "date": "2013-10-31",
+   "exchange": "New York Stock Exchange",
+   "name": "58.COM INC.",
+   "numberOfShares": 11000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "WUBA",
+   "totalSharesValue": 187000000
+  },
+  {
+   "date": "2013-10-31",
+   "exchange": null,
+   "name": "ANPULO FOOD, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3100000
+  },
+  {
+   "date": "2013-10-30",
+   "exchange": null,
+   "name": "GLOBEIMMUNE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-10-30",
+   "exchange": "Nasdaq National Market",
+   "name": "SURGICAL CARE AFFILIATES, INC.",
+   "numberOfShares": 9777778,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "SCAI",
+   "totalSharesValue": 234666672
+  },
+  {
+   "date": "2013-10-30",
+   "exchange": "Nasdaq National Market",
+   "name": "CRITEO S.A.",
+   "numberOfShares": 8082580,
+   "price": "31.00",
+   "status": "priced",
+   "symbol": "CRTO",
+   "totalSharesValue": 250559980
+  },
+  {
+   "date": "2013-10-30",
+   "exchange": "Nasdaq National Market",
+   "name": "VERACYTE, INC.",
+   "numberOfShares": 5000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "VCYT",
+   "totalSharesValue": 65000000
+  },
+  {
+   "date": "2013-10-30",
+   "exchange": "New York Stock Exchange",
+   "name": "BRIXMOR PROPERTY GROUP INC.",
+   "numberOfShares": 41250000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "BRX",
+   "totalSharesValue": 825000000
+  },
+  {
+   "date": "2013-10-29",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "QUARTET MERGER CORP.",
+   "numberOfShares": 8400000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "QTETU",
+   "totalSharesValue": 84000000
+  },
+  {
+   "date": "2013-10-25",
+   "exchange": "Nasdaq National Market",
+   "name": "ENDURANCE INTERNATIONAL GROUP HOLDINGS, INC.",
+   "numberOfShares": 21051000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "EIGI",
+   "totalSharesValue": 252612000
+  },
+  {
+   "date": "2013-10-25",
+   "exchange": "Nasdaq National Market",
+   "name": "AERIE PHARMACEUTICALS INC",
+   "numberOfShares": 6720000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AERI",
+   "totalSharesValue": 67200000
+  },
+  {
+   "date": "2013-10-25",
+   "exchange": "Nasdaq National Market",
+   "name": "COMMSCOPE HOLDING COMPANY, INC.",
+   "numberOfShares": 38461537,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "COMM",
+   "totalSharesValue": 576923055
+  },
+  {
+   "date": "2013-10-25",
+   "exchange": "New York Stock Exchange",
+   "name": "SPRAGUE RESOURCES LP",
+   "numberOfShares": 8500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "SRLP",
+   "totalSharesValue": 153000000
+  },
+  {
+   "date": "2013-10-25",
+   "exchange": null,
+   "name": "UNIVERSAL MOVERS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2013-10-24",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "STG GROUP, INC.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GDEF",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2013-10-18",
+   "exchange": null,
+   "name": "NOVALED AG",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-10-18",
+   "exchange": "New York Stock Exchange",
+   "name": "VOXELJET AG",
+   "numberOfShares": 6500000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "VJET",
+   "totalSharesValue": 84500000
+  },
+  {
+   "date": "2013-10-16",
+   "exchange": "New York Stock Exchange",
+   "name": "VEEVA SYSTEMS INC",
+   "numberOfShares": 13045000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "VEEV",
+   "totalSharesValue": 260900000
+  },
+  {
+   "date": "2013-10-16",
+   "exchange": "New York Stock Exchange",
+   "name": "ONEMAIN HOLDINGS, INC.",
+   "numberOfShares": 21045148,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LEAF",
+   "totalSharesValue": 357767516
+  },
+  {
+   "date": "2013-10-16",
+   "exchange": "New York Stock Exchange",
+   "name": "PLAINS GP HOLDINGS LP",
+   "numberOfShares": 128000000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "PAGP",
+   "totalSharesValue": 2816000000
+  },
+  {
+   "date": "2013-10-15",
+   "exchange": null,
+   "name": "BRISTA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2013-10-10",
+   "exchange": "Nasdaq National Market",
+   "name": "MACROGENICS INC",
+   "numberOfShares": 5000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "MGNX",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2013-10-10",
+   "exchange": "New York Stock Exchange",
+   "name": "STONEGATE MORTGAGE CORP",
+   "numberOfShares": 7100000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "SGM",
+   "totalSharesValue": 113600000
+  },
+  {
+   "date": "2013-10-10",
+   "exchange": "New York Stock Exchange",
+   "name": "WESTERN REFINING LOGISTICS, LP",
+   "numberOfShares": 13750000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "WNRL",
+   "totalSharesValue": 302500000
+  },
+  {
+   "date": "2013-10-10",
+   "exchange": "New York Stock Exchange",
+   "name": "ANTERO RESOURCES CORP",
+   "numberOfShares": 35725000,
+   "price": "44.00",
+   "status": "priced",
+   "symbol": "AR",
+   "totalSharesValue": 1571900000
+  },
+  {
+   "date": "2013-10-10",
+   "exchange": null,
+   "name": "BG STAFFING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2294
+  },
+  {
+   "date": "2013-10-09",
+   "exchange": "New York Stock Exchange",
+   "name": "QTS REALTY TRUST, INC.",
+   "numberOfShares": 12250000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "QTS",
+   "totalSharesValue": 257250000
+  },
+  {
+   "date": "2013-10-09",
+   "exchange": "Nasdaq National Market",
+   "name": "LDR HOLDING CORP",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "LDRH",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2013-10-09",
+   "exchange": "Nasdaq National Market",
+   "name": "SFX ENTERTAINMENT, INC",
+   "numberOfShares": 20000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "SFXE",
+   "totalSharesValue": 260000000
+  },
+  {
+   "date": "2013-10-09",
+   "exchange": "Nasdaq National Market",
+   "name": "SFX ENTERTAINMENT, INC",
+   "numberOfShares": 26197277,
+   "price": null,
+   "status": "expected",
+   "symbol": "SFXE",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2013-10-08",
+   "exchange": null,
+   "name": "ADM ENDEAVORS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2013-10-04",
+   "exchange": null,
+   "name": "TECOGEN INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-10-04",
+   "exchange": "Nasdaq National Market",
+   "name": "POTBELLY CORP",
+   "numberOfShares": 7500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "PBPB",
+   "totalSharesValue": 105000000
+  },
+  {
+   "date": "2013-10-04",
+   "exchange": "New York Stock Exchange",
+   "name": "OCI PARTNERS LP",
+   "numberOfShares": 17500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "OCIP",
+   "totalSharesValue": 315000000
+  },
+  {
+   "date": "2013-10-04",
+   "exchange": "New York Stock Exchange",
+   "name": "CHERRY HILL MORTGAGE INVESTMENT CORP",
+   "numberOfShares": 6500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "CHMI",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2013-10-04",
+   "exchange": null,
+   "name": "ABENGOA, S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ABGB",
+   "totalSharesValue": 609000000
+  },
+  {
+   "date": "2013-10-03",
+   "exchange": null,
+   "name": "SPACEPATH, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2013-10-02",
+   "exchange": "New York Stock Exchange",
+   "name": "RE/MAX HOLDINGS, INC.",
+   "numberOfShares": 10000000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "RMAX",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2013-10-02",
+   "exchange": "New York Stock Exchange",
+   "name": "BURLINGTON STORES, INC.",
+   "numberOfShares": 13333333,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BURL",
+   "totalSharesValue": 226666661
+  },
+  {
+   "date": "2013-10-02",
+   "exchange": "New York Stock Exchange",
+   "name": "EMPIRE STATE REALTY TRUST, INC.",
+   "numberOfShares": 71500000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "ESRT",
+   "totalSharesValue": 929500000
+  },
+  {
+   "date": "2013-10-01",
+   "exchange": "Nasdaq National Market",
+   "name": "FATE THERAPEUTICS INC",
+   "numberOfShares": 6666667,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "FATE",
+   "totalSharesValue": 40000002
+  }
+ ]
+}

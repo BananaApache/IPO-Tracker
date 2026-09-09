@@ -1,0 +1,717 @@
+{
+ "from": "2014-10-01",
+ "to": "2014-10-31",
+ "fetched_at": "2026-09-09T01:24:29.526234+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-10-31",
+   "exchange": null,
+   "name": "VIROBAY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-31",
+   "exchange": null,
+   "name": "REVAL HOLDINGS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-30",
+   "exchange": null,
+   "name": "SGWONE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-30",
+   "exchange": "Nasdaq National Market",
+   "name": "FIFTH STREET ASSET MANAGEMENT INC.",
+   "numberOfShares": 6000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "FSAM",
+   "totalSharesValue": 102000000
+  },
+  {
+   "date": "2014-10-30",
+   "exchange": "New York Stock Exchange",
+   "name": "BOOT BARN HOLDINGS, INC.",
+   "numberOfShares": 5000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "BOOT",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2014-10-30",
+   "exchange": null,
+   "name": "ROSEWOOD RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2014-10-29",
+   "exchange": null,
+   "name": "RHYTHM HOLDING COMPANY, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-29",
+   "exchange": "Nasdaq National Market",
+   "name": "SIENTRA, INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SIEN",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2014-10-29",
+   "exchange": "New York Stock Exchange",
+   "name": "SHELL MIDSTREAM PARTNERS, L.P.",
+   "numberOfShares": 40000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "SHLX",
+   "totalSharesValue": 920000000
+  },
+  {
+   "date": "2014-10-29",
+   "exchange": "OTCBB",
+   "name": "SIGNAL ADVANCE INC",
+   "numberOfShares": 4427562,
+   "price": "1.00",
+   "status": "priced",
+   "symbol": "SIGL",
+   "totalSharesValue": 4427562
+  },
+  {
+   "date": "2014-10-29",
+   "exchange": "OTCBB",
+   "name": "SIGNAL ADVANCE INC",
+   "numberOfShares": 3213562,
+   "price": "2.00",
+   "status": "priced",
+   "symbol": "SIGL",
+   "totalSharesValue": 6427124
+  },
+  {
+   "date": "2014-10-28",
+   "exchange": null,
+   "name": "ARMADA WATER ASSETS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-28",
+   "exchange": null,
+   "name": "GDC TECHNOLOGY LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-27",
+   "exchange": null,
+   "name": "ALGAE DYNAMICS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2701818
+  },
+  {
+   "date": "2014-10-27",
+   "exchange": null,
+   "name": "VIATAR CTC SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4723498.5
+  },
+  {
+   "date": "2014-10-24",
+   "exchange": null,
+   "name": "ANGION BIOMEDICA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-24",
+   "exchange": null,
+   "name": "CITY VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-24",
+   "exchange": null,
+   "name": "CHESAPEAKE OILFIELD SERVICES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-24",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "INSPIRED ENTERTAINMENT, INC.",
+   "numberOfShares": 8000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HDRAU",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2014-10-24",
+   "exchange": null,
+   "name": "BRIDGEWATER PLATFORMS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2014-10-24",
+   "exchange": null,
+   "name": "FWF HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2014-10-24",
+   "exchange": null,
+   "name": "DNA TESTING CENTERS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 109737
+  },
+  {
+   "date": "2014-10-24",
+   "exchange": null,
+   "name": "FIRST GUARANTY BANCSHARES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FGBI",
+   "totalSharesValue": 11100000
+  },
+  {
+   "date": "2014-10-22",
+   "exchange": "Nasdaq National Market",
+   "name": "ARTARA THERAPEUTICS, INC.",
+   "numberOfShares": 6110000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PRTO",
+   "totalSharesValue": 61100000
+  },
+  {
+   "date": "2014-10-22",
+   "exchange": "Nasdaq National Market",
+   "name": "DBV TECHNOLOGIES S.A.",
+   "numberOfShares": 4277826,
+   "price": "21.64",
+   "status": "priced",
+   "symbol": "DBVT",
+   "totalSharesValue": 92572155
+  },
+  {
+   "date": "2014-10-22",
+   "exchange": "Nasdaq National Market",
+   "name": "ANCHOR BANCORP WISCONSIN INC",
+   "numberOfShares": 371959,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "ABCW",
+   "totalSharesValue": 9670934
+  },
+  {
+   "date": "2014-10-20",
+   "exchange": null,
+   "name": "VIAMET PHARMACEUTICALS HOLDINGS LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-20",
+   "exchange": null,
+   "name": "AMBER GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-10-17",
+   "exchange": null,
+   "name": "SIMPLE PRODUCTS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-17",
+   "exchange": "New York Stock Exchange",
+   "name": "ZAYO GROUP HOLDINGS, INC.",
+   "numberOfShares": 21052631,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "ZAYO",
+   "totalSharesValue": 399999989
+  },
+  {
+   "date": "2014-10-17",
+   "exchange": null,
+   "name": "NIMTECH CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2014-10-17",
+   "exchange": null,
+   "name": "RICH CIGARS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 123040
+  },
+  {
+   "date": "2014-10-16",
+   "exchange": null,
+   "name": "DANCE BIOPHARM INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-16",
+   "exchange": "Nasdaq National Market",
+   "name": "ATARA BIOTHERAPEUTICS, INC.",
+   "numberOfShares": 5000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ATRA",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2014-10-15",
+   "exchange": null,
+   "name": "NATFRESH BEVERAGES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-10-15",
+   "exchange": "Nasdaq National Market",
+   "name": "FORWARD PHARMA A/S",
+   "numberOfShares": 10500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "FWP",
+   "totalSharesValue": 220500000
+  },
+  {
+   "date": "2014-10-15",
+   "exchange": "New York Stock Exchange",
+   "name": "GREAT WESTERN BANCORP, INC.",
+   "numberOfShares": 16000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "GWB",
+   "totalSharesValue": 288000000
+  },
+  {
+   "date": "2014-10-15",
+   "exchange": "New York Stock Exchange",
+   "name": "DOMINION ENERGY MIDSTREAM PARTNERS, LP",
+   "numberOfShares": 17500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "DM",
+   "totalSharesValue": 367500000
+  },
+  {
+   "date": "2014-10-15",
+   "exchange": null,
+   "name": "FIRST PRIORITY TAX SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2014-10-15",
+   "exchange": null,
+   "name": "CARBON CREDIT INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2014-10-10",
+   "exchange": "Nasdaq National Market",
+   "name": "DAVE & BUSTER'S ENTERTAINMENT, INC.",
+   "numberOfShares": 5882353,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "PLAY",
+   "totalSharesValue": 94117648
+  },
+  {
+   "date": "2014-10-10",
+   "exchange": "New York Stock Exchange",
+   "name": "DIPLOMAT PHARMACY, INC.",
+   "numberOfShares": 13333333,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "DPLO",
+   "totalSharesValue": 173333329
+  },
+  {
+   "date": "2014-10-10",
+   "exchange": null,
+   "name": "AB INTERNATIONAL GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-10-09",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "GREAT BASIN SCIENTIFIC, INC.",
+   "numberOfShares": 1150000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "GBSN",
+   "totalSharesValue": 8050000
+  },
+  {
+   "date": "2014-10-09",
+   "exchange": "New York Stock Exchange",
+   "name": "HUBSPOT INC",
+   "numberOfShares": 5000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "HUBS",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2014-10-09",
+   "exchange": "Nasdaq National Market",
+   "name": "VERITEX HOLDINGS, INC.",
+   "numberOfShares": 2700000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "VBTX",
+   "totalSharesValue": 35100000
+  },
+  {
+   "date": "2014-10-09",
+   "exchange": "New York Stock Exchange",
+   "name": "USD PARTNERS LP",
+   "numberOfShares": 9120000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "USDP",
+   "totalSharesValue": 155040000
+  },
+  {
+   "date": "2014-10-09",
+   "exchange": "Nasdaq National Market",
+   "name": "MOL GLOBAL, INC.",
+   "numberOfShares": 13500000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "MOLG",
+   "totalSharesValue": 168750000
+  },
+  {
+   "date": "2014-10-09",
+   "exchange": "New York Stock Exchange",
+   "name": "BRIGHTSPHERE INVESTMENT GROUP PLC",
+   "numberOfShares": 22000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "OMAM",
+   "totalSharesValue": 308000000
+  },
+  {
+   "date": "2014-10-08",
+   "exchange": "OTCBB",
+   "name": "RESONATE BLENDS, INC.",
+   "numberOfShares": 10000000,
+   "price": "0.10",
+   "status": "priced",
+   "symbol": "TXHD",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2014-10-08",
+   "exchange": null,
+   "name": "ORBIS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 300000
+  },
+  {
+   "date": "2014-10-08",
+   "exchange": null,
+   "name": "SUNRISE TOURS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2014-10-08",
+   "exchange": null,
+   "name": "KNIGHT KNOX DEVELOPMENT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2014-10-07",
+   "exchange": null,
+   "name": "FORMIGLI INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 600000
+  },
+  {
+   "date": "2014-10-03",
+   "exchange": "New York Stock Exchange",
+   "name": "BISON MERGER SUB I, LLC",
+   "numberOfShares": 25000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "FMSA",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2014-10-03",
+   "exchange": "Nasdaq National Market",
+   "name": "DERMIRA, INC.",
+   "numberOfShares": 7812500,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "DERM",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2014-10-03",
+   "exchange": "Nasdaq National Market",
+   "name": "YODLEE INC",
+   "numberOfShares": 6250000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "YDLE",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2014-10-02",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "AXAR ACQUISITION CORP.",
+   "numberOfShares": 24000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AUMAU",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2014-10-02",
+   "exchange": "New York Stock Exchange",
+   "name": "WAYFAIR INC.",
+   "numberOfShares": 11000000,
+   "price": "29.00",
+   "status": "priced",
+   "symbol": "W",
+   "totalSharesValue": 319000000
+  },
+  {
+   "date": "2014-10-02",
+   "exchange": "Nasdaq National Market",
+   "name": "CALITHERA BIOSCIENCES, INC.",
+   "numberOfShares": 8000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CALA",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2014-10-02",
+   "exchange": "New York Stock Exchange",
+   "name": "AAC HOLDINGS, INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "AAC",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2014-10-02",
+   "exchange": "Nasdaq National Market",
+   "name": "VWR CORP",
+   "numberOfShares": 25532000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "VWR",
+   "totalSharesValue": 536172000
+  },
+  {
+   "date": "2014-10-02",
+   "exchange": "New York Stock Exchange",
+   "name": "ATENTO S.A.",
+   "numberOfShares": 10000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ATTO",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2014-10-02",
+   "exchange": "New York Stock Exchange",
+   "name": "JP ENERGY PARTNERS LP",
+   "numberOfShares": 13750000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "JPEP",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2014-10-02",
+   "exchange": "OTCBB",
+   "name": "GULF WEST SECURITY NETWORK, INC.",
+   "numberOfShares": 2000000,
+   "price": "0.125",
+   "status": "priced",
+   "symbol": "SMFI",
+   "totalSharesValue": 260000
+  },
+  {
+   "date": "2014-10-02",
+   "exchange": null,
+   "name": "SUTHERLAND ASSET MANAGEMENT CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SLD",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2014-10-01",
+   "exchange": "New York Stock Exchange",
+   "name": "VIVINT SOLAR, INC.",
+   "numberOfShares": 20600000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "VSLR",
+   "totalSharesValue": 329600000
+  },
+  {
+   "date": "2014-10-01",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ROAN HOLDINGS GROUP CO., LTD.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CADTU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2014-10-01",
+   "exchange": "Nasdaq National Market",
+   "name": "VASCULAR BIOGENICS LTD.",
+   "numberOfShares": 6666667,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "VBLT",
+   "totalSharesValue": 40000002
+  },
+  {
+   "date": "2014-10-01",
+   "exchange": null,
+   "name": "PACIFICORP INTERNATIONAL HOTEL MANAGEMENT",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 352000
+  },
+  {
+   "date": "2014-10-01",
+   "exchange": null,
+   "name": "SUMMIT NETWORKS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  }
+ ]
+}

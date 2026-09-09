@@ -1,0 +1,457 @@
+{
+ "from": "2011-02-01",
+ "to": "2011-02-28",
+ "fetched_at": "2026-09-09T01:23:01.482955+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2011-02-28",
+   "exchange": null,
+   "name": "POWERDYNE INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 10730274.9
+  },
+  {
+   "date": "2011-02-25",
+   "exchange": null,
+   "name": "DANE EXPLORATION INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2011-02-24",
+   "exchange": "New York Stock Exchange",
+   "name": "FACTORSHARES 2X S&P500 BULL/TBOND BEAR",
+   "numberOfShares": 10000000,
+   "price": "24.75",
+   "status": "priced",
+   "symbol": "FSE",
+   "totalSharesValue": 247500000
+  },
+  {
+   "date": "2011-02-24",
+   "exchange": "New York Stock Exchange",
+   "name": "FACTORSHARES 2X GOLD BULL/S&P500 BEAR",
+   "numberOfShares": 10000000,
+   "price": "24.96",
+   "status": "priced",
+   "symbol": "FSG",
+   "totalSharesValue": 249600000
+  },
+  {
+   "date": "2011-02-24",
+   "exchange": "New York Stock Exchange",
+   "name": "FACTORSHARES 2X OIL BULL/S&P500 BEAR",
+   "numberOfShares": 10000000,
+   "price": "25.43",
+   "status": "priced",
+   "symbol": "FOL",
+   "totalSharesValue": 254300000
+  },
+  {
+   "date": "2011-02-24",
+   "exchange": "New York Stock Exchange",
+   "name": "FACTORSHARES 2X S&P500 BULL/USD BEAR",
+   "numberOfShares": 10000000,
+   "price": "25.24",
+   "status": "priced",
+   "symbol": "FSU",
+   "totalSharesValue": 252400000
+  },
+  {
+   "date": "2011-02-24",
+   "exchange": "New York Stock Exchange",
+   "name": "FACTORSHARES 2X TBOND BULL/S&P500 BEAR",
+   "numberOfShares": 10000000,
+   "price": "25.50",
+   "status": "priced",
+   "symbol": "FSA",
+   "totalSharesValue": 255000000
+  },
+  {
+   "date": "2011-02-24",
+   "exchange": null,
+   "name": "NEUTRA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 42000
+  },
+  {
+   "date": "2011-02-23",
+   "exchange": "New York Stock Exchange",
+   "name": "TEUCRIUM COMMODITY TRUST",
+   "numberOfShares": 15000000,
+   "price": "50.00",
+   "status": "priced",
+   "symbol": "CRUD",
+   "totalSharesValue": 750000000
+  },
+  {
+   "date": "2011-02-18",
+   "exchange": "OTCBB",
+   "name": "RLJ ACQUISITION, INC.",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RLJAU",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2011-02-18",
+   "exchange": null,
+   "name": "ARABELLA EXPLORATION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LOKAF",
+   "totalSharesValue": 32000000
+  },
+  {
+   "date": "2011-02-15",
+   "exchange": "New York Stock Exchange",
+   "name": "ZUOAN FASHION LTD",
+   "numberOfShares": 6000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "ZA",
+   "totalSharesValue": 42000000
+  },
+  {
+   "date": "2011-02-15",
+   "exchange": null,
+   "name": "CAPITOL ACQUISITION CORP. II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 201250000
+  },
+  {
+   "date": "2011-02-14",
+   "exchange": null,
+   "name": "CHINA BULL MANAGEMENT INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-02-14",
+   "exchange": null,
+   "name": "FORECLOSURE VENTURE CAPITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-02-11",
+   "exchange": null,
+   "name": "GREAT WHITE ENERGY SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-02-11",
+   "exchange": "Nasdaq National Market",
+   "name": "ACELRX PHARMACEUTICALS INC",
+   "numberOfShares": 8000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "ACRX",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2011-02-11",
+   "exchange": "New York Stock Exchange",
+   "name": "KINDER MORGAN, INC.",
+   "numberOfShares": 95466600,
+   "price": "30.00",
+   "status": "priced",
+   "symbol": "KMI",
+   "totalSharesValue": 2863998000
+  },
+  {
+   "date": "2011-02-11",
+   "exchange": "Nasdaq National Market",
+   "name": "KIPS BAY MEDICAL, INC.",
+   "numberOfShares": 2062500,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "KIPS",
+   "totalSharesValue": 16500000
+  },
+  {
+   "date": "2011-02-11",
+   "exchange": null,
+   "name": "GLOBE NET WIRELESS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 625000
+  },
+  {
+   "date": "2011-02-10",
+   "exchange": "Nasdaq National Market",
+   "name": "FLUIDIGM CORP",
+   "numberOfShares": 5558333,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "FLDM",
+   "totalSharesValue": 75037496
+  },
+  {
+   "date": "2011-02-09",
+   "exchange": "New York Stock Exchange",
+   "name": "SUMMIT HOTEL PROPERTIES, INC.",
+   "numberOfShares": 26000000,
+   "price": "9.75",
+   "status": "priced",
+   "symbol": "INN",
+   "totalSharesValue": 253500000
+  },
+  {
+   "date": "2011-02-09",
+   "exchange": "Nasdaq National Market",
+   "name": "GEVO, INC.",
+   "numberOfShares": 7150000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "GEVO",
+   "totalSharesValue": 107250000
+  },
+  {
+   "date": "2011-02-09",
+   "exchange": null,
+   "name": "CHINA INDUSTRIAL STEEL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 11610099
+  },
+  {
+   "date": "2011-02-09",
+   "exchange": null,
+   "name": "BIOPOWER OPERATIONS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 13625000
+  },
+  {
+   "date": "2011-02-08",
+   "exchange": null,
+   "name": "ADS TACTICAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-02-08",
+   "exchange": "New York Stock Exchange",
+   "name": "EMERGENT CAPITAL, INC.",
+   "numberOfShares": 16666667,
+   "price": "10.75",
+   "status": "priced",
+   "symbol": "IFT",
+   "totalSharesValue": 179166670
+  },
+  {
+   "date": "2011-02-08",
+   "exchange": "American Stock Exchange",
+   "name": "CHINA CENTURY DRAGON MEDIA, INC.",
+   "numberOfShares": 1200000,
+   "price": "5.25",
+   "status": "priced",
+   "symbol": "CDM",
+   "totalSharesValue": 6300000
+  },
+  {
+   "date": "2011-02-08",
+   "exchange": null,
+   "name": "STRATEGIC DENTAL MANAGEMENT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 610000
+  },
+  {
+   "date": "2011-02-08",
+   "exchange": null,
+   "name": "LION LAM DIAMOND INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 250000
+  },
+  {
+   "date": "2011-02-08",
+   "exchange": null,
+   "name": "ALLIANCE PETROLEUM CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 910000
+  },
+  {
+   "date": "2011-02-04",
+   "exchange": "Nasdaq National Market",
+   "name": "MMODAL INC.",
+   "numberOfShares": 4500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "MEDH",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2011-02-04",
+   "exchange": "Nasdaq National Market",
+   "name": "ENDOCYTE INC",
+   "numberOfShares": 12500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ECYT",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2011-02-04",
+   "exchange": "Nasdaq National Market",
+   "name": "BG MEDICINE, INC.",
+   "numberOfShares": 5000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "BGMD",
+   "totalSharesValue": 35000000
+  },
+  {
+   "date": "2011-02-04",
+   "exchange": null,
+   "name": "AF OCEAN INVESTMENT MANAGEMENT CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 42122.5
+  },
+  {
+   "date": "2011-02-03",
+   "exchange": "Nasdaq National Market",
+   "name": "PACIRA BIOSCIENCES, INC.",
+   "numberOfShares": 6000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "PCRX",
+   "totalSharesValue": 42000000
+  },
+  {
+   "date": "2011-02-03",
+   "exchange": "Nasdaq National Market",
+   "name": "TRUNKBOW INTERNATIONAL HOLDINGS LTD",
+   "numberOfShares": 4000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "TBOW",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2011-02-03",
+   "exchange": "Nasdaq National Market",
+   "name": "WRIGHT MEDICAL GROUP N.V.",
+   "numberOfShares": 8750000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "TRNX",
+   "totalSharesValue": 166250000
+  },
+  {
+   "date": "2011-02-03",
+   "exchange": null,
+   "name": "WNS STUDIOS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 45000
+  },
+  {
+   "date": "2011-02-02",
+   "exchange": "Nasdaq National Market",
+   "name": "EPOCRATES INC",
+   "numberOfShares": 5360000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "EPOC",
+   "totalSharesValue": 85760000
+  },
+  {
+   "date": "2011-02-02",
+   "exchange": "New York Stock Exchange",
+   "name": "NEOPHOTONICS CORP",
+   "numberOfShares": 7500000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "NPTN",
+   "totalSharesValue": 82500000
+  },
+  {
+   "date": "2011-02-02",
+   "exchange": null,
+   "name": "AVWORKS AVIATION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-02-02",
+   "exchange": null,
+   "name": "HAIWANG RESOURCES & TECHNOLOGY LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NACL",
+   "totalSharesValue": 27600000
+  },
+  {
+   "date": "2011-02-01",
+   "exchange": null,
+   "name": "ZHENG HUI INDUSTRY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-02-01",
+   "exchange": "New York Stock Exchange",
+   "name": "TEUCRIUM COMMODITY TRUST",
+   "numberOfShares": 40000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "NAGS",
+   "totalSharesValue": 1000000000
+  }
+ ]
+}

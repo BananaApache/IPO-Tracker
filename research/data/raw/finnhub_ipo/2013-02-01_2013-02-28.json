@@ -1,0 +1,307 @@
+{
+ "from": "2013-02-01",
+ "to": "2013-02-28",
+ "fetched_at": "2026-09-09T01:23:49.495088+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2013-02-26",
+   "exchange": null,
+   "name": "NDS GROUP HOLDINGS, LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-02-26",
+   "exchange": null,
+   "name": "BE AT TV, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 69000
+  },
+  {
+   "date": "2013-02-21",
+   "exchange": null,
+   "name": "ORIENTAL DRAGON CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-02-19",
+   "exchange": null,
+   "name": "ARTEC GLOBAL MEDIA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-02-15",
+   "exchange": "Nasdaq National Market",
+   "name": "XOOM CORP",
+   "numberOfShares": 6325000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "XOOM",
+   "totalSharesValue": 101200000
+  },
+  {
+   "date": "2013-02-15",
+   "exchange": null,
+   "name": "BIGFOOT PROJECT INVESTMENTS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3000000
+  },
+  {
+   "date": "2013-02-14",
+   "exchange": null,
+   "name": "SKM MEDIA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-02-14",
+   "exchange": "American Stock Exchange",
+   "name": "ORCHID ISLAND CAPITAL, INC.",
+   "numberOfShares": 2360000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ORC",
+   "totalSharesValue": 35400000
+  },
+  {
+   "date": "2013-02-14",
+   "exchange": null,
+   "name": "JISHANYE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 13000
+  },
+  {
+   "date": "2013-02-13",
+   "exchange": "New York Stock Exchange",
+   "name": "INVESCO CURRENCYSHARES SINGAPORE DOLLAR TRUST",
+   "numberOfShares": 15150000,
+   "price": "80.91",
+   "status": "priced",
+   "symbol": "FXSG",
+   "totalSharesValue": 1225786500
+  },
+  {
+   "date": "2013-02-13",
+   "exchange": null,
+   "name": "OLIVIA INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2013-02-12",
+   "exchange": null,
+   "name": "ARMADA WATER ASSETS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-02-12",
+   "exchange": "Nasdaq National Market",
+   "name": "CONNECTONE BANCORP, INC.",
+   "numberOfShares": 1600000,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "CNOB",
+   "totalSharesValue": 44800000
+  },
+  {
+   "date": "2013-02-12",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ATLAS FINANCIAL HOLDINGS, INC.",
+   "numberOfShares": 4125000,
+   "price": "5.85",
+   "status": "priced",
+   "symbol": "AFH",
+   "totalSharesValue": 24131250
+  },
+  {
+   "date": "2013-02-12",
+   "exchange": null,
+   "name": "AVRA SURGICAL ROBOTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2013-02-11",
+   "exchange": null,
+   "name": "ADCHINA LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-02-11",
+   "exchange": null,
+   "name": "ADMA BIOLOGICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 31658814
+  },
+  {
+   "date": "2013-02-08",
+   "exchange": "New York Stock Exchange",
+   "name": "READY CAPITAL CORP",
+   "numberOfShares": 5650000,
+   "price": "21.25",
+   "status": "priced",
+   "symbol": "ZFC",
+   "totalSharesValue": 120062500
+  },
+  {
+   "date": "2013-02-08",
+   "exchange": "Nasdaq National Market",
+   "name": "BENEFYTT TECHNOLOGIES, INC.",
+   "numberOfShares": 4666667,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "HIIQ",
+   "totalSharesValue": 65333338
+  },
+  {
+   "date": "2013-02-08",
+   "exchange": "New York Stock Exchange",
+   "name": "NEW SOURCE ENERGY PARTNERS L.P.",
+   "numberOfShares": 4000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "NSLP",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2013-02-08",
+   "exchange": null,
+   "name": "DRIMEX INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-02-07",
+   "exchange": null,
+   "name": "ADVANTAGE DISPOSAL SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-02-07",
+   "exchange": "Nasdaq National Market",
+   "name": "EXONE CO",
+   "numberOfShares": 5300000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "XONE",
+   "totalSharesValue": 95400000
+  },
+  {
+   "date": "2013-02-06",
+   "exchange": "New York Stock Exchange",
+   "name": "BOISE CASCADE CO",
+   "numberOfShares": 11764706,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "BCC",
+   "totalSharesValue": 247058826
+  },
+  {
+   "date": "2013-02-06",
+   "exchange": null,
+   "name": "NEF ENTERPRISES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80750
+  },
+  {
+   "date": "2013-02-06",
+   "exchange": null,
+   "name": "LODGING MEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2013-02-05",
+   "exchange": null,
+   "name": "GLOBAL TECH SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2013-02-05",
+   "exchange": null,
+   "name": "SELECT-TV SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 56536
+  },
+  {
+   "date": "2013-02-04",
+   "exchange": null,
+   "name": "SNAP ONLINE MARKETING INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2013-02-01",
+   "exchange": "New York Stock Exchange",
+   "name": "ZOETIS INC.",
+   "numberOfShares": 86100000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "ZTS",
+   "totalSharesValue": 2238600000
+  }
+ ]
+}

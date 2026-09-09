@@ -1,0 +1,447 @@
+{
+ "from": "2012-07-01",
+ "to": "2012-07-31",
+ "fetched_at": "2026-09-09T01:23:35.492086+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2012-07-30",
+   "exchange": null,
+   "name": "LINC LOGISTICS CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-27",
+   "exchange": null,
+   "name": "PARTY CITY HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-27",
+   "exchange": "Nasdaq National Market",
+   "name": "DEL FRISCO'S RESTAURANT GROUP, INC.",
+   "numberOfShares": 5800000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "DFRG",
+   "totalSharesValue": 75400000
+  },
+  {
+   "date": "2012-07-27",
+   "exchange": "New York Stock Exchange",
+   "name": "AMREIT, INC.",
+   "numberOfShares": 3650000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "AMRE",
+   "totalSharesValue": 51100000
+  },
+  {
+   "date": "2012-07-27",
+   "exchange": null,
+   "name": "AMROSE OIL CO INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1066
+  },
+  {
+   "date": "2012-07-26",
+   "exchange": null,
+   "name": "IMPINJ INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-26",
+   "exchange": "Nasdaq National Market",
+   "name": "HYPERION THERAPEUTICS INC",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HPTX",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2012-07-26",
+   "exchange": "Nasdaq National Market",
+   "name": "E2OPEN INC",
+   "numberOfShares": 4687500,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "EOPN",
+   "totalSharesValue": 70312500
+  },
+  {
+   "date": "2012-07-26",
+   "exchange": "New York Stock Exchange",
+   "name": "NORTHERN TIER ENERGY LP",
+   "numberOfShares": 16250000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NTI",
+   "totalSharesValue": 227500000
+  },
+  {
+   "date": "2012-07-26",
+   "exchange": null,
+   "name": "ENGAGE MOBILITY, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 359150
+  },
+  {
+   "date": "2012-07-25",
+   "exchange": null,
+   "name": "AVAST SOFTWARE N.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-25",
+   "exchange": null,
+   "name": "ENOVA INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-25",
+   "exchange": null,
+   "name": "AMERI METRO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-25",
+   "exchange": "New York Stock Exchange",
+   "name": "NATURAL GROCERS BY VITAMIN COTTAGE, INC.",
+   "numberOfShares": 7142857,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "NGVC",
+   "totalSharesValue": 107142855
+  },
+  {
+   "date": "2012-07-24",
+   "exchange": "Nasdaq National Market",
+   "name": "CHUY'S HOLDINGS, INC.",
+   "numberOfShares": 5833333,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "CHUY",
+   "totalSharesValue": 75833329
+  },
+  {
+   "date": "2012-07-23",
+   "exchange": null,
+   "name": "ENVIRO CLEANSE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-07-20",
+   "exchange": "New York Stock Exchange",
+   "name": "PALO ALTO NETWORKS INC",
+   "numberOfShares": 6200000,
+   "price": "42.00",
+   "status": "priced",
+   "symbol": "PANW",
+   "totalSharesValue": 260400000
+  },
+  {
+   "date": "2012-07-20",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "INFINITY CROSS BORDER ACQUISITION CORP",
+   "numberOfShares": 5000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "INXBU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2012-07-20",
+   "exchange": "Nasdaq National Market",
+   "name": "KAYAK SOFTWARE CORP",
+   "numberOfShares": 3500000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "KYAK",
+   "totalSharesValue": 91000000
+  },
+  {
+   "date": "2012-07-20",
+   "exchange": null,
+   "name": "GANKIT CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-07-20",
+   "exchange": null,
+   "name": "PLASTER CASTER INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 26700
+  },
+  {
+   "date": "2012-07-20",
+   "exchange": null,
+   "name": "MANAGED EMERGING MARKETS TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MGRT",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2012-07-19",
+   "exchange": "Nasdaq National Market",
+   "name": "FIVE BELOW, INC",
+   "numberOfShares": 9615384,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "FIVE",
+   "totalSharesValue": 163461528
+  },
+  {
+   "date": "2012-07-19",
+   "exchange": "Nasdaq National Market",
+   "name": "DURATA THERAPEUTICS, INC.",
+   "numberOfShares": 7500000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "DRTX",
+   "totalSharesValue": 67500000
+  },
+  {
+   "date": "2012-07-19",
+   "exchange": "OTCBB",
+   "name": "VAPORIN, INC.",
+   "numberOfShares": 5333333,
+   "price": "0.08",
+   "status": "priced",
+   "symbol": "VGLD",
+   "totalSharesValue": 426667
+  },
+  {
+   "date": "2012-07-18",
+   "exchange": null,
+   "name": "AMPERICO CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 44400
+  },
+  {
+   "date": "2012-07-18",
+   "exchange": null,
+   "name": "WERVALUECOUPONS.COM INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25000
+  },
+  {
+   "date": "2012-07-17",
+   "exchange": null,
+   "name": "NORIT N.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-17",
+   "exchange": null,
+   "name": "NUCO2 INC /DE",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-17",
+   "exchange": null,
+   "name": "PLADEO CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-07-17",
+   "exchange": null,
+   "name": "ABINGTON RESOURCES LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3231610.8
+  },
+  {
+   "date": "2012-07-13",
+   "exchange": null,
+   "name": "MOBITV, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-12",
+   "exchange": null,
+   "name": "CELPAD INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-12",
+   "exchange": null,
+   "name": "ASCOT FUNDING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-12",
+   "exchange": null,
+   "name": "GS VALET, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 48750
+  },
+  {
+   "date": "2012-07-12",
+   "exchange": null,
+   "name": "CANFIELD MEDICAL SUPPLY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 675000
+  },
+  {
+   "date": "2012-07-11",
+   "exchange": null,
+   "name": "EUROSITE POWER INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "EUSP",
+   "totalSharesValue": 18750000
+  },
+  {
+   "date": "2012-07-10",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "FS BANCORP, INC.",
+   "numberOfShares": 2817500,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FSBW",
+   "totalSharesValue": 28175000
+  },
+  {
+   "date": "2012-07-10",
+   "exchange": null,
+   "name": "ALPHA NETWORK ALLIANCE VENTURES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3765075
+  },
+  {
+   "date": "2012-07-10",
+   "exchange": null,
+   "name": "GALT PETROLEUM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1328000
+  },
+  {
+   "date": "2012-07-10",
+   "exchange": null,
+   "name": "BARKING APPLICATIONS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-07-09",
+   "exchange": null,
+   "name": "ML CAPITAL GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-07-06",
+   "exchange": null,
+   "name": "LINE UP ADVERTISEMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-07-03",
+   "exchange": null,
+   "name": "TAXUS PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 215500
+  }
+ ]
+}

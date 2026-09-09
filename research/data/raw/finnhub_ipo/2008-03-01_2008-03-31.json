@@ -1,0 +1,247 @@
+{
+ "from": "2008-03-01",
+ "to": "2008-03-31",
+ "fetched_at": "2026-09-09T01:21:51.452355+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2008-03-31",
+   "exchange": null,
+   "name": "FINTECH ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-31",
+   "exchange": null,
+   "name": "UNITED BENEFITS & PENSION SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-27",
+   "exchange": null,
+   "name": "LEOPARD ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-26",
+   "exchange": null,
+   "name": "MUSKOKA FLOORING CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-25",
+   "exchange": null,
+   "name": "LIBERTY LANE ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-21",
+   "exchange": null,
+   "name": "EASTERN RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1095480
+  },
+  {
+   "date": "2008-03-20",
+   "exchange": null,
+   "name": "MEDIAMORPH INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-20",
+   "exchange": null,
+   "name": "ZOGENIX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-19",
+   "exchange": "New York Stock Exchange",
+   "name": "VISA INC.",
+   "numberOfShares": 406000000,
+   "price": "44.00",
+   "status": "priced",
+   "symbol": "V",
+   "totalSharesValue": 17864000000
+  },
+  {
+   "date": "2008-03-19",
+   "exchange": "OTCBB",
+   "name": "U-SWIRL, INC.",
+   "numberOfShares": 1000000,
+   "price": "5.10",
+   "status": "priced",
+   "symbol": "HFFIU",
+   "totalSharesValue": 5100000
+  },
+  {
+   "date": "2008-03-19",
+   "exchange": "Nasdaq National Market",
+   "name": "CARDIONET, INC.",
+   "numberOfShares": 4500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "BEAT",
+   "totalSharesValue": 81000000
+  },
+  {
+   "date": "2008-03-14",
+   "exchange": null,
+   "name": "NATIONAL SECURITY SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-13",
+   "exchange": null,
+   "name": "SALIENT SURGICAL TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-12",
+   "exchange": null,
+   "name": "J.W. CHILDS ACQUISITION I CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-12",
+   "exchange": null,
+   "name": "CYDEX PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-12",
+   "exchange": null,
+   "name": "GALIOT CAPITAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-12",
+   "exchange": null,
+   "name": "BHG ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-12",
+   "exchange": "Nasdaq National Market",
+   "name": "HERITAGE-CRYSTAL CLEAN, INC.",
+   "numberOfShares": 1914000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "HCCI",
+   "totalSharesValue": 22011000
+  },
+  {
+   "date": "2008-03-10",
+   "exchange": null,
+   "name": "MEDIAMIND TECHNOLOGIES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-10",
+   "exchange": null,
+   "name": "SEQUOIA-LEGATO, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-10",
+   "exchange": "OTCBB",
+   "name": "SGOCO GROUP, LTD.",
+   "numberOfShares": 4000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "HMAUF",
+   "totalSharesValue": 32000000
+  },
+  {
+   "date": "2008-03-05",
+   "exchange": null,
+   "name": "K-SEA GP HOLDINGS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-05",
+   "exchange": null,
+   "name": "INFINITY I-CHINA ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-03-03",
+   "exchange": null,
+   "name": "TRANSFORMATION CAPITAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

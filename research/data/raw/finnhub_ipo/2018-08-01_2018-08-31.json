@@ -1,0 +1,327 @@
+{
+ "from": "2018-08-01",
+ "to": "2018-08-31",
+ "fetched_at": "2026-09-09T01:26:01.565258+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2018-08-31",
+   "exchange": null,
+   "name": "CANTOR GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-08-30",
+   "exchange": null,
+   "name": "LOANCORE REALTY TRUST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-08-28",
+   "exchange": null,
+   "name": "COCOLUV INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2018-08-27",
+   "exchange": null,
+   "name": "NB CAPITAL ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-08-27",
+   "exchange": null,
+   "name": "MS YOUNG ADVENTURE ENTERPRISE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 821667
+  },
+  {
+   "date": "2018-08-27",
+   "exchange": null,
+   "name": "HAWKEYE SYSTEMS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 16406500
+  },
+  {
+   "date": "2018-08-24",
+   "exchange": "NYSE",
+   "name": "MEGALITH FINANCIAL ACQUISITION CORP",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MFACU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2018-08-23",
+   "exchange": null,
+   "name": "TASK TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-08-23",
+   "exchange": null,
+   "name": "YUMBA RECORDS STORAGE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2018-08-21",
+   "exchange": "NASDAQ Capital",
+   "name": "TENZING ACQUISITION CORP.",
+   "numberOfShares": 5500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TZACU",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2018-08-21",
+   "exchange": "NASDAQ",
+   "name": "BIONANO GENOMICS, INC",
+   "numberOfShares": 3360000,
+   "price": "6.125",
+   "status": "priced",
+   "symbol": "BNGOU",
+   "totalSharesValue": 20596800
+  },
+  {
+   "date": "2018-08-17",
+   "exchange": "NASDAQ Capital",
+   "name": "SAFE-T GROUP LTD.",
+   "numberOfShares": 510438,
+   "price": "14.35",
+   "status": "priced",
+   "symbol": "SFET",
+   "totalSharesValue": 7324785
+  },
+  {
+   "date": "2018-08-16",
+   "exchange": "NASDAQ Capital",
+   "name": "GLORY STAR NEW MEDIA GROUP HOLDINGS LTD",
+   "numberOfShares": 22000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TKKSU",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2018-08-15",
+   "exchange": null,
+   "name": "APMEX PHYSICAL - 1 OZ. GOLD REDEEMABLE TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-08-15",
+   "exchange": "NYSE Arca",
+   "name": "PERTH MINT PHYSICAL GOLD ETF",
+   "numberOfShares": 16286645,
+   "price": "11.74",
+   "status": "priced",
+   "symbol": "AAAU",
+   "totalSharesValue": 191205212
+  },
+  {
+   "date": "2018-08-15",
+   "exchange": null,
+   "name": "MYCLIKS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2018-08-14",
+   "exchange": "NASDAQ Capital",
+   "name": "ARIDIS PHARMACEUTICALS, INC.",
+   "numberOfShares": 2000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "ARDS",
+   "totalSharesValue": 26000000
+  },
+  {
+   "date": "2018-08-14",
+   "exchange": null,
+   "name": "VERB TECHNOLOGY COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2018-08-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "MESA AIR GROUP INC",
+   "numberOfShares": 9630000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "MESA",
+   "totalSharesValue": 115560000
+  },
+  {
+   "date": "2018-08-10",
+   "exchange": "NYSE",
+   "name": "SPARTAN ENERGY ACQUISITION CORP.",
+   "numberOfShares": 48000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SPAQU",
+   "totalSharesValue": 480000000
+  },
+  {
+   "date": "2018-08-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "VACCINEX, INC.",
+   "numberOfShares": 3333334,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "VCNX",
+   "totalSharesValue": 40000008
+  },
+  {
+   "date": "2018-08-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "PCB BANCORP",
+   "numberOfShares": 2385000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "PCB",
+   "totalSharesValue": 47700000
+  },
+  {
+   "date": "2018-08-08",
+   "exchange": null,
+   "name": "PSAV, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-08-08",
+   "exchange": null,
+   "name": "LONGEVITY ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LOACU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2018-08-06",
+   "exchange": null,
+   "name": "INTREPID AVIATION LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-08-03",
+   "exchange": "NASDAQ Capital",
+   "name": "FORUM MERGER II CORP",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FMCIU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2018-08-03",
+   "exchange": "NYSE",
+   "name": "ARLO TECHNOLOGIES, INC.",
+   "numberOfShares": 10215000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ARLO",
+   "totalSharesValue": 163440000
+  },
+  {
+   "date": "2018-08-02",
+   "exchange": null,
+   "name": "M17 ENTERTAINMENT LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-08-02",
+   "exchange": "NASDAQ Capital",
+   "name": "TOTTENHAM ACQUISITION I LTD",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TOTAU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2018-08-02",
+   "exchange": "NASDAQ Global Select",
+   "name": "SONOS INC",
+   "numberOfShares": 13888888,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SONO",
+   "totalSharesValue": 208333320
+  },
+  {
+   "date": "2018-08-02",
+   "exchange": "NYSE",
+   "name": "CUSHMAN & WAKEFIELD PLC",
+   "numberOfShares": 45000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "CWK",
+   "totalSharesValue": 765000000
+  },
+  {
+   "date": "2018-08-02",
+   "exchange": null,
+   "name": "GPODS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  }
+ ]
+}

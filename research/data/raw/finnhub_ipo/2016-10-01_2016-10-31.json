@@ -1,0 +1,357 @@
+{
+ "from": "2016-10-01",
+ "to": "2016-10-31",
+ "fetched_at": "2026-09-09T01:25:17.543140+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2016-10-31",
+   "exchange": null,
+   "name": "EVRAZ NORTH AMERICA PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-10-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "ON SEMICONDUCTOR CONNECTIVITY SOLUTIONS, INC.",
+   "numberOfShares": 6700000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "QTNA",
+   "totalSharesValue": 107200000
+  },
+  {
+   "date": "2016-10-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "BLACKLINE, INC.",
+   "numberOfShares": 8600000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BL",
+   "totalSharesValue": 146200000
+  },
+  {
+   "date": "2016-10-28",
+   "exchange": "NYSE",
+   "name": "ACUSHNET HOLDINGS CORP.",
+   "numberOfShares": 19333333,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "GOLF",
+   "totalSharesValue": 328666661
+  },
+  {
+   "date": "2016-10-28",
+   "exchange": null,
+   "name": "OXYGEN THERAPY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 19081038
+  },
+  {
+   "date": "2016-10-27",
+   "exchange": null,
+   "name": "CONVERSATION INSTITUTE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-10-27",
+   "exchange": "NASDAQ Capital",
+   "name": "GTY TECHNOLOGY HOLDINGS INC.",
+   "numberOfShares": 48000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GTYHU",
+   "totalSharesValue": 480000000
+  },
+  {
+   "date": "2016-10-27",
+   "exchange": "NYSE",
+   "name": "ZTO EXPRESS (CAYMAN) INC.",
+   "numberOfShares": 72100000,
+   "price": "19.50",
+   "status": "priced",
+   "symbol": "ZTO",
+   "totalSharesValue": 1405950000
+  },
+  {
+   "date": "2016-10-27",
+   "exchange": "NYSE",
+   "name": "MYOVANT SCIENCES LTD.",
+   "numberOfShares": 14500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "MYOV",
+   "totalSharesValue": 217500000
+  },
+  {
+   "date": "2016-10-27",
+   "exchange": null,
+   "name": "KOKOS GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2016-10-26",
+   "exchange": "NASDAQ Global",
+   "name": "RA PHARMACEUTICALS, INC.",
+   "numberOfShares": 7049230,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "RARX",
+   "totalSharesValue": 91639990
+  },
+  {
+   "date": "2016-10-21",
+   "exchange": null,
+   "name": "CENTENNIAL RESOURCE DEVELOPMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-10-21",
+   "exchange": null,
+   "name": "COLLPLANT HOLDINGS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CLGN",
+   "totalSharesValue": 25357500
+  },
+  {
+   "date": "2016-10-21",
+   "exchange": null,
+   "name": "CROE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 42500
+  },
+  {
+   "date": "2016-10-20",
+   "exchange": "NASDAQ Global",
+   "name": "IRHYTHM TECHNOLOGIES, INC.",
+   "numberOfShares": 6294118,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "IRTC",
+   "totalSharesValue": 107000006
+  },
+  {
+   "date": "2016-10-20",
+   "exchange": "NASDAQ Global Select",
+   "name": "FORTERRA, INC.",
+   "numberOfShares": 18420000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "FRTA",
+   "totalSharesValue": 331560000
+  },
+  {
+   "date": "2016-10-19",
+   "exchange": "NASDAQ Global",
+   "name": "CRISPR THERAPEUTICS AG",
+   "numberOfShares": 4000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "CRSP",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2016-10-14",
+   "exchange": null,
+   "name": "PIMCO REIT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-10-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "MAMMOTH ENERGY SERVICES, INC.",
+   "numberOfShares": 7750000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "TUSK",
+   "totalSharesValue": 116250000
+  },
+  {
+   "date": "2016-10-14",
+   "exchange": null,
+   "name": "ZARTEX INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2016-10-12",
+   "exchange": null,
+   "name": "RIVERBANC MULTIFAMILY INVESTORS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-10-12",
+   "exchange": "NASDAQ Global Select",
+   "name": "EXTRACTION OIL & GAS, INC.",
+   "numberOfShares": 33333333,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "XOG",
+   "totalSharesValue": 633333327
+  },
+  {
+   "date": "2016-10-12",
+   "exchange": "NYSE",
+   "name": "AZURE POWER GLOBAL LTD",
+   "numberOfShares": 3409091,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "AZRE",
+   "totalSharesValue": 61363638
+  },
+  {
+   "date": "2016-10-12",
+   "exchange": null,
+   "name": "MOVEIX INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2016-10-11",
+   "exchange": "NASDAQ Capital",
+   "name": "ORGANOGENESIS HOLDINGS INC.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AHPAU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2016-10-11",
+   "exchange": "NASDAQ Capital",
+   "name": "AZURRX BIOPHARMA, INC.",
+   "numberOfShares": 960000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "AZRX",
+   "totalSharesValue": 5280000
+  },
+  {
+   "date": "2016-10-07",
+   "exchange": null,
+   "name": "GPM PETROLEUM LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-10-07",
+   "exchange": "NASDAQ Global",
+   "name": "EVERSPIN TECHNOLOGIES INC",
+   "numberOfShares": 5000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "MRAM",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2016-10-07",
+   "exchange": "NYSE",
+   "name": "CAMPING WORLD HOLDINGS, INC.",
+   "numberOfShares": 11363636,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "CWH",
+   "totalSharesValue": 249999992
+  },
+  {
+   "date": "2016-10-06",
+   "exchange": "NASDAQ Global Select",
+   "name": "COUPA SOFTWARE INC",
+   "numberOfShares": 7400000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "COUP",
+   "totalSharesValue": 133200000
+  },
+  {
+   "date": "2016-10-06",
+   "exchange": "NASDAQ Global",
+   "name": "OBALON THERAPEUTICS INC",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "OBLN",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2016-10-06",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SCWORX CORP.",
+   "numberOfShares": 3333333,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "AMMA",
+   "totalSharesValue": 14999999
+  },
+  {
+   "date": "2016-10-06",
+   "exchange": "NYSE",
+   "name": "AQUAVENTURE HOLDINGS LTD",
+   "numberOfShares": 6500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "WAAS",
+   "totalSharesValue": 117000000
+  },
+  {
+   "date": "2016-10-06",
+   "exchange": "NYSE",
+   "name": "ADVANCED DISPOSAL SERVICES, INC.",
+   "numberOfShares": 19250000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ADSW",
+   "totalSharesValue": 346500000
+  },
+  {
+   "date": "2016-10-06",
+   "exchange": null,
+   "name": "TEMIR CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  }
+ ]
+}

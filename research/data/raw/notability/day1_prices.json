@@ -1876,5 +1876,770 @@
   "d1_volume": 9179064,
   "calendar_listing_date": "2021-10-27",
   "n_bars": 8
+ },
+ "AKRO": {
+  "symbol": "AKRO",
+  "first_trade_date": "2019-06-20",
+  "d1_open": 16.16,
+  "d1_close": 18.32,
+  "d1_volume": 2983284,
+  "calendar_listing_date": "2019-06-20",
+  "n_bars": 7
+ },
+ "CRSR": {
+  "symbol": "CRSR",
+  "first_trade_date": "2020-09-23",
+  "d1_open": 15.12,
+  "d1_close": 14.25,
+  "d1_volume": 12759268,
+  "calendar_listing_date": "2020-09-23",
+  "n_bars": 8
+ },
+ "BRDG": {
+  "symbol": "BRDG",
+  "first_trade_date": "2021-07-16",
+  "d1_open": 14.35,
+  "d1_close": 15.65,
+  "d1_volume": 8498465,
+  "calendar_listing_date": "2021-07-16",
+  "n_bars": 7
+ },
+ "YALA": {
+  "symbol": "YALA",
+  "first_trade_date": "2020-09-30",
+  "d1_open": 9.75,
+  "d1_close": 7.0,
+  "d1_volume": 13234144,
+  "calendar_listing_date": "2020-09-30",
+  "n_bars": 8
+ },
+ "BCAX": {
+  "symbol": "BCAX",
+  "first_trade_date": "2024-09-13",
+  "d1_open": 26.25,
+  "d1_close": 23.41,
+  "d1_volume": 5074191,
+  "calendar_listing_date": "2024-09-13",
+  "n_bars": 7
+ },
+ "OTLY": {
+  "symbol": "OTLY",
+  "first_trade_date": "2021-05-20",
+  "d1_open": 22.12,
+  "d1_close": 20.2,
+  "d1_volume": 43594023,
+  "calendar_listing_date": "2021-05-20",
+  "n_bars": 7
+ },
+ "WAVE": {
+  "symbol": "WAVE",
+  "first_trade_date": "2021-07-01",
+  "d1_open": 16.0,
+  "d1_close": 10.85,
+  "d1_volume": 642652,
+  "calendar_listing_date": "2021-07-01",
+  "n_bars": 6
+ },
+ "DNUT": {
+  "symbol": "DNUT",
+  "first_trade_date": "2021-07-01",
+  "d1_open": 16.3,
+  "d1_close": 21.0,
+  "d1_volume": 40888208,
+  "calendar_listing_date": "2021-07-01",
+  "n_bars": 6
+ },
+ "OSH": {
+  "symbol": "OSH",
+  "first_trade_date": "2020-08-06",
+  "d1_open": 42.5,
+  "d1_close": 40.0,
+  "d1_volume": 8211731,
+  "calendar_listing_date": "2020-08-06",
+  "n_bars": 7
+ },
+ "VRAR": {
+  "symbol": "VRAR",
+  "first_trade_date": "2021-07-01",
+  "d1_open": 11.75,
+  "d1_close": 17.66,
+  "d1_volume": 7743269,
+  "calendar_listing_date": "2021-07-01",
+  "n_bars": 6
+ },
+ "ZBIO": {
+  "symbol": "ZBIO",
+  "first_trade_date": "2024-09-13",
+  "d1_open": 18.35,
+  "d1_close": 18.15,
+  "d1_volume": 1924933,
+  "calendar_listing_date": "2024-09-13",
+  "n_bars": 7
+ },
+ "ABCL": {
+  "symbol": "ABCL",
+  "first_trade_date": "2020-12-11",
+  "d1_open": 61.0,
+  "d1_close": 58.9,
+  "d1_volume": 9249222,
+  "calendar_listing_date": "2020-12-11",
+  "n_bars": 7
+ },
+ "PAX": {
+  "symbol": "PAX",
+  "first_trade_date": "2021-01-22",
+  "d1_open": 21.5,
+  "d1_close": 19.9,
+  "d1_volume": 15585236,
+  "calendar_listing_date": "2021-01-22",
+  "n_bars": 7
+ },
+ "TIG": {
+  "symbol": "TIG",
+  "first_trade_date": "2020-07-16",
+  "d1_open": 17.05,
+  "d1_close": 15.51,
+  "d1_volume": 7615823,
+  "calendar_listing_date": "2020-07-16",
+  "n_bars": 7
+ },
+ "BREA": {
+  "symbol": "BREA",
+  "first_trade_date": "2023-01-27",
+  "d1_open": 5.0,
+  "d1_close": 4.82,
+  "d1_volume": 846586,
+  "calendar_listing_date": "2023-01-27",
+  "n_bars": 7
+ },
+ "EVMN": {
+  "symbol": "EVMN",
+  "first_trade_date": "2025-11-06",
+  "d1_open": 17.25,
+  "d1_close": 20.23,
+  "d1_volume": 2535750,
+  "calendar_listing_date": "2025-11-06",
+  "n_bars": 7
+ },
+ "VERV": {
+  "symbol": "VERV",
+  "first_trade_date": "2021-06-17",
+  "d1_open": 30.0,
+  "d1_close": 31.92,
+  "d1_volume": 4168693,
+  "calendar_listing_date": "2021-06-17",
+  "n_bars": 7
+ },
+ "PCVX": {
+  "symbol": "PCVX",
+  "first_trade_date": "2020-06-12",
+  "d1_open": 20.8,
+  "d1_close": 26.15,
+  "d1_volume": 3627331,
+  "calendar_listing_date": "2020-06-12",
+  "n_bars": 7
+ },
+ "ARHS": {
+  "symbol": "ARHS",
+  "first_trade_date": "2021-11-04",
+  "d1_open": 12.5,
+  "d1_close": 12.8,
+  "d1_volume": 5794852,
+  "calendar_listing_date": "2021-11-04",
+  "n_bars": 7
+ },
+ "SRM": {
+  "symbol": "SRM",
+  "first_trade_date": "2023-08-15",
+  "d1_open": 4.0,
+  "d1_close": 4.98,
+  "d1_volume": 3659010,
+  "calendar_listing_date": "2023-08-15",
+  "n_bars": 9
+ },
+ "TIVC": {
+  "symbol": "TIVC",
+  "first_trade_date": "2021-11-11",
+  "d1_open": 6.0,
+  "d1_close": 5.19,
+  "d1_volume": 2600333,
+  "calendar_listing_date": "2021-11-11",
+  "n_bars": 7
+ },
+ "SBTX": {
+  "symbol": "SBTX",
+  "first_trade_date": "2020-12-04",
+  "d1_open": 29.0,
+  "d1_close": 25.0,
+  "d1_volume": 3564332,
+  "calendar_listing_date": "2020-12-04",
+  "n_bars": 7
+ },
+ "BASE": {
+  "symbol": "BASE",
+  "first_trade_date": "2021-07-22",
+  "d1_open": 29.6,
+  "d1_close": 30.4,
+  "d1_volume": 5884350,
+  "calendar_listing_date": "2021-07-22",
+  "n_bars": 7
+ },
+ "RSKD": {
+  "symbol": "RSKD",
+  "first_trade_date": "2021-07-29",
+  "d1_open": 27.0,
+  "d1_close": 26.0,
+  "d1_volume": 10440032,
+  "calendar_listing_date": "2021-07-29",
+  "n_bars": 7
+ },
+ "ALMS": {
+  "symbol": "ALMS",
+  "first_trade_date": "2024-06-28",
+  "d1_open": 13.5,
+  "d1_close": 13.3,
+  "d1_volume": 1767553,
+  "calendar_listing_date": "2024-06-28",
+  "n_bars": 6
+ },
+ "GUTS": {
+  "symbol": "GUTS",
+  "first_trade_date": "2024-02-02",
+  "d1_open": 13.75,
+  "d1_close": 12.85,
+  "d1_volume": 2947038,
+  "calendar_listing_date": "2024-02-02",
+  "n_bars": 7
+ },
+ "CVKD": {
+  "symbol": "CVKD",
+  "first_trade_date": "2023-01-20",
+  "d1_open": 5.71,
+  "d1_close": 4.12,
+  "d1_volume": 1938781,
+  "calendar_listing_date": "2023-01-20",
+  "n_bars": 7
+ },
+ "SMWB": {
+  "symbol": "SMWB",
+  "first_trade_date": "2021-05-12",
+  "d1_open": 20.76,
+  "d1_close": 21.87,
+  "d1_volume": 5663349,
+  "calendar_listing_date": "2021-05-12",
+  "n_bars": 8
+ },
+ "ASAN": {
+  "symbol": "ASAN",
+  "first_trade_date": "2020-09-30",
+  "d1_open": 27.0,
+  "d1_close": 28.8,
+  "d1_volume": 40825908,
+  "calendar_listing_date": "2020-09-30",
+  "n_bars": 8
+ },
+ "PHAT": {
+  "symbol": "PHAT",
+  "first_trade_date": "2019-10-25",
+  "d1_open": 22.5,
+  "d1_close": 24.6,
+  "d1_volume": 857339,
+  "calendar_listing_date": "2019-10-25",
+  "n_bars": 7
+ },
+ "PICS": {
+  "symbol": "PICS",
+  "first_trade_date": "2026-01-29",
+  "d1_open": 19.5,
+  "d1_close": 19.0,
+  "d1_volume": 10475868,
+  "calendar_listing_date": "2026-01-29",
+  "n_bars": 7
+ },
+ "QLI": {
+  "symbol": "QLI",
+  "first_trade_date": "2021-01-12",
+  "d1_open": 8.01,
+  "d1_close": 10.0,
+  "d1_volume": 8120482,
+  "calendar_listing_date": "2021-01-12",
+  "n_bars": 8
+ },
+ "TCRR": {
+  "symbol": "TCRR",
+  "first_trade_date": "2019-02-14",
+  "d1_open": 15.15,
+  "d1_close": 15.07,
+  "d1_volume": 614686,
+  "calendar_listing_date": "2019-02-14",
+  "n_bars": 6
+ },
+ "SILK": {
+  "symbol": "SILK",
+  "first_trade_date": "2019-04-04",
+  "d1_open": 33.15,
+  "d1_close": 36.18,
+  "d1_volume": 5906640,
+  "calendar_listing_date": "2019-04-04",
+  "n_bars": 7
+ },
+ "NBTX": {
+  "symbol": "NBTX",
+  "first_trade_date": "2020-12-11",
+  "d1_open": 18.15,
+  "d1_close": 16.98,
+  "d1_volume": 624542,
+  "calendar_listing_date": "2020-12-11",
+  "n_bars": 7
+ },
+ "BEAM": {
+  "symbol": "BEAM",
+  "first_trade_date": "2020-02-06",
+  "d1_open": 24.0,
+  "d1_close": 18.75,
+  "d1_volume": 5873277,
+  "calendar_listing_date": "2020-02-06",
+  "n_bars": 7
+ },
+ "WORK": {
+  "symbol": "WORK",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "ELEV": {
+  "symbol": "ELEV",
+  "first_trade_date": "2021-06-25",
+  "d1_open": 14.0,
+  "d1_close": 11.44,
+  "d1_volume": 2234402,
+  "calendar_listing_date": "2021-06-25",
+  "n_bars": 6
+ },
+ "CRCT": {
+  "symbol": "CRCT",
+  "first_trade_date": "2021-03-25",
+  "d1_open": 15.8,
+  "d1_close": 17.8,
+  "d1_volume": 7456727,
+  "calendar_listing_date": "2021-03-25",
+  "n_bars": 6
+ },
+ "ABOS": {
+  "symbol": "ABOS",
+  "first_trade_date": "2021-07-01",
+  "d1_open": 25.07,
+  "d1_close": 20.1,
+  "d1_volume": 2246748,
+  "calendar_listing_date": "2021-07-01",
+  "n_bars": 6
+ },
+ "UCL": {
+  "symbol": "UCL",
+  "first_trade_date": "2020-06-10",
+  "d1_open": 22.5,
+  "d1_close": 17.24,
+  "d1_volume": 948337,
+  "calendar_listing_date": "2020-06-10",
+  "n_bars": 8
+ },
+ "TELA": {
+  "symbol": "TELA",
+  "first_trade_date": "2019-11-08",
+  "d1_open": 13.75,
+  "d1_close": 13.35,
+  "d1_volume": 1269805,
+  "calendar_listing_date": "2019-11-08",
+  "n_bars": 7
+ },
+ "EDR": {
+  "symbol": "EDR",
+  "first_trade_date": "2021-04-28",
+  "d1_open": 24.0,
+  "d1_close": 24.0,
+  "d1_volume": 100,
+  "calendar_listing_date": "2021-04-29",
+  "n_bars": 8
+ },
+ "MEC": {
+  "symbol": "MEC",
+  "first_trade_date": "2019-05-09",
+  "d1_open": 17.0,
+  "d1_close": 16.47,
+  "d1_volume": 2814461,
+  "calendar_listing_date": "2019-05-09",
+  "n_bars": 7
+ },
+ "ZJYL": {
+  "symbol": "ZJYL",
+  "first_trade_date": "2023-03-28",
+  "d1_open": 8.0,
+  "d1_close": 7.95,
+  "d1_volume": 320485,
+  "calendar_listing_date": "2023-03-28",
+  "n_bars": 8
+ },
+ "BOW": {
+  "symbol": "BOW",
+  "first_trade_date": "2024-05-23",
+  "d1_open": 23.0,
+  "d1_close": 23.8,
+  "d1_volume": 3335848,
+  "calendar_listing_date": "2024-05-23",
+  "n_bars": 6
+ },
+ "KRMN": {
+  "symbol": "KRMN",
+  "first_trade_date": "2025-02-13",
+  "d1_open": 30.0,
+  "d1_close": 30.05,
+  "d1_volume": 12999113,
+  "calendar_listing_date": "2025-02-13",
+  "n_bars": 6
+ },
+ "VALN": {
+  "symbol": "VALN",
+  "first_trade_date": "2021-05-05",
+  "d1_open": 26.41,
+  "d1_close": 26.41,
+  "d1_volume": 100,
+  "calendar_listing_date": "2021-05-06",
+  "n_bars": 8
+ },
+ "BCYC": {
+  "symbol": "BCYC",
+  "first_trade_date": "2019-05-23",
+  "d1_open": 13.37,
+  "d1_close": 12.0,
+  "d1_volume": 988578,
+  "calendar_listing_date": "2019-05-23",
+  "n_bars": 6
+ },
+ "AVR": {
+  "symbol": "AVR",
+  "first_trade_date": "2024-12-13",
+  "d1_open": 6.0,
+  "d1_close": 5.6,
+  "d1_volume": 2207488,
+  "calendar_listing_date": "2024-12-13",
+  "n_bars": 7
+ },
+ "SPAI": {
+  "symbol": "SPAI",
+  "first_trade_date": "2024-08-28",
+  "d1_open": 4.0,
+  "d1_close": 4.27,
+  "d1_volume": 437719,
+  "calendar_listing_date": "2024-08-28",
+  "n_bars": 7
+ },
+ "U": {
+  "symbol": "U",
+  "first_trade_date": "2020-09-18",
+  "d1_open": 75.0,
+  "d1_close": 68.35,
+  "d1_volume": 20620981,
+  "calendar_listing_date": "2020-09-18",
+  "n_bars": 7
+ },
+ "MENS": {
+  "symbol": "MENS",
+  "first_trade_date": "2025-06-17",
+  "d1_open": 15.0,
+  "d1_close": 10.11,
+  "d1_volume": 1459814,
+  "calendar_listing_date": "2025-06-17",
+  "n_bars": 8
+ },
+ "HSHP": {
+  "symbol": "HSHP",
+  "first_trade_date": "2023-03-27",
+  "d1_open": 4.9486,
+  "d1_close": 4.9486,
+  "d1_volume": 0,
+  "calendar_listing_date": "2023-03-31",
+  "n_bars": 10
+ },
+ "CERT": {
+  "symbol": "CERT",
+  "first_trade_date": "2020-12-11",
+  "d1_open": 29.9,
+  "d1_close": 38.08,
+  "d1_volume": 20151229,
+  "calendar_listing_date": "2020-12-11",
+  "n_bars": 7
+ },
+ "DNAY": {
+  "symbol": "DNAY",
+  "first_trade_date": "2021-06-18",
+  "d1_open": 20.0,
+  "d1_close": 18.5,
+  "d1_volume": 3906822,
+  "calendar_listing_date": "2021-06-18",
+  "n_bars": 7
+ },
+ "PAND": {
+  "symbol": "PAND",
+  "first_trade_date": "2020-07-17",
+  "d1_open": 27.0,
+  "d1_close": 18.1,
+  "d1_volume": 3870102,
+  "calendar_listing_date": "2020-07-17",
+  "n_bars": 7
+ },
+ "UCAR": {
+  "symbol": "UCAR",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "QSG": {
+  "symbol": "QSG",
+  "first_trade_date": "2023-01-25",
+  "d1_open": 13.7,
+  "d1_close": 12.52,
+  "d1_volume": 1165895,
+  "calendar_listing_date": "2023-01-25",
+  "n_bars": 8
+ },
+ "FTEL": {
+  "symbol": "FTEL",
+  "first_trade_date": "2023-08-08",
+  "d1_open": 5.0,
+  "d1_close": 5.05,
+  "d1_volume": 2298679,
+  "calendar_listing_date": "2023-08-08",
+  "n_bars": 9
+ },
+ "TNYA": {
+  "symbol": "TNYA",
+  "first_trade_date": "2021-07-30",
+  "d1_open": 19.5,
+  "d1_close": 15.35,
+  "d1_volume": 2046073,
+  "calendar_listing_date": "2021-07-30",
+  "n_bars": 7
+ },
+ "IZTC": {
+  "symbol": "IZTC",
+  "first_trade_date": "2024-11-13",
+  "d1_open": 11.1,
+  "d1_close": 8.65,
+  "d1_volume": 57722,
+  "calendar_listing_date": "2024-11-13",
+  "n_bars": 8
+ },
+ "APR": {
+  "symbol": "APR",
+  "first_trade_date": "2021-02-11",
+  "d1_open": 28.0,
+  "d1_close": 23.36,
+  "d1_volume": 2404014,
+  "calendar_listing_date": "2021-02-11",
+  "n_bars": 6
+ },
+ "OMGA": {
+  "symbol": "OMGA",
+  "first_trade_date": "2021-07-30",
+  "d1_open": 22.1,
+  "d1_close": 16.0,
+  "d1_volume": 1171249,
+  "calendar_listing_date": "2021-07-30",
+  "n_bars": 7
+ },
+ "CADL": {
+  "symbol": "CADL",
+  "first_trade_date": "2021-07-27",
+  "d1_open": 8.0,
+  "d1_close": 7.0,
+  "d1_volume": 2273525,
+  "calendar_listing_date": "2021-07-27",
+  "n_bars": 9
+ },
+ "OLO": {
+  "symbol": "OLO",
+  "first_trade_date": "2021-03-17",
+  "d1_open": 32.0,
+  "d1_close": 34.75,
+  "d1_volume": 14665879,
+  "calendar_listing_date": "2021-03-17",
+  "n_bars": 8
+ },
+ "GOED": {
+  "symbol": "GOED",
+  "first_trade_date": "2020-07-31",
+  "d1_open": 9.4,
+  "d1_close": 8.9,
+  "d1_volume": 851060,
+  "calendar_listing_date": "2020-07-31",
+  "n_bars": 7
+ },
+ "JFU": {
+  "symbol": "JFU",
+  "first_trade_date": "2019-08-15",
+  "d1_open": 10.88,
+  "d1_close": 9.76,
+  "d1_volume": 2555613,
+  "calendar_listing_date": "2019-08-15",
+  "n_bars": 7
+ },
+ "HMPT": {
+  "symbol": "HMPT",
+  "first_trade_date": "2021-01-29",
+  "d1_open": 9.6,
+  "d1_close": 11.32,
+  "d1_volume": 6202965,
+  "calendar_listing_date": "2021-01-29",
+  "n_bars": 7
+ },
+ "YSG": {
+  "symbol": "YSG",
+  "first_trade_date": "2020-11-19",
+  "d1_open": 17.51,
+  "d1_close": 18.4,
+  "d1_volume": 35762492,
+  "calendar_listing_date": "2020-11-19",
+  "n_bars": 6
+ },
+ "AMTI": {
+  "symbol": "AMTI",
+  "first_trade_date": "2020-06-05",
+  "d1_open": 26.0,
+  "d1_close": 17.98,
+  "d1_volume": 3479293,
+  "calendar_listing_date": "2020-06-05",
+  "n_bars": 7
+ },
+ "BEAT": {
+  "symbol": "BEAT",
+  "first_trade_date": "2021-11-11",
+  "d1_open": 5.4,
+  "d1_close": 4.69,
+  "d1_volume": 2641299,
+  "calendar_listing_date": "2021-11-11",
+  "n_bars": 7
+ },
+ "VIK": {
+  "symbol": "VIK",
+  "first_trade_date": "2024-05-01",
+  "d1_open": 26.15,
+  "d1_close": 26.1,
+  "d1_volume": 35024886,
+  "calendar_listing_date": "2024-05-01",
+  "n_bars": 8
+ },
+ "RAPP": {
+  "symbol": "RAPP",
+  "first_trade_date": "2024-06-07",
+  "d1_open": 18.0,
+  "d1_close": 20.8,
+  "d1_volume": 1777794,
+  "calendar_listing_date": "2024-06-07",
+  "n_bars": 7
+ },
+ "CMBM": {
+  "symbol": "CMBM",
+  "first_trade_date": "2019-06-26",
+  "d1_open": 10.08,
+  "d1_close": 9.7,
+  "d1_volume": 4198360,
+  "calendar_listing_date": "2019-06-26",
+  "n_bars": 7
+ },
+ "ULCC": {
+  "symbol": "ULCC",
+  "first_trade_date": "2021-04-01",
+  "d1_open": 18.61,
+  "d1_close": 18.85,
+  "d1_volume": 10277864,
+  "calendar_listing_date": "2021-04-01",
+  "n_bars": 6
+ },
+ "ICG": {
+  "symbol": "ICG",
+  "first_trade_date": "2023-03-16",
+  "d1_open": 8.0,
+  "d1_close": 8.0,
+  "d1_volume": 501703,
+  "calendar_listing_date": "2023-03-16",
+  "n_bars": 7
+ },
+ "FSBC": {
+  "symbol": "FSBC",
+  "first_trade_date": "2021-05-04",
+  "d1_open": 20.0,
+  "d1_close": 20.0,
+  "d1_volume": 100,
+  "calendar_listing_date": "2021-05-05",
+  "n_bars": 9
+ },
+ "DAWN": {
+  "symbol": "DAWN",
+  "first_trade_date": "2021-05-27",
+  "d1_open": 25.0,
+  "d1_close": 25.89,
+  "d1_volume": 1961923,
+  "calendar_listing_date": "2021-05-27",
+  "n_bars": 6
+ },
+ "NGMS": {
+  "symbol": "NGMS",
+  "first_trade_date": "2020-11-19",
+  "d1_open": 21.15,
+  "d1_close": 21.87,
+  "d1_volume": 2749774,
+  "calendar_listing_date": "2020-11-19",
+  "n_bars": 6
+ },
+ "HOOD": {
+  "symbol": "HOOD",
+  "first_trade_date": "2021-07-29",
+  "d1_open": 38.0,
+  "d1_close": 34.82,
+  "d1_volume": 101816824,
+  "calendar_listing_date": "2021-07-29",
+  "n_bars": 7
+ },
+ "RLX": {
+  "symbol": "RLX",
+  "first_trade_date": "2021-01-22",
+  "d1_open": 22.34,
+  "d1_close": 29.51,
+  "d1_volume": 95762062,
+  "calendar_listing_date": "2021-01-22",
+  "n_bars": 7
+ },
+ "FREQ": {
+  "symbol": "FREQ",
+  "first_trade_date": "2019-10-03",
+  "d1_open": 11.2,
+  "d1_close": 13.7,
+  "d1_volume": 1847152,
+  "calendar_listing_date": "2019-10-03",
+  "n_bars": 7
+ },
+ "CGEM": {
+  "symbol": "CGEM",
+  "first_trade_date": "2021-01-08",
+  "d1_open": 42.0,
+  "d1_close": 29.91,
+  "d1_volume": 4054268,
+  "calendar_listing_date": "2021-01-08",
+  "n_bars": 6
+ },
+ "MRX": {
+  "symbol": "MRX",
+  "bars": [],
+  "note": "ticker now held by an entity trading only from 2026-07-01 (Marex Group Ltd) -- rename or symbol reuse",
+  "tiingo_name": "Marex Group Ltd",
+  "tiingo_start": "2026-07-01",
+  "calendar_listing_date": "2024-04-25"
+ },
+ "SPCX": {
+  "symbol": "SPCX",
+  "first_trade_date": "2026-06-12",
+  "d1_open": 150.0,
+  "d1_close": 160.95,
+  "d1_volume": 522131790,
+  "calendar_listing_date": "2026-06-12",
+  "n_bars": 6
  }
 }

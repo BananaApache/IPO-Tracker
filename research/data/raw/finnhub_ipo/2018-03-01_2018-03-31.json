@@ -1,0 +1,307 @@
+{
+ "from": "2018-03-01",
+ "to": "2018-03-31",
+ "fetched_at": "2026-09-09T01:25:51.558572+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2018-03-30",
+   "exchange": null,
+   "name": "BEST GOFER, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 52000
+  },
+  {
+   "date": "2018-03-29",
+   "exchange": "NASDAQ Global",
+   "name": "IQIYI, INC.",
+   "numberOfShares": 125000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "IQ",
+   "totalSharesValue": 2250000000
+  },
+  {
+   "date": "2018-03-29",
+   "exchange": "NASDAQ Capital",
+   "name": "GENPREX, INC.",
+   "numberOfShares": 1280000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "GNPX",
+   "totalSharesValue": 6400000
+  },
+  {
+   "date": "2018-03-28",
+   "exchange": null,
+   "name": "MINARO CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2018-03-27",
+   "exchange": "NYSE",
+   "name": "GREENTREE HOSPITALITY GROUP LTD.",
+   "numberOfShares": 10200000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "GHG",
+   "totalSharesValue": 142800000
+  },
+  {
+   "date": "2018-03-26",
+   "exchange": null,
+   "name": "YETI HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-03-23",
+   "exchange": "NASDAQ Global Select",
+   "name": "DROPBOX, INC.",
+   "numberOfShares": 36000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "DBX",
+   "totalSharesValue": 756000000
+  },
+  {
+   "date": "2018-03-23",
+   "exchange": "NYSE",
+   "name": "SUNLANDS TECHNOLOGY GROUP",
+   "numberOfShares": 13000000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "STG",
+   "totalSharesValue": 149500000
+  },
+  {
+   "date": "2018-03-22",
+   "exchange": null,
+   "name": "CRESCENT ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-03-22",
+   "exchange": "NYSE Arca",
+   "name": "ETF MANAGERS GROUP COMMODITY TRUST I",
+   "numberOfShares": 10000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "BDRY",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2018-03-20",
+   "exchange": "NASDAQ Capital",
+   "name": "GOLDEN BULL LTD",
+   "numberOfShares": 1550000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "DNJR",
+   "totalSharesValue": 6200000
+  },
+  {
+   "date": "2018-03-20",
+   "exchange": null,
+   "name": "CASTLE BRIDGE IMPACT MEDIA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2018-03-16",
+   "exchange": "NASDAQ Global Select",
+   "name": "ZSCALER, INC.",
+   "numberOfShares": 12000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ZS",
+   "totalSharesValue": 192000000
+  },
+  {
+   "date": "2018-03-16",
+   "exchange": "NASDAQ Capital",
+   "name": "INTERNATIONAL GENERAL INSURANCE HOLDINGS LTD",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TIBRU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2018-03-16",
+   "exchange": "NASDAQ Capital",
+   "name": "SENMIAO TECHNOLOGY LTD",
+   "numberOfShares": 3000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "AIHS",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2018-03-16",
+   "exchange": null,
+   "name": "SUNBURST ACQUISITIONS V INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SGHL",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2018-03-15",
+   "exchange": null,
+   "name": "SOLORO GOLD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-03-15",
+   "exchange": "NYSE",
+   "name": "ARCUS BIOSCIENCES, INC.",
+   "numberOfShares": 8000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "RCUS",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2018-03-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "BRIDGEWATER BANCSHARES INC",
+   "numberOfShares": 6700000,
+   "price": "11.75",
+   "status": "priced",
+   "symbol": "BWB",
+   "totalSharesValue": 78725000
+  },
+  {
+   "date": "2018-03-14",
+   "exchange": "NASDAQ Capital",
+   "name": "OPES ACQUISITION CORP.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OPESU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2018-03-12",
+   "exchange": null,
+   "name": "TIBURON INTERNATIONAL TRADING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 183000
+  },
+  {
+   "date": "2018-03-12",
+   "exchange": null,
+   "name": "WINNAN CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 160000
+  },
+  {
+   "date": "2018-03-12",
+   "exchange": null,
+   "name": "DERMA GLISTEN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2018-03-08",
+   "exchange": "NASDAQ Capital",
+   "name": "BIOXCEL THERAPEUTICS, INC.",
+   "numberOfShares": 5454545,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "BTAI",
+   "totalSharesValue": 59999995
+  },
+  {
+   "date": "2018-03-06",
+   "exchange": null,
+   "name": "UNIVISION HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-03-05",
+   "exchange": null,
+   "name": "OP BANCORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "OPBK",
+   "totalSharesValue": 22000000
+  },
+  {
+   "date": "2018-03-02",
+   "exchange": null,
+   "name": "HOMOLOGY MEDICINES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FIXX",
+   "totalSharesValue": 144000000
+  },
+  {
+   "date": "2018-03-02",
+   "exchange": null,
+   "name": "BILIBILI INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BILI",
+   "totalSharesValue": 483000000
+  },
+  {
+   "date": "2018-03-02",
+   "exchange": null,
+   "name": "ONESMART INTERNATIONAL EDUCATION GROUP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ONE",
+   "totalSharesValue": 179300000
+  },
+  {
+   "date": "2018-03-02",
+   "exchange": null,
+   "name": "UNUM THERAPEUTICS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "UMRX",
+   "totalSharesValue": 69240000
+  }
+ ]
+}

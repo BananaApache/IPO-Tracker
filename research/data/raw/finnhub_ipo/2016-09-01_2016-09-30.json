@@ -1,0 +1,327 @@
+{
+ "from": "2016-09-01",
+ "to": "2016-09-30",
+ "fetched_at": "2026-09-09T01:25:15.537911+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2016-09-30",
+   "exchange": "NASDAQ Global Select",
+   "name": "NUTANIX, INC.",
+   "numberOfShares": 14870000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "NTNX",
+   "totalSharesValue": 237920000
+  },
+  {
+   "date": "2016-09-29",
+   "exchange": "NASDAQ Global",
+   "name": "TABULA RASA HEALTHCARE, INC.",
+   "numberOfShares": 4300000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "TRHC",
+   "totalSharesValue": 51600000
+  },
+  {
+   "date": "2016-09-29",
+   "exchange": "NYSE",
+   "name": "MEDEQUITIES REALTY TRUST, INC.",
+   "numberOfShares": 19925333,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "MRT",
+   "totalSharesValue": 239103996
+  },
+  {
+   "date": "2016-09-28",
+   "exchange": "NASDAQ Capital",
+   "name": "SHINECO, INC.",
+   "numberOfShares": 1713190,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "TYHT",
+   "totalSharesValue": 7709355
+  },
+  {
+   "date": "2016-09-27",
+   "exchange": null,
+   "name": "BMC CAPITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8000000
+  },
+  {
+   "date": "2016-09-23",
+   "exchange": "NASDAQ Global",
+   "name": "APPTIO INC",
+   "numberOfShares": 6000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "APTI",
+   "totalSharesValue": 96000000
+  },
+  {
+   "date": "2016-09-23",
+   "exchange": "NASDAQ Global Select",
+   "name": "GRIDSUM HOLDING INC.",
+   "numberOfShares": 6700000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "GSUM",
+   "totalSharesValue": 87100000
+  },
+  {
+   "date": "2016-09-23",
+   "exchange": "NASDAQ Global",
+   "name": "AC IMMUNE SA",
+   "numberOfShares": 6000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ACIU",
+   "totalSharesValue": 66000000
+  },
+  {
+   "date": "2016-09-23",
+   "exchange": "NYSE",
+   "name": "VALVOLINE INC",
+   "numberOfShares": 30000000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "VVV",
+   "totalSharesValue": 660000000
+  },
+  {
+   "date": "2016-09-22",
+   "exchange": "NYSE",
+   "name": "E.L.F. BEAUTY, INC.",
+   "numberOfShares": 8333333,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ELF",
+   "totalSharesValue": 141666661
+  },
+  {
+   "date": "2016-09-22",
+   "exchange": "NASDAQ Global Select",
+   "name": "CAPSTAR FINANCIAL HOLDINGS, INC.",
+   "numberOfShares": 2585000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CSTR",
+   "totalSharesValue": 38775000
+  },
+  {
+   "date": "2016-09-22",
+   "exchange": null,
+   "name": "KOLDECK INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2016-09-21",
+   "exchange": "NASDAQ Global",
+   "name": "TRADE DESK, INC.",
+   "numberOfShares": 4666667,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "TTD",
+   "totalSharesValue": 84000006
+  },
+  {
+   "date": "2016-09-21",
+   "exchange": "NASDAQ Global",
+   "name": "NOVAN, INC.",
+   "numberOfShares": 4100000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "NOVN",
+   "totalSharesValue": 45100000
+  },
+  {
+   "date": "2016-09-19",
+   "exchange": "OTCBB",
+   "name": "LORD GLOBAL CORP",
+   "numberOfShares": 20000000,
+   "price": "1.00",
+   "status": "priced",
+   "symbol": "BGFT",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2016-09-19",
+   "exchange": null,
+   "name": "CLANCY CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2016-09-16",
+   "exchange": null,
+   "name": "SANCILIO PHARMACEUTICALS COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-09-16",
+   "exchange": "NYSE",
+   "name": "BANK OF N.T. BUTTERFIELD & SON LTD",
+   "numberOfShares": 10638298,
+   "price": "23.50",
+   "status": "priced",
+   "symbol": "NTB",
+   "totalSharesValue": 250000003
+  },
+  {
+   "date": "2016-09-16",
+   "exchange": "NYSE",
+   "name": "FB FINANCIAL CORP",
+   "numberOfShares": 5882352,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "FBK",
+   "totalSharesValue": 111764688
+  },
+  {
+   "date": "2016-09-16",
+   "exchange": "NASDAQ Global",
+   "name": "EVERBRIDGE, INC.",
+   "numberOfShares": 7500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "EVBG",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2016-09-16",
+   "exchange": "NASDAQ Capital",
+   "name": "SABAN CAPITAL ACQUISITION CORP.",
+   "numberOfShares": 23500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SCACU",
+   "totalSharesValue": 235000000
+  },
+  {
+   "date": "2016-09-15",
+   "exchange": "NYSE",
+   "name": "NOBLE MIDSTREAM PARTNERS LP",
+   "numberOfShares": 12500000,
+   "price": "22.50",
+   "status": "priced",
+   "symbol": "NBLX",
+   "totalSharesValue": 281250000
+  },
+  {
+   "date": "2016-09-14",
+   "exchange": null,
+   "name": "PHILADELPHIA ENERGY SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-09-14",
+   "exchange": null,
+   "name": "PES LOGISTICS PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-09-14",
+   "exchange": "NASDAQ Capital",
+   "name": "PRIORITY TECHNOLOGY HOLDINGS, INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MACQU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2016-09-13",
+   "exchange": null,
+   "name": "LOANDEPOT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-09-13",
+   "exchange": null,
+   "name": "GALEM GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2016-09-09",
+   "exchange": null,
+   "name": "BOXXY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2016-09-09",
+   "exchange": null,
+   "name": "CLEANGOAL ENERGY, CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 750500
+  },
+  {
+   "date": "2016-09-02",
+   "exchange": null,
+   "name": "GEX MANAGEMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1500000
+  },
+  {
+   "date": "2016-09-02",
+   "exchange": null,
+   "name": "FULGENT GENETICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FLGT",
+   "totalSharesValue": 37800000
+  },
+  {
+   "date": "2016-09-01",
+   "exchange": null,
+   "name": "JASMIN CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  }
+ ]
+}

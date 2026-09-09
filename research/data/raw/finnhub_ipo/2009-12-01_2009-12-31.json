@@ -1,0 +1,297 @@
+{
+ "from": "2009-12-01",
+ "to": "2009-12-31",
+ "fetched_at": "2026-09-09T01:22:33.542588+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2009-12-30",
+   "exchange": null,
+   "name": "ENVIRATRENDS, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 11000
+  },
+  {
+   "date": "2009-12-29",
+   "exchange": null,
+   "name": "VIBE VENTURES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000
+  },
+  {
+   "date": "2009-12-28",
+   "exchange": null,
+   "name": "VIM BEVERAGE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 59500
+  },
+  {
+   "date": "2009-12-23",
+   "exchange": null,
+   "name": "CLEARPOINT NEURO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-23",
+   "exchange": null,
+   "name": "RULES-BASED MEDICINE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-21",
+   "exchange": null,
+   "name": "SMILE BRANDS GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-18",
+   "exchange": null,
+   "name": "HALVERN REALTY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-18",
+   "exchange": null,
+   "name": "SOLYNDRA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-18",
+   "exchange": null,
+   "name": "FARMACIA CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2009-12-17",
+   "exchange": "New York Stock Exchange",
+   "name": "KRATON CORP",
+   "numberOfShares": 10294118,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "KRA",
+   "totalSharesValue": 138970593
+  },
+  {
+   "date": "2009-12-17",
+   "exchange": null,
+   "name": "ABBY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 375000
+  },
+  {
+   "date": "2009-12-16",
+   "exchange": null,
+   "name": "COMMONWEALTH REALTY PARTNERS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-16",
+   "exchange": "New York Stock Exchange",
+   "name": "TEAM HEALTH HOLDINGS INC.",
+   "numberOfShares": 13300000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "TMH",
+   "totalSharesValue": 159600000
+  },
+  {
+   "date": "2009-12-16",
+   "exchange": "New York Stock Exchange",
+   "name": "COBALT INTERNATIONAL ENERGY, INC.",
+   "numberOfShares": 63000000,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "CIE",
+   "totalSharesValue": 850500000
+  },
+  {
+   "date": "2009-12-15",
+   "exchange": null,
+   "name": "WEST-CORE DRILLING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 450000
+  },
+  {
+   "date": "2009-12-11",
+   "exchange": null,
+   "name": "CALLAHAN CAPITAL PROPERTIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-11",
+   "exchange": "New York Stock Exchange",
+   "name": "CONCORD MEDICAL SERVICES HOLDINGS LTD",
+   "numberOfShares": 12000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "CCM",
+   "totalSharesValue": 132000000
+  },
+  {
+   "date": "2009-12-11",
+   "exchange": "New York Stock Exchange",
+   "name": "KAR AUCTION SERVICES, INC.",
+   "numberOfShares": 25000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "KAR",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2009-12-11",
+   "exchange": "OTCBB",
+   "name": "VYSTAR CORP",
+   "numberOfShares": 4803338,
+   "price": "2.00",
+   "status": "priced",
+   "symbol": "VYST",
+   "totalSharesValue": 9606676
+  },
+  {
+   "date": "2009-12-11",
+   "exchange": "OTCBB",
+   "name": "OXFORD CITY FOOTBALL CLUB, INC.",
+   "numberOfShares": 20198500,
+   "price": "0.10",
+   "status": "priced",
+   "symbol": "OXFC",
+   "totalSharesValue": 2019850
+  },
+  {
+   "date": "2009-12-10",
+   "exchange": "Nasdaq National Market",
+   "name": "CHINA NUOKANG BIO-PHARMACEUTICAL INC.",
+   "numberOfShares": 5000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "NKBP",
+   "totalSharesValue": 45000000
+  },
+  {
+   "date": "2009-12-10",
+   "exchange": null,
+   "name": "SEV, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 34725
+  },
+  {
+   "date": "2009-12-09",
+   "exchange": "New York Stock Exchange",
+   "name": "PEBBLEBROOK HOTEL TRUST",
+   "numberOfShares": 17500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "PEB",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2009-12-07",
+   "exchange": null,
+   "name": "FILM DEPARTMENT HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-07",
+   "exchange": null,
+   "name": "NORTHSTAR HEALTHCARE INVESTORS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-07",
+   "exchange": null,
+   "name": "PYRAMID HOTELS & RESORTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-07",
+   "exchange": null,
+   "name": "BARD HOLDING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-02",
+   "exchange": null,
+   "name": "CHINA EDUCATION, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-12-01",
+   "exchange": null,
+   "name": "SECURITY SOLUTIONS GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

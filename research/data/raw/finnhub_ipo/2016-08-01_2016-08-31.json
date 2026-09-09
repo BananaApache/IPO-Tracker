@@ -1,0 +1,217 @@
+{
+ "from": "2016-08-01",
+ "to": "2016-08-31",
+ "fetched_at": "2026-09-09T01:25:13.535582+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2016-08-31",
+   "exchange": null,
+   "name": "BATTLERS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2016-08-26",
+   "exchange": null,
+   "name": "DIGICEL GROUP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-08-25",
+   "exchange": null,
+   "name": "DUONAS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2016-08-22",
+   "exchange": null,
+   "name": "BOWIE RESOURCE PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-08-19",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PHUNWARE, INC.",
+   "numberOfShares": 6500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "STLRU",
+   "totalSharesValue": 65000000
+  },
+  {
+   "date": "2016-08-18",
+   "exchange": null,
+   "name": "ELITESOFT GLOBAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1200000
+  },
+  {
+   "date": "2016-08-12",
+   "exchange": null,
+   "name": "MARKET VECTORS COMMODITY TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-08-12",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "AIRGAIN INC",
+   "numberOfShares": 1500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "AIRG",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2016-08-11",
+   "exchange": "Nasdaq National Market",
+   "name": "PROTAGONIST THERAPEUTICS, INC",
+   "numberOfShares": 7500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "PTGX",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2016-08-11",
+   "exchange": "Nasdaq National Market",
+   "name": "MEDPACE HOLDINGS, INC.",
+   "numberOfShares": 7000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "MEDP",
+   "totalSharesValue": 161000000
+  },
+  {
+   "date": "2016-08-10",
+   "exchange": null,
+   "name": "BLUE COAT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-08-09",
+   "exchange": null,
+   "name": "GEANT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2016-08-08",
+   "exchange": null,
+   "name": "OZ SAFEROOMS TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-08-05",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ATOMERA INC",
+   "numberOfShares": 3200000,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "ATMR",
+   "totalSharesValue": 24000000
+  },
+  {
+   "date": "2016-08-05",
+   "exchange": "Nasdaq National Market",
+   "name": "NEUROBO PHARMACEUTICALS, INC.",
+   "numberOfShares": 3000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GEMP",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2016-08-04",
+   "exchange": "Nasdaq National Market",
+   "name": "FIRST HAWAIIAN, INC.",
+   "numberOfShares": 21086957,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "FHB",
+   "totalSharesValue": 485000011
+  },
+  {
+   "date": "2016-08-04",
+   "exchange": "New York Stock Exchange",
+   "name": "AT HOME GROUP INC.",
+   "numberOfShares": 8667000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "HOME",
+   "totalSharesValue": 130005000
+  },
+  {
+   "date": "2016-08-04",
+   "exchange": null,
+   "name": "KASKAD CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2016-08-02",
+   "exchange": null,
+   "name": "BIOVENTUS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-08-02",
+   "exchange": null,
+   "name": "INVENTIV GROUP HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-08-01",
+   "exchange": null,
+   "name": "NEWMARKT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 160000
+  }
+ ]
+}

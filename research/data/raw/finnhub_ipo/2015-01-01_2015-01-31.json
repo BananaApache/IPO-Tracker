@@ -1,0 +1,387 @@
+{
+ "from": "2015-01-01",
+ "to": "2015-01-31",
+ "fetched_at": "2026-09-09T01:24:35.512256+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2015-01-30",
+   "exchange": "New York Stock Exchange",
+   "name": "INFRAREIT, INC.",
+   "numberOfShares": 20000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "HIFR",
+   "totalSharesValue": 460000000
+  },
+  {
+   "date": "2015-01-30",
+   "exchange": "New York Stock Exchange",
+   "name": "SHAKE SHACK INC.",
+   "numberOfShares": 5000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "SHAK",
+   "totalSharesValue": 105000000
+  },
+  {
+   "date": "2015-01-30",
+   "exchange": "Nasdaq National Market",
+   "name": "TRACON PHARMACEUTICALS, INC.",
+   "numberOfShares": 3600000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TCON",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2015-01-30",
+   "exchange": "Nasdaq National Market",
+   "name": "SPARK THERAPEUTICS, INC.",
+   "numberOfShares": 7000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "ONCE",
+   "totalSharesValue": 161000000
+  },
+  {
+   "date": "2015-01-30",
+   "exchange": "Nasdaq National Market",
+   "name": "AVINGER INC",
+   "numberOfShares": 5000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "AVGR",
+   "totalSharesValue": 65000000
+  },
+  {
+   "date": "2015-01-29",
+   "exchange": null,
+   "name": "SOL-WIND RENEWABLE POWER, LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-01-29",
+   "exchange": "Nasdaq National Market",
+   "name": "ENTELLUS MEDICAL INC",
+   "numberOfShares": 4603580,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ENTL",
+   "totalSharesValue": 78260860
+  },
+  {
+   "date": "2015-01-29",
+   "exchange": "Nasdaq National Market",
+   "name": "SALARIUS PHARMACEUTICALS, INC.",
+   "numberOfShares": 5400000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "FLKS",
+   "totalSharesValue": 86400000
+  },
+  {
+   "date": "2015-01-29",
+   "exchange": "Nasdaq National Market",
+   "name": "PRESBIA PLC",
+   "numberOfShares": 4166667,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LENS",
+   "totalSharesValue": 41666670
+  },
+  {
+   "date": "2015-01-29",
+   "exchange": null,
+   "name": "BARREL ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2015-01-28",
+   "exchange": null,
+   "name": "KOLLTAN PHARMACEUTICALS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-01-28",
+   "exchange": "Nasdaq National Market",
+   "name": "ASCENDIS PHARMA A/S",
+   "numberOfShares": 6000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ASND",
+   "totalSharesValue": 108000000
+  },
+  {
+   "date": "2015-01-27",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ZOSANO PHARMA CORP",
+   "numberOfShares": 4500000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ZSAN",
+   "totalSharesValue": 49500000
+  },
+  {
+   "date": "2015-01-27",
+   "exchange": null,
+   "name": "GVURA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2015-01-27",
+   "exchange": null,
+   "name": "BIOTRICITY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 45000
+  },
+  {
+   "date": "2015-01-26",
+   "exchange": null,
+   "name": "DTLR HOLDING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-01-26",
+   "exchange": null,
+   "name": "SEPARATION DEGREES - ONE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4000000
+  },
+  {
+   "date": "2015-01-23",
+   "exchange": "New York Stock Exchange",
+   "name": "EURONAV NV",
+   "numberOfShares": 16260000,
+   "price": "12.25",
+   "status": "priced",
+   "symbol": "EURN",
+   "totalSharesValue": 199185000
+  },
+  {
+   "date": "2015-01-23",
+   "exchange": "New York Stock Exchange",
+   "name": "BOX INC",
+   "numberOfShares": 12500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "BOX",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2015-01-22",
+   "exchange": null,
+   "name": "SYNDAX PHARMACEUTICALS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-01-22",
+   "exchange": null,
+   "name": "LUMIOX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2015-01-21",
+   "exchange": null,
+   "name": "CANWEALTH MINERALS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-01-20",
+   "exchange": null,
+   "name": "REMOVE-BY-YOU, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000
+  },
+  {
+   "date": "2015-01-16",
+   "exchange": null,
+   "name": "MARY FEED & SUPPLIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-01-16",
+   "exchange": "New York Stock Exchange",
+   "name": "PATRIOT NATIONAL, INC.",
+   "numberOfShares": 8315700,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "PN",
+   "totalSharesValue": 116419800
+  },
+  {
+   "date": "2015-01-16",
+   "exchange": "Nasdaq National Market",
+   "name": "COUNTY BANCORP, INC.",
+   "numberOfShares": 1180000,
+   "price": "15.75",
+   "status": "priced",
+   "symbol": "ICBK",
+   "totalSharesValue": 18585000
+  },
+  {
+   "date": "2015-01-16",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "EXELA TECHNOLOGIES, INC.",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "QPACU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2015-01-16",
+   "exchange": null,
+   "name": "R M DIVERSIFIED, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2015-01-13",
+   "exchange": null,
+   "name": "CANWEALTH MINERALS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 860200
+  },
+  {
+   "date": "2015-01-12",
+   "exchange": null,
+   "name": "PRESTIGE CRUISES INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-01-09",
+   "exchange": null,
+   "name": "BELLA COSTA DESIGNS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2015-01-08",
+   "exchange": null,
+   "name": "ARIOSA DIAGNOSTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-01-08",
+   "exchange": null,
+   "name": "EKLIPS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2015-01-08",
+   "exchange": null,
+   "name": "TILURO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 86025
+  },
+  {
+   "date": "2015-01-06",
+   "exchange": null,
+   "name": "MY ACTIVE DATE",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2015-01-05",
+   "exchange": null,
+   "name": "M & A HOLDING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20350
+  },
+  {
+   "date": "2015-01-05",
+   "exchange": null,
+   "name": "VITAXEL GROUP LIMITED",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2015-01-05",
+   "exchange": null,
+   "name": "NORTHERN POWER SYSTEMS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NPS",
+   "totalSharesValue": 30000000
+  }
+ ]
+}

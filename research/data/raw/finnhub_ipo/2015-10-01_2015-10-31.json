@@ -1,0 +1,397 @@
+{
+ "from": "2015-10-01",
+ "to": "2015-10-31",
+ "fetched_at": "2026-09-09T01:24:53.524838+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2015-10-30",
+   "exchange": null,
+   "name": "GOOD TECHNOLOGY CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-10-29",
+   "exchange": "Nasdaq National Market",
+   "name": "MYOKARDIA, INC.",
+   "numberOfShares": 5437500,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MYOK",
+   "totalSharesValue": 54375000
+  },
+  {
+   "date": "2015-10-27",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ADESTO TECHNOLOGIES CORP",
+   "numberOfShares": 5000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "IOTS",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2015-10-23",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "OASMIA PHARMACEUTICAL AB",
+   "numberOfShares": 2339200,
+   "price": "4.06",
+   "status": "priced",
+   "symbol": "OASM",
+   "totalSharesValue": 9497152
+  },
+  {
+   "date": "2015-10-23",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "LM FUNDING AMERICA, INC.",
+   "numberOfShares": 2000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LMFAU",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2015-10-23",
+   "exchange": null,
+   "name": "AFS HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4000000
+  },
+  {
+   "date": "2015-10-23",
+   "exchange": null,
+   "name": "PMV ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PMVAU",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2015-10-22",
+   "exchange": "Nasdaq National Market",
+   "name": "DIMENSION THERAPEUTICS, INC.",
+   "numberOfShares": 5500000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "DMTX",
+   "totalSharesValue": 71500000
+  },
+  {
+   "date": "2015-10-22",
+   "exchange": "New York Stock Exchange",
+   "name": "MULTI PACKAGING SOLUTIONS INTERNATIONAL LTD",
+   "numberOfShares": 16500000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "MPSX",
+   "totalSharesValue": 214500000
+  },
+  {
+   "date": "2015-10-22",
+   "exchange": null,
+   "name": "SPELT GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 70000
+  },
+  {
+   "date": "2015-10-21",
+   "exchange": "New York Stock Exchange",
+   "name": "FERRARI N.V.",
+   "numberOfShares": 17175000,
+   "price": "52.00",
+   "status": "priced",
+   "symbol": "RACE",
+   "totalSharesValue": 893100000
+  },
+  {
+   "date": "2015-10-21",
+   "exchange": "OTCBB",
+   "name": "XSPORT GLOBAL, INC.",
+   "numberOfShares": 4181000,
+   "price": "0.037",
+   "status": "priced",
+   "symbol": "TLLT",
+   "totalSharesValue": 167240
+  },
+  {
+   "date": "2015-10-21",
+   "exchange": null,
+   "name": "LINKREASE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2015-10-20",
+   "exchange": "American Stock Exchange",
+   "name": "AMERICAN FARMLAND CO",
+   "numberOfShares": 6000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "AFCO",
+   "totalSharesValue": 48000000
+  },
+  {
+   "date": "2015-10-19",
+   "exchange": null,
+   "name": "LUCENT PHARMA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 300000
+  },
+  {
+   "date": "2015-10-16",
+   "exchange": "Nasdaq National Market",
+   "name": "STRONGBRIDGE BIOPHARMA PLC",
+   "numberOfShares": 2500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SBBP",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2015-10-16",
+   "exchange": null,
+   "name": "HAHA GENERATION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2015-10-15",
+   "exchange": null,
+   "name": "SONANT COMMUNICATIONS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-10-15",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "BORQS TECHNOLOGIES, INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PAACU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2015-10-15",
+   "exchange": "New York Stock Exchange",
+   "name": "FIRST DATA CORP",
+   "numberOfShares": 160000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "FDC",
+   "totalSharesValue": 2560000000
+  },
+  {
+   "date": "2015-10-15",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "CERECOR INC.",
+   "numberOfShares": 4000000,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "CERCU",
+   "totalSharesValue": 26000000
+  },
+  {
+   "date": "2015-10-14",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "CAPITOL ACQUISITION CORP. III",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CLACU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2015-10-13",
+   "exchange": null,
+   "name": "SYNCARDIA SYSTEMS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-10-13",
+   "exchange": null,
+   "name": "ASSET SOLUTIONS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2015-10-09",
+   "exchange": "Nasdaq National Market",
+   "name": "CPI CARD GROUP INC.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PMTS",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2015-10-08",
+   "exchange": null,
+   "name": "ATLANTICA SEAFOODS COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-10-08",
+   "exchange": "Nasdaq National Market",
+   "name": "ALLEGIANCE BANCSHARES, INC.",
+   "numberOfShares": 2600000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "ABTX",
+   "totalSharesValue": 54600000
+  },
+  {
+   "date": "2015-10-08",
+   "exchange": "Nasdaq National Market",
+   "name": "CYTOMX THERAPEUTICS, INC.",
+   "numberOfShares": 6666667,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "CTMX",
+   "totalSharesValue": 80000004
+  },
+  {
+   "date": "2015-10-07",
+   "exchange": "New York Stock Exchange",
+   "name": "PURE STORAGE, INC.",
+   "numberOfShares": 25000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "PSTG",
+   "totalSharesValue": 425000000
+  },
+  {
+   "date": "2015-10-07",
+   "exchange": "Nasdaq National Market",
+   "name": "ACLARIS THERAPEUTICS, INC.",
+   "numberOfShares": 5000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ACRS",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2015-10-07",
+   "exchange": null,
+   "name": "NORDIC REALTY TRUST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NORT",
+   "totalSharesValue": 86250000
+  },
+  {
+   "date": "2015-10-02",
+   "exchange": "Nasdaq National Market",
+   "name": "NOVOCURE LTD",
+   "numberOfShares": 7500000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "NVCR",
+   "totalSharesValue": 165000000
+  },
+  {
+   "date": "2015-10-02",
+   "exchange": null,
+   "name": "FOUR ENERGIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5743500
+  },
+  {
+   "date": "2015-10-01",
+   "exchange": null,
+   "name": "AVINTIV INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-10-01",
+   "exchange": "Nasdaq National Market",
+   "name": "PDS BIOTECHNOLOGY CORP",
+   "numberOfShares": 7315151,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "EDGE",
+   "totalSharesValue": 80466661
+  },
+  {
+   "date": "2015-10-01",
+   "exchange": "Nasdaq National Market",
+   "name": "SURGERY PARTNERS, INC.",
+   "numberOfShares": 14285000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "SGRY",
+   "totalSharesValue": 271415000
+  },
+  {
+   "date": "2015-10-01",
+   "exchange": "Nasdaq National Market",
+   "name": "SYNLOGIC, INC.",
+   "numberOfShares": 6250000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "MIRN",
+   "totalSharesValue": 43750000
+  },
+  {
+   "date": "2015-10-01",
+   "exchange": "New York Stock Exchange",
+   "name": "PERFORMANCE FOOD GROUP CO",
+   "numberOfShares": 14500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "PFGC",
+   "totalSharesValue": 275500000
+  },
+  {
+   "date": "2015-10-01",
+   "exchange": null,
+   "name": "KOKICARE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 330000
+  }
+ ]
+}

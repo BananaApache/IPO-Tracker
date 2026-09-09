@@ -1,0 +1,297 @@
+{
+ "from": "2016-05-01",
+ "to": "2016-05-31",
+ "fetched_at": "2026-09-09T01:25:07.538060+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2016-05-26",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "WAITR HOLDINGS INC.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LCAHU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2016-05-26",
+   "exchange": "New York Stock Exchange",
+   "name": "COTIVITI HOLDINGS, INC.",
+   "numberOfShares": 12500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "COTV",
+   "totalSharesValue": 237500000
+  },
+  {
+   "date": "2016-05-26",
+   "exchange": "New York Stock Exchange",
+   "name": "US FOODS HOLDING CORP.",
+   "numberOfShares": 44444444,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "USFD",
+   "totalSharesValue": 1022222212
+  },
+  {
+   "date": "2016-05-26",
+   "exchange": "Nasdaq National Market",
+   "name": "REATA PHARMACEUTICALS INC",
+   "numberOfShares": 5500000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "RETA",
+   "totalSharesValue": 60500000
+  },
+  {
+   "date": "2016-05-26",
+   "exchange": "New York Stock Exchange",
+   "name": "GMS INC.",
+   "numberOfShares": 7000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "GMS",
+   "totalSharesValue": 147000000
+  },
+  {
+   "date": "2016-05-24",
+   "exchange": "Nasdaq National Market",
+   "name": "MIDLAND STATES BANCORP, INC.",
+   "numberOfShares": 3638755,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "MSBI",
+   "totalSharesValue": 80052610
+  },
+  {
+   "date": "2016-05-20",
+   "exchange": null,
+   "name": "VIAMET PHARMACEUTICALS HOLDINGS LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-05-20",
+   "exchange": null,
+   "name": "FREEPORT-MCMORAN OIL & GAS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-05-20",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "FGL HOLDINGS",
+   "numberOfShares": 60000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CFCOU",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2016-05-19",
+   "exchange": null,
+   "name": "ETRE RESIDENTIAL, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-05-19",
+   "exchange": "New York Stock Exchange",
+   "name": "GRUPO SUPERVIELLE S.A.",
+   "numberOfShares": 25500015,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "SUPV",
+   "totalSharesValue": 280500165
+  },
+  {
+   "date": "2016-05-19",
+   "exchange": "Nasdaq National Market",
+   "name": "MERUS N.V.",
+   "numberOfShares": 5500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MRUS",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2016-05-19",
+   "exchange": "OTCBB",
+   "name": "REIGN SAPPHIRE CORP",
+   "numberOfShares": 3923000,
+   "price": "0.50",
+   "status": "priced",
+   "symbol": "RGNP",
+   "totalSharesValue": 1961500
+  },
+  {
+   "date": "2016-05-19",
+   "exchange": null,
+   "name": "DUO WORLD INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8567467
+  },
+  {
+   "date": "2016-05-18",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PHASERX, INC.",
+   "numberOfShares": 3700000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "PZRX",
+   "totalSharesValue": 18500000
+  },
+  {
+   "date": "2016-05-18",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PULSE BIOSCIENCES, INC.",
+   "numberOfShares": 5000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "PLSE",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2016-05-17",
+   "exchange": null,
+   "name": "HOVERINK BIOTECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-05-16",
+   "exchange": null,
+   "name": "IHEALTHCARE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 62500
+  },
+  {
+   "date": "2016-05-13",
+   "exchange": "Nasdaq National Market",
+   "name": "OUTLOOK THERAPEUTICS, INC.",
+   "numberOfShares": 5833334,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ONSIU",
+   "totalSharesValue": 35000004
+  },
+  {
+   "date": "2016-05-13",
+   "exchange": "Nasdaq National Market",
+   "name": "ACACIA COMMUNICATIONS, INC.",
+   "numberOfShares": 4500000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "ACIA",
+   "totalSharesValue": 103500000
+  },
+  {
+   "date": "2016-05-13",
+   "exchange": null,
+   "name": "NATURAL DESTINY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 22977.5
+  },
+  {
+   "date": "2016-05-12",
+   "exchange": "New York Stock Exchange",
+   "name": "SITEONE LANDSCAPE SUPPLY, INC.",
+   "numberOfShares": 10000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "SITE",
+   "totalSharesValue": 210000000
+  },
+  {
+   "date": "2016-05-11",
+   "exchange": "New York Stock Exchange",
+   "name": "TURNING POINT BRANDS, INC.",
+   "numberOfShares": 5400000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TPB",
+   "totalSharesValue": 54000000
+  },
+  {
+   "date": "2016-05-06",
+   "exchange": "Nasdaq National Market",
+   "name": "INTELLIA THERAPEUTICS, INC.",
+   "numberOfShares": 6000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "NTLA",
+   "totalSharesValue": 108000000
+  },
+  {
+   "date": "2016-05-06",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SPRING BANK PHARMACEUTICALS, INC.",
+   "numberOfShares": 920000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "SBPH",
+   "totalSharesValue": 11040000
+  },
+  {
+   "date": "2016-05-06",
+   "exchange": null,
+   "name": "ATLAN MEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 950000
+  },
+  {
+   "date": "2016-05-05",
+   "exchange": null,
+   "name": "MAMMOTH ENERGY PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-05-02",
+   "exchange": null,
+   "name": "GLOBAL COSMETICS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 240000
+  },
+  {
+   "date": "2016-05-02",
+   "exchange": null,
+   "name": "BRISSET BEER INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BBII",
+   "totalSharesValue": 204500
+  }
+ ]
+}

@@ -1,0 +1,297 @@
+{
+ "from": "2011-08-01",
+ "to": "2011-08-31",
+ "fetched_at": "2026-09-09T01:23:13.499649+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2011-08-31",
+   "exchange": null,
+   "name": "YOUR INTERNET DEFENDER, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2130000
+  },
+  {
+   "date": "2011-08-31",
+   "exchange": null,
+   "name": "DYNAMIC NUTRA ENTERPRISES HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 204000
+  },
+  {
+   "date": "2011-08-26",
+   "exchange": null,
+   "name": "FORCE10 NETWORKS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-08-26",
+   "exchange": null,
+   "name": "VITAMIN BLUE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1645000
+  },
+  {
+   "date": "2011-08-26",
+   "exchange": null,
+   "name": "GOFF, CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 70900
+  },
+  {
+   "date": "2011-08-25",
+   "exchange": null,
+   "name": "ARISTOCRAT GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 39000
+  },
+  {
+   "date": "2011-08-22",
+   "exchange": null,
+   "name": "TEAMUPSPORT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 38000
+  },
+  {
+   "date": "2011-08-18",
+   "exchange": null,
+   "name": "B-MAVEN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25000
+  },
+  {
+   "date": "2011-08-17",
+   "exchange": "Nasdaq National Market",
+   "name": "TUDOU HOLDINGS LTD",
+   "numberOfShares": 6000000,
+   "price": "29.00",
+   "status": "priced",
+   "symbol": "TUDO",
+   "totalSharesValue": 174000000
+  },
+  {
+   "date": "2011-08-17",
+   "exchange": null,
+   "name": "CENTOR INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 99000
+  },
+  {
+   "date": "2011-08-16",
+   "exchange": null,
+   "name": "CARDIGANT MEDICAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2625000
+  },
+  {
+   "date": "2011-08-16",
+   "exchange": null,
+   "name": "KWEST INVESTMENT INTERNATIONAL LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 134500
+  },
+  {
+   "date": "2011-08-16",
+   "exchange": null,
+   "name": "DWARF TECHNOLOGY HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 19500
+  },
+  {
+   "date": "2011-08-15",
+   "exchange": null,
+   "name": "ASIA PACIFIC BOILER CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2011-08-12",
+   "exchange": null,
+   "name": "MEGANET CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2011-08-12",
+   "exchange": null,
+   "name": "DREAM HOMES LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5000000
+  },
+  {
+   "date": "2011-08-12",
+   "exchange": null,
+   "name": "PEMBROOK REALTY CAPITAL LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PRC",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2011-08-11",
+   "exchange": "Nasdaq National Market",
+   "name": "CARBONITE INC",
+   "numberOfShares": 6250000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CARB",
+   "totalSharesValue": 62500000
+  },
+  {
+   "date": "2011-08-11",
+   "exchange": "New York Stock Exchange",
+   "name": "SANDRIDGE ENERGY INC",
+   "numberOfShares": 30000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "PER",
+   "totalSharesValue": 540000000
+  },
+  {
+   "date": "2011-08-09",
+   "exchange": null,
+   "name": "HOME TREASURE FINDERS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 402580
+  },
+  {
+   "date": "2011-08-09",
+   "exchange": null,
+   "name": "ALTERNATIVE ENERGY MEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25000
+  },
+  {
+   "date": "2011-08-08",
+   "exchange": null,
+   "name": "AFRICAN COPPER CORPORATION",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2011-08-05",
+   "exchange": null,
+   "name": "SHOPEYE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2011-08-04",
+   "exchange": "Nasdaq National Market",
+   "name": "MTGE INVESTMENT CORP.",
+   "numberOfShares": 8000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "MTGE",
+   "totalSharesValue": 160000000
+  },
+  {
+   "date": "2011-08-04",
+   "exchange": "OTCBB",
+   "name": "AFRICA GROWTH CORP",
+   "numberOfShares": 10297019,
+   "price": "1.00",
+   "status": "priced",
+   "symbol": "BRHM",
+   "totalSharesValue": 10297019
+  },
+  {
+   "date": "2011-08-04",
+   "exchange": null,
+   "name": "BAHAMAS CONCIERGE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2011-08-01",
+   "exchange": null,
+   "name": "XUNNA INFORMATION TECHNOLOGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 6800
+  },
+  {
+   "date": "2011-08-01",
+   "exchange": null,
+   "name": "PEERLESS SYSTEMS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PRLSU",
+   "totalSharesValue": 20000
+  },
+  {
+   "date": "2011-08-01",
+   "exchange": null,
+   "name": "LIFETECH INDUSTRIES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 250000
+  }
+ ]
+}

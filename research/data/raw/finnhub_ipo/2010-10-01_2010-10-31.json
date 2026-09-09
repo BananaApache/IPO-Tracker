@@ -1,0 +1,497 @@
+{
+ "from": "2010-10-01",
+ "to": "2010-10-31",
+ "fetched_at": "2026-09-09T01:22:53.464671+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2010-10-29",
+   "exchange": null,
+   "name": "MASERGY COMMUNICATIONS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-10-29",
+   "exchange": "New York Stock Exchange",
+   "name": "SPROTT PHYSICAL SILVER TRUST",
+   "numberOfShares": 50000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PSLV",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2010-10-28",
+   "exchange": "New York Stock Exchange",
+   "name": "EXAMWORKS GROUP, INC.",
+   "numberOfShares": 10300000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "EXAM",
+   "totalSharesValue": 164800000
+  },
+  {
+   "date": "2010-10-28",
+   "exchange": "New York Stock Exchange",
+   "name": "SEACUBE CONTAINER LEASING LTD.",
+   "numberOfShares": 9500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BOX",
+   "totalSharesValue": 95000000
+  },
+  {
+   "date": "2010-10-28",
+   "exchange": null,
+   "name": "MARILYNJEAN INTERACTIVE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2010-10-27",
+   "exchange": null,
+   "name": "IMH FINANCIAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-10-27",
+   "exchange": null,
+   "name": "XZERES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-10-27",
+   "exchange": "Nasdaq National Market",
+   "name": "PACIFIC BIOSCIENCES OF CALIFORNIA, INC.",
+   "numberOfShares": 12500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "PACB",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2010-10-26",
+   "exchange": null,
+   "name": "NCL CORP LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-10-26",
+   "exchange": null,
+   "name": "ADVANCED CREDIT TECHNOLOGIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 388075
+  },
+  {
+   "date": "2010-10-25",
+   "exchange": null,
+   "name": "ALTERNATIVE ENERGY & ENVIRONMENTAL SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5821967
+  },
+  {
+   "date": "2010-10-22",
+   "exchange": "Nasdaq National Market",
+   "name": "AEGERION PHARMACEUTICALS, INC.",
+   "numberOfShares": 5000000,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "AEGR",
+   "totalSharesValue": 47500000
+  },
+  {
+   "date": "2010-10-22",
+   "exchange": "New York Stock Exchange",
+   "name": "ABERDEEN STANDARD PRECIOUS METALS BASKET ETF TRUST",
+   "numberOfShares": 18000000,
+   "price": "77.68",
+   "status": "priced",
+   "symbol": "GLTR",
+   "totalSharesValue": 1398240000
+  },
+  {
+   "date": "2010-10-22",
+   "exchange": null,
+   "name": "ANTAGA INTERNATINAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 47700
+  },
+  {
+   "date": "2010-10-21",
+   "exchange": "Nasdaq National Market",
+   "name": "VERA BRADLEY, INC.",
+   "numberOfShares": 11000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "VRA",
+   "totalSharesValue": 176000000
+  },
+  {
+   "date": "2010-10-21",
+   "exchange": "Nasdaq National Market",
+   "name": "FOODFIRST GLOBAL RESTAURANTS, INC.",
+   "numberOfShares": 10000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "BBRG",
+   "totalSharesValue": 140000000
+  },
+  {
+   "date": "2010-10-20",
+   "exchange": "New York Stock Exchange",
+   "name": "TAL EDUCATION GROUP",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "XRS",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2010-10-20",
+   "exchange": null,
+   "name": "HOMEOWNUSA",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2500000
+  },
+  {
+   "date": "2010-10-20",
+   "exchange": null,
+   "name": "BOSTON OMAHA CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 111659.16
+  },
+  {
+   "date": "2010-10-19",
+   "exchange": "New York Stock Exchange",
+   "name": "SHANGPHARMA CORP",
+   "numberOfShares": 5800000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SHP",
+   "totalSharesValue": 87000000
+  },
+  {
+   "date": "2010-10-19",
+   "exchange": "Nasdaq National Market",
+   "name": "NETSPEND HOLDINGS, INC.",
+   "numberOfShares": 18536043,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "NTSP",
+   "totalSharesValue": 203896473
+  },
+  {
+   "date": "2010-10-19",
+   "exchange": null,
+   "name": "INTERNAL FIXATION SYSTEMS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 149900
+  },
+  {
+   "date": "2010-10-15",
+   "exchange": "Nasdaq National Market",
+   "name": "BODY CENTRAL CORP",
+   "numberOfShares": 5000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "BODY",
+   "totalSharesValue": 65000000
+  },
+  {
+   "date": "2010-10-15",
+   "exchange": "New York Stock Exchange",
+   "name": "TOWER INTERNATIONAL, INC.",
+   "numberOfShares": 6250000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "TOWR",
+   "totalSharesValue": 81250000
+  },
+  {
+   "date": "2010-10-15",
+   "exchange": null,
+   "name": "GIA INVESTMENTS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 125000
+  },
+  {
+   "date": "2010-10-15",
+   "exchange": null,
+   "name": "BAUMAN ESTATE PLANNING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2010-10-14",
+   "exchange": "New York Stock Exchange",
+   "name": "CAMPUS CREST COMMUNITIES, INC.",
+   "numberOfShares": 28333333,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "CCG",
+   "totalSharesValue": 354166663
+  },
+  {
+   "date": "2010-10-13",
+   "exchange": null,
+   "name": "ORGANOVO HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 56650
+  },
+  {
+   "date": "2010-10-12",
+   "exchange": "OTCBB",
+   "name": "HICKS ACQUISITION CO II, INC.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HKACU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2010-10-12",
+   "exchange": null,
+   "name": "ADVANCED VENTURES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2010-10-12",
+   "exchange": null,
+   "name": "DMH INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2010-10-08",
+   "exchange": null,
+   "name": "AGFEED ANIMAL NUTRITION HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-10-08",
+   "exchange": "Nasdaq Smallcap Market",
+   "name": "NET ELEMENT, INC.",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CAZAU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2010-10-08",
+   "exchange": "Nasdaq National Market",
+   "name": "GLOBAL EDUCATION & TECHNOLOGY GROUP LTD",
+   "numberOfShares": 6375000,
+   "price": "10.50",
+   "status": "priced",
+   "symbol": "GEDU",
+   "totalSharesValue": 66937500
+  },
+  {
+   "date": "2010-10-08",
+   "exchange": "New York Stock Exchange",
+   "name": "ELLINGTON FINANCIAL INC.",
+   "numberOfShares": 4500000,
+   "price": "22.50",
+   "status": "priced",
+   "symbol": "EFC",
+   "totalSharesValue": 101250000
+  },
+  {
+   "date": "2010-10-08",
+   "exchange": null,
+   "name": "LE GAGA HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GAGA",
+   "totalSharesValue": 103280191
+  },
+  {
+   "date": "2010-10-07",
+   "exchange": "Nasdaq Smallcap Market",
+   "name": "STANDARD AVB FINANCIAL CORP.",
+   "numberOfShares": 3450000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "STND",
+   "totalSharesValue": 34500000
+  },
+  {
+   "date": "2010-10-07",
+   "exchange": "New York Stock Exchange",
+   "name": "DAQO NEW ENERGY CORP.",
+   "numberOfShares": 8000000,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "DQ",
+   "totalSharesValue": 76000000
+  },
+  {
+   "date": "2010-10-07",
+   "exchange": null,
+   "name": "PUB CRAWL HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2010-10-06",
+   "exchange": null,
+   "name": "EOLA PROPERTY TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-10-06",
+   "exchange": null,
+   "name": "BASSLINE PRODUCTIONS, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2010-10-06",
+   "exchange": null,
+   "name": "MECOX LANE LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MCOX",
+   "totalSharesValue": 129171427
+  },
+  {
+   "date": "2010-10-05",
+   "exchange": null,
+   "name": "GOLDEN GLOBAL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 593100
+  },
+  {
+   "date": "2010-10-05",
+   "exchange": null,
+   "name": "DEGARO INNOVATIONS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 42310
+  },
+  {
+   "date": "2010-10-04",
+   "exchange": null,
+   "name": "ORIGINAL SOURCE ENTERTAINMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 575000
+  },
+  {
+   "date": "2010-10-01",
+   "exchange": null,
+   "name": "ATOSSA THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-10-01",
+   "exchange": null,
+   "name": "ARBORGEN INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-10-01",
+   "exchange": "Nasdaq National Market",
+   "name": "CHINACACHE INTERNATIONAL HOLDINGS LTD.",
+   "numberOfShares": 6060980,
+   "price": "13.90",
+   "status": "priced",
+   "symbol": "CCIH",
+   "totalSharesValue": 84247622
+  },
+  {
+   "date": "2010-10-01",
+   "exchange": "Nasdaq National Market",
+   "name": "KEYW HOLDING CORP",
+   "numberOfShares": 9100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KEYW",
+   "totalSharesValue": 91000000
+  }
+ ]
+}

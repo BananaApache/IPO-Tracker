@@ -1,0 +1,177 @@
+{
+ "from": "2017-01-01",
+ "to": "2017-01-31",
+ "fetched_at": "2026-09-09T01:25:23.541966+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-01-30",
+   "exchange": null,
+   "name": "SUPPORTINGSMALLBUSINESS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-01-30",
+   "exchange": "NYSE Arca",
+   "name": "WORLD GOLD TRUST",
+   "numberOfShares": 5000000,
+   "price": "119.32",
+   "status": "priced",
+   "symbol": "GLDW",
+   "totalSharesValue": 596600000
+  },
+  {
+   "date": "2017-01-27",
+   "exchange": "NYSE",
+   "name": "JAGGED PEAK ENERGY INC.",
+   "numberOfShares": 31599334,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "JAG",
+   "totalSharesValue": 473990010
+  },
+  {
+   "date": "2017-01-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "JOUNCE THERAPEUTICS, INC.",
+   "numberOfShares": 6365000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "JNCE",
+   "totalSharesValue": 101840000
+  },
+  {
+   "date": "2017-01-27",
+   "exchange": "NYSE",
+   "name": "REV GROUP, INC.",
+   "numberOfShares": 12500000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "REVG",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2017-01-27",
+   "exchange": "NYSE",
+   "name": "JELD-WEN HOLDING, INC.",
+   "numberOfShares": 25000000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "JELD",
+   "totalSharesValue": 575000000
+  },
+  {
+   "date": "2017-01-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "OBSEVA SA",
+   "numberOfShares": 6450000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "OBSV",
+   "totalSharesValue": 96750000
+  },
+  {
+   "date": "2017-01-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "ANAPTYSBIO, INC",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ANAB",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2017-01-23",
+   "exchange": null,
+   "name": "AVAYA HOLDINGS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-01-20",
+   "exchange": "NYSE",
+   "name": "NEXTIER OILFIELD SOLUTIONS INC.",
+   "numberOfShares": 26760000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "FRAC",
+   "totalSharesValue": 508440000
+  },
+  {
+   "date": "2017-01-20",
+   "exchange": "NASDAQ Capital",
+   "name": "INTERNATIONAL MONEY EXPRESS, INC.",
+   "numberOfShares": 15300000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FNTEU",
+   "totalSharesValue": 153000000
+  },
+  {
+   "date": "2017-01-17",
+   "exchange": null,
+   "name": "CLAIRE'S INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-01-13",
+   "exchange": null,
+   "name": "VIVENTIA BIO INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-01-13",
+   "exchange": "NASDAQ Capital",
+   "name": "VERRA MOBILITY CORP",
+   "numberOfShares": 37500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GSHTU",
+   "totalSharesValue": 375000000
+  },
+  {
+   "date": "2017-01-06",
+   "exchange": null,
+   "name": "NEIMAN MARCUS GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-01-06",
+   "exchange": null,
+   "name": "HIP CUISINE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HIPC",
+   "totalSharesValue": 530000
+  },
+  {
+   "date": "2017-01-06",
+   "exchange": null,
+   "name": "ARCOM",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  }
+ ]
+}

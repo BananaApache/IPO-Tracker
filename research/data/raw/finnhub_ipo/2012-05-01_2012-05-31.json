@@ -1,0 +1,497 @@
+{
+ "from": "2012-05-01",
+ "to": "2012-05-31",
+ "fetched_at": "2026-09-09T01:23:31.492889+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2012-05-31",
+   "exchange": null,
+   "name": "CUMBERLAND HILLS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 31500
+  },
+  {
+   "date": "2012-05-31",
+   "exchange": null,
+   "name": "DANE EXPLORATION INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2012-05-30",
+   "exchange": null,
+   "name": "SLAVIA, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2012-05-29",
+   "exchange": null,
+   "name": "FIRST ULB CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-05-29",
+   "exchange": null,
+   "name": "KOFFEE KORNER INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 151800
+  },
+  {
+   "date": "2012-05-29",
+   "exchange": null,
+   "name": "SECTOR 5, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2012-05-25",
+   "exchange": null,
+   "name": "CANTOR ENTERTAINMENT TECHNOLOGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-05-25",
+   "exchange": null,
+   "name": "VIATECH CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "VTCH",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2012-05-24",
+   "exchange": null,
+   "name": "NOSTALGIA FAMILY BRANDS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 300000
+  },
+  {
+   "date": "2012-05-23",
+   "exchange": null,
+   "name": "CYOPTICS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-05-23",
+   "exchange": null,
+   "name": "APT SYSTEMS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 428000
+  },
+  {
+   "date": "2012-05-23",
+   "exchange": null,
+   "name": "ALLIANCE MEDIA GROUP HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5910000
+  },
+  {
+   "date": "2012-05-23",
+   "exchange": null,
+   "name": "MODERN PVC INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-05-23",
+   "exchange": null,
+   "name": "LION CONSULTING GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-05-22",
+   "exchange": null,
+   "name": "GLOBAL VISION HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2550000
+  },
+  {
+   "date": "2012-05-22",
+   "exchange": null,
+   "name": "ACCELERA INNOVATIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 66198160
+  },
+  {
+   "date": "2012-05-18",
+   "exchange": "Nasdaq Global Market",
+   "name": "FACEBOOK INC",
+   "numberOfShares": 421233615,
+   "price": "38.00",
+   "status": "priced",
+   "symbol": "FB",
+   "totalSharesValue": 16006877370
+  },
+  {
+   "date": "2012-05-17",
+   "exchange": null,
+   "name": "TVAX BIOMEDICAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-05-17",
+   "exchange": null,
+   "name": "CKE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CK",
+   "totalSharesValue": 245333344
+  },
+  {
+   "date": "2012-05-15",
+   "exchange": null,
+   "name": "INTELLIGENT HIGHWAY SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 193750
+  },
+  {
+   "date": "2012-05-15",
+   "exchange": null,
+   "name": "BLUEFIRE EQUIPMENT CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2012-05-14",
+   "exchange": null,
+   "name": "UNION AGRICULTURE GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-05-14",
+   "exchange": null,
+   "name": "WEST COAST REALTY TRUST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "WCRT",
+   "totalSharesValue": 20240000
+  },
+  {
+   "date": "2012-05-14",
+   "exchange": null,
+   "name": "CIMARRON SOFTWARE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 187857.5
+  },
+  {
+   "date": "2012-05-11",
+   "exchange": null,
+   "name": "NEW SOURCE ENERGY CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-05-11",
+   "exchange": "Nasdaq National Market",
+   "name": "EDWARDS GROUP LTD",
+   "numberOfShares": 12500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "EVAC",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2012-05-11",
+   "exchange": "Nasdaq National Market",
+   "name": "IGNITE RESTAURANT GROUP, INC.",
+   "numberOfShares": 5769231,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "IRG",
+   "totalSharesValue": 80769234
+  },
+  {
+   "date": "2012-05-10",
+   "exchange": null,
+   "name": "COMMUNITY CHOICE FINANCIAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-05-10",
+   "exchange": "Nasdaq National Market",
+   "name": "AUDIENCE INC",
+   "numberOfShares": 5270180,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "ADNC",
+   "totalSharesValue": 89593060
+  },
+  {
+   "date": "2012-05-10",
+   "exchange": "New York Stock Exchange",
+   "name": "WAGEWORKS, INC.",
+   "numberOfShares": 6500000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "WAGE",
+   "totalSharesValue": 58500000
+  },
+  {
+   "date": "2012-05-10",
+   "exchange": "New York Stock Exchange",
+   "name": "WESTERN ASSET MORTGAGE CAPITAL CORP",
+   "numberOfShares": 8000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "WMC",
+   "totalSharesValue": 160000000
+  },
+  {
+   "date": "2012-05-09",
+   "exchange": null,
+   "name": "AUTO TOOL TECHNOLOGIES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 300000
+  },
+  {
+   "date": "2012-05-09",
+   "exchange": null,
+   "name": "FTL VENTURES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 250000
+  },
+  {
+   "date": "2012-05-09",
+   "exchange": null,
+   "name": "CHINAMERICA ANDY MOVIE ENTERTAINMENT MEDIA CO.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 56564.2
+  },
+  {
+   "date": "2012-05-08",
+   "exchange": null,
+   "name": "CUSTOMERS BANCORP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-05-08",
+   "exchange": null,
+   "name": "ALON BRANDS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-05-08",
+   "exchange": "OTCBB",
+   "name": "REZOLUTE, INC.",
+   "numberOfShares": 786000,
+   "price": "0.05",
+   "status": "priced",
+   "symbol": "FMYY",
+   "totalSharesValue": 39300
+  },
+  {
+   "date": "2012-05-08",
+   "exchange": null,
+   "name": "TAYLOR CONSULTING INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60400
+  },
+  {
+   "date": "2012-05-08",
+   "exchange": null,
+   "name": "PN MED GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-05-07",
+   "exchange": null,
+   "name": "WTTJ CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 23100
+  },
+  {
+   "date": "2012-05-07",
+   "exchange": null,
+   "name": "WINCHESTER HOLDING GROUP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 31500
+  },
+  {
+   "date": "2012-05-04",
+   "exchange": "New York Stock Exchange",
+   "name": "TILLY'S, INC.",
+   "numberOfShares": 8000000,
+   "price": "15.50",
+   "status": "priced",
+   "symbol": "TLYS",
+   "totalSharesValue": 124000000
+  },
+  {
+   "date": "2012-05-04",
+   "exchange": "New York Stock Exchange",
+   "name": "PETROLOGISTICS LP",
+   "numberOfShares": 35000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "PDH",
+   "totalSharesValue": 595000000
+  },
+  {
+   "date": "2012-05-04",
+   "exchange": null,
+   "name": "BARRIER 4, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8000
+  },
+  {
+   "date": "2012-05-04",
+   "exchange": null,
+   "name": "MAXUM ENERGY LOGISTICS PARTNERS, LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MXLP",
+   "totalSharesValue": 230000000
+  },
+  {
+   "date": "2012-05-03",
+   "exchange": "New York Stock Exchange",
+   "name": "PACIFIC COAST OIL TRUST",
+   "numberOfShares": 18500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "ROYT",
+   "totalSharesValue": 370000000
+  },
+  {
+   "date": "2012-05-03",
+   "exchange": "Nasdaq National Market",
+   "name": "CARLYLE GROUP INC.",
+   "numberOfShares": 30500000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "CG",
+   "totalSharesValue": 671000000
+  },
+  {
+   "date": "2012-05-03",
+   "exchange": "New York Stock Exchange",
+   "name": "TIAA FSB HOLDINGS, INC.",
+   "numberOfShares": 19220000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EVER",
+   "totalSharesValue": 192200000
+  },
+  {
+   "date": "2012-05-01",
+   "exchange": "Nasdaq National Market",
+   "name": "SUPERNUS PHARMACEUTICALS, INC.",
+   "numberOfShares": 10000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SUPN",
+   "totalSharesValue": 50000000
+  }
+ ]
+}

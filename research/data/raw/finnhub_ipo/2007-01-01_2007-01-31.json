@@ -1,0 +1,307 @@
+{
+ "from": "2007-01-01",
+ "to": "2007-01-31",
+ "fetched_at": "2026-09-09T01:21:23.432792+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2007-01-31",
+   "exchange": null,
+   "name": "XCORPOREAL OPERATIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-01-31",
+   "exchange": "New York Stock Exchange",
+   "name": "EMPLOYERS HOLDINGS, INC.",
+   "numberOfShares": 26750000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "EIG",
+   "totalSharesValue": 454750000
+  },
+  {
+   "date": "2007-01-31",
+   "exchange": "New York Stock Exchange",
+   "name": "DUNCAN ENERGY PARTNERS L.P.",
+   "numberOfShares": 13000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "DEP",
+   "totalSharesValue": 273000000
+  },
+  {
+   "date": "2007-01-31",
+   "exchange": "New York Stock Exchange",
+   "name": "HFF, INC.",
+   "numberOfShares": 14300000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "HF",
+   "totalSharesValue": 257400000
+  },
+  {
+   "date": "2007-01-31",
+   "exchange": "Nasdaq National Market",
+   "name": "ANIMAL HEALTH HOLDINGS, INC.",
+   "numberOfShares": 11800000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "AHII",
+   "totalSharesValue": 129800000
+  },
+  {
+   "date": "2007-01-30",
+   "exchange": "American Stock Exchange",
+   "name": "RENAISSANCE ACQUISITION CORP.",
+   "numberOfShares": 15600000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "RAK.U",
+   "totalSharesValue": 93600000
+  },
+  {
+   "date": "2007-01-25",
+   "exchange": "Nasdaq National Market",
+   "name": "EVOQ PROPERTIES, INC.",
+   "numberOfShares": 40000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MMPI",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2007-01-25",
+   "exchange": "Nasdaq National Market",
+   "name": "SONOMA PHARMACEUTICALS, INC.",
+   "numberOfShares": 3025000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "OCLS",
+   "totalSharesValue": 24200000
+  },
+  {
+   "date": "2007-01-25",
+   "exchange": "OTCBB",
+   "name": "UIB GROUP LTD",
+   "numberOfShares": 4500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "CGNUF",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2007-01-25",
+   "exchange": "OTCBB",
+   "name": "CHINA TOPREACH INC.",
+   "numberOfShares": 4500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "CGSUF",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2007-01-24",
+   "exchange": "Nasdaq National Market",
+   "name": "ORITANI FINANCIAL CORP.",
+   "numberOfShares": 10578825,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ORIT",
+   "totalSharesValue": 105788250
+  },
+  {
+   "date": "2007-01-23",
+   "exchange": null,
+   "name": "ISHARES GS COMMODITY ENERGY INDEXED TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-01-23",
+   "exchange": null,
+   "name": "ISHARES GS COMMODITY NATURAL GAS INDEXED TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-01-23",
+   "exchange": "Nasdaq National Market",
+   "name": "AEROVIRONMENT INC",
+   "numberOfShares": 6700000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "AVAV",
+   "totalSharesValue": 113900000
+  },
+  {
+   "date": "2007-01-22",
+   "exchange": null,
+   "name": "WORLDWIDE PROMOTIONAL PRODUCTS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-01-19",
+   "exchange": null,
+   "name": "ST FRANCIS MEDICAL TECHNOLOGIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-01-19",
+   "exchange": "New York Stock Exchange",
+   "name": "MV OIL TRUST",
+   "numberOfShares": 7500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "MVO",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2007-01-18",
+   "exchange": "OTCBB",
+   "name": "INTELGENX TECHNOLOGIES CORP.",
+   "numberOfShares": 5116489,
+   "price": "0.60",
+   "status": "priced",
+   "symbol": "IGXT",
+   "totalSharesValue": 3069893
+  },
+  {
+   "date": "2007-01-16",
+   "exchange": null,
+   "name": "TELOMOLECULAR CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-01-12",
+   "exchange": null,
+   "name": "ASIA DOCUMENT TRANSITION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-01-12",
+   "exchange": null,
+   "name": "RYAN BECK HOLDINGS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-01-12",
+   "exchange": "Nasdaq National Market",
+   "name": "LEGACY RESERVES LP",
+   "numberOfShares": 6000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "LGCY",
+   "totalSharesValue": 114000000
+  },
+  {
+   "date": "2007-01-12",
+   "exchange": "Nasdaq National Market",
+   "name": "LEGACY RESERVES LP",
+   "numberOfShares": 4209954,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "LGCY",
+   "totalSharesValue": 79989126
+  },
+  {
+   "date": "2007-01-12",
+   "exchange": "Nasdaq National Market",
+   "name": "LEGACY RESERVES LP",
+   "numberOfShares": 790046,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "LGCY",
+   "totalSharesValue": 15010874
+  },
+  {
+   "date": "2007-01-10",
+   "exchange": null,
+   "name": "OXFORD TECHNOLOGIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-01-08",
+   "exchange": "OTCBB",
+   "name": "AEROGROW INTERNATIONAL, INC.",
+   "numberOfShares": 6700900,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "AGWI",
+   "totalSharesValue": 53607200
+  },
+  {
+   "date": "2007-01-05",
+   "exchange": "Nasdaq National Market",
+   "name": "MSB FINANCIAL CORP.",
+   "numberOfShares": 2199375,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MSBF",
+   "totalSharesValue": 21993750
+  },
+  {
+   "date": "2007-01-05",
+   "exchange": "American Stock Exchange",
+   "name": "DB MULTI-SECTOR COMMODITY MASTER TRUST",
+   "numberOfShares": 1000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "DBA",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2007-01-05",
+   "exchange": "OTCBB",
+   "name": "FUNTALK CHINA HOLDINGS LTD",
+   "numberOfShares": 198000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "MKGDU",
+   "totalSharesValue": 1584000
+  },
+  {
+   "date": "2007-01-04",
+   "exchange": "OTCBB",
+   "name": "SENECA BIOPHARMA, INC.",
+   "numberOfShares": 16335333,
+   "price": "1.00",
+   "status": "priced",
+   "symbol": "NRLS",
+   "totalSharesValue": 16335333
+  }
+ ]
+}

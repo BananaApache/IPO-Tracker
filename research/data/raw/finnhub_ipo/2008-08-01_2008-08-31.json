@@ -1,0 +1,207 @@
+{
+ "from": "2008-08-01",
+ "to": "2008-08-31",
+ "fetched_at": "2026-09-09T01:22:01.440292+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2008-08-22",
+   "exchange": null,
+   "name": "O'GARA GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-08-20",
+   "exchange": null,
+   "name": "MRC GLOBAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-08-19",
+   "exchange": null,
+   "name": "KLRE HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-08-14",
+   "exchange": null,
+   "name": "ANTH1, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-08-13",
+   "exchange": null,
+   "name": "CHINA POLYPEPTIDE GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-08-13",
+   "exchange": "Nasdaq National Market",
+   "name": "MYR GROUP INC.",
+   "numberOfShares": 19690777,
+   "price": "16.60",
+   "status": "priced",
+   "symbol": "MYRG",
+   "totalSharesValue": 326866898
+  },
+  {
+   "date": "2008-08-12",
+   "exchange": null,
+   "name": "US POWER GENERATING CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-08-12",
+   "exchange": null,
+   "name": "CHANGING WORLD TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-08-12",
+   "exchange": "Nasdaq Smallcap Market",
+   "name": "DJSP ENTERPRISES, INC.",
+   "numberOfShares": 6875000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "CACA",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2008-08-12",
+   "exchange": "OTCBB",
+   "name": "LINIU TECHNOLOGY GROUP",
+   "numberOfShares": 4800000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "CSACF",
+   "totalSharesValue": 28800000
+  },
+  {
+   "date": "2008-08-11",
+   "exchange": null,
+   "name": "FORESTS GLOBAL INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-08-08",
+   "exchange": "New York Stock Exchange",
+   "name": "RACKSPACE HOSTING, INC.",
+   "numberOfShares": 15000000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "RAX",
+   "totalSharesValue": 187500000
+  },
+  {
+   "date": "2008-08-06",
+   "exchange": null,
+   "name": "AMERICAN SMOOTH WAVE VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-08-06",
+   "exchange": null,
+   "name": "CAPITALSOURCE HEALTHCARE REIT",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-08-05",
+   "exchange": null,
+   "name": "GABELLI ENTERTAINMENT & TELECOMMUNICATIONS ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-08-04",
+   "exchange": "New York Stock Exchange",
+   "name": "CHINA MASS MEDIA CORP.",
+   "numberOfShares": 7212500,
+   "price": "6.80",
+   "status": "priced",
+   "symbol": "CMM",
+   "totalSharesValue": 49045000
+  },
+  {
+   "date": "2008-08-01",
+   "exchange": null,
+   "name": "ILG, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "IILG",
+   "totalSharesValue": 907902666
+  },
+  {
+   "date": "2008-08-01",
+   "exchange": null,
+   "name": "LENDINGTREE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TREE",
+   "totalSharesValue": 37805552
+  },
+  {
+   "date": "2008-08-01",
+   "exchange": null,
+   "name": "TICKETMASTER ENTERTAINMENT LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TKTM",
+   "totalSharesValue": 2048618
+  },
+  {
+   "date": "2008-08-01",
+   "exchange": null,
+   "name": "HSN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HSNI",
+   "totalSharesValue": 2986371
+  }
+ ]
+}

@@ -51,6 +51,7 @@ import argparse
 import asyncio
 import json
 import logging
+import pathlib
 import re
 import sys
 from datetime import UTC, date, datetime, timedelta
@@ -66,6 +67,35 @@ NOTABILITY_PARQUET = DATA / "notability.parquet"
 # Eligibility, fixed before any outcome is observed.
 MIN_OFFER_PRICE = 5.0
 CUTOFF_DAYS = 90
+
+# Two cohorts, because the study and the published result it is compared against
+# share **zero tickers**: the paper covers 2006-2016 and the census as first
+# built started in 2019. With no overlap it is impossible to tell whether a null
+# here is an era effect or a broken pipeline, so `replication` reruns the same
+# code on the paper's window. Any difference then isolates the method.
+COHORTS: dict[str, tuple[int, int]] = {
+    "recent": (2019, 2026),
+    "replication": (2006, 2016),   # the published study's window
+}
+
+
+def cohort_paths(cohort: str) -> dict[str, pathlib.Path]:
+    """Output paths for one cohort.
+
+    The default cohort keeps the unsuffixed filenames the earlier run wrote, so
+    adding a second cohort cannot invalidate the first.
+    """
+    if cohort not in COHORTS:
+        raise SystemExit(f"unknown cohort {cohort!r}; choose from {sorted(COHORTS)}")
+    sfx = "" if cohort == "recent" else f"_{cohort}"
+    return {
+        "sample": DATA / f"notability_sample{sfx}.parquet",
+        "articles": RAW_NOTABILITY / f"articles{sfx}.json",
+        "articles_ext": RAW_NOTABILITY / f"articles_extended{sfx}.json",
+        "union": RAW_NOTABILITY / f"articles_union{sfx}.json",
+        "prices": RAW_NOTABILITY / f"day1_prices{sfx}.json",
+        "out": DATA / f"notability{sfx}.parquet",
+    }
 
 # Corporate suffixes stripped when forming candidate article titles. Wikipedia
 # titles the company, not the registrant string: "Reddit, Inc." is at "Reddit".
@@ -92,9 +122,11 @@ def is_spac(name: str, symbol: str, offer: float) -> tuple[bool, str]:
     return False, ""
 
 
-def eligible():
+def eligible(cohort: str = "recent"):
     """The population, before sampling. No outcome variable is touched here."""
     import pandas as pd
+
+    lo, hi = COHORTS[cohort]
 
     cen = pd.read_parquet(CENSUS_PARQUET)
     p = cen[(cen["status"] == "priced") & cen["symbol"].notna()
@@ -126,18 +158,20 @@ def eligible():
              & ~p["offer_exactly_ten"]].copy()
     keep["listing_date"] = pd.to_datetime(keep["calendar_date"])
     keep["year"] = keep["listing_date"].dt.year
+    keep = keep[(keep["year"] >= lo) & (keep["year"] <= hi)].copy()
     keep["deal_usd"] = pd.to_numeric(keep["total_shares_value"], errors="coerce")
     keep["size_bucket"] = pd.cut(keep["deal_usd"],
                                  [0, 5e7, 2e8, 1e9, float("inf")],
                                  labels=["<50M", "50-200M", "200M-1B", ">1B"])
-    logger.info("eligible: %d of %d priced rows (%d SPAC-like, %d under $%.0f)",
-                len(keep), len(p), int(p["is_spac"].sum()),
+    logger.info("eligible[%s %d-%d]: %d of %d priced rows (%d SPAC-like, %d "
+                "under $%.0f)", cohort, lo, hi, len(keep), len(p),
+                int(p["is_spac"].sum()),
                 int((~p["is_spac"] & (p["offer_price"] < MIN_OFFER_PRICE)).sum()),
                 MIN_OFFER_PRICE)
     return keep
 
 
-def build_sample(size: int, seed: int = 0):
+def build_sample(size: int, seed: int = 0, cohort: str = "recent"):
     """Stratified random draw by year x deal-size bucket.
 
     Stratified so the sample keeps the population's shape on the two dimensions
@@ -147,7 +181,8 @@ def build_sample(size: int, seed: int = 0):
     """
     import pandas as pd
 
-    pop = eligible().dropna(subset=["size_bucket"])
+    paths = cohort_paths(cohort)
+    pop = eligible(cohort).dropna(subset=["size_bucket"])
     frac = min(1.0, size / len(pop))
     # groupby().sample() rather than groupby().apply(): apply() folds the
     # grouping columns into the index and drops them from the result, which is
@@ -166,8 +201,10 @@ def build_sample(size: int, seed: int = 0):
     cols = ["name", "symbol", "listing_date", "offer_price", "shares", "deal_usd",
             "exchange", "year", "size_bucket", "offer_exactly_ten"]
     out = picked[cols].reset_index(drop=True)
-    out.to_parquet(SAMPLE_PARQUET, index=False)
-    logger.info("sample: %d rows -> %s", len(out), SAMPLE_PARQUET)
+    out.to_parquet(paths["sample"], index=False)
+    logger.info("sample[%s]: %d rows, %s to %s -> %s", cohort, len(out),
+                out["listing_date"].min().date(), out["listing_date"].max().date(),
+                paths["sample"].name)
     return out
 
 
@@ -226,7 +263,7 @@ WIKI_API = "https://en.wikipedia.org/w/api.php"
 ARTICLES_JSON = RAW_NOTABILITY / "articles.json"
 
 
-async def resolve_articles(*, refetch: bool = False) -> dict:
+async def resolve_articles(*, refetch: bool = False, cohort: str = "recent") -> dict:
     """Strict exact-title existence for every sampled company, plus creation date.
 
     Existence is checked in batches of 50 titles per request -- MediaWiki's
@@ -246,11 +283,12 @@ async def resolve_articles(*, refetch: bool = False) -> dict:
 
     ensure_dirs()
     RAW_NOTABILITY.mkdir(parents=True, exist_ok=True)
-    if ARTICLES_JSON.exists() and not refetch:
-        logger.info("articles: using cached %s", ARTICLES_JSON)
-        return json.loads(ARTICLES_JSON.read_text())
+    paths = cohort_paths(cohort)
+    if paths["articles"].exists() and not refetch:
+        logger.info("articles: using cached %s", paths["articles"].name)
+        return json.loads(paths["articles"].read_text())
 
-    sample = pd.read_parquet(SAMPLE_PARQUET)
+    sample = pd.read_parquet(paths["sample"])
     # title -> [company names that proposed it]
     proposals: dict[str, list[str]] = {}
     for _, row in sample.iterrows():
@@ -449,8 +487,8 @@ async def resolve_articles(*, refetch: bool = False) -> dict:
                "method": "exact-title only, disambiguation excluded, "
                          "distinctive-token guard",
                "companies": out}
-    ARTICLES_JSON.write_text(json.dumps(result, indent=1) + "\n")
-    logger.info("articles: -> %s", ARTICLES_JSON)
+    paths["articles"].write_text(json.dumps(result, indent=1) + "\n")
+    logger.info("articles: -> %s", paths["articles"].name)
     return result
 
 
@@ -484,7 +522,8 @@ def _is_rate_limited(exc: BaseException) -> bool:
 TIINGO_PER_HOUR = 45
 
 
-async def collect_prices(*, batch: int = 0, per_hour: int = TIINGO_PER_HOUR) -> dict:
+async def collect_prices(*, batch: int = 0, per_hour: int = TIINGO_PER_HOUR,
+                         cohort: str = "recent") -> dict:
     """Day-one open and close for each sampled ticker, from Tiingo.
 
     One request per ticker over a narrow window around the listing date, cached
@@ -501,8 +540,9 @@ async def collect_prices(*, batch: int = 0, per_hour: int = TIINGO_PER_HOUR) -> 
     token = next(l.split("=", 1)[1].strip() for l in open(".env")
                  if l.startswith("TIINGOAPI_KEY"))
 
-    sample = pd.read_parquet(SAMPLE_PARQUET)
-    have = json.loads(PRICES_JSON.read_text()) if PRICES_JSON.exists() else {}
+    paths = cohort_paths(cohort)
+    sample = pd.read_parquet(paths["sample"])
+    have = json.loads(paths["prices"].read_text()) if paths["prices"].exists() else {}
     todo = [r for _, r in sample.iterrows() if str(r["symbol"]) not in have]
     if batch:
         todo = todo[:batch]
@@ -565,7 +605,7 @@ async def collect_prices(*, batch: int = 0, per_hour: int = TIINGO_PER_HOUR) -> 
                 # tested `"429" in str(exc)` and so never recognised a 429,
                 # which burned tickers one per rate-limited request.
                 if _is_rate_limited(exc):
-                    PRICES_JSON.write_text(json.dumps(have, indent=1) + "\n")
+                    paths["prices"].write_text(json.dumps(have, indent=1) + "\n")
                     await wait_for_next_hour("hit 429")
                     current_hour, used_this_hour = datetime.now(UTC).hour, 1
                     try:
@@ -583,10 +623,35 @@ async def collect_prices(*, batch: int = 0, per_hour: int = TIINGO_PER_HOUR) -> 
                     failed += 1
                     continue
             if not isinstance(bars, list) or not bars:
-                # Recorded as an explicit miss so a resume does not retry it
-                # forever, and so the build step can count it.
-                have[sym] = {"symbol": sym, "bars": [], "note": "no bars returned"}
+                # An empty response is diagnosed, not silently dropped. For an
+                # older cohort the common cause is a TICKER RENAME: `FB` on
+                # 2012-05-18 returns [] because Facebook is now META and Tiingo
+                # is keyed on the current holder of the symbol. Left unmeasured
+                # this quietly shrinks the sample toward surviving,
+                # never-renamed firms -- a survivorship bias that would bite
+                # hardest in exactly the replication window.
+                note = "no bars in the requested window"
+                meta = None
+                try:
+                    meta = await client.get_json(
+                        f"https://api.tiingo.com/tiingo/daily/{sym}",
+                        params={"token": token})
+                except Exception:
+                    pass
+                if isinstance(meta, dict) and meta.get("startDate"):
+                    if str(meta["startDate"])[:10] > listing.isoformat():
+                        note = (f"ticker now held by an entity trading only from "
+                                f"{str(meta['startDate'])[:10]} "
+                                f"({meta.get('name')}) -- rename or symbol reuse")
+                    else:
+                        note = (f"ticker exists from {str(meta['startDate'])[:10]} "
+                                f"but has no bars at the listing date")
+                have[sym] = {"symbol": sym, "bars": [], "note": note,
+                             "tiingo_name": (meta or {}).get("name"),
+                             "tiingo_start": (meta or {}).get("startDate"),
+                             "calendar_listing_date": listing.isoformat()}
                 fetched += 1
+                logger.info("%-24s %s: %s", row["name"][:24], sym, note[:60])
                 continue
             bars = sorted(bars, key=lambda b: b["date"])
             first = bars[0]
@@ -601,15 +666,15 @@ async def collect_prices(*, batch: int = 0, per_hour: int = TIINGO_PER_HOUR) -> 
             # to an interruption also wastes an hour of allocation re-fetching
             # them. The file is small and the write is far cheaper than the
             # 80-second gap between requests.
-            PRICES_JSON.write_text(json.dumps(have, indent=1) + "\n")
+            paths["prices"].write_text(json.dumps(have, indent=1) + "\n")
             if fetched % 25 == 0:
                 logger.info("  prices: %d fetched, %d cached total", fetched,
                             len(have))
     finally:
         await client.aclose()
-        PRICES_JSON.write_text(json.dumps(have, indent=1) + "\n")
-    logger.info("prices: %d fetched, %d failed, %d total cached -> %s",
-                fetched, failed, len(have), PRICES_JSON)
+        paths["prices"].write_text(json.dumps(have, indent=1) + "\n")
+    logger.info("prices[%s]: %d fetched, %d failed, %d total cached -> %s",
+                cohort, fetched, failed, len(have), paths["prices"].name)
     return have
 
 
@@ -663,7 +728,7 @@ def _mann_whitney(a, b) -> dict:
             "p": float(min(p, 1.0)), "rank_biserial": float(rb)}
 
 
-def build(*, cutoff_days: int = CUTOFF_DAYS):
+def build(*, cutoff_days: int = CUTOFF_DAYS, cohort: str = "recent"):
     """Join sample + articles + prices into the analysis table.
 
     Treatment is `has_article AND article_created <= listing_date -
@@ -675,10 +740,16 @@ def build(*, cutoff_days: int = CUTOFF_DAYS):
     """
     import pandas as pd
 
-    sample = pd.read_parquet(SAMPLE_PARQUET)
-    arts = (json.loads(ARTICLES_JSON.read_text())["companies"]
-            if ARTICLES_JSON.exists() else {})
-    prices = json.loads(PRICES_JSON.read_text()) if PRICES_JSON.exists() else {}
+    paths = cohort_paths(cohort)
+    sample = pd.read_parquet(paths["sample"])
+    # The union is the treatment set: the two resolvers are complementary, not
+    # nested, and either alone discards firms the other finds.
+    arts_path = paths["union"] if paths["union"].exists() else paths["articles"]
+    arts = (json.loads(arts_path.read_text())["companies"]
+            if arts_path.exists() else {})
+    logger.info("notability[%s]: treatment from %s", cohort, arts_path.name)
+    prices = (json.loads(paths["prices"].read_text())
+              if paths["prices"].exists() else {})
 
     rows = []
     for _, r in sample.iterrows():
@@ -695,6 +766,8 @@ def build(*, cutoff_days: int = CUTOFF_DAYS):
             "listing_date": r["listing_date"], "year": r["year"],
             "size_bucket": r["size_bucket"], "offer_price": offer,
             "deal_usd": r["deal_usd"],
+            # Carried through for the regression's exchange fixed effects.
+            "exchange": r.get("exchange"),
             "d1_open": px.get("d1_open"), "d1_close": d1_close,
             "first_trade_date": px.get("first_trade_date"),
             "underpricing": (d1_close / offer - 1) if d1_close else None,
@@ -709,19 +782,19 @@ def build(*, cutoff_days: int = CUTOFF_DAYS):
             "article_after_cutoff": bool(has and not pre_existing),
         })
     df = pd.DataFrame(rows)
-    df.to_parquet(NOTABILITY_PARQUET, index=False)
-    logger.info("notability: %d rows (%d with a price, %d notable pre-IPO) -> %s",
-                len(df), int(df["underpricing"].notna().sum()),
-                int(df["notable_pre_ipo"].sum()), NOTABILITY_PARQUET)
+    df.to_parquet(paths["out"], index=False)
+    logger.info("notability[%s]: %d rows (%d with a price, %d notable pre-IPO) -> %s",
+                cohort, len(df), int(df["underpricing"].notna().sum()),
+                int(df["notable_pre_ipo"].sum()), paths["out"].name)
     return df
 
 
-def analyse(*, cutoff_days: int = CUTOFF_DAYS) -> None:
+def analyse(*, cutoff_days: int = CUTOFF_DAYS, cohort: str = "recent") -> None:
     """Group comparison, then the same comparison inside strata."""
     import numpy as np
     import pandas as pd
 
-    df = build(cutoff_days=cutoff_days)
+    df = build(cutoff_days=cutoff_days, cohort=cohort)
     d = df.dropna(subset=["underpricing"]).copy()
     print(f"=== sample: {len(d)} of {len(df)} have a day-1 price "
           f"(collection is paced at 45/hour) ===\n")
@@ -767,6 +840,10 @@ async def _amain() -> int:
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--resolve", action="store_true",
                     help="strict article existence + Wikidata org verification")
+    ap.add_argument("--resolve-extended", action="store_true",
+                    help="Wikidata search for rule (1); queues rules (2)-(6)")
+    ap.add_argument("--merge", action="store_true",
+                    help="union the resolvers and apply reviewed relation verdicts")
     ap.add_argument("--refetch", action="store_true")
     ap.add_argument("--prices", action="store_true",
                     help="day-1 prices from Tiingo, paced to the hourly allocation")
@@ -775,25 +852,637 @@ async def _amain() -> int:
     ap.add_argument("--per-hour", type=int, default=TIINGO_PER_HOUR)
     ap.add_argument("--build", action="store_true")
     ap.add_argument("--analyse", action="store_true")
+    ap.add_argument("--regress", action="store_true",
+                    help="the pre-registered OLS: treatment plus controls, "
+                         "year-quarter clustered SEs")
+    ap.add_argument("--no-winsorize", action="store_true",
+                    help="report the raw sample instead of 1/99 winsorised")
     ap.add_argument("--cutoff-days", type=int, default=CUTOFF_DAYS,
                     help="an article must predate listing minus this many days")
+    ap.add_argument("--cohort", default="recent", choices=sorted(COHORTS),
+                    help="'recent' is 2019-2026; 'replication' is the published "
+                         "study's 2006-2016 window")
     args = ap.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s",
                         stream=sys.stderr)
 
+    ck = {"cohort": args.cohort}
     if args.sample:
-        build_sample(args.sample, seed=args.seed)
+        build_sample(args.sample, seed=args.seed, **ck)
     if args.resolve:
-        await resolve_articles(refetch=args.refetch)
+        await resolve_articles(refetch=args.refetch, **ck)
+    if args.resolve_extended:
+        await resolve_articles_extended(refetch=args.refetch, **ck)
+    if args.merge:
+        merge_resolvers(args.cohort)
     if args.prices:
-        await collect_prices(batch=args.batch, per_hour=args.per_hour)
+        await collect_prices(batch=args.batch, per_hour=args.per_hour, **ck)
     if args.analyse:
-        analyse(cutoff_days=args.cutoff_days)
-    elif args.build:
-        build(cutoff_days=args.cutoff_days)
-    if not any((args.sample, args.resolve, args.prices, args.build, args.analyse)):
+        analyse(cutoff_days=args.cutoff_days, **ck)
+    if args.regress:
+        regress(cohort=args.cohort, winsorize=not args.no_winsorize,
+                cutoff_days=args.cutoff_days)
+    if args.build and not (args.analyse or args.regress):
+        build(cutoff_days=args.cutoff_days, **ck)
+    if not any((args.sample, args.resolve, args.resolve_extended, args.merge,
+                args.prices, args.build, args.analyse, args.regress)):
         ap.print_help()
     return 0
+
+
+
+
+WD_API = "https://www.wikidata.org/w/api.php"
+ARTICLES_EXT_JSON = RAW_NOTABILITY / "articles_extended.json"
+
+# The published study's Exhibit A counts an article titled with the firm, its
+# parent, a major subsidiary, a predecessor, a company it separated from, or its
+# core product or service. These are the Wikidata properties that express those
+# relations, checked outward from the company's own entity.
+RELATION_RULES = [
+    ("P749", "parent organisation"),          # rule (2)
+    ("P127", "owned by"),                     # rule (2), the other direction
+    ("P355", "has subsidiary"),               # rule (3)
+    ("P1365", "replaces"),                    # rule (5), predecessor
+    ("P1366", "replaced by"),                 # rule (5)
+    ("P807", "separated from"),               # rule (4)
+    ("P1056", "product or material produced"),  # rule (6)
+    ("P1830", "owner of"),                    # rule (3), the other direction
+]
+# The paper sets the indicator to zero for an article with fewer than 30 words
+# in its main body -- a stub or a redirect is not investor awareness.
+MIN_ARTICLE_WORDS = 30
+
+
+def name_variants(name: str) -> list[str]:
+    """Search strings for one registrant name, most specific first.
+
+    Wikidata's entity search is not tolerant of corporate suffixes: "Hertz
+    Global Holdings Inc." returns nothing while "Hertz Global Holdings" resolves,
+    and "NYMEX Holdings Inc." returns nothing while "NYMEX" reaches New York
+    Mercantile Exchange through an alias. So the suffix-stripped and
+    first-token forms are searched too.
+    """
+    base = re.sub(r"\s+", " ", (name or "").strip())
+    out, seen = [], set()
+    stripped = SUFFIXES.sub("", base).strip(" ,.")
+    twice = SUFFIXES.sub("", stripped).strip(" ,.")
+    head = " ".join(w for w in twice.split()[:2])
+    for cand in (base, stripped, twice, head):
+        c = cand.strip(" ,.")
+        if c and len(c) > 2 and c.casefold() not in seen:
+            seen.add(c.casefold())
+            out.append(c)
+    return out
+
+
+def name_core(name: str) -> str:
+    """Normalised comparison key for a company name.
+
+    Token overlap is not a strong enough identity test for this design. Searching
+    "Compass, Inc." surfaced an Italian bank subsidiary whose label shares the
+    word "compass" and which is genuinely an organisation, so both earlier guards
+    passed and the resolver followed its parent link to Banca Monte dei Paschi di
+    Siena. Requiring the normalised cores to be EQUAL rejects that: "compass"
+    against "compass banca".
+
+    Suffixes are stripped repeatedly because registrant names stack them
+    ("... Holdings Inc."), and punctuation goes so that "Couchbase, Inc." and
+    "Couchbase Inc" agree.
+    """
+    core = re.sub(r"\s+", " ", (name or "").strip())
+    for _ in range(3):
+        core = SUFFIXES.sub("", core).strip(" ,.")
+    core = re.sub(r"[^a-z0-9 ]", "", core.casefold()).strip()
+    return re.sub(r"\s+", " ", core)
+
+
+def _entity_is_org(claims: dict) -> bool:
+    p31 = [c["mainsnak"]["datavalue"]["value"]["id"]
+           for c in claims.get("P31", [])
+           if c.get("mainsnak", {}).get("datavalue")]
+    return bool(set(p31) & COMPANY_TYPES) or bool(set(claims) & ORG_PROPERTIES)
+
+
+def _labels_and_aliases(ent: dict) -> list[str]:
+    out = []
+    lab = ((ent.get("labels") or {}).get("en") or {}).get("value")
+    if lab:
+        out.append(lab)
+    out += [a.get("value") for a in ((ent.get("aliases") or {}).get("en") or [])
+            if a.get("value")]
+    return out
+
+
+def _claim_targets(claims: dict, prop: str) -> list[str]:
+    out = []
+    for c in claims.get(prop, []):
+        val = (c.get("mainsnak") or {}).get("datavalue") or {}
+        qid = (val.get("value") or {}).get("id") if isinstance(val.get("value"), dict) else None
+        if qid:
+            out.append(qid)
+    return out
+
+
+async def resolve_articles_extended(*, refetch: bool = False,
+                                   cohort: str = "recent") -> dict:
+    """Article resolution following the published study's six matching rules.
+
+    The strict resolver in `resolve_articles` attempts only exact titles built
+    from the firm's own name, and it is too narrow in two separate ways:
+
+      * **It misses the firm's own article.** GitLab and Couchbase both have
+        company articles -- "GitLab Inc." and "Couchbase, Inc." -- that
+        exact-title matching missed on capitalisation and a stripped period,
+        landing on the software articles instead and rejecting them.
+      * **It never attempts the other five rules.** Parent, subsidiary,
+        predecessor, separated-from and core product are simply not tried, so
+        Hertz Global Holdings -> "The Hertz Corporation" and NYMEX Holdings ->
+        "New York Mercantile Exchange" cannot be found.
+
+    Both push a binary treatment toward zero. This resolver goes through
+    Wikidata instead: search the company by name, verify the entity really is
+    that company, then take its English Wikipedia sitelink; if it has none,
+    follow the relationship properties above to a related organisation that
+    does.
+
+    Two guards, because search is the dangerous step. The searched entity must
+    itself be an organisation -- "Hertz" otherwise resolves to the SI unit of
+    frequency -- and its label or an alias must share a distinctive token with
+    the registrant name. The final article must also carry at least
+    MIN_ARTICLE_WORDS words and not be a disambiguation page, matching the
+    paper's own exclusions.
+    """
+    import pandas as pd
+
+    from backend.http import RetryingClient
+    from research.collect.config import get_research_settings
+
+    ensure_dirs()
+    RAW_NOTABILITY.mkdir(parents=True, exist_ok=True)
+    paths = cohort_paths(cohort)
+    if paths["articles_ext"].exists() and not refetch:
+        logger.info("articles_ext: using cached %s", paths["articles_ext"].name)
+        return json.loads(paths["articles_ext"].read_text())
+
+    sample = pd.read_parquet(paths["sample"])
+    settings = get_research_settings()
+    client = RetryingClient(user_agent=settings.sec_user_agent, per_second=4.0,
+                            max_retries=3, base_backoff=3.0)
+
+    ent_cache: dict[str, dict] = {}
+
+    async def get_entities(qids: list[str]) -> dict:
+        want = [q for q in qids if q and q not in ent_cache]
+        for i in range(0, len(want), 50):
+            batch = want[i:i + 50]
+            try:
+                payload = await client.get_json(WD_API, params={
+                    "action": "wbgetentities", "ids": "|".join(batch),
+                    "props": "claims|sitelinks|labels|aliases",
+                    "sitefilter": "enwiki", "languages": "en", "format": "json"})
+            except Exception as exc:
+                logger.warning("wikidata entities failed: %s", type(exc).__name__)
+                continue
+            for qid, ent in (payload.get("entities") or {}).items():
+                ent_cache[qid] = ent
+        return {q: ent_cache.get(q, {}) for q in qids if q}
+
+    async def search(term: str) -> list[str]:
+        try:
+            payload = await client.get_json(WD_API, params={
+                "action": "wbsearchentities", "search": term, "language": "en",
+                "type": "item", "limit": 5, "format": "json"})
+        except Exception:
+            return []
+        return [h["id"] for h in payload.get("search", []) if h.get("id")]
+
+    def sitelink(ent: dict) -> str | None:
+        return ((ent.get("sitelinks") or {}).get("enwiki") or {}).get("title")
+
+    out: dict[str, dict] = {}
+    try:
+        for n, (_, row) in enumerate(sample.iterrows(), 1):
+            name = row["name"]
+            rec = {"company": name, "symbol": row["symbol"], "title": None,
+                   "has_article": False, "rule": None, "via_qid": None,
+                   "evidence": None, "candidates_tried": []}
+
+            for term in name_variants(name):
+                qids = await search(term)
+                rec["candidates_tried"].append({"term": term, "qids": qids})
+                ents = await get_entities(qids)
+                for qid in qids:
+                    ent = ents.get(qid) or {}
+                    claims = ent.get("claims") or {}
+                    names = _labels_and_aliases(ent)
+                    # Guard 1: the searched entity must BE this company, on
+                    # normalised-name EQUALITY rather than token overlap. Token
+                    # overlap let "Compass, Inc." match an Italian bank
+                    # subsidiary ("Compass Banca") and follow its parent link to
+                    # Banca Monte dei Paschi di Siena.
+                    want = name_core(name)
+                    if not any(name_core(t) == want for t in names if t):
+                        continue
+                    # Guard 2: and it must be an organisation. Without this,
+                    # "Hertz" matches the SI unit of frequency.
+                    if not _entity_is_org(claims):
+                        continue
+
+                    direct = sitelink(ent)
+                    if direct:
+                        rec.update(title=direct, has_article=True, rule="(1) the firm",
+                                   via_qid=qid, evidence=f"enwiki sitelink on {qid}")
+                        break
+
+                    # Rules (2)-(6) are collected for REVIEW, never auto-accepted.
+                    #
+                    # They cannot be validated automatically, and the paper does
+                    # not try: it hand-checks every assignment. The evidence that
+                    # no name heuristic can work is in the paper's own examples --
+                    # NYMEX Holdings -> "New York Mercantile Exchange" and
+                    # Intersections Inc. -> "Identity Guard" share no token with
+                    # the registrant name, so any name test that admits them also
+                    # admits nonsense. Concretely: a Wikidata entity carries the
+                    # alias "Compass", is genuinely an organisation, and passes
+                    # normalised-name equality against "Compass, Inc." -- it is an
+                    # Italian bank subsidiary, and following its parent link
+                    # produced "Banca Monte dei Paschi di Siena".
+                    #
+                    # Auto-accepting that would put a false positive in the
+                    # treatment group, which FLIPS an observation rather than
+                    # adding noise. So these are queued and the count is
+                    # reported; a reviewed set can be supplied later.
+                    for prop, label in RELATION_RULES:
+                        targets = _claim_targets(claims, prop)
+                        if not targets:
+                            continue
+                        rel_ents = await get_entities(targets)
+                        for tq in targets:
+                            t_title = sitelink(rel_ents.get(tq) or {})
+                            if t_title:
+                                rec.setdefault("review_candidates", []).append({
+                                    "rule": f"({prop}) {label}", "title": t_title,
+                                    "from_qid": qid, "to_qid": tq})
+                if rec["has_article"]:
+                    break
+            out[name] = rec
+            if n % 50 == 0:
+                logger.info("  articles_ext: %d/%d resolved, %d with an article",
+                            n, len(sample),
+                            sum(1 for v in out.values() if v["has_article"]))
+
+        # Paper exclusions on the final article: no disambiguation pages, and at
+        # least MIN_ARTICLE_WORDS words in the lead.
+        titles = sorted({v["title"] for v in out.values() if v["title"]})
+        logger.info("articles_ext: checking length and disambiguation on %d titles",
+                    len(titles))
+        meta: dict[str, dict] = {}
+        for i in range(0, len(titles), 20):
+            batch = titles[i:i + 20]
+            try:
+                payload = await client.get_json(WIKI_API, params={
+                    "action": "query", "titles": "|".join(batch),
+                    "prop": "extracts|pageprops", "exintro": 1, "explaintext": 1,
+                    "format": "json"})
+            except Exception:
+                continue
+            for page in ((payload.get("query") or {}).get("pages") or {}).values():
+                extract = page.get("extract") or ""
+                meta[page.get("title")] = {
+                    "words": len(extract.split()),
+                    "disambiguation": "disambiguation" in (page.get("pageprops") or {}),
+                }
+        for rec in out.values():
+            if not rec["has_article"]:
+                continue
+            m = meta.get(rec["title"], {})
+            rec["article_words"] = m.get("words")
+            if m.get("disambiguation"):
+                rec.update(has_article=False, rejection="disambiguation page",
+                           rejected_title=rec["title"], title=None)
+            elif (m.get("words") or 0) < MIN_ARTICLE_WORDS:
+                rec.update(has_article=False,
+                           rejection=f"lead under {MIN_ARTICLE_WORDS} words",
+                           rejected_title=rec["title"], title=None)
+
+        # Creation dates, for the endogeneity cutoff.
+        hits = [v for v in out.values() if v["has_article"]]
+        logger.info("articles_ext: %d with an article; fetching creation dates",
+                    len(hits))
+        for k, rec in enumerate(hits, 1):
+            try:
+                payload = await client.get_json(WIKI_API, params={
+                    "action": "query", "prop": "revisions", "titles": rec["title"],
+                    "rvdir": "newer", "rvlimit": 1, "rvprop": "timestamp",
+                    "format": "json"})
+            except Exception:
+                continue
+            for page in ((payload.get("query") or {}).get("pages") or {}).values():
+                revs = page.get("revisions") or []
+                if revs:
+                    rec["article_created"] = revs[0].get("timestamp")
+            if k % 50 == 0:
+                logger.info("  creation dates: %d/%d", k, len(hits))
+    finally:
+        await client.aclose()
+
+    for rec in out.values():
+        rec.setdefault("article_created", None)
+        rec.setdefault("review_candidates", [])
+    n_review = sum(1 for v in out.values()
+                   if not v["has_article"] and v["review_candidates"])
+    logger.info("articles_ext: %d companies have rule (2)-(6) candidates awaiting "
+                "manual review", n_review)
+    result = {"resolved_at": datetime.now(UTC).isoformat(),
+              "method": "Wikidata entity search for rule (1) -- the firm's own "
+                        "article -- accepted automatically on normalised-name "
+                        "equality plus an organisation check, with a >=30-word "
+                        "lead and no disambiguation pages. Rules (2)-(6) "
+                        "(parent, subsidiary, predecessor, separated-from, "
+                        "product) are COLLECTED FOR REVIEW and never "
+                        "auto-accepted: the published study hand-checks them, "
+                        "and its own examples (NYMEX -> New York Mercantile "
+                        "Exchange) share no name token with the registrant, so "
+                        "no automatic name test can validate them.",
+              "companies": out}
+    paths["articles_ext"].write_text(json.dumps(result, indent=1) + "\n")
+    logger.info("articles_ext: -> %s", paths["articles_ext"].name)
+    return result
+
+
+# Hand-verified verdicts on the rule (2)-(6) candidates, which is what the
+# published study does for every assignment. Nine were queued; five would have
+# been false positives had they been auto-accepted, so a 44% precision confirms
+# these cannot be taken on trust.
+REVIEWED_RELATIONS: dict[str, tuple[str | None, str]] = {
+    # Accepted -- the relation is real and is the paper's rule (2) or (3).
+    "WEBTOON Entertainment Inc.": ("Naver Corporation",
+                                   "accept: Naver is WEBTOON's parent, rule (2)"),
+    "KURA SUSHI USA, INC.": ("Kura Sushi",
+                             "accept: Kura Sushi is the Japanese parent, rule (2)"),
+    "PINTEREST, INC.": ("Pinterest",
+                        "accept: this is the firm's own article, reached via the "
+                        "brand entity, rule (1)"),
+    "Snap One Holdings Corp.": ("Control4",
+                                "accept: Control4 is a Snap One subsidiary, rule (3)"),
+    # Rejected -- name coincidence or a generic concept, not the firm.
+    "Compass, Inc.": (None, "reject: an Italian bank subsidiary aliased 'Compass'; "
+                            "Banca Monte dei Paschi di Siena is unrelated"),
+    "Avidity Biosciences, Inc.": (None, "reject: Novartis is not Avidity's parent"),
+    "SONIM TECHNOLOGIES INC": (None, "reject: 'Mobile phone' is a generic concept, "
+                                     "not the firm's core product article"),
+    "Cyngn Inc.": (None, "reject: CyanogenMod is an unrelated project; name "
+                         "coincidence only"),
+    "JFrog Ltd": (None, "reject: 'DevOps' is a generic concept, not a product article"),
+}
+ARTICLES_UNION_JSON = RAW_NOTABILITY / "articles_union.json"
+
+
+def merge_resolvers(cohort: str = "recent") -> dict:
+    """Union the two resolvers, then apply the hand-reviewed relation verdicts.
+
+    The two are **complementary, not nested**, which is why the union is the
+    right treatment set rather than either alone:
+
+      * Exact-title matching finds articles whose title carries extra words
+        ("JOANN Inc." -> "JoAnn Fabrics", "Immunocore Holdings plc" ->
+        "Immunocore") that normalised-name equality rejects.
+      * Wikidata search finds articles the title builder cannot construct --
+        capitalisation ("10X Genomics, Inc." -> "10x Genomics"), punctuation
+        ("C3.ai, Inc." -> "C3 AI"), parenthetical disambiguators ("CHEWY, INC."
+        -> "Chewy (company)"), renames ("GSX TECHEDU INC." -> "Gaotu Techedu")
+        and legal-name articles ("Gitlab Inc." -> "GitLab Inc.").
+
+    Measured on the same 500 companies: 110 strict, 105 extended, 84 agreeing,
+    **131 in union** -- 26%, against the published study's 34% on a 2006-2016
+    sample with manual verification throughout.
+    """
+    paths = cohort_paths(cohort)
+    strict = (json.loads(paths["articles"].read_text())["companies"]
+              if paths["articles"].exists() else {})
+    ext = (json.loads(paths["articles_ext"].read_text())["companies"]
+           if paths["articles_ext"].exists() else {})
+    if not strict and not ext:
+        raise SystemExit("run --resolve and --resolve-extended first.")
+
+    out: dict[str, dict] = {}
+    for name in set(strict) | set(ext):
+        a, b = strict.get(name, {}), ext.get(name, {})
+        # Prefer whichever resolver found the firm's own article; if both did and
+        # they disagree, keep the strict title, which is the more literal match.
+        title = a.get("title") or b.get("title")
+        source = ("both" if a.get("has_article") and b.get("has_article")
+                  else "strict" if a.get("has_article")
+                  else "extended" if b.get("has_article") else None)
+        created = a.get("article_created") or b.get("article_created")
+        rec = {"company": name, "symbol": a.get("symbol") or b.get("symbol"),
+               "title": title, "has_article": bool(title), "source": source,
+               "rule": b.get("rule") if source in ("extended", "both") else "(1) the firm",
+               "article_created": created}
+
+        if name in REVIEWED_RELATIONS and not rec["has_article"]:
+            accepted, why = REVIEWED_RELATIONS[name]
+            rec["review_verdict"] = why
+            if accepted:
+                rec.update(title=accepted, has_article=True,
+                           source="hand-reviewed relation", rule="(2)-(6) reviewed")
+        out[name] = rec
+
+    # Hand-reviewed titles arrive without a creation date, and a missing date
+    # fails the endogeneity cutoff -- which would silently drop exactly the
+    # companies the review was done to rescue.
+    missing = [v for v in out.values() if v["has_article"] and not v["article_created"]]
+    if missing:
+        import httpx
+
+        from research.collect.config import get_research_settings
+        ua = get_research_settings().sec_user_agent
+        with httpx.Client(timeout=45.0, headers={"User-Agent": ua}) as c:
+            for rec in missing:
+                try:
+                    d = c.get(WIKI_API, params={
+                        "action": "query", "prop": "revisions", "titles": rec["title"],
+                        "rvdir": "newer", "rvlimit": 1, "rvprop": "timestamp",
+                        "format": "json"}).json()
+                except Exception:
+                    continue
+                for page in ((d.get("query") or {}).get("pages") or {}).values():
+                    revs = page.get("revisions") or []
+                    if revs:
+                        rec["article_created"] = revs[0].get("timestamp")
+        logger.info("merged: fetched %d missing creation dates", len(missing))
+
+    result = {"merged_at": datetime.now(UTC).isoformat(),
+              "method": "union of exact-title and Wikidata rule (1), plus "
+                        "hand-reviewed rule (2)-(6) verdicts",
+              "companies": out}
+    paths["union"].write_text(json.dumps(result, indent=1) + "\n")
+    n = sum(1 for v in out.values() if v["has_article"])
+    logger.info("merged: %d of %d companies have an article (%.0f%%)", n, len(out),
+                100 * n / max(1, len(out)))
+    return result
+
+
+
+
+PREREG_JSON = DATA / "notability_prereg.json"
+
+# The regression specification, FIXED BEFORE the outcome data is complete.
+#
+# Written down and timestamped because the price collection takes ~14 hours: a
+# specification chosen after seeing the result is not a test of anything, and
+# this module's whole argument is that the n=12 -> n=35 attenuation elsewhere in
+# the project happened because a number looked convincing before it was
+# stable. Changing anything here after the data lands must be recorded as a
+# second, exploratory specification rather than an edit to this one.
+SPEC = {
+    "dependent": "underpricing = d1_close / offer_price - 1",
+    "treatment": "notable_pre_ipo (1 if a Wikipedia article existed before "
+                 "listing minus CUTOFF_DAYS, else 0)",
+    "controls": ["log(deal_usd)", "log(offer_price)",
+                 "offering-year fixed effects", "exchange fixed effects"],
+    "standard_errors": "clustered by offering year-quarter, matching the "
+                       "published study's stated clustering",
+    "winsorization": "underpricing winsorised at the 1st and 99th percentiles; "
+                     "the raw-sample result is reported alongside, and neither "
+                     "is chosen after the fact",
+    "primary_estimate": "the coefficient on notable_pre_ipo",
+    "one_sided": False,
+    "not_reproducible_from_this_data": [
+        "offer price revision (no filed ranges join to priced rows)",
+        "SIC industry (delisted 2006-16 tickers absent from company_tickers.json)",
+        "underwriter rank (needs 424B4 cover parsing)",
+        "firm age, VC backing (need paid sources)",
+        "propensity score matching and the instrumental variable",
+        "analyst following and institutional ownership (I/B/E/S, 13F)",
+    ],
+}
+
+
+def _ols_cluster(y, X, clusters, names):
+    """OLS with cluster-robust standard errors. No statsmodels dependency.
+
+    Hand-rolled for the same reason `_mann_whitney` is: adding statsmodels for
+    one regression is not worth a new dependency in a project whose brief says
+    to ask before adding any. The estimator is textbook -- CRVE with the usual
+    finite-sample correction G/(G-1) * (n-1)/(n-k) -- and every step is visible.
+    """
+    import numpy as np
+
+    y = np.asarray(y, dtype=float)
+    X = np.asarray(X, dtype=float)
+    n, k = X.shape
+    xtx = X.T @ X
+    if np.linalg.matrix_rank(xtx) < k:
+        raise SystemExit("design matrix is rank-deficient; drop a collinear column")
+    xtx_inv = np.linalg.inv(xtx)
+    beta = xtx_inv @ (X.T @ y)
+    resid = y - X @ beta
+
+    groups = np.asarray(clusters)
+    meat = np.zeros((k, k))
+    for g in np.unique(groups):
+        m = groups == g
+        xu = X[m].T @ resid[m]
+        meat += np.outer(xu, xu)
+    G = len(np.unique(groups))
+    scale = (G / max(G - 1, 1)) * ((n - 1) / max(n - k, 1))
+    vcv = xtx_inv @ meat @ xtx_inv * scale
+    se = np.sqrt(np.clip(np.diag(vcv), 0, None))
+
+    from math import erf, sqrt
+    out = []
+    for name, b, s in zip(names, beta, se):
+        t = b / s if s > 0 else float("nan")
+        p = 2 * (1 - 0.5 * (1 + erf(abs(t) / sqrt(2)))) if s > 0 else float("nan")
+        out.append({"term": name, "coef": float(b), "se": float(s),
+                    "t": float(t), "p": float(p)})
+    ss_res = float(resid @ resid)
+    ss_tot = float(((y - y.mean()) ** 2).sum())
+    return {"terms": out, "n": n, "k": k, "clusters": G,
+            "r2": 1 - ss_res / ss_tot if ss_tot else float("nan")}
+
+
+def regress(*, cohort: str = "recent", winsorize: bool = True,
+            cutoff_days: int = CUTOFF_DAYS) -> dict:
+    """The pre-registered specification. Prints a coefficient table.
+
+    Reports the conditional estimate alongside the raw group difference, because
+    the published study's headline is a regression coefficient with controls
+    while this module's earlier result was a raw median comparison -- and those
+    are not the same test. If conditioning is what reveals the effect, this is
+    where it shows up.
+    """
+    import numpy as np
+    import pandas as pd
+
+    if not PREREG_JSON.exists():
+        PREREG_JSON.write_text(json.dumps(
+            {"registered_at": datetime.now(UTC).isoformat(), "spec": SPEC},
+            indent=2) + "\n")
+        logger.info("pre-registration written -> %s", PREREG_JSON.name)
+
+    d = build(cutoff_days=cutoff_days, cohort=cohort)
+    d = d.dropna(subset=["underpricing", "deal_usd", "offer_price"]).copy()
+    d = d[(d["deal_usd"] > 0) & (d["offer_price"] > 0)]
+    if len(d) < 30:
+        print(f"only {len(d)} usable rows for cohort {cohort!r}; "
+              f"price collection is still running.")
+        return {}
+
+    d["y"] = d["underpricing"].astype(float)
+    if winsorize:
+        lo, hi = d["y"].quantile([0.01, 0.99])
+        d["y"] = d["y"].clip(lo, hi)
+    d["treat"] = d["notable_pre_ipo"].astype(int)
+    d["log_deal"] = np.log(d["deal_usd"].astype(float))
+    d["log_price"] = np.log(d["offer_price"].astype(float))
+    d["yq"] = (pd.to_datetime(d["listing_date"]).dt.year.astype(str) + "Q"
+               + pd.to_datetime(d["listing_date"]).dt.quarter.astype(str))
+
+    # drop_first avoids the dummy trap; a rank check in _ols_cluster catches
+    # anything left collinear.
+    year_fe = pd.get_dummies(pd.to_datetime(d["listing_date"]).dt.year,
+                             prefix="yr", drop_first=True, dtype=float)
+    exch = d["exchange"].fillna("unknown").str.replace(r"\s+", "_", regex=True)
+    exch_fe = pd.get_dummies(exch, prefix="ex", drop_first=True, dtype=float)
+
+    design = pd.concat([
+        pd.Series(1.0, index=d.index, name="const"),
+        d[["treat", "log_deal", "log_price"]].astype(float),
+        year_fe, exch_fe], axis=1)
+    # Constant-within-sample dummies carry no information and break the rank check.
+    design = design.loc[:, design.nunique() > 1].copy()
+    design.insert(0, "const", 1.0)
+
+    res = _ols_cluster(d["y"].values, design.values, d["yq"].values,
+                       list(design.columns))
+
+    t = d.loc[d["treat"] == 1, "y"] * 100
+    c = d.loc[d["treat"] == 0, "y"] * 100
+    print(f"=== cohort {cohort}: pre-registered OLS ===")
+    print(f"  n={res['n']}  regressors={res['k']}  year-quarter clusters="
+          f"{res['clusters']}  R2={res['r2']:.3f}"
+          f"{'  (winsorised 1/99)' if winsorize else '  (raw)'}\n")
+    print(f"  raw group medians: treated {t.median():+.1f}%  (n={len(t)})   "
+          f"control {c.median():+.1f}%  (n={len(c)})\n")
+    print(f"  {'term':16}{'coef':>10}{'se':>9}{'t':>8}{'p':>9}")
+    for row in res["terms"]:
+        if row["term"].startswith(("yr_", "ex_")):
+            continue          # fixed effects estimated, not reported
+        star = ("***" if row["p"] < 0.01 else "**" if row["p"] < 0.05
+                else "*" if row["p"] < 0.10 else "")
+        print(f"  {row['term']:16}{row['coef']:>10.4f}{row['se']:>9.4f}"
+              f"{row['t']:>8.2f}{row['p']:>9.4f} {star}")
+    print(f"\n  (year and exchange fixed effects estimated and not shown)")
+    tr = next(r for r in res["terms"] if r["term"] == "treat")
+    print(f"\n  PRIMARY: a pre-IPO Wikipedia article is associated with "
+          f"{tr['coef']*100:+.1f} percentage points of underpricing, "
+          f"p = {tr['p']:.4f}")
+    print("  " + ("significant at 0.05" if tr["p"] < 0.05
+                  else "NOT significant at 0.05"))
+    return res
 
 
 if __name__ == "__main__":

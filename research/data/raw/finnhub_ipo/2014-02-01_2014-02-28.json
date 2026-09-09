@@ -1,0 +1,467 @@
+{
+ "from": "2014-02-01",
+ "to": "2014-02-28",
+ "fetched_at": "2026-09-09T01:24:13.512273+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-02-28",
+   "exchange": "Nasdaq National Market",
+   "name": "VARONIS SYSTEMS INC",
+   "numberOfShares": 4800000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "VRNS",
+   "totalSharesValue": 105600000
+  },
+  {
+   "date": "2014-02-27",
+   "exchange": "Nasdaq National Market",
+   "name": "LUMENIS LTD",
+   "numberOfShares": 6250000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "LMNS",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2014-02-27",
+   "exchange": null,
+   "name": "ZUBRA INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-02-27",
+   "exchange": null,
+   "name": "SDMS, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 651229.25
+  },
+  {
+   "date": "2014-02-26",
+   "exchange": null,
+   "name": "MERECOT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-02-25",
+   "exchange": null,
+   "name": "ARROW CARS INTERNATIONAL INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-02-24",
+   "exchange": null,
+   "name": "ETRE REIT, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ESSF",
+   "totalSharesValue": 189750000
+  },
+  {
+   "date": "2014-02-21",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SEMLER SCIENTIFIC, INC.",
+   "numberOfShares": 1430000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "SMLR",
+   "totalSharesValue": 10010000
+  },
+  {
+   "date": "2014-02-21",
+   "exchange": null,
+   "name": "KANGE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50400
+  },
+  {
+   "date": "2014-02-21",
+   "exchange": null,
+   "name": "ROMULUS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2014-02-20",
+   "exchange": null,
+   "name": "LUCKWEL PHARMACEUTICALS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-02-20",
+   "exchange": null,
+   "name": "LION PRINT CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-02-14",
+   "exchange": "Nasdaq National Market",
+   "name": "INOGEN INC",
+   "numberOfShares": 4411763,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "INGN",
+   "totalSharesValue": 70588208
+  },
+  {
+   "date": "2014-02-14",
+   "exchange": null,
+   "name": "STALWART TANKERS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "STST",
+   "totalSharesValue": 186875000
+  },
+  {
+   "date": "2014-02-14",
+   "exchange": null,
+   "name": "DANDRIT BIOTECH USA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2014-02-14",
+   "exchange": null,
+   "name": "PRESTON CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2377620
+  },
+  {
+   "date": "2014-02-14",
+   "exchange": null,
+   "name": "NEW HORIZON EQUITY GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5500000
+  },
+  {
+   "date": "2014-02-14",
+   "exchange": null,
+   "name": "AMERICAN XANTHAN CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-02-13",
+   "exchange": null,
+   "name": "AUDEO ONCOLOGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-02-13",
+   "exchange": "New York Stock Exchange",
+   "name": "INSTALLED BUILDING PRODUCTS, INC.",
+   "numberOfShares": 7450000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "IBP",
+   "totalSharesValue": 81950000
+  },
+  {
+   "date": "2014-02-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "AGROFRESH SOLUTIONS, INC.",
+   "numberOfShares": 21000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BLVDU",
+   "totalSharesValue": 210000000
+  },
+  {
+   "date": "2014-02-13",
+   "exchange": "Nasdaq National Market",
+   "name": "CONCERT PHARMACEUTICALS, INC.",
+   "numberOfShares": 6000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "CNCE",
+   "totalSharesValue": 84000000
+  },
+  {
+   "date": "2014-02-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SINTX TECHNOLOGIES, INC.",
+   "numberOfShares": 3500000,
+   "price": "5.75",
+   "status": "priced",
+   "symbol": "AMDA",
+   "totalSharesValue": 20125000
+  },
+  {
+   "date": "2014-02-13",
+   "exchange": null,
+   "name": "ID GLOBAL SOLUTIONS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30344392.2
+  },
+  {
+   "date": "2014-02-12",
+   "exchange": "Nasdaq National Market",
+   "name": "FLEXION THERAPEUTICS INC",
+   "numberOfShares": 5000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "FLXN",
+   "totalSharesValue": 65000000
+  },
+  {
+   "date": "2014-02-12",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "TALMER BANCORP, INC.",
+   "numberOfShares": 15555555,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "TLMR",
+   "totalSharesValue": 202222215
+  },
+  {
+   "date": "2014-02-12",
+   "exchange": "Nasdaq National Market",
+   "name": "EAGLE PHARMACEUTICALS, INC.",
+   "numberOfShares": 3350000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "EGRX",
+   "totalSharesValue": 50250000
+  },
+  {
+   "date": "2014-02-11",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "NEPHROGENEX, INC.",
+   "numberOfShares": 3100000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "NRX",
+   "totalSharesValue": 37200000
+  },
+  {
+   "date": "2014-02-11",
+   "exchange": null,
+   "name": "E-WORLD USA HOLDING,INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1062854
+  },
+  {
+   "date": "2014-02-07",
+   "exchange": "Nasdaq National Market",
+   "name": "ARGOS THERAPEUTICS INC",
+   "numberOfShares": 5625000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "ARGS",
+   "totalSharesValue": 45000000
+  },
+  {
+   "date": "2014-02-07",
+   "exchange": "New York Stock Exchange",
+   "name": "GEOPARK LTD",
+   "numberOfShares": 13500000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "GPRK",
+   "totalSharesValue": 94500000
+  },
+  {
+   "date": "2014-02-07",
+   "exchange": null,
+   "name": "RX SAFES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2500000
+  },
+  {
+   "date": "2014-02-07",
+   "exchange": null,
+   "name": "1847 HOLDINGS LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2014-02-06",
+   "exchange": "New York Stock Exchange",
+   "name": "LADDER CAPITAL CORP",
+   "numberOfShares": 13250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LADR",
+   "totalSharesValue": 225250000
+  },
+  {
+   "date": "2014-02-06",
+   "exchange": "Nasdaq National Market",
+   "name": "SESEN BIO, INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EBIO",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2014-02-06",
+   "exchange": "Nasdaq National Market",
+   "name": "REVANCE THERAPEUTICS, INC.",
+   "numberOfShares": 6000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "RVNC",
+   "totalSharesValue": 96000000
+  },
+  {
+   "date": "2014-02-06",
+   "exchange": "Nasdaq National Market",
+   "name": "ZYLA LIFE SCIENCES",
+   "numberOfShares": 4200000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "EGLT",
+   "totalSharesValue": 50400000
+  },
+  {
+   "date": "2014-02-06",
+   "exchange": null,
+   "name": "TECOGEN INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TGEN",
+   "totalSharesValue": 9126653
+  },
+  {
+   "date": "2014-02-05",
+   "exchange": "Nasdaq National Market",
+   "name": "UNIQURE N.V.",
+   "numberOfShares": 5400000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "QURE",
+   "totalSharesValue": 91800000
+  },
+  {
+   "date": "2014-02-05",
+   "exchange": "Nasdaq National Market",
+   "name": "AUSPEX PHARMACEUTICALS, INC.",
+   "numberOfShares": 7000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "ASPX",
+   "totalSharesValue": 84000000
+  },
+  {
+   "date": "2014-02-05",
+   "exchange": "Nasdaq National Market",
+   "name": "GENOCEA BIOSCIENCES, INC.",
+   "numberOfShares": 5500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "GNCA",
+   "totalSharesValue": 66000000
+  },
+  {
+   "date": "2014-02-05",
+   "exchange": "New York Stock Exchange",
+   "name": "CONTINENTAL BUILDING PRODUCTS, INC.",
+   "numberOfShares": 11765000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "CBPX",
+   "totalSharesValue": 164710000
+  },
+  {
+   "date": "2014-02-05",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "BIOCEPT INC",
+   "numberOfShares": 1900000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BIOC",
+   "totalSharesValue": 19000000
+  },
+  {
+   "date": "2014-02-04",
+   "exchange": null,
+   "name": "ARTESANIAS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 45000
+  },
+  {
+   "date": "2014-02-04",
+   "exchange": null,
+   "name": "DIAMOND S SHIPPING GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DSG",
+   "totalSharesValue": 257600000
+  },
+  {
+   "date": "2014-02-03",
+   "exchange": null,
+   "name": "GRASSMERE ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

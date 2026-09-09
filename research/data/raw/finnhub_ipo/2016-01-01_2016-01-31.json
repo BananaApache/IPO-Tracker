@@ -1,0 +1,167 @@
+{
+ "from": "2016-01-01",
+ "to": "2016-01-31",
+ "fetched_at": "2026-09-09T01:24:59.540742+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2016-01-29",
+   "exchange": null,
+   "name": "PLUSH CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2016-01-27",
+   "exchange": null,
+   "name": "LANDMARK APARTMENT TRUST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-01-27",
+   "exchange": null,
+   "name": "XG SCIENCES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 16000000
+  },
+  {
+   "date": "2016-01-26",
+   "exchange": null,
+   "name": "BALLAST POINT BREWING & SPIRITS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-01-22",
+   "exchange": null,
+   "name": "ONEMAIN FINANCIAL HOLDINGS, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-01-19",
+   "exchange": null,
+   "name": "PC MOBILE MEDIA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000
+  },
+  {
+   "date": "2016-01-19",
+   "exchange": null,
+   "name": "TITAN COMPUTER SERVICES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 871850
+  },
+  {
+   "date": "2016-01-19",
+   "exchange": null,
+   "name": "AXETURE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2016-01-11",
+   "exchange": null,
+   "name": "RELIANT SERVICE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2016-01-08",
+   "exchange": null,
+   "name": "POSTADS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 89000
+  },
+  {
+   "date": "2016-01-07",
+   "exchange": null,
+   "name": "SURGIQUEST INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-01-07",
+   "exchange": null,
+   "name": "OTG EXP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "OTG",
+   "totalSharesValue": 672750000
+  },
+  {
+   "date": "2016-01-05",
+   "exchange": null,
+   "name": "21ST CENTURY ONCOLOGY HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-01-05",
+   "exchange": null,
+   "name": "TRUPAL MEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 248513
+  },
+  {
+   "date": "2016-01-05",
+   "exchange": null,
+   "name": "NOVA SMART SOLUTIONS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 6172540
+  },
+  {
+   "date": "2016-01-04",
+   "exchange": null,
+   "name": "BORROWMONEY.COM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2053000
+  }
+ ]
+}

@@ -1,0 +1,507 @@
+{
+ "from": "2010-12-01",
+ "to": "2010-12-31",
+ "fetched_at": "2026-09-09T01:22:57.493023+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2010-12-30",
+   "exchange": null,
+   "name": "CHINA DREDGING GROUP CO., LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-12-30",
+   "exchange": null,
+   "name": "KIDS ONLY MARKET, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 38000
+  },
+  {
+   "date": "2010-12-30",
+   "exchange": null,
+   "name": "CITY MEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 45500
+  },
+  {
+   "date": "2010-12-29",
+   "exchange": null,
+   "name": "LAREDO RESOURCES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5024
+  },
+  {
+   "date": "2010-12-29",
+   "exchange": null,
+   "name": "GEORGETOWN CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 17500
+  },
+  {
+   "date": "2010-12-23",
+   "exchange": null,
+   "name": "ZEN RAKU ENTERPRISES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-12-22",
+   "exchange": null,
+   "name": "HCA HEALTHCARE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HCA",
+   "totalSharesValue": 3786000000
+  },
+  {
+   "date": "2010-12-21",
+   "exchange": "Nasdaq National Market",
+   "name": "OSSEN INNOVATION CO. LTD.",
+   "numberOfShares": 5000000,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "OSN",
+   "totalSharesValue": 22500000
+  },
+  {
+   "date": "2010-12-21",
+   "exchange": null,
+   "name": "AVANTE SYSTEMS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 11700
+  },
+  {
+   "date": "2010-12-20",
+   "exchange": null,
+   "name": "SERVICESOURCE INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SREV",
+   "totalSharesValue": 119401330
+  },
+  {
+   "date": "2010-12-17",
+   "exchange": "New York Stock Exchange",
+   "name": "FORTEGRA FINANCIAL CORP",
+   "numberOfShares": 6000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "FRF",
+   "totalSharesValue": 66000000
+  },
+  {
+   "date": "2010-12-17",
+   "exchange": "New York Stock Exchange",
+   "name": "QR ENERGY, LP",
+   "numberOfShares": 15000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "QRE",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2010-12-17",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ASSEMBLY BIOSCIENCES, INC.",
+   "numberOfShares": 2900000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "VTUS",
+   "totalSharesValue": 17400000
+  },
+  {
+   "date": "2010-12-16",
+   "exchange": null,
+   "name": "WAVE2WAVE COMMUNICATIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-12-16",
+   "exchange": null,
+   "name": "AVARUS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-12-16",
+   "exchange": "New York Stock Exchange",
+   "name": "KNIGHT-SWIFT TRANSPORTATION HOLDINGS INC.",
+   "numberOfShares": 73300000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "SWFT",
+   "totalSharesValue": 806300000
+  },
+  {
+   "date": "2010-12-16",
+   "exchange": null,
+   "name": "PRESS VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 28000
+  },
+  {
+   "date": "2010-12-15",
+   "exchange": null,
+   "name": "FRAC TECH SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-12-15",
+   "exchange": "Nasdaq National Market",
+   "name": "RIGNET, INC.",
+   "numberOfShares": 5000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "RNET",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2010-12-15",
+   "exchange": "New York Stock Exchange",
+   "name": "WALKER & DUNLOP, INC.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WD",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2010-12-15",
+   "exchange": "New York Stock Exchange",
+   "name": "FLEETCOR TECHNOLOGIES INC",
+   "numberOfShares": 12675000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "FLT",
+   "totalSharesValue": 291525000
+  },
+  {
+   "date": "2010-12-15",
+   "exchange": "New York Stock Exchange",
+   "name": "GAIN CAPITAL HOLDINGS, INC.",
+   "numberOfShares": 9000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "GCAP",
+   "totalSharesValue": 81000000
+  },
+  {
+   "date": "2010-12-15",
+   "exchange": null,
+   "name": "YUMMY FLIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 99450
+  },
+  {
+   "date": "2010-12-14",
+   "exchange": null,
+   "name": "GUARDIAN 8 HOLDINGS",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-12-14",
+   "exchange": "New York Stock Exchange",
+   "name": "ISOFTSTONE HOLDINGS LTD",
+   "numberOfShares": 10833334,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "ISS",
+   "totalSharesValue": 140833342
+  },
+  {
+   "date": "2010-12-14",
+   "exchange": null,
+   "name": "VECAST INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 6600000
+  },
+  {
+   "date": "2010-12-14",
+   "exchange": null,
+   "name": "LYONS LIQUORS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 116000
+  },
+  {
+   "date": "2010-12-10",
+   "exchange": null,
+   "name": "WHITE FOX VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-12-10",
+   "exchange": "New York Stock Exchange",
+   "name": "LENTUO INTERNATIONAL INC.",
+   "numberOfShares": 6500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "LAS",
+   "totalSharesValue": 52000000
+  },
+  {
+   "date": "2010-12-10",
+   "exchange": "Nasdaq National Market",
+   "name": "SKY-MOBI LTD",
+   "numberOfShares": 7250000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "MOBI",
+   "totalSharesValue": 58000000
+  },
+  {
+   "date": "2010-12-10",
+   "exchange": "OTCBB",
+   "name": "FLATWORLD ACQUISITION CORP.",
+   "numberOfShares": 2200000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FTWAU",
+   "totalSharesValue": 22000000
+  },
+  {
+   "date": "2010-12-10",
+   "exchange": null,
+   "name": "PREVENTIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2010-12-09",
+   "exchange": "Nasdaq National Market",
+   "name": "BONA FILM GROUP LTD",
+   "numberOfShares": 11740000,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "BONA",
+   "totalSharesValue": 99790000
+  },
+  {
+   "date": "2010-12-09",
+   "exchange": null,
+   "name": "INKA PRODUCTIONS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2010-12-08",
+   "exchange": "New York Stock Exchange",
+   "name": "YOUKU TUDOU INC.",
+   "numberOfShares": 15847700,
+   "price": "12.80",
+   "status": "priced",
+   "symbol": "YOKU",
+   "totalSharesValue": 202850560
+  },
+  {
+   "date": "2010-12-08",
+   "exchange": "New York Stock Exchange",
+   "name": "E-COMMERCE CHINA DANGDANG INC.",
+   "numberOfShares": 17000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "DANG",
+   "totalSharesValue": 272000000
+  },
+  {
+   "date": "2010-12-08",
+   "exchange": "American Stock Exchange",
+   "name": "CTPARTNERS EXECUTIVE SEARCH INC.",
+   "numberOfShares": 2307692,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "CTP",
+   "totalSharesValue": 29999996
+  },
+  {
+   "date": "2010-12-08",
+   "exchange": "Nasdaq National Market",
+   "name": "SEMILEDS CORP",
+   "numberOfShares": 5250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LEDS",
+   "totalSharesValue": 89250000
+  },
+  {
+   "date": "2010-12-08",
+   "exchange": null,
+   "name": "PASSIONATE PET, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8000
+  },
+  {
+   "date": "2010-12-08",
+   "exchange": null,
+   "name": "MEGA WORLD FOOD HOLDING CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2010-12-07",
+   "exchange": null,
+   "name": "TANGERINE HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-12-07",
+   "exchange": "New York Stock Exchange",
+   "name": "TARGA RESOURCES CORP.",
+   "numberOfShares": 16375000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "TRGP",
+   "totalSharesValue": 360250000
+  },
+  {
+   "date": "2010-12-03",
+   "exchange": "New York Stock Exchange",
+   "name": "ETFS WHITE METALS BASKET TRUST",
+   "numberOfShares": 10000000,
+   "price": "48.54",
+   "status": "priced",
+   "symbol": "WITE",
+   "totalSharesValue": 485400000
+  },
+  {
+   "date": "2010-12-02",
+   "exchange": null,
+   "name": "ELECTRIC TRACTOR CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-12-02",
+   "exchange": "New York Stock Exchange",
+   "name": "GLOBAL BROKERAGE, INC.",
+   "numberOfShares": 15060000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "FXCM",
+   "totalSharesValue": 210840000
+  },
+  {
+   "date": "2010-12-02",
+   "exchange": null,
+   "name": "ABBY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 375000
+  },
+  {
+   "date": "2010-12-02",
+   "exchange": null,
+   "name": "VERDE RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2010-12-01",
+   "exchange": null,
+   "name": "BECEEM COMMUNICATIONS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-12-01",
+   "exchange": null,
+   "name": "AMERICOLD REALTY TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-12-01",
+   "exchange": null,
+   "name": "AMERICAN REALTY FUNDS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 385568.8
+  }
+ ]
+}

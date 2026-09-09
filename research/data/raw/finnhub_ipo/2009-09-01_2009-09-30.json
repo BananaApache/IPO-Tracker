@@ -1,0 +1,277 @@
+{
+ "from": "2009-09-01",
+ "to": "2009-09-30",
+ "fetched_at": "2026-09-09T01:22:27.457391+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2009-09-28",
+   "exchange": null,
+   "name": "METHES ENERGIES INTERNATIONAL LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-09-28",
+   "exchange": null,
+   "name": "NEWEGG INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-09-25",
+   "exchange": null,
+   "name": "MISTRAL ACQUISITION CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-09-25",
+   "exchange": "New York Stock Exchange",
+   "name": "SELECT MEDICAL HOLDINGS CORP",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SEM",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2009-09-24",
+   "exchange": null,
+   "name": "GNS GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-09-24",
+   "exchange": "New York Stock Exchange",
+   "name": "APOLLO COMMERCIAL REAL ESTATE FINANCE, INC.",
+   "numberOfShares": 10000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "ARI",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2009-09-24",
+   "exchange": "New York Stock Exchange",
+   "name": "COLONY CAPITAL, INC.",
+   "numberOfShares": 12500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "CLNY",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2009-09-24",
+   "exchange": "Nasdaq National Market",
+   "name": "B456 SYSTEMS, INC.",
+   "numberOfShares": 28180501,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "AONE",
+   "totalSharesValue": 380436764
+  },
+  {
+   "date": "2009-09-24",
+   "exchange": "New York Stock Exchange",
+   "name": "UNITED STATES SHORT OIL FUND, LP",
+   "numberOfShares": 25000000,
+   "price": "52.20",
+   "status": "priced",
+   "symbol": "DNO",
+   "totalSharesValue": 1305000000
+  },
+  {
+   "date": "2009-09-24",
+   "exchange": "New York Stock Exchange",
+   "name": "ARTIO GLOBAL INVESTORS INC.",
+   "numberOfShares": 25000000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "ART",
+   "totalSharesValue": 650000000
+  },
+  {
+   "date": "2009-09-24",
+   "exchange": "Nasdaq National Market",
+   "name": "VITACOST.COM, INC.",
+   "numberOfShares": 11000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "VITC",
+   "totalSharesValue": 132000000
+  },
+  {
+   "date": "2009-09-24",
+   "exchange": null,
+   "name": "BIOCANCELL THERAPEUTICS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5122187.73
+  },
+  {
+   "date": "2009-09-23",
+   "exchange": null,
+   "name": "SHARP PERFORMANCE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 7700
+  },
+  {
+   "date": "2009-09-23",
+   "exchange": null,
+   "name": "OICCO ACQUISITION I, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2009-09-18",
+   "exchange": null,
+   "name": "SUNPEAKS VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 42000
+  },
+  {
+   "date": "2009-09-17",
+   "exchange": "New York Stock Exchange",
+   "name": "CREXUS INVESTMENT CORP.",
+   "numberOfShares": 13333334,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CXS",
+   "totalSharesValue": 200000010
+  },
+  {
+   "date": "2009-09-16",
+   "exchange": null,
+   "name": "BETTER CHOICE CO INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-09-16",
+   "exchange": null,
+   "name": "GMS CAPITAL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-09-16",
+   "exchange": null,
+   "name": "CHINA GROWTH ALLIANCE LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-09-10",
+   "exchange": null,
+   "name": "EXMOVERE HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-09-10",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "TRI-TECH HOLDING, INC.",
+   "numberOfShares": 1700000,
+   "price": "6.75",
+   "status": "priced",
+   "symbol": "TRIT",
+   "totalSharesValue": 11475000
+  },
+  {
+   "date": "2009-09-09",
+   "exchange": "New York Stock Exchange",
+   "name": "ABERDEEN STANDARD GOLD ETF TRUST",
+   "numberOfShares": 11000000,
+   "price": "98.98",
+   "status": "priced",
+   "symbol": "SGOL",
+   "totalSharesValue": 1088780000
+  },
+  {
+   "date": "2009-09-04",
+   "exchange": "Nasdaq National Market",
+   "name": "LIHUA INTERNATIONAL INC.",
+   "numberOfShares": 2300000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "LIWA",
+   "totalSharesValue": 9200000
+  },
+  {
+   "date": "2009-09-04",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "LIHUA INTERNATIONAL INC.",
+   "numberOfShares": 2300000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "LIWA",
+   "totalSharesValue": 9200000
+  },
+  {
+   "date": "2009-09-03",
+   "exchange": "OTCBB",
+   "name": "VIVAKOR, INC.",
+   "numberOfShares": 15000000,
+   "price": "0.23",
+   "status": "priced",
+   "symbol": "VIVK",
+   "totalSharesValue": 3450000
+  },
+  {
+   "date": "2009-09-03",
+   "exchange": null,
+   "name": "SHANDA GAMES LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GAME",
+   "totalSharesValue": 1043750000
+  },
+  {
+   "date": "2009-09-01",
+   "exchange": null,
+   "name": "USA REAL ESTATE HOLDING CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

@@ -1,0 +1,567 @@
+{
+ "from": "2006-11-01",
+ "to": "2006-11-30",
+ "fetched_at": "2026-09-09T01:21:19.458340+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2006-11-30",
+   "exchange": null,
+   "name": "KELYNIAM GLOBAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-30",
+   "exchange": "Nasdaq National Market",
+   "name": "NETLIST INC",
+   "numberOfShares": 6250000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "NLST",
+   "totalSharesValue": 43750000
+  },
+  {
+   "date": "2006-11-30",
+   "exchange": "American Stock Exchange",
+   "name": "MACRO SECURITIES DEPOSITOR, LLC",
+   "numberOfShares": 7500000,
+   "price": "60.00",
+   "status": "priced",
+   "symbol": "DCR",
+   "totalSharesValue": 450000000
+  },
+  {
+   "date": "2006-11-30",
+   "exchange": "American Stock Exchange",
+   "name": "MACRO SECURITIES DEPOSITOR, LLC",
+   "numberOfShares": 7500000,
+   "price": "60.00",
+   "status": "priced",
+   "symbol": "UCR",
+   "totalSharesValue": 450000000
+  },
+  {
+   "date": "2006-11-28",
+   "exchange": null,
+   "name": "INTERCLOUD SYSTEMS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-28",
+   "exchange": null,
+   "name": "UNIVERSAL TRACKING SOLUTIONS,INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-28",
+   "exchange": null,
+   "name": "ASTHMATX INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-27",
+   "exchange": "Nasdaq National Market",
+   "name": "CREATIVE REALITIES, INC.",
+   "numberOfShares": 4500000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "RNIN",
+   "totalSharesValue": 18000000
+  },
+  {
+   "date": "2006-11-22",
+   "exchange": null,
+   "name": "HAWKEYE HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-22",
+   "exchange": null,
+   "name": "NEG, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-22",
+   "exchange": null,
+   "name": "MEDSONIX INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-22",
+   "exchange": "New York Stock Exchange",
+   "name": "NORTH AMERICAN CONSTRUCTION GROUP LTD.",
+   "numberOfShares": 12500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "NOA",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2006-11-21",
+   "exchange": "Nasdaq National Market",
+   "name": "WILLDAN GROUP, INC.",
+   "numberOfShares": 2900000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "WLDN",
+   "totalSharesValue": 29000000
+  },
+  {
+   "date": "2006-11-21",
+   "exchange": "New York Stock Exchange",
+   "name": "SPIRIT AEROSYSTEMS HOLDINGS, INC.",
+   "numberOfShares": 55083334,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "SPR",
+   "totalSharesValue": 1432166684
+  },
+  {
+   "date": "2006-11-20",
+   "exchange": null,
+   "name": "CYCLONE ENERGY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-17",
+   "exchange": "New York Stock Exchange",
+   "name": "NYMEX HOLDINGS INC",
+   "numberOfShares": 6484800,
+   "price": "59.00",
+   "status": "priced",
+   "symbol": "NMX",
+   "totalSharesValue": 382603200
+  },
+  {
+   "date": "2006-11-17",
+   "exchange": "New York Stock Exchange",
+   "name": "NYMEX HOLDINGS INC",
+   "numberOfShares": 6500000,
+   "price": "59.00",
+   "status": "priced",
+   "symbol": "NMX",
+   "totalSharesValue": 383500000
+  },
+  {
+   "date": "2006-11-17",
+   "exchange": "Nasdaq National Market",
+   "name": "FIRST SOLAR, INC.",
+   "numberOfShares": 20000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "FSLR",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2006-11-17",
+   "exchange": "New York Stock Exchange",
+   "name": "VENOCO, INC.",
+   "numberOfShares": 12500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "VQ",
+   "totalSharesValue": 212500000
+  },
+  {
+   "date": "2006-11-16",
+   "exchange": "Nasdaq National Market",
+   "name": "ALLOT LTD.",
+   "numberOfShares": 6500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "ALLT",
+   "totalSharesValue": 78000000
+  },
+  {
+   "date": "2006-11-16",
+   "exchange": "Nasdaq National Market",
+   "name": "HANSEN MEDICAL INC",
+   "numberOfShares": 6250000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "HNSN",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2006-11-16",
+   "exchange": "New York Stock Exchange",
+   "name": "HERC HOLDINGS INC",
+   "numberOfShares": 88235000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "HTZ",
+   "totalSharesValue": 1323525000
+  },
+  {
+   "date": "2006-11-16",
+   "exchange": "New York Stock Exchange",
+   "name": "KBR, INC.",
+   "numberOfShares": 27840000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "KBR",
+   "totalSharesValue": 473280000
+  },
+  {
+   "date": "2006-11-15",
+   "exchange": null,
+   "name": "SANDRIDGE ENERGY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-15",
+   "exchange": "New York Stock Exchange",
+   "name": "EMERGENT BIOSOLUTIONS INC.",
+   "numberOfShares": 5000000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "EBS",
+   "totalSharesValue": 62500000
+  },
+  {
+   "date": "2006-11-15",
+   "exchange": "New York Stock Exchange",
+   "name": "SANCHEZ MIDSTREAM PARTNERS LP",
+   "numberOfShares": 4500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "CEP",
+   "totalSharesValue": 94500000
+  },
+  {
+   "date": "2006-11-15",
+   "exchange": null,
+   "name": "CENTRAL NORTH AIRPORT GROUP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "OMAB",
+   "totalSharesValue": 187904340
+  },
+  {
+   "date": "2006-11-13",
+   "exchange": null,
+   "name": "DIAMONDBACK ENERGY SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-13",
+   "exchange": null,
+   "name": "AMWINS GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-13",
+   "exchange": null,
+   "name": "ACTIVBIOTICS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-13",
+   "exchange": "Nasdaq National Market",
+   "name": "AMTRUST FINANCIAL SERVICES, INC.",
+   "numberOfShares": 25584000,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "AFSI",
+   "totalSharesValue": 191880000
+  },
+  {
+   "date": "2006-11-10",
+   "exchange": "Nasdaq National Market",
+   "name": "SOLTA MEDICAL INC",
+   "numberOfShares": 6000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "THRM",
+   "totalSharesValue": 42000000
+  },
+  {
+   "date": "2006-11-10",
+   "exchange": "Nasdaq National Market",
+   "name": "YIELD10 BIOSCIENCE, INC.",
+   "numberOfShares": 6800000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MBLX",
+   "totalSharesValue": 95200000
+  },
+  {
+   "date": "2006-11-10",
+   "exchange": "New York Stock Exchange",
+   "name": "MANIFOLD CAPITAL CORP.",
+   "numberOfShares": 6898541,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "ACA",
+   "totalSharesValue": 89681033
+  },
+  {
+   "date": "2006-11-10",
+   "exchange": "Nasdaq National Market",
+   "name": "CAPELLA EDUCATION CO",
+   "numberOfShares": 4000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "CPLA",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2006-11-09",
+   "exchange": null,
+   "name": "ELLORA ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-09",
+   "exchange": null,
+   "name": "ELLORA ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-09",
+   "exchange": null,
+   "name": "RHINO RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-09",
+   "exchange": "Nasdaq National Market",
+   "name": "CANADIAN SOLAR INC.",
+   "numberOfShares": 7700000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CSIQ",
+   "totalSharesValue": 115500000
+  },
+  {
+   "date": "2006-11-09",
+   "exchange": "New York Stock Exchange",
+   "name": "ONEBEACON INSURANCE GROUP, LTD.",
+   "numberOfShares": 24000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "OB",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2006-11-09",
+   "exchange": "New York Stock Exchange",
+   "name": "KBW, INC.",
+   "numberOfShares": 6800000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "KBW",
+   "totalSharesValue": 142800000
+  },
+  {
+   "date": "2006-11-09",
+   "exchange": "Nasdaq National Market",
+   "name": "PHYSICIANS FORMULA HOLDINGS, INC.",
+   "numberOfShares": 7500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "FACE",
+   "totalSharesValue": 127500000
+  },
+  {
+   "date": "2006-11-09",
+   "exchange": "American Stock Exchange",
+   "name": "REGIONAL HEALTH PROPERTIES, INC",
+   "numberOfShares": 703000,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "ADK.U",
+   "totalSharesValue": 6678500
+  },
+  {
+   "date": "2006-11-08",
+   "exchange": null,
+   "name": "FOUR CORNERS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-08",
+   "exchange": "Nasdaq National Market",
+   "name": "CATALYST PHARMACEUTICALS, INC.",
+   "numberOfShares": 3350000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "CPRX",
+   "totalSharesValue": 20100000
+  },
+  {
+   "date": "2006-11-03",
+   "exchange": null,
+   "name": "ELLORA ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-03",
+   "exchange": "Nasdaq National Market",
+   "name": "ORBCOMM INC.",
+   "numberOfShares": 9230800,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ORBC",
+   "totalSharesValue": 101538800
+  },
+  {
+   "date": "2006-11-02",
+   "exchange": null,
+   "name": "STALLION OILFIELD SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-02",
+   "exchange": null,
+   "name": "OTIS SPUNKMEYER HOLDINGS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-11-02",
+   "exchange": "Nasdaq National Market",
+   "name": "GLOBALSTAR, INC.",
+   "numberOfShares": 7500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "GSAT",
+   "totalSharesValue": 127500000
+  },
+  {
+   "date": "2006-11-02",
+   "exchange": "Nasdaq National Market",
+   "name": "INNOPHOS HOLDINGS, INC.",
+   "numberOfShares": 8695652,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "IPHS",
+   "totalSharesValue": 104347824
+  },
+  {
+   "date": "2006-11-02",
+   "exchange": null,
+   "name": "AERCAP HOLDINGS N.V.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AER",
+   "totalSharesValue": 600300000
+  },
+  {
+   "date": "2006-11-01",
+   "exchange": "Nasdaq National Market",
+   "name": "RR MEDIA LTD.",
+   "numberOfShares": 3800000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "RRST",
+   "totalSharesValue": 47500000
+  },
+  {
+   "date": "2006-11-01",
+   "exchange": "Nasdaq National Market",
+   "name": "SOUTHERN NATIONAL BANCORP OF VIRGINIA INC",
+   "numberOfShares": 1786000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "SONA",
+   "totalSharesValue": 25004000
+  },
+  {
+   "date": "2006-11-01",
+   "exchange": "New York Stock Exchange",
+   "name": "OWENS CORNING",
+   "numberOfShares": 66135211,
+   "price": "28.05",
+   "status": "priced",
+   "symbol": "OC",
+   "totalSharesValue": 1855092669
+  },
+  {
+   "date": "2006-11-01",
+   "exchange": "American Stock Exchange",
+   "name": "DEBT RESOLVE INC",
+   "numberOfShares": 2500000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "DRV",
+   "totalSharesValue": 12500000
+  }
+ ]
+}

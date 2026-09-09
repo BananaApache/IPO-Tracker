@@ -1,0 +1,277 @@
+{
+ "from": "2010-03-01",
+ "to": "2010-03-31",
+ "fetched_at": "2026-09-09T01:22:39.458260+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2010-03-31",
+   "exchange": null,
+   "name": "ENERGY & POWER SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-03-31",
+   "exchange": "New York Stock Exchange",
+   "name": "SCORPIO TANKERS INC.",
+   "numberOfShares": 12500000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "STNG",
+   "totalSharesValue": 162500000
+  },
+  {
+   "date": "2010-03-31",
+   "exchange": "Nasdaq National Market",
+   "name": "MERU NETWORKS INC",
+   "numberOfShares": 4386784,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "MERU",
+   "totalSharesValue": 65801760
+  },
+  {
+   "date": "2010-03-31",
+   "exchange": "Nasdaq National Market",
+   "name": "SS&C TECHNOLOGIES HOLDINGS INC",
+   "numberOfShares": 10725000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SSNC",
+   "totalSharesValue": 160875000
+  },
+  {
+   "date": "2010-03-30",
+   "exchange": null,
+   "name": "ATOSSA THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-03-29",
+   "exchange": null,
+   "name": "VAPARIA CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 900000
+  },
+  {
+   "date": "2010-03-25",
+   "exchange": null,
+   "name": "WAZZNEW, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-03-25",
+   "exchange": "American Stock Exchange",
+   "name": "CORMEDIX INC.",
+   "numberOfShares": 1925000,
+   "price": "6.50",
+   "status": "priced",
+   "symbol": "CRMD",
+   "totalSharesValue": 12512500
+  },
+  {
+   "date": "2010-03-25",
+   "exchange": null,
+   "name": "OICCO ACQUISITION II, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2010-03-24",
+   "exchange": "Nasdaq National Market",
+   "name": "FIRST INTERSTATE BANCSYSTEM INC",
+   "numberOfShares": 10000000,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "FIBK",
+   "totalSharesValue": 145000000
+  },
+  {
+   "date": "2010-03-24",
+   "exchange": "New York Stock Exchange",
+   "name": "MAXLINEAR INC",
+   "numberOfShares": 6444100,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MXL",
+   "totalSharesValue": 90217400
+  },
+  {
+   "date": "2010-03-24",
+   "exchange": "New York Stock Exchange",
+   "name": "CALIX, INC",
+   "numberOfShares": 6328932,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "CALX",
+   "totalSharesValue": 82276116
+  },
+  {
+   "date": "2010-03-23",
+   "exchange": null,
+   "name": "REUNION HOSPITALITY TRUST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "RBSC",
+   "totalSharesValue": 287500000
+  },
+  {
+   "date": "2010-03-18",
+   "exchange": null,
+   "name": "TELX GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-03-16",
+   "exchange": null,
+   "name": "IMEX INTERNATIONAL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-03-16",
+   "exchange": "Nasdaq National Market",
+   "name": "FINANCIAL ENGINES, LLC",
+   "numberOfShares": 10600000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "FNGN",
+   "totalSharesValue": 127200000
+  },
+  {
+   "date": "2010-03-15",
+   "exchange": null,
+   "name": "MAGNACHIP SEMICONDUCTOR CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MX",
+   "totalSharesValue": 133000000
+  },
+  {
+   "date": "2010-03-12",
+   "exchange": "Nasdaq National Market",
+   "name": "AVEO PHARMACEUTICALS INC",
+   "numberOfShares": 9000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "AVEO",
+   "totalSharesValue": 81000000
+  },
+  {
+   "date": "2010-03-11",
+   "exchange": null,
+   "name": "FROZEN FOOD GIFT GROUP, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-03-11",
+   "exchange": "New York Stock Exchange",
+   "name": "SENSATA TECHNOLOGIES HOLDING PLC",
+   "numberOfShares": 31600000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ST",
+   "totalSharesValue": 568800000
+  },
+  {
+   "date": "2010-03-10",
+   "exchange": "New York Stock Exchange",
+   "name": "BALTIC TRADING LTD",
+   "numberOfShares": 16300000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "BALT",
+   "totalSharesValue": 228200000
+  },
+  {
+   "date": "2010-03-05",
+   "exchange": null,
+   "name": "HUAZHU GROUP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HTHT",
+   "totalSharesValue": 110250000
+  },
+  {
+   "date": "2010-03-04",
+   "exchange": null,
+   "name": "ACTIVEIN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1055000
+  },
+  {
+   "date": "2010-03-03",
+   "exchange": null,
+   "name": "WELSH PROPERTY TRUST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-03-01",
+   "exchange": "Nasdaq National Market",
+   "name": "ANTHERA PHARMACEUTICALS INC",
+   "numberOfShares": 6000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "ANTH",
+   "totalSharesValue": 42000000
+  },
+  {
+   "date": "2010-03-01",
+   "exchange": null,
+   "name": "ACQUISITION CAPITAL GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 450000
+  },
+  {
+   "date": "2010-03-01",
+   "exchange": null,
+   "name": "CRUDE CARRIERS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CRU",
+   "totalSharesValue": 256500000
+  }
+ ]
+}

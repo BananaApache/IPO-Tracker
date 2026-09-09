@@ -1,0 +1,247 @@
+{
+ "from": "2009-11-01",
+ "to": "2009-11-30",
+ "fetched_at": "2026-09-09T01:22:31.461702+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2009-11-27",
+   "exchange": null,
+   "name": "REDPRAIRIE HOLDING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-11-25",
+   "exchange": "OTCBB",
+   "name": "WORRY FREE TEA HOUSE HOLDINGS COMPANY",
+   "numberOfShares": 22235868,
+   "price": "1.00",
+   "status": "priced",
+   "symbol": "DRSX",
+   "totalSharesValue": 22235868
+  },
+  {
+   "date": "2009-11-25",
+   "exchange": "OTCBB",
+   "name": "REVOLUTIONARY CONCEPTS INC",
+   "numberOfShares": 3642200,
+   "price": "1.25",
+   "status": "priced",
+   "symbol": "REVO",
+   "totalSharesValue": 4552750
+  },
+  {
+   "date": "2009-11-20",
+   "exchange": "OTCBB",
+   "name": "PLASTEC TECHNOLOGIES, LTD.",
+   "numberOfShares": 3600000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GSMEF",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2009-11-20",
+   "exchange": "Nasdaq National Market",
+   "name": "ARCHIPELAGO LEARNING, INC.",
+   "numberOfShares": 6250000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "ARCL",
+   "totalSharesValue": 103125000
+  },
+  {
+   "date": "2009-11-20",
+   "exchange": "Nasdaq National Market",
+   "name": "SOTERA DEFENSE SOLUTIONS, INC.",
+   "numberOfShares": 4600000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "GTEC",
+   "totalSharesValue": 59800000
+  },
+  {
+   "date": "2009-11-20",
+   "exchange": "New York Stock Exchange",
+   "name": "CLOUD PEAK ENERGY INC.",
+   "numberOfShares": 30600000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CLD",
+   "totalSharesValue": 459000000
+  },
+  {
+   "date": "2009-11-18",
+   "exchange": null,
+   "name": "LINKAGE TECHNOLOGIES INTERNATIONAL HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-11-18",
+   "exchange": "Nasdaq National Market",
+   "name": "FORTINET, INC.",
+   "numberOfShares": 12500000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "FTNT",
+   "totalSharesValue": 156250000
+  },
+  {
+   "date": "2009-11-18",
+   "exchange": "New York Stock Exchange",
+   "name": "UNITED STATES 12 MONTH NATURAL GAS FUND, LP",
+   "numberOfShares": 30000000,
+   "price": "50.00",
+   "status": "priced",
+   "symbol": "UNL",
+   "totalSharesValue": 1500000000
+  },
+  {
+   "date": "2009-11-16",
+   "exchange": null,
+   "name": "HIRSCHFELD INDUSTRIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-11-16",
+   "exchange": "OTCBB",
+   "name": "ARISTA POWER, INC.",
+   "numberOfShares": 9500000,
+   "price": "0.80",
+   "status": "priced",
+   "symbol": "WNDT",
+   "totalSharesValue": 7600000
+  },
+  {
+   "date": "2009-11-16",
+   "exchange": "New York Stock Exchange",
+   "name": "ISHARES DIVERSIFIED ALTERNATIVES TRUST",
+   "numberOfShares": 20000000,
+   "price": "50",
+   "status": "priced",
+   "symbol": "ALT",
+   "totalSharesValue": 1000000000
+  },
+  {
+   "date": "2009-11-13",
+   "exchange": "Nasdaq National Market",
+   "name": "RUE21, INC.",
+   "numberOfShares": 6765437,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "RUE",
+   "totalSharesValue": 128543303
+  },
+  {
+   "date": "2009-11-13",
+   "exchange": "New York Stock Exchange",
+   "name": "DOLLAR GENERAL CORP",
+   "numberOfShares": 34100000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "DG",
+   "totalSharesValue": 716100000
+  },
+  {
+   "date": "2009-11-12",
+   "exchange": null,
+   "name": "CIS WORLD INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1902731.6
+  },
+  {
+   "date": "2009-11-10",
+   "exchange": "OTCBB",
+   "name": "WEED, INC.",
+   "numberOfShares": 1589074,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "UNMN",
+   "totalSharesValue": 7945370
+  },
+  {
+   "date": "2009-11-06",
+   "exchange": "New York Stock Exchange",
+   "name": "STR HOLDINGS, INC.",
+   "numberOfShares": 12300000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "STRI",
+   "totalSharesValue": 123000000
+  },
+  {
+   "date": "2009-11-06",
+   "exchange": "New York Stock Exchange",
+   "name": "DUOYUAN PRINTING, INC.",
+   "numberOfShares": 6455918,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "DYP",
+   "totalSharesValue": 54875303
+  },
+  {
+   "date": "2009-11-05",
+   "exchange": "Nasdaq National Market",
+   "name": "ANCESTRY.COM INC.",
+   "numberOfShares": 7407407,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "ACOM",
+   "totalSharesValue": 99999995
+  },
+  {
+   "date": "2009-11-05",
+   "exchange": "New York Stock Exchange",
+   "name": "HYATT HOTELS CORP",
+   "numberOfShares": 38000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "H",
+   "totalSharesValue": 950000000
+  },
+  {
+   "date": "2009-11-02",
+   "exchange": null,
+   "name": "GPC CAPITAL CORP II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-11-02",
+   "exchange": "OTCBB",
+   "name": "INSPYR THERAPEUTICS, INC.",
+   "numberOfShares": 10965791,
+   "price": "2.00",
+   "status": "priced",
+   "symbol": "GNSZ",
+   "totalSharesValue": 21931582
+  },
+  {
+   "date": "2009-11-02",
+   "exchange": null,
+   "name": "7 DAYS GROUP HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SVN",
+   "totalSharesValue": 111100000
+  }
+ ]
+}

@@ -1,0 +1,447 @@
+{
+ "from": "2018-06-01",
+ "to": "2018-06-30",
+ "fetched_at": "2026-09-09T01:25:57.561363+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2018-06-28",
+   "exchange": "NYSE",
+   "name": "BJ'S WHOLESALE CLUB HOLDINGS, INC.",
+   "numberOfShares": 37500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BJ",
+   "totalSharesValue": 637500000
+  },
+  {
+   "date": "2018-06-28",
+   "exchange": "NYSE",
+   "name": "BRIGHTVIEW HOLDINGS, INC.",
+   "numberOfShares": 21300000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "BV",
+   "totalSharesValue": 468600000
+  },
+  {
+   "date": "2018-06-28",
+   "exchange": "NASDAQ Global",
+   "name": "NEURONETICS, INC.",
+   "numberOfShares": 5500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "STIM",
+   "totalSharesValue": 93500000
+  },
+  {
+   "date": "2018-06-28",
+   "exchange": "NASDAQ Capital",
+   "name": "ENTERA BIO LTD.",
+   "numberOfShares": 1400000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "ENTX",
+   "totalSharesValue": 11200000
+  },
+  {
+   "date": "2018-06-27",
+   "exchange": null,
+   "name": "GEF ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-06-27",
+   "exchange": "NASDAQ Capital",
+   "name": "HYRECAR INC.",
+   "numberOfShares": 2520000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "HYRE",
+   "totalSharesValue": 12600000
+  },
+  {
+   "date": "2018-06-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "UXIN LTD",
+   "numberOfShares": 25000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "UXIN",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2018-06-27",
+   "exchange": "NASDAQ Global Select",
+   "name": "NEON THERAPEUTICS, INC.",
+   "numberOfShares": 6250000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "NTGN",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2018-06-27",
+   "exchange": "NASDAQ Global",
+   "name": "LOVESAC CO",
+   "numberOfShares": 3500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "LOVE",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2018-06-26",
+   "exchange": "NYSE Arca",
+   "name": "WORLD GOLD TRUST",
+   "numberOfShares": 80000000,
+   "price": "12.98",
+   "status": "priced",
+   "symbol": "GLDM",
+   "totalSharesValue": 1038400000
+  },
+  {
+   "date": "2018-06-22",
+   "exchange": null,
+   "name": "IC POWER LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-06-22",
+   "exchange": "NASDAQ Global Select",
+   "name": "AUTOLUS THERAPEUTICS PLC",
+   "numberOfShares": 8823530,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "AUTL",
+   "totalSharesValue": 150000010
+  },
+  {
+   "date": "2018-06-22",
+   "exchange": "NASDAQ Global",
+   "name": "ELECTROCORE, INC.",
+   "numberOfShares": 5200000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ECOR",
+   "totalSharesValue": 78000000
+  },
+  {
+   "date": "2018-06-21",
+   "exchange": "NASDAQ Global Select",
+   "name": "APTINYX INC.",
+   "numberOfShares": 6399999,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "APTX",
+   "totalSharesValue": 102399984
+  },
+  {
+   "date": "2018-06-21",
+   "exchange": "NASDAQ Global",
+   "name": "MAGENTA THERAPEUTICS, INC.",
+   "numberOfShares": 6666667,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "MGTA",
+   "totalSharesValue": 100000005
+  },
+  {
+   "date": "2018-06-21",
+   "exchange": "NASDAQ Global Select",
+   "name": "XERIS PHARMACEUTICALS INC",
+   "numberOfShares": 5700000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "XERS",
+   "totalSharesValue": 85500000
+  },
+  {
+   "date": "2018-06-21",
+   "exchange": "NASDAQ Global Select",
+   "name": "KEZAR LIFE SCIENCES, INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "KZR",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2018-06-21",
+   "exchange": "NASDAQ Global Select",
+   "name": "AVROBIO, INC.",
+   "numberOfShares": 5247958,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "AVRO",
+   "totalSharesValue": 99711202
+  },
+  {
+   "date": "2018-06-21",
+   "exchange": "NASDAQ Global Select",
+   "name": "I3 VERTICALS, INC.",
+   "numberOfShares": 6650000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "IIIV",
+   "totalSharesValue": 86450000
+  },
+  {
+   "date": "2018-06-21",
+   "exchange": "NYSE",
+   "name": "ESSENTIAL PROPERTIES REALTY TRUST, INC.",
+   "numberOfShares": 32500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "EPRT",
+   "totalSharesValue": 455000000
+  },
+  {
+   "date": "2018-06-20",
+   "exchange": "NASDAQ Capital",
+   "name": "LF CAPITAL ACQUISITION CORP.",
+   "numberOfShares": 13500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LFACU",
+   "totalSharesValue": 135000000
+  },
+  {
+   "date": "2018-06-20",
+   "exchange": "NASDAQ Global Select",
+   "name": "EIDOS THERAPEUTICS, INC.",
+   "numberOfShares": 6250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "EIDX",
+   "totalSharesValue": 106250000
+  },
+  {
+   "date": "2018-06-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "REPAY HOLDINGS CORP",
+   "numberOfShares": 22500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "TBRGU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2018-06-15",
+   "exchange": "NYSE",
+   "name": "AVALARA, INC.",
+   "numberOfShares": 7500000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "AVLR",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2018-06-15",
+   "exchange": "NYSE",
+   "name": "PUXIN LTD",
+   "numberOfShares": 7200000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "NEW",
+   "totalSharesValue": 122400000
+  },
+  {
+   "date": "2018-06-15",
+   "exchange": "NASDAQ Global",
+   "name": "VERRICA PHARMACEUTICALS INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "VRCA",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2018-06-15",
+   "exchange": null,
+   "name": "NAVIOS MARITIME CONTAINERS L.P.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NMCI",
+   "totalSharesValue": 121052640
+  },
+  {
+   "date": "2018-06-14",
+   "exchange": "NYSE",
+   "name": "US XPRESS ENTERPRISES INC",
+   "numberOfShares": 18056000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "USX",
+   "totalSharesValue": 288896000
+  },
+  {
+   "date": "2018-06-14",
+   "exchange": "NYSE",
+   "name": "CHARAH SOLUTIONS, INC.",
+   "numberOfShares": 7352941,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "CHRA",
+   "totalSharesValue": 88235292
+  },
+  {
+   "date": "2018-06-12",
+   "exchange": "NYSE",
+   "name": "FAR POINT ACQUISITION CORP",
+   "numberOfShares": 55000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FPACU",
+   "totalSharesValue": 550000000
+  },
+  {
+   "date": "2018-06-11",
+   "exchange": null,
+   "name": "LUX AMBER, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2018-06-08",
+   "exchange": "NASDAQ Global Select",
+   "name": "MEIRAGTX HOLDINGS PLC",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "MGTX",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2018-06-08",
+   "exchange": "NYSE",
+   "name": "VERTIV HOLDINGS CO",
+   "numberOfShares": 60000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GSAHU",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2018-06-08",
+   "exchange": null,
+   "name": "HL ACQUISITIONS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HCCHU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2018-06-05",
+   "exchange": null,
+   "name": "CORNERSTONE MANAGEMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CSCA",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2018-06-04",
+   "exchange": null,
+   "name": "TRICIDA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TCDA",
+   "totalSharesValue": 222300000
+  },
+  {
+   "date": "2018-06-04",
+   "exchange": null,
+   "name": "NEW FRONTIER HEALTH CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NFC'U",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2018-06-01",
+   "exchange": "NYSE MKT",
+   "name": "AMBOW EDUCATION HOLDING LTD.",
+   "numberOfShares": 1800000,
+   "price": "4.25",
+   "status": "priced",
+   "symbol": "AMBO",
+   "totalSharesValue": 7650000
+  },
+  {
+   "date": "2018-06-01",
+   "exchange": null,
+   "name": "AFG HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AFGL",
+   "totalSharesValue": 376740000
+  },
+  {
+   "date": "2018-06-01",
+   "exchange": null,
+   "name": "BPGIC INTERNATIONAL",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TWLVU",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2018-06-01",
+   "exchange": null,
+   "name": "TRANSLATE BIO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TBIO",
+   "totalSharesValue": 121550000
+  },
+  {
+   "date": "2018-06-01",
+   "exchange": null,
+   "name": "FORTY SEVEN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FTSV",
+   "totalSharesValue": 112560000
+  },
+  {
+   "date": "2018-06-01",
+   "exchange": null,
+   "name": "EVERQUOTE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "EVER",
+   "totalSharesValue": 84375000
+  },
+  {
+   "date": "2018-06-01",
+   "exchange": null,
+   "name": "DOMO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DOMO",
+   "totalSharesValue": 193200000
+  }
+ ]
+}

@@ -1,0 +1,517 @@
+{
+ "from": "2014-03-01",
+ "to": "2014-03-31",
+ "fetched_at": "2026-09-09T01:24:15.502607+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-03-28",
+   "exchange": "New York Stock Exchange",
+   "name": "AEROHIVE NETWORKS, INC",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HIVE",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2014-03-28",
+   "exchange": "Nasdaq National Market",
+   "name": "2U, INC.",
+   "numberOfShares": 9175000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "TWOU",
+   "totalSharesValue": 119275000
+  },
+  {
+   "date": "2014-03-28",
+   "exchange": "New York Stock Exchange",
+   "name": "EVERYDAY HEALTH, INC.",
+   "numberOfShares": 7150000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "EVDY",
+   "totalSharesValue": 100100000
+  },
+  {
+   "date": "2014-03-28",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ENERGOUS CORP",
+   "numberOfShares": 4000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "WATT",
+   "totalSharesValue": 24000000
+  },
+  {
+   "date": "2014-03-28",
+   "exchange": "American Stock Exchange",
+   "name": "BLUEROCK RESIDENTIAL GROWTH REIT, INC.",
+   "numberOfShares": 3448276,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "BRG",
+   "totalSharesValue": 50000002
+  },
+  {
+   "date": "2014-03-28",
+   "exchange": "New York Stock Exchange",
+   "name": "OUTFRONT MEDIA INC.",
+   "numberOfShares": 20000000,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "CBSO",
+   "totalSharesValue": 560000000
+  },
+  {
+   "date": "2014-03-28",
+   "exchange": null,
+   "name": "SIRVA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SRVA",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2014-03-28",
+   "exchange": null,
+   "name": "NEMAURA MEDICAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2014-03-27",
+   "exchange": "Nasdaq National Market",
+   "name": "SQUARE 1 FINANCIAL INC",
+   "numberOfShares": 5781126,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "SQBK",
+   "totalSharesValue": 104060268
+  },
+  {
+   "date": "2014-03-27",
+   "exchange": "Nasdaq National Market",
+   "name": "APPLIED GENETIC TECHNOLOGIES CORP",
+   "numberOfShares": 4166667,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "AGTC",
+   "totalSharesValue": 50000004
+  },
+  {
+   "date": "2014-03-27",
+   "exchange": "NASDAQ Capital",
+   "name": "OXBRIDGE RE HOLDINGS LTD",
+   "numberOfShares": 4884650,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "OXBRU",
+   "totalSharesValue": 29307900
+  },
+  {
+   "date": "2014-03-27",
+   "exchange": "New York Stock Exchange",
+   "name": "TRINET GROUP, INC.",
+   "numberOfShares": 15000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "TNET",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2014-03-26",
+   "exchange": "New York Stock Exchange",
+   "name": "KING DIGITAL ENTERTAINMENT PLC",
+   "numberOfShares": 22200000,
+   "price": "22.50",
+   "status": "priced",
+   "symbol": "KING",
+   "totalSharesValue": 499500000
+  },
+  {
+   "date": "2014-03-26",
+   "exchange": "New York Stock Exchange",
+   "name": "NORD ANGLIA EDUCATION, INC.",
+   "numberOfShares": 19000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "NORD",
+   "totalSharesValue": 304000000
+  },
+  {
+   "date": "2014-03-26",
+   "exchange": null,
+   "name": "REALCO INTERNATIONAL, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2014-03-21",
+   "exchange": null,
+   "name": "GLOBOFORCE GROUP PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-03-21",
+   "exchange": "New York Stock Exchange",
+   "name": "AMBER ROAD, INC.",
+   "numberOfShares": 7391565,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "AMBR",
+   "totalSharesValue": 96090345
+  },
+  {
+   "date": "2014-03-21",
+   "exchange": "Nasdaq National Market",
+   "name": "BORDERFREE, INC.",
+   "numberOfShares": 5000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "BRDR",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2014-03-21",
+   "exchange": "Nasdaq National Market",
+   "name": "ARAVIVE, INC.",
+   "numberOfShares": 6000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "VSAR",
+   "totalSharesValue": 126000000
+  },
+  {
+   "date": "2014-03-21",
+   "exchange": "New York Stock Exchange",
+   "name": "A10 NETWORKS, INC.",
+   "numberOfShares": 12500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ATEN",
+   "totalSharesValue": 187500000
+  },
+  {
+   "date": "2014-03-21",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PULMATRIX, INC.",
+   "numberOfShares": 2650000,
+   "price": "7.25",
+   "status": "priced",
+   "symbol": "RTGN",
+   "totalSharesValue": 19212500
+  },
+  {
+   "date": "2014-03-21",
+   "exchange": null,
+   "name": "HOTAPP INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 193320
+  },
+  {
+   "date": "2014-03-20",
+   "exchange": "Nasdaq National Market",
+   "name": "MEDIWOUND LTD.",
+   "numberOfShares": 5000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MDWD",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2014-03-20",
+   "exchange": "New York Stock Exchange",
+   "name": "Q2 HOLDINGS, INC.",
+   "numberOfShares": 7760870,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "QTWO",
+   "totalSharesValue": 100891310
+  },
+  {
+   "date": "2014-03-20",
+   "exchange": "Nasdaq National Market",
+   "name": "AKEBIA THERAPEUTICS, INC.",
+   "numberOfShares": 5882353,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "AKBA",
+   "totalSharesValue": 100000001
+  },
+  {
+   "date": "2014-03-19",
+   "exchange": null,
+   "name": "UNITED HELIUM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-03-19",
+   "exchange": null,
+   "name": "DEVON MIDSTREAM PARTNERS, L.P.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-03-19",
+   "exchange": "Nasdaq National Market",
+   "name": "PAYLOCITY HOLDING CORP",
+   "numberOfShares": 7045000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "PCTY",
+   "totalSharesValue": 119765000
+  },
+  {
+   "date": "2014-03-18",
+   "exchange": null,
+   "name": "PANTHER MOTOR GROUP, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-03-18",
+   "exchange": null,
+   "name": "MOMENTOUS ENTERTAINMENT GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 217500
+  },
+  {
+   "date": "2014-03-14",
+   "exchange": null,
+   "name": "WAYPOINT HOMES REALTY TRUST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-03-14",
+   "exchange": "New York Stock Exchange",
+   "name": "CASTLIGHT HEALTH, INC.",
+   "numberOfShares": 11100000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CSLT",
+   "totalSharesValue": 177600000
+  },
+  {
+   "date": "2014-03-14",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "IGNYTA, INC.",
+   "numberOfShares": 5245000,
+   "price": "9.15",
+   "status": "priced",
+   "symbol": "RXDX",
+   "totalSharesValue": 47991750
+  },
+  {
+   "date": "2014-03-14",
+   "exchange": null,
+   "name": "LONGBAU GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15075
+  },
+  {
+   "date": "2014-03-13",
+   "exchange": null,
+   "name": "MYCAUSE BEVERAGES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-03-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PLX PHARMA INC.",
+   "numberOfShares": 2750000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "DPRX",
+   "totalSharesValue": 33000000
+  },
+  {
+   "date": "2014-03-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "GALMED PHARMACEUTICALS LTD.",
+   "numberOfShares": 2837400,
+   "price": "13.50",
+   "status": "priced",
+   "symbol": "GLMD",
+   "totalSharesValue": 38304900
+  },
+  {
+   "date": "2014-03-12",
+   "exchange": "Nasdaq National Market",
+   "name": "ACHAOGEN, INC.",
+   "numberOfShares": 6000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "AKAO",
+   "totalSharesValue": 72000000
+  },
+  {
+   "date": "2014-03-12",
+   "exchange": null,
+   "name": "ADAMAS VENTURES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-03-12",
+   "exchange": null,
+   "name": "CREATIVE VISION ALLIANCE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CVAC",
+   "totalSharesValue": 1750000
+  },
+  {
+   "date": "2014-03-11",
+   "exchange": null,
+   "name": "STREAM FLOW MEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 251250
+  },
+  {
+   "date": "2014-03-07",
+   "exchange": "Nasdaq National Market",
+   "name": "NEOLEUKIN THERAPEUTICS, INC.",
+   "numberOfShares": 4200000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "AQXP",
+   "totalSharesValue": 46200000
+  },
+  {
+   "date": "2014-03-07",
+   "exchange": "New York Stock Exchange",
+   "name": "QUOTIENT TECHNOLOGY INC.",
+   "numberOfShares": 10500000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "COUP",
+   "totalSharesValue": 168000000
+  },
+  {
+   "date": "2014-03-07",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "RECRO PHARMA, INC.",
+   "numberOfShares": 3750000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "REPH",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2014-03-07",
+   "exchange": null,
+   "name": "GLOBAL HEALTH TECHNOLOGIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 129504
+  },
+  {
+   "date": "2014-03-06",
+   "exchange": null,
+   "name": "JRSIS HEALTH CARE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3670297.5
+  },
+  {
+   "date": "2014-03-05",
+   "exchange": null,
+   "name": "RECURSOS QUELIZ, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 40000
+  },
+  {
+   "date": "2014-03-04",
+   "exchange": null,
+   "name": "EYE ON MEDIA NETWORK, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1090000
+  },
+  {
+   "date": "2014-03-04",
+   "exchange": null,
+   "name": "TRIUMPH VENTURES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-03-04",
+   "exchange": null,
+   "name": "PURPLEREAL.COM CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 42000
+  },
+  {
+   "date": "2014-03-03",
+   "exchange": null,
+   "name": "VIRTUAL SOURCING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 35000000
+  }
+ ]
+}

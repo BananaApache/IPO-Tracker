@@ -1,0 +1,477 @@
+{
+ "from": "2015-06-01",
+ "to": "2015-06-30",
+ "fetched_at": "2026-09-09T01:24:45.546115+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2015-06-30",
+   "exchange": null,
+   "name": "ICHOW, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2015-06-29",
+   "exchange": null,
+   "name": "SHARING SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 125000
+  },
+  {
+   "date": "2015-06-29",
+   "exchange": null,
+   "name": "NEP GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NEPG",
+   "totalSharesValue": 254150000
+  },
+  {
+   "date": "2015-06-26",
+   "exchange": "Nasdaq National Market",
+   "name": "APPFOLIO INC",
+   "numberOfShares": 6200000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "APPF",
+   "totalSharesValue": 74400000
+  },
+  {
+   "date": "2015-06-26",
+   "exchange": "Nasdaq National Market",
+   "name": "GREEN PLAINS PARTNERS LP",
+   "numberOfShares": 10000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "GPP",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2015-06-26",
+   "exchange": "New York Stock Exchange",
+   "name": "XACTLY CORP",
+   "numberOfShares": 7037500,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "XTLY",
+   "totalSharesValue": 56300000
+  },
+  {
+   "date": "2015-06-26",
+   "exchange": "Nasdaq National Market",
+   "name": "ALARM.COM HOLDINGS, INC.",
+   "numberOfShares": 7000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ALRM",
+   "totalSharesValue": 98000000
+  },
+  {
+   "date": "2015-06-26",
+   "exchange": "Nasdaq National Market",
+   "name": "SERES THERAPEUTICS, INC.",
+   "numberOfShares": 7430555,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "MCRB",
+   "totalSharesValue": 133749990
+  },
+  {
+   "date": "2015-06-26",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "YULONG ECO-MATERIALS LTD",
+   "numberOfShares": 2250000,
+   "price": "6.25",
+   "status": "priced",
+   "symbol": "YECO",
+   "totalSharesValue": 14062500
+  },
+  {
+   "date": "2015-06-26",
+   "exchange": null,
+   "name": "ZEV VENTURES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2015-06-25",
+   "exchange": null,
+   "name": "S1 BIOPHARMA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-06-25",
+   "exchange": null,
+   "name": "J. ALEXANDER'S HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-06-25",
+   "exchange": "New York Stock Exchange",
+   "name": "GLAUKOS CORP",
+   "numberOfShares": 6000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "GKOS",
+   "totalSharesValue": 108000000
+  },
+  {
+   "date": "2015-06-25",
+   "exchange": "Nasdaq National Market",
+   "name": "CATABASIS PHARMACEUTICALS INC",
+   "numberOfShares": 5000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "CATB",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2015-06-25",
+   "exchange": "New York Stock Exchange",
+   "name": "EURONAV MI II INC.",
+   "numberOfShares": 15000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "GNRT",
+   "totalSharesValue": 210000000
+  },
+  {
+   "date": "2015-06-25",
+   "exchange": "New York Stock Exchange",
+   "name": "MILACRON HOLDINGS CORP.",
+   "numberOfShares": 14285714,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "MCRN",
+   "totalSharesValue": 285714280
+  },
+  {
+   "date": "2015-06-25",
+   "exchange": "New York Stock Exchange",
+   "name": "TRANSUNION",
+   "numberOfShares": 29545455,
+   "price": "22.50",
+   "status": "priced",
+   "symbol": "TRU",
+   "totalSharesValue": 664772738
+  },
+  {
+   "date": "2015-06-25",
+   "exchange": "Nasdaq National Market",
+   "name": "LANTHEUS HOLDINGS, INC.",
+   "numberOfShares": 10833334,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "LNTH",
+   "totalSharesValue": 65000004
+  },
+  {
+   "date": "2015-06-25",
+   "exchange": "American Stock Exchange",
+   "name": "BIOPHARMX CORP",
+   "numberOfShares": 3333334,
+   "price": "2.75-3.25",
+   "status": "expected",
+   "symbol": "",
+   "totalSharesValue": 12458336
+  },
+  {
+   "date": "2015-06-24",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "RITTER PHARMACEUTICALS INC",
+   "numberOfShares": 4000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "RTTR",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2015-06-24",
+   "exchange": null,
+   "name": "L&S LIGHT & STRONG, LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 38075929.5
+  },
+  {
+   "date": "2015-06-19",
+   "exchange": "Nasdaq National Market",
+   "name": "MINDBODY, INC.",
+   "numberOfShares": 7150000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MB",
+   "totalSharesValue": 100100000
+  },
+  {
+   "date": "2015-06-19",
+   "exchange": "Nasdaq National Market",
+   "name": "CELYAD S.A.",
+   "numberOfShares": 1460000,
+   "price": "68.56",
+   "status": "priced",
+   "symbol": "CYAD",
+   "totalSharesValue": 100097600
+  },
+  {
+   "date": "2015-06-19",
+   "exchange": "Nasdaq National Market",
+   "name": "FOGO DE CHAO, INC.",
+   "numberOfShares": 4411764,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "FOGO",
+   "totalSharesValue": 88235280
+  },
+  {
+   "date": "2015-06-19",
+   "exchange": "Nasdaq National Market",
+   "name": "8POINT3 ENERGY PARTNERS LP",
+   "numberOfShares": 20000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "CAFD",
+   "totalSharesValue": 420000000
+  },
+  {
+   "date": "2015-06-19",
+   "exchange": null,
+   "name": "REGULUS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2015-06-19",
+   "exchange": null,
+   "name": "SAVDEN GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2015-06-18",
+   "exchange": "New York Stock Exchange",
+   "name": "FITBIT, INC.",
+   "numberOfShares": 36575000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "FIT",
+   "totalSharesValue": 731500000
+  },
+  {
+   "date": "2015-06-18",
+   "exchange": "New York Stock Exchange",
+   "name": "UNIVAR SOLUTIONS INC.",
+   "numberOfShares": 35000000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "UNVR",
+   "totalSharesValue": 770000000
+  },
+  {
+   "date": "2015-06-17",
+   "exchange": "Nasdaq National Market",
+   "name": "ALPINE IMMUNE SCIENCES, INC.",
+   "numberOfShares": 5500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NVLS",
+   "totalSharesValue": 77000000
+  },
+  {
+   "date": "2015-06-15",
+   "exchange": null,
+   "name": "TOBIRA THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-06-15",
+   "exchange": "Nasdaq National Market",
+   "name": "INVUITY, INC.",
+   "numberOfShares": 4000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "IVTY",
+   "totalSharesValue": 48000000
+  },
+  {
+   "date": "2015-06-12",
+   "exchange": "Nasdaq National Market",
+   "name": "WINGSTOP INC.",
+   "numberOfShares": 5800000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "WING",
+   "totalSharesValue": 110200000
+  },
+  {
+   "date": "2015-06-12",
+   "exchange": null,
+   "name": "THE FUTURE EDUCATION GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FEGI",
+   "totalSharesValue": 3910000
+  },
+  {
+   "date": "2015-06-11",
+   "exchange": "New York Stock Exchange",
+   "name": "AXOVANT GENE THERAPIES LTD.",
+   "numberOfShares": 21000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "AXON",
+   "totalSharesValue": 315000000
+  },
+  {
+   "date": "2015-06-11",
+   "exchange": "Nasdaq National Market",
+   "name": "BIOTIE THERAPIES CORP.",
+   "numberOfShares": 3761418,
+   "price": "14.888",
+   "status": "priced",
+   "symbol": "BITI",
+   "totalSharesValue": 56007514
+  },
+  {
+   "date": "2015-06-11",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PEOPLE'S UTAH BANCORP",
+   "numberOfShares": 2500000,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "PUB",
+   "totalSharesValue": 36250000
+  },
+  {
+   "date": "2015-06-11",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ELECTRUM SPECIAL ACQUISITION CORP",
+   "numberOfShares": 17500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ELECU",
+   "totalSharesValue": 175000000
+  },
+  {
+   "date": "2015-06-10",
+   "exchange": "OTCBB",
+   "name": "PO YUEN CULTURAL HOLDINGS (HONG KONG) CO., LTD.",
+   "numberOfShares": 2500000,
+   "price": "0.10",
+   "status": "priced",
+   "symbol": "WWRB",
+   "totalSharesValue": 250000
+  },
+  {
+   "date": "2015-06-10",
+   "exchange": null,
+   "name": "MAKKANOTTI GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2015-06-09",
+   "exchange": null,
+   "name": "PIERIS PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 34500000
+  },
+  {
+   "date": "2015-06-05",
+   "exchange": "New York Stock Exchange",
+   "name": "EVOLENT HEALTH, INC.",
+   "numberOfShares": 11500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "EVH",
+   "totalSharesValue": 195500000
+  },
+  {
+   "date": "2015-06-05",
+   "exchange": "New York Stock Exchange",
+   "name": "ENDOCHOICE HOLDINGS, INC.",
+   "numberOfShares": 6350000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "GI",
+   "totalSharesValue": 95250000
+  },
+  {
+   "date": "2015-06-05",
+   "exchange": "Nasdaq National Market",
+   "name": "DAVIDSTEA INC.",
+   "numberOfShares": 5100000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "DTEA",
+   "totalSharesValue": 96900000
+  },
+  {
+   "date": "2015-06-04",
+   "exchange": "Nasdaq National Market",
+   "name": "PENNTEX MIDSTREAM PARTNERS, LP",
+   "numberOfShares": 11250000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "PTXP",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2015-06-04",
+   "exchange": null,
+   "name": "SKY PASS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 10700
+  },
+  {
+   "date": "2015-06-01",
+   "exchange": null,
+   "name": "NORCOR TECHNOLOGIES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 9247125
+  }
+ ]
+}

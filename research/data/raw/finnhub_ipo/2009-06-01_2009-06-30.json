@@ -1,0 +1,127 @@
+{
+ "from": "2009-06-01",
+ "to": "2009-06-30",
+ "fetched_at": "2026-09-09T01:22:21.455938+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2009-06-30",
+   "exchange": "New York Stock Exchange",
+   "name": "MACROSHARES HOUSING DEPOSITOR, LLC",
+   "numberOfShares": 17250000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "UMM",
+   "totalSharesValue": 345000000
+  },
+  {
+   "date": "2009-06-30",
+   "exchange": "New York Stock Exchange",
+   "name": "MACROSHARES HOUSING DEPOSITOR, LLC",
+   "numberOfShares": 26150000,
+   "price": "30.00",
+   "status": "priced",
+   "symbol": "DMM",
+   "totalSharesValue": 784500000
+  },
+  {
+   "date": "2009-06-26",
+   "exchange": "New York Stock Exchange",
+   "name": "INVESCO MORTGAGE CAPITAL INC.",
+   "numberOfShares": 8500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "IVR",
+   "totalSharesValue": 170000000
+  },
+  {
+   "date": "2009-06-25",
+   "exchange": "Nasdaq National Market",
+   "name": "MEDIDATA SOLUTIONS, INC.",
+   "numberOfShares": 6300000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MDSO",
+   "totalSharesValue": 88200000
+  },
+  {
+   "date": "2009-06-24",
+   "exchange": "New York Stock Exchange",
+   "name": "CHEMSPEC INTERNATIONAL LTD",
+   "numberOfShares": 8087000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "CPC",
+   "totalSharesValue": 72783000
+  },
+  {
+   "date": "2009-06-17",
+   "exchange": null,
+   "name": "PATENTS PROFESSIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2009-06-12",
+   "exchange": "New York Stock Exchange",
+   "name": "CYS INVESTMENTS, INC.",
+   "numberOfShares": 9100000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "CYS",
+   "totalSharesValue": 100100000
+  },
+  {
+   "date": "2009-06-03",
+   "exchange": "New York Stock Exchange",
+   "name": "OFFICE PROPERTIES INCOME TRUST",
+   "numberOfShares": 10000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "GOV",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2009-06-03",
+   "exchange": null,
+   "name": "GRANT HARTFORD CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2173670.4
+  },
+  {
+   "date": "2009-06-01",
+   "exchange": null,
+   "name": "PRESTIGE FURNISHING.COM INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-06-01",
+   "exchange": null,
+   "name": "WE SAVE HOMES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2009-06-01",
+   "exchange": null,
+   "name": "DUOYUAN GLOBAL WATER INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DGW",
+   "totalSharesValue": 88000000
+  }
+ ]
+}

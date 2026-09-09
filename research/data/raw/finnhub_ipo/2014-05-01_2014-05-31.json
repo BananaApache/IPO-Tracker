@@ -1,0 +1,497 @@
+{
+ "from": "2014-05-01",
+ "to": "2014-05-31",
+ "fetched_at": "2026-09-09T01:24:19.525939+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-05-30",
+   "exchange": null,
+   "name": "AMERICA RESOURCES EXPLORATION INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-05-29",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "RESONANT INC",
+   "numberOfShares": 2700000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "RESN",
+   "totalSharesValue": 16200000
+  },
+  {
+   "date": "2014-05-29",
+   "exchange": null,
+   "name": "SAND INTERNATIONAL INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2014-05-28",
+   "exchange": null,
+   "name": "UNI LINE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-05-27",
+   "exchange": null,
+   "name": "ORION GLOBAL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 36000
+  },
+  {
+   "date": "2014-05-27",
+   "exchange": null,
+   "name": "REVEN HOUSING REIT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "RVEN",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2014-05-23",
+   "exchange": null,
+   "name": "PARAGON OFFSHORE PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-05-23",
+   "exchange": "American Stock Exchange",
+   "name": "SUPERIOR DRILLING PRODUCTS, INC.",
+   "numberOfShares": 6750000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "SDPI",
+   "totalSharesValue": 27000000
+  },
+  {
+   "date": "2014-05-23",
+   "exchange": "New York Stock Exchange",
+   "name": "PARSLEY ENERGY, INC.",
+   "numberOfShares": 50000000,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "PE",
+   "totalSharesValue": 925000000
+  },
+  {
+   "date": "2014-05-23",
+   "exchange": "New York Stock Exchange",
+   "name": "HERITAGE INSURANCE HOLDINGS, INC.",
+   "numberOfShares": 6000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "HRTG",
+   "totalSharesValue": 66000000
+  },
+  {
+   "date": "2014-05-23",
+   "exchange": "Nasdaq National Market",
+   "name": "AGILE THERAPEUTICS INC",
+   "numberOfShares": 9166667,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "AGRX",
+   "totalSharesValue": 55000002
+  },
+  {
+   "date": "2014-05-23",
+   "exchange": null,
+   "name": "THUNDER ENERGIES CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1443790
+  },
+  {
+   "date": "2014-05-22",
+   "exchange": "Nasdaq National Market",
+   "name": "JD.COM, INC.",
+   "numberOfShares": 93685620,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "JD",
+   "totalSharesValue": 1780026780
+  },
+  {
+   "date": "2014-05-22",
+   "exchange": "Nasdaq National Market",
+   "name": "SUNEDISON SEMICONDUCTOR LTD",
+   "numberOfShares": 7200000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "SEMI",
+   "totalSharesValue": 93600000
+  },
+  {
+   "date": "2014-05-20",
+   "exchange": null,
+   "name": "CREDEX CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-05-20",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "TECOGEN INC.",
+   "numberOfShares": 647706,
+   "price": "4.75",
+   "status": "priced",
+   "symbol": "TGEN",
+   "totalSharesValue": 3076604
+  },
+  {
+   "date": "2014-05-20",
+   "exchange": null,
+   "name": "ARTEX CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2014-05-19",
+   "exchange": null,
+   "name": "QUARTA-RAD, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-05-19",
+   "exchange": null,
+   "name": "BSP ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BSPCU",
+   "totalSharesValue": 115000000
+  },
+  {
+   "date": "2014-05-19",
+   "exchange": null,
+   "name": "TECH FOUNDRY VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2014-05-19",
+   "exchange": null,
+   "name": "QUARTA-RAD, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 300000
+  },
+  {
+   "date": "2014-05-16",
+   "exchange": "Nasdaq National Market",
+   "name": "TRUECAR, INC.",
+   "numberOfShares": 7775000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "TRUE",
+   "totalSharesValue": 69975000
+  },
+  {
+   "date": "2014-05-16",
+   "exchange": "New York Stock Exchange",
+   "name": "JUMEI INTERNATIONAL HOLDING LTD",
+   "numberOfShares": 11140000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "JMEI",
+   "totalSharesValue": 245080000
+  },
+  {
+   "date": "2014-05-16",
+   "exchange": "New York Stock Exchange",
+   "name": "VANECK MERK GOLD TRUST",
+   "numberOfShares": 57416000,
+   "price": "13.0625",
+   "status": "priced",
+   "symbol": "OUNZ",
+   "totalSharesValue": 749852960
+  },
+  {
+   "date": "2014-05-16",
+   "exchange": null,
+   "name": "GEN SERV, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2014-05-15",
+   "exchange": null,
+   "name": "ILFC HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-05-15",
+   "exchange": "Nasdaq National Market",
+   "name": "BANKWELL FINANCIAL GROUP, INC.",
+   "numberOfShares": 2702703,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "BWFG",
+   "totalSharesValue": 48648654
+  },
+  {
+   "date": "2014-05-15",
+   "exchange": "New York Stock Exchange",
+   "name": "ZENDESK, INC.",
+   "numberOfShares": 11111111,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "ZEN",
+   "totalSharesValue": 99999999
+  },
+  {
+   "date": "2014-05-15",
+   "exchange": null,
+   "name": "ADEPTPROS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 283722.2
+  },
+  {
+   "date": "2014-05-14",
+   "exchange": null,
+   "name": "AMERICAN GENE ENGINEER CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-05-14",
+   "exchange": "Nasdaq National Market",
+   "name": "SERVISFIRST BANCSHARES, INC.",
+   "numberOfShares": 625000,
+   "price": "91.00",
+   "status": "priced",
+   "symbol": "SFBS",
+   "totalSharesValue": 56875000
+  },
+  {
+   "date": "2014-05-14",
+   "exchange": null,
+   "name": "AT PLAY VACATIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "APYV",
+   "totalSharesValue": 140000
+  },
+  {
+   "date": "2014-05-09",
+   "exchange": "New York Stock Exchange",
+   "name": "PBF LOGISTICS LP",
+   "numberOfShares": 13750000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "PBFX",
+   "totalSharesValue": 316250000
+  },
+  {
+   "date": "2014-05-09",
+   "exchange": "Nasdaq National Market",
+   "name": "TUNIU CORP",
+   "numberOfShares": 8000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "TOUR",
+   "totalSharesValue": 72000000
+  },
+  {
+   "date": "2014-05-08",
+   "exchange": "New York Stock Exchange",
+   "name": "CHEETAH MOBILE INC.",
+   "numberOfShares": 12000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "CMCM",
+   "totalSharesValue": 168000000
+  },
+  {
+   "date": "2014-05-08",
+   "exchange": "New York Stock Exchange",
+   "name": "DORIAN LPG LTD.",
+   "numberOfShares": 7105263,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "LPG",
+   "totalSharesValue": 134999997
+  },
+  {
+   "date": "2014-05-08",
+   "exchange": "Nasdaq National Market",
+   "name": "K2M GROUP HOLDINGS, INC.",
+   "numberOfShares": 8825000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "KTWO",
+   "totalSharesValue": 132375000
+  },
+  {
+   "date": "2014-05-08",
+   "exchange": "Nasdaq National Market",
+   "name": "ALDER BIOPHARMACEUTICALS INC",
+   "numberOfShares": 8000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ALDR",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2014-05-07",
+   "exchange": "New York Stock Exchange",
+   "name": "GASLOG PARTNERS LP",
+   "numberOfShares": 8400000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "GLOP",
+   "totalSharesValue": 176400000
+  },
+  {
+   "date": "2014-05-07",
+   "exchange": null,
+   "name": "GUARDIANLINK",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2042750
+  },
+  {
+   "date": "2014-05-06",
+   "exchange": null,
+   "name": "VIP LOYALTY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-05-06",
+   "exchange": null,
+   "name": "READABOO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 10000
+  },
+  {
+   "date": "2014-05-02",
+   "exchange": null,
+   "name": "TRUSTWAVE HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-05-02",
+   "exchange": "Nasdaq National Market",
+   "name": "PAPA MURPHY'S HOLDINGS, INC.",
+   "numberOfShares": 5833333,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "FRSH",
+   "totalSharesValue": 64166663
+  },
+  {
+   "date": "2014-05-02",
+   "exchange": "New York Stock Exchange",
+   "name": "ARES MANAGEMENT CORP",
+   "numberOfShares": 11363636,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "ARES",
+   "totalSharesValue": 215909084
+  },
+  {
+   "date": "2014-05-02",
+   "exchange": "Nasdaq National Market",
+   "name": "SCYNEXIS INC",
+   "numberOfShares": 6200000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SCYX",
+   "totalSharesValue": 62000000
+  },
+  {
+   "date": "2014-05-02",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ALDEYRA THERAPEUTICS, INC.",
+   "numberOfShares": 1500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "ALDX",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2014-05-02",
+   "exchange": null,
+   "name": "RERAISE GAMING CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1183250
+  },
+  {
+   "date": "2014-05-01",
+   "exchange": null,
+   "name": "CLEARWATER VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000
+  }
+ ]
+}

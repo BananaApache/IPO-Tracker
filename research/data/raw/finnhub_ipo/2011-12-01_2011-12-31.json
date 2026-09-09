@@ -1,0 +1,337 @@
+{
+ "from": "2011-12-01",
+ "to": "2011-12-31",
+ "fetched_at": "2026-09-09T01:23:21.829151+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2011-12-30",
+   "exchange": null,
+   "name": "MEDIFIRST SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 675740
+  },
+  {
+   "date": "2011-12-29",
+   "exchange": null,
+   "name": "AQUINO MILLING INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-12-29",
+   "exchange": null,
+   "name": "HOMETRUST BANCSHARES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 195730000
+  },
+  {
+   "date": "2011-12-28",
+   "exchange": null,
+   "name": "STATEWIDE LIFE & HEALTH, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2011-12-23",
+   "exchange": null,
+   "name": "ROCAP MARKETING INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 287567
+  },
+  {
+   "date": "2011-12-23",
+   "exchange": null,
+   "name": "GREENWIND NRG INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2011-12-23",
+   "exchange": null,
+   "name": "PACIFIC MONUMENT ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 46000000
+  },
+  {
+   "date": "2011-12-22",
+   "exchange": null,
+   "name": "TECOGEN INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 25180630
+  },
+  {
+   "date": "2011-12-21",
+   "exchange": null,
+   "name": "MARKETINGMOBILETEXT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 600000
+  },
+  {
+   "date": "2011-12-20",
+   "exchange": null,
+   "name": "DNA PRECIOUS METALS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3000000
+  },
+  {
+   "date": "2011-12-20",
+   "exchange": null,
+   "name": "COMP SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 36950
+  },
+  {
+   "date": "2011-12-16",
+   "exchange": "New York Stock Exchange",
+   "name": "CRESTWOOD MIDSTREAM PARTNERS LP",
+   "numberOfShares": 16000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "NRGM",
+   "totalSharesValue": 272000000
+  },
+  {
+   "date": "2011-12-16",
+   "exchange": "Nasdaq National Market",
+   "name": "ZYNGA INC",
+   "numberOfShares": 100000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ZNGA",
+   "totalSharesValue": 1000000000
+  },
+  {
+   "date": "2011-12-15",
+   "exchange": "Nasdaq National Market",
+   "name": "MID-CON ENERGY PARTNERS, LP",
+   "numberOfShares": 5400000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "MCEP",
+   "totalSharesValue": 97200000
+  },
+  {
+   "date": "2011-12-15",
+   "exchange": "New York Stock Exchange",
+   "name": "LAREDO PETROLEUM, INC.",
+   "numberOfShares": 17500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LPI",
+   "totalSharesValue": 297500000
+  },
+  {
+   "date": "2011-12-15",
+   "exchange": "New York Stock Exchange",
+   "name": "BONANZA CREEK ENERGY, INC.",
+   "numberOfShares": 10000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "BCEI",
+   "totalSharesValue": 170000000
+  },
+  {
+   "date": "2011-12-14",
+   "exchange": "New York Stock Exchange",
+   "name": "SANCHEZ ENERGY CORP",
+   "numberOfShares": 10000000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "SN",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2011-12-14",
+   "exchange": null,
+   "name": "ALLIED TECHNOLOGIES GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2011-12-14",
+   "exchange": null,
+   "name": "L3 CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2011-12-14",
+   "exchange": null,
+   "name": "CONTEMPORARY SIGNED BOOKS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 260000
+  },
+  {
+   "date": "2011-12-13",
+   "exchange": "Nasdaq National Market",
+   "name": "JIVE SOFTWARE, INC.",
+   "numberOfShares": 13439600,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "JIVE",
+   "totalSharesValue": 161275200
+  },
+  {
+   "date": "2011-12-13",
+   "exchange": null,
+   "name": "CHINA BULL MANAGEMENT INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 125760
+  },
+  {
+   "date": "2011-12-13",
+   "exchange": null,
+   "name": "SKOOKUM SAFETY SOLUTIONS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2011-12-13",
+   "exchange": null,
+   "name": "IVOICEIDEAS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2011-12-09",
+   "exchange": "New York Stock Exchange",
+   "name": "ROSE ROCK MIDSTREAM, L.P.",
+   "numberOfShares": 7000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "RRMS",
+   "totalSharesValue": 140000000
+  },
+  {
+   "date": "2011-12-09",
+   "exchange": "Nasdaq National Market",
+   "name": "AMPLIFY ENERGY CORP",
+   "numberOfShares": 9000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "MEMP",
+   "totalSharesValue": 171000000
+  },
+  {
+   "date": "2011-12-09",
+   "exchange": null,
+   "name": "WEST TEXAS RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 762000
+  },
+  {
+   "date": "2011-12-09",
+   "exchange": null,
+   "name": "WHEELCHAIR ADL SOLUTIONS",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1753250
+  },
+  {
+   "date": "2011-12-07",
+   "exchange": null,
+   "name": "CHINA DREDGING GROUP CO., LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 313451550
+  },
+  {
+   "date": "2011-12-06",
+   "exchange": null,
+   "name": "UNITED PEOPLE POWER, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2877500
+  },
+  {
+   "date": "2011-12-05",
+   "exchange": null,
+   "name": "GAZIT-GLOBE LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GZT",
+   "totalSharesValue": 81000000
+  },
+  {
+   "date": "2011-12-02",
+   "exchange": null,
+   "name": "CAPRI HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "KORS",
+   "totalSharesValue": 944000000
+  },
+  {
+   "date": "2011-12-01",
+   "exchange": null,
+   "name": "NORTH TEXAS ENERGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4000000
+  }
+ ]
+}

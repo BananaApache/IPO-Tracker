@@ -1,0 +1,207 @@
+{
+ "from": "2010-01-01",
+ "to": "2010-01-31",
+ "fetched_at": "2026-09-09T01:22:35.456735+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2010-01-29",
+   "exchange": null,
+   "name": "SUPERFUND GOLD LARGE CAP EQUITY FUND",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-29",
+   "exchange": null,
+   "name": "SUPERFUND GOLD MID CAP EQUITY FUND",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-29",
+   "exchange": null,
+   "name": "SUPERFUND GOLD SMALL CAP EQUITY FUND",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-29",
+   "exchange": null,
+   "name": "SUPERFUND GOLD WORLD EQUITY FUND",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-29",
+   "exchange": null,
+   "name": "SUPERFUND GOLD COMMODITIES FUND",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-29",
+   "exchange": "Nasdaq National Market",
+   "name": "CHINA ELECTRIC MOTOR, INC.",
+   "numberOfShares": 5000000,
+   "price": "4.50",
+   "status": "priced",
+   "symbol": "CELM",
+   "totalSharesValue": 22500000
+  },
+  {
+   "date": "2010-01-28",
+   "exchange": null,
+   "name": "GLASSHOUSE TECHNOLOGIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-27",
+   "exchange": null,
+   "name": "RESACA EXPLOITATION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-27",
+   "exchange": null,
+   "name": "TELEGENT SYSTEMS, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-26",
+   "exchange": null,
+   "name": "OFFSHORE PETROLEUM CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-26",
+   "exchange": "Nasdaq National Market",
+   "name": "ANDATEE CHINA MARINE FUEL SERVICES CORP",
+   "numberOfShares": 3134921,
+   "price": "6.30",
+   "status": "priced",
+   "symbol": "AMCF",
+   "totalSharesValue": 19750002
+  },
+  {
+   "date": "2010-01-25",
+   "exchange": "New York Stock Exchange",
+   "name": "CHINA HYDROELECTRIC CORP",
+   "numberOfShares": 6000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "CHC",
+   "totalSharesValue": 96000000
+  },
+  {
+   "date": "2010-01-22",
+   "exchange": null,
+   "name": "EVERYDAY HEALTH, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-22",
+   "exchange": null,
+   "name": "VERDE REALTY",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-22",
+   "exchange": "New York Stock Exchange",
+   "name": "SYMETRA FINANCIAL CORP",
+   "numberOfShares": 30400000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "SYA",
+   "totalSharesValue": 364800000
+  },
+  {
+   "date": "2010-01-22",
+   "exchange": "New York Stock Exchange",
+   "name": "CELLU TISSUE HOLDINGS, INC.",
+   "numberOfShares": 8300000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "CLU",
+   "totalSharesValue": 107900000
+  },
+  {
+   "date": "2010-01-22",
+   "exchange": "New York Stock Exchange",
+   "name": "CHESAPEAKE LODGING TRUST",
+   "numberOfShares": 7500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "CHSP",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2010-01-19",
+   "exchange": null,
+   "name": "MEGAS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-01-05",
+   "exchange": null,
+   "name": "KAMA RESOURCES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000
+  },
+  {
+   "date": "2010-01-05",
+   "exchange": null,
+   "name": "IFM INVESTMENTS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CTC",
+   "totalSharesValue": 87412500
+  }
+ ]
+}

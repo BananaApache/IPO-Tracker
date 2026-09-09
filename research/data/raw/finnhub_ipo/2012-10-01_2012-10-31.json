@@ -1,0 +1,397 @@
+{
+ "from": "2012-10-01",
+ "to": "2012-10-31",
+ "fetched_at": "2026-09-09T01:23:41.527937+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2012-10-31",
+   "exchange": null,
+   "name": "CORRUVEN, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4352544.95
+  },
+  {
+   "date": "2012-10-29",
+   "exchange": null,
+   "name": "ML CAPITAL GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3245821.2
+  },
+  {
+   "date": "2012-10-26",
+   "exchange": "New York Stock Exchange",
+   "name": "WHITEWAVE FOODS CO",
+   "numberOfShares": 23000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "WWAV",
+   "totalSharesValue": 391000000
+  },
+  {
+   "date": "2012-10-26",
+   "exchange": "New York Stock Exchange",
+   "name": "MPLX LP",
+   "numberOfShares": 17300000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "MPLX",
+   "totalSharesValue": 380600000
+  },
+  {
+   "date": "2012-10-26",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "KBS FASHION GROUP LTD",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "AQUUU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2012-10-26",
+   "exchange": "American Stock Exchange",
+   "name": "NUVEEN LONG/SHORT COMMODITY TOTAL RETURN FUND",
+   "numberOfShares": 18800000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "CTF",
+   "totalSharesValue": 470000000
+  },
+  {
+   "date": "2012-10-25",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "METHES ENERGIES INTERNATIONAL LTD",
+   "numberOfShares": 560000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "MEILU",
+   "totalSharesValue": 2800000
+  },
+  {
+   "date": "2012-10-25",
+   "exchange": "New York Stock Exchange",
+   "name": "CROSSAMERICA PARTNERS LP",
+   "numberOfShares": 6000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "LGP",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2012-10-22",
+   "exchange": null,
+   "name": "PERFORMANCE SPORTS BRANDS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-10-22",
+   "exchange": null,
+   "name": "WOWIO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 12993847
+  },
+  {
+   "date": "2012-10-19",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "COLLABRIUM JAPAN ACQUISITION CORP",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "JACQU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2012-10-19",
+   "exchange": "New York Stock Exchange",
+   "name": "SEADRILL PARTNERS LLC",
+   "numberOfShares": 8750000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "SDLP",
+   "totalSharesValue": 192500000
+  },
+  {
+   "date": "2012-10-18",
+   "exchange": null,
+   "name": "BIOPHARMA MANUFACTURING SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5760000
+  },
+  {
+   "date": "2012-10-16",
+   "exchange": null,
+   "name": "AZURE HOLDING GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 79500
+  },
+  {
+   "date": "2012-10-12",
+   "exchange": null,
+   "name": "ADELMAN ENTERPRISES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-10-12",
+   "exchange": "New York Stock Exchange",
+   "name": "WORKDAY, INC.",
+   "numberOfShares": 22750000,
+   "price": "28.00",
+   "status": "priced",
+   "symbol": "WDAY",
+   "totalSharesValue": 637000000
+  },
+  {
+   "date": "2012-10-12",
+   "exchange": "Nasdaq National Market",
+   "name": "PRESSBURG, LLC",
+   "numberOfShares": 30250000,
+   "price": "36.50",
+   "status": "priced",
+   "symbol": "LNCO",
+   "totalSharesValue": 1104125000
+  },
+  {
+   "date": "2012-10-12",
+   "exchange": "Nasdaq National Market",
+   "name": "DIAMONDBACK ENERGY, INC.",
+   "numberOfShares": 12500000,
+   "price": "17.50",
+   "status": "priced",
+   "symbol": "FANG",
+   "totalSharesValue": 218750000
+  },
+  {
+   "date": "2012-10-11",
+   "exchange": null,
+   "name": "ERA GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-10-11",
+   "exchange": "Nasdaq National Market",
+   "name": "INTERCEPT PHARMACEUTICALS, INC.",
+   "numberOfShares": 5000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ICPT",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2012-10-11",
+   "exchange": "New York Stock Exchange",
+   "name": "REALOGY HOLDINGS CORP.",
+   "numberOfShares": 40000000,
+   "price": "27.00",
+   "status": "priced",
+   "symbol": "RLGY",
+   "totalSharesValue": 1080000000
+  },
+  {
+   "date": "2012-10-11",
+   "exchange": "New York Stock Exchange",
+   "name": "SHUTTERSTOCK, INC.",
+   "numberOfShares": 4500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "SSTK",
+   "totalSharesValue": 76500000
+  },
+  {
+   "date": "2012-10-11",
+   "exchange": "Nasdaq National Market",
+   "name": "KYTHERA BIOPHARMACEUTICALS INC",
+   "numberOfShares": 4400000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "KYTH",
+   "totalSharesValue": 70400000
+  },
+  {
+   "date": "2012-10-10",
+   "exchange": null,
+   "name": "DALIAN SEAFOOD ENTERPRISES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-10-10",
+   "exchange": null,
+   "name": "FORTUNE VACATION TRAVEL LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-10-10",
+   "exchange": "New York Stock Exchange",
+   "name": "AMIRA NATURE FOODS LTD.",
+   "numberOfShares": 9000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ANFI",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2012-10-10",
+   "exchange": "Nasdaq National Market",
+   "name": "AMBARELLA INC",
+   "numberOfShares": 6000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "AMBA",
+   "totalSharesValue": 36000000
+  },
+  {
+   "date": "2012-10-10",
+   "exchange": null,
+   "name": "RE-AD MARKETING INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2012-10-10",
+   "exchange": null,
+   "name": "POWERSTORM CAPITAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 13000
+  },
+  {
+   "date": "2012-10-09",
+   "exchange": null,
+   "name": "DAVE & BUSTER'S ENTERTAINMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-10-05",
+   "exchange": "New York Stock Exchange",
+   "name": "FLEETMATICS GROUP LTD",
+   "numberOfShares": 7812500,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "FLTX",
+   "totalSharesValue": 132812500
+  },
+  {
+   "date": "2012-10-05",
+   "exchange": null,
+   "name": "808 RENEWABLE ENERGY CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8104000
+  },
+  {
+   "date": "2012-10-04",
+   "exchange": "Nasdaq National Market",
+   "name": "REGULUS THERAPEUTICS INC.",
+   "numberOfShares": 11250000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "RGLS",
+   "totalSharesValue": 45000000
+  },
+  {
+   "date": "2012-10-04",
+   "exchange": "New York Stock Exchange",
+   "name": "BERRY GLOBAL GROUP, INC.",
+   "numberOfShares": 29411764,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "BERY",
+   "totalSharesValue": 470588224
+  },
+  {
+   "date": "2012-10-03",
+   "exchange": "New York Stock Exchange",
+   "name": "LIFELOCK, INC.",
+   "numberOfShares": 15700000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "LOCK",
+   "totalSharesValue": 141300000
+  },
+  {
+   "date": "2012-10-03",
+   "exchange": "New York Stock Exchange",
+   "name": "JAVELIN MORTGAGE INVESTMENT CORP.",
+   "numberOfShares": 7250000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "JMI",
+   "totalSharesValue": 145000000
+  },
+  {
+   "date": "2012-10-03",
+   "exchange": "New York Stock Exchange",
+   "name": "LUXFER HOLDINGS PLC",
+   "numberOfShares": 8000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LXFR",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2012-10-02",
+   "exchange": null,
+   "name": "BENSATA CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-10-02",
+   "exchange": null,
+   "name": "SERVICE TEAM INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SVTE",
+   "totalSharesValue": 5000000
+  }
+ ]
+}

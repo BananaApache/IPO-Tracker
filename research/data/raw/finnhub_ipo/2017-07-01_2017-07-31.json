@@ -1,0 +1,277 @@
+{
+ "from": "2017-07-01",
+ "to": "2017-07-31",
+ "fetched_at": "2026-09-09T01:25:35.549135+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-07-28",
+   "exchange": "NASDAQ Global Select",
+   "name": "REDFIN CORP",
+   "numberOfShares": 9231000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "RDFN",
+   "totalSharesValue": 138465000
+  },
+  {
+   "date": "2017-07-28",
+   "exchange": "NASDAQ Capital",
+   "name": "NEWATER TECHNOLOGY, INC.",
+   "numberOfShares": 1400000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "NEWA",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2017-07-27",
+   "exchange": "NASDAQ Capital",
+   "name": "CONCRETE PUMPING HOLDINGS, INC.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "INDUU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2017-07-26",
+   "exchange": "NASDAQ Global Select",
+   "name": "RBB BANCORP",
+   "numberOfShares": 3750000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "RBB",
+   "totalSharesValue": 86250000
+  },
+  {
+   "date": "2017-07-25",
+   "exchange": null,
+   "name": "WIZE PHARMA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-07-25",
+   "exchange": null,
+   "name": "UNICOBE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2017-07-24",
+   "exchange": null,
+   "name": "MWF GLOBAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2017-07-21",
+   "exchange": "NASDAQ Global Select",
+   "name": "PETIQ, INC.",
+   "numberOfShares": 6250000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "PETQ",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2017-07-21",
+   "exchange": "NASDAQ Capital",
+   "name": "FALCON MINERALS CORP",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "OSPRU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2017-07-21",
+   "exchange": null,
+   "name": "NEXPOINT MULTIFAMILY CAPITAL TRUST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NREF",
+   "totalSharesValue": 10000000
+  },
+  {
+   "date": "2017-07-20",
+   "exchange": "NASDAQ Global",
+   "name": "CALYXT, INC.",
+   "numberOfShares": 7000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "CLXT",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2017-07-20",
+   "exchange": "NASDAQ Global Select",
+   "name": "KALA PHARMACEUTICALS, INC.",
+   "numberOfShares": 6000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "KALA",
+   "totalSharesValue": 90000000
+  },
+  {
+   "date": "2017-07-20",
+   "exchange": "NYSE",
+   "name": "TPG RE FINANCE TRUST, INC.",
+   "numberOfShares": 11000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "TRTX",
+   "totalSharesValue": 220000000
+  },
+  {
+   "date": "2017-07-20",
+   "exchange": "NYSE Arca",
+   "name": "USCF FUNDS TRUST",
+   "numberOfShares": 30000000,
+   "price": "24.40",
+   "status": "priced",
+   "symbol": "USOD",
+   "totalSharesValue": 732000000
+  },
+  {
+   "date": "2017-07-20",
+   "exchange": "NYSE Arca",
+   "name": "USCF FUNDS TRUST",
+   "numberOfShares": 30000000,
+   "price": "24.32",
+   "status": "priced",
+   "symbol": "USOU",
+   "totalSharesValue": 729600000
+  },
+  {
+   "date": "2017-07-19",
+   "exchange": "NASDAQ Capital",
+   "name": "FEDERAL STREET ACQUISITION CORP.",
+   "numberOfShares": 40000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FSACU",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2017-07-14",
+   "exchange": null,
+   "name": "FOUR SPRINGS CAPITAL TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-07-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "AKCEA THERAPEUTICS, INC.",
+   "numberOfShares": 15625000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "AKCA",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2017-07-12",
+   "exchange": null,
+   "name": "CEBA MIDSTREAM, LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-07-12",
+   "exchange": "NASDAQ Capital",
+   "name": "CO-DIAGNOSTICS, INC.",
+   "numberOfShares": 1178532,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "CODX",
+   "totalSharesValue": 7071192
+  },
+  {
+   "date": "2017-07-10",
+   "exchange": null,
+   "name": "G-MES HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2000000
+  },
+  {
+   "date": "2017-07-07",
+   "exchange": null,
+   "name": "EMPEROR PAPER INDUSTRIES LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2017-07-06",
+   "exchange": null,
+   "name": "PENSARE ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "WRLSU",
+   "totalSharesValue": 270000000
+  },
+  {
+   "date": "2017-07-05",
+   "exchange": null,
+   "name": "STRONG SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-07-05",
+   "exchange": null,
+   "name": "VIVIC CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 150000
+  },
+  {
+   "date": "2017-07-03",
+   "exchange": null,
+   "name": "CAPAX INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2250000
+  },
+  {
+   "date": "2017-07-03",
+   "exchange": null,
+   "name": "SIENNA BIOPHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SNNA",
+   "totalSharesValue": 64999995
+  }
+ ]
+}

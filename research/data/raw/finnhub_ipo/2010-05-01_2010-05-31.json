@@ -1,0 +1,457 @@
+{
+ "from": "2010-05-01",
+ "to": "2010-05-31",
+ "fetched_at": "2026-09-09T01:22:43.470692+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2010-05-28",
+   "exchange": null,
+   "name": "SOUTHERN CHINA LIVESTOCK, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-28",
+   "exchange": "Nasdaq National Market",
+   "name": "GENMARK DIAGNOSTICS, INC.",
+   "numberOfShares": 4600000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "GNMK",
+   "totalSharesValue": 27600000
+  },
+  {
+   "date": "2010-05-28",
+   "exchange": null,
+   "name": "TRIPWIRE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 86250000
+  },
+  {
+   "date": "2010-05-27",
+   "exchange": "OTCBB",
+   "name": "KEYNES TECHNOLOGY CO LTD",
+   "numberOfShares": 1500000,
+   "price": "0.25",
+   "status": "priced",
+   "symbol": "GLMB",
+   "totalSharesValue": 375000
+  },
+  {
+   "date": "2010-05-26",
+   "exchange": null,
+   "name": "AMERTHAI MINERALS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-26",
+   "exchange": null,
+   "name": "AXIOLOGIX EDUCATION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-25",
+   "exchange": null,
+   "name": "FROGADS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-21",
+   "exchange": null,
+   "name": "AFFINION GROUP HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-21",
+   "exchange": null,
+   "name": "SUCCESS EXPLORATION & RESOURCES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2406500
+  },
+  {
+   "date": "2010-05-20",
+   "exchange": "OTCBB",
+   "name": "CRUMBS BAKE SHOP, INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SQTCU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2010-05-20",
+   "exchange": null,
+   "name": "AUSCRETE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3522750
+  },
+  {
+   "date": "2010-05-20",
+   "exchange": null,
+   "name": "HEALTHWAY SHOPPING NETWORK",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 27000000
+  },
+  {
+   "date": "2010-05-19",
+   "exchange": null,
+   "name": "WARMEN LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-17",
+   "exchange": null,
+   "name": "CHINA CHEMICAL HOLDING CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-17",
+   "exchange": null,
+   "name": "VR HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 7789759.8
+  },
+  {
+   "date": "2010-05-14",
+   "exchange": null,
+   "name": "MUNI FUNDING CO OF AMERICA LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-14",
+   "exchange": null,
+   "name": "THREE G HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-14",
+   "exchange": null,
+   "name": "CHINA FOR-GEN CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-14",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "LUOKUNG TECHNOLOGY CORP.",
+   "numberOfShares": 4000000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "KONE",
+   "totalSharesValue": 16000000
+  },
+  {
+   "date": "2010-05-14",
+   "exchange": "New York Stock Exchange",
+   "name": "JINKOSOLAR HOLDING CO., LTD.",
+   "numberOfShares": 5835000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "JKS",
+   "totalSharesValue": 64185000
+  },
+  {
+   "date": "2010-05-14",
+   "exchange": "New York Stock Exchange",
+   "name": "NORANDA ALUMINUM HOLDING CORP",
+   "numberOfShares": 10000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "NOR",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2010-05-14",
+   "exchange": null,
+   "name": "TIGER JIUJIANG MINING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 175000
+  },
+  {
+   "date": "2010-05-14",
+   "exchange": null,
+   "name": "RESOLUTE ONCOLOGY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 140000
+  },
+  {
+   "date": "2010-05-13",
+   "exchange": null,
+   "name": "IKARIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-13",
+   "exchange": null,
+   "name": "US FEDERAL PROPERTIES TRUST INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-13",
+   "exchange": "New York Stock Exchange",
+   "name": "EXPRESS, INC.",
+   "numberOfShares": 16000000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "EXPR",
+   "totalSharesValue": 272000000
+  },
+  {
+   "date": "2010-05-13",
+   "exchange": "Nasdaq National Market",
+   "name": "TELENAV, INC.",
+   "numberOfShares": 7000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "TNAV",
+   "totalSharesValue": 56000000
+  },
+  {
+   "date": "2010-05-13",
+   "exchange": "New York Stock Exchange",
+   "name": "ROADRUNNER TRANSPORTATION SYSTEMS, INC.",
+   "numberOfShares": 10600644,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "RRTS",
+   "totalSharesValue": 148409016
+  },
+  {
+   "date": "2010-05-13",
+   "exchange": null,
+   "name": "NEW DAY FINANCIAL MANAGEMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 9500
+  },
+  {
+   "date": "2010-05-12",
+   "exchange": "New York Stock Exchange",
+   "name": "NISKA GAS STORAGE PARTNERS LLC",
+   "numberOfShares": 17500000,
+   "price": "20.50",
+   "status": "priced",
+   "symbol": "NKA",
+   "totalSharesValue": 358750000
+  },
+  {
+   "date": "2010-05-11",
+   "exchange": null,
+   "name": "CLEARVIEW HOTEL TRUST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-11",
+   "exchange": null,
+   "name": "GREEN SOLUTIONS CHINA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3055500
+  },
+  {
+   "date": "2010-05-10",
+   "exchange": null,
+   "name": "LIBERTY MUTUAL AGENCY CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-07",
+   "exchange": null,
+   "name": "HCA HEALTHCARE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-07",
+   "exchange": null,
+   "name": "WINTEGRA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-07",
+   "exchange": null,
+   "name": "CHINA EQUITY PLATFORM HOLDING GROUP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2542000
+  },
+  {
+   "date": "2010-05-07",
+   "exchange": null,
+   "name": "CHINA OUMEI REAL ESTATE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20263140
+  },
+  {
+   "date": "2010-05-05",
+   "exchange": null,
+   "name": "GRUENTAL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-05",
+   "exchange": "Nasdaq National Market",
+   "name": "CHARM COMMUNICATIONS INC.",
+   "numberOfShares": 7812500,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "CHRM",
+   "totalSharesValue": 74218750
+  },
+  {
+   "date": "2010-05-05",
+   "exchange": "New York Stock Exchange",
+   "name": "DOUGLAS DYNAMICS, INC",
+   "numberOfShares": 10000000,
+   "price": "11.25",
+   "status": "priced",
+   "symbol": "PLOW",
+   "totalSharesValue": 112500000
+  },
+  {
+   "date": "2010-05-05",
+   "exchange": null,
+   "name": "HARBOR ISLAND DEVELOPMENT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2010-05-04",
+   "exchange": "Nasdaq Smallcap Market",
+   "name": "S&W SEED CO",
+   "numberOfShares": 1400000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "SANWU",
+   "totalSharesValue": 15400000
+  },
+  {
+   "date": "2010-05-03",
+   "exchange": null,
+   "name": "FORMULA ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-05-03",
+   "exchange": "OTCBB",
+   "name": "PREDICTIVE ONCOLOGY INC.",
+   "numberOfShares": 13030747,
+   "price": "0.35",
+   "status": "priced",
+   "symbol": "BIOR",
+   "totalSharesValue": 4560761
+  },
+  {
+   "date": "2010-05-03",
+   "exchange": null,
+   "name": "RICH STAR DEVELOPMENT, CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  }
+ ]
+}

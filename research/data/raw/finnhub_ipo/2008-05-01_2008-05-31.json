@@ -1,0 +1,287 @@
+{
+ "from": "2008-05-01",
+ "to": "2008-05-31",
+ "fetched_at": "2026-09-09T01:21:55.439583+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2008-05-23",
+   "exchange": null,
+   "name": "SUNSHINE FINANCIAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-22",
+   "exchange": "OTCBB",
+   "name": "THC THERAPEUTICS, INC.",
+   "numberOfShares": 1590000,
+   "price": "0.25",
+   "status": "priced",
+   "symbol": "ASUV",
+   "totalSharesValue": 397500
+  },
+  {
+   "date": "2008-05-21",
+   "exchange": "Nasdaq Smallcap Market",
+   "name": "SINO-GLOBAL SHIPPING AMERICA, LTD.",
+   "numberOfShares": 1129032,
+   "price": "7.75",
+   "status": "priced",
+   "symbol": "SINO",
+   "totalSharesValue": 8749998
+  },
+  {
+   "date": "2008-05-20",
+   "exchange": "Nasdaq National Market",
+   "name": "MALVERN FEDERAL BANCORP INC",
+   "numberOfShares": 2645575,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MLVF",
+   "totalSharesValue": 26455750
+  },
+  {
+   "date": "2008-05-19",
+   "exchange": null,
+   "name": "NEW WORLD MOTORSPORTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2008-05-16",
+   "exchange": null,
+   "name": "TRANSBIOTEC, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-16",
+   "exchange": null,
+   "name": "VOUGHT AIRCRAFT HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-16",
+   "exchange": "OTCBB",
+   "name": "WOWJOINT HOLDINGS LTD",
+   "numberOfShares": 3750000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "CFQUF",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2008-05-16",
+   "exchange": null,
+   "name": "SAFE BULKERS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SB",
+   "totalSharesValue": 190000000
+  },
+  {
+   "date": "2008-05-15",
+   "exchange": "Nasdaq National Market",
+   "name": "AGNC INVESTMENT CORP.",
+   "numberOfShares": 10000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "AGNC",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2008-05-15",
+   "exchange": "New York Stock Exchange",
+   "name": "VERSO CORP",
+   "numberOfShares": 14000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "VRS",
+   "totalSharesValue": 168000000
+  },
+  {
+   "date": "2008-05-14",
+   "exchange": "American Stock Exchange",
+   "name": "ZION OIL & GAS INC",
+   "numberOfShares": 2500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ZN.U",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2008-05-13",
+   "exchange": null,
+   "name": "PATRIOT RISK MANAGEMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-13",
+   "exchange": null,
+   "name": "GLOBAL WATER RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-13",
+   "exchange": null,
+   "name": "METASTORM INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-12",
+   "exchange": null,
+   "name": "OPEN LINK FINANCIAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-12",
+   "exchange": null,
+   "name": "OPPORTUNITY ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-09",
+   "exchange": null,
+   "name": "ALDAGEN INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-09",
+   "exchange": "New York Stock Exchange",
+   "name": "WESTERN MIDSTREAM OPERATING, LP",
+   "numberOfShares": 18750000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "WES",
+   "totalSharesValue": 309375000
+  },
+  {
+   "date": "2008-05-08",
+   "exchange": null,
+   "name": "NOBLE ENVIRONMENTAL POWER LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-08",
+   "exchange": "OTCBB",
+   "name": "CAPITOL CITY BANCSHARES INC",
+   "numberOfShares": 1500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CPTY",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2008-05-08",
+   "exchange": "Nasdaq National Market",
+   "name": "REAL GOODS SOLAR, INC.",
+   "numberOfShares": 5500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "RSOL",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2008-05-08",
+   "exchange": "New York Stock Exchange",
+   "name": "COLFAX CORP",
+   "numberOfShares": 18750000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "CFX",
+   "totalSharesValue": 337500000
+  },
+  {
+   "date": "2008-05-07",
+   "exchange": null,
+   "name": "GOMEZ INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-06",
+   "exchange": "Nasdaq Smallcap Market",
+   "name": "MAIDEN HOLDINGS, LTD.",
+   "numberOfShares": 56870000,
+   "price": "8.10",
+   "status": "priced",
+   "symbol": "MHLD",
+   "totalSharesValue": 460647000
+  },
+  {
+   "date": "2008-05-05",
+   "exchange": null,
+   "name": "NEWPAGE GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-02",
+   "exchange": null,
+   "name": "STRIKER OIL & GAS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-05-01",
+   "exchange": "New York Stock Exchange",
+   "name": "PIONEER SOUTHWEST ENERGY PARTNERS L.P.",
+   "numberOfShares": 8250000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "PSE",
+   "totalSharesValue": 156750000
+  }
+ ]
+}

@@ -1,0 +1,447 @@
+{
+ "from": "2007-12-01",
+ "to": "2007-12-31",
+ "fetched_at": "2026-09-09T01:21:45.430757+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2007-12-31",
+   "exchange": null,
+   "name": "GOLD RUN INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-31",
+   "exchange": null,
+   "name": "INFOBIONICS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-31",
+   "exchange": null,
+   "name": "ALMA LASERS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-28",
+   "exchange": null,
+   "name": "CHINA PACIFIC ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-28",
+   "exchange": null,
+   "name": "CONSUMER PARTNERS ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-26",
+   "exchange": null,
+   "name": "SOURCE PHOTONICS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-21",
+   "exchange": null,
+   "name": "ANDA NETWORKS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-21",
+   "exchange": null,
+   "name": "COLUMBIA PIPELINE PARTNERS LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-21",
+   "exchange": null,
+   "name": "FIG ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-20",
+   "exchange": null,
+   "name": "RENEWABLE ENERGY ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-20",
+   "exchange": "Nasdaq National Market",
+   "name": "ORION GROUP HOLDINGS INC",
+   "numberOfShares": 20949196,
+   "price": "15.80",
+   "status": "priced",
+   "symbol": "OMGI",
+   "totalSharesValue": 330997297
+  },
+  {
+   "date": "2007-12-20",
+   "exchange": "New York Stock Exchange",
+   "name": "NETSUITE INC",
+   "numberOfShares": 6200000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "N",
+   "totalSharesValue": 161200000
+  },
+  {
+   "date": "2007-12-19",
+   "exchange": null,
+   "name": "PROMETHEUS LABORATORIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-19",
+   "exchange": null,
+   "name": "DANGER INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-18",
+   "exchange": null,
+   "name": "GLASSHOUSE TECHNOLOGIES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-14",
+   "exchange": null,
+   "name": "EXACTTARGET, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-14",
+   "exchange": null,
+   "name": "REGENT'S SECRET INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-14",
+   "exchange": null,
+   "name": "KGB",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-14",
+   "exchange": "Nasdaq National Market",
+   "name": "MEMSIC INC",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MEMS",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2007-12-14",
+   "exchange": "American Stock Exchange",
+   "name": "GULFSTREAM INTERNATIONAL GROUP INC",
+   "numberOfShares": 800000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "GIA",
+   "totalSharesValue": 6400000
+  },
+  {
+   "date": "2007-12-14",
+   "exchange": "Nasdaq National Market",
+   "name": "INTELLON CORP",
+   "numberOfShares": 7500000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "ITLN",
+   "totalSharesValue": 67500000
+  },
+  {
+   "date": "2007-12-13",
+   "exchange": "Nasdaq National Market",
+   "name": "MEDASSETS INC",
+   "numberOfShares": 13300000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "MDAS",
+   "totalSharesValue": 212800000
+  },
+  {
+   "date": "2007-12-13",
+   "exchange": "New York Stock Exchange",
+   "name": "K12 INC",
+   "numberOfShares": 6000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "LRN",
+   "totalSharesValue": 108000000
+  },
+  {
+   "date": "2007-12-12",
+   "exchange": null,
+   "name": "LANK ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-12",
+   "exchange": "New York Stock Exchange",
+   "name": "XINYUAN REAL ESTATE CO., LTD.",
+   "numberOfShares": 17500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "XIN",
+   "totalSharesValue": 245000000
+  },
+  {
+   "date": "2007-12-12",
+   "exchange": "New York Stock Exchange",
+   "name": "VANCEINFO TECHNOLOGIES INC.",
+   "numberOfShares": 7650000,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "VIT",
+   "totalSharesValue": 65025000
+  },
+  {
+   "date": "2007-12-12",
+   "exchange": "American Stock Exchange",
+   "name": "UNITED REFINING ENERGY CORP",
+   "numberOfShares": 45000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "URX.U",
+   "totalSharesValue": 450000000
+  },
+  {
+   "date": "2007-12-12",
+   "exchange": "OTCBB",
+   "name": "MONGOLIA HOLDINGS, INC.",
+   "numberOfShares": 3120000,
+   "price": "0.40",
+   "status": "priced",
+   "symbol": "CNSV",
+   "totalSharesValue": 1248000
+  },
+  {
+   "date": "2007-12-11",
+   "exchange": null,
+   "name": "DIGITAL DOMAIN",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-11",
+   "exchange": "Nasdaq National Market",
+   "name": "CHINAEDU CORP",
+   "numberOfShares": 6820000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CEDU",
+   "totalSharesValue": 68200000
+  },
+  {
+   "date": "2007-12-11",
+   "exchange": "Nasdaq National Market",
+   "name": "CARDTRONICS INC",
+   "numberOfShares": 12000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CATM",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2007-12-07",
+   "exchange": null,
+   "name": "MAFS ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-07",
+   "exchange": null,
+   "name": "BIG WEST OIL PARTNERS, LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-07",
+   "exchange": "American Stock Exchange",
+   "name": "GLOBAL BRANDS ACQUISITION CORP.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GQN.U",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2007-12-07",
+   "exchange": "American Stock Exchange",
+   "name": "UNITED STATES 12 MONTH OIL FUND, LP",
+   "numberOfShares": 11000000,
+   "price": "50.00",
+   "status": "priced",
+   "symbol": "USL",
+   "totalSharesValue": 550000000
+  },
+  {
+   "date": "2007-12-07",
+   "exchange": "Nasdaq National Market",
+   "name": "ENTROPIC COMMUNICATIONS INC",
+   "numberOfShares": 8000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ENTR",
+   "totalSharesValue": 48000000
+  },
+  {
+   "date": "2007-12-07",
+   "exchange": "New York Stock Exchange",
+   "name": "TRIPLE-S MANAGEMENT CORP",
+   "numberOfShares": 14000000,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "GTS",
+   "totalSharesValue": 203000000
+  },
+  {
+   "date": "2007-12-06",
+   "exchange": "Nasdaq National Market",
+   "name": "VISIONCHINA MEDIA INC.",
+   "numberOfShares": 13500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "VISN",
+   "totalSharesValue": 108000000
+  },
+  {
+   "date": "2007-12-06",
+   "exchange": "New York Stock Exchange",
+   "name": "WSP HOLDINGS LTD",
+   "numberOfShares": 25000000,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "WH",
+   "totalSharesValue": 212500000
+  },
+  {
+   "date": "2007-12-06",
+   "exchange": "Nasdaq National Market",
+   "name": "TITAN MACHINERY INC.",
+   "numberOfShares": 5300000,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "TITN",
+   "totalSharesValue": 45050000
+  },
+  {
+   "date": "2007-12-04",
+   "exchange": "OTCBB",
+   "name": "NORTH SHORE ACQUISITION CORP.",
+   "numberOfShares": 6300000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "NSAQU",
+   "totalSharesValue": 50400000
+  },
+  {
+   "date": "2007-12-03",
+   "exchange": null,
+   "name": "MVC ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-12-03",
+   "exchange": null,
+   "name": "TEEKAY TANKERS LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TNK",
+   "totalSharesValue": 195000000
+  },
+  {
+   "date": "2007-12-03",
+   "exchange": null,
+   "name": "GUSHAN ENVIRONMENTAL ENERGY LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GU",
+   "totalSharesValue": 172800000
+  }
+ ]
+}

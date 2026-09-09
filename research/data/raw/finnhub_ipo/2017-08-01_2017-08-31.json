@@ -1,0 +1,177 @@
+{
+ "from": "2017-08-01",
+ "to": "2017-08-31",
+ "fetched_at": "2026-09-09T01:25:37.556521+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-08-31",
+   "exchange": "NYSE Arca",
+   "name": "GRANITESHARES GOLD TRUST",
+   "numberOfShares": 1500000,
+   "price": "128.90",
+   "status": "priced",
+   "symbol": "BAR",
+   "totalSharesValue": 193350000
+  },
+  {
+   "date": "2017-08-23",
+   "exchange": null,
+   "name": "ACCELERATED PHARMA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-08-21",
+   "exchange": null,
+   "name": "AXIUM PHARMACEUTICALS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 5139600
+  },
+  {
+   "date": "2017-08-18",
+   "exchange": "NASDAQ Global",
+   "name": "CHICKEN SOUP FOR THE SOUL ENTERTAINMENT, INC.",
+   "numberOfShares": 2500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "CSSE",
+   "totalSharesValue": 30000000
+  },
+  {
+   "date": "2017-08-17",
+   "exchange": "NASDAQ Capital",
+   "name": "SIMPLICITY ESPORTS & GAMING CO",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "IAMXU",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2017-08-16",
+   "exchange": "NYSE",
+   "name": "NESCO HOLDINGS, INC.",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CIC'U",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2017-08-11",
+   "exchange": "NASDAQ Global",
+   "name": "YOGAWORKS, INC.",
+   "numberOfShares": 7300000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "YOGA",
+   "totalSharesValue": 40150000
+  },
+  {
+   "date": "2017-08-11",
+   "exchange": "NYSE",
+   "name": "RANGER ENERGY SERVICES, INC.",
+   "numberOfShares": 5862069,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "RNGR",
+   "totalSharesValue": 85000001
+  },
+  {
+   "date": "2017-08-10",
+   "exchange": null,
+   "name": "CONTURA ENERGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-08-09",
+   "exchange": null,
+   "name": "LENG UNIVERSAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-08-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "ZEALAND PHARMA A/S",
+   "numberOfShares": 4375000,
+   "price": "17.87",
+   "status": "priced",
+   "symbol": "ZEAL",
+   "totalSharesValue": 78181250
+  },
+  {
+   "date": "2017-08-09",
+   "exchange": "NASDAQ Capital",
+   "name": "HF FOODS GROUP INC.",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ATACU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2017-08-08",
+   "exchange": "NASDAQ Global",
+   "name": "CHINA INTERNET NATIONWIDE FINANCIAL SERVICES, INC.",
+   "numberOfShares": 2023146,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CIFS",
+   "totalSharesValue": 20231460
+  },
+  {
+   "date": "2017-08-04",
+   "exchange": null,
+   "name": "BELISS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 130000
+  },
+  {
+   "date": "2017-08-04",
+   "exchange": null,
+   "name": "PROLUNG INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "LUNG",
+   "totalSharesValue": 8586672
+  },
+  {
+   "date": "2017-08-03",
+   "exchange": "NYSE",
+   "name": "VENATOR MATERIALS PLC",
+   "numberOfShares": 22700000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "VNTR",
+   "totalSharesValue": 454000000
+  },
+  {
+   "date": "2017-08-02",
+   "exchange": "NASDAQ Global Select",
+   "name": "CLEMENTIA PHARMACEUTICALS INC.",
+   "numberOfShares": 8000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "CMTA",
+   "totalSharesValue": 120000000
+  }
+ ]
+}

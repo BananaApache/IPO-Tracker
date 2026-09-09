@@ -1,0 +1,607 @@
+{
+ "from": "2013-11-01",
+ "to": "2013-11-30",
+ "fetched_at": "2026-09-09T01:24:07.499657+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2013-11-29",
+   "exchange": null,
+   "name": "CYMABAY THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CMBY",
+   "totalSharesValue": 57282465
+  },
+  {
+   "date": "2013-11-27",
+   "exchange": null,
+   "name": "INSTRIDE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-11-27",
+   "exchange": null,
+   "name": "COMMITTED CAPITAL ACQUISITION CORP II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 35000000
+  },
+  {
+   "date": "2013-11-27",
+   "exchange": null,
+   "name": "NGFC EQUITIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1500000
+  },
+  {
+   "date": "2013-11-25",
+   "exchange": null,
+   "name": "IWATT INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-11-22",
+   "exchange": null,
+   "name": "LOGICNOW S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-11-22",
+   "exchange": "Nasdaq National Market",
+   "name": "OXFORD IMMUNOTEC GLOBAL PLC",
+   "numberOfShares": 5360000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "OXFD",
+   "totalSharesValue": 64320000
+  },
+  {
+   "date": "2013-11-22",
+   "exchange": "New York Stock Exchange",
+   "name": "500.COM LTD",
+   "numberOfShares": 5786000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "WBAI",
+   "totalSharesValue": 75218000
+  },
+  {
+   "date": "2013-11-22",
+   "exchange": "Nasdaq National Market",
+   "name": "SUNGY MOBILE LTD",
+   "numberOfShares": 7000000,
+   "price": "11.22",
+   "status": "priced",
+   "symbol": "GOMO",
+   "totalSharesValue": 78540000
+  },
+  {
+   "date": "2013-11-22",
+   "exchange": "New York Stock Exchange",
+   "name": "VINCE HOLDING CORP.",
+   "numberOfShares": 10000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "VNCE",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2013-11-22",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "IDEAL POWER INC.",
+   "numberOfShares": 3000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "IPWR",
+   "totalSharesValue": 15000000
+  },
+  {
+   "date": "2013-11-21",
+   "exchange": "New York Stock Exchange",
+   "name": "NAVIGATOR HOLDINGS LTD.",
+   "numberOfShares": 12000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "NVGS",
+   "totalSharesValue": 228000000
+  },
+  {
+   "date": "2013-11-21",
+   "exchange": "New York Stock Exchange",
+   "name": "EVOGENE LTD.",
+   "numberOfShares": 5000000,
+   "price": "14.75",
+   "status": "priced",
+   "symbol": "EVGN",
+   "totalSharesValue": 73750000
+  },
+  {
+   "date": "2013-11-21",
+   "exchange": null,
+   "name": "STARK NAKED BOBBERS",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2013-11-19",
+   "exchange": null,
+   "name": "ELECTRIC VEHICLE RESEARCH CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 59100
+  },
+  {
+   "date": "2013-11-19",
+   "exchange": null,
+   "name": "OURNETT HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2013-11-18",
+   "exchange": null,
+   "name": "BALLY, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2013-11-18",
+   "exchange": null,
+   "name": "TOA HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 44000000
+  },
+  {
+   "date": "2013-11-18",
+   "exchange": null,
+   "name": "KM WEDDING EVENTS MANAGEMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2373798
+  },
+  {
+   "date": "2013-11-15",
+   "exchange": "Nasdaq National Market",
+   "name": "ZULILY, INC.",
+   "numberOfShares": 11500000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "ZU",
+   "totalSharesValue": 253000000
+  },
+  {
+   "date": "2013-11-15",
+   "exchange": "Nasdaq National Market",
+   "name": "RELYPSA INC",
+   "numberOfShares": 6850000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "RLYP",
+   "totalSharesValue": 75350000
+  },
+  {
+   "date": "2013-11-14",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "DEL TACO RESTAURANTS, INC.",
+   "numberOfShares": 15000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LEVYU",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2013-11-14",
+   "exchange": "Nasdaq National Market",
+   "name": "TANDEM DIABETES CARE INC",
+   "numberOfShares": 8000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "TNDM",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2013-11-14",
+   "exchange": "Nasdaq National Market",
+   "name": "HOUGHTON MIFFLIN HARCOURT CO",
+   "numberOfShares": 18250000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "HMHC",
+   "totalSharesValue": 219000000
+  },
+  {
+   "date": "2013-11-13",
+   "exchange": null,
+   "name": "COMMITTED CAPITAL ACQUISITION CORP II",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-11-13",
+   "exchange": null,
+   "name": "COMMITTED CAPITAL ACQUISITION CORP III",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-11-13",
+   "exchange": "Nasdaq National Market",
+   "name": "DYNAGAS LNG PARTNERS LP",
+   "numberOfShares": 12500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "DLNG",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2013-11-13",
+   "exchange": "New York Stock Exchange",
+   "name": "CHEGG, INC",
+   "numberOfShares": 15000000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "CHGG",
+   "totalSharesValue": 187500000
+  },
+  {
+   "date": "2013-11-13",
+   "exchange": "New York Stock Exchange",
+   "name": "ESH HOSPITALITY, INC.",
+   "numberOfShares": 28250000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "STAY",
+   "totalSharesValue": 565000000
+  },
+  {
+   "date": "2013-11-13",
+   "exchange": "New York Stock Exchange",
+   "name": "EROS INTERNATIONAL PLC",
+   "numberOfShares": 5000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "EROS",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2013-11-12",
+   "exchange": null,
+   "name": "MERION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-11-12",
+   "exchange": null,
+   "name": "I IN THE SKY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2013-11-12",
+   "exchange": null,
+   "name": "CHARGER MINERALS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 83500
+  },
+  {
+   "date": "2013-11-08",
+   "exchange": "New York Stock Exchange",
+   "name": "J.G. WENTWORTH CO",
+   "numberOfShares": 9750000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "JGW",
+   "totalSharesValue": 136500000
+  },
+  {
+   "date": "2013-11-08",
+   "exchange": "Nasdaq National Market",
+   "name": "NMI HOLDINGS, INC.",
+   "numberOfShares": 2103395,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "NMIH",
+   "totalSharesValue": 27344135
+  },
+  {
+   "date": "2013-11-08",
+   "exchange": "OTCBB",
+   "name": "NMI HOLDINGS, INC.",
+   "numberOfShares": 50096361,
+   "price": "10.45-12.80",
+   "status": "priced",
+   "symbol": "NMIH",
+   "totalSharesValue": 641233420.8
+  },
+  {
+   "date": "2013-11-08",
+   "exchange": null,
+   "name": "ATACAMA RESOURCES INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30875
+  },
+  {
+   "date": "2013-11-07",
+   "exchange": "New York Stock Exchange",
+   "name": "TWITTER, INC.",
+   "numberOfShares": 70000000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "TWTR",
+   "totalSharesValue": 1820000000
+  },
+  {
+   "date": "2013-11-07",
+   "exchange": "New York Stock Exchange",
+   "name": "MAVENIR SYSTEMS INC",
+   "numberOfShares": 5450000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MVNR",
+   "totalSharesValue": 54500000
+  },
+  {
+   "date": "2013-11-07",
+   "exchange": "New York Stock Exchange",
+   "name": "NORCRAFT COMPANIES, INC.",
+   "numberOfShares": 6397073,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "NCFT",
+   "totalSharesValue": 102353168
+  },
+  {
+   "date": "2013-11-07",
+   "exchange": "Nasdaq National Market",
+   "name": "LGI HOMES, INC.",
+   "numberOfShares": 9000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "LGIH",
+   "totalSharesValue": 99000000
+  },
+  {
+   "date": "2013-11-07",
+   "exchange": "New York Stock Exchange",
+   "name": "MIDCOAST ENERGY PARTNERS, L.P.",
+   "numberOfShares": 18500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "MEP",
+   "totalSharesValue": 333000000
+  },
+  {
+   "date": "2013-11-07",
+   "exchange": null,
+   "name": "SWIFT START CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 102000
+  },
+  {
+   "date": "2013-11-07",
+   "exchange": null,
+   "name": "HALTON UNIVERSAL BRANDS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2013-11-07",
+   "exchange": null,
+   "name": "INTERNATIONAL PRECIOUS METALS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2013-11-06",
+   "exchange": null,
+   "name": "TWOADAY OIL INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-11-06",
+   "exchange": "Nasdaq National Market",
+   "name": "WIX.COM LTD.",
+   "numberOfShares": 7700000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "WIX",
+   "totalSharesValue": 127050000
+  },
+  {
+   "date": "2013-11-06",
+   "exchange": "New York Stock Exchange",
+   "name": "BARRACUDA NETWORKS INC",
+   "numberOfShares": 4140000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "CUDA",
+   "totalSharesValue": 74520000
+  },
+  {
+   "date": "2013-11-06",
+   "exchange": "New York Stock Exchange",
+   "name": "ZENITH ENERGY LOGISTICS PARTNERS LP",
+   "numberOfShares": 6000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "ARCX",
+   "totalSharesValue": 114000000
+  },
+  {
+   "date": "2013-11-06",
+   "exchange": "Nasdaq National Market",
+   "name": "KARYOPHARM THERAPEUTICS INC.",
+   "numberOfShares": 6800000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "KPTI",
+   "totalSharesValue": 108800000
+  },
+  {
+   "date": "2013-11-06",
+   "exchange": "New York Stock Exchange",
+   "name": "BLUE CAPITAL REINSURANCE HOLDINGS LTD.",
+   "numberOfShares": 6250000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "BCRH",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2013-11-06",
+   "exchange": "New York Stock Exchange",
+   "name": "AVIANCA HOLDINGS S.A.",
+   "numberOfShares": 27234910,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "AVH",
+   "totalSharesValue": 408523650
+  },
+  {
+   "date": "2013-11-06",
+   "exchange": "OTCBB",
+   "name": "DARIOHEALTH CORP.",
+   "numberOfShares": 9430162,
+   "price": "2.30",
+   "status": "priced",
+   "symbol": "DRIO",
+   "totalSharesValue": 21689373
+  },
+  {
+   "date": "2013-11-06",
+   "exchange": null,
+   "name": "PREMIER PACIFIC CONSTRUCTION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 28600
+  },
+  {
+   "date": "2013-11-06",
+   "exchange": null,
+   "name": "DIAMOND TECHNOLOGY ENTERPRISES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8987820
+  },
+  {
+   "date": "2013-11-05",
+   "exchange": null,
+   "name": "MAPLE TREE KIDS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-11-01",
+   "exchange": null,
+   "name": "AUTOGENOMICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-11-01",
+   "exchange": "Nasdaq National Market",
+   "name": "QUNAR CAYMAN ISLANDS LTD.",
+   "numberOfShares": 11111000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "QUNR",
+   "totalSharesValue": 166665000
+  },
+  {
+   "date": "2013-11-01",
+   "exchange": "New York Stock Exchange",
+   "name": "CONTAINER STORE GROUP, INC.",
+   "numberOfShares": 12500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "TCS",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2013-11-01",
+   "exchange": null,
+   "name": "TABACALERAYSIDRON, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 549000
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "from": "2006-09-01",
+ "to": "2006-09-30",
+ "fetched_at": "2026-09-09T01:21:15.470069+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2006-09-29",
+   "exchange": "Nasdaq National Market",
+   "name": "OMNI FINANCIAL SERVICES, INC.",
+   "numberOfShares": 3350000,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "OFSI",
+   "totalSharesValue": 31825000
+  },
+  {
+   "date": "2006-09-29",
+   "exchange": "Nasdaq National Market",
+   "name": "SHUTTERFLY INC",
+   "numberOfShares": 5800000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SFLY",
+   "totalSharesValue": 87000000
+  },
+  {
+   "date": "2006-09-29",
+   "exchange": "Nasdaq National Market",
+   "name": "BARE ESCENTUALS INC",
+   "numberOfShares": 16000000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "BARE",
+   "totalSharesValue": 352000000
+  },
+  {
+   "date": "2006-09-28",
+   "exchange": null,
+   "name": "DATAPATH INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-09-28",
+   "exchange": "Nasdaq National Market",
+   "name": "ICF INTERNATIONAL, INC.",
+   "numberOfShares": 4670000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "ICFI",
+   "totalSharesValue": 56040000
+  },
+  {
+   "date": "2006-09-28",
+   "exchange": "New York Stock Exchange",
+   "name": "CV HOLDINGS, INC.",
+   "numberOfShares": 9600000,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "CBF",
+   "totalSharesValue": 139200000
+  },
+  {
+   "date": "2006-09-27",
+   "exchange": null,
+   "name": "JAZZ SEMICONDUCTOR INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-09-27",
+   "exchange": "Nasdaq National Market",
+   "name": "HARVEST OIL & GAS CORP.",
+   "numberOfShares": 3900000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "EVEP",
+   "totalSharesValue": 78000000
+  },
+  {
+   "date": "2006-09-26",
+   "exchange": null,
+   "name": "TELEMAR PARTICIPACOES S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-09-26",
+   "exchange": "American Stock Exchange",
+   "name": "ZION OIL & GAS INC",
+   "numberOfShares": 2000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "ZN",
+   "totalSharesValue": 14000000
+  },
+  {
+   "date": "2006-09-22",
+   "exchange": "Nasdaq National Market",
+   "name": "DIVX INC",
+   "numberOfShares": 9100000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "DIVX",
+   "totalSharesValue": 145600000
+  },
+  {
+   "date": "2006-09-22",
+   "exchange": "Nasdaq National Market",
+   "name": "LIMESTONE BANCORP, INC.",
+   "numberOfShares": 1550000,
+   "price": "24.00",
+   "status": "priced",
+   "symbol": "PBIB",
+   "totalSharesValue": 37200000
+  },
+  {
+   "date": "2006-09-22",
+   "exchange": "Nasdaq National Market",
+   "name": "COMMVAULT SYSTEMS INC",
+   "numberOfShares": 11111111,
+   "price": "14.50",
+   "status": "priced",
+   "symbol": "CVLT",
+   "totalSharesValue": 161111110
+  },
+  {
+   "date": "2006-09-21",
+   "exchange": "Nasdaq National Market",
+   "name": "WARNER CHILCOTT PLC",
+   "numberOfShares": 70600000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "WCRX",
+   "totalSharesValue": 1059000000
+  },
+  {
+   "date": "2006-09-21",
+   "exchange": "Nasdaq National Market",
+   "name": "HOME DIAGNOSTICS INC",
+   "numberOfShares": 6599487,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "HDIX",
+   "totalSharesValue": 79193844
+  },
+  {
+   "date": "2006-09-21",
+   "exchange": "Nasdaq National Market",
+   "name": "RIVERBED TECHNOLOGY, INC.",
+   "numberOfShares": 8800000,
+   "price": "9.75",
+   "status": "priced",
+   "symbol": "RVBD",
+   "totalSharesValue": 85800000
+  },
+  {
+   "date": "2006-09-20",
+   "exchange": null,
+   "name": "PARADIGM LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-09-20",
+   "exchange": null,
+   "name": "ASCENT ENERGY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-09-20",
+   "exchange": "Nasdaq National Market",
+   "name": "HILAND HOLDINGS GP, LP",
+   "numberOfShares": 7000000,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "HPGP",
+   "totalSharesValue": 129500000
+  },
+  {
+   "date": "2006-09-18",
+   "exchange": "American Stock Exchange",
+   "name": "INVESCO DB G10 CURRENCY HARVEST FUND",
+   "numberOfShares": 1000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "DBV",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2006-09-15",
+   "exchange": null,
+   "name": "ASALLIANCES BIOFUELS, LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-09-14",
+   "exchange": "OTCBB",
+   "name": "GOLD RESOURCE CORP",
+   "numberOfShares": 15910707,
+   "price": "1.00",
+   "status": "priced",
+   "symbol": "GORO",
+   "totalSharesValue": 15910707
+  },
+  {
+   "date": "2006-09-12",
+   "exchange": "OTCBB",
+   "name": "BYRNA TECHNOLOGIES INC",
+   "numberOfShares": 2814880,
+   "price": "0.20",
+   "status": "priced",
+   "symbol": "SDEV",
+   "totalSharesValue": 562976
+  },
+  {
+   "date": "2006-09-07",
+   "exchange": "New York Stock Exchange",
+   "name": "NEW ORIENTAL EDUCATION & TECHNOLOGY GROUP INC.",
+   "numberOfShares": 7500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "EDU",
+   "totalSharesValue": 112500000
+  },
+  {
+   "date": "2006-09-06",
+   "exchange": null,
+   "name": "MINDRAY MEDICAL INTERNATIONAL LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MR",
+   "totalSharesValue": 270000000
+  },
+  {
+   "date": "2006-09-01",
+   "exchange": null,
+   "name": "PHOTOWATT TECHNOLOGIES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "from": "2008-07-01",
+ "to": "2008-07-31",
+ "fetched_at": "2026-09-09T01:21:59.452323+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2008-07-31",
+   "exchange": null,
+   "name": "FIRST WIND HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-31",
+   "exchange": null,
+   "name": "STR HOLDINGS LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-31",
+   "exchange": null,
+   "name": "METROPARK USA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-31",
+   "exchange": "Nasdaq National Market",
+   "name": "HCI GROUP, INC.",
+   "numberOfShares": 1666668,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "HCIIU",
+   "totalSharesValue": 11666676
+  },
+  {
+   "date": "2008-07-25",
+   "exchange": null,
+   "name": "AUTOGENOMICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-25",
+   "exchange": "American Stock Exchange",
+   "name": "NORTH ASIA INVESTMENT CORP",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "NHR.U",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2008-07-25",
+   "exchange": "OTCBB",
+   "name": "OAK TREE EDUCATIONAL PARTNERS, INC.",
+   "numberOfShares": 65700,
+   "price": "2.00",
+   "status": "priced",
+   "symbol": "FHMS",
+   "totalSharesValue": 131400
+  },
+  {
+   "date": "2008-07-24",
+   "exchange": "OTCBB",
+   "name": "FUTUREIT, INC.",
+   "numberOfShares": 11432020,
+   "price": "0.50",
+   "status": "priced",
+   "symbol": "FITI",
+   "totalSharesValue": 5716010
+  },
+  {
+   "date": "2008-07-24",
+   "exchange": "Nasdaq National Market",
+   "name": "GT ADVANCED TECHNOLOGIES INC.",
+   "numberOfShares": 30300000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "SOLR",
+   "totalSharesValue": 499950000
+  },
+  {
+   "date": "2008-07-23",
+   "exchange": null,
+   "name": "GATEWAY PACIFIC BANCORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-21",
+   "exchange": null,
+   "name": "GCL SILICON TECHNOLOGY HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-17",
+   "exchange": null,
+   "name": "CAMPELLO BANCORP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-15",
+   "exchange": null,
+   "name": "UNITED CANNABIS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-15",
+   "exchange": null,
+   "name": "WOLVERINE TECHNOLOGIES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-14",
+   "exchange": null,
+   "name": "INDAS GREEN ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-11",
+   "exchange": null,
+   "name": "SILVER MOUNTAIN MINES",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-10",
+   "exchange": null,
+   "name": "EDUCATION MEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-09",
+   "exchange": null,
+   "name": "BE RESOURCES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-08",
+   "exchange": null,
+   "name": "CORNERSTONE PHARMACEUTICALS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-07",
+   "exchange": null,
+   "name": "CHINA DISTANCE EDUCATION HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DL",
+   "totalSharesValue": 61250000
+  },
+  {
+   "date": "2008-07-03",
+   "exchange": null,
+   "name": "GEOVERA INSURANCE HOLDINGS, LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-02",
+   "exchange": null,
+   "name": "ZONARE MEDICAL SYSTEMS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-02",
+   "exchange": null,
+   "name": "LMB TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-02",
+   "exchange": null,
+   "name": "VENOCO ACQUISITION COMPANY, L.P.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2008-07-02",
+   "exchange": "Nasdaq National Market",
+   "name": "ENERGY RECOVERY, INC.",
+   "numberOfShares": 14000000,
+   "price": "8.50",
+   "status": "priced",
+   "symbol": "ERII",
+   "totalSharesValue": 119000000
+  },
+  {
+   "date": "2008-07-02",
+   "exchange": "OTCBB",
+   "name": "VIRTUAL MEDICAL CENTRE, INC.",
+   "numberOfShares": 7593000,
+   "price": "0.15",
+   "status": "priced",
+   "symbol": "",
+   "totalSharesValue": 1138950
+  },
+  {
+   "date": "2008-07-01",
+   "exchange": null,
+   "name": "ARC INTERNATIONAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

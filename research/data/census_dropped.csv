@@ -1,5 +1,892 @@
 name,symbol,exchange,status,calendar_date,shares,total_shares_value,price_low,price_high,price_as_returned,window_file,fetched_at,dedupe_key,_rank,drop_reason
+Accelevation Holdings Corp.,ACCV,,filed,2026-09-02,,100000000.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:ACCV|2026-09-02,2,duplicate of a higher-information row for the same symbol+date
+"ADARx Pharmaceuticals, Inc.",ADRX,,filed,2026-09-04,,100000000.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:ADRX|2026-09-04,2,duplicate of a higher-information row for the same symbol+date
+Bogd FT Ltd,BOGD,,filed,2026-09-01,,43125000.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:BOGD|2026-09-01,2,duplicate of a higher-information row for the same symbol+date
+GLGHK Ltd,GLG,,filed,2026-09-01,,40250000.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:GLG|2026-09-01,2,duplicate of a higher-information row for the same symbol+date
+"GEOMET, INC.",GMET,Nasdaq National Market,priced,2006-07-28,10250000.0,102500000.0,10.0,10.0,10.00,2006-07-01_2006-07-31.json,2026-09-09T01:21:11.417398+00:00,sym:GMET|2006-07-28,0,duplicate of a higher-information row for the same symbol+date
+Legion Capital Acquisition Corp.,LCADU,,filed,2026-09-04,,230000000.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:LCADU|2026-09-04,2,duplicate of a higher-information row for the same symbol+date
+LEGACY RESERVES LP,LGCY,Nasdaq National Market,priced,2007-01-12,4209954.0,79989126.0,19.0,19.0,19.00,2007-01-01_2007-01-31.json,2026-09-09T01:21:23.432792+00:00,sym:LGCY|2007-01-12,0,duplicate of a higher-information row for the same symbol+date
+LEGACY RESERVES LP,LGCY,Nasdaq National Market,priced,2007-01-12,790046.0,15010874.0,19.0,19.0,19.00,2007-01-01_2007-01-31.json,2026-09-09T01:21:23.432792+00:00,sym:LGCY|2007-01-12,0,duplicate of a higher-information row for the same symbol+date
+LIHUA INTERNATIONAL INC.,LIWA,Nasdaq SmallCap Market,priced,2009-09-04,2300000.0,9200000.0,4.0,4.0,4.00,2009-09-01_2009-09-30.json,2026-09-09T01:22:27.457391+00:00,sym:LIWA|2009-09-04,0,duplicate of a higher-information row for the same symbol+date
+LiPower New Energy Holdings Ltd,LPNE,,filed,2026-09-02,,34500000.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:LPNE|2026-09-02,2,duplicate of a higher-information row for the same symbol+date
+New Iceland Arctic Acquisition Corp.,NIAAU,,filed,2026-09-04,,143750000.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:NIAAU|2026-09-04,2,duplicate of a higher-information row for the same symbol+date
+"NMI HOLDINGS, INC.",NMIH,OTCBB,priced,2013-11-08,50096361.0,641233420.8,10.45,12.8,10.45-12.80,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:NMIH|2013-11-08,0,duplicate of a higher-information row for the same symbol+date
+NYMEX HOLDINGS INC,NMX,New York Stock Exchange,priced,2006-11-17,6500000.0,383500000.0,59.0,59.0,59.00,2006-11-01_2006-11-30.json,2026-09-09T01:21:19.458340+00:00,sym:NMX|2006-11-17,0,duplicate of a higher-information row for the same symbol+date
+Oura Inc.,OURA,,filed,2026-09-03,,100000000.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:OURA|2026-09-03,2,duplicate of a higher-information row for the same symbol+date
+SIYATA PTT,PTT,NASDAQ Capital,expected,2026-09-08,6112327.0,0.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:PTT|2026-09-08,1,duplicate of a higher-information row for the same symbol+date
+RainRock Acquisition Corp.,RRCKU,,filed,2026-09-01,,172500000.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:RRCKU|2026-09-01,2,duplicate of a higher-information row for the same symbol+date
+"SB Energy, Inc.",SBE,,filed,2026-09-01,,100000000.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:SBE|2026-09-01,2,duplicate of a higher-information row for the same symbol+date
+"SFX ENTERTAINMENT, INC",SFXE,Nasdaq National Market,expected,2013-10-09,26197277.0,300000000.0,,,,2013-10-01_2013-10-31.json,2026-09-09T01:24:05.505818+00:00,sym:SFXE|2013-10-09,1,duplicate of a higher-information row for the same symbol+date
+SIGNAL ADVANCE INC,SIGL,OTCBB,priced,2014-10-29,3213562.0,6427124.0,2.0,2.0,2.00,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:SIGL|2014-10-29,0,duplicate of a higher-information row for the same symbol+date
+Three Lions Acquisition Corp.,TLACU,NASDAQ Global,priced,2026-09-01,10000000.0,100000000.0,10.0,10.0,10.00,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:TLACU|2026-09-01,0,duplicate of a higher-information row for the same symbol+date
+Turbogen Ltd.,TRBG,NASDAQ Capital,priced,2026-09-03,2066243.0,0.0,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:TRBG|2026-09-03,0,duplicate of a higher-information row for the same symbol+date
 Warburg Pincus Capital Corp I-B,WPCAU,NYSE,priced,2021-03-05,50000000.0,500000000.0,10.0,10.0,10.00,2021-03-01_2021-03-31.json,2026-09-08T04:21:18.575141+00:00,sym:WPCAU|2021-03-05,0,duplicate of a higher-information row for the same symbol+date
+"P--CE COMPUTERS, INC.",,,withdrawn,2006-02-03,,,,,,2006-02-01_2006-02-28.json,2026-09-09T01:21:01.413819+00:00,sym:nan|2006-02-03,3,duplicate of a higher-information row for the same symbol+date
+"NEWSUMMIT BIOPHARMA CO., INC.",,,withdrawn,2006-02-10,,,,,,2006-02-01_2006-02-28.json,2026-09-09T01:21:01.413819+00:00,sym:nan|2006-02-10,3,duplicate of a higher-information row for the same symbol+date
+DEBT RESOLVE INC,,,withdrawn,2006-02-10,,,,,,2006-02-01_2006-02-28.json,2026-09-09T01:21:01.413819+00:00,sym:nan|2006-02-10,3,duplicate of a higher-information row for the same symbol+date
+3PEA TECHNOLOGIES INC.,,,withdrawn,2006-02-10,,,,,,2006-02-01_2006-02-28.json,2026-09-09T01:21:01.413819+00:00,sym:nan|2006-02-10,3,duplicate of a higher-information row for the same symbol+date
+WOOD RESOURCES LP,,,withdrawn,2006-02-13,,,,,,2006-02-01_2006-02-28.json,2026-09-09T01:21:01.413819+00:00,sym:nan|2006-02-13,3,duplicate of a higher-information row for the same symbol+date
+REDPOINT BIO CORP,,,withdrawn,2006-03-13,,,,,,2006-03-01_2006-03-31.json,2026-09-09T01:21:03.427017+00:00,sym:nan|2006-03-13,3,duplicate of a higher-information row for the same symbol+date
+AEARO TECHNOLOGIES INC.,,,withdrawn,2006-03-24,,,,,,2006-03-01_2006-03-31.json,2026-09-09T01:21:03.427017+00:00,sym:nan|2006-03-24,3,duplicate of a higher-information row for the same symbol+date
+"BRAND ENERGY & INFRASTRUCTURE SERVICES, INC",,,withdrawn,2006-05-01,,,,,,2006-05-01_2006-05-31.json,2026-09-09T01:21:07.418998+00:00,sym:nan|2006-05-01,3,duplicate of a higher-information row for the same symbol+date
+"PHONEX HOLDINGS, INC.",,,withdrawn,2006-06-01,,,,,,2006-06-01_2006-06-30.json,2026-09-09T01:21:09.440076+00:00,sym:nan|2006-06-01,3,duplicate of a higher-information row for the same symbol+date
+"BIONUMERIK PHARMACEUTICALS, INC.",,,withdrawn,2006-06-09,,,,,,2006-06-01_2006-06-30.json,2026-09-09T01:21:09.440076+00:00,sym:nan|2006-06-09,3,duplicate of a higher-information row for the same symbol+date
+"PROGRESS RAIL SERVICES, INC.",,,withdrawn,2006-06-21,,,,,,2006-06-01_2006-06-30.json,2026-09-09T01:21:09.440076+00:00,sym:nan|2006-06-21,3,duplicate of a higher-information row for the same symbol+date
+DRESSER INC,,,withdrawn,2006-06-21,,,,,,2006-06-01_2006-06-30.json,2026-09-09T01:21:09.440076+00:00,sym:nan|2006-06-21,3,duplicate of a higher-information row for the same symbol+date
+TABERNA REALTY FINANCE TRUST,,,withdrawn,2006-06-26,,,,,,2006-06-01_2006-06-30.json,2026-09-09T01:21:09.440076+00:00,sym:nan|2006-06-26,3,duplicate of a higher-information row for the same symbol+date
+PACIFIC LEASE GROUP INC,,,withdrawn,2006-06-27,,,,,,2006-06-01_2006-06-30.json,2026-09-09T01:21:09.440076+00:00,sym:nan|2006-06-27,3,duplicate of a higher-information row for the same symbol+date
+CLEARWIRE CORP,,,withdrawn,2006-07-05,,,,,,2006-07-01_2006-07-31.json,2026-09-09T01:21:11.417398+00:00,sym:nan|2006-07-05,3,duplicate of a higher-information row for the same symbol+date
+"RANGE OPERATING TEXAS, L.L.C.",,,withdrawn,2006-07-06,,,,,,2006-07-01_2006-07-31.json,2026-09-09T01:21:11.417398+00:00,sym:nan|2006-07-06,3,duplicate of a higher-information row for the same symbol+date
+WINTEGRA INC,,,withdrawn,2006-07-12,,,,,,2006-07-01_2006-07-31.json,2026-09-09T01:21:11.417398+00:00,sym:nan|2006-07-12,3,duplicate of a higher-information row for the same symbol+date
+"BERKLINE/BENCHCRAFT HOLDINGS, INC.",,,withdrawn,2006-07-12,,,,,,2006-07-01_2006-07-31.json,2026-09-09T01:21:11.417398+00:00,sym:nan|2006-07-12,3,duplicate of a higher-information row for the same symbol+date
+ISHARES GS COMMODITY NON ENERGY INDEXED TRUST,,,withdrawn,2006-07-17,,,,,,2006-07-01_2006-07-31.json,2026-09-09T01:21:11.417398+00:00,sym:nan|2006-07-17,3,duplicate of a higher-information row for the same symbol+date
+ISHARES GS COMMODITY LIGHT ENERGY INDEXED TRUST,,,withdrawn,2006-07-17,,,,,,2006-07-01_2006-07-31.json,2026-09-09T01:21:11.417398+00:00,sym:nan|2006-07-17,3,duplicate of a higher-information row for the same symbol+date
+ISHARES GS COMMODITY INDUSTRIAL METALS INDEXED TRUST,,,withdrawn,2006-07-17,,,,,,2006-07-01_2006-07-31.json,2026-09-09T01:21:11.417398+00:00,sym:nan|2006-07-17,3,duplicate of a higher-information row for the same symbol+date
+"CHG HEALTHCARE SERVICES, INC.",,,withdrawn,2006-07-25,,,,,,2006-07-01_2006-07-31.json,2026-09-09T01:21:11.417398+00:00,sym:nan|2006-07-25,3,duplicate of a higher-information row for the same symbol+date
+ALIEN TECHNOLOGY CORP,,,withdrawn,2006-08-04,,,,,,2006-08-01_2006-08-31.json,2026-09-09T01:21:13.441431+00:00,sym:nan|2006-08-04,3,duplicate of a higher-information row for the same symbol+date
+ASCENT ENERGY INC,,,withdrawn,2006-09-20,,,,,,2006-09-01_2006-09-30.json,2026-09-09T01:21:15.470069+00:00,sym:nan|2006-09-20,3,duplicate of a higher-information row for the same symbol+date
+ALSIUS CORP,,,withdrawn,2006-10-04,,,,,,2006-10-01_2006-10-31.json,2026-09-09T01:21:17.452472+00:00,sym:nan|2006-10-04,3,duplicate of a higher-information row for the same symbol+date
+RF ODYSSEY INC.,,,withdrawn,2006-10-04,,,,,,2006-10-01_2006-10-31.json,2026-09-09T01:21:17.452472+00:00,sym:nan|2006-10-04,3,duplicate of a higher-information row for the same symbol+date
+HEXION INC.,,,withdrawn,2006-10-12,,,,,,2006-10-01_2006-10-31.json,2026-09-09T01:21:17.452472+00:00,sym:nan|2006-10-12,3,duplicate of a higher-information row for the same symbol+date
+OTIS SPUNKMEYER HOLDINGS INC,,,withdrawn,2006-11-02,,,,,,2006-11-01_2006-11-30.json,2026-09-09T01:21:19.458340+00:00,sym:nan|2006-11-02,3,duplicate of a higher-information row for the same symbol+date
+ELLORA ENERGY INC.,,,withdrawn,2006-11-09,,,,,,2006-11-01_2006-11-30.json,2026-09-09T01:21:19.458340+00:00,sym:nan|2006-11-09,3,duplicate of a higher-information row for the same symbol+date
+"RHINO RESOURCES, INC.",,,withdrawn,2006-11-09,,,,,,2006-11-01_2006-11-30.json,2026-09-09T01:21:19.458340+00:00,sym:nan|2006-11-09,3,duplicate of a higher-information row for the same symbol+date
+AMWINS GROUP INC,,,withdrawn,2006-11-13,,,,,,2006-11-01_2006-11-30.json,2026-09-09T01:21:19.458340+00:00,sym:nan|2006-11-13,3,duplicate of a higher-information row for the same symbol+date
+ACTIVBIOTICS INC,,,withdrawn,2006-11-13,,,,,,2006-11-01_2006-11-30.json,2026-09-09T01:21:19.458340+00:00,sym:nan|2006-11-13,3,duplicate of a higher-information row for the same symbol+date
+"NEG, INC.",,,withdrawn,2006-11-22,,,,,,2006-11-01_2006-11-30.json,2026-09-09T01:21:19.458340+00:00,sym:nan|2006-11-22,3,duplicate of a higher-information row for the same symbol+date
+MEDSONIX INC,,,withdrawn,2006-11-22,,,,,,2006-11-01_2006-11-30.json,2026-09-09T01:21:19.458340+00:00,sym:nan|2006-11-22,3,duplicate of a higher-information row for the same symbol+date
+"UNIVERSAL TRACKING SOLUTIONS,INC.",,,withdrawn,2006-11-28,,,,,,2006-11-01_2006-11-30.json,2026-09-09T01:21:19.458340+00:00,sym:nan|2006-11-28,3,duplicate of a higher-information row for the same symbol+date
+ASTHMATX INC,,,withdrawn,2006-11-28,,,,,,2006-11-01_2006-11-30.json,2026-09-09T01:21:19.458340+00:00,sym:nan|2006-11-28,3,duplicate of a higher-information row for the same symbol+date
+LOGANS ROADHOUSE INC,,,withdrawn,2006-12-04,,,,,,2006-12-01_2006-12-31.json,2026-09-09T01:21:21.425488+00:00,sym:nan|2006-12-04,3,duplicate of a higher-information row for the same symbol+date
+"INTERMETRO COMMUNICATIONS, INC.",,,withdrawn,2006-12-29,,,,,,2006-12-01_2006-12-31.json,2026-09-09T01:21:21.425488+00:00,sym:nan|2006-12-29,3,duplicate of a higher-information row for the same symbol+date
+RYAN BECK HOLDINGS INC,,,withdrawn,2007-01-12,,,,,,2007-01-01_2007-01-31.json,2026-09-09T01:21:23.432792+00:00,sym:nan|2007-01-12,3,duplicate of a higher-information row for the same symbol+date
+ISHARES GS COMMODITY NATURAL GAS INDEXED TRUST,,,withdrawn,2007-01-23,,,,,,2007-01-01_2007-01-31.json,2026-09-09T01:21:23.432792+00:00,sym:nan|2007-01-23,3,duplicate of a higher-information row for the same symbol+date
+"FRESH HARVEST PRODUCTS, INC.",,,withdrawn,2007-02-02,,,,,,2007-02-01_2007-02-28.json,2026-09-09T01:21:25.416403+00:00,sym:nan|2007-02-02,3,duplicate of a higher-information row for the same symbol+date
+DG ACQUISITION CORP.,,,withdrawn,2007-02-02,,,,,,2007-02-01_2007-02-28.json,2026-09-09T01:21:25.416403+00:00,sym:nan|2007-02-02,3,duplicate of a higher-information row for the same symbol+date
+"HYCO INTERNATIONAL, INC.",,,withdrawn,2007-02-05,,,,,,2007-02-01_2007-02-28.json,2026-09-09T01:21:25.416403+00:00,sym:nan|2007-02-05,3,duplicate of a higher-information row for the same symbol+date
+"ANDAIN, INC.",,,withdrawn,2007-02-13,,,,,,2007-02-01_2007-02-28.json,2026-09-09T01:21:25.416403+00:00,sym:nan|2007-02-13,3,duplicate of a higher-information row for the same symbol+date
+"SPECTRUM MANAGEMENT HOLDING COMPANY, LLC",,,withdrawn,2007-02-13,,,,,,2007-02-01_2007-02-28.json,2026-09-09T01:21:25.416403+00:00,sym:nan|2007-02-13,3,duplicate of a higher-information row for the same symbol+date
+SUN ENERGY SOLAR INC,,,withdrawn,2007-03-05,,,,,,2007-03-01_2007-03-31.json,2026-09-09T01:21:27.445920+00:00,sym:nan|2007-03-05,3,duplicate of a higher-information row for the same symbol+date
+"DUOYUAN PRINTING, INC.",,,withdrawn,2007-03-22,,,,,,2007-03-01_2007-03-31.json,2026-09-09T01:21:27.445920+00:00,sym:nan|2007-03-22,3,duplicate of a higher-information row for the same symbol+date
+TALIERA CORP,,,withdrawn,2007-03-29,,,,,,2007-03-01_2007-03-31.json,2026-09-09T01:21:27.445920+00:00,sym:nan|2007-03-29,3,duplicate of a higher-information row for the same symbol+date
+MERRION PHARMACEUTICALS LTD,,,withdrawn,2007-03-30,,,,,,2007-03-01_2007-03-31.json,2026-09-09T01:21:27.445920+00:00,sym:nan|2007-03-30,3,duplicate of a higher-information row for the same symbol+date
+"POLYPORE INTERNATIONAL, INC.",,,withdrawn,2007-04-17,,,,,,2007-04-01_2007-04-30.json,2026-09-09T01:21:29.444286+00:00,sym:nan|2007-04-17,3,duplicate of a higher-information row for the same symbol+date
+"PTC THERAPEUTICS, INC.",,,withdrawn,2007-04-20,,,,,,2007-04-01_2007-04-30.json,2026-09-09T01:21:29.444286+00:00,sym:nan|2007-04-20,3,duplicate of a higher-information row for the same symbol+date
+MILLENIA HOPE PHARMACEUTICALS INC.,,,withdrawn,2007-04-25,,,,,,2007-04-01_2007-04-30.json,2026-09-09T01:21:29.444286+00:00,sym:nan|2007-04-25,3,duplicate of a higher-information row for the same symbol+date
+"HIGHLAND FINANCIAL PARTNERS, L.P.",,,withdrawn,2007-04-30,,,,,,2007-04-01_2007-04-30.json,2026-09-09T01:21:29.444286+00:00,sym:nan|2007-04-30,3,duplicate of a higher-information row for the same symbol+date
+"CYS INVESTMENTS, INC.",,,withdrawn,2007-04-30,,,,,,2007-04-01_2007-04-30.json,2026-09-09T01:21:29.444286+00:00,sym:nan|2007-04-30,3,duplicate of a higher-information row for the same symbol+date
+MADISON RIVER COMMUNICATIONS CORP.,,,withdrawn,2007-04-30,,,,,,2007-04-01_2007-04-30.json,2026-09-09T01:21:29.444286+00:00,sym:nan|2007-04-30,3,duplicate of a higher-information row for the same symbol+date
+"HIGHLAND FINANCIAL PARTNERS, L.P.",,,withdrawn,2007-04-30,,,,,,2007-04-01_2007-04-30.json,2026-09-09T01:21:29.444286+00:00,sym:nan|2007-04-30,3,duplicate of a higher-information row for the same symbol+date
+"PERLEGEN SCIENCES, INC.",,,withdrawn,2007-05-01,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-01,3,duplicate of a higher-information row for the same symbol+date
+CHINA GINSENG HOLDINGS INC,,,withdrawn,2007-05-04,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-04,3,duplicate of a higher-information row for the same symbol+date
+"CONSONUS TECHNOLOGIES, INC.",,,withdrawn,2007-05-04,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-04,3,duplicate of a higher-information row for the same symbol+date
+"NANODYNAMICS, INC.",,,withdrawn,2007-05-04,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-04,3,duplicate of a higher-information row for the same symbol+date
+EYETEL IMAGING INC,,,withdrawn,2007-05-04,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-04,3,duplicate of a higher-information row for the same symbol+date
+CARDIOMEMS INC,,,withdrawn,2007-05-04,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-04,3,duplicate of a higher-information row for the same symbol+date
+"NNN REALTY ADVISORS, INC.",,,withdrawn,2007-05-07,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-07,3,duplicate of a higher-information row for the same symbol+date
+"EARLY DETECT, INC.",,,withdrawn,2007-05-11,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-11,3,duplicate of a higher-information row for the same symbol+date
+"AQUESTIVE THERAPEUTICS, INC.",,,withdrawn,2007-05-14,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-14,3,duplicate of a higher-information row for the same symbol+date
+"AKRION, INC.",,,withdrawn,2007-05-14,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-14,3,duplicate of a higher-information row for the same symbol+date
+GOLUB CAPITAL PARTNERS LLC,,,withdrawn,2007-05-14,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-14,3,duplicate of a higher-information row for the same symbol+date
+IMPERIUM RENEWABLES INC,,,withdrawn,2007-05-23,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-23,3,duplicate of a higher-information row for the same symbol+date
+"DJ CONNECTION TULSA, INC.",,,withdrawn,2007-05-24,,,,,,2007-05-01_2007-05-31.json,2026-09-09T01:21:31.426863+00:00,sym:nan|2007-05-24,3,duplicate of a higher-information row for the same symbol+date
+"NEWPORT ENTERTAINMENT GROUP, INC.",,,withdrawn,2007-06-04,,,,,,2007-06-01_2007-06-30.json,2026-09-09T01:21:33.434365+00:00,sym:nan|2007-06-04,3,duplicate of a higher-information row for the same symbol+date
+ROYAL CAPITAL MANAGEMENT INC,,,withdrawn,2007-06-13,,,,,,2007-06-01_2007-06-30.json,2026-09-09T01:21:33.434365+00:00,sym:nan|2007-06-13,3,duplicate of a higher-information row for the same symbol+date
+"ENDOCEUTICS, INC.",,,withdrawn,2007-06-26,,,,,,2007-06-01_2007-06-30.json,2026-09-09T01:21:33.434365+00:00,sym:nan|2007-06-26,3,duplicate of a higher-information row for the same symbol+date
+"AFFINION GROUP HOLDINGS, INC.",,,withdrawn,2007-06-27,,,,,,2007-06-01_2007-06-30.json,2026-09-09T01:21:33.434365+00:00,sym:nan|2007-06-27,3,duplicate of a higher-information row for the same symbol+date
+HER IMPORTS,,,withdrawn,2007-06-29,,,,,,2007-06-01_2007-06-30.json,2026-09-09T01:21:33.434365+00:00,sym:nan|2007-06-29,3,duplicate of a higher-information row for the same symbol+date
+VIEWSONIC CORP,,,withdrawn,2007-07-02,,,,,,2007-07-01_2007-07-31.json,2026-09-09T01:21:35.472613+00:00,sym:nan|2007-07-02,3,duplicate of a higher-information row for the same symbol+date
+"DECISIONPOINT SYSTEMS, INC.",,,withdrawn,2007-07-02,,,,,,2007-07-01_2007-07-31.json,2026-09-09T01:21:35.472613+00:00,sym:nan|2007-07-02,3,duplicate of a higher-information row for the same symbol+date
+IAC HOLDINGS INC,,,withdrawn,2007-07-10,,,,,,2007-07-01_2007-07-31.json,2026-09-09T01:21:35.472613+00:00,sym:nan|2007-07-10,3,duplicate of a higher-information row for the same symbol+date
+MENZIES BAY MINERALS INC.,,,withdrawn,2007-07-16,,,,,,2007-07-01_2007-07-31.json,2026-09-09T01:21:35.472613+00:00,sym:nan|2007-07-16,3,duplicate of a higher-information row for the same symbol+date
+CETUS LYONNAIS CORP,,,withdrawn,2007-07-30,,,,,,2007-07-01_2007-07-31.json,2026-09-09T01:21:35.472613+00:00,sym:nan|2007-07-30,3,duplicate of a higher-information row for the same symbol+date
+"BG MEDICINE, INC.",,,withdrawn,2007-08-03,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-03,3,duplicate of a higher-information row for the same symbol+date
+ALLEGRO MICROSYSTEMS INC,,,withdrawn,2007-08-08,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-08,3,duplicate of a higher-information row for the same symbol+date
+"IGGYS HOUSE, INC.",,,withdrawn,2007-08-09,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-09,3,duplicate of a higher-information row for the same symbol+date
+EQUALLOGIC INC,,,withdrawn,2007-08-09,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-09,3,duplicate of a higher-information row for the same symbol+date
+"CREDITCARDS.COM, INC.",,,withdrawn,2007-08-10,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-10,3,duplicate of a higher-information row for the same symbol+date
+"RELIANT PHARMACEUTICALS, INC.",,,withdrawn,2007-08-10,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-10,3,duplicate of a higher-information row for the same symbol+date
+DLI HOLDING CORP.,,,withdrawn,2007-08-10,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-10,3,duplicate of a higher-information row for the same symbol+date
+CLASSMATES MEDIA CORP,,,withdrawn,2007-08-13,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-13,3,duplicate of a higher-information row for the same symbol+date
+"VALUE FINANCIAL SERVICES, INC.",,,withdrawn,2007-08-13,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-13,3,duplicate of a higher-information row for the same symbol+date
+IDENTITY REHAB CORP,,,withdrawn,2007-08-16,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-16,3,duplicate of a higher-information row for the same symbol+date
+"EARLY DETECT, INC.",,,withdrawn,2007-08-17,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-17,3,duplicate of a higher-information row for the same symbol+date
+"INSYS THERAPEUTICS, INC.",,,withdrawn,2007-08-17,,,,,,2007-08-01_2007-08-31.json,2026-09-09T01:21:37.456285+00:00,sym:nan|2007-08-17,3,duplicate of a higher-information row for the same symbol+date
+SEACASTLE INC.,,,withdrawn,2007-09-12,,,,,,2007-09-01_2007-09-30.json,2026-09-09T01:21:39.431913+00:00,sym:nan|2007-09-12,3,duplicate of a higher-information row for the same symbol+date
+"AMC ENTERTAINMENT HOLDINGS, INC.",,,withdrawn,2007-09-12,,,,,,2007-09-01_2007-09-30.json,2026-09-09T01:21:39.431913+00:00,sym:nan|2007-09-12,3,duplicate of a higher-information row for the same symbol+date
+"EXCO PARTNERS, LP",,,withdrawn,2007-09-13,,,,,,2007-09-01_2007-09-30.json,2026-09-09T01:21:39.431913+00:00,sym:nan|2007-09-13,3,duplicate of a higher-information row for the same symbol+date
+"TRANSMEDICS, INC.",,,withdrawn,2007-09-14,,,,,,2007-09-01_2007-09-30.json,2026-09-09T01:21:39.431913+00:00,sym:nan|2007-09-14,3,duplicate of a higher-information row for the same symbol+date
+"ELIXIR PHARMACEUTICALS, INC.",,,withdrawn,2007-09-21,,,,,,2007-09-01_2007-09-30.json,2026-09-09T01:21:39.431913+00:00,sym:nan|2007-09-21,3,duplicate of a higher-information row for the same symbol+date
+PLAINS GP HOLDINGS LP INACTIVE,,,withdrawn,2007-10-10,,,,,,2007-10-01_2007-10-31.json,2026-09-09T01:21:41.441607+00:00,sym:nan|2007-10-10,3,duplicate of a higher-information row for the same symbol+date
+AKELA PHARMA INC.,,,withdrawn,2007-10-12,,,,,,2007-10-01_2007-10-31.json,2026-09-09T01:21:41.441607+00:00,sym:nan|2007-10-12,3,duplicate of a higher-information row for the same symbol+date
+"CAREDX, INC.",,,withdrawn,2007-10-23,,,,,,2007-10-01_2007-10-31.json,2026-09-09T01:21:41.441607+00:00,sym:nan|2007-10-23,3,duplicate of a higher-information row for the same symbol+date
+"SOI HOLDINGS, INC.",,,withdrawn,2007-10-30,,,,,,2007-10-01_2007-10-31.json,2026-09-09T01:21:41.441607+00:00,sym:nan|2007-10-30,3,duplicate of a higher-information row for the same symbol+date
+HER IMPORTS,,,withdrawn,2007-10-30,,,,,,2007-10-01_2007-10-31.json,2026-09-09T01:21:41.441607+00:00,sym:nan|2007-10-30,3,duplicate of a higher-information row for the same symbol+date
+"NAMEMEDIA, INC.",,,withdrawn,2007-11-02,,,,,,2007-11-01_2007-11-30.json,2026-09-09T01:21:43.430439+00:00,sym:nan|2007-11-02,3,duplicate of a higher-information row for the same symbol+date
+XANODYNE PHARMACEUTICALS INC,,,withdrawn,2007-11-09,,,,,,2007-11-01_2007-11-30.json,2026-09-09T01:21:43.430439+00:00,sym:nan|2007-11-09,3,duplicate of a higher-information row for the same symbol+date
+"CHEMOCENTRYX, INC.",,,withdrawn,2007-11-09,,,,,,2007-11-01_2007-11-30.json,2026-09-09T01:21:43.430439+00:00,sym:nan|2007-11-09,3,duplicate of a higher-information row for the same symbol+date
+MAGNACHIP SEMICONDUCTOR CORP,,,withdrawn,2007-11-14,,,,,,2007-11-01_2007-11-30.json,2026-09-09T01:21:43.430439+00:00,sym:nan|2007-11-14,3,duplicate of a higher-information row for the same symbol+date
+CGEN DIGITAL MEDIA CO LTD,,,withdrawn,2007-11-14,,,,,,2007-11-01_2007-11-30.json,2026-09-09T01:21:43.430439+00:00,sym:nan|2007-11-14,3,duplicate of a higher-information row for the same symbol+date
+BRONCUS TECHNOLOGIES INC/CA,,,withdrawn,2007-11-20,,,,,,2007-11-01_2007-11-30.json,2026-09-09T01:21:43.430439+00:00,sym:nan|2007-11-20,3,duplicate of a higher-information row for the same symbol+date
+"AEGERION PHARMACEUTICALS, INC.",,,withdrawn,2007-11-20,,,,,,2007-11-01_2007-11-30.json,2026-09-09T01:21:43.430439+00:00,sym:nan|2007-11-20,3,duplicate of a higher-information row for the same symbol+date
+"BIG WEST OIL PARTNERS, LP",,,withdrawn,2007-12-07,,,,,,2007-12-01_2007-12-31.json,2026-09-09T01:21:45.430757+00:00,sym:nan|2007-12-07,3,duplicate of a higher-information row for the same symbol+date
+REGENT'S SECRET INC.,,,withdrawn,2007-12-14,,,,,,2007-12-01_2007-12-31.json,2026-09-09T01:21:45.430757+00:00,sym:nan|2007-12-14,3,duplicate of a higher-information row for the same symbol+date
+KGB,,,withdrawn,2007-12-14,,,,,,2007-12-01_2007-12-31.json,2026-09-09T01:21:45.430757+00:00,sym:nan|2007-12-14,3,duplicate of a higher-information row for the same symbol+date
+DANGER INC,,,withdrawn,2007-12-19,,,,,,2007-12-01_2007-12-31.json,2026-09-09T01:21:45.430757+00:00,sym:nan|2007-12-19,3,duplicate of a higher-information row for the same symbol+date
+COLUMBIA PIPELINE PARTNERS LP,,,withdrawn,2007-12-21,,,,,,2007-12-01_2007-12-31.json,2026-09-09T01:21:45.430757+00:00,sym:nan|2007-12-21,3,duplicate of a higher-information row for the same symbol+date
+FIG ACQUISITION CORP.,,,withdrawn,2007-12-21,,,,,,2007-12-01_2007-12-31.json,2026-09-09T01:21:45.430757+00:00,sym:nan|2007-12-21,3,duplicate of a higher-information row for the same symbol+date
+CONSUMER PARTNERS ACQUISITION CORP.,,,withdrawn,2007-12-28,,,,,,2007-12-01_2007-12-31.json,2026-09-09T01:21:45.430757+00:00,sym:nan|2007-12-28,3,duplicate of a higher-information row for the same symbol+date
+INFOBIONICS INC,,,withdrawn,2007-12-31,,,,,,2007-12-01_2007-12-31.json,2026-09-09T01:21:45.430757+00:00,sym:nan|2007-12-31,3,duplicate of a higher-information row for the same symbol+date
+ALMA LASERS LTD.,,,withdrawn,2007-12-31,,,,,,2007-12-01_2007-12-31.json,2026-09-09T01:21:45.430757+00:00,sym:nan|2007-12-31,3,duplicate of a higher-information row for the same symbol+date
+BUNKER HILL MINING CORP.,,,withdrawn,2008-01-14,,,,,,2008-01-01_2008-01-31.json,2026-09-09T01:21:47.448128+00:00,sym:nan|2008-01-14,3,duplicate of a higher-information row for the same symbol+date
+"ACCURO HEALTHCARE SOLUTIONS, INC.",,,withdrawn,2008-01-23,,,,,,2008-01-01_2008-01-31.json,2026-09-09T01:21:47.448128+00:00,sym:nan|2008-01-23,3,duplicate of a higher-information row for the same symbol+date
+BCD SEMICONDUCTOR MANUFACTURING LTD,,,withdrawn,2008-01-28,,,,,,2008-01-01_2008-01-31.json,2026-09-09T01:21:47.448128+00:00,sym:nan|2008-01-28,3,duplicate of a higher-information row for the same symbol+date
+"CHINA POWERSOFT TECHNOLOGIES, INC",,,withdrawn,2008-02-01,,,,,,2008-02-01_2008-02-29.json,2026-09-09T01:21:49.434927+00:00,sym:nan|2008-02-01,3,duplicate of a higher-information row for the same symbol+date
+RISE GOLD CORP.,,,withdrawn,2008-02-04,,,,,,2008-02-01_2008-02-29.json,2026-09-09T01:21:49.434927+00:00,sym:nan|2008-02-04,3,duplicate of a higher-information row for the same symbol+date
+SMG INDUSTRIES INC.,,,withdrawn,2008-02-27,,,,,,2008-02-01_2008-02-29.json,2026-09-09T01:21:49.434927+00:00,sym:nan|2008-02-27,3,duplicate of a higher-information row for the same symbol+date
+INFINITY I-CHINA ACQUISITION CORP,,,withdrawn,2008-03-05,,,,,,2008-03-01_2008-03-31.json,2026-09-09T01:21:51.452355+00:00,sym:nan|2008-03-05,3,duplicate of a higher-information row for the same symbol+date
+"SEQUOIA-LEGATO, INC",,,withdrawn,2008-03-10,,,,,,2008-03-01_2008-03-31.json,2026-09-09T01:21:51.452355+00:00,sym:nan|2008-03-10,3,duplicate of a higher-information row for the same symbol+date
+"CYDEX PHARMACEUTICALS, INC.",,,withdrawn,2008-03-12,,,,,,2008-03-01_2008-03-31.json,2026-09-09T01:21:51.452355+00:00,sym:nan|2008-03-12,3,duplicate of a higher-information row for the same symbol+date
+GALIOT CAPITAL CORP,,,withdrawn,2008-03-12,,,,,,2008-03-01_2008-03-31.json,2026-09-09T01:21:51.452355+00:00,sym:nan|2008-03-12,3,duplicate of a higher-information row for the same symbol+date
+BHG ACQUISITION CORP,,,withdrawn,2008-03-12,,,,,,2008-03-01_2008-03-31.json,2026-09-09T01:21:51.452355+00:00,sym:nan|2008-03-12,3,duplicate of a higher-information row for the same symbol+date
+"ZOGENIX, INC.",,,withdrawn,2008-03-20,,,,,,2008-03-01_2008-03-31.json,2026-09-09T01:21:51.452355+00:00,sym:nan|2008-03-20,3,duplicate of a higher-information row for the same symbol+date
+"UNITED BENEFITS & PENSION SERVICES, INC.",,,withdrawn,2008-03-31,,,,,,2008-03-01_2008-03-31.json,2026-09-09T01:21:51.452355+00:00,sym:nan|2008-03-31,3,duplicate of a higher-information row for the same symbol+date
+FLUIDIGM CORP,,,withdrawn,2008-04-14,,,,,,2008-04-01_2008-04-30.json,2026-09-09T01:21:53.445331+00:00,sym:nan|2008-04-14,3,duplicate of a higher-information row for the same symbol+date
+GF ACQUISITION CORP /CA/,,,withdrawn,2008-04-21,,,,,,2008-04-01_2008-04-30.json,2026-09-09T01:21:53.445331+00:00,sym:nan|2008-04-21,3,duplicate of a higher-information row for the same symbol+date
+OPPORTUNITY ACQUISITION CORP.,,,withdrawn,2008-05-12,,,,,,2008-05-01_2008-05-31.json,2026-09-09T01:21:55.439583+00:00,sym:nan|2008-05-12,3,duplicate of a higher-information row for the same symbol+date
+"GLOBAL WATER RESOURCES, INC.",,,withdrawn,2008-05-13,,,,,,2008-05-01_2008-05-31.json,2026-09-09T01:21:55.439583+00:00,sym:nan|2008-05-13,3,duplicate of a higher-information row for the same symbol+date
+METASTORM INC,,,withdrawn,2008-05-13,,,,,,2008-05-01_2008-05-31.json,2026-09-09T01:21:55.439583+00:00,sym:nan|2008-05-13,3,duplicate of a higher-information row for the same symbol+date
+"VOUGHT AIRCRAFT HOLDINGS, INC.",,,withdrawn,2008-05-16,,,,,,2008-05-01_2008-05-31.json,2026-09-09T01:21:55.439583+00:00,sym:nan|2008-05-16,3,duplicate of a higher-information row for the same symbol+date
+"GELTECH SOLUTIONS, INC.",,,withdrawn,2008-06-06,,,,,,2008-06-01_2008-06-30.json,2026-09-09T01:21:57.443509+00:00,sym:nan|2008-06-06,3,duplicate of a higher-information row for the same symbol+date
+"CCS MEDICAL HOLDINGS, INC.",,,withdrawn,2008-06-09,,,,,,2008-06-01_2008-06-30.json,2026-09-09T01:21:57.443509+00:00,sym:nan|2008-06-09,3,duplicate of a higher-information row for the same symbol+date
+"AMERICAN WATER WORKS COMPANY, INC.",,,withdrawn,2008-06-19,,,,,,2008-06-01_2008-06-30.json,2026-09-09T01:21:57.443509+00:00,sym:nan|2008-06-19,3,duplicate of a higher-information row for the same symbol+date
+UNITED LIBERTY BUSINESS SERVICES,,,withdrawn,2008-06-27,,,,,,2008-06-01_2008-06-30.json,2026-09-09T01:21:57.443509+00:00,sym:nan|2008-06-27,3,duplicate of a higher-information row for the same symbol+date
+LAGUNA LULU,,,withdrawn,2008-06-27,,,,,,2008-06-01_2008-06-30.json,2026-09-09T01:21:57.443509+00:00,sym:nan|2008-06-27,3,duplicate of a higher-information row for the same symbol+date
+WORRY FREE TEA HOUSE HOLDINGS COMPANY,,,withdrawn,2008-06-30,,,,,,2008-06-01_2008-06-30.json,2026-09-09T01:21:57.443509+00:00,sym:nan|2008-06-30,3,duplicate of a higher-information row for the same symbol+date
+ZONARE MEDICAL SYSTEMS INC,,,withdrawn,2008-07-02,,,,,,2008-07-01_2008-07-31.json,2026-09-09T01:21:59.452323+00:00,sym:nan|2008-07-02,3,duplicate of a higher-information row for the same symbol+date
+"LMB TECHNOLOGIES, INC.",,,withdrawn,2008-07-02,,,,,,2008-07-01_2008-07-31.json,2026-09-09T01:21:59.452323+00:00,sym:nan|2008-07-02,3,duplicate of a higher-information row for the same symbol+date
+"VENOCO ACQUISITION COMPANY, L.P.",,,withdrawn,2008-07-02,,,,,,2008-07-01_2008-07-31.json,2026-09-09T01:21:59.452323+00:00,sym:nan|2008-07-02,3,duplicate of a higher-information row for the same symbol+date
+WOLVERINE TECHNOLOGIES CORP.,,,withdrawn,2008-07-15,,,,,,2008-07-01_2008-07-31.json,2026-09-09T01:21:59.452323+00:00,sym:nan|2008-07-15,3,duplicate of a higher-information row for the same symbol+date
+STR HOLDINGS LLC,,,withdrawn,2008-07-31,,,,,,2008-07-01_2008-07-31.json,2026-09-09T01:21:59.452323+00:00,sym:nan|2008-07-31,3,duplicate of a higher-information row for the same symbol+date
+METROPARK USA INC,,,withdrawn,2008-07-31,,,,,,2008-07-01_2008-07-31.json,2026-09-09T01:21:59.452323+00:00,sym:nan|2008-07-31,3,duplicate of a higher-information row for the same symbol+date
+CAPITALSOURCE HEALTHCARE REIT,,,withdrawn,2008-08-06,,,,,,2008-08-01_2008-08-31.json,2026-09-09T01:22:01.440292+00:00,sym:nan|2008-08-06,3,duplicate of a higher-information row for the same symbol+date
+"CHANGING WORLD TECHNOLOGIES, INC.",,,withdrawn,2008-08-12,,,,,,2008-08-01_2008-08-31.json,2026-09-09T01:22:01.440292+00:00,sym:nan|2008-08-12,3,duplicate of a higher-information row for the same symbol+date
+"THEROX, INC.",,,withdrawn,2008-09-04,,,,,,2008-09-01_2008-09-30.json,2026-09-09T01:22:03.442545+00:00,sym:nan|2008-09-04,3,duplicate of a higher-information row for the same symbol+date
+CHINA TIME SHARE MEDIA CO. LTD,,,withdrawn,2008-09-09,,,,,,2008-09-01_2008-09-30.json,2026-09-09T01:22:03.442545+00:00,sym:nan|2008-09-09,3,duplicate of a higher-information row for the same symbol+date
+MEAD JOHNSON NUTRITION CO,,,withdrawn,2008-09-15,,,,,,2008-09-01_2008-09-30.json,2026-09-09T01:22:03.442545+00:00,sym:nan|2008-09-15,3,duplicate of a higher-information row for the same symbol+date
+"PB PROPERTIES, INC.",,,withdrawn,2008-11-05,,,,,,2008-11-01_2008-11-30.json,2026-09-09T01:22:07.438897+00:00,sym:nan|2008-11-05,3,duplicate of a higher-information row for the same symbol+date
+TRIDENT RESOURCES CORP,,,withdrawn,2008-11-10,,,,,,2008-11-01_2008-11-30.json,2026-09-09T01:22:07.438897+00:00,sym:nan|2008-11-10,3,duplicate of a higher-information row for the same symbol+date
+"EVCARCO, INC.",,,withdrawn,2009-03-30,,,,,,2009-03-01_2009-03-31.json,2026-09-09T01:22:15.464498+00:00,sym:nan|2009-03-30,3,duplicate of a higher-information row for the same symbol+date
+"MEDYTOX SOLUTIONS, INC.",,,withdrawn,2009-04-06,,,,,,2009-04-01_2009-04-30.json,2026-09-09T01:22:17.448247+00:00,sym:nan|2009-04-06,3,duplicate of a higher-information row for the same symbol+date
+BERITA CAPITAL CORP,,,withdrawn,2009-05-13,,,,,,2009-05-01_2009-05-31.json,2026-09-09T01:22:19.454152+00:00,sym:nan|2009-05-13,3,duplicate of a higher-information row for the same symbol+date
+"WE SAVE HOMES, INC.",,,withdrawn,2009-06-01,,,,,,2009-06-01_2009-06-30.json,2026-09-09T01:22:21.455938+00:00,sym:nan|2009-06-01,3,duplicate of a higher-information row for the same symbol+date
+AG FINANCIAL INVESTMENT TRUST INC,,,withdrawn,2009-07-13,,,,,,2009-07-01_2009-07-31.json,2026-09-09T01:22:23.535977+00:00,sym:nan|2009-07-13,3,duplicate of a higher-information row for the same symbol+date
+ENZYMEBIOSYSTEMS/OLD,,,withdrawn,2009-07-17,,,,,,2009-07-01_2009-07-31.json,2026-09-09T01:22:23.535977+00:00,sym:nan|2009-07-17,3,duplicate of a higher-information row for the same symbol+date
+LADDER CAPITAL REALTY FINANCE INC,,,withdrawn,2009-07-17,,,,,,2009-07-01_2009-07-31.json,2026-09-09T01:22:23.535977+00:00,sym:nan|2009-07-17,3,duplicate of a higher-information row for the same symbol+date
+JBS USA HOLDING LUX S.A R.L.,,,withdrawn,2009-07-22,,,,,,2009-07-01_2009-07-31.json,2026-09-09T01:22:23.535977+00:00,sym:nan|2009-07-22,3,duplicate of a higher-information row for the same symbol+date
+"INFRASTRUX GROUP, INC.",,,withdrawn,2009-08-10,,,,,,2009-08-01_2009-08-31.json,2026-09-09T01:22:25.480910+00:00,sym:nan|2009-08-10,3,duplicate of a higher-information row for the same symbol+date
+"DR. TATTOFF, INC.",,,withdrawn,2009-08-10,,,,,,2009-08-01_2009-08-31.json,2026-09-09T01:22:25.480910+00:00,sym:nan|2009-08-10,3,duplicate of a higher-information row for the same symbol+date
+"SUBAYE.COM, INC.",,,withdrawn,2009-08-10,,,,,,2009-08-01_2009-08-31.json,2026-09-09T01:22:25.480910+00:00,sym:nan|2009-08-10,3,duplicate of a higher-information row for the same symbol+date
+GMS CAPITAL CORP.,,,withdrawn,2009-09-16,,,,,,2009-09-01_2009-09-30.json,2026-09-09T01:22:27.457391+00:00,sym:nan|2009-09-16,3,duplicate of a higher-information row for the same symbol+date
+CHINA GROWTH ALLIANCE LTD,,,withdrawn,2009-09-16,,,,,,2009-09-01_2009-09-30.json,2026-09-09T01:22:27.457391+00:00,sym:nan|2009-09-16,3,duplicate of a higher-information row for the same symbol+date
+"OICCO ACQUISITION I, INC.",,,filed,2009-09-23,,120000.0,,,,2009-09-01_2009-09-30.json,2026-09-09T01:22:27.457391+00:00,sym:nan|2009-09-23,2,duplicate of a higher-information row for the same symbol+date
+GNS GROUP INC,,,withdrawn,2009-09-24,,,,,,2009-09-01_2009-09-30.json,2026-09-09T01:22:27.457391+00:00,sym:nan|2009-09-24,3,duplicate of a higher-information row for the same symbol+date
+NEWEGG INC,,,withdrawn,2009-09-28,,,,,,2009-09-01_2009-09-30.json,2026-09-09T01:22:27.457391+00:00,sym:nan|2009-09-28,3,duplicate of a higher-information row for the same symbol+date
+"IMPERIAL CAPITAL GROUP, INC.",,,withdrawn,2009-10-21,,,,,,2009-10-01_2009-10-31.json,2026-09-09T01:22:29.460600+00:00,sym:nan|2009-10-21,3,duplicate of a higher-information row for the same symbol+date
+"NORTHSTAR HEALTHCARE INVESTORS, INC.",,,withdrawn,2009-12-07,,,,,,2009-12-01_2009-12-31.json,2026-09-09T01:22:33.542588+00:00,sym:nan|2009-12-07,3,duplicate of a higher-information row for the same symbol+date
+"PYRAMID HOTELS & RESORTS, INC.",,,withdrawn,2009-12-07,,,,,,2009-12-01_2009-12-31.json,2026-09-09T01:22:33.542588+00:00,sym:nan|2009-12-07,3,duplicate of a higher-information row for the same symbol+date
+"BARD HOLDING, INC.",,,withdrawn,2009-12-07,,,,,,2009-12-01_2009-12-31.json,2026-09-09T01:22:33.542588+00:00,sym:nan|2009-12-07,3,duplicate of a higher-information row for the same symbol+date
+"HALVERN REALTY, INC.",,,withdrawn,2009-12-18,,,,,,2009-12-01_2009-12-31.json,2026-09-09T01:22:33.542588+00:00,sym:nan|2009-12-18,3,duplicate of a higher-information row for the same symbol+date
+"SOLYNDRA, INC.",,,withdrawn,2009-12-18,,,,,,2009-12-01_2009-12-31.json,2026-09-09T01:22:33.542588+00:00,sym:nan|2009-12-18,3,duplicate of a higher-information row for the same symbol+date
+RULES-BASED MEDICINE INC,,,withdrawn,2009-12-23,,,,,,2009-12-01_2009-12-31.json,2026-09-09T01:22:33.542588+00:00,sym:nan|2009-12-23,3,duplicate of a higher-information row for the same symbol+date
+VERDE REALTY,,,withdrawn,2010-01-22,,,,,,2010-01-01_2010-01-31.json,2026-09-09T01:22:35.456735+00:00,sym:nan|2010-01-22,3,duplicate of a higher-information row for the same symbol+date
+"TELEGENT SYSTEMS, INC",,,withdrawn,2010-01-27,,,,,,2010-01-01_2010-01-31.json,2026-09-09T01:22:35.456735+00:00,sym:nan|2010-01-27,3,duplicate of a higher-information row for the same symbol+date
+SUPERFUND GOLD MID CAP EQUITY FUND,,,withdrawn,2010-01-29,,,,,,2010-01-01_2010-01-31.json,2026-09-09T01:22:35.456735+00:00,sym:nan|2010-01-29,3,duplicate of a higher-information row for the same symbol+date
+SUPERFUND GOLD SMALL CAP EQUITY FUND,,,withdrawn,2010-01-29,,,,,,2010-01-01_2010-01-31.json,2026-09-09T01:22:35.456735+00:00,sym:nan|2010-01-29,3,duplicate of a higher-information row for the same symbol+date
+SUPERFUND GOLD WORLD EQUITY FUND,,,withdrawn,2010-01-29,,,,,,2010-01-01_2010-01-31.json,2026-09-09T01:22:35.456735+00:00,sym:nan|2010-01-29,3,duplicate of a higher-information row for the same symbol+date
+SUPERFUND GOLD COMMODITIES FUND,,,withdrawn,2010-01-29,,,,,,2010-01-01_2010-01-31.json,2026-09-09T01:22:35.456735+00:00,sym:nan|2010-01-29,3,duplicate of a higher-information row for the same symbol+date
+"DRIVETIME AUTOMOTIVE, INC.",,,withdrawn,2010-02-02,,,,,,2010-02-01_2010-02-28.json,2026-09-09T01:22:37.481106+00:00,sym:nan|2010-02-02,3,duplicate of a higher-information row for the same symbol+date
+"WAVE2WAVE COMMUNICATIONS, INC.",,,withdrawn,2010-02-08,,,,,,2010-02-01_2010-02-28.json,2026-09-09T01:22:37.481106+00:00,sym:nan|2010-02-08,3,duplicate of a higher-information row for the same symbol+date
+JEFFERIES COMMODITY REAL RETURN ETF,,,withdrawn,2010-02-09,,,,,,2010-02-01_2010-02-28.json,2026-09-09T01:22:37.481106+00:00,sym:nan|2010-02-09,3,duplicate of a higher-information row for the same symbol+date
+"TIA IV, INC",,,withdrawn,2010-02-11,,,,,,2010-02-01_2010-02-28.json,2026-09-09T01:22:37.481106+00:00,sym:nan|2010-02-11,3,duplicate of a higher-information row for the same symbol+date
+FALLBROOK TECHNOLOGIES INC.,,,withdrawn,2010-02-16,,,,,,2010-02-01_2010-02-28.json,2026-09-09T01:22:37.481106+00:00,sym:nan|2010-02-16,3,duplicate of a higher-information row for the same symbol+date
+REDGATE MEDIA GROUP,,,withdrawn,2010-02-19,,,,,,2010-02-01_2010-02-28.json,2026-09-09T01:22:37.481106+00:00,sym:nan|2010-02-19,3,duplicate of a higher-information row for the same symbol+date
+"WAZZNEW, INC.",,,withdrawn,2010-03-25,,,,,,2010-03-01_2010-03-31.json,2026-09-09T01:22:39.458260+00:00,sym:nan|2010-03-25,3,duplicate of a higher-information row for the same symbol+date
+ARIZONA CHEMICAL LTD.,,,withdrawn,2010-04-12,,,,,,2010-04-01_2010-04-30.json,2026-09-09T01:22:41.488383+00:00,sym:nan|2010-04-12,3,duplicate of a higher-information row for the same symbol+date
+"SOFIA REAL ESTATE GROUP, INC.",,,withdrawn,2010-04-20,,,,,,2010-04-01_2010-04-30.json,2026-09-09T01:22:41.488383+00:00,sym:nan|2010-04-20,3,duplicate of a higher-information row for the same symbol+date
+JEFFERIES S&P 500 VIX SHORT-TERM FUTURES ETF,,,withdrawn,2010-04-23,,,,,,2010-04-01_2010-04-30.json,2026-09-09T01:22:41.488383+00:00,sym:nan|2010-04-23,3,duplicate of a higher-information row for the same symbol+date
+PROMMIS SOLUTIONS HOLDING CORP.,,,withdrawn,2010-04-23,,,,,,2010-04-01_2010-04-30.json,2026-09-09T01:22:41.488383+00:00,sym:nan|2010-04-23,3,duplicate of a higher-information row for the same symbol+date
+LEGACY HEALTHCARE PROPERTIES TRUST INC.,,,withdrawn,2010-04-30,,,,,,2010-04-01_2010-04-30.json,2026-09-09T01:22:41.488383+00:00,sym:nan|2010-04-30,3,duplicate of a higher-information row for the same symbol+date
+FORMULA ACQUISITION CORP.,,,withdrawn,2010-05-03,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-03,3,duplicate of a higher-information row for the same symbol+date
+GRUENTAL CORP.,,,withdrawn,2010-05-05,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-05,3,duplicate of a higher-information row for the same symbol+date
+CHINA OUMEI REAL ESTATE INC.,,,filed,2010-05-07,,20263140.0,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-07,2,duplicate of a higher-information row for the same symbol+date
+"HCA HEALTHCARE, INC.",,,withdrawn,2010-05-07,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-07,3,duplicate of a higher-information row for the same symbol+date
+WINTEGRA INC,,,withdrawn,2010-05-07,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-07,3,duplicate of a higher-information row for the same symbol+date
+"CLEARVIEW HOTEL TRUST, INC.",,,withdrawn,2010-05-11,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-11,3,duplicate of a higher-information row for the same symbol+date
+"IKARIA, INC.",,,withdrawn,2010-05-13,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-13,3,duplicate of a higher-information row for the same symbol+date
+US FEDERAL PROPERTIES TRUST INC.,,,withdrawn,2010-05-13,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-13,3,duplicate of a higher-information row for the same symbol+date
+RESOLUTE ONCOLOGY INC,,,filed,2010-05-14,,140000.0,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-14,2,duplicate of a higher-information row for the same symbol+date
+MUNI FUNDING CO OF AMERICA LLC,,,withdrawn,2010-05-14,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-14,3,duplicate of a higher-information row for the same symbol+date
+"THREE G HOLDINGS, INC.",,,withdrawn,2010-05-14,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-14,3,duplicate of a higher-information row for the same symbol+date
+CHINA FOR-GEN CORP.,,,withdrawn,2010-05-14,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-14,3,duplicate of a higher-information row for the same symbol+date
+CHINA CHEMICAL HOLDING CO,,,withdrawn,2010-05-17,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-17,3,duplicate of a higher-information row for the same symbol+date
+HEALTHWAY SHOPPING NETWORK,,,filed,2010-05-20,,27000000.0,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-20,2,duplicate of a higher-information row for the same symbol+date
+"AFFINION GROUP HOLDINGS, INC.",,,withdrawn,2010-05-21,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-21,3,duplicate of a higher-information row for the same symbol+date
+AXIOLOGIX EDUCATION CORP,,,withdrawn,2010-05-26,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-26,3,duplicate of a higher-information row for the same symbol+date
+"SOUTHERN CHINA LIVESTOCK, INC.",,,withdrawn,2010-05-28,,,,,,2010-05-01_2010-05-31.json,2026-09-09T01:22:43.470692+00:00,sym:nan|2010-05-28,3,duplicate of a higher-information row for the same symbol+date
+"CLASSIC RULES JUDO CHAMPIONSHIPS, INC.",,,filed,2010-06-11,,108821.03,,,,2010-06-01_2010-06-30.json,2026-09-09T01:22:45.463164+00:00,sym:nan|2010-06-11,2,duplicate of a higher-information row for the same symbol+date
+"DT COMMUNICATIONS, INC",,,withdrawn,2010-06-11,,,,,,2010-06-01_2010-06-30.json,2026-09-09T01:22:45.463164+00:00,sym:nan|2010-06-11,3,duplicate of a higher-information row for the same symbol+date
+"ORACO RESOURCES, INC.",,,filed,2010-06-17,,6800.0,,,,2010-06-01_2010-06-30.json,2026-09-09T01:22:45.463164+00:00,sym:nan|2010-06-17,2,duplicate of a higher-information row for the same symbol+date
+GLOBAL AVIATION HOLDINGS INC.,,,withdrawn,2010-06-28,,,,,,2010-06-01_2010-06-30.json,2026-09-09T01:22:45.463164+00:00,sym:nan|2010-06-28,3,duplicate of a higher-information row for the same symbol+date
+"CLS CAPITAL GROUP, INC.",,,withdrawn,2010-07-01,,,,,,2010-07-01_2010-07-31.json,2026-09-09T01:22:47.462035+00:00,sym:nan|2010-07-01,3,duplicate of a higher-information row for the same symbol+date
+"UCI INTERNATIONAL, INC.",,,withdrawn,2010-07-27,,,,,,2010-07-01_2010-07-31.json,2026-09-09T01:22:47.462035+00:00,sym:nan|2010-07-27,3,duplicate of a higher-information row for the same symbol+date
+SIGE SEMICONDUCTOR INC,,,withdrawn,2010-07-29,,,,,,2010-07-01_2010-07-31.json,2026-09-09T01:22:47.462035+00:00,sym:nan|2010-07-29,3,duplicate of a higher-information row for the same symbol+date
+"ENERGEN RESOURCES, INC.",,,withdrawn,2010-08-04,,,,,,2010-08-01_2010-08-31.json,2026-09-09T01:22:49.476817+00:00,sym:nan|2010-08-04,3,duplicate of a higher-information row for the same symbol+date
+"PANTHER EXPEDITED SERVICES, INC.",,,withdrawn,2010-08-06,,,,,,2010-08-01_2010-08-31.json,2026-09-09T01:22:49.476817+00:00,sym:nan|2010-08-06,3,duplicate of a higher-information row for the same symbol+date
+SKYPE S.A R.L.,,,withdrawn,2010-08-09,,,,,,2010-08-01_2010-08-31.json,2026-09-09T01:22:49.476817+00:00,sym:nan|2010-08-09,3,duplicate of a higher-information row for the same symbol+date
+KKR & CO. INC.,,,withdrawn,2010-08-09,,,,,,2010-08-01_2010-08-31.json,2026-09-09T01:22:49.476817+00:00,sym:nan|2010-08-09,3,duplicate of a higher-information row for the same symbol+date
+"PB PROPERTIES, INC.",,,filed,2010-08-11,,100000.0,,,,2010-08-01_2010-08-31.json,2026-09-09T01:22:49.476817+00:00,sym:nan|2010-08-11,2,duplicate of a higher-information row for the same symbol+date
+WILDCAP ENERGY INC.,,,withdrawn,2010-08-31,,,,,,2010-08-01_2010-08-31.json,2026-09-09T01:22:49.476817+00:00,sym:nan|2010-08-31,3,duplicate of a higher-information row for the same symbol+date
+CHINA EMEDIA HOLDINGS CORP,,,filed,2010-09-10,,203838.36,,,,2010-09-01_2010-09-30.json,2026-09-09T01:22:51.470055+00:00,sym:nan|2010-09-10,2,duplicate of a higher-information row for the same symbol+date
+"ACE CONSULTING MANAGEMENT, INC.",,,filed,2010-09-16,,170718.0,,,,2010-09-01_2010-09-30.json,2026-09-09T01:22:51.470055+00:00,sym:nan|2010-09-16,2,duplicate of a higher-information row for the same symbol+date
+SANTO MINING CORP,,,filed,2010-09-21,,33950.0,,,,2010-09-01_2010-09-30.json,2026-09-09T01:22:51.470055+00:00,sym:nan|2010-09-21,2,duplicate of a higher-information row for the same symbol+date
+ARBORGEN INC.,,,withdrawn,2010-10-01,,,,,,2010-10-01_2010-10-31.json,2026-09-09T01:22:53.464671+00:00,sym:nan|2010-10-01,3,duplicate of a higher-information row for the same symbol+date
+DEGARO INNOVATIONS CORP.,,,filed,2010-10-05,,42310.0,,,,2010-10-01_2010-10-31.json,2026-09-09T01:22:53.464671+00:00,sym:nan|2010-10-05,2,duplicate of a higher-information row for the same symbol+date
+EOLA PROPERTY TRUST,,,withdrawn,2010-10-06,,,,,,2010-10-01_2010-10-31.json,2026-09-09T01:22:53.464671+00:00,sym:nan|2010-10-06,3,duplicate of a higher-information row for the same symbol+date
+"DMH INTERNATIONAL, INC.",,,filed,2010-10-12,,200000.0,,,,2010-10-01_2010-10-31.json,2026-09-09T01:22:53.464671+00:00,sym:nan|2010-10-12,2,duplicate of a higher-information row for the same symbol+date
+"BAUMAN ESTATE PLANNING, INC.",,,filed,2010-10-15,,100000.0,,,,2010-10-01_2010-10-31.json,2026-09-09T01:22:53.464671+00:00,sym:nan|2010-10-15,2,duplicate of a higher-information row for the same symbol+date
+BOSTON OMAHA CORP,,,filed,2010-10-20,,111659.16,,,,2010-10-01_2010-10-31.json,2026-09-09T01:22:53.464671+00:00,sym:nan|2010-10-20,2,duplicate of a higher-information row for the same symbol+date
+NCL CORP LTD.,,,withdrawn,2010-10-26,,,,,,2010-10-01_2010-10-31.json,2026-09-09T01:22:53.464671+00:00,sym:nan|2010-10-26,3,duplicate of a higher-information row for the same symbol+date
+XZERES CORP.,,,withdrawn,2010-10-27,,,,,,2010-10-01_2010-10-31.json,2026-09-09T01:22:53.464671+00:00,sym:nan|2010-10-27,3,duplicate of a higher-information row for the same symbol+date
+"EXCLUSIVE BUILDING SERVICES, INC",,,filed,2010-11-05,,20000.0,,,,2010-11-01_2010-11-30.json,2026-09-09T01:22:55.477206+00:00,sym:nan|2010-11-05,2,duplicate of a higher-information row for the same symbol+date
+AMBIT BIOSCIENCES CORP,,,withdrawn,2010-11-05,,,,,,2010-11-01_2010-11-30.json,2026-09-09T01:22:55.477206+00:00,sym:nan|2010-11-05,3,duplicate of a higher-information row for the same symbol+date
+"CASTLEROCK SECURITY HOLDINGS, INC.",,,withdrawn,2010-11-05,,,,,,2010-11-01_2010-11-30.json,2026-09-09T01:22:55.477206+00:00,sym:nan|2010-11-05,3,duplicate of a higher-information row for the same symbol+date
+"AVARUS, INC.",,,withdrawn,2010-11-12,,,,,,2010-11-01_2010-11-30.json,2026-09-09T01:22:55.477206+00:00,sym:nan|2010-11-12,3,duplicate of a higher-information row for the same symbol+date
+GEOTAG INC.,,,withdrawn,2010-11-12,,,,,,2010-11-01_2010-11-30.json,2026-09-09T01:22:55.477206+00:00,sym:nan|2010-11-12,3,duplicate of a higher-information row for the same symbol+date
+"SEA-TIGER, INC.",,,withdrawn,2010-11-12,,,,,,2010-11-01_2010-11-30.json,2026-09-09T01:22:55.477206+00:00,sym:nan|2010-11-12,3,duplicate of a higher-information row for the same symbol+date
+"GOODMAN GLOBAL GROUP, INC.",,,withdrawn,2010-11-12,,,,,,2010-11-01_2010-11-30.json,2026-09-09T01:22:55.477206+00:00,sym:nan|2010-11-12,3,duplicate of a higher-information row for the same symbol+date
+"TRAIL ONE, INC.",,,filed,2010-11-23,,8000.0,,,,2010-11-01_2010-11-30.json,2026-09-09T01:22:55.477206+00:00,sym:nan|2010-11-23,2,duplicate of a higher-information row for the same symbol+date
+CREDEX CORP,,,filed,2010-11-24,,735156.25,,,,2010-11-01_2010-11-30.json,2026-09-09T01:22:55.477206+00:00,sym:nan|2010-11-24,2,duplicate of a higher-information row for the same symbol+date
+BECEEM COMMUNICATIONS INC,,,withdrawn,2010-12-01,,,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-01,3,duplicate of a higher-information row for the same symbol+date
+AMERICOLD REALTY TRUST,,,withdrawn,2010-12-01,,,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-01,3,duplicate of a higher-information row for the same symbol+date
+"VERDE RESOURCES, INC.",,,filed,2010-12-02,,80000.0,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-02,2,duplicate of a higher-information row for the same symbol+date
+ELECTRIC TRACTOR CORP.,,,withdrawn,2010-12-02,,,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-02,3,duplicate of a higher-information row for the same symbol+date
+MEGA WORLD FOOD HOLDING CO,,,filed,2010-12-08,,50000.0,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-08,2,duplicate of a higher-information row for the same symbol+date
+"WHITE FOX VENTURES, INC.",,,withdrawn,2010-12-10,,,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-10,3,duplicate of a higher-information row for the same symbol+date
+LYONS LIQUORS INC.,,,filed,2010-12-14,,116000.0,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-14,2,duplicate of a higher-information row for the same symbol+date
+GUARDIAN 8 HOLDINGS,,,withdrawn,2010-12-14,,,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-14,3,duplicate of a higher-information row for the same symbol+date
+"FRAC TECH SERVICES, INC.",,,withdrawn,2010-12-15,,,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-15,3,duplicate of a higher-information row for the same symbol+date
+"WAVE2WAVE COMMUNICATIONS, INC.",,,withdrawn,2010-12-16,,,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-16,3,duplicate of a higher-information row for the same symbol+date
+"AVARUS, INC.",,,withdrawn,2010-12-16,,,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-16,3,duplicate of a higher-information row for the same symbol+date
+GEORGETOWN CORP,,,filed,2010-12-29,,17500.0,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-29,2,duplicate of a higher-information row for the same symbol+date
+"CITY MEDIA, INC.",,,filed,2010-12-30,,45500.0,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-30,2,duplicate of a higher-information row for the same symbol+date
+"CHINA DREDGING GROUP CO., LTD.",,,withdrawn,2010-12-30,,,,,,2010-12-01_2010-12-31.json,2026-09-09T01:22:57.493023+00:00,sym:nan|2010-12-30,3,duplicate of a higher-information row for the same symbol+date
+GREENWICH KAHALA AVIATION LTD.,,,withdrawn,2011-01-06,,,,,,2011-01-01_2011-01-31.json,2026-09-09T01:22:59.469223+00:00,sym:nan|2011-01-06,3,duplicate of a higher-information row for the same symbol+date
+AFRICA GROWTH CORP,,,withdrawn,2011-01-06,,,,,,2011-01-01_2011-01-31.json,2026-09-09T01:22:59.469223+00:00,sym:nan|2011-01-06,3,duplicate of a higher-information row for the same symbol+date
+DELAINE CORP,,,filed,2011-01-25,,60000.0,,,,2011-01-01_2011-01-31.json,2026-09-09T01:22:59.469223+00:00,sym:nan|2011-01-25,2,duplicate of a higher-information row for the same symbol+date
+CONEX MD INC,,,filed,2011-01-27,,347550.0,,,,2011-01-01_2011-01-31.json,2026-09-09T01:22:59.469223+00:00,sym:nan|2011-01-27,2,duplicate of a higher-information row for the same symbol+date
+GRAYSTONE CO,,,filed,2011-01-27,,500000.0,,,,2011-01-01_2011-01-31.json,2026-09-09T01:22:59.469223+00:00,sym:nan|2011-01-27,2,duplicate of a higher-information row for the same symbol+date
+LION LAM DIAMOND INC,,,filed,2011-02-08,,250000.0,,,,2011-02-01_2011-02-28.json,2026-09-09T01:23:01.482955+00:00,sym:nan|2011-02-08,2,duplicate of a higher-information row for the same symbol+date
+ALLIANCE PETROLEUM CORP,,,filed,2011-02-08,,910000.0,,,,2011-02-01_2011-02-28.json,2026-09-09T01:23:01.482955+00:00,sym:nan|2011-02-08,2,duplicate of a higher-information row for the same symbol+date
+"ADS TACTICAL, INC.",,,withdrawn,2011-02-08,,,,,,2011-02-01_2011-02-28.json,2026-09-09T01:23:01.482955+00:00,sym:nan|2011-02-08,3,duplicate of a higher-information row for the same symbol+date
+BIOPOWER OPERATIONS CORP,,,filed,2011-02-09,,13625000.0,,,,2011-02-01_2011-02-28.json,2026-09-09T01:23:01.482955+00:00,sym:nan|2011-02-09,2,duplicate of a higher-information row for the same symbol+date
+"GREAT WHITE ENERGY SERVICES, INC.",,,withdrawn,2011-02-11,,,,,,2011-02-01_2011-02-28.json,2026-09-09T01:23:01.482955+00:00,sym:nan|2011-02-11,3,duplicate of a higher-information row for the same symbol+date
+"FORECLOSURE VENTURE CAPITAL, INC.",,,withdrawn,2011-02-14,,,,,,2011-02-01_2011-02-28.json,2026-09-09T01:23:01.482955+00:00,sym:nan|2011-02-14,3,duplicate of a higher-information row for the same symbol+date
+DREWRYS BREWING CO,,,filed,2011-04-05,,300000.0,,,,2011-04-01_2011-04-30.json,2026-09-09T01:23:05.727873+00:00,sym:nan|2011-04-05,2,duplicate of a higher-information row for the same symbol+date
+"STAFFMARK HOLDINGS, INC.",,,withdrawn,2011-04-12,,,,,,2011-04-01_2011-04-30.json,2026-09-09T01:23:05.727873+00:00,sym:nan|2011-04-12,3,duplicate of a higher-information row for the same symbol+date
+"INTERNATIONAL SAFETY GROUP, INC.",,,filed,2011-04-14,,90000.0,,,,2011-04-01_2011-04-30.json,2026-09-09T01:23:05.727873+00:00,sym:nan|2011-04-14,2,duplicate of a higher-information row for the same symbol+date
+SALIENT PRODUCTS CORP,,,filed,2011-04-14,,40000.0,,,,2011-04-01_2011-04-30.json,2026-09-09T01:23:05.727873+00:00,sym:nan|2011-04-14,2,duplicate of a higher-information row for the same symbol+date
+"ADVANCED CLOUD STORAGE, INC.",,,filed,2011-04-15,,200000.0,,,,2011-04-01_2011-04-30.json,2026-09-09T01:23:05.727873+00:00,sym:nan|2011-04-15,2,duplicate of a higher-information row for the same symbol+date
+INFINITY CHINA 2 ACQUISITION CORP,,,withdrawn,2011-04-18,,,,,,2011-04-01_2011-04-30.json,2026-09-09T01:23:05.727873+00:00,sym:nan|2011-04-18,3,duplicate of a higher-information row for the same symbol+date
+ZIPPY BAGS INC.,,,filed,2011-04-22,,8000.0,,,,2011-04-01_2011-04-30.json,2026-09-09T01:23:05.727873+00:00,sym:nan|2011-04-22,2,duplicate of a higher-information row for the same symbol+date
+"SHOP EAT LIVE, INC.",,,filed,2011-04-22,,8000.0,,,,2011-04-01_2011-04-30.json,2026-09-09T01:23:05.727873+00:00,sym:nan|2011-04-22,2,duplicate of a higher-information row for the same symbol+date
+EXCEL CORP,,,filed,2011-04-25,,400000.0,,,,2011-04-01_2011-04-30.json,2026-09-09T01:23:05.727873+00:00,sym:nan|2011-04-25,2,duplicate of a higher-information row for the same symbol+date
+"WPX ENERGY, INC.",,,withdrawn,2011-04-29,,,,,,2011-04-01_2011-04-30.json,2026-09-09T01:23:05.727873+00:00,sym:nan|2011-04-29,3,duplicate of a higher-information row for the same symbol+date
+"ORCHID ISLAND CAPITAL, INC.",,,withdrawn,2011-05-03,,,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-03,3,duplicate of a higher-information row for the same symbol+date
+"SINOCOM PHARMACEUTICAL, INC.",,,withdrawn,2011-05-05,,,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-05,3,duplicate of a higher-information row for the same symbol+date
+"SINOCOM PHARMACEUTICAL, INC.",,,withdrawn,2011-05-05,,,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-05,3,duplicate of a higher-information row for the same symbol+date
+NOBAO RENEWABLE ENERGY HOLDINGS LTD,,,withdrawn,2011-05-06,,,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-06,3,duplicate of a higher-information row for the same symbol+date
+VANGUARD ENERGY CORP,,,filed,2011-05-13,,4800000.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-13,2,duplicate of a higher-information row for the same symbol+date
+"JH DESIGNS, INC.",,,filed,2011-05-13,,234000.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-13,2,duplicate of a higher-information row for the same symbol+date
+"CHINA UNITED INSURANCE SERVICE, INC.",,,filed,2011-05-13,,15000.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-13,2,duplicate of a higher-information row for the same symbol+date
+"PUISSANT INDUSTRIES, INC.",,,filed,2011-05-13,,214000.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-13,2,duplicate of a higher-information row for the same symbol+date
+"MIDLAND STATES BANCORP, INC.",,,withdrawn,2011-05-13,,,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-13,3,duplicate of a higher-information row for the same symbol+date
+CHINA FITNESS & BEAUTY INC.,,,filed,2011-05-16,,4919.39,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-16,2,duplicate of a higher-information row for the same symbol+date
+VALUE SUISSE INTERNATIONAL INVESTMENTS,,,filed,2011-05-16,,1987400.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-16,2,duplicate of a higher-information row for the same symbol+date
+"DEVELOPMENT CAPITAL GROUP, INC.",,,filed,2011-05-16,,110000.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-16,2,duplicate of a higher-information row for the same symbol+date
+"I AM SMART TECHNOLOGY, INC",,,filed,2011-05-16,,18000000.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-16,2,duplicate of a higher-information row for the same symbol+date
+"IMMOBILIARE GLOBAL INVESTMENTS, INC.",,,filed,2011-05-16,,12500000.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-16,2,duplicate of a higher-information row for the same symbol+date
+"PRESCOTT HOLDINGS, INC.",,,withdrawn,2011-05-16,,,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-16,3,duplicate of a higher-information row for the same symbol+date
+BANCTEC INC,,,withdrawn,2011-05-16,,,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-16,3,duplicate of a higher-information row for the same symbol+date
+"PHARMA INVESTING NEWS, INC.",,,filed,2011-05-17,,280000.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-17,2,duplicate of a higher-information row for the same symbol+date
+M STREET GALLERY INC.,,,filed,2011-05-23,,8100.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-23,2,duplicate of a higher-information row for the same symbol+date
+SUPER LIGHT INC.,,,filed,2011-05-23,,35500.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-23,2,duplicate of a higher-information row for the same symbol+date
+ISOFT INTERNATIONAL INC.,,,filed,2011-05-24,,50000.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-24,2,duplicate of a higher-information row for the same symbol+date
+"MASCOT PROPERTIES, INC.",,,filed,2011-05-24,,242080.0,,,,2011-05-01_2011-05-31.json,2026-09-09T01:23:07.478152+00:00,sym:nan|2011-05-24,2,duplicate of a higher-information row for the same symbol+date
+"VIRTUAL LEARNING COMPANY, INC.",,,filed,2011-06-02,,500000.0,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-02,2,duplicate of a higher-information row for the same symbol+date
+"ADELT DESIGN, INC.",,,filed,2011-06-03,,8000.0,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-03,2,duplicate of a higher-information row for the same symbol+date
+RSR DEVELOPMENT CORP.,,,filed,2011-06-03,,9999900.0,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-03,2,duplicate of a higher-information row for the same symbol+date
+"REGIUS THOROUGHBREDS, INC.",,,withdrawn,2011-06-03,,,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-03,3,duplicate of a higher-information row for the same symbol+date
+ENTEGRA FINANCIAL CORP.,,,withdrawn,2011-06-10,,,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-10,3,duplicate of a higher-information row for the same symbol+date
+PREMIER BIOMEDICAL INC,,,filed,2011-06-14,,418600.0,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-14,2,duplicate of a higher-information row for the same symbol+date
+INDIA ECOMMERCE CORP,,,filed,2011-06-14,,121400.0,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-14,2,duplicate of a higher-information row for the same symbol+date
+"REAL ESTATE CONTACTS, INC.",,,filed,2011-06-15,,1803000.0,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-15,2,duplicate of a higher-information row for the same symbol+date
+PROPANC HEALTH GROUP CORP,,,filed,2011-06-23,,29074761.0,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-23,2,duplicate of a higher-information row for the same symbol+date
+"YANEX GROUP, INC.",,,filed,2011-06-27,,75000.0,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-27,2,duplicate of a higher-information row for the same symbol+date
+"MOBILE VAULT, INC.",,,filed,2011-06-27,,30000.0,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-27,2,duplicate of a higher-information row for the same symbol+date
+J & P REALTY TRUST,,,withdrawn,2011-06-28,,,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-28,3,duplicate of a higher-information row for the same symbol+date
+GETAWAY2GOLFONLINE.COM,,,filed,2011-06-29,,18000.0,,,,2011-06-01_2011-06-30.json,2026-09-09T01:23:09.479657+00:00,sym:nan|2011-06-29,2,duplicate of a higher-information row for the same symbol+date
+"WESTPOINT ENERGY, INC.",,,filed,2011-07-01,,574000.0,,,,2011-07-01_2011-07-31.json,2026-09-09T01:23:11.490911+00:00,sym:nan|2011-07-01,2,duplicate of a higher-information row for the same symbol+date
+NYC MODA INC,,,filed,2011-07-12,,80000.0,,,,2011-07-01_2011-07-31.json,2026-09-09T01:23:11.490911+00:00,sym:nan|2011-07-12,2,duplicate of a higher-information row for the same symbol+date
+PENOLA INC.,,,filed,2011-07-13,,116000.0,,,,2011-07-01_2011-07-31.json,2026-09-09T01:23:11.490911+00:00,sym:nan|2011-07-13,2,duplicate of a higher-information row for the same symbol+date
+CLIMATE ESCO LTD.,,,filed,2011-07-13,,1560500.0,,,,2011-07-01_2011-07-31.json,2026-09-09T01:23:11.490911+00:00,sym:nan|2011-07-13,2,duplicate of a higher-information row for the same symbol+date
+"AUTO HOME LOCK, INC.",,,filed,2011-07-26,,60000.0,,,,2011-07-01_2011-07-31.json,2026-09-09T01:23:11.490911+00:00,sym:nan|2011-07-26,2,duplicate of a higher-information row for the same symbol+date
+GLACIER WATER SERVICES INC,,,withdrawn,2011-07-29,,,,,,2011-07-01_2011-07-31.json,2026-09-09T01:23:11.490911+00:00,sym:nan|2011-07-29,3,duplicate of a higher-information row for the same symbol+date
+LIFETECH INDUSTRIES INC.,,,filed,2011-08-01,,250000.0,,,,2011-08-01_2011-08-31.json,2026-09-09T01:23:13.499649+00:00,sym:nan|2011-08-01,2,duplicate of a higher-information row for the same symbol+date
+"ALTERNATIVE ENERGY MEDIA, INC.",,,filed,2011-08-09,,25000.0,,,,2011-08-01_2011-08-31.json,2026-09-09T01:23:13.499649+00:00,sym:nan|2011-08-09,2,duplicate of a higher-information row for the same symbol+date
+DREAM HOMES LTD,,,filed,2011-08-12,,5000000.0,,,,2011-08-01_2011-08-31.json,2026-09-09T01:23:13.499649+00:00,sym:nan|2011-08-12,2,duplicate of a higher-information row for the same symbol+date
+KWEST INVESTMENT INTERNATIONAL LTD.,,,filed,2011-08-16,,134500.0,,,,2011-08-01_2011-08-31.json,2026-09-09T01:23:13.499649+00:00,sym:nan|2011-08-16,2,duplicate of a higher-information row for the same symbol+date
+"DWARF TECHNOLOGY HOLDINGS, INC.",,,filed,2011-08-16,,19500.0,,,,2011-08-01_2011-08-31.json,2026-09-09T01:23:13.499649+00:00,sym:nan|2011-08-16,2,duplicate of a higher-information row for the same symbol+date
+"GOFF, CORP",,,filed,2011-08-26,,70900.0,,,,2011-08-01_2011-08-31.json,2026-09-09T01:23:13.499649+00:00,sym:nan|2011-08-26,2,duplicate of a higher-information row for the same symbol+date
+FORCE10 NETWORKS INC,,,withdrawn,2011-08-26,,,,,,2011-08-01_2011-08-31.json,2026-09-09T01:23:13.499649+00:00,sym:nan|2011-08-26,3,duplicate of a higher-information row for the same symbol+date
+"DYNAMIC NUTRA ENTERPRISES HOLDINGS, INC.",,,filed,2011-08-31,,204000.0,,,,2011-08-01_2011-08-31.json,2026-09-09T01:23:13.499649+00:00,sym:nan|2011-08-31,2,duplicate of a higher-information row for the same symbol+date
+SAN LOTUS HOLDING INC,,,filed,2011-09-06,,98800.0,,,,2011-09-01_2011-09-30.json,2026-09-09T01:23:15.485309+00:00,sym:nan|2011-09-06,2,duplicate of a higher-information row for the same symbol+date
+BOOKEDBYUS INC.,,,filed,2011-09-07,,1582000.0,,,,2011-09-01_2011-09-30.json,2026-09-09T01:23:15.485309+00:00,sym:nan|2011-09-07,2,duplicate of a higher-information row for the same symbol+date
+SPECIALIZER INC.,,,filed,2011-09-07,,50000.0,,,,2011-09-01_2011-09-30.json,2026-09-09T01:23:15.485309+00:00,sym:nan|2011-09-07,2,duplicate of a higher-information row for the same symbol+date
+"NYCAMEDIA, INC.",,,filed,2011-09-07,,500000.0,,,,2011-09-01_2011-09-30.json,2026-09-09T01:23:15.485309+00:00,sym:nan|2011-09-07,2,duplicate of a higher-information row for the same symbol+date
+"REMMINGTON ENTERPRISES, INC.",,,filed,2011-09-08,,24000.0,,,,2011-09-01_2011-09-30.json,2026-09-09T01:23:15.485309+00:00,sym:nan|2011-09-08,2,duplicate of a higher-information row for the same symbol+date
+SAFE DYNAMICS CORP,,,filed,2011-09-13,,75000.0,,,,2011-09-01_2011-09-30.json,2026-09-09T01:23:15.485309+00:00,sym:nan|2011-09-13,2,duplicate of a higher-information row for the same symbol+date
+JAMES RIVER HOLDING CORP.,,,filed,2011-09-13,,450000.0,,,,2011-09-01_2011-09-30.json,2026-09-09T01:23:15.485309+00:00,sym:nan|2011-09-13,2,duplicate of a higher-information row for the same symbol+date
+BLUEARC CORP,,,withdrawn,2011-09-16,,,,,,2011-09-01_2011-09-30.json,2026-09-09T01:23:15.485309+00:00,sym:nan|2011-09-16,3,duplicate of a higher-information row for the same symbol+date
+"EAST SHORE DISTRIBUTORS, INC.",,,filed,2011-09-19,,375500.0,,,,2011-09-01_2011-09-30.json,2026-09-09T01:23:15.485309+00:00,sym:nan|2011-09-19,2,duplicate of a higher-information row for the same symbol+date
+TRELLIS EARTH PRODUCTS INC,,,filed,2011-09-23,,8150000.0,,,,2011-09-01_2011-09-30.json,2026-09-09T01:23:15.485309+00:00,sym:nan|2011-09-23,2,duplicate of a higher-information row for the same symbol+date
+"ISLAND LANGUAGE STUDIES, INC.",,,filed,2011-10-04,,20150.0,,,,2011-10-01_2011-10-31.json,2026-09-09T01:23:17.476198+00:00,sym:nan|2011-10-04,2,duplicate of a higher-information row for the same symbol+date
+PIXTEL GROUP LTD.,,,filed,2011-10-12,,3600000.0,,,,2011-10-01_2011-10-31.json,2026-09-09T01:23:17.476198+00:00,sym:nan|2011-10-12,2,duplicate of a higher-information row for the same symbol+date
+DAS GLOBAL CAPITAL CORP,,,filed,2011-10-20,,60000.0,,,,2011-10-01_2011-10-31.json,2026-09-09T01:23:17.476198+00:00,sym:nan|2011-10-20,2,duplicate of a higher-information row for the same symbol+date
+STEP OUT INC.,,,filed,2011-10-26,,20000.0,,,,2011-10-01_2011-10-31.json,2026-09-09T01:23:17.476198+00:00,sym:nan|2011-10-26,2,duplicate of a higher-information row for the same symbol+date
+"AMERICAN BUSINESS SERVICES, INC.",,,filed,2011-10-26,,224000.0,,,,2011-10-01_2011-10-31.json,2026-09-09T01:23:17.476198+00:00,sym:nan|2011-10-26,2,duplicate of a higher-information row for the same symbol+date
+SAVING ENERGY SOLAR INC.,,,withdrawn,2011-10-28,,,,,,2011-10-01_2011-10-31.json,2026-09-09T01:23:17.476198+00:00,sym:nan|2011-10-28,3,duplicate of a higher-information row for the same symbol+date
+ABC RECORDS MANAGEMENT & DATA STORAGE INC.,,,filed,2011-11-04,,19600.0,,,,2011-11-01_2011-11-30.json,2026-09-09T01:23:19.482028+00:00,sym:nan|2011-11-04,2,duplicate of a higher-information row for the same symbol+date
+"SOUTH VALLEY BANCORP, INC.",,,withdrawn,2011-11-07,,,,,,2011-11-01_2011-11-30.json,2026-09-09T01:23:19.482028+00:00,sym:nan|2011-11-07,3,duplicate of a higher-information row for the same symbol+date
+CHINA XINGBANG INDUSTRY GROUP INC.,,,filed,2011-11-18,,2009600.0,,,,2011-11-01_2011-11-30.json,2026-09-09T01:23:19.482028+00:00,sym:nan|2011-11-18,2,duplicate of a higher-information row for the same symbol+date
+OLIE INC,,,filed,2011-11-29,,40000.0,,,,2011-11-01_2011-11-30.json,2026-09-09T01:23:19.482028+00:00,sym:nan|2011-11-29,2,duplicate of a higher-information row for the same symbol+date
+WHEELCHAIR ADL SOLUTIONS,,,filed,2011-12-09,,1753250.0,,,,2011-12-01_2011-12-31.json,2026-09-09T01:23:21.829151+00:00,sym:nan|2011-12-09,2,duplicate of a higher-information row for the same symbol+date
+SKOOKUM SAFETY SOLUTIONS CORP.,,,filed,2011-12-13,,30000.0,,,,2011-12-01_2011-12-31.json,2026-09-09T01:23:21.829151+00:00,sym:nan|2011-12-13,2,duplicate of a higher-information row for the same symbol+date
+"IVOICEIDEAS, INC.",,,filed,2011-12-13,,500000.0,,,,2011-12-01_2011-12-31.json,2026-09-09T01:23:21.829151+00:00,sym:nan|2011-12-13,2,duplicate of a higher-information row for the same symbol+date
+L3 CORP,,,filed,2011-12-14,,200000.0,,,,2011-12-01_2011-12-31.json,2026-09-09T01:23:21.829151+00:00,sym:nan|2011-12-14,2,duplicate of a higher-information row for the same symbol+date
+"CONTEMPORARY SIGNED BOOKS, INC.",,,filed,2011-12-14,,260000.0,,,,2011-12-01_2011-12-31.json,2026-09-09T01:23:21.829151+00:00,sym:nan|2011-12-14,2,duplicate of a higher-information row for the same symbol+date
+"COMP SERVICES, INC.",,,filed,2011-12-20,,36950.0,,,,2011-12-01_2011-12-31.json,2026-09-09T01:23:21.829151+00:00,sym:nan|2011-12-20,2,duplicate of a higher-information row for the same symbol+date
+GREENWIND NRG INC,,,filed,2011-12-23,,100000.0,,,,2011-12-01_2011-12-31.json,2026-09-09T01:23:21.829151+00:00,sym:nan|2011-12-23,2,duplicate of a higher-information row for the same symbol+date
+PACIFIC MONUMENT ACQUISITION CORP,,,filed,2011-12-23,,46000000.0,,,,2011-12-01_2011-12-31.json,2026-09-09T01:23:21.829151+00:00,sym:nan|2011-12-23,2,duplicate of a higher-information row for the same symbol+date
+"HOMETRUST BANCSHARES, INC.",,,filed,2011-12-29,,195730000.0,,,,2011-12-01_2011-12-31.json,2026-09-09T01:23:21.829151+00:00,sym:nan|2011-12-29,2,duplicate of a higher-information row for the same symbol+date
+LUCY'S WATER WORLD INC,,,filed,2012-01-13,,20000.0,,,,2012-01-01_2012-01-31.json,2026-09-09T01:23:23.479562+00:00,sym:nan|2012-01-13,2,duplicate of a higher-information row for the same symbol+date
+HEALTHCARE CORP OF AMERICA,,,withdrawn,2012-01-13,,,,,,2012-01-01_2012-01-31.json,2026-09-09T01:23:23.479562+00:00,sym:nan|2012-01-13,3,duplicate of a higher-information row for the same symbol+date
+A&C UNITED AGRICULTURE DEVELOPING INC.,,,filed,2012-01-19,,861000.0,,,,2012-01-01_2012-01-31.json,2026-09-09T01:23:23.479562+00:00,sym:nan|2012-01-19,2,duplicate of a higher-information row for the same symbol+date
+"ENVIRO FUELS MANUFACTURING, INC.",,,withdrawn,2012-01-19,,,,,,2012-01-01_2012-01-31.json,2026-09-09T01:23:23.479562+00:00,sym:nan|2012-01-19,3,duplicate of a higher-information row for the same symbol+date
+"ANGLESEA ENTERPRISES, INC.",,,filed,2012-01-24,,10330.0,,,,2012-01-01_2012-01-31.json,2026-09-09T01:23:23.479562+00:00,sym:nan|2012-01-24,2,duplicate of a higher-information row for the same symbol+date
+"DECHAN II, INC.",,,filed,2012-01-27,,25000.0,,,,2012-01-01_2012-01-31.json,2026-09-09T01:23:23.479562+00:00,sym:nan|2012-01-27,2,duplicate of a higher-information row for the same symbol+date
+"GSP-2, INC.",,,filed,2012-01-27,,2971772.0,,,,2012-01-01_2012-01-31.json,2026-09-09T01:23:23.479562+00:00,sym:nan|2012-01-27,2,duplicate of a higher-information row for the same symbol+date
+"BRAND ENERGY, INC.",,,withdrawn,2012-01-27,,,,,,2012-01-01_2012-01-31.json,2026-09-09T01:23:23.479562+00:00,sym:nan|2012-01-27,3,duplicate of a higher-information row for the same symbol+date
+YOUNAN PROPERTIES INC,,,withdrawn,2012-01-31,,,,,,2012-01-01_2012-01-31.json,2026-09-09T01:23:23.479562+00:00,sym:nan|2012-01-31,3,duplicate of a higher-information row for the same symbol+date
+WATTLES ACQUISITION CORP,,,withdrawn,2012-01-31,,,,,,2012-01-01_2012-01-31.json,2026-09-09T01:23:23.479562+00:00,sym:nan|2012-01-31,3,duplicate of a higher-information row for the same symbol+date
+INTELEPEER INC,,,withdrawn,2012-02-01,,,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-01,3,duplicate of a higher-information row for the same symbol+date
+REPLY INC,,,withdrawn,2012-02-01,,,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-01,3,duplicate of a higher-information row for the same symbol+date
+VANTONE REALTY CORP,,,filed,2012-02-02,,100000.0,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-02,2,duplicate of a higher-information row for the same symbol+date
+GLOBAL GROUP ENTERPRISES CORP.,,,filed,2012-02-02,,34500.0,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-02,2,duplicate of a higher-information row for the same symbol+date
+MED BIOGENE INC.,,,withdrawn,2012-02-02,,,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-02,3,duplicate of a higher-information row for the same symbol+date
+MARATHON REAL ESTATE MORTGAGE TRUST,,,withdrawn,2012-02-02,,,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-02,3,duplicate of a higher-information row for the same symbol+date
+"MARATHON REAL ESTATE FINANCE, INC.",,,withdrawn,2012-02-02,,,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-02,3,duplicate of a higher-information row for the same symbol+date
+"BLUE VICTORY HOLDINGS, INC.",,,withdrawn,2012-02-06,,,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-06,3,duplicate of a higher-information row for the same symbol+date
+CALLIDUS CORP,,,withdrawn,2012-02-10,,,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-10,3,duplicate of a higher-information row for the same symbol+date
+GREENPOWER INTERNATIONAL GROUP LTD,,,filed,2012-02-13,,44000000.0,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-13,2,duplicate of a higher-information row for the same symbol+date
+CALDERA PHARMACEUTICALS INC,,,filed,2012-02-14,,7037345.0,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-14,2,duplicate of a higher-information row for the same symbol+date
+"RESTORATION INDUSTRIES, INC.",,,filed,2012-02-14,,200000.0,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-14,2,duplicate of a higher-information row for the same symbol+date
+"ECM REALTY TRUST, INC.",,,withdrawn,2012-02-14,,,,,,2012-02-01_2012-02-29.json,2026-09-09T01:23:25.492701+00:00,sym:nan|2012-02-14,3,duplicate of a higher-information row for the same symbol+date
+MONEYMINDING INTERNATIONAL CORP,,,withdrawn,2012-03-01,,,,,,2012-03-01_2012-03-31.json,2026-09-09T01:23:27.530822+00:00,sym:nan|2012-03-01,3,duplicate of a higher-information row for the same symbol+date
+SEVILLE VENTURES CORP,,,filed,2012-03-02,,245000.0,,,,2012-03-01_2012-03-31.json,2026-09-09T01:23:27.530822+00:00,sym:nan|2012-03-02,2,duplicate of a higher-information row for the same symbol+date
+RECURSOS MONTANA S.A.,,,filed,2012-03-02,,60000.0,,,,2012-03-01_2012-03-31.json,2026-09-09T01:23:27.530822+00:00,sym:nan|2012-03-02,2,duplicate of a higher-information row for the same symbol+date
+ARGOS THERAPEUTICS INC,,,withdrawn,2012-03-06,,,,,,2012-03-01_2012-03-31.json,2026-09-09T01:23:27.530822+00:00,sym:nan|2012-03-06,3,duplicate of a higher-information row for the same symbol+date
+"MEETINGHOUSE BANCORP, INC.",,,filed,2012-03-09,,5750000.0,,,,2012-03-01_2012-03-31.json,2026-09-09T01:23:27.530822+00:00,sym:nan|2012-03-09,2,duplicate of a higher-information row for the same symbol+date
+PENNY AUCTION SOLUTIONS INC,,,withdrawn,2012-03-15,,,,,,2012-03-01_2012-03-31.json,2026-09-09T01:23:27.530822+00:00,sym:nan|2012-03-15,3,duplicate of a higher-information row for the same symbol+date
+SAFENET HOLDING CORP,,,withdrawn,2012-03-16,,,,,,2012-03-01_2012-03-31.json,2026-09-09T01:23:27.530822+00:00,sym:nan|2012-03-16,3,duplicate of a higher-information row for the same symbol+date
+"BIOHORIZONS, INC.",,,withdrawn,2012-03-20,,,,,,2012-03-01_2012-03-31.json,2026-09-09T01:23:27.530822+00:00,sym:nan|2012-03-20,3,duplicate of a higher-information row for the same symbol+date
+GLADSTONE LAND CORP,,,withdrawn,2012-03-27,,,,,,2012-03-01_2012-03-31.json,2026-09-09T01:23:27.530822+00:00,sym:nan|2012-03-27,3,duplicate of a higher-information row for the same symbol+date
+"ADMA BIOLOGICS, INC.",,,filed,2012-03-29,,22643799.0,,,,2012-03-01_2012-03-31.json,2026-09-09T01:23:27.530822+00:00,sym:nan|2012-03-29,2,duplicate of a higher-information row for the same symbol+date
+KOLASCO CORP,,,filed,2012-03-29,,48000.0,,,,2012-03-01_2012-03-31.json,2026-09-09T01:23:27.530822+00:00,sym:nan|2012-03-29,2,duplicate of a higher-information row for the same symbol+date
+NEXSAN CORP,,,withdrawn,2012-04-02,,,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-02,3,duplicate of a higher-information row for the same symbol+date
+"BRAZIL MINERALS, INC.",,,filed,2012-04-06,,52800.0,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-06,2,duplicate of a higher-information row for the same symbol+date
+"EMPIRE GLOBAL GAMING, INC.",,,withdrawn,2012-04-13,,,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-13,3,duplicate of a higher-information row for the same symbol+date
+BLUE MOUNTAIN ECO TOURS INC.,,,filed,2012-04-25,,152050.0,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-25,2,duplicate of a higher-information row for the same symbol+date
+CHARDAN METROPOL ACQUISITION CORP.,,,filed,2012-04-25,,46000000.0,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-25,2,duplicate of a higher-information row for the same symbol+date
+PRONTO CORP.,,,filed,2012-04-26,,75000.0,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-26,2,duplicate of a higher-information row for the same symbol+date
+"ESSENSE WATER, INC.",,,filed,2012-04-26,,231500.0,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-26,2,duplicate of a higher-information row for the same symbol+date
+ENERKEM INC.,,,withdrawn,2012-04-26,,,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-26,3,duplicate of a higher-information row for the same symbol+date
+BRIGHTSTAR CORP.,,,withdrawn,2012-04-26,,,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-26,3,duplicate of a higher-information row for the same symbol+date
+NORSTRA ENERGY INC,,,filed,2012-04-30,,60000.0,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-30,2,duplicate of a higher-information row for the same symbol+date
+"MADISON VENTURE CAPITAL GROUP, INC.",,,withdrawn,2012-04-30,,,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-30,3,duplicate of a higher-information row for the same symbol+date
+"MADISON ACQUISITION VENTURES, INC.",,,withdrawn,2012-04-30,,,,,,2012-04-01_2012-04-30.json,2026-09-09T01:23:29.515189+00:00,sym:nan|2012-04-30,3,duplicate of a higher-information row for the same symbol+date
+WINCHESTER HOLDING GROUP,,,filed,2012-05-07,,31500.0,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-07,2,duplicate of a higher-information row for the same symbol+date
+PN MED GROUP INC,,,filed,2012-05-08,,100000.0,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-08,2,duplicate of a higher-information row for the same symbol+date
+"CUSTOMERS BANCORP, INC.",,,withdrawn,2012-05-08,,,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-08,3,duplicate of a higher-information row for the same symbol+date
+"ALON BRANDS, INC.",,,withdrawn,2012-05-08,,,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-08,3,duplicate of a higher-information row for the same symbol+date
+FTL VENTURES CORP,,,filed,2012-05-09,,250000.0,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-09,2,duplicate of a higher-information row for the same symbol+date
+CHINAMERICA ANDY MOVIE ENTERTAINMENT MEDIA CO.,,,filed,2012-05-09,,56564.2,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-09,2,duplicate of a higher-information row for the same symbol+date
+UNION AGRICULTURE GROUP CORP.,,,withdrawn,2012-05-14,,,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-14,3,duplicate of a higher-information row for the same symbol+date
+BLUEFIRE EQUIPMENT CORP,,,filed,2012-05-15,,75000.0,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-15,2,duplicate of a higher-information row for the same symbol+date
+"ACCELERA INNOVATIONS, INC.",,,filed,2012-05-22,,66198160.0,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-22,2,duplicate of a higher-information row for the same symbol+date
+"ALLIANCE MEDIA GROUP HOLDINGS, INC.",,,filed,2012-05-23,,5910000.0,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-23,2,duplicate of a higher-information row for the same symbol+date
+MODERN PVC INC,,,filed,2012-05-23,,100000.0,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-23,2,duplicate of a higher-information row for the same symbol+date
+LION CONSULTING GROUP INC.,,,filed,2012-05-23,,100000.0,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-23,2,duplicate of a higher-information row for the same symbol+date
+CYOPTICS INC,,,withdrawn,2012-05-23,,,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-23,3,duplicate of a higher-information row for the same symbol+date
+"SECTOR 5, INC.",,,filed,2012-05-29,,50000.0,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-29,2,duplicate of a higher-information row for the same symbol+date
+FIRST ULB CORP.,,,withdrawn,2012-05-29,,,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-29,3,duplicate of a higher-information row for the same symbol+date
+DANE EXPLORATION INC.,,,filed,2012-05-31,,500000.0,,,,2012-05-01_2012-05-31.json,2026-09-09T01:23:31.492889+00:00,sym:nan|2012-05-31,2,duplicate of a higher-information row for the same symbol+date
+AIM EXPLORATION INC.,,,filed,2012-06-12,,315000.0,,,,2012-06-01_2012-06-30.json,2026-09-09T01:23:33.486247+00:00,sym:nan|2012-06-12,2,duplicate of a higher-information row for the same symbol+date
+"TIM W.E. SGPS, S.A.",,,withdrawn,2012-06-28,,,,,,2012-06-01_2012-06-30.json,2026-09-09T01:23:33.486247+00:00,sym:nan|2012-06-28,3,duplicate of a higher-information row for the same symbol+date
+OXAMEDIA CORP,,,withdrawn,2012-06-29,,,,,,2012-06-01_2012-06-30.json,2026-09-09T01:23:33.486247+00:00,sym:nan|2012-06-29,3,duplicate of a higher-information row for the same symbol+date
+"GALT PETROLEUM, INC.",,,filed,2012-07-10,,1328000.0,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-10,2,duplicate of a higher-information row for the same symbol+date
+BARKING APPLICATIONS CORP,,,filed,2012-07-10,,100000.0,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-10,2,duplicate of a higher-information row for the same symbol+date
+"CANFIELD MEDICAL SUPPLY, INC.",,,filed,2012-07-12,,675000.0,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-12,2,duplicate of a higher-information row for the same symbol+date
+CELPAD INC,,,withdrawn,2012-07-12,,,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-12,3,duplicate of a higher-information row for the same symbol+date
+"ASCOT FUNDING, INC.",,,withdrawn,2012-07-12,,,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-12,3,duplicate of a higher-information row for the same symbol+date
+ABINGTON RESOURCES LTD,,,filed,2012-07-17,,3231610.8,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-17,2,duplicate of a higher-information row for the same symbol+date
+NORIT N.V.,,,withdrawn,2012-07-17,,,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-17,3,duplicate of a higher-information row for the same symbol+date
+NUCO2 INC /DE,,,withdrawn,2012-07-17,,,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-17,3,duplicate of a higher-information row for the same symbol+date
+WERVALUECOUPONS.COM INC.,,,filed,2012-07-18,,25000.0,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-18,2,duplicate of a higher-information row for the same symbol+date
+PLASTER CASTER INC.,,,filed,2012-07-20,,26700.0,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-20,2,duplicate of a higher-information row for the same symbol+date
+"ENOVA INTERNATIONAL, INC.",,,withdrawn,2012-07-25,,,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-25,3,duplicate of a higher-information row for the same symbol+date
+"AMERI METRO, INC.",,,withdrawn,2012-07-25,,,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-25,3,duplicate of a higher-information row for the same symbol+date
+IMPINJ INC,,,withdrawn,2012-07-26,,,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-26,3,duplicate of a higher-information row for the same symbol+date
+PARTY CITY HOLDINGS INC.,,,withdrawn,2012-07-27,,,,,,2012-07-01_2012-07-31.json,2026-09-09T01:23:35.492086+00:00,sym:nan|2012-07-27,3,duplicate of a higher-information row for the same symbol+date
+ROCKFORD OIL CORP,,,filed,2012-08-01,,191000.0,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-01,2,duplicate of a higher-information row for the same symbol+date
+GENOMATICA INC,,,withdrawn,2012-08-02,,,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-02,3,duplicate of a higher-information row for the same symbol+date
+FENDER MUSICAL INSTRUMENTS CORP,,,withdrawn,2012-08-08,,,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-08,3,duplicate of a higher-information row for the same symbol+date
+STERLING CONSOLIDATED CORP,,,filed,2012-08-10,,671061.9,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-10,2,duplicate of a higher-information row for the same symbol+date
+"AMPLITECH GROUP, INC.",,,filed,2012-08-13,,1146740.0,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-13,2,duplicate of a higher-information row for the same symbol+date
+BANCTEC INC,,,withdrawn,2012-08-14,,,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-14,3,duplicate of a higher-information row for the same symbol+date
+"REDFIELD VENTURES, INC",,,filed,2012-08-23,,95000.0,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-23,2,duplicate of a higher-information row for the same symbol+date
+DISCOUNT COUPONS CORP,,,filed,2012-08-23,,2748705.75,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-23,2,duplicate of a higher-information row for the same symbol+date
+CIRCLE BANCORP,,,withdrawn,2012-08-23,,,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-23,3,duplicate of a higher-information row for the same symbol+date
+COMPASS ENERGY HOLDINGS INC,,,withdrawn,2012-08-23,,,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-23,3,duplicate of a higher-information row for the same symbol+date
+"4G ENTERPRISES,INC.",,,filed,2012-08-29,,75000.0,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-29,2,duplicate of a higher-information row for the same symbol+date
+TSEVNI REAL ESTATE GROUP INC,,,withdrawn,2012-08-29,,,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-29,3,duplicate of a higher-information row for the same symbol+date
+"VYRIAN, INC",,,filed,2012-08-30,,3000000.0,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-30,2,duplicate of a higher-information row for the same symbol+date
+"NEUTRON ENERGY, INC.",,,withdrawn,2012-08-30,,,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-30,3,duplicate of a higher-information row for the same symbol+date
+TECHNOLOGY APPLICATIONS INTERNATIONAL CORP,,,filed,2012-08-31,,3000000.0,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-31,2,duplicate of a higher-information row for the same symbol+date
+"ELEVANCE RENEWABLE SCIENCES, INC.",,,withdrawn,2012-08-31,,,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-31,3,duplicate of a higher-information row for the same symbol+date
+MOMENTIVE PERFORMANCE MATERIALS HOLDINGS LLC,,,withdrawn,2012-08-31,,,,,,2012-08-01_2012-08-31.json,2026-09-09T01:23:37.488800+00:00,sym:nan|2012-08-31,3,duplicate of a higher-information row for the same symbol+date
+SERVICE TEAM INC.,,,withdrawn,2012-09-04,,,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-04,3,duplicate of a higher-information row for the same symbol+date
+ARCADE CHINA ACQUISITION CORP,,,withdrawn,2012-09-05,,,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-05,3,duplicate of a higher-information row for the same symbol+date
+"AMC ENTERTAINMENT HOLDINGS, INC.",,,withdrawn,2012-09-05,,,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-05,3,duplicate of a higher-information row for the same symbol+date
+"VIEW ON TWO, INC",,,filed,2012-09-07,,529879.0,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-07,2,duplicate of a higher-information row for the same symbol+date
+TARHEEL BILLBOARD INC,,,filed,2012-09-07,,529879.55,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-07,2,duplicate of a higher-information row for the same symbol+date
+"HACER, INC.",,,withdrawn,2012-09-07,,,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-07,3,duplicate of a higher-information row for the same symbol+date
+"VALER, INC.",,,withdrawn,2012-09-07,,,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-07,3,duplicate of a higher-information row for the same symbol+date
+"NUGEN HOLDINGS, INC.",,,withdrawn,2012-09-07,,,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-07,3,duplicate of a higher-information row for the same symbol+date
+WISHBONE PET PRODUCTS INC.,,,filed,2012-09-11,,30000.0,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-11,2,duplicate of a higher-information row for the same symbol+date
+QUORUM CORP,,,filed,2012-09-12,,42505.0,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-12,2,duplicate of a higher-information row for the same symbol+date
+BOOMER VENTURES INC.,,,filed,2012-09-17,,100000.0,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-17,2,duplicate of a higher-information row for the same symbol+date
+"RELIANT SOLUTIONS, INC.",,,filed,2012-09-18,,50000.0,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-18,2,duplicate of a higher-information row for the same symbol+date
+EASY BUY PLUS INC,,,filed,2012-09-19,,529878.55,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-19,2,duplicate of a higher-information row for the same symbol+date
+BOOK IT LOCAL INC,,,filed,2012-09-19,,529880.0,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-19,2,duplicate of a higher-information row for the same symbol+date
+SEAS INDUSTRIES INC.,,,filed,2012-09-21,,24000.0,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-21,2,duplicate of a higher-information row for the same symbol+date
+SMITH ELECTRIC VEHICLES CORP.,,,withdrawn,2012-09-21,,,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-21,3,duplicate of a higher-information row for the same symbol+date
+"VISALUS, INC.",,,withdrawn,2012-09-26,,,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-26,3,duplicate of a higher-information row for the same symbol+date
+PARABEL INC.,,,withdrawn,2012-09-28,,,,,,2012-09-01_2012-09-30.json,2026-09-09T01:23:39.493625+00:00,sym:nan|2012-09-28,3,duplicate of a higher-information row for the same symbol+date
+POWERSTORM CAPITAL CORP,,,filed,2012-10-10,,13000.0,,,,2012-10-01_2012-10-31.json,2026-09-09T01:23:41.527937+00:00,sym:nan|2012-10-10,2,duplicate of a higher-information row for the same symbol+date
+DALIAN SEAFOOD ENTERPRISES INC.,,,withdrawn,2012-10-10,,,,,,2012-10-01_2012-10-31.json,2026-09-09T01:23:41.527937+00:00,sym:nan|2012-10-10,3,duplicate of a higher-information row for the same symbol+date
+FORTUNE VACATION TRAVEL LTD.,,,withdrawn,2012-10-10,,,,,,2012-10-01_2012-10-31.json,2026-09-09T01:23:41.527937+00:00,sym:nan|2012-10-10,3,duplicate of a higher-information row for the same symbol+date
+"PERFORMANCE SPORTS BRANDS, INC.",,,withdrawn,2012-10-22,,,,,,2012-10-01_2012-10-31.json,2026-09-09T01:23:41.527937+00:00,sym:nan|2012-10-22,3,duplicate of a higher-information row for the same symbol+date
+HBC ACQUISITION CORP,,,withdrawn,2012-11-01,,,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-01,3,duplicate of a higher-information row for the same symbol+date
+"LIQUID SPINS, INC.",,,withdrawn,2012-11-01,,,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-01,3,duplicate of a higher-information row for the same symbol+date
+"IDEAL RESTAURANT GROUP, INC.",,,filed,2012-11-02,,5000000.0,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-02,2,duplicate of a higher-information row for the same symbol+date
+"DIVIO HOLDINGS, CORP.",,,filed,2012-11-07,,90000.0,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-07,2,duplicate of a higher-information row for the same symbol+date
+"VISTA HOLDING GROUP, CORP.",,,filed,2012-11-07,,50000.0,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-07,2,duplicate of a higher-information row for the same symbol+date
+"NEXUS ENTERPRISE SOLUTIONS, INC.",,,filed,2012-11-08,,1873000.0,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-08,2,duplicate of a higher-information row for the same symbol+date
+FIRST RATE STAFFING CORP,,,filed,2012-11-13,,3200000.0,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-13,2,duplicate of a higher-information row for the same symbol+date
+XTREME HEALTHCARE CORP,,,filed,2012-11-13,,15000000.0,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-13,2,duplicate of a higher-information row for the same symbol+date
+ARBOLADA CAPITAL MANAGEMENT CO,,,withdrawn,2012-11-13,,,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-13,3,duplicate of a higher-information row for the same symbol+date
+ONLINE YEARBOOK,,,filed,2012-11-20,,50000.0,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-20,2,duplicate of a higher-information row for the same symbol+date
+THREE RIVERS OPERATING CO INC.,,,withdrawn,2012-11-20,,,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-20,3,duplicate of a higher-information row for the same symbol+date
+PUSH INC,,,withdrawn,2012-11-20,,,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-20,3,duplicate of a higher-information row for the same symbol+date
+SASANI FILMS CORP,,,filed,2012-11-21,,50000.0,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-21,2,duplicate of a higher-information row for the same symbol+date
+"ORO CAPITAL CORPORATION, INC.",,,filed,2012-11-21,,40000.0,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-21,2,duplicate of a higher-information row for the same symbol+date
+DETECTEK INC,,,withdrawn,2012-11-27,,,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-27,3,duplicate of a higher-information row for the same symbol+date
+ONEPOWER SYSTEMS LTD.,,,filed,2012-11-28,,1375000.0,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-28,2,duplicate of a higher-information row for the same symbol+date
+"FTS INTERNATIONAL, INC.",,,withdrawn,2012-11-28,,,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-28,3,duplicate of a higher-information row for the same symbol+date
+PLAINSCAPITAL CORP,,,withdrawn,2012-11-28,,,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-28,3,duplicate of a higher-information row for the same symbol+date
+"FULCRUM BIOENERGY, INC.",,,withdrawn,2012-11-30,,,,,,2012-11-01_2012-11-30.json,2026-09-09T01:23:43.512567+00:00,sym:nan|2012-11-30,3,duplicate of a higher-information row for the same symbol+date
+"ZEWAR JEWELLERY, INC.",,,filed,2012-12-05,,32000.0,,,,2012-12-01_2012-12-31.json,2026-09-09T01:23:45.547692+00:00,sym:nan|2012-12-05,2,duplicate of a higher-information row for the same symbol+date
+"RIB-X PHARMACEUTICALS, INC.",,,withdrawn,2012-12-07,,,,,,2012-12-01_2012-12-31.json,2026-09-09T01:23:45.547692+00:00,sym:nan|2012-12-07,3,duplicate of a higher-information row for the same symbol+date
+VOZ MOBILE CLOUD LTD,,,filed,2012-12-17,,2000000.0,,,,2012-12-01_2012-12-31.json,2026-09-09T01:23:45.547692+00:00,sym:nan|2012-12-17,2,duplicate of a higher-information row for the same symbol+date
+TRANSLATION GROUP INC.,,,filed,2012-12-20,,100000.0,,,,2012-12-01_2012-12-31.json,2026-09-09T01:23:45.547692+00:00,sym:nan|2012-12-20,2,duplicate of a higher-information row for the same symbol+date
+GLORI ENERGY INC.,,,withdrawn,2012-12-20,,,,,,2012-12-01_2012-12-31.json,2026-09-09T01:23:45.547692+00:00,sym:nan|2012-12-20,3,duplicate of a higher-information row for the same symbol+date
+"SPRIZA, INC.",,,filed,2012-12-24,,100000.0,,,,2012-12-01_2012-12-31.json,2026-09-09T01:23:45.547692+00:00,sym:nan|2012-12-24,2,duplicate of a higher-information row for the same symbol+date
+CENTURYTOUCH LTD,,,filed,2012-12-24,,1569500.0,,,,2012-12-01_2012-12-31.json,2026-09-09T01:23:45.547692+00:00,sym:nan|2012-12-24,2,duplicate of a higher-information row for the same symbol+date
+"SINGULEX, INC.",,,withdrawn,2012-12-28,,,,,,2012-12-01_2012-12-31.json,2026-09-09T01:23:45.547692+00:00,sym:nan|2012-12-28,3,duplicate of a higher-information row for the same symbol+date
+"SAFETY-KLEEN, INC",,,withdrawn,2012-12-28,,,,,,2012-12-01_2012-12-31.json,2026-09-09T01:23:45.547692+00:00,sym:nan|2012-12-28,3,duplicate of a higher-information row for the same symbol+date
+LOLLIPOP CORP,,,filed,2013-01-17,,100000.0,,,,2013-01-01_2013-01-31.json,2026-09-09T01:23:47.492187+00:00,sym:nan|2013-01-17,2,duplicate of a higher-information row for the same symbol+date
+AXIOM CORP.,,,filed,2013-01-17,,39650.0,,,,2013-01-01_2013-01-31.json,2026-09-09T01:23:47.492187+00:00,sym:nan|2013-01-17,2,duplicate of a higher-information row for the same symbol+date
+"STARSTREAM ENTERTAINMENT, INC.",,,filed,2013-01-17,,80000.0,,,,2013-01-01_2013-01-31.json,2026-09-09T01:23:47.492187+00:00,sym:nan|2013-01-17,2,duplicate of a higher-information row for the same symbol+date
+"AUTOTRADER GROUP, INC.",,,withdrawn,2013-01-25,,,,,,2013-01-01_2013-01-31.json,2026-09-09T01:23:47.492187+00:00,sym:nan|2013-01-25,3,duplicate of a higher-information row for the same symbol+date
+"PERKINS OIL & GAS, INC.",,,filed,2013-01-30,,50000.0,,,,2013-01-01_2013-01-31.json,2026-09-09T01:23:47.492187+00:00,sym:nan|2013-01-30,2,duplicate of a higher-information row for the same symbol+date
+"LOAD GUARD LOGISTICS, INC.",,,filed,2013-01-30,,142250.0,,,,2013-01-01_2013-01-31.json,2026-09-09T01:23:47.492187+00:00,sym:nan|2013-01-30,2,duplicate of a higher-information row for the same symbol+date
+BALIUS CORP.,,,filed,2013-01-31,,100000.0,,,,2013-01-01_2013-01-31.json,2026-09-09T01:23:47.492187+00:00,sym:nan|2013-01-31,2,duplicate of a higher-information row for the same symbol+date
+SPORT STIX INC.,,,filed,2013-01-31,,1000000.0,,,,2013-01-01_2013-01-31.json,2026-09-09T01:23:47.492187+00:00,sym:nan|2013-01-31,2,duplicate of a higher-information row for the same symbol+date
+"SELECT-TV SOLUTIONS, INC.",,,filed,2013-02-05,,56536.0,,,,2013-02-01_2013-02-28.json,2026-09-09T01:23:49.495088+00:00,sym:nan|2013-02-05,2,duplicate of a higher-information row for the same symbol+date
+"LODGING MEDIA, INC.",,,filed,2013-02-06,,200000.0,,,,2013-02-01_2013-02-28.json,2026-09-09T01:23:49.495088+00:00,sym:nan|2013-02-06,2,duplicate of a higher-information row for the same symbol+date
+ADCHINA LTD.,,,withdrawn,2013-02-11,,,,,,2013-02-01_2013-02-28.json,2026-09-09T01:23:49.495088+00:00,sym:nan|2013-02-11,3,duplicate of a higher-information row for the same symbol+date
+ARMADA WATER ASSETS INC,,,withdrawn,2013-02-12,,,,,,2013-02-01_2013-02-28.json,2026-09-09T01:23:49.495088+00:00,sym:nan|2013-02-12,3,duplicate of a higher-information row for the same symbol+date
+SKM MEDIA CORP.,,,withdrawn,2013-02-14,,,,,,2013-02-01_2013-02-28.json,2026-09-09T01:23:49.495088+00:00,sym:nan|2013-02-14,3,duplicate of a higher-information row for the same symbol+date
+"NDS GROUP HOLDINGS, LTD",,,withdrawn,2013-02-26,,,,,,2013-02-01_2013-02-28.json,2026-09-09T01:23:49.495088+00:00,sym:nan|2013-02-26,3,duplicate of a higher-information row for the same symbol+date
+"CLUTTERBUG MOVE MANAGEMENT, INC.",,,filed,2013-03-14,,15000.0,,,,2013-03-01_2013-03-31.json,2026-09-09T01:23:51.526218+00:00,sym:nan|2013-03-14,2,duplicate of a higher-information row for the same symbol+date
+MASCOMA CORP,,,withdrawn,2013-03-22,,,,,,2013-03-01_2013-03-31.json,2026-09-09T01:23:51.526218+00:00,sym:nan|2013-03-22,3,duplicate of a higher-information row for the same symbol+date
+BAY BRIDGE FOOD & PRODUCE CO,,,filed,2013-03-28,,50000.0,,,,2013-03-01_2013-03-31.json,2026-09-09T01:23:51.526218+00:00,sym:nan|2013-03-28,2,duplicate of a higher-information row for the same symbol+date
+MACDERMID GROUP INC.,,,withdrawn,2013-03-28,,,,,,2013-03-01_2013-03-31.json,2026-09-09T01:23:51.526218+00:00,sym:nan|2013-03-28,3,duplicate of a higher-information row for the same symbol+date
+QGOG CONSTELLATION S.A.,,,withdrawn,2013-03-29,,,,,,2013-03-01_2013-03-31.json,2026-09-09T01:23:51.526218+00:00,sym:nan|2013-03-29,3,duplicate of a higher-information row for the same symbol+date
+TOYS R US INC,,,withdrawn,2013-03-29,,,,,,2013-03-01_2013-03-31.json,2026-09-09T01:23:51.526218+00:00,sym:nan|2013-03-29,3,duplicate of a higher-information row for the same symbol+date
+CEVA INVESTMENTS LTD,,,withdrawn,2013-04-02,,,,,,2013-04-01_2013-04-30.json,2026-09-09T01:23:53.513975+00:00,sym:nan|2013-04-02,3,duplicate of a higher-information row for the same symbol+date
+"MAIDEN LANE JEWELRY, LTD.",,,filed,2013-04-15,,707750.0,,,,2013-04-01_2013-04-30.json,2026-09-09T01:23:53.513975+00:00,sym:nan|2013-04-15,2,duplicate of a higher-information row for the same symbol+date
+"SS/L HOLDINGS, INC.",,,withdrawn,2013-04-17,,,,,,2013-04-01_2013-04-30.json,2026-09-09T01:23:53.513975+00:00,sym:nan|2013-04-17,3,duplicate of a higher-information row for the same symbol+date
+BENBOW HOLDING INC.,,,withdrawn,2013-04-25,,,,,,2013-04-01_2013-04-30.json,2026-09-09T01:23:53.513975+00:00,sym:nan|2013-04-25,3,duplicate of a higher-information row for the same symbol+date
+"NET ELEMENT INTERNATIONAL, INC.",,,filed,2013-04-26,,0.0,,,,2013-04-01_2013-04-30.json,2026-09-09T01:23:53.513975+00:00,sym:nan|2013-04-26,2,duplicate of a higher-information row for the same symbol+date
+"RILEY EXPLORATION GROUP, INC.",,,withdrawn,2013-04-26,,,,,,2013-04-01_2013-04-30.json,2026-09-09T01:23:53.513975+00:00,sym:nan|2013-04-26,3,duplicate of a higher-information row for the same symbol+date
+QUICKSILVER PRODUCTION PARTNERS LP,,,withdrawn,2013-05-07,,,,,,2013-05-01_2013-05-31.json,2026-09-09T01:23:55.499210+00:00,sym:nan|2013-05-07,3,duplicate of a higher-information row for the same symbol+date
+PORT OF CALL ONLINE INC.,,,filed,2013-05-13,,64000.0,,,,2013-05-01_2013-05-31.json,2026-09-09T01:23:55.499210+00:00,sym:nan|2013-05-13,2,duplicate of a higher-information row for the same symbol+date
+"COMHEAR, INC.",,,filed,2013-05-15,,3792825.0,,,,2013-05-01_2013-05-31.json,2026-09-09T01:23:55.499210+00:00,sym:nan|2013-05-15,2,duplicate of a higher-information row for the same symbol+date
+KBS INTERNATIONAL HOLDINGS INC.,,,withdrawn,2013-05-15,,,,,,2013-05-01_2013-05-31.json,2026-09-09T01:23:55.499210+00:00,sym:nan|2013-05-15,3,duplicate of a higher-information row for the same symbol+date
+ASPEN AEROGELS INC,,,withdrawn,2013-05-17,,,,,,2013-05-01_2013-05-31.json,2026-09-09T01:23:55.499210+00:00,sym:nan|2013-05-17,3,duplicate of a higher-information row for the same symbol+date
+MADISON VENTURES INC.,,,filed,2013-05-22,,185000.0,,,,2013-05-01_2013-05-31.json,2026-09-09T01:23:55.499210+00:00,sym:nan|2013-05-22,2,duplicate of a higher-information row for the same symbol+date
+ENVOY GROUP CORP.,,,filed,2013-05-23,,37500.0,,,,2013-05-01_2013-05-31.json,2026-09-09T01:23:55.499210+00:00,sym:nan|2013-05-23,2,duplicate of a higher-information row for the same symbol+date
+"GALENFEHA, INC.",,,filed,2013-05-23,,455000.0,,,,2013-05-01_2013-05-31.json,2026-09-09T01:23:55.499210+00:00,sym:nan|2013-05-23,2,duplicate of a higher-information row for the same symbol+date
+BAUSCH & LOMB HOLDINGS INC,,,withdrawn,2013-05-30,,,,,,2013-05-01_2013-05-31.json,2026-09-09T01:23:55.499210+00:00,sym:nan|2013-05-30,3,duplicate of a higher-information row for the same symbol+date
+"SOELLINGEN ADVISORY GROUP, INC.",,,filed,2013-05-31,,43100.0,,,,2013-05-01_2013-05-31.json,2026-09-09T01:23:55.499210+00:00,sym:nan|2013-05-31,2,duplicate of a higher-information row for the same symbol+date
+APPLIED MEDICAL CORP,,,withdrawn,2013-06-05,,,,,,2013-06-01_2013-06-30.json,2026-09-09T01:23:57.516837+00:00,sym:nan|2013-06-05,3,duplicate of a higher-information row for the same symbol+date
+"AMERI METRO, INC. (FORMERLY YELLOWWOOD)",,,filed,2013-06-13,,5959815.0,,,,2013-06-01_2013-06-30.json,2026-09-09T01:23:57.516837+00:00,sym:nan|2013-06-13,2,duplicate of a higher-information row for the same symbol+date
+TRINSEO S.A.,,,withdrawn,2013-06-14,,,,,,2013-06-01_2013-06-30.json,2026-09-09T01:23:57.516837+00:00,sym:nan|2013-06-14,3,duplicate of a higher-information row for the same symbol+date
+UA GRANITE CORP,,,filed,2013-06-18,,100000.0,,,,2013-06-01_2013-06-30.json,2026-09-09T01:23:57.516837+00:00,sym:nan|2013-06-18,2,duplicate of a higher-information row for the same symbol+date
+TYPE 1 MEDIA INC.,,,filed,2013-07-01,,35000.0,,,,2013-07-01_2013-07-31.json,2026-09-09T01:23:59.519971+00:00,sym:nan|2013-07-01,2,duplicate of a higher-information row for the same symbol+date
+"HEALTHTALK LIVE, INC.",,,filed,2013-07-01,,108000.0,,,,2013-07-01_2013-07-31.json,2026-09-09T01:23:59.519971+00:00,sym:nan|2013-07-01,2,duplicate of a higher-information row for the same symbol+date
+OVATION RESEARCH INC.,,,filed,2013-07-02,,80000.0,,,,2013-07-01_2013-07-31.json,2026-09-09T01:23:59.519971+00:00,sym:nan|2013-07-02,2,duplicate of a higher-information row for the same symbol+date
+CLOUDARY CORP.,,,withdrawn,2013-07-12,,,,,,2013-07-01_2013-07-31.json,2026-09-09T01:23:59.519971+00:00,sym:nan|2013-07-12,3,duplicate of a higher-information row for the same symbol+date
+SUNITY ONLINE ENTERTAINMENT LTD,,,withdrawn,2013-07-15,,,,,,2013-07-01_2013-07-31.json,2026-09-09T01:23:59.519971+00:00,sym:nan|2013-07-15,3,duplicate of a higher-information row for the same symbol+date
+FREEDOM LEAF INC.,,,filed,2013-07-22,,137475.0,,,,2013-07-01_2013-07-31.json,2026-09-09T01:23:59.519971+00:00,sym:nan|2013-07-22,2,duplicate of a higher-information row for the same symbol+date
+"BIOSIG TECHNOLOGIES, INC.",,,filed,2013-07-22,,13411.5,,,,2013-07-01_2013-07-31.json,2026-09-09T01:23:59.519971+00:00,sym:nan|2013-07-22,2,duplicate of a higher-information row for the same symbol+date
+ALTAIR INTERNATIONAL CORP.,,,filed,2013-07-29,,60000.0,,,,2013-07-01_2013-07-31.json,2026-09-09T01:23:59.519971+00:00,sym:nan|2013-07-29,2,duplicate of a higher-information row for the same symbol+date
+"STELLA BLU, INC",,,filed,2013-07-29,,450000.0,,,,2013-07-01_2013-07-31.json,2026-09-09T01:23:59.519971+00:00,sym:nan|2013-07-29,2,duplicate of a higher-information row for the same symbol+date
+MASCOTA RESOURCES CORP.,,,filed,2013-07-31,,14250.0,,,,2013-07-01_2013-07-31.json,2026-09-09T01:23:59.519971+00:00,sym:nan|2013-07-31,2,duplicate of a higher-information row for the same symbol+date
+IROKO PHARMACEUTICALS INC.,,,withdrawn,2013-07-31,,,,,,2013-07-01_2013-07-31.json,2026-09-09T01:23:59.519971+00:00,sym:nan|2013-07-31,3,duplicate of a higher-information row for the same symbol+date
+"LF GEORGE HOLDINGS, INC.",,,filed,2013-08-06,,1286000.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-06,2,duplicate of a higher-information row for the same symbol+date
+"EXPONENTIAL INTERACTIVE, INC.",,,withdrawn,2013-08-07,,,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-07,3,duplicate of a higher-information row for the same symbol+date
+X-TREME INVESTMENTS INC.,,,filed,2013-08-12,,100000.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-12,2,duplicate of a higher-information row for the same symbol+date
+VOTORANTIM CIMENTOS S.A.,,,withdrawn,2013-08-12,,,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-12,3,duplicate of a higher-information row for the same symbol+date
+"VESTA INTERNATIONAL, CORP.",,,filed,2013-08-16,,100000.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-16,2,duplicate of a higher-information row for the same symbol+date
+UPPERSOLUTION.COM,,,filed,2013-08-16,,50000.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-16,2,duplicate of a higher-information row for the same symbol+date
+"EXEO ENTERTAINMENT, INC.",,,filed,2013-08-16,,25750.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-16,2,duplicate of a higher-information row for the same symbol+date
+SPRINGLEAF REIT INC.,,,withdrawn,2013-08-16,,,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-16,3,duplicate of a higher-information row for the same symbol+date
+"MILESTONE INTERNATIONAL, CORP.",,,filed,2013-08-20,,80000.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-20,2,duplicate of a higher-information row for the same symbol+date
+TOMICHI CREEK OUTFITTERS,,,filed,2013-08-20,,30000.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-20,2,duplicate of a higher-information row for the same symbol+date
+"TRANSFER ENTERPRISES, INC.",,,filed,2013-08-21,,600000.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-21,2,duplicate of a higher-information row for the same symbol+date
+"UNLIMITED SKY HOLDINGS, INC.",,,filed,2013-08-22,,17792453.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-22,2,duplicate of a higher-information row for the same symbol+date
+"HISPANICA INTERNATIONAL DELIGHTS OF AMERICA, INC.",,,filed,2013-08-23,,500000.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-23,2,duplicate of a higher-information row for the same symbol+date
+KEY LINK ASSETS CORP.,,,filed,2013-08-27,,59000.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-27,2,duplicate of a higher-information row for the same symbol+date
+"REAL HIP-HOP NETWORK, INC",,,filed,2013-08-27,,40880250.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-27,2,duplicate of a higher-information row for the same symbol+date
+GEO JS TECH GROUP CORP.,,,filed,2013-08-30,,5793000.0,,,,2013-08-01_2013-08-31.json,2026-09-09T01:24:01.544008+00:00,sym:nan|2013-08-30,2,duplicate of a higher-information row for the same symbol+date
+FANGMAX ARTIFACTS CORP.,,,filed,2013-09-11,,76914039.0,,,,2013-09-01_2013-09-30.json,2026-09-09T01:24:03.594542+00:00,sym:nan|2013-09-11,2,duplicate of a higher-information row for the same symbol+date
+"BAYVIEW MORTGAGE CAPITAL, INC.",,,withdrawn,2013-09-11,,,,,,2013-09-01_2013-09-30.json,2026-09-09T01:24:03.594542+00:00,sym:nan|2013-09-11,3,duplicate of a higher-information row for the same symbol+date
+FUELS INC,,,filed,2013-09-13,,102000.0,,,,2013-09-01_2013-09-30.json,2026-09-09T01:24:03.594542+00:00,sym:nan|2013-09-13,2,duplicate of a higher-information row for the same symbol+date
+"IXIR PRODUCTIONS, INC.",,,filed,2013-09-13,,50000.0,,,,2013-09-01_2013-09-30.json,2026-09-09T01:24:03.594542+00:00,sym:nan|2013-09-13,2,duplicate of a higher-information row for the same symbol+date
+"BLEACH GROUP, INC.",,,withdrawn,2013-09-16,,,,,,2013-09-01_2013-09-30.json,2026-09-09T01:24:03.594542+00:00,sym:nan|2013-09-16,3,duplicate of a higher-information row for the same symbol+date
+BABYLON LTD,,,withdrawn,2013-09-20,,,,,,2013-09-01_2013-09-30.json,2026-09-09T01:24:03.594542+00:00,sym:nan|2013-09-20,3,duplicate of a higher-information row for the same symbol+date
+NUTRAFUELS INC,,,filed,2013-09-26,,3399994.0,,,,2013-09-01_2013-09-30.json,2026-09-09T01:24:03.594542+00:00,sym:nan|2013-09-26,2,duplicate of a higher-information row for the same symbol+date
+"TRAVELSAFE, INC.",,,filed,2013-09-27,,95000.0,,,,2013-09-01_2013-09-30.json,2026-09-09T01:24:03.594542+00:00,sym:nan|2013-09-27,2,duplicate of a higher-information row for the same symbol+date
+GRUPO AVAL ACCIONES Y VALORES S.A.,,,withdrawn,2013-10-31,,,,,,2013-10-01_2013-10-31.json,2026-09-09T01:24:05.505818+00:00,sym:nan|2013-10-31,3,duplicate of a higher-information row for the same symbol+date
+"AUTOGENOMICS, INC.",,,withdrawn,2013-11-01,,,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-01,3,duplicate of a higher-information row for the same symbol+date
+DIAMOND TECHNOLOGY ENTERPRISES INC.,,,filed,2013-11-06,,8987820.0,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-06,2,duplicate of a higher-information row for the same symbol+date
+TWOADAY OIL INC,,,withdrawn,2013-11-06,,,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-06,3,duplicate of a higher-information row for the same symbol+date
+HALTON UNIVERSAL BRANDS INC.,,,filed,2013-11-07,,400000.0,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-07,2,duplicate of a higher-information row for the same symbol+date
+INTERNATIONAL PRECIOUS METALS INC,,,filed,2013-11-07,,200000.0,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-07,2,duplicate of a higher-information row for the same symbol+date
+CHARGER MINERALS CORP,,,filed,2013-11-12,,83500.0,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-12,2,duplicate of a higher-information row for the same symbol+date
+"MERION, INC.",,,withdrawn,2013-11-12,,,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-12,3,duplicate of a higher-information row for the same symbol+date
+COMMITTED CAPITAL ACQUISITION CORP III,,,withdrawn,2013-11-13,,,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-13,3,duplicate of a higher-information row for the same symbol+date
+"TOA HOLDINGS, INC.",,,filed,2013-11-18,,44000000.0,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-18,2,duplicate of a higher-information row for the same symbol+date
+"KM WEDDING EVENTS MANAGEMENT, INC.",,,filed,2013-11-18,,2373798.0,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-18,2,duplicate of a higher-information row for the same symbol+date
+"OURNETT HOLDINGS, INC.",,,filed,2013-11-19,,30000.0,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-19,2,duplicate of a higher-information row for the same symbol+date
+COMMITTED CAPITAL ACQUISITION CORP II,,,filed,2013-11-27,,35000000.0,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-27,2,duplicate of a higher-information row for the same symbol+date
+"NGFC EQUITIES, INC.",,,filed,2013-11-27,,1500000.0,,,,2013-11-01_2013-11-30.json,2026-09-09T01:24:07.499657+00:00,sym:nan|2013-11-27,2,duplicate of a higher-information row for the same symbol+date
+HYPERVIEW LTD.,,,withdrawn,2013-12-04,,,,,,2013-12-01_2013-12-31.json,2026-09-09T01:24:09.507071+00:00,sym:nan|2013-12-04,3,duplicate of a higher-information row for the same symbol+date
+"ASIYA PEARLS, INC.",,,filed,2013-12-16,,50000.0,,,,2013-12-01_2013-12-31.json,2026-09-09T01:24:09.507071+00:00,sym:nan|2013-12-16,2,duplicate of a higher-information row for the same symbol+date
+MICHAELS STORES INC,,,withdrawn,2013-12-20,,,,,,2013-12-01_2013-12-31.json,2026-09-09T01:24:09.507071+00:00,sym:nan|2013-12-20,3,duplicate of a higher-information row for the same symbol+date
+AMERICAN PETROLEUM TANKERS PARTNERS LP,,,withdrawn,2013-12-23,,,,,,2013-12-01_2013-12-31.json,2026-09-09T01:24:09.507071+00:00,sym:nan|2013-12-23,3,duplicate of a higher-information row for the same symbol+date
+UNITED STATES COMMODITY FUNDS TRUST I,,,withdrawn,2013-12-30,,,,,,2013-12-01_2013-12-31.json,2026-09-09T01:24:09.507071+00:00,sym:nan|2013-12-30,3,duplicate of a higher-information row for the same symbol+date
+UNITED STATES COMMODITY FUNDS TRUST I,,,withdrawn,2013-12-30,,,,,,2013-12-01_2013-12-31.json,2026-09-09T01:24:09.507071+00:00,sym:nan|2013-12-30,3,duplicate of a higher-information row for the same symbol+date
+UNITED STATES COMMODITY FUNDS TRUST I,,,withdrawn,2013-12-30,,,,,,2013-12-01_2013-12-31.json,2026-09-09T01:24:09.507071+00:00,sym:nan|2013-12-30,3,duplicate of a higher-information row for the same symbol+date
+"ASTA HOLDINGS, CORP.",,,filed,2013-12-31,,60000.0,,,,2013-12-01_2013-12-31.json,2026-09-09T01:24:09.507071+00:00,sym:nan|2013-12-31,2,duplicate of a higher-information row for the same symbol+date
+ISHARES COPPER TRUST,,,withdrawn,2013-12-31,,,,,,2013-12-01_2013-12-31.json,2026-09-09T01:24:09.507071+00:00,sym:nan|2013-12-31,3,duplicate of a higher-information row for the same symbol+date
+GCT SEMICONDUCTOR INC,,,withdrawn,2014-01-10,,,,,,2014-01-01_2014-01-31.json,2026-09-09T01:24:11.512203+00:00,sym:nan|2014-01-10,3,duplicate of a higher-information row for the same symbol+date
+"MATINAS BIOPHARMA HOLDINGS, INC.",,,filed,2014-01-21,,25422500.0,,,,2014-01-01_2014-01-31.json,2026-09-09T01:24:11.512203+00:00,sym:nan|2014-01-21,2,duplicate of a higher-information row for the same symbol+date
+"DANLAX, CORP.",,,filed,2014-01-21,,90000.0,,,,2014-01-01_2014-01-31.json,2026-09-09T01:24:11.512203+00:00,sym:nan|2014-01-21,2,duplicate of a higher-information row for the same symbol+date
+MAXIMA GROUP INC.,,,filed,2014-01-23,,100000.0,,,,2014-01-01_2014-01-31.json,2026-09-09T01:24:11.512203+00:00,sym:nan|2014-01-23,2,duplicate of a higher-information row for the same symbol+date
+PANOPLY GROUP CORP.,,,filed,2014-01-27,,100000.0,,,,2014-01-01_2014-01-31.json,2026-09-09T01:24:11.512203+00:00,sym:nan|2014-01-27,2,duplicate of a higher-information row for the same symbol+date
+UNITED STATES CURRENCY FUNDS TRUST,,,withdrawn,2014-01-27,,,,,,2014-01-01_2014-01-31.json,2026-09-09T01:24:11.512203+00:00,sym:nan|2014-01-27,3,duplicate of a higher-information row for the same symbol+date
+PRIVOZ,,,filed,2014-01-28,,115500.0,,,,2014-01-01_2014-01-31.json,2026-09-09T01:24:11.512203+00:00,sym:nan|2014-01-28,2,duplicate of a higher-information row for the same symbol+date
+GUATE TOURISM INC.,,,filed,2014-01-29,,80000.0,,,,2014-01-01_2014-01-31.json,2026-09-09T01:24:11.512203+00:00,sym:nan|2014-01-29,2,duplicate of a higher-information row for the same symbol+date
+"ADRENALINE VENTURES, INC.",,,filed,2014-01-30,,60000.0,,,,2014-01-01_2014-01-31.json,2026-09-09T01:24:11.512203+00:00,sym:nan|2014-01-30,2,duplicate of a higher-information row for the same symbol+date
+APTALIS HOLDINGS INC.,,,withdrawn,2014-01-31,,,,,,2014-01-01_2014-01-31.json,2026-09-09T01:24:11.512203+00:00,sym:nan|2014-01-31,3,duplicate of a higher-information row for the same symbol+date
+1847 HOLDINGS LLC,,,filed,2014-02-07,,500000.0,,,,2014-02-01_2014-02-28.json,2026-09-09T01:24:13.512273+00:00,sym:nan|2014-02-07,2,duplicate of a higher-information row for the same symbol+date
+"AUDEO ONCOLOGY, INC.",,,withdrawn,2014-02-13,,,,,,2014-02-01_2014-02-28.json,2026-09-09T01:24:13.512273+00:00,sym:nan|2014-02-13,3,duplicate of a higher-information row for the same symbol+date
+PRESTON CORP.,,,filed,2014-02-14,,2377620.0,,,,2014-02-01_2014-02-28.json,2026-09-09T01:24:13.512273+00:00,sym:nan|2014-02-14,2,duplicate of a higher-information row for the same symbol+date
+"NEW HORIZON EQUITY GROUP, INC.",,,filed,2014-02-14,,5500000.0,,,,2014-02-01_2014-02-28.json,2026-09-09T01:24:13.512273+00:00,sym:nan|2014-02-14,2,duplicate of a higher-information row for the same symbol+date
+AMERICAN XANTHAN CORP,,,filed,2014-02-14,,100000.0,,,,2014-02-01_2014-02-28.json,2026-09-09T01:24:13.512273+00:00,sym:nan|2014-02-14,2,duplicate of a higher-information row for the same symbol+date
+LUCKWEL PHARMACEUTICALS INC.,,,withdrawn,2014-02-20,,,,,,2014-02-01_2014-02-28.json,2026-09-09T01:24:13.512273+00:00,sym:nan|2014-02-20,3,duplicate of a higher-information row for the same symbol+date
+ROMULUS CORP.,,,filed,2014-02-21,,80000.0,,,,2014-02-01_2014-02-28.json,2026-09-09T01:24:13.512273+00:00,sym:nan|2014-02-21,2,duplicate of a higher-information row for the same symbol+date
+"SDMS, INC",,,filed,2014-02-27,,651229.25,,,,2014-02-01_2014-02-28.json,2026-09-09T01:24:13.512273+00:00,sym:nan|2014-02-27,2,duplicate of a higher-information row for the same symbol+date
+TRIUMPH VENTURES CORP,,,filed,2014-03-04,,100000.0,,,,2014-03-01_2014-03-31.json,2026-09-09T01:24:15.502607+00:00,sym:nan|2014-03-04,2,duplicate of a higher-information row for the same symbol+date
+PURPLEREAL.COM CORP.,,,filed,2014-03-04,,42000.0,,,,2014-03-01_2014-03-31.json,2026-09-09T01:24:15.502607+00:00,sym:nan|2014-03-04,2,duplicate of a higher-information row for the same symbol+date
+"WAYPOINT HOMES REALTY TRUST, INC.",,,withdrawn,2014-03-14,,,,,,2014-03-01_2014-03-31.json,2026-09-09T01:24:15.502607+00:00,sym:nan|2014-03-14,3,duplicate of a higher-information row for the same symbol+date
+"PANTHER MOTOR GROUP, INC",,,withdrawn,2014-03-18,,,,,,2014-03-01_2014-03-31.json,2026-09-09T01:24:15.502607+00:00,sym:nan|2014-03-18,3,duplicate of a higher-information row for the same symbol+date
+"DEVON MIDSTREAM PARTNERS, L.P.",,,withdrawn,2014-03-19,,,,,,2014-03-01_2014-03-31.json,2026-09-09T01:24:15.502607+00:00,sym:nan|2014-03-19,3,duplicate of a higher-information row for the same symbol+date
+GLOBOFORCE GROUP PLC,,,withdrawn,2014-03-21,,,,,,2014-03-01_2014-03-31.json,2026-09-09T01:24:15.502607+00:00,sym:nan|2014-03-21,3,duplicate of a higher-information row for the same symbol+date
+MOUNTAIN VALLEY SPRING CO,,,withdrawn,2014-04-01,,,,,,2014-04-01_2014-04-30.json,2026-09-09T01:24:17.552611+00:00,sym:nan|2014-04-01,3,duplicate of a higher-information row for the same symbol+date
+ALLIES LTD,,,withdrawn,2014-04-11,,,,,,2014-04-01_2014-04-30.json,2026-09-09T01:24:17.552611+00:00,sym:nan|2014-04-11,3,duplicate of a higher-information row for the same symbol+date
+"ASSOCIATED MATERIALS GROUP, INC.",,,withdrawn,2014-04-15,,,,,,2014-04-01_2014-04-30.json,2026-09-09T01:24:17.552611+00:00,sym:nan|2014-04-15,3,duplicate of a higher-information row for the same symbol+date
+AMERICAN RETAIL ALLIANCE CORP.,,,withdrawn,2014-04-28,,,,,,2014-04-01_2014-04-30.json,2026-09-09T01:24:17.552611+00:00,sym:nan|2014-04-28,3,duplicate of a higher-information row for the same symbol+date
+"TRUSTWAVE HOLDINGS, INC.",,,withdrawn,2014-05-02,,,,,,2014-05-01_2014-05-31.json,2026-09-09T01:24:19.525939+00:00,sym:nan|2014-05-02,3,duplicate of a higher-information row for the same symbol+date
+VIP LOYALTY CORP.,,,withdrawn,2014-05-06,,,,,,2014-05-01_2014-05-31.json,2026-09-09T01:24:19.525939+00:00,sym:nan|2014-05-06,3,duplicate of a higher-information row for the same symbol+date
+"ILFC HOLDINGS, INC.",,,withdrawn,2014-05-15,,,,,,2014-05-01_2014-05-31.json,2026-09-09T01:24:19.525939+00:00,sym:nan|2014-05-15,3,duplicate of a higher-information row for the same symbol+date
+"QUARTA-RAD, INC.",,,filed,2014-05-19,,300000.0,,,,2014-05-01_2014-05-31.json,2026-09-09T01:24:19.525939+00:00,sym:nan|2014-05-19,2,duplicate of a higher-information row for the same symbol+date
+"QUARTA-RAD, INC.",,,withdrawn,2014-05-19,,,,,,2014-05-01_2014-05-31.json,2026-09-09T01:24:19.525939+00:00,sym:nan|2014-05-19,3,duplicate of a higher-information row for the same symbol+date
+CREDEX CORP,,,withdrawn,2014-05-20,,,,,,2014-05-01_2014-05-31.json,2026-09-09T01:24:19.525939+00:00,sym:nan|2014-05-20,3,duplicate of a higher-information row for the same symbol+date
+PARAGON OFFSHORE PLC,,,withdrawn,2014-05-23,,,,,,2014-05-01_2014-05-31.json,2026-09-09T01:24:19.525939+00:00,sym:nan|2014-05-23,3,duplicate of a higher-information row for the same symbol+date
+BLOW & DRIVE INTERLOCK CORP,,,filed,2014-06-02,,5641000.0,,,,2014-06-01_2014-06-30.json,2026-09-09T01:24:21.909769+00:00,sym:nan|2014-06-02,2,duplicate of a higher-information row for the same symbol+date
+ORION ENGINEERED CARBONS HOLDINGS GMBH,,,withdrawn,2014-06-06,,,,,,2014-06-01_2014-06-30.json,2026-09-09T01:24:21.909769+00:00,sym:nan|2014-06-06,3,duplicate of a higher-information row for the same symbol+date
+"MERCURY PAYMENT SYSTEMS, INC.",,,withdrawn,2014-06-11,,,,,,2014-06-01_2014-06-30.json,2026-09-09T01:24:21.909769+00:00,sym:nan|2014-06-11,3,duplicate of a higher-information row for the same symbol+date
+"GRILLED CHEESE TRUCK, INC.",,,filed,2014-06-13,,27631885.0,,,,2014-06-01_2014-06-30.json,2026-09-09T01:24:21.909769+00:00,sym:nan|2014-06-13,2,duplicate of a higher-information row for the same symbol+date
+"FRANCHISE GROUP, INC.",,,withdrawn,2014-06-18,,,,,,2014-06-01_2014-06-30.json,2026-09-09T01:24:21.909769+00:00,sym:nan|2014-06-18,3,duplicate of a higher-information row for the same symbol+date
+AMBRX INC,,,withdrawn,2014-06-30,,,,,,2014-06-01_2014-06-30.json,2026-09-09T01:24:21.909769+00:00,sym:nan|2014-06-30,3,duplicate of a higher-information row for the same symbol+date
+"TRANSPORT AMERICA, INC.",,,withdrawn,2014-07-03,,,,,,2014-07-01_2014-07-31.json,2026-09-09T01:24:23.518824+00:00,sym:nan|2014-07-03,3,duplicate of a higher-information row for the same symbol+date
+"AMERICAN RENAISSANCE CAPITAL, INC.",,,filed,2014-07-17,,5000000.0,,,,2014-07-01_2014-07-31.json,2026-09-09T01:24:23.518824+00:00,sym:nan|2014-07-17,2,duplicate of a higher-information row for the same symbol+date
+INFEED MEDICA CORP,,,filed,2014-07-22,,100000.0,,,,2014-07-01_2014-07-31.json,2026-09-09T01:24:23.518824+00:00,sym:nan|2014-07-22,2,duplicate of a higher-information row for the same symbol+date
+ULTHERA INC,,,withdrawn,2014-07-22,,,,,,2014-07-01_2014-07-31.json,2026-09-09T01:24:23.518824+00:00,sym:nan|2014-07-22,3,duplicate of a higher-information row for the same symbol+date
+"BEMAX, INC.",,,filed,2014-07-31,,75000.0,,,,2014-07-01_2014-07-31.json,2026-09-09T01:24:23.518824+00:00,sym:nan|2014-07-31,2,duplicate of a higher-information row for the same symbol+date
+PROTEINSIMPLE,,,withdrawn,2014-07-31,,,,,,2014-07-01_2014-07-31.json,2026-09-09T01:24:23.518824+00:00,sym:nan|2014-07-31,3,duplicate of a higher-information row for the same symbol+date
+SAFETY QUICK LIGHTING & FANS CORP.,,,filed,2014-08-01,,17112603.0,,,,2014-08-01_2014-08-31.json,2026-09-09T01:24:25.530409+00:00,sym:nan|2014-08-01,2,duplicate of a higher-information row for the same symbol+date
+AINA LE'A INC.,,,withdrawn,2014-08-05,,,,,,2014-08-01_2014-08-31.json,2026-09-09T01:24:25.530409+00:00,sym:nan|2014-08-05,3,duplicate of a higher-information row for the same symbol+date
+MEGAS INC,,,filed,2014-08-12,,164696.42,,,,2014-08-01_2014-08-31.json,2026-09-09T01:24:25.530409+00:00,sym:nan|2014-08-12,2,duplicate of a higher-information row for the same symbol+date
+"SUNSTOCK, INC.",,,filed,2014-08-12,,4311902.0,,,,2014-08-01_2014-08-31.json,2026-09-09T01:24:25.530409+00:00,sym:nan|2014-08-12,2,duplicate of a higher-information row for the same symbol+date
+GENO LLC,,,withdrawn,2014-08-12,,,,,,2014-08-01_2014-08-31.json,2026-09-09T01:24:25.530409+00:00,sym:nan|2014-08-12,3,duplicate of a higher-information row for the same symbol+date
+NATURAL RESOURCES CORP,,,filed,2014-08-13,,10000000.0,,,,2014-08-01_2014-08-31.json,2026-09-09T01:24:25.530409+00:00,sym:nan|2014-08-13,2,duplicate of a higher-information row for the same symbol+date
+"SOUTHEASTERN GROCERS, LLC",,,withdrawn,2014-08-19,,,,,,2014-08-01_2014-08-31.json,2026-09-09T01:24:25.530409+00:00,sym:nan|2014-08-19,3,duplicate of a higher-information row for the same symbol+date
+"CORBUS PHARMACEUTICALS HOLDINGS, INC.",,,filed,2014-09-03,,20206636.0,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-03,2,duplicate of a higher-information row for the same symbol+date
+"ABV CONSULTING, INC.",,,filed,2014-09-03,,53300.0,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-03,2,duplicate of a higher-information row for the same symbol+date
+VANTAGE ENERGY INC.,,,withdrawn,2014-09-15,,,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-15,3,duplicate of a higher-information row for the same symbol+date
+ISOLA GROUP LTD.,,,withdrawn,2014-09-15,,,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-15,3,duplicate of a higher-information row for the same symbol+date
+"USA RESTAURANTS, INC.",,,filed,2014-09-16,,100000.0,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-16,2,duplicate of a higher-information row for the same symbol+date
+"LIVE OAK BANCSHARES, INC.",,,withdrawn,2014-09-16,,,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-16,3,duplicate of a higher-information row for the same symbol+date
+LEPOTA INC,,,filed,2014-09-18,,100500.0,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-18,2,duplicate of a higher-information row for the same symbol+date
+"MICROLIN BIO, INC.",,,withdrawn,2014-09-19,,,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-19,3,duplicate of a higher-information row for the same symbol+date
+PACIFICORP INTERNATIONAL HOTEL MANAGEMENT,,,withdrawn,2014-09-19,,,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-19,3,duplicate of a higher-information row for the same symbol+date
+"TAI SHAN COMMUNICATIONS, INC.",,,withdrawn,2014-09-23,,,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-23,3,duplicate of a higher-information row for the same symbol+date
+PANAMERA HEALTHCARE CORP,,,filed,2014-09-26,,159600.0,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-26,2,duplicate of a higher-information row for the same symbol+date
+PQ HOLDINGS INC.,,,withdrawn,2014-09-26,,,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-26,3,duplicate of a higher-information row for the same symbol+date
+NOGALES RESOURCES CORP,,,filed,2014-09-29,,11250.0,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-29,2,duplicate of a higher-information row for the same symbol+date
+LEGACY VENTURES INTERNATIONAL INC.,,,filed,2014-09-30,,16000.0,,,,2014-09-01_2014-09-30.json,2026-09-09T01:24:27.521780+00:00,sym:nan|2014-09-30,2,duplicate of a higher-information row for the same symbol+date
+SUMMIT NETWORKS INC.,,,filed,2014-10-01,,80000.0,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-01,2,duplicate of a higher-information row for the same symbol+date
+"SUNRISE TOURS, INC.",,,filed,2014-10-08,,90000.0,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-08,2,duplicate of a higher-information row for the same symbol+date
+KNIGHT KNOX DEVELOPMENT CORP.,,,filed,2014-10-08,,80000.0,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-08,2,duplicate of a higher-information row for the same symbol+date
+"CARBON CREDIT INTERNATIONAL, INC.",,,filed,2014-10-15,,400000.0,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-15,2,duplicate of a higher-information row for the same symbol+date
+NATFRESH BEVERAGES CORP.,,,withdrawn,2014-10-15,,,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-15,3,duplicate of a higher-information row for the same symbol+date
+RICH CIGARS INC,,,filed,2014-10-17,,123040.0,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-17,2,duplicate of a higher-information row for the same symbol+date
+SIMPLE PRODUCTS CORP,,,withdrawn,2014-10-17,,,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-17,3,duplicate of a higher-information row for the same symbol+date
+VIAMET PHARMACEUTICALS HOLDINGS LLC,,,withdrawn,2014-10-20,,,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-20,3,duplicate of a higher-information row for the same symbol+date
+FWF HOLDINGS INC.,,,filed,2014-10-24,,150000.0,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-24,2,duplicate of a higher-information row for the same symbol+date
+DNA TESTING CENTERS CORP,,,filed,2014-10-24,,109737.0,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-24,2,duplicate of a higher-information row for the same symbol+date
+ANGION BIOMEDICA CORP.,,,withdrawn,2014-10-24,,,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-24,3,duplicate of a higher-information row for the same symbol+date
+"CITY VENTURES, INC.",,,withdrawn,2014-10-24,,,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-24,3,duplicate of a higher-information row for the same symbol+date
+CHESAPEAKE OILFIELD SERVICES INC,,,withdrawn,2014-10-24,,,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-24,3,duplicate of a higher-information row for the same symbol+date
+VIATAR CTC SOLUTIONS INC.,,,filed,2014-10-27,,4723498.5,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-27,2,duplicate of a higher-information row for the same symbol+date
+GDC TECHNOLOGY LTD,,,withdrawn,2014-10-28,,,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-28,3,duplicate of a higher-information row for the same symbol+date
+"SGWONE, INC.",,,withdrawn,2014-10-30,,,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-30,3,duplicate of a higher-information row for the same symbol+date
+REVAL HOLDINGS INC,,,withdrawn,2014-10-31,,,,,,2014-10-01_2014-10-31.json,2026-09-09T01:24:29.526234+00:00,sym:nan|2014-10-31,3,duplicate of a higher-information row for the same symbol+date
+SIRRUS CORP.,,,filed,2014-11-03,,90000.0,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-03,2,duplicate of a higher-information row for the same symbol+date
+US NUCLEAR CORP.,,,filed,2014-11-12,,772500.0,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-12,2,duplicate of a higher-information row for the same symbol+date
+BONE BIOLOGICS CORP,,,filed,2014-11-12,,16126626.0,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-12,2,duplicate of a higher-information row for the same symbol+date
+TRANSFIRST INC.,,,withdrawn,2014-11-12,,,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-12,3,duplicate of a higher-information row for the same symbol+date
+NW18 HSN HOLDINGS PLC,,,withdrawn,2014-11-12,,,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-12,3,duplicate of a higher-information row for the same symbol+date
+"IMC HOLDINGS, INC.",,,withdrawn,2014-11-12,,,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-12,3,duplicate of a higher-information row for the same symbol+date
+"TRIMAX CONSULTING, INC.",,,filed,2014-11-18,,400000.0,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-18,2,duplicate of a higher-information row for the same symbol+date
+"7 VENTURE GROUP, INC.",,,filed,2014-11-24,,5000000.0,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-24,2,duplicate of a higher-information row for the same symbol+date
+"VYRIX PHARMACEUTICALS, INC.",,,withdrawn,2014-11-24,,,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-24,3,duplicate of a higher-information row for the same symbol+date
+"NUTS & BOLTS INTERNATIONAL, INC.",,,filed,2014-11-26,,143750.0,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-26,2,duplicate of a higher-information row for the same symbol+date
+EMERALD DATA INC,,,filed,2014-11-28,,80000.0,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-28,2,duplicate of a higher-information row for the same symbol+date
+"JRJR33, INC.",,,withdrawn,2014-11-28,,,,,,2014-11-01_2014-11-30.json,2026-09-09T01:24:31.516682+00:00,sym:nan|2014-11-28,3,duplicate of a higher-information row for the same symbol+date
+SWEETS & TREATS INC.,,,filed,2014-12-11,,30000.0,,,,2014-12-01_2014-12-31.json,2026-09-09T01:24:33.518410+00:00,sym:nan|2014-12-11,2,duplicate of a higher-information row for the same symbol+date
+"CIVITAS THERAPEUTICS, INC.",,,withdrawn,2014-12-11,,,,,,2014-12-01_2014-12-31.json,2026-09-09T01:24:33.518410+00:00,sym:nan|2014-12-11,3,duplicate of a higher-information row for the same symbol+date
+TAPIOCA CORP,,,filed,2014-12-18,,100000.0,,,,2014-12-01_2014-12-31.json,2026-09-09T01:24:33.518410+00:00,sym:nan|2014-12-18,2,duplicate of a higher-information row for the same symbol+date
+JPM XF PHYSICAL COPPER TRUST,,,withdrawn,2014-12-22,,,,,,2014-12-01_2014-12-31.json,2026-09-09T01:24:33.518410+00:00,sym:nan|2014-12-22,3,duplicate of a higher-information row for the same symbol+date
+"EBIZWARE, INC.",,,filed,2014-12-23,,75000.0,,,,2014-12-01_2014-12-31.json,2026-09-09T01:24:33.518410+00:00,sym:nan|2014-12-23,2,duplicate of a higher-information row for the same symbol+date
+CARDIODX INC,,,withdrawn,2014-12-23,,,,,,2014-12-01_2014-12-31.json,2026-09-09T01:24:33.518410+00:00,sym:nan|2014-12-23,3,duplicate of a higher-information row for the same symbol+date
+HEAVENSTONE CORP,,,filed,2014-12-30,,1818846.0,,,,2014-12-01_2014-12-31.json,2026-09-09T01:24:33.518410+00:00,sym:nan|2014-12-30,2,duplicate of a higher-information row for the same symbol+date
+"DEVAGO, INC.",,,filed,2014-12-30,,105000.0,,,,2014-12-01_2014-12-31.json,2026-09-09T01:24:33.518410+00:00,sym:nan|2014-12-30,2,duplicate of a higher-information row for the same symbol+date
+MPM HOLDINGS INC.,,,filed,2014-12-31,,799080145.0,,,,2014-12-01_2014-12-31.json,2026-09-09T01:24:33.518410+00:00,sym:nan|2014-12-31,2,duplicate of a higher-information row for the same symbol+date
+"GLOBAL REAL ESTATE HOLDINGS, INC.",,,withdrawn,2014-12-31,,,,,,2014-12-01_2014-12-31.json,2026-09-09T01:24:33.518410+00:00,sym:nan|2014-12-31,3,duplicate of a higher-information row for the same symbol+date
+VITAXEL GROUP LIMITED,,,filed,2015-01-05,,90000.0,,,,2015-01-01_2015-01-31.json,2026-09-09T01:24:35.512256+00:00,sym:nan|2015-01-05,2,duplicate of a higher-information row for the same symbol+date
+"TILURO, INC.",,,filed,2015-01-08,,86025.0,,,,2015-01-01_2015-01-31.json,2026-09-09T01:24:35.512256+00:00,sym:nan|2015-01-08,2,duplicate of a higher-information row for the same symbol+date
+"ARIOSA DIAGNOSTICS, INC.",,,withdrawn,2015-01-08,,,,,,2015-01-01_2015-01-31.json,2026-09-09T01:24:35.512256+00:00,sym:nan|2015-01-08,3,duplicate of a higher-information row for the same symbol+date
+"MARY FEED & SUPPLIES, INC.",,,withdrawn,2015-01-16,,,,,,2015-01-01_2015-01-31.json,2026-09-09T01:24:35.512256+00:00,sym:nan|2015-01-16,3,duplicate of a higher-information row for the same symbol+date
+SYNDAX PHARMACEUTICALS INC,,,withdrawn,2015-01-22,,,,,,2015-01-01_2015-01-31.json,2026-09-09T01:24:35.512256+00:00,sym:nan|2015-01-22,3,duplicate of a higher-information row for the same symbol+date
+"DTLR HOLDING, INC.",,,withdrawn,2015-01-26,,,,,,2015-01-01_2015-01-31.json,2026-09-09T01:24:35.512256+00:00,sym:nan|2015-01-26,3,duplicate of a higher-information row for the same symbol+date
+BIOTRICITY INC.,,,filed,2015-01-27,,45000.0,,,,2015-01-01_2015-01-31.json,2026-09-09T01:24:35.512256+00:00,sym:nan|2015-01-27,2,duplicate of a higher-information row for the same symbol+date
+"SOL-WIND RENEWABLE POWER, LP",,,withdrawn,2015-01-29,,,,,,2015-01-01_2015-01-31.json,2026-09-09T01:24:35.512256+00:00,sym:nan|2015-01-29,3,duplicate of a higher-information row for the same symbol+date
+HANSON BUILDING PRODUCTS LTD,,,withdrawn,2015-02-04,,,,,,2015-02-01_2015-02-28.json,2026-09-09T01:24:37.570370+00:00,sym:nan|2015-02-04,3,duplicate of a higher-information row for the same symbol+date
+ALERIS CORP,,,withdrawn,2015-02-05,,,,,,2015-02-01_2015-02-28.json,2026-09-09T01:24:37.570370+00:00,sym:nan|2015-02-05,3,duplicate of a higher-information row for the same symbol+date
+"POVERTY DIGNIFIED, INC.",,,filed,2015-02-06,,8797725.0,,,,2015-02-01_2015-02-28.json,2026-09-09T01:24:37.570370+00:00,sym:nan|2015-02-06,2,duplicate of a higher-information row for the same symbol+date
+"NANOVIBRONIX, INC.",,,withdrawn,2015-02-09,,,,,,2015-02-01_2015-02-28.json,2026-09-09T01:24:37.570370+00:00,sym:nan|2015-02-09,3,duplicate of a higher-information row for the same symbol+date
+ARYSTA LIFESCIENCE PLC,,,withdrawn,2015-02-18,,,,,,2015-02-01_2015-02-28.json,2026-09-09T01:24:37.570370+00:00,sym:nan|2015-02-18,3,duplicate of a higher-information row for the same symbol+date
+TESORO VENTURES INC.,,,filed,2015-02-26,,100000.0,,,,2015-02-01_2015-02-28.json,2026-09-09T01:24:37.570370+00:00,sym:nan|2015-02-26,2,duplicate of a higher-information row for the same symbol+date
+"CERBERUS MORTGAGE CAPITAL, INC.",,,withdrawn,2015-02-27,,,,,,2015-02-01_2015-02-28.json,2026-09-09T01:24:37.570370+00:00,sym:nan|2015-02-27,3,duplicate of a higher-information row for the same symbol+date
+"SMOKE CARTEL, INC.",,,withdrawn,2015-03-05,,,,,,2015-03-01_2015-03-31.json,2026-09-09T01:24:39.532134+00:00,sym:nan|2015-03-05,3,duplicate of a higher-information row for the same symbol+date
+AVANGARD INNOVATIVE TECHNOLOGIES INC.,,,filed,2015-03-23,,584150.0,,,,2015-03-01_2015-03-31.json,2026-09-09T01:24:39.532134+00:00,sym:nan|2015-03-23,2,duplicate of a higher-information row for the same symbol+date
+ATD CORP,,,withdrawn,2015-03-23,,,,,,2015-03-01_2015-03-31.json,2026-09-09T01:24:39.532134+00:00,sym:nan|2015-03-23,3,duplicate of a higher-information row for the same symbol+date
+"BALANCE LABS, INC.",,,filed,2015-03-24,,250000.0,,,,2015-03-01_2015-03-31.json,2026-09-09T01:24:39.532134+00:00,sym:nan|2015-03-24,2,duplicate of a higher-information row for the same symbol+date
+POLYPID LTD.,,,withdrawn,2015-03-26,,,,,,2015-03-01_2015-03-31.json,2026-09-09T01:24:39.532134+00:00,sym:nan|2015-03-26,3,duplicate of a higher-information row for the same symbol+date
+TANKSHIPS INVESTMENT HOLDINGS INC.,,,withdrawn,2015-03-30,,,,,,2015-03-01_2015-03-31.json,2026-09-09T01:24:39.532134+00:00,sym:nan|2015-03-30,3,duplicate of a higher-information row for the same symbol+date
+INFRAREDX INC,,,withdrawn,2015-04-03,,,,,,2015-04-01_2015-04-30.json,2026-09-09T01:24:41.525191+00:00,sym:nan|2015-04-03,3,duplicate of a higher-information row for the same symbol+date
+FIRST FOUNDATION INC.,,,withdrawn,2015-04-16,,,,,,2015-04-01_2015-04-30.json,2026-09-09T01:24:41.525191+00:00,sym:nan|2015-04-16,3,duplicate of a higher-information row for the same symbol+date
+"PLH PRODUCTS, INC.",,,filed,2015-04-17,,30000000.0,,,,2015-04-01_2015-04-30.json,2026-09-09T01:24:41.525191+00:00,sym:nan|2015-04-17,2,duplicate of a higher-information row for the same symbol+date
+"AZURE MIDSTREAM PARTNERS, LP",,,withdrawn,2015-04-24,,,,,,2015-04-01_2015-04-30.json,2026-09-09T01:24:41.525191+00:00,sym:nan|2015-04-24,3,duplicate of a higher-information row for the same symbol+date
+BANG HOLDINGS CORP.,,,filed,2015-05-08,,3382700.0,,,,2015-05-01_2015-05-31.json,2026-09-09T01:24:43.521114+00:00,sym:nan|2015-05-08,2,duplicate of a higher-information row for the same symbol+date
+"COMMERCIAL CREDIT, INC.",,,withdrawn,2015-05-08,,,,,,2015-05-01_2015-05-31.json,2026-09-09T01:24:43.521114+00:00,sym:nan|2015-05-08,3,duplicate of a higher-information row for the same symbol+date
+"ZOOSK, INC",,,withdrawn,2015-05-08,,,,,,2015-05-01_2015-05-31.json,2026-09-09T01:24:43.521114+00:00,sym:nan|2015-05-08,3,duplicate of a higher-information row for the same symbol+date
+BMP HOLDINGS INC.,,,filed,2015-05-11,,25200.0,,,,2015-05-01_2015-05-31.json,2026-09-09T01:24:43.521114+00:00,sym:nan|2015-05-11,2,duplicate of a higher-information row for the same symbol+date
+ELLINGTON HOUSING INC.,,,withdrawn,2015-05-21,,,,,,2015-05-01_2015-05-31.json,2026-09-09T01:24:43.521114+00:00,sym:nan|2015-05-21,3,duplicate of a higher-information row for the same symbol+date
+MULTIVIR INC.,,,withdrawn,2015-05-27,,,,,,2015-05-01_2015-05-31.json,2026-09-09T01:24:43.521114+00:00,sym:nan|2015-05-27,3,duplicate of a higher-information row for the same symbol+date
+SAVDEN GROUP CORP.,,,filed,2015-06-19,,100000.0,,,,2015-06-01_2015-06-30.json,2026-09-09T01:24:45.546115+00:00,sym:nan|2015-06-19,2,duplicate of a higher-information row for the same symbol+date
+"S1 BIOPHARMA, INC.",,,withdrawn,2015-06-25,,,,,,2015-06-01_2015-06-30.json,2026-09-09T01:24:45.546115+00:00,sym:nan|2015-06-25,3,duplicate of a higher-information row for the same symbol+date
+"J. ALEXANDER'S HOLDINGS, INC.",,,withdrawn,2015-06-25,,,,,,2015-06-01_2015-06-30.json,2026-09-09T01:24:45.546115+00:00,sym:nan|2015-06-25,3,duplicate of a higher-information row for the same symbol+date
+GREYS CORP,,,filed,2015-07-09,,5127000.0,,,,2015-07-01_2015-07-31.json,2026-09-09T01:24:47.525818+00:00,sym:nan|2015-07-09,2,duplicate of a higher-information row for the same symbol+date
+"HYDROLIX, INC.",,,filed,2015-07-22,,250000.0,,,,2015-07-01_2015-07-31.json,2026-09-09T01:24:47.525818+00:00,sym:nan|2015-07-22,2,duplicate of a higher-information row for the same symbol+date
+"AXIS RESEARCH & TECHNOLOGIES, INC.",,,filed,2015-07-24,,20000000.0,,,,2015-07-01_2015-07-31.json,2026-09-09T01:24:47.525818+00:00,sym:nan|2015-07-24,2,duplicate of a higher-information row for the same symbol+date
+GLOBAL QUEST LTD.,,,filed,2015-07-30,,61000.0,,,,2015-07-01_2015-07-31.json,2026-09-09T01:24:47.525818+00:00,sym:nan|2015-07-30,2,duplicate of a higher-information row for the same symbol+date
+"MEVION MEDICAL SYSTEMS, INC.",,,withdrawn,2015-07-30,,,,,,2015-07-01_2015-07-31.json,2026-09-09T01:24:47.525818+00:00,sym:nan|2015-07-30,3,duplicate of a higher-information row for the same symbol+date
+PERIYA CORP.,,,withdrawn,2015-07-30,,,,,,2015-07-01_2015-07-31.json,2026-09-09T01:24:47.525818+00:00,sym:nan|2015-07-30,3,duplicate of a higher-information row for the same symbol+date
+"MARKHAM WOODS PRESS PUBLISHING COMPANY, INC.",,,filed,2015-08-04,,60000.0,,,,2015-08-01_2015-08-31.json,2026-09-09T01:24:49.532372+00:00,sym:nan|2015-08-04,2,duplicate of a higher-information row for the same symbol+date
+"K2 DESIGN & STRATEGY, INC.",,,withdrawn,2015-08-05,,,,,,2015-08-01_2015-08-31.json,2026-09-09T01:24:49.532372+00:00,sym:nan|2015-08-05,3,duplicate of a higher-information row for the same symbol+date
+"QMC SYSTEMS, INC.",,,filed,2015-08-06,,825000.0,,,,2015-08-01_2015-08-31.json,2026-09-09T01:24:49.532372+00:00,sym:nan|2015-08-06,2,duplicate of a higher-information row for the same symbol+date
+EXPRO OILFIELD SERVICES PLC,,,withdrawn,2015-08-12,,,,,,2015-08-01_2015-08-31.json,2026-09-09T01:24:49.532372+00:00,sym:nan|2015-08-12,3,duplicate of a higher-information row for the same symbol+date
+POSEIDON CONTAINERS HOLDINGS CORP.,,,withdrawn,2015-08-13,,,,,,2015-08-01_2015-08-31.json,2026-09-09T01:24:49.532372+00:00,sym:nan|2015-08-13,3,duplicate of a higher-information row for the same symbol+date
+"ENOVATION CONTROLS, INC.",,,withdrawn,2015-09-02,,,,,,2015-09-01_2015-09-30.json,2026-09-09T01:24:51.539529+00:00,sym:nan|2015-09-02,3,duplicate of a higher-information row for the same symbol+date
+"CHINA SOAR INFORMATION TECHNOLOGY, INC.",,,filed,2015-09-03,,2750000.0,,,,2015-09-01_2015-09-30.json,2026-09-09T01:24:51.539529+00:00,sym:nan|2015-09-03,2,duplicate of a higher-information row for the same symbol+date
+VATEE INC.,,,filed,2015-09-03,,200000.0,,,,2015-09-01_2015-09-30.json,2026-09-09T01:24:51.539529+00:00,sym:nan|2015-09-03,2,duplicate of a higher-information row for the same symbol+date
+"REVO BIOLOGICS, INC.",,,withdrawn,2015-09-04,,,,,,2015-09-01_2015-09-30.json,2026-09-09T01:24:51.539529+00:00,sym:nan|2015-09-04,3,duplicate of a higher-information row for the same symbol+date
+SAVMOBI TECHNOLOGY INC.,,,filed,2015-09-08,,100000.0,,,,2015-09-01_2015-09-30.json,2026-09-09T01:24:51.539529+00:00,sym:nan|2015-09-08,2,duplicate of a higher-information row for the same symbol+date
+"ENERGY & EXPLORATION PARTNERS, INC.",,,withdrawn,2015-09-09,,,,,,2015-09-01_2015-09-30.json,2026-09-09T01:24:51.539529+00:00,sym:nan|2015-09-09,3,duplicate of a higher-information row for the same symbol+date
+"SRA COMPANIES, INC.",,,withdrawn,2015-09-14,,,,,,2015-09-01_2015-09-30.json,2026-09-09T01:24:51.539529+00:00,sym:nan|2015-09-14,3,duplicate of a higher-information row for the same symbol+date
+JACC STUDIOS INC.,,,filed,2015-09-24,,126000.0,,,,2015-09-01_2015-09-30.json,2026-09-09T01:24:51.539529+00:00,sym:nan|2015-09-24,2,duplicate of a higher-information row for the same symbol+date
+APEX RESOURCES INC/NV,,,filed,2015-09-24,,80000.0,,,,2015-09-01_2015-09-30.json,2026-09-09T01:24:51.539529+00:00,sym:nan|2015-09-24,2,duplicate of a higher-information row for the same symbol+date
+"NEUROSIGMA, INC.",,,withdrawn,2015-09-25,,,,,,2015-09-01_2015-09-30.json,2026-09-09T01:24:51.539529+00:00,sym:nan|2015-09-25,3,duplicate of a higher-information row for the same symbol+date
+VEGAS RENTAL DEVELOPMENT INC,,,filed,2015-09-28,,400000.0,,,,2015-09-01_2015-09-30.json,2026-09-09T01:24:51.539529+00:00,sym:nan|2015-09-28,2,duplicate of a higher-information row for the same symbol+date
+AVINTIV INC.,,,withdrawn,2015-10-01,,,,,,2015-10-01_2015-10-31.json,2026-09-09T01:24:53.524838+00:00,sym:nan|2015-10-01,3,duplicate of a higher-information row for the same symbol+date
+SYNCARDIA SYSTEMS INC,,,withdrawn,2015-10-13,,,,,,2015-10-01_2015-10-31.json,2026-09-09T01:24:53.524838+00:00,sym:nan|2015-10-13,3,duplicate of a higher-information row for the same symbol+date
+INFINITY (INT'L) TRAVEL HOLDINGS INC.,,,filed,2015-11-09,,200000.0,,,,2015-11-01_2015-11-30.json,2026-09-09T01:24:55.527757+00:00,sym:nan|2015-11-09,2,duplicate of a higher-information row for the same symbol+date
+EMEDIA GROUP INC.,,,filed,2015-11-16,,150000.0,,,,2015-11-01_2015-11-30.json,2026-09-09T01:24:55.527757+00:00,sym:nan|2015-11-16,2,duplicate of a higher-information row for the same symbol+date
+EASIC CORP,,,withdrawn,2015-11-27,,,,,,2015-11-01_2015-11-30.json,2026-09-09T01:24:55.527757+00:00,sym:nan|2015-11-27,3,duplicate of a higher-information row for the same symbol+date
+"ENDOSTIM, INC.",,,withdrawn,2015-12-09,,,,,,2015-12-01_2015-12-31.json,2026-09-09T01:24:57.528814+00:00,sym:nan|2015-12-09,3,duplicate of a higher-information row for the same symbol+date
+GELESIS INC,,,withdrawn,2015-12-17,,,,,,2015-12-01_2015-12-31.json,2026-09-09T01:24:57.528814+00:00,sym:nan|2015-12-17,3,duplicate of a higher-information row for the same symbol+date
+NOVA SMART SOLUTIONS INC,,,filed,2016-01-05,,6172540.0,,,,2016-01-01_2016-01-31.json,2026-09-09T01:24:59.540742+00:00,sym:nan|2016-01-05,2,duplicate of a higher-information row for the same symbol+date
+"21ST CENTURY ONCOLOGY HOLDINGS, INC.",,,withdrawn,2016-01-05,,,,,,2016-01-01_2016-01-31.json,2026-09-09T01:24:59.540742+00:00,sym:nan|2016-01-05,3,duplicate of a higher-information row for the same symbol+date
+TITAN COMPUTER SERVICES INC.,,,filed,2016-01-19,,871850.0,,,,2016-01-01_2016-01-31.json,2026-09-09T01:24:59.540742+00:00,sym:nan|2016-01-19,2,duplicate of a higher-information row for the same symbol+date
+AXETURE CORP,,,filed,2016-01-19,,100000.0,,,,2016-01-01_2016-01-31.json,2026-09-09T01:24:59.540742+00:00,sym:nan|2016-01-19,2,duplicate of a higher-information row for the same symbol+date
+"LANDMARK APARTMENT TRUST, INC.",,,withdrawn,2016-01-27,,,,,,2016-01-01_2016-01-31.json,2026-09-09T01:24:59.540742+00:00,sym:nan|2016-01-27,3,duplicate of a higher-information row for the same symbol+date
+"INNERSCOPE ADVERTISING AGENCY, INC.",,,filed,2016-02-02,,30200.0,,,,2016-02-01_2016-02-29.json,2026-09-09T01:25:01.560506+00:00,sym:nan|2016-02-02,2,duplicate of a higher-information row for the same symbol+date
+PETCO HOLDINGS INC,,,withdrawn,2016-02-02,,,,,,2016-02-01_2016-02-29.json,2026-09-09T01:25:01.560506+00:00,sym:nan|2016-02-02,3,duplicate of a higher-information row for the same symbol+date
+ELLIPSE TECHNOLOGIES INC,,,withdrawn,2016-02-08,,,,,,2016-02-01_2016-02-29.json,2026-09-09T01:25:01.560506+00:00,sym:nan|2016-02-08,3,duplicate of a higher-information row for the same symbol+date
+FAR SIGHTED MEDIA INC,,,filed,2016-02-11,,1980000.0,,,,2016-02-01_2016-02-29.json,2026-09-09T01:25:01.560506+00:00,sym:nan|2016-02-11,2,duplicate of a higher-information row for the same symbol+date
+INTERNATIONAL LAND ALLIANCE INC.,,,filed,2016-02-11,,1365000.0,,,,2016-02-01_2016-02-29.json,2026-09-09T01:25:01.560506+00:00,sym:nan|2016-02-11,2,duplicate of a higher-information row for the same symbol+date
+ORANJTEK CO.,,,withdrawn,2016-02-11,,,,,,2016-02-01_2016-02-29.json,2026-09-09T01:25:01.560506+00:00,sym:nan|2016-02-11,3,duplicate of a higher-information row for the same symbol+date
+BIGFOOT PROJECT INVESTMENTS INC,,,filed,2016-02-12,,3000000.0,,,,2016-02-01_2016-02-29.json,2026-09-09T01:25:01.560506+00:00,sym:nan|2016-02-12,2,duplicate of a higher-information row for the same symbol+date
+"REDWOOD SCIENTIFIC TECHNOLOGIES, INC.",,,filed,2016-02-12,,9140114.0,,,,2016-02-01_2016-02-29.json,2026-09-09T01:25:01.560506+00:00,sym:nan|2016-02-12,2,duplicate of a higher-information row for the same symbol+date
+RIZZEN INC.,,,filed,2016-03-03,,120000.0,,,,2016-03-01_2016-03-31.json,2026-09-09T01:25:03.532426+00:00,sym:nan|2016-03-03,2,duplicate of a higher-information row for the same symbol+date
+WIKE CORP.,,,filed,2016-03-03,,50000.0,,,,2016-03-01_2016-03-31.json,2026-09-09T01:25:03.532426+00:00,sym:nan|2016-03-03,2,duplicate of a higher-information row for the same symbol+date
+"UNITED LUMICON EXHIBITION SERVICES, INC.",,,withdrawn,2016-03-18,,,,,,2016-03-01_2016-03-31.json,2026-09-09T01:25:03.532426+00:00,sym:nan|2016-03-18,3,duplicate of a higher-information row for the same symbol+date
+OVERSEAS SHIPHOLDING GROUP INC,,,withdrawn,2016-03-22,,,,,,2016-03-01_2016-03-31.json,2026-09-09T01:25:03.532426+00:00,sym:nan|2016-03-22,3,duplicate of a higher-information row for the same symbol+date
+"FLOOR & DECOR HOLDINGS, INC.",,,withdrawn,2016-04-15,,,,,,2016-04-01_2016-04-30.json,2026-09-09T01:25:05.533281+00:00,sym:nan|2016-04-15,3,duplicate of a higher-information row for the same symbol+date
+"ETRE RESIDENTIAL, LLC",,,withdrawn,2016-05-19,,,,,,2016-05-01_2016-05-31.json,2026-09-09T01:25:07.538060+00:00,sym:nan|2016-05-19,3,duplicate of a higher-information row for the same symbol+date
+FREEPORT-MCMORAN OIL & GAS INC.,,,withdrawn,2016-05-20,,,,,,2016-05-01_2016-05-31.json,2026-09-09T01:25:07.538060+00:00,sym:nan|2016-05-20,3,duplicate of a higher-information row for the same symbol+date
+"ADOMANI, INC.",,,withdrawn,2016-07-01,,,,,,2016-07-01_2016-07-31.json,2026-09-09T01:25:11.535942+00:00,sym:nan|2016-07-01,3,duplicate of a higher-information row for the same symbol+date
+"ROYAL COUNTRY CLUB & RECREATION HOLDINGS, INC.",,,withdrawn,2016-07-06,,,,,,2016-07-01_2016-07-31.json,2026-09-09T01:25:11.535942+00:00,sym:nan|2016-07-06,3,duplicate of a higher-information row for the same symbol+date
+NPQ HOLDINGS LTD,,,filed,2016-07-14,,2000000.0,,,,2016-07-01_2016-07-31.json,2026-09-09T01:25:11.535942+00:00,sym:nan|2016-07-14,2,duplicate of a higher-information row for the same symbol+date
+ROYAL RESOURCES PARTNERS LP,,,withdrawn,2016-07-14,,,,,,2016-07-01_2016-07-31.json,2026-09-09T01:25:11.535942+00:00,sym:nan|2016-07-14,3,duplicate of a higher-information row for the same symbol+date
+TWIST BEAUTY S.A R.L. & PARTNERS S.C.A.,,,withdrawn,2016-07-14,,,,,,2016-07-01_2016-07-31.json,2026-09-09T01:25:11.535942+00:00,sym:nan|2016-07-14,3,duplicate of a higher-information row for the same symbol+date
+AINA LE'A INC.,,,withdrawn,2016-07-29,,,,,,2016-07-01_2016-07-31.json,2026-09-09T01:25:11.535942+00:00,sym:nan|2016-07-29,3,duplicate of a higher-information row for the same symbol+date
+"INVENTIV GROUP HOLDINGS, INC.",,,withdrawn,2016-08-02,,,,,,2016-08-01_2016-08-31.json,2026-09-09T01:25:13.535582+00:00,sym:nan|2016-08-02,3,duplicate of a higher-information row for the same symbol+date
+"CLEANGOAL ENERGY, CORP",,,filed,2016-09-09,,750500.0,,,,2016-09-01_2016-09-30.json,2026-09-09T01:25:15.537911+00:00,sym:nan|2016-09-09,2,duplicate of a higher-information row for the same symbol+date
+"LOANDEPOT, INC.",,,withdrawn,2016-09-13,,,,,,2016-09-01_2016-09-30.json,2026-09-09T01:25:15.537911+00:00,sym:nan|2016-09-13,3,duplicate of a higher-information row for the same symbol+date
+PES LOGISTICS PARTNERS LP,,,withdrawn,2016-09-14,,,,,,2016-09-01_2016-09-30.json,2026-09-09T01:25:15.537911+00:00,sym:nan|2016-09-14,3,duplicate of a higher-information row for the same symbol+date
+"RIVERBANC MULTIFAMILY INVESTORS, INC.",,,withdrawn,2016-10-12,,,,,,2016-10-01_2016-10-31.json,2026-09-09T01:25:17.543140+00:00,sym:nan|2016-10-12,3,duplicate of a higher-information row for the same symbol+date
+"PIMCO REIT, INC.",,,withdrawn,2016-10-14,,,,,,2016-10-01_2016-10-31.json,2026-09-09T01:25:17.543140+00:00,sym:nan|2016-10-14,3,duplicate of a higher-information row for the same symbol+date
+"CENTENNIAL RESOURCE DEVELOPMENT, INC.",,,withdrawn,2016-10-21,,,,,,2016-10-01_2016-10-31.json,2026-09-09T01:25:17.543140+00:00,sym:nan|2016-10-21,3,duplicate of a higher-information row for the same symbol+date
+"CONVERSATION INSTITUTE, INC.",,,withdrawn,2016-10-27,,,,,,2016-10-01_2016-10-31.json,2026-09-09T01:25:17.543140+00:00,sym:nan|2016-10-27,3,duplicate of a higher-information row for the same symbol+date
+OCEAN RIG PARTNERS LP,,,withdrawn,2016-11-02,,,,,,2016-11-01_2016-11-30.json,2026-09-09T01:25:19.547237+00:00,sym:nan|2016-11-02,3,duplicate of a higher-information row for the same symbol+date
+BITMIS CORP.,,,filed,2016-11-07,,100000.0,,,,2016-11-01_2016-11-30.json,2026-09-09T01:25:19.547237+00:00,sym:nan|2016-11-07,2,duplicate of a higher-information row for the same symbol+date
+ALLEGRO BEAUTY PRODUCTS INC,,,filed,2016-11-10,,55000.0,,,,2016-11-01_2016-11-30.json,2026-09-09T01:25:19.547237+00:00,sym:nan|2016-11-10,2,duplicate of a higher-information row for the same symbol+date
+METRO MEDIA HOLDING CORP,,,withdrawn,2016-11-10,,,,,,2016-11-01_2016-11-30.json,2026-09-09T01:25:19.547237+00:00,sym:nan|2016-11-10,3,duplicate of a higher-information row for the same symbol+date
+AVONDALE ACQUISITION CORP.,,,withdrawn,2016-11-10,,,,,,2016-11-01_2016-11-30.json,2026-09-09T01:25:19.547237+00:00,sym:nan|2016-11-10,3,duplicate of a higher-information row for the same symbol+date
+KNOWLEDGE POWER CORP,,,withdrawn,2016-11-10,,,,,,2016-11-01_2016-11-30.json,2026-09-09T01:25:19.547237+00:00,sym:nan|2016-11-10,3,duplicate of a higher-information row for the same symbol+date
+"DIGITAL DONATIONS TECHNOLOGIES, INC.",,,filed,2016-11-14,,13877880.0,,,,2016-11-01_2016-11-30.json,2026-09-09T01:25:19.547237+00:00,sym:nan|2016-11-14,2,duplicate of a higher-information row for the same symbol+date
+AMCHI GENDYNAMY SCIENCE CORP,,,withdrawn,2016-11-14,,,,,,2016-11-01_2016-11-30.json,2026-09-09T01:25:19.547237+00:00,sym:nan|2016-11-14,3,duplicate of a higher-information row for the same symbol+date
+"EMPIRE PETROLEUM PARTNERS, LP",,,withdrawn,2016-11-14,,,,,,2016-11-01_2016-11-30.json,2026-09-09T01:25:19.547237+00:00,sym:nan|2016-11-14,3,duplicate of a higher-information row for the same symbol+date
+"EURAMAX HOLDINGS, INC.",,,withdrawn,2016-11-21,,,,,,2016-11-01_2016-11-30.json,2026-09-09T01:25:19.547237+00:00,sym:nan|2016-11-21,3,duplicate of a higher-information row for the same symbol+date
+PETROSHARE CORP.,,,withdrawn,2016-11-29,,,,,,2016-11-01_2016-11-30.json,2026-09-09T01:25:19.547237+00:00,sym:nan|2016-11-29,3,duplicate of a higher-information row for the same symbol+date
+"IMPERIAL RESOURCES, LLC",,,withdrawn,2016-12-01,,,,,,2016-12-01_2016-12-31.json,2026-09-09T01:25:21.550090+00:00,sym:nan|2016-12-01,3,duplicate of a higher-information row for the same symbol+date
+BENAIAH HOLDINGS GROUP INC.,,,withdrawn,2016-12-06,,,,,,2016-12-01_2016-12-31.json,2026-09-09T01:25:21.550090+00:00,sym:nan|2016-12-06,3,duplicate of a higher-information row for the same symbol+date
+"BLUE SKY GROUP HOLDINGS, INC.",,,withdrawn,2016-12-08,,,,,,2016-12-01_2016-12-31.json,2026-09-09T01:25:21.550090+00:00,sym:nan|2016-12-08,3,duplicate of a higher-information row for the same symbol+date
+INNOLIGHT TECHNOLOGY CORP,,,withdrawn,2016-12-08,,,,,,2016-12-01_2016-12-31.json,2026-09-09T01:25:21.550090+00:00,sym:nan|2016-12-08,3,duplicate of a higher-information row for the same symbol+date
+"OS SUPPORT, INC.",,,filed,2016-12-21,,160000.0,,,,2016-12-01_2016-12-31.json,2026-09-09T01:25:21.550090+00:00,sym:nan|2016-12-21,2,duplicate of a higher-information row for the same symbol+date
+"TRUCK HERO, INC.",,,withdrawn,2016-12-21,,,,,,2016-12-01_2016-12-31.json,2026-09-09T01:25:21.550090+00:00,sym:nan|2016-12-21,3,duplicate of a higher-information row for the same symbol+date
+HYGEA HOLDINGS CORP.,,,withdrawn,2016-12-21,,,,,,2016-12-01_2016-12-31.json,2026-09-09T01:25:21.550090+00:00,sym:nan|2016-12-21,3,duplicate of a higher-information row for the same symbol+date
+NEW AGE BEVERAGES CORP,,,withdrawn,2016-12-22,,,,,,2016-12-01_2016-12-31.json,2026-09-09T01:25:21.550090+00:00,sym:nan|2016-12-22,3,duplicate of a higher-information row for the same symbol+date
+UNITED GUARANTY CORP.,,,withdrawn,2016-12-30,,,,,,2016-12-01_2016-12-31.json,2026-09-09T01:25:21.550090+00:00,sym:nan|2016-12-30,3,duplicate of a higher-information row for the same symbol+date
+IASIS HEALTHCARE CORP,,,withdrawn,2016-12-30,,,,,,2016-12-01_2016-12-31.json,2026-09-09T01:25:21.550090+00:00,sym:nan|2016-12-30,3,duplicate of a higher-information row for the same symbol+date
+"NEIMAN MARCUS GROUP, INC.",,,withdrawn,2017-01-06,,,,,,2017-01-01_2017-01-31.json,2026-09-09T01:25:23.541966+00:00,sym:nan|2017-01-06,3,duplicate of a higher-information row for the same symbol+date
+BIOCERES S.A.,,,withdrawn,2017-02-01,,,,,,2017-02-01_2017-02-28.json,2026-09-09T01:25:25.549513+00:00,sym:nan|2017-02-01,3,duplicate of a higher-information row for the same symbol+date
+MAUSER GROUP N.V.,,,withdrawn,2017-02-08,,,,,,2017-02-01_2017-02-28.json,2026-09-09T01:25:25.549513+00:00,sym:nan|2017-02-08,3,duplicate of a higher-information row for the same symbol+date
+EAUKER MINERALS CORP.,,,withdrawn,2017-02-09,,,,,,2017-02-01_2017-02-28.json,2026-09-09T01:25:25.549513+00:00,sym:nan|2017-02-09,3,duplicate of a higher-information row for the same symbol+date
+"ADGERO BIOPHARMACEUTICALS HOLDINGS, INC.",,,filed,2017-02-14,,17338400.0,,,,2017-02-01_2017-02-28.json,2026-09-09T01:25:25.549513+00:00,sym:nan|2017-02-14,2,duplicate of a higher-information row for the same symbol+date
+"CONSUMER CAPITAL GROUP, INC.",,,filed,2017-02-14,,40000000.0,,,,2017-02-01_2017-02-28.json,2026-09-09T01:25:25.549513+00:00,sym:nan|2017-02-14,2,duplicate of a higher-information row for the same symbol+date
+DIVERSE DEVELOPMENT GROUP INC.,,,filed,2017-02-21,,152250.0,,,,2017-02-01_2017-02-28.json,2026-09-09T01:25:25.549513+00:00,sym:nan|2017-02-21,2,duplicate of a higher-information row for the same symbol+date
+"BRAEBURN PHARMACEUTICALS, INC.",,,withdrawn,2017-02-22,,,,,,2017-02-01_2017-02-28.json,2026-09-09T01:25:25.549513+00:00,sym:nan|2017-02-22,3,duplicate of a higher-information row for the same symbol+date
+"ANTILIA GROUP, CORP.",,,filed,2017-02-23,,100000.0,,,,2017-02-01_2017-02-28.json,2026-09-09T01:25:25.549513+00:00,sym:nan|2017-02-23,2,duplicate of a higher-information row for the same symbol+date
+ADAMA AGRICULTURAL SOLUTIONS LTD.,,,withdrawn,2017-02-28,,,,,,2017-02-01_2017-02-28.json,2026-09-09T01:25:25.549513+00:00,sym:nan|2017-02-28,3,duplicate of a higher-information row for the same symbol+date
+PUEBLA RESOURCES CORP.,,,filed,2017-03-13,,8250.0,,,,2017-03-01_2017-03-31.json,2026-09-09T01:25:27.552003+00:00,sym:nan|2017-03-13,2,duplicate of a higher-information row for the same symbol+date
+COLONY GLOBAL ACQUISITION CORP.,,,withdrawn,2017-03-13,,,,,,2017-03-01_2017-03-31.json,2026-09-09T01:25:27.552003+00:00,sym:nan|2017-03-13,3,duplicate of a higher-information row for the same symbol+date
+APPDYNAMICS INC,,,withdrawn,2017-03-16,,,,,,2017-03-01_2017-03-31.json,2026-09-09T01:25:27.552003+00:00,sym:nan|2017-03-16,3,duplicate of a higher-information row for the same symbol+date
+PLAYA HOTELS & RESORTS B.V.,,,withdrawn,2017-03-17,,,,,,2017-03-01_2017-03-31.json,2026-09-09T01:25:27.552003+00:00,sym:nan|2017-03-17,3,duplicate of a higher-information row for the same symbol+date
+SHOW KING HOLDINGS INC.,,,withdrawn,2017-03-27,,,,,,2017-03-01_2017-03-31.json,2026-09-09T01:25:27.552003+00:00,sym:nan|2017-03-27,3,duplicate of a higher-information row for the same symbol+date
+ECOLOMONDO CORP INC.,,,withdrawn,2017-03-27,,,,,,2017-03-01_2017-03-31.json,2026-09-09T01:25:27.552003+00:00,sym:nan|2017-03-27,3,duplicate of a higher-information row for the same symbol+date
+"CAPE POINT HOLDINGS, INC.",,,filed,2017-05-26,,470000.0,,,,2017-05-01_2017-05-31.json,2026-09-09T01:25:31.590826+00:00,sym:nan|2017-05-26,2,duplicate of a higher-information row for the same symbol+date
+SOLDINO GROUP CORP,,,filed,2017-06-14,,90000.0,,,,2017-06-01_2017-06-30.json,2026-09-09T01:25:33.548799+00:00,sym:nan|2017-06-14,2,duplicate of a higher-information row for the same symbol+date
+POWERCOMM HOLDINGS INC.,,,filed,2017-06-14,,93000.0,,,,2017-06-01_2017-06-30.json,2026-09-09T01:25:33.548799+00:00,sym:nan|2017-06-14,2,duplicate of a higher-information row for the same symbol+date
+STRONG SOLUTIONS INC.,,,withdrawn,2017-07-05,,,,,,2017-07-01_2017-07-31.json,2026-09-09T01:25:35.549135+00:00,sym:nan|2017-07-05,3,duplicate of a higher-information row for the same symbol+date
+"WIZE PHARMA, INC.",,,withdrawn,2017-07-25,,,,,,2017-07-01_2017-07-31.json,2026-09-09T01:25:35.549135+00:00,sym:nan|2017-07-25,3,duplicate of a higher-information row for the same symbol+date
+FULL SPECTRUM INC.,,,withdrawn,2017-11-03,,,,,,2017-11-01_2017-11-30.json,2026-09-09T01:25:43.553293+00:00,sym:nan|2017-11-03,3,duplicate of a higher-information row for the same symbol+date
+WINNAN CORP.,,,filed,2018-03-12,,160000.0,,,,2018-03-01_2018-03-31.json,2026-09-09T01:25:51.558572+00:00,sym:nan|2018-03-12,2,duplicate of a higher-information row for the same symbol+date
+"DERMA GLISTEN, INC.",,,filed,2018-03-12,,100000.0,,,,2018-03-01_2018-03-31.json,2026-09-09T01:25:51.558572+00:00,sym:nan|2018-03-12,2,duplicate of a higher-information row for the same symbol+date
+"EMR TECHNOLOGY SOLUTIONS, INC.",,,filed,2018-04-30,,5000000.0,,,,2018-04-01_2018-04-30.json,2026-09-09T01:25:53.557245+00:00,sym:nan|2018-04-30,2,duplicate of a higher-information row for the same symbol+date
+KLEOPATRA HOLDINGS 2 S.C.A.,,,withdrawn,2018-05-14,,,,,,2018-05-01_2018-05-31.json,2026-09-09T01:25:55.561619+00:00,sym:nan|2018-05-14,3,duplicate of a higher-information row for the same symbol+date
+"GADSDEN GROWTH PROPERTIES, INC.",,,withdrawn,2018-05-14,,,,,,2018-05-01_2018-05-31.json,2026-09-09T01:25:55.561619+00:00,sym:nan|2018-05-14,3,duplicate of a higher-information row for the same symbol+date
+CAMPOSOL HOLDING PLC,,,withdrawn,2018-07-05,,,,,,2018-07-01_2018-07-31.json,2026-09-09T01:25:59.578685+00:00,sym:nan|2018-07-05,3,duplicate of a higher-information row for the same symbol+date
+M17 ENTERTAINMENT LTD,,,withdrawn,2018-08-02,,,,,,2018-08-01_2018-08-31.json,2026-09-09T01:26:01.565258+00:00,sym:nan|2018-08-02,3,duplicate of a higher-information row for the same symbol+date
+APMEX PHYSICAL - 1 OZ. GOLD REDEEMABLE TRUST,,,withdrawn,2018-08-15,,,,,,2018-08-01_2018-08-31.json,2026-09-09T01:26:01.565258+00:00,sym:nan|2018-08-15,3,duplicate of a higher-information row for the same symbol+date
+"TASK TECHNOLOGIES, INC.",,,withdrawn,2018-08-23,,,,,,2018-08-01_2018-08-31.json,2026-09-09T01:26:01.565258+00:00,sym:nan|2018-08-23,3,duplicate of a higher-information row for the same symbol+date
+"HAWKEYE SYSTEMS, INC.",,,filed,2018-08-27,,16406500.0,,,,2018-08-01_2018-08-31.json,2026-09-09T01:26:01.565258+00:00,sym:nan|2018-08-27,2,duplicate of a higher-information row for the same symbol+date
+NB CAPITAL ACQUISITION CORP.,,,withdrawn,2018-08-27,,,,,,2018-08-01_2018-08-31.json,2026-09-09T01:26:01.565258+00:00,sym:nan|2018-08-27,3,duplicate of a higher-information row for the same symbol+date
+UNITED CAPITAL CONSULTANTS INC.,,,filed,2018-10-18,,10000000.0,,,,2018-10-01_2018-10-31.json,2026-09-09T01:26:05.574103+00:00,sym:nan|2018-10-18,2,duplicate of a higher-information row for the same symbol+date
+MARKET VECTORS REDEEMABLE GOLD TRUST,,,withdrawn,2018-10-25,,,,,,2018-10-01_2018-10-31.json,2026-09-09T01:26:05.574103+00:00,sym:nan|2018-10-25,3,duplicate of a higher-information row for the same symbol+date
+"SHAREDLABS, INC",,,withdrawn,2018-11-05,,,,,,2018-11-01_2018-11-30.json,2026-09-09T01:26:07.599932+00:00,sym:nan|2018-11-05,3,duplicate of a higher-information row for the same symbol+date
+JS BEAUTY LAND NETWORK TECHNOLOGY INC,,,filed,2018-12-14,,1456425.0,,,,2018-12-01_2018-12-31.json,2026-09-09T01:26:09.585358+00:00,sym:nan|2018-12-14,2,duplicate of a higher-information row for the same symbol+date
+IRON HORSE ACQUISITION CORP.,,,withdrawn,2018-12-20,,,,,,2018-12-01_2018-12-31.json,2026-09-09T01:26:09.585358+00:00,sym:nan|2018-12-20,3,duplicate of a higher-information row for the same symbol+date
+"AVIATION MINING SOLUTIONS, INC.",,,filed,2018-12-28,,3400000.0,,,,2018-12-01_2018-12-31.json,2026-09-09T01:26:09.585358+00:00,sym:nan|2018-12-28,2,duplicate of a higher-information row for the same symbol+date
 "SHUTTLE PHARMACEUTICALS, INC.",,,withdrawn,2019-01-22,,,,,,2019-01-01_2019-01-31.json,2026-09-08T04:20:26.643283+00:00,sym:nan|2019-01-22,3,duplicate of a higher-information row for the same symbol+date
 "REMORA ROYALTIES, INC.",,,withdrawn,2019-01-29,,,,,,2019-01-01_2019-01-31.json,2026-09-08T04:20:26.643283+00:00,sym:nan|2019-01-29,3,duplicate of a higher-information row for the same symbol+date
 POLYPID LTD.,,,withdrawn,2019-03-05,,,,,,2019-03-01_2019-03-31.json,2026-09-08T04:20:30.557845+00:00,sym:nan|2019-03-05,3,duplicate of a higher-information row for the same symbol+date
@@ -164,3 +1051,6 @@ INFINT Acquisition Corp 2,,,withdrawn,2026-07-08,,,,,,2026-07-01_2026-07-31.json
 Zensitive Holding Limited,,,filed,2026-08-07,,28750000.0,,,,2026-08-01_2026-08-31.json,2026-09-08T04:23:28.659530+00:00,sym:nan|2026-08-07,2,duplicate of a higher-information row for the same symbol+date
 Living Homeopathy International Ltd.,,,withdrawn,2026-08-18,,,,,,2026-08-01_2026-08-31.json,2026-09-08T04:23:28.659530+00:00,sym:nan|2026-08-18,3,duplicate of a higher-information row for the same symbol+date
 Hercules Sub LLC,,,withdrawn,2026-09-01,,,,,,2026-09-01_2026-09-08.json,2026-09-08T04:23:30.666973+00:00,sym:nan|2026-09-01,3,duplicate of a higher-information row for the same symbol+date
+Bend NovaTech Group Ltd,,,withdrawn,2026-09-01,,,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:nan|2026-09-01,3,duplicate of a higher-information row for the same symbol+date
+Hercules Sub LLC,,,withdrawn,2026-09-01,,,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:nan|2026-09-01,3,duplicate of a higher-information row for the same symbol+date
+Idea Tech Holding Ltd,,,withdrawn,2026-09-04,,,,,,2026-09-01_2026-09-09.json,2026-09-09T01:26:11.564842+00:00,sym:nan|2026-09-04,3,duplicate of a higher-information row for the same symbol+date

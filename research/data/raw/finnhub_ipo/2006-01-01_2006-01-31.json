@@ -1,0 +1,237 @@
+{
+ "from": "2006-01-01",
+ "to": "2006-01-31",
+ "fetched_at": "2026-09-09T01:20:59.520790+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2006-01-31",
+   "exchange": "Nasdaq National Market",
+   "name": "H&E EQUIPMENT SERVICES, INC.",
+   "numberOfShares": 10937500,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "HEES",
+   "totalSharesValue": 196875000
+  },
+  {
+   "date": "2006-01-31",
+   "exchange": "Nasdaq National Market",
+   "name": "REGENCY ENERGY PARTNERS LP",
+   "numberOfShares": 13750000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "RGNC",
+   "totalSharesValue": 275000000
+  },
+  {
+   "date": "2006-01-31",
+   "exchange": "Nasdaq National Market",
+   "name": "FORTUNET, INC.",
+   "numberOfShares": 2500000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "FNET",
+   "totalSharesValue": 22500000
+  },
+  {
+   "date": "2006-01-30",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PERION NETWORK LTD.",
+   "numberOfShares": 2500000,
+   "price": "7.50",
+   "status": "priced",
+   "symbol": "MAIL",
+   "totalSharesValue": 18750000
+  },
+  {
+   "date": "2006-01-27",
+   "exchange": null,
+   "name": "GSC CAPITAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-01-27",
+   "exchange": "OTCBB",
+   "name": "BIGSTRING CORP",
+   "numberOfShares": 15212670,
+   "price": "0.48",
+   "status": "priced",
+   "symbol": "BSGC",
+   "totalSharesValue": 7302082
+  },
+  {
+   "date": "2006-01-27",
+   "exchange": "OTCBB",
+   "name": "BOULDER BRANDS, INC.",
+   "numberOfShares": 12760840,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "BDSB",
+   "totalSharesValue": 102086720
+  },
+  {
+   "date": "2006-01-26",
+   "exchange": "Nasdaq National Market",
+   "name": "CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",
+   "numberOfShares": 6450000,
+   "price": "21.50",
+   "status": "priced",
+   "symbol": "CLMT",
+   "totalSharesValue": 138675000
+  },
+  {
+   "date": "2006-01-26",
+   "exchange": "Nasdaq National Market",
+   "name": "ALTUS PHARMACEUTICALS INC.",
+   "numberOfShares": 7000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ALTU",
+   "totalSharesValue": 105000000
+  },
+  {
+   "date": "2006-01-26",
+   "exchange": "New York Stock Exchange",
+   "name": "CHIPOTLE MEXICAN GRILL INC",
+   "numberOfShares": 7878788,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "CMG",
+   "totalSharesValue": 173333336
+  },
+  {
+   "date": "2006-01-25",
+   "exchange": "Nasdaq National Market",
+   "name": "TRAFFIC.COM, INC.",
+   "numberOfShares": 6550000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "TRFC",
+   "totalSharesValue": 78600000
+  },
+  {
+   "date": "2006-01-25",
+   "exchange": "OTCBB",
+   "name": "ARGYLE SECURITY, INC.",
+   "numberOfShares": 3625000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "ARGLU",
+   "totalSharesValue": 29000000
+  },
+  {
+   "date": "2006-01-24",
+   "exchange": "Nasdaq National Market",
+   "name": "MAGYAR BANCORP, INC.",
+   "numberOfShares": 2723292,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MGYR",
+   "totalSharesValue": 27232920
+  },
+  {
+   "date": "2006-01-20",
+   "exchange": "Nasdaq National Market",
+   "name": "AMERICAN RAILCAR INDUSTRIES, INC.",
+   "numberOfShares": 8500000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "ARII",
+   "totalSharesValue": 178500000
+  },
+  {
+   "date": "2006-01-19",
+   "exchange": "New York Stock Exchange",
+   "name": "WESTERN REFINING, INC.",
+   "numberOfShares": 22500000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "WNR",
+   "totalSharesValue": 382500000
+  },
+  {
+   "date": "2006-01-19",
+   "exchange": "New York Stock Exchange",
+   "name": "CNX GAS CORP",
+   "numberOfShares": 27936667,
+   "price": "21.75",
+   "status": "priced",
+   "symbol": "CXG",
+   "totalSharesValue": 607622507
+  },
+  {
+   "date": "2006-01-18",
+   "exchange": null,
+   "name": "AMSTAR INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-01-17",
+   "exchange": null,
+   "name": "NES WORLDWIDE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-01-13",
+   "exchange": "Nasdaq National Market",
+   "name": "PRESSBURG, LLC",
+   "numberOfShares": 11750000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "LINE",
+   "totalSharesValue": 246750000
+  },
+  {
+   "date": "2006-01-10",
+   "exchange": null,
+   "name": "GLYCOTEX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-01-09",
+   "exchange": null,
+   "name": "SAFE AUTO INSURANCE GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-01-06",
+   "exchange": null,
+   "name": "ITALIAN FOOD & BEVERAGE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2006-01-04",
+   "exchange": null,
+   "name": "AEROGROW INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

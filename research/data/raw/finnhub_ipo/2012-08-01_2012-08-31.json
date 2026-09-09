@@ -1,0 +1,437 @@
+{
+ "from": "2012-08-01",
+ "to": "2012-08-31",
+ "fetched_at": "2026-09-09T01:23:37.488800+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2012-08-31",
+   "exchange": null,
+   "name": "ELEVANCE RENEWABLE SCIENCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-08-31",
+   "exchange": null,
+   "name": "MOMENTIVE PERFORMANCE MATERIALS HOLDINGS LLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-08-31",
+   "exchange": null,
+   "name": "GREEN LIVING CONCEPTS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2012-08-31",
+   "exchange": null,
+   "name": "TECHNOLOGY APPLICATIONS INTERNATIONAL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3000000
+  },
+  {
+   "date": "2012-08-30",
+   "exchange": null,
+   "name": "NEUTRON ENERGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-08-30",
+   "exchange": null,
+   "name": "MAXCLEAN HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 12034164
+  },
+  {
+   "date": "2012-08-30",
+   "exchange": null,
+   "name": "VYRIAN, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3000000
+  },
+  {
+   "date": "2012-08-29",
+   "exchange": null,
+   "name": "TSEVNI REAL ESTATE GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-08-29",
+   "exchange": null,
+   "name": "PIVOTAL GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 950000
+  },
+  {
+   "date": "2012-08-29",
+   "exchange": null,
+   "name": "4G ENTERPRISES,INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2012-08-23",
+   "exchange": null,
+   "name": "CIRCLE BANCORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-08-23",
+   "exchange": null,
+   "name": "COMPASS ENERGY HOLDINGS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-08-23",
+   "exchange": null,
+   "name": "RENEGADE VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2012-08-23",
+   "exchange": null,
+   "name": "REDFIELD VENTURES, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 95000
+  },
+  {
+   "date": "2012-08-23",
+   "exchange": null,
+   "name": "DISCOUNT COUPONS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2748705.75
+  },
+  {
+   "date": "2012-08-22",
+   "exchange": "OTCBB",
+   "name": "VYCOR MEDICAL INC",
+   "numberOfShares": 93602221,
+   "price": "0.04",
+   "status": "priced",
+   "symbol": "VYCO",
+   "totalSharesValue": 3744089
+  },
+  {
+   "date": "2012-08-21",
+   "exchange": null,
+   "name": "MODERN INTERNATIONAL VENTURES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 600000
+  },
+  {
+   "date": "2012-08-17",
+   "exchange": null,
+   "name": "BAND REP MANAGEMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2012-08-16",
+   "exchange": "New York Stock Exchange",
+   "name": "HI-CRUSH INC.",
+   "numberOfShares": 11250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "HCLP",
+   "totalSharesValue": 191250000
+  },
+  {
+   "date": "2012-08-16",
+   "exchange": null,
+   "name": "SPIRAL ENERGY TECH., INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 939245.5
+  },
+  {
+   "date": "2012-08-14",
+   "exchange": null,
+   "name": "BANCTEC INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-08-14",
+   "exchange": null,
+   "name": "HOMIE RECIPES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-08-13",
+   "exchange": null,
+   "name": "NC SOLAR INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 217702.65
+  },
+  {
+   "date": "2012-08-13",
+   "exchange": null,
+   "name": "AMPLITECH GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1146740
+  },
+  {
+   "date": "2012-08-10",
+   "exchange": "Nasdaq National Market",
+   "name": "PERFORMANT FINANCIAL CORP",
+   "numberOfShares": 9000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "PFMT",
+   "totalSharesValue": 81000000
+  },
+  {
+   "date": "2012-08-10",
+   "exchange": "New York Stock Exchange",
+   "name": "MANCHESTER UNITED PLC",
+   "numberOfShares": 16666667,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MANU",
+   "totalSharesValue": 233333338
+  },
+  {
+   "date": "2012-08-10",
+   "exchange": null,
+   "name": "ARCHSTONE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ASN",
+   "totalSharesValue": 3450000000
+  },
+  {
+   "date": "2012-08-10",
+   "exchange": null,
+   "name": "WORLD STEVIA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2012-08-10",
+   "exchange": null,
+   "name": "STERLING CONSOLIDATED CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 671061.9
+  },
+  {
+   "date": "2012-08-08",
+   "exchange": null,
+   "name": "FENDER MUSICAL INSTRUMENTS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-08-08",
+   "exchange": "Nasdaq National Market",
+   "name": "BLOOMIN' BRANDS, INC.",
+   "numberOfShares": 16000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "BLMN",
+   "totalSharesValue": 176000000
+  },
+  {
+   "date": "2012-08-08",
+   "exchange": "Nasdaq National Market",
+   "name": "PEREGRINE SEMICONDUCTOR CORP",
+   "numberOfShares": 5500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "PSMI",
+   "totalSharesValue": 77000000
+  },
+  {
+   "date": "2012-08-08",
+   "exchange": null,
+   "name": "COUNSELING INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 38170
+  },
+  {
+   "date": "2012-08-07",
+   "exchange": null,
+   "name": "SICHUAN LEADERS PETROCHEMICAL CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 337498
+  },
+  {
+   "date": "2012-08-06",
+   "exchange": null,
+   "name": "NEXX SYSTEMS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-08-03",
+   "exchange": null,
+   "name": "IRONPLANET INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-08-03",
+   "exchange": "New York Stock Exchange",
+   "name": "GLOBUS MEDICAL INC",
+   "numberOfShares": 8333333,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "GMED",
+   "totalSharesValue": 99999996
+  },
+  {
+   "date": "2012-08-02",
+   "exchange": null,
+   "name": "GENOMATICA INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2012-08-02",
+   "exchange": "Nasdaq National Market",
+   "name": "ELOQUA, INC.",
+   "numberOfShares": 8000000,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "ELOQ",
+   "totalSharesValue": 92000000
+  },
+  {
+   "date": "2012-08-02",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "HYDE PARK ACQUISITION CORP. II",
+   "numberOfShares": 7500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HPAC",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2012-08-02",
+   "exchange": null,
+   "name": "E C CONSULTING INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000
+  },
+  {
+   "date": "2012-08-01",
+   "exchange": null,
+   "name": "WEBFOLIO INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2012-08-01",
+   "exchange": null,
+   "name": "ROCKFORD OIL CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 191000
+  }
+ ]
+}

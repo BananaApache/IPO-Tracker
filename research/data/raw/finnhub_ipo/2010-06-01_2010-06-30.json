@@ -1,0 +1,327 @@
+{
+ "from": "2010-06-01",
+ "to": "2010-06-30",
+ "fetched_at": "2026-09-09T01:22:45.463164+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2010-06-30",
+   "exchange": null,
+   "name": "UNIVAR SOLUTIONS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-06-29",
+   "exchange": null,
+   "name": "PORTRAIT INNOVATIONS HOLDING CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-06-29",
+   "exchange": "Nasdaq National Market",
+   "name": "TESLA, INC.",
+   "numberOfShares": 13300000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "TSLA",
+   "totalSharesValue": 226100000
+  },
+  {
+   "date": "2010-06-28",
+   "exchange": null,
+   "name": "GLOBAL AVIATION HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-06-28",
+   "exchange": null,
+   "name": "SECURITAS EDGAR FILINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 64700
+  },
+  {
+   "date": "2010-06-25",
+   "exchange": "New York Stock Exchange",
+   "name": "FABRINET",
+   "numberOfShares": 8500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FN",
+   "totalSharesValue": 85000000
+  },
+  {
+   "date": "2010-06-25",
+   "exchange": null,
+   "name": "AFFINIA GROUP HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "AFN",
+   "totalSharesValue": 230000000
+  },
+  {
+   "date": "2010-06-25",
+   "exchange": null,
+   "name": "FULL THROTTLE INDOOR KART RACING INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3500000
+  },
+  {
+   "date": "2010-06-24",
+   "exchange": "New York Stock Exchange",
+   "name": "HUDSON PACIFIC PROPERTIES, INC.",
+   "numberOfShares": 12800000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "HPP",
+   "totalSharesValue": 217600000
+  },
+  {
+   "date": "2010-06-22",
+   "exchange": null,
+   "name": "BEYOND IVR HOLDINGS, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-06-22",
+   "exchange": "American Stock Exchange",
+   "name": "XPRESSPA GROUP, INC.",
+   "numberOfShares": 2392000,
+   "price": "4.60",
+   "status": "priced",
+   "symbol": "VRNGU",
+   "totalSharesValue": 11003200
+  },
+  {
+   "date": "2010-06-18",
+   "exchange": null,
+   "name": "RESEARCH PHARMACEUTICAL SERVICES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-06-18",
+   "exchange": "American Stock Exchange",
+   "name": "CHINA INTELLIGENT LIGHTING & ELECTRONICS, INC.",
+   "numberOfShares": 3350000,
+   "price": "3.00",
+   "status": "priced",
+   "symbol": "CIL",
+   "totalSharesValue": 10050000
+  },
+  {
+   "date": "2010-06-18",
+   "exchange": "Nasdaq National Market",
+   "name": "MOTRICITY INC",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MOTR",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2010-06-17",
+   "exchange": "New York Stock Exchange",
+   "name": "OASIS PETROLEUM INC.",
+   "numberOfShares": 42000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "OAS",
+   "totalSharesValue": 588000000
+  },
+  {
+   "date": "2010-06-17",
+   "exchange": "New York Stock Exchange",
+   "name": "HIGHER ONE HOLDINGS, INC.",
+   "numberOfShares": 9000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "ONE",
+   "totalSharesValue": 108000000
+  },
+  {
+   "date": "2010-06-17",
+   "exchange": null,
+   "name": "FROGADS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8000
+  },
+  {
+   "date": "2010-06-17",
+   "exchange": null,
+   "name": "ORACO RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 6800
+  },
+  {
+   "date": "2010-06-17",
+   "exchange": null,
+   "name": "PACTERA TECHNOLOGY INTERNATIONAL LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HSFT",
+   "totalSharesValue": 74000000
+  },
+  {
+   "date": "2010-06-16",
+   "exchange": "Nasdaq National Market",
+   "name": "BROADSOFT, INC.",
+   "numberOfShares": 7500000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "BSFT",
+   "totalSharesValue": 67500000
+  },
+  {
+   "date": "2010-06-15",
+   "exchange": "Nasdaq National Market",
+   "name": "CBOE GLOBAL MARKETS, INC.",
+   "numberOfShares": 11700000,
+   "price": "29.00",
+   "status": "priced",
+   "symbol": "CBOE",
+   "totalSharesValue": 339300000
+  },
+  {
+   "date": "2010-06-11",
+   "exchange": null,
+   "name": "DT COMMUNICATIONS, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-06-11",
+   "exchange": "New York Stock Exchange",
+   "name": "CHINA NEW BORUN CORP",
+   "numberOfShares": 5725000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "BORN",
+   "totalSharesValue": 40075000
+  },
+  {
+   "date": "2010-06-11",
+   "exchange": null,
+   "name": "APPIPHANY TECHNOLOGIES HOLDINGS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15000
+  },
+  {
+   "date": "2010-06-11",
+   "exchange": null,
+   "name": "CLASSIC RULES JUDO CHAMPIONSHIPS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 108821.03
+  },
+  {
+   "date": "2010-06-10",
+   "exchange": null,
+   "name": "SPACE SYSTEMS/LORAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-06-09",
+   "exchange": "New York Stock Exchange",
+   "name": "TEUCRIUM COMMODITY TRUST",
+   "numberOfShares": 30000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "CORN",
+   "totalSharesValue": 750000000
+  },
+  {
+   "date": "2010-06-09",
+   "exchange": null,
+   "name": "TURNPOINT GLOBAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2010-06-07",
+   "exchange": null,
+   "name": "LRI HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2010-06-03",
+   "exchange": "OTCBB",
+   "name": "GHN AGRISPAN HOLDING CO",
+   "numberOfShares": 850000,
+   "price": "0.05",
+   "status": "priced",
+   "symbol": "GHNA",
+   "totalSharesValue": 42500
+  },
+  {
+   "date": "2010-06-02",
+   "exchange": "New York Stock Exchange",
+   "name": "UNITED STATES BRENT OIL FUND, LP",
+   "numberOfShares": 50000000,
+   "price": "50.97",
+   "status": "priced",
+   "symbol": "BNO",
+   "totalSharesValue": 2548500000
+  },
+  {
+   "date": "2010-06-02",
+   "exchange": null,
+   "name": "BALLROOM DANCE FITNESS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2400000
+  }
+ ]
+}

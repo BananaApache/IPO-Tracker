@@ -1,0 +1,257 @@
+{
+ "from": "2018-12-01",
+ "to": "2018-12-31",
+ "fetched_at": "2026-09-09T01:26:09.585358+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2018-12-28",
+   "exchange": null,
+   "name": "ANDES 7 INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2018-12-28",
+   "exchange": null,
+   "name": "AVIATION MINING SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3400000
+  },
+  {
+   "date": "2018-12-27",
+   "exchange": "NASDAQ Capital",
+   "name": "PUHUI WEALTH INVESTMENT MANAGEMENT CO., LTD.",
+   "numberOfShares": 2000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "PHCF",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2018-12-27",
+   "exchange": null,
+   "name": "FIT BOXX HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FBOX",
+   "totalSharesValue": 14950000
+  },
+  {
+   "date": "2018-12-27",
+   "exchange": null,
+   "name": "NOWEA ENERGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 78000
+  },
+  {
+   "date": "2018-12-21",
+   "exchange": null,
+   "name": "SPINEEX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-12-20",
+   "exchange": null,
+   "name": "IBEX HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-12-20",
+   "exchange": null,
+   "name": "IRON HORSE ACQUISITION CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-12-19",
+   "exchange": null,
+   "name": "UNITED STATES COMMODITY INDEX FUNDS TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-12-19",
+   "exchange": "NASDAQ Global Select",
+   "name": "AMERANT BANCORP INC.",
+   "numberOfShares": 6300000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "AMTB",
+   "totalSharesValue": 81900000
+  },
+  {
+   "date": "2018-12-18",
+   "exchange": "NASDAQ Capital",
+   "name": "APTORUM GROUP LTD",
+   "numberOfShares": 1898734,
+   "price": "15.80",
+   "status": "priced",
+   "symbol": "APM",
+   "totalSharesValue": 29999997
+  },
+  {
+   "date": "2018-12-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "LEGACY HOUSING CORP",
+   "numberOfShares": 4000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "LEGH",
+   "totalSharesValue": 48000000
+  },
+  {
+   "date": "2018-12-14",
+   "exchange": "NYSE MKT",
+   "name": "BIOMX INC.",
+   "numberOfShares": 7000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CHACU",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2018-12-14",
+   "exchange": "NASDAQ",
+   "name": "360 FINANCE, INC.",
+   "numberOfShares": 3100000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "QFIN",
+   "totalSharesValue": 51150000
+  },
+  {
+   "date": "2018-12-14",
+   "exchange": null,
+   "name": "BIGEON CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 130000
+  },
+  {
+   "date": "2018-12-14",
+   "exchange": null,
+   "name": "JS BEAUTY LAND NETWORK TECHNOLOGY INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1456425
+  },
+  {
+   "date": "2018-12-13",
+   "exchange": null,
+   "name": "TAL CONSOLIDATED INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-12-13",
+   "exchange": "NASDAQ Capital",
+   "name": "CF FINANCE ACQUISITION CORP.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CFFAU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2018-12-12",
+   "exchange": "NYSE",
+   "name": "TENCENT MUSIC ENTERTAINMENT GROUP",
+   "numberOfShares": 82000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "TME",
+   "totalSharesValue": 1066000000
+  },
+  {
+   "date": "2018-12-11",
+   "exchange": "NASDAQ Capital",
+   "name": "SCHULTZE SPECIAL PURPOSE ACQUISITION CORP.",
+   "numberOfShares": 13000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "SAMAU",
+   "totalSharesValue": 130000000
+  },
+  {
+   "date": "2018-12-11",
+   "exchange": null,
+   "name": "CANNABINOID BIOSCIENCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2018-12-07",
+   "exchange": "NASDAQ Global Select",
+   "name": "MODERNA, INC.",
+   "numberOfShares": 26275993,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "MRNA",
+   "totalSharesValue": 604347839
+  },
+  {
+   "date": "2018-12-07",
+   "exchange": "NASDAQ Capital",
+   "name": "DIAMEDICA THERAPEUTICS INC.",
+   "numberOfShares": 4100000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "DMAC",
+   "totalSharesValue": 16400000
+  },
+  {
+   "date": "2018-12-07",
+   "exchange": "NASDAQ Global Select",
+   "name": "SYNTHORX, INC.",
+   "numberOfShares": 11912727,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "THOR",
+   "totalSharesValue": 131039997
+  },
+  {
+   "date": "2018-12-06",
+   "exchange": "NYSE",
+   "name": "MOGU INC.",
+   "numberOfShares": 4750000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "MOGU",
+   "totalSharesValue": 66500000
+  }
+ ]
+}

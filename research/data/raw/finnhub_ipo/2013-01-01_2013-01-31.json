@@ -1,0 +1,357 @@
+{
+ "from": "2013-01-01",
+ "to": "2013-01-31",
+ "fetched_at": "2026-09-09T01:23:47.492187+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2013-01-31",
+   "exchange": "New York Stock Exchange",
+   "name": "TRI POINTE GROUP, INC.",
+   "numberOfShares": 13689000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "TPH",
+   "totalSharesValue": 232713000
+  },
+  {
+   "date": "2013-01-31",
+   "exchange": "Nasdaq National Market",
+   "name": "HUMANIGEN, INC",
+   "numberOfShares": 8750000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "KBIO",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2013-01-31",
+   "exchange": null,
+   "name": "NXT-ID, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1076000
+  },
+  {
+   "date": "2013-01-31",
+   "exchange": null,
+   "name": "BALIUS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-01-31",
+   "exchange": null,
+   "name": "SPORT STIX INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2013-01-30",
+   "exchange": null,
+   "name": "VANELL, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 52800
+  },
+  {
+   "date": "2013-01-30",
+   "exchange": null,
+   "name": "PERKINS OIL & GAS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2013-01-30",
+   "exchange": null,
+   "name": "LOAD GUARD LOGISTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 142250
+  },
+  {
+   "date": "2013-01-29",
+   "exchange": null,
+   "name": "OFFSITE DOCS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-01-29",
+   "exchange": "Nasdaq National Market",
+   "name": "GLADSTONE LAND CORP",
+   "numberOfShares": 3333334,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "LAND",
+   "totalSharesValue": 50000010
+  },
+  {
+   "date": "2013-01-29",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "STEMLINE THERAPEUTICS INC",
+   "numberOfShares": 3317644,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "STML",
+   "totalSharesValue": 33176440
+  },
+  {
+   "date": "2013-01-25",
+   "exchange": null,
+   "name": "AUTOTRADER GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-01-25",
+   "exchange": "New York Stock Exchange",
+   "name": "BRIGHT HORIZONS FAMILY SOLUTIONS INC.",
+   "numberOfShares": 10100000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "BFAM",
+   "totalSharesValue": 222200000
+  },
+  {
+   "date": "2013-01-25",
+   "exchange": "Nasdaq National Market",
+   "name": "LIPOSCIENCE INC",
+   "numberOfShares": 5000000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "LPDX",
+   "totalSharesValue": 45000000
+  },
+  {
+   "date": "2013-01-25",
+   "exchange": null,
+   "name": "COLD CAM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-01-23",
+   "exchange": null,
+   "name": "EXTEND HEALTH INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-01-22",
+   "exchange": null,
+   "name": "DR. PARK AVE.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-01-18",
+   "exchange": "Nasdaq National Market",
+   "name": "CYRUSONE INC.",
+   "numberOfShares": 16500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "CONE",
+   "totalSharesValue": 313500000
+  },
+  {
+   "date": "2013-01-18",
+   "exchange": "New York Stock Exchange",
+   "name": "SUNCOKE ENERGY PARTNERS, L.P.",
+   "numberOfShares": 13500000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "SXCP",
+   "totalSharesValue": 256500000
+  },
+  {
+   "date": "2013-01-18",
+   "exchange": "Nasdaq National Market",
+   "name": "NORWEGIAN CRUISE LINE HOLDINGS LTD.",
+   "numberOfShares": 23529412,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "NCLH",
+   "totalSharesValue": 447058828
+  },
+  {
+   "date": "2013-01-17",
+   "exchange": "New York Stock Exchange",
+   "name": "CVR REFINING, LP",
+   "numberOfShares": 24000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "CVRR",
+   "totalSharesValue": 600000000
+  },
+  {
+   "date": "2013-01-17",
+   "exchange": null,
+   "name": "TWENTYFOUR/SEVEN VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 28500
+  },
+  {
+   "date": "2013-01-17",
+   "exchange": null,
+   "name": "LOLLIPOP CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-01-17",
+   "exchange": null,
+   "name": "AXIOM CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 39650
+  },
+  {
+   "date": "2013-01-17",
+   "exchange": null,
+   "name": "STARSTREAM ENTERTAINMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2013-01-16",
+   "exchange": null,
+   "name": "INTEGRITY APPLICATIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-01-15",
+   "exchange": null,
+   "name": "PLATINUM ENERGY SOLUTIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-01-15",
+   "exchange": "New York Stock Exchange",
+   "name": "USA COMPRESSION PARTNERS, LP",
+   "numberOfShares": 11000000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "USAC",
+   "totalSharesValue": 198000000
+  },
+  {
+   "date": "2013-01-11",
+   "exchange": null,
+   "name": "BOXCEIPTS.COM, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-01-10",
+   "exchange": null,
+   "name": "HALEX ENERGY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3000000
+  },
+  {
+   "date": "2013-01-08",
+   "exchange": null,
+   "name": "ARAX HOLDINGS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-01-07",
+   "exchange": null,
+   "name": "INTERACTIVE MULTI MEDIA AUCTION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 705000
+  },
+  {
+   "date": "2013-01-04",
+   "exchange": null,
+   "name": "CERULEAN GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-01-03",
+   "exchange": null,
+   "name": "HBP ENERGY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 120000
+  },
+  {
+   "date": "2013-01-02",
+   "exchange": "OTCBB",
+   "name": "ARCH THERAPEUTICS, INC.",
+   "numberOfShares": 4000000,
+   "price": "1.01",
+   "status": "priced",
+   "symbol": "AAHC",
+   "totalSharesValue": 4040000
+  }
+ ]
+}

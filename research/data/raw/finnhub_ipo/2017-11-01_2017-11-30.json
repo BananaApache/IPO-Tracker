@@ -1,0 +1,437 @@
+{
+ "from": "2017-11-01",
+ "to": "2017-11-30",
+ "fetched_at": "2026-09-09T01:25:43.553293+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-11-30",
+   "exchange": "NASDAQ Capital",
+   "name": "BOXLIGHT CORP",
+   "numberOfShares": 1000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "BOXL",
+   "totalSharesValue": 7000000
+  },
+  {
+   "date": "2017-11-30",
+   "exchange": null,
+   "name": "HOLOGRAM USA NETWORKS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "HOLO",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2017-11-29",
+   "exchange": null,
+   "name": "REVERSE MORTGAGE INVESTMENT TRUST INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-11-29",
+   "exchange": "NASDAQ Capital",
+   "name": "RETO ECO-SOLUTIONS, INC.",
+   "numberOfShares": 2800000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "RETO",
+   "totalSharesValue": 14000000
+  },
+  {
+   "date": "2017-11-22",
+   "exchange": null,
+   "name": "FDCTECH, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 450000
+  },
+  {
+   "date": "2017-11-20",
+   "exchange": null,
+   "name": "HIGHLAND ACQUISITION CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-11-20",
+   "exchange": "NASDAQ Capital",
+   "name": "BIG ROCK PARTNERS ACQUISITION CORP.",
+   "numberOfShares": 6000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BRPAU",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2017-11-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "STITCH FIX, INC.",
+   "numberOfShares": 8000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "SFIX",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2017-11-17",
+   "exchange": "NASDAQ Capital",
+   "name": "STERLING BANCORP, INC.",
+   "numberOfShares": 15000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "SBT",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2017-11-17",
+   "exchange": "NYSE",
+   "name": "SAILPOINT TECHNOLOGIES HOLDINGS, INC.",
+   "numberOfShares": 20000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "SAIL",
+   "totalSharesValue": 240000000
+  },
+  {
+   "date": "2017-11-17",
+   "exchange": "NYSE",
+   "name": "BLUEGREEN VACATIONS CORP",
+   "numberOfShares": 6498648,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "BXG",
+   "totalSharesValue": 90981072
+  },
+  {
+   "date": "2017-11-17",
+   "exchange": "NASDAQ Global Select",
+   "name": "SCPHARMACEUTICALS INC.",
+   "numberOfShares": 6400000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "SCPH",
+   "totalSharesValue": 89600000
+  },
+  {
+   "date": "2017-11-17",
+   "exchange": "NYSE",
+   "name": "LEGACY ACQUISITION CORP.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LGC'U",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2017-11-17",
+   "exchange": "NASDAQ Capital",
+   "name": "AMERI HOLDINGS, INC.",
+   "numberOfShares": 1475000,
+   "price": "4.115",
+   "status": "priced",
+   "symbol": "AMRH",
+   "totalSharesValue": 6077000
+  },
+  {
+   "date": "2017-11-17",
+   "exchange": "NYSE MKT",
+   "name": "CBDMD, INC.",
+   "numberOfShares": 2000000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "LEVB",
+   "totalSharesValue": 12000000
+  },
+  {
+   "date": "2017-11-16",
+   "exchange": "NASDAQ Global",
+   "name": "X4 PHARMACEUTICALS, INC",
+   "numberOfShares": 4000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "ASNS",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2017-11-16",
+   "exchange": "NYSE",
+   "name": "JIANPU TECHNOLOGY INC.",
+   "numberOfShares": 22500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "JT",
+   "totalSharesValue": 180000000
+  },
+  {
+   "date": "2017-11-16",
+   "exchange": null,
+   "name": "POGOTEC, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 32000000
+  },
+  {
+   "date": "2017-11-15",
+   "exchange": "NYSE",
+   "name": "SENDGRID, INC.",
+   "numberOfShares": 8200000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "SEND",
+   "totalSharesValue": 131200000
+  },
+  {
+   "date": "2017-11-13",
+   "exchange": null,
+   "name": "ASPEN DIGITAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 33500000
+  },
+  {
+   "date": "2017-11-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "ERYTECH PHARMA S.A.",
+   "numberOfShares": 4686106,
+   "price": "23.26",
+   "status": "priced",
+   "symbol": "ERYP",
+   "totalSharesValue": 108998826
+  },
+  {
+   "date": "2017-11-10",
+   "exchange": "NASDAQ Global Select",
+   "name": "BANDWIDTH INC.",
+   "numberOfShares": 4000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "BAND",
+   "totalSharesValue": 80000000
+  },
+  {
+   "date": "2017-11-10",
+   "exchange": "NYSE",
+   "name": "FINVOLUTION GROUP",
+   "numberOfShares": 17000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "PPDF",
+   "totalSharesValue": 221000000
+  },
+  {
+   "date": "2017-11-09",
+   "exchange": "NYSE",
+   "name": "SOGOU INC.",
+   "numberOfShares": 45000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "SOGO",
+   "totalSharesValue": 585000000
+  },
+  {
+   "date": "2017-11-09",
+   "exchange": "NASDAQ Global Select",
+   "name": "APELLIS PHARMACEUTICALS, INC.",
+   "numberOfShares": 10714000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "APLS",
+   "totalSharesValue": 149996000
+  },
+  {
+   "date": "2017-11-08",
+   "exchange": "NYSE",
+   "name": "METROPOLITAN BANK HOLDING CORP.",
+   "numberOfShares": 3100000,
+   "price": "35.00",
+   "status": "priced",
+   "symbol": "MCB",
+   "totalSharesValue": 108500000
+  },
+  {
+   "date": "2017-11-08",
+   "exchange": "NASDAQ Global Select",
+   "name": "CBTX, INC.",
+   "numberOfShares": 2400000,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "CBTX",
+   "totalSharesValue": 62400000
+  },
+  {
+   "date": "2017-11-08",
+   "exchange": "NYSE",
+   "name": "FOUR SEASONS EDUCATION (CAYMAN) INC.",
+   "numberOfShares": 10100000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "FEDU",
+   "totalSharesValue": 101000000
+  },
+  {
+   "date": "2017-11-08",
+   "exchange": "NASDAQ Global Select",
+   "name": "INFLARX N.V.",
+   "numberOfShares": 6667000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "IFRX",
+   "totalSharesValue": 100005000
+  },
+  {
+   "date": "2017-11-03",
+   "exchange": null,
+   "name": "FULL SPECTRUM INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-11-03",
+   "exchange": "NYSE",
+   "name": "AQUANTIA CORP",
+   "numberOfShares": 6818000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "AQ",
+   "totalSharesValue": 61362000
+  },
+  {
+   "date": "2017-11-03",
+   "exchange": "NASDAQ Global",
+   "name": "ACM RESEARCH, INC.",
+   "numberOfShares": 2000000,
+   "price": "5.60",
+   "status": "priced",
+   "symbol": "ACMR",
+   "totalSharesValue": 11200000
+  },
+  {
+   "date": "2017-11-03",
+   "exchange": "NASDAQ Capital",
+   "name": "SENTINEL ENERGY SERVICES INC.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "STNLU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2017-11-03",
+   "exchange": "NASDAQ Global",
+   "name": "HEXINDAI INC.",
+   "numberOfShares": 5000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HX",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2017-11-03",
+   "exchange": null,
+   "name": "ARAZU, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 560450
+  },
+  {
+   "date": "2017-11-02",
+   "exchange": "NYSE",
+   "name": "EVOQUA WATER TECHNOLOGIES CORP.",
+   "numberOfShares": 27777777,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "AQUA",
+   "totalSharesValue": 499999986
+  },
+  {
+   "date": "2017-11-02",
+   "exchange": "NASDAQ Global Select",
+   "name": "FUNKO, INC.",
+   "numberOfShares": 10416666,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "FNKO",
+   "totalSharesValue": 124999992
+  },
+  {
+   "date": "2017-11-02",
+   "exchange": "NASDAQ Global Select",
+   "name": "ALLENA PHARMACEUTICALS, INC.",
+   "numberOfShares": 5333333,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ALNA",
+   "totalSharesValue": 74666662
+  },
+  {
+   "date": "2017-11-02",
+   "exchange": "NASDAQ Global Select",
+   "name": "SPERO THERAPEUTICS, INC.",
+   "numberOfShares": 5500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "SPRO",
+   "totalSharesValue": 77000000
+  },
+  {
+   "date": "2017-11-02",
+   "exchange": null,
+   "name": "SIGMARENOPRO, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 55000
+  },
+  {
+   "date": "2017-11-01",
+   "exchange": null,
+   "name": "VENCORE HOLDING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-11-01",
+   "exchange": "NYSE",
+   "name": "LOMA NEGRA COMPANIA INDUSTRIAL ARGENTINA SOCIEDAD ANONIMA",
+   "numberOfShares": 46000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "LOMA",
+   "totalSharesValue": 874000000
+  },
+  {
+   "date": "2017-11-01",
+   "exchange": "NASDAQ Global Select",
+   "name": "ALTAIR ENGINEERING INC.",
+   "numberOfShares": 12000000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "ALTR",
+   "totalSharesValue": 156000000
+  }
+ ]
+}

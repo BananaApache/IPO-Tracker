@@ -1,0 +1,317 @@
+{
+ "from": "2015-09-01",
+ "to": "2015-09-30",
+ "fetched_at": "2026-09-09T01:24:51.539529+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2015-09-28",
+   "exchange": null,
+   "name": "MOMENTOUS HOLDINGS CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2015-09-28",
+   "exchange": null,
+   "name": "VEGAS RENTAL DEVELOPMENT INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 400000
+  },
+  {
+   "date": "2015-09-25",
+   "exchange": null,
+   "name": "PAR PHARMACEUTICAL HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-09-25",
+   "exchange": null,
+   "name": "NEUROSIGMA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-09-24",
+   "exchange": null,
+   "name": "CAPSTONE SYSTEMS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2015-09-24",
+   "exchange": null,
+   "name": "JACC STUDIOS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 126000
+  },
+  {
+   "date": "2015-09-24",
+   "exchange": null,
+   "name": "APEX RESOURCES INC/NV",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2015-09-23",
+   "exchange": null,
+   "name": "ECO ENERGY TECH ASIA, LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 82000
+  },
+  {
+   "date": "2015-09-22",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "ESTRE USA INC.",
+   "numberOfShares": 35000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BLVDU",
+   "totalSharesValue": 350000000
+  },
+  {
+   "date": "2015-09-18",
+   "exchange": "New York Stock Exchange",
+   "name": "PENUMBRA INC",
+   "numberOfShares": 4000000,
+   "price": "30.00",
+   "status": "priced",
+   "symbol": "PEN",
+   "totalSharesValue": 120000000
+  },
+  {
+   "date": "2015-09-18",
+   "exchange": "Nasdaq National Market",
+   "name": "NABRIVA THERAPEUTICS PLC",
+   "numberOfShares": 9000000,
+   "price": "10.25",
+   "status": "priced",
+   "symbol": "NBRV",
+   "totalSharesValue": 92250000
+  },
+  {
+   "date": "2015-09-18",
+   "exchange": null,
+   "name": "WADENA CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3138750
+  },
+  {
+   "date": "2015-09-17",
+   "exchange": "Nasdaq National Market",
+   "name": "REGENXBIO INC.",
+   "numberOfShares": 6300000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "RGNX",
+   "totalSharesValue": 138600000
+  },
+  {
+   "date": "2015-09-16",
+   "exchange": null,
+   "name": "VIGILANT DIVERSIFIED HOLDINGS, INC./NV",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2015-09-15",
+   "exchange": null,
+   "name": "TV PRODUCTOS PRO CO., LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2015-09-14",
+   "exchange": null,
+   "name": "SRA COMPANIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-09-14",
+   "exchange": null,
+   "name": "UNICOBE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2015-09-11",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PACE HOLDINGS CORP.",
+   "numberOfShares": 40000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PACEU",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2015-09-11",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "WILLSCOT CORP",
+   "numberOfShares": 48000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EAGLU",
+   "totalSharesValue": 480000000
+  },
+  {
+   "date": "2015-09-10",
+   "exchange": null,
+   "name": "EOS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2015-09-09",
+   "exchange": null,
+   "name": "ENERGY & EXPLORATION PARTNERS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-09-09",
+   "exchange": null,
+   "name": "HEALTH-RIGHT DISCOVERIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2629561
+  },
+  {
+   "date": "2015-09-08",
+   "exchange": null,
+   "name": "ARC LIFESTYLE GROUP INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1297680
+  },
+  {
+   "date": "2015-09-08",
+   "exchange": null,
+   "name": "SAVMOBI TECHNOLOGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2015-09-04",
+   "exchange": null,
+   "name": "REVO BIOLOGICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-09-04",
+   "exchange": null,
+   "name": "APPSOFT TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2015-09-03",
+   "exchange": null,
+   "name": "AP EVENT INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2015-09-03",
+   "exchange": null,
+   "name": "CHINA SOAR INFORMATION TECHNOLOGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2750000
+  },
+  {
+   "date": "2015-09-03",
+   "exchange": null,
+   "name": "VATEE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2015-09-02",
+   "exchange": null,
+   "name": "GC AESTHETICS PLC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2015-09-02",
+   "exchange": null,
+   "name": "ENOVATION CONTROLS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  }
+ ]
+}

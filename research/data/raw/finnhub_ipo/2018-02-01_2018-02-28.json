@@ -1,0 +1,277 @@
+{
+ "from": "2018-02-01",
+ "to": "2018-02-28",
+ "fetched_at": "2026-09-09T01:25:49.566755+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2018-02-28",
+   "exchange": "NYSE",
+   "name": "UNION ACQUISITION CORP.",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LTN'U",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2018-02-16",
+   "exchange": "NASDAQ Capital",
+   "name": "ADAPTHEALTH CORP.",
+   "numberOfShares": 25000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "DFBHU",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2018-02-16",
+   "exchange": "NASDAQ Capital",
+   "name": "FARMMI, INC.",
+   "numberOfShares": 1680000,
+   "price": "4.00",
+   "status": "priced",
+   "symbol": "FAMI",
+   "totalSharesValue": 6720000
+  },
+  {
+   "date": "2018-02-14",
+   "exchange": "NASDAQ Capital",
+   "name": "MOTUS GI HOLDINGS, INC.",
+   "numberOfShares": 3500000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "MOTS",
+   "totalSharesValue": 17500000
+  },
+  {
+   "date": "2018-02-14",
+   "exchange": "NASDAQ Capital",
+   "name": "BIOFRONTERA AG",
+   "numberOfShares": 1215000,
+   "price": "9.88",
+   "status": "priced",
+   "symbol": "BFRA",
+   "totalSharesValue": 12004200
+  },
+  {
+   "date": "2018-02-13",
+   "exchange": "NYSE",
+   "name": "LEO HOLDINGS CORP.",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LHC'U",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2018-02-09",
+   "exchange": "NASDAQ Global",
+   "name": "CARDLYTICS, INC.",
+   "numberOfShares": 5400000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "CDLX",
+   "totalSharesValue": 70200000
+  },
+  {
+   "date": "2018-02-09",
+   "exchange": "NYSE",
+   "name": "QUINTANA ENERGY SERVICES INC.",
+   "numberOfShares": 9259259,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "QES",
+   "totalSharesValue": 92592590
+  },
+  {
+   "date": "2018-02-08",
+   "exchange": "NASDAQ Global",
+   "name": "EVOLUS, INC.",
+   "numberOfShares": 5000000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "EOLS",
+   "totalSharesValue": 60000000
+  },
+  {
+   "date": "2018-02-08",
+   "exchange": "NASDAQ Global Select",
+   "name": "VICTORY CAPITAL HOLDINGS, INC.",
+   "numberOfShares": 11700000,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "VCTR",
+   "totalSharesValue": 152100000
+  },
+  {
+   "date": "2018-02-08",
+   "exchange": "NYSE",
+   "name": "HUAMI CORP",
+   "numberOfShares": 10000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "HMI",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2018-02-08",
+   "exchange": "NYSE",
+   "name": "CACTUS, INC.",
+   "numberOfShares": 23000000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "WHD",
+   "totalSharesValue": 437000000
+  },
+  {
+   "date": "2018-02-08",
+   "exchange": "NASDAQ Capital",
+   "name": "MUDRICK CAPITAL ACQUISITION CORP",
+   "numberOfShares": 20000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "MUDSU",
+   "totalSharesValue": 200000000
+  },
+  {
+   "date": "2018-02-06",
+   "exchange": null,
+   "name": "TIPMEFAST, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 65000
+  },
+  {
+   "date": "2018-02-05",
+   "exchange": null,
+   "name": "WORKSPACE PROPERTY TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2018-02-05",
+   "exchange": "NYSE Arca",
+   "name": "GRANITESHARES PLATINUM TRUST",
+   "numberOfShares": 1000000,
+   "price": "9.94",
+   "status": "priced",
+   "symbol": "PLTM",
+   "totalSharesValue": 9940000
+  },
+  {
+   "date": "2018-02-05",
+   "exchange": "NASDAQ Capital",
+   "name": "SSLJ. COM LTD",
+   "numberOfShares": 4000000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SSLJ",
+   "totalSharesValue": 20000000
+  },
+  {
+   "date": "2018-02-02",
+   "exchange": "NYSE",
+   "name": "CENTRAL PUERTO S.A.",
+   "numberOfShares": 20000000,
+   "price": "16.50",
+   "status": "priced",
+   "symbol": "CEPU",
+   "totalSharesValue": 330000000
+  },
+  {
+   "date": "2018-02-02",
+   "exchange": "NYSE",
+   "name": "FTS INTERNATIONAL, INC.",
+   "numberOfShares": 19500000,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "FTSI",
+   "totalSharesValue": 351000000
+  },
+  {
+   "date": "2018-02-02",
+   "exchange": null,
+   "name": "EXENT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2018-02-01",
+   "exchange": "NYSE",
+   "name": "CORPORACION AMERICA AIRPORTS S.A.",
+   "numberOfShares": 28571429,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "CAAP",
+   "totalSharesValue": 485714293
+  },
+  {
+   "date": "2018-02-01",
+   "exchange": "NYSE",
+   "name": "VICI PROPERTIES INC.",
+   "numberOfShares": 60500000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "VICI",
+   "totalSharesValue": 1210000000
+  },
+  {
+   "date": "2018-02-01",
+   "exchange": "NASDAQ Global Select",
+   "name": "IPIC ENTERTAINMENT INC.",
+   "numberOfShares": 818429,
+   "price": "18.50",
+   "status": "priced",
+   "symbol": "IPIC",
+   "totalSharesValue": 15140937
+  },
+  {
+   "date": "2018-02-01",
+   "exchange": "NASDAQ Capital",
+   "name": "ONE STOP SYSTEMS, INC.",
+   "numberOfShares": 3800000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "OSS",
+   "totalSharesValue": 19000000
+  },
+  {
+   "date": "2018-02-01",
+   "exchange": "NYSE",
+   "name": "HUDSON LTD.",
+   "numberOfShares": 39417765,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "HUD",
+   "totalSharesValue": 748937535
+  },
+  {
+   "date": "2018-02-01",
+   "exchange": "NASDAQ Global",
+   "name": "SOL-GEL TECHNOLOGIES LTD.",
+   "numberOfShares": 6250000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "SLGL",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2018-02-01",
+   "exchange": null,
+   "name": "ELECTRAMECCANICA VEHICLES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SOLO",
+   "totalSharesValue": 17250000
+  }
+ ]
+}

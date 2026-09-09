@@ -1,0 +1,247 @@
+{
+ "from": "2007-09-01",
+ "to": "2007-09-30",
+ "fetched_at": "2026-09-09T01:21:39.431913+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2007-09-28",
+   "exchange": null,
+   "name": "RESOLUTE ENERGY PARTNERS, LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-28",
+   "exchange": "New York Stock Exchange",
+   "name": "DUFF & PHELPS CORP",
+   "numberOfShares": 8300000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "DUF",
+   "totalSharesValue": 132800000
+  },
+  {
+   "date": "2007-09-28",
+   "exchange": "American Stock Exchange",
+   "name": "CHINA CGAME, INC.",
+   "numberOfShares": 737000,
+   "price": "3.50",
+   "status": "priced",
+   "symbol": "RCH",
+   "totalSharesValue": 2579500
+  },
+  {
+   "date": "2007-09-27",
+   "exchange": null,
+   "name": "MILESTONE AV TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-25",
+   "exchange": null,
+   "name": "KEVEN INVESTMENTS",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-25",
+   "exchange": "OTCBB",
+   "name": "UFOOD RESTAURANT GROUP, INC.",
+   "numberOfShares": 5800000,
+   "price": "1.08",
+   "status": "priced",
+   "symbol": "UFFC",
+   "totalSharesValue": 6264000
+  },
+  {
+   "date": "2007-09-21",
+   "exchange": null,
+   "name": "EMPHASYS MEDICAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-21",
+   "exchange": null,
+   "name": "ELIXIR PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-20",
+   "exchange": "Nasdaq National Market",
+   "name": "ATHENAHEALTH INC",
+   "numberOfShares": 6286819,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "ATHN",
+   "totalSharesValue": 113162742
+  },
+  {
+   "date": "2007-09-19",
+   "exchange": null,
+   "name": "BLUE PENGUIN ENTERPRISES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-18",
+   "exchange": null,
+   "name": "TURNER INVESTMENTS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-17",
+   "exchange": "OTCBB",
+   "name": "SPI ENERGY CO., LTD.",
+   "numberOfShares": 18753334,
+   "price": "1.25",
+   "status": "priced",
+   "symbol": "SOPW",
+   "totalSharesValue": 23441668
+  },
+  {
+   "date": "2007-09-14",
+   "exchange": null,
+   "name": "VAROLII CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-14",
+   "exchange": null,
+   "name": "TRANSMEDICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-13",
+   "exchange": null,
+   "name": "POGO JET, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-13",
+   "exchange": null,
+   "name": "EXCO PARTNERS, LP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-12",
+   "exchange": null,
+   "name": "KNIGHTSBRIDGE RESOURCES INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-12",
+   "exchange": null,
+   "name": "SEACASTLE INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-12",
+   "exchange": null,
+   "name": "AMC ENTERTAINMENT HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-12",
+   "exchange": "New York Stock Exchange",
+   "name": "ENCORE ENERGY PARTNERS LP",
+   "numberOfShares": 9000000,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "ENP",
+   "totalSharesValue": 189000000
+  },
+  {
+   "date": "2007-09-12",
+   "exchange": null,
+   "name": "FLY LEASING LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "FLY",
+   "totalSharesValue": 429999950
+  },
+  {
+   "date": "2007-09-10",
+   "exchange": null,
+   "name": "APRIMO, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-07",
+   "exchange": null,
+   "name": "BLUEARC CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2007-09-05",
+   "exchange": "OTCBB",
+   "name": "INTERAMERICAN ACQUISITION GROUP INC",
+   "numberOfShares": 5000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "IAQGU",
+   "totalSharesValue": 40000000
+  }
+ ]
+}

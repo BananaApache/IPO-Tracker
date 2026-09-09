@@ -1,0 +1,467 @@
+{
+ "from": "2013-07-01",
+ "to": "2013-07-31",
+ "fetched_at": "2026-09-09T01:23:59.519971+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2013-07-31",
+   "exchange": null,
+   "name": "IROKO PHARMACEUTICALS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-07-31",
+   "exchange": null,
+   "name": "ESIR1,INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 750000
+  },
+  {
+   "date": "2013-07-31",
+   "exchange": null,
+   "name": "MASCOTA RESOURCES CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 14250
+  },
+  {
+   "date": "2013-07-30",
+   "exchange": null,
+   "name": "CATACA RESOURCES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2013-07-29",
+   "exchange": null,
+   "name": "CHANGING TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 30000
+  },
+  {
+   "date": "2013-07-29",
+   "exchange": null,
+   "name": "ALTAIR INTERNATIONAL CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2013-07-29",
+   "exchange": null,
+   "name": "STELLA BLU, INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 450000
+  },
+  {
+   "date": "2013-07-26",
+   "exchange": null,
+   "name": "EMI HOLDING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-07-26",
+   "exchange": "Nasdaq National Market",
+   "name": "AZURE MIDSTREAM PARTNERS, LP",
+   "numberOfShares": 6875000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "FISH",
+   "totalSharesValue": 137500000
+  },
+  {
+   "date": "2013-07-26",
+   "exchange": "Nasdaq National Market",
+   "name": "LIQUID HOLDINGS GROUP, INC.",
+   "numberOfShares": 3175000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "LIQD",
+   "totalSharesValue": 28575000
+  },
+  {
+   "date": "2013-07-25",
+   "exchange": null,
+   "name": "ARMSTRONG ENERGY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-07-25",
+   "exchange": "Nasdaq National Market",
+   "name": "CELLULAR DYNAMICS INTERNATIONAL, INC.",
+   "numberOfShares": 3846000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "ICEL",
+   "totalSharesValue": 46152000
+  },
+  {
+   "date": "2013-07-25",
+   "exchange": "Nasdaq National Market",
+   "name": "CONATUS PHARMACEUTICALS INC.",
+   "numberOfShares": 6000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "CNAT",
+   "totalSharesValue": 66000000
+  },
+  {
+   "date": "2013-07-25",
+   "exchange": "Nasdaq National Market",
+   "name": "ONCONOVA THERAPEUTICS, INC.",
+   "numberOfShares": 5166667,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "ONTX",
+   "totalSharesValue": 77500005
+  },
+  {
+   "date": "2013-07-25",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SILVER EAGLE ACQUISITION CORP.",
+   "numberOfShares": 30000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "EAGLU",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2013-07-25",
+   "exchange": "New York Stock Exchange",
+   "name": "WCI COMMUNITIES, INC.",
+   "numberOfShares": 6819091,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "WCIC",
+   "totalSharesValue": 102286365
+  },
+  {
+   "date": "2013-07-24",
+   "exchange": null,
+   "name": "PARATEK PHARMACEUTICALS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-07-24",
+   "exchange": "New York Stock Exchange",
+   "name": "GRANA & MONTERO S.A.A.",
+   "numberOfShares": 19534884,
+   "price": "21.13",
+   "status": "priced",
+   "symbol": "GRAM",
+   "totalSharesValue": 412772099
+  },
+  {
+   "date": "2013-07-24",
+   "exchange": "Nasdaq National Market",
+   "name": "AGIOS PHARMACEUTICALS, INC.",
+   "numberOfShares": 5888888,
+   "price": "18.00",
+   "status": "priced",
+   "symbol": "AGIO",
+   "totalSharesValue": 105999984
+  },
+  {
+   "date": "2013-07-24",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "HEAT BIOLOGICS, INC.",
+   "numberOfShares": 2500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HTBX",
+   "totalSharesValue": 25000000
+  },
+  {
+   "date": "2013-07-24",
+   "exchange": "New York Stock Exchange",
+   "name": "JONES ENERGY, INC.",
+   "numberOfShares": 12500000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "JONE",
+   "totalSharesValue": 187500000
+  },
+  {
+   "date": "2013-07-23",
+   "exchange": "New York Stock Exchange",
+   "name": "PHILLIPS 66 PARTNERS LP",
+   "numberOfShares": 16425000,
+   "price": "23.00",
+   "status": "priced",
+   "symbol": "PSXP",
+   "totalSharesValue": 377775000
+  },
+  {
+   "date": "2013-07-22",
+   "exchange": null,
+   "name": "RD&G HOLDINGS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2013-07-22",
+   "exchange": null,
+   "name": "FREEDOM LEAF INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 137475
+  },
+  {
+   "date": "2013-07-22",
+   "exchange": null,
+   "name": "BIOSIG TECHNOLOGIES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 13411.5
+  },
+  {
+   "date": "2013-07-19",
+   "exchange": "New York Stock Exchange",
+   "name": "DIAMOND RESORTS INTERNATIONAL, INC.",
+   "numberOfShares": 15500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "DRII",
+   "totalSharesValue": 217000000
+  },
+  {
+   "date": "2013-07-19",
+   "exchange": "Nasdaq National Market",
+   "name": "RETAILMENOT, INC.",
+   "numberOfShares": 9090908,
+   "price": "21.00",
+   "status": "priced",
+   "symbol": "SALE",
+   "totalSharesValue": 190909068
+  },
+  {
+   "date": "2013-07-19",
+   "exchange": "New York Stock Exchange",
+   "name": "REXFORD INDUSTRIAL REALTY, INC.",
+   "numberOfShares": 16000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "REXR",
+   "totalSharesValue": 224000000
+  },
+  {
+   "date": "2013-07-19",
+   "exchange": "New York Stock Exchange",
+   "name": "PHYSICIANS REALTY TRUST",
+   "numberOfShares": 10434782,
+   "price": "11.50",
+   "status": "priced",
+   "symbol": "DOC",
+   "totalSharesValue": 119999993
+  },
+  {
+   "date": "2013-07-19",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "VISLINK TECHNOLOGIES, INC.",
+   "numberOfShares": 1337792,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "XGTI",
+   "totalSharesValue": 7357856
+  },
+  {
+   "date": "2013-07-18",
+   "exchange": "New York Stock Exchange",
+   "name": "UCP, INC.",
+   "numberOfShares": 7750000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "UCP",
+   "totalSharesValue": 116250000
+  },
+  {
+   "date": "2013-07-18",
+   "exchange": "Nasdaq National Market",
+   "name": "ONCOMED PHARMACEUTICALS INC",
+   "numberOfShares": 4800000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "OMED",
+   "totalSharesValue": 81600000
+  },
+  {
+   "date": "2013-07-17",
+   "exchange": null,
+   "name": "UEG-GREEN ENERGY SOLUTIONS/ALBERTA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-07-17",
+   "exchange": "New York Stock Exchange",
+   "name": "CLEARWAY ENERGY, INC.",
+   "numberOfShares": 19575000,
+   "price": "22.00",
+   "status": "priced",
+   "symbol": "NYLD",
+   "totalSharesValue": 430650000
+  },
+  {
+   "date": "2013-07-15",
+   "exchange": null,
+   "name": "COSKATA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-07-15",
+   "exchange": null,
+   "name": "SUNITY ONLINE ENTERTAINMENT LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-07-12",
+   "exchange": null,
+   "name": "CLOUDARY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2013-07-12",
+   "exchange": null,
+   "name": "GREEN SUPPLEMENTS ONLINE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2013-07-11",
+   "exchange": null,
+   "name": "SKODA VENTURES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2013-07-09",
+   "exchange": null,
+   "name": "BLUTEK INNOVATIONS, CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3000000
+  },
+  {
+   "date": "2013-07-02",
+   "exchange": null,
+   "name": "AMERICAN LASER HEALTHCARE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3705500
+  },
+  {
+   "date": "2013-07-02",
+   "exchange": null,
+   "name": "OVATION RESEARCH INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2013-07-01",
+   "exchange": null,
+   "name": "MOBILE LADS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2013-07-01",
+   "exchange": null,
+   "name": "TYPE 1 MEDIA INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 35000
+  },
+  {
+   "date": "2013-07-01",
+   "exchange": null,
+   "name": "HEALTHTALK LIVE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 108000
+  },
+  {
+   "date": "2013-07-01",
+   "exchange": null,
+   "name": "WINKLEVOSS BITCOIN TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "COIN",
+   "totalSharesValue": 20090000
+  }
+ ]
+}

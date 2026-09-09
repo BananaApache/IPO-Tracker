@@ -1,0 +1,477 @@
+{
+ "from": "2014-04-01",
+ "to": "2014-04-30",
+ "fetched_at": "2026-09-09T01:24:17.552611+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2014-04-29",
+   "exchange": "OTCBB",
+   "name": "BG STAFFING, INC.",
+   "numberOfShares": 1541470,
+   "price": "0.01",
+   "status": "priced",
+   "symbol": "BGSF",
+   "totalSharesValue": 15415
+  },
+  {
+   "date": "2014-04-28",
+   "exchange": null,
+   "name": "AMERICAN RETAIL ALLIANCE CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-04-28",
+   "exchange": null,
+   "name": "QUINTEC CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2014-04-25",
+   "exchange": "Nasdaq National Market",
+   "name": "QUOTIENT LTD",
+   "numberOfShares": 5000000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "QTNTU",
+   "totalSharesValue": 40000000
+  },
+  {
+   "date": "2014-04-25",
+   "exchange": "Nasdaq National Market",
+   "name": "LOMBARD MEDICAL, INC.",
+   "numberOfShares": 5000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "EVAR",
+   "totalSharesValue": 55000000
+  },
+  {
+   "date": "2014-04-25",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "FUNCTION(X) INC.",
+   "numberOfShares": 4375000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "VGGL",
+   "totalSharesValue": 35000000
+  },
+  {
+   "date": "2014-04-24",
+   "exchange": null,
+   "name": "LVB ACQUISITION, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-04-18",
+   "exchange": null,
+   "name": "SUNDANCE ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-04-18",
+   "exchange": null,
+   "name": "CHUKONG HOLDINGS LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "NEXT",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2014-04-17",
+   "exchange": "Nasdaq National Market",
+   "name": "SPORTSMAN'S WAREHOUSE HOLDINGS, INC.",
+   "numberOfShares": 12500000,
+   "price": "9.50",
+   "status": "priced",
+   "symbol": "SPWH",
+   "totalSharesValue": 118750000
+  },
+  {
+   "date": "2014-04-17",
+   "exchange": "New York Stock Exchange",
+   "name": "LEJU HOLDINGS LTD",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "LEJU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2014-04-17",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SABRE CORP",
+   "numberOfShares": 39200000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "SABR",
+   "totalSharesValue": 627200000
+  },
+  {
+   "date": "2014-04-17",
+   "exchange": "Nasdaq National Market",
+   "name": "IMMUNIC, INC.",
+   "numberOfShares": 4500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "VTL",
+   "totalSharesValue": 54000000
+  },
+  {
+   "date": "2014-04-17",
+   "exchange": null,
+   "name": "LORILAY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 80000
+  },
+  {
+   "date": "2014-04-16",
+   "exchange": "New York Stock Exchange",
+   "name": "MOELIS & CO",
+   "numberOfShares": 6500000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "MC",
+   "totalSharesValue": 162500000
+  },
+  {
+   "date": "2014-04-16",
+   "exchange": "Nasdaq National Market",
+   "name": "TRIVASCULAR TECHNOLOGIES, INC.",
+   "numberOfShares": 6500000,
+   "price": "12.00",
+   "status": "priced",
+   "symbol": "TRIV",
+   "totalSharesValue": 78000000
+  },
+  {
+   "date": "2014-04-15",
+   "exchange": null,
+   "name": "ASSOCIATED MATERIALS GROUP, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-04-15",
+   "exchange": "New York Stock Exchange",
+   "name": "PAYCOM SOFTWARE, INC.",
+   "numberOfShares": 6645000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "PAYC",
+   "totalSharesValue": 99675000
+  },
+  {
+   "date": "2014-04-15",
+   "exchange": "New York Stock Exchange",
+   "name": "CITY OFFICE REIT, INC.",
+   "numberOfShares": 5800000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "CIO",
+   "totalSharesValue": 72500000
+  },
+  {
+   "date": "2014-04-15",
+   "exchange": null,
+   "name": "TOUCAN INTERACTIVE CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2014-04-14",
+   "exchange": "Nasdaq National Market",
+   "name": "WEIBO CORP",
+   "numberOfShares": 16800000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "WB",
+   "totalSharesValue": 285600000
+  },
+  {
+   "date": "2014-04-11",
+   "exchange": null,
+   "name": "ALLIES LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-04-11",
+   "exchange": "New York Stock Exchange",
+   "name": "ZOE'S KITCHEN, INC.",
+   "numberOfShares": 5833333,
+   "price": "13.00-15.00",
+   "status": "priced",
+   "symbol": "ZOES",
+   "totalSharesValue": 100624980
+  },
+  {
+   "date": "2014-04-11",
+   "exchange": "Nasdaq National Market",
+   "name": "PHIBRO ANIMAL HEALTH CORP",
+   "numberOfShares": 12745392,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "PAHC",
+   "totalSharesValue": 191180880
+  },
+  {
+   "date": "2014-04-11",
+   "exchange": "American Stock Exchange",
+   "name": "FARMLAND PARTNERS INC.",
+   "numberOfShares": 3800000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "FPI",
+   "totalSharesValue": 53200000
+  },
+  {
+   "date": "2014-04-11",
+   "exchange": "OTCBB",
+   "name": "PROTEA BIOSCIENCES GROUP, INC.",
+   "numberOfShares": 43210440,
+   "price": "1.01",
+   "status": "priced",
+   "symbol": "PRGB",
+   "totalSharesValue": 43642544
+  },
+  {
+   "date": "2014-04-11",
+   "exchange": "New York Stock Exchange",
+   "name": "ENABLE MIDSTREAM PARTNERS, LP",
+   "numberOfShares": 25000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "ENBL",
+   "totalSharesValue": 500000000
+  },
+  {
+   "date": "2014-04-11",
+   "exchange": null,
+   "name": "UPHOLSTERY INTERNATIONAL, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1125500
+  },
+  {
+   "date": "2014-04-10",
+   "exchange": "New York Stock Exchange",
+   "name": "ALLY FINANCIAL INC.",
+   "numberOfShares": 95000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "ALLY",
+   "totalSharesValue": 2375000000
+  },
+  {
+   "date": "2014-04-10",
+   "exchange": "Nasdaq National Market",
+   "name": "ADAMAS PHARMACEUTICALS INC",
+   "numberOfShares": 3000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ADMS",
+   "totalSharesValue": 48000000
+  },
+  {
+   "date": "2014-04-10",
+   "exchange": "Nasdaq National Market",
+   "name": "DARE BIOSCIENCE, INC.",
+   "numberOfShares": 8500000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "CERU",
+   "totalSharesValue": 59500000
+  },
+  {
+   "date": "2014-04-10",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "INPIXON",
+   "numberOfShares": 3333333,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "SYRX",
+   "totalSharesValue": 19999998
+  },
+  {
+   "date": "2014-04-09",
+   "exchange": "Nasdaq National Market",
+   "name": "IKANG HEALTHCARE GROUP, INC.",
+   "numberOfShares": 10904846,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "KANG",
+   "totalSharesValue": 152667844
+  },
+  {
+   "date": "2014-04-09",
+   "exchange": "New York Stock Exchange",
+   "name": "LA QUINTA HOLDINGS INC.",
+   "numberOfShares": 38250000,
+   "price": "17.00",
+   "status": "priced",
+   "symbol": "LQ",
+   "totalSharesValue": 650250000
+  },
+  {
+   "date": "2014-04-09",
+   "exchange": null,
+   "name": "PRINCIPAL MARITIME TANKERS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "PMAR",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2014-04-07",
+   "exchange": null,
+   "name": "HEMPAMERICANA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4080000
+  },
+  {
+   "date": "2014-04-04",
+   "exchange": "Nasdaq National Market",
+   "name": "FIVE9, INC.",
+   "numberOfShares": 10000000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "FIVN",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2014-04-04",
+   "exchange": "New York Stock Exchange",
+   "name": "OPOWER, INC.",
+   "numberOfShares": 6100000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "OPWR",
+   "totalSharesValue": 115900000
+  },
+  {
+   "date": "2014-04-04",
+   "exchange": "New York Stock Exchange",
+   "name": "GRUBHUB INC.",
+   "numberOfShares": 7405614,
+   "price": "26.00",
+   "status": "priced",
+   "symbol": "GRUB",
+   "totalSharesValue": 192545964
+  },
+  {
+   "date": "2014-04-04",
+   "exchange": "New York Stock Exchange",
+   "name": "IMS HEALTH HOLDINGS, INC.",
+   "numberOfShares": 65000000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "IMS",
+   "totalSharesValue": 1300000000
+  },
+  {
+   "date": "2014-04-04",
+   "exchange": null,
+   "name": "TOSHOAN HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 72000000
+  },
+  {
+   "date": "2014-04-03",
+   "exchange": "Nasdaq National Market",
+   "name": "CORIUM INTERNATIONAL, INC.",
+   "numberOfShares": 6500000,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "CORI",
+   "totalSharesValue": 52000000
+  },
+  {
+   "date": "2014-04-03",
+   "exchange": "Nasdaq National Market",
+   "name": "TARENA INTERNATIONAL, INC.",
+   "numberOfShares": 15300000,
+   "price": "9.00",
+   "status": "priced",
+   "symbol": "TEDU",
+   "totalSharesValue": 137700000
+  },
+  {
+   "date": "2014-04-02",
+   "exchange": "New York Stock Exchange",
+   "name": "RUBICON PROJECT, INC.",
+   "numberOfShares": 6770995,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "RUBI",
+   "totalSharesValue": 101564925
+  },
+  {
+   "date": "2014-04-01",
+   "exchange": null,
+   "name": "MOUNTAIN VALLEY SPRING CO",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2014-04-01",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "1347 PROPERTY INSURANCE HOLDINGS, INC.",
+   "numberOfShares": 1887500,
+   "price": "8.00",
+   "status": "priced",
+   "symbol": "PIH",
+   "totalSharesValue": 15100000
+  },
+  {
+   "date": "2014-04-01",
+   "exchange": null,
+   "name": "FAIRWIND ENERGY INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1445856
+  }
+ ]
+}

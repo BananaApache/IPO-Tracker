@@ -1,0 +1,257 @@
+{
+ "from": "2016-06-01",
+ "to": "2016-06-30",
+ "fetched_at": "2026-09-09T01:25:09.551185+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2016-06-30",
+   "exchange": null,
+   "name": "MORGAN PROPERTIES TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-06-29",
+   "exchange": null,
+   "name": "NATIONAL COMMERCIAL BANK JAMAICA LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-06-29",
+   "exchange": "New York Stock Exchange",
+   "name": "GLOBAL MEDICAL REIT INC.",
+   "numberOfShares": 13043479,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "GMRE",
+   "totalSharesValue": 130434790
+  },
+  {
+   "date": "2016-06-28",
+   "exchange": null,
+   "name": "KT HIGH-TECH MARKETING INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 3800000
+  },
+  {
+   "date": "2016-06-27",
+   "exchange": null,
+   "name": "CARO HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 185000
+  },
+  {
+   "date": "2016-06-24",
+   "exchange": null,
+   "name": "IQ PHYSICAL DIAMOND TRUST",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-06-23",
+   "exchange": "New York Stock Exchange",
+   "name": "TWILIO INC",
+   "numberOfShares": 10000000,
+   "price": "15.00",
+   "status": "priced",
+   "symbol": "TWLO",
+   "totalSharesValue": 150000000
+  },
+  {
+   "date": "2016-06-22",
+   "exchange": null,
+   "name": "ARMSTRONG RESOURCE PARTNERS, L.P.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-06-22",
+   "exchange": "Nasdaq National Market",
+   "name": "SELECTA BIOSCIENCES INC",
+   "numberOfShares": 5000000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "SELB",
+   "totalSharesValue": 70000000
+  },
+  {
+   "date": "2016-06-20",
+   "exchange": null,
+   "name": "ORO EAST MINING, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-06-16",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "PARAGON COMMERCIAL CORP",
+   "numberOfShares": 736000,
+   "price": "34.00",
+   "status": "priced",
+   "symbol": "PBNC",
+   "totalSharesValue": 25024000
+  },
+  {
+   "date": "2016-06-14",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "VIVEVE MEDICAL, INC.",
+   "numberOfShares": 2700000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "VIVE",
+   "totalSharesValue": 13500000
+  },
+  {
+   "date": "2016-06-14",
+   "exchange": null,
+   "name": "TGLT S.A.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TGLT",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2016-06-13",
+   "exchange": null,
+   "name": "GLOLEX, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 100000
+  },
+  {
+   "date": "2016-06-10",
+   "exchange": "New York Stock Exchange",
+   "name": "CHINA ONLINE EDUCATION GROUP",
+   "numberOfShares": 2400000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "COE",
+   "totalSharesValue": 45600000
+  },
+  {
+   "date": "2016-06-10",
+   "exchange": "New York Stock Exchange",
+   "name": "ATKORE INTERNATIONAL GROUP INC.",
+   "numberOfShares": 12000000,
+   "price": "16.00",
+   "status": "priced",
+   "symbol": "ATKR",
+   "totalSharesValue": 192000000
+  },
+  {
+   "date": "2016-06-07",
+   "exchange": null,
+   "name": "GLOBAL MARKET GROUP LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-06-06",
+   "exchange": null,
+   "name": "ALMA MARITIME LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2016-06-03",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "SENSUS HEALTHCARE, INC.",
+   "numberOfShares": 2000000,
+   "price": "5.50",
+   "status": "priced",
+   "symbol": "SRTSU",
+   "totalSharesValue": 11000000
+  },
+  {
+   "date": "2016-06-03",
+   "exchange": null,
+   "name": "BYLOG GROUP CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2016-06-03",
+   "exchange": null,
+   "name": "SYROS PHARMACEUTICALS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "SYRS",
+   "totalSharesValue": 50000000
+  },
+  {
+   "date": "2016-06-02",
+   "exchange": "Nasdaq National Market",
+   "name": "NANTHEALTH, INC.",
+   "numberOfShares": 6500000,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "NH",
+   "totalSharesValue": 91000000
+  },
+  {
+   "date": "2016-06-02",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "MOLECULIN BIOTECH, INC.",
+   "numberOfShares": 1540026,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "MBRX",
+   "totalSharesValue": 9240156
+  },
+  {
+   "date": "2016-06-02",
+   "exchange": "Nasdaq National Market",
+   "name": "CLEARSIDE BIOMEDICAL, INC.",
+   "numberOfShares": 7200000,
+   "price": "7.00",
+   "status": "priced",
+   "symbol": "CLSD",
+   "totalSharesValue": 50400000
+  },
+  {
+   "date": "2016-06-02",
+   "exchange": null,
+   "name": "GH CAPITAL INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 2557112.55
+  }
+ ]
+}

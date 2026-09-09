@@ -1,0 +1,317 @@
+{
+ "from": "2017-06-01",
+ "to": "2017-06-30",
+ "fetched_at": "2026-09-09T01:25:33.548799+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2017-06-30",
+   "exchange": "NYSE",
+   "name": "BYLINE BANCORP, INC.",
+   "numberOfShares": 5700000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "BY",
+   "totalSharesValue": 108300000
+  },
+  {
+   "date": "2017-06-27",
+   "exchange": "NASDAQ Capital",
+   "name": "ESQUIRE FINANCIAL HOLDINGS, INC.",
+   "numberOfShares": 2363873,
+   "price": "14.00",
+   "status": "priced",
+   "symbol": "ESQ",
+   "totalSharesValue": 33094222
+  },
+  {
+   "date": "2017-06-27",
+   "exchange": "NASDAQ Capital",
+   "name": "AVENUE THERAPEUTICS, INC.",
+   "numberOfShares": 5500000,
+   "price": "6.00",
+   "status": "priced",
+   "symbol": "ATXI",
+   "totalSharesValue": 33000000
+  },
+  {
+   "date": "2017-06-23",
+   "exchange": "NYSE",
+   "name": "GRANITE POINT MORTGAGE TRUST INC.",
+   "numberOfShares": 10000000,
+   "price": "19.50",
+   "status": "priced",
+   "symbol": "GPMT",
+   "totalSharesValue": 195000000
+  },
+  {
+   "date": "2017-06-23",
+   "exchange": "NYSE MKT",
+   "name": "NRC GROUP HOLDINGS CORP.",
+   "numberOfShares": 22500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "HCACU",
+   "totalSharesValue": 225000000
+  },
+  {
+   "date": "2017-06-22",
+   "exchange": "NYSE",
+   "name": "SAFEHOLD INC.",
+   "numberOfShares": 10250000,
+   "price": "20.00",
+   "status": "priced",
+   "symbol": "SAFE",
+   "totalSharesValue": 205000000
+  },
+  {
+   "date": "2017-06-22",
+   "exchange": "NYSE",
+   "name": "ALTICE USA, INC.",
+   "numberOfShares": 63943029,
+   "price": "30.00",
+   "status": "priced",
+   "symbol": "ATUS",
+   "totalSharesValue": 1918290870
+  },
+  {
+   "date": "2017-06-22",
+   "exchange": "NASDAQ Capital",
+   "name": "SG BLOCKS, INC.",
+   "numberOfShares": 1500000,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "SGBX",
+   "totalSharesValue": 7500000
+  },
+  {
+   "date": "2017-06-20",
+   "exchange": "NASDAQ Capital",
+   "name": "DERMTECH, INC.",
+   "numberOfShares": 12500000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "CNACU",
+   "totalSharesValue": 125000000
+  },
+  {
+   "date": "2017-06-20",
+   "exchange": "NASDAQ Capital",
+   "name": "XYNOMIC PHARMACEUTICALS HOLDINGS, INC.",
+   "numberOfShares": 5250000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "BCACU",
+   "totalSharesValue": 52500000
+  },
+  {
+   "date": "2017-06-20",
+   "exchange": null,
+   "name": "GREATER CANNABIS COMPANY, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "GCAN",
+   "totalSharesValue": 6006873.25
+  },
+  {
+   "date": "2017-06-19",
+   "exchange": null,
+   "name": "VOICE LIFE INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2017-06-16",
+   "exchange": "NASDAQ Capital",
+   "name": "BOSTON OMAHA CORP",
+   "numberOfShares": 6538462,
+   "price": "13.00",
+   "status": "priced",
+   "symbol": "BOMN",
+   "totalSharesValue": 85000006
+  },
+  {
+   "date": "2017-06-15",
+   "exchange": "NASDAQ Capital",
+   "name": "ADOMANI, INC.",
+   "numberOfShares": 2852275,
+   "price": "5.00",
+   "status": "priced",
+   "symbol": "ADOM",
+   "totalSharesValue": 14261375
+  },
+  {
+   "date": "2017-06-15",
+   "exchange": null,
+   "name": "STARKOT CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2017-06-14",
+   "exchange": "NASDAQ Global Select",
+   "name": "ATHENEX, INC.",
+   "numberOfShares": 6000000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "ATNX",
+   "totalSharesValue": 66000000
+  },
+  {
+   "date": "2017-06-14",
+   "exchange": null,
+   "name": "RIVEX TECHNOLOGY CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 200000
+  },
+  {
+   "date": "2017-06-14",
+   "exchange": null,
+   "name": "SOLDINO GROUP CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 90000
+  },
+  {
+   "date": "2017-06-14",
+   "exchange": null,
+   "name": "POWERCOMM HOLDINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 93000
+  },
+  {
+   "date": "2017-06-13",
+   "exchange": null,
+   "name": "COMPULAB LTD.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CPUL",
+   "totalSharesValue": 23000000
+  },
+  {
+   "date": "2017-06-09",
+   "exchange": "NASDAQ Capital",
+   "name": "IMMURON LTD",
+   "numberOfShares": 610000,
+   "price": "9.99",
+   "status": "priced",
+   "symbol": "IMRN",
+   "totalSharesValue": 6093900
+  },
+  {
+   "date": "2017-06-09",
+   "exchange": "NYSE MKT",
+   "name": "PLYMOUTH INDUSTRIAL REIT INC.",
+   "numberOfShares": 2900000,
+   "price": "19.00",
+   "status": "priced",
+   "symbol": "PLYM",
+   "totalSharesValue": 55100000
+  },
+  {
+   "date": "2017-06-07",
+   "exchange": "NASDAQ Capital",
+   "name": "SHOTSPOTTER, INC",
+   "numberOfShares": 2800000,
+   "price": "11.00",
+   "status": "priced",
+   "symbol": "SSTI",
+   "totalSharesValue": 30800000
+  },
+  {
+   "date": "2017-06-07",
+   "exchange": null,
+   "name": "ACCEL ENTERTAINMENT, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TPGHU",
+   "totalSharesValue": 400000000
+  },
+  {
+   "date": "2017-06-02",
+   "exchange": "NASDAQ Capital",
+   "name": "KBL MERGER CORP. IV",
+   "numberOfShares": 10000000,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "KBLMU",
+   "totalSharesValue": 100000000
+  },
+  {
+   "date": "2017-06-02",
+   "exchange": null,
+   "name": "ALA CARTE CHARTS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1950000
+  },
+  {
+   "date": "2017-06-02",
+   "exchange": null,
+   "name": "DOVA PHARMACEUTICALS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "DOVA",
+   "totalSharesValue": 75055000
+  },
+  {
+   "date": "2017-06-02",
+   "exchange": null,
+   "name": "AILERON THERAPEUTICS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ALRN",
+   "totalSharesValue": 56250000
+  },
+  {
+   "date": "2017-06-01",
+   "exchange": null,
+   "name": "MERSANA THERAPEUTICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "MRSN",
+   "totalSharesValue": 75000000
+  },
+  {
+   "date": "2017-06-01",
+   "exchange": null,
+   "name": "BLUE APRON HOLDINGS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "APRN",
+   "totalSharesValue": 300000000
+  },
+  {
+   "date": "2017-06-01",
+   "exchange": null,
+   "name": "TINTRI, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "TNTR",
+   "totalSharesValue": 60004000
+  }
+ ]
+}

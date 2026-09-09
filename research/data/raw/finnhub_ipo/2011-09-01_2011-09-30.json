@@ -1,0 +1,317 @@
+{
+ "from": "2011-09-01",
+ "to": "2011-09-30",
+ "fetched_at": "2026-09-09T01:23:15.485309+00:00",
+ "ipoCalendar": [
+  {
+   "date": "2011-09-30",
+   "exchange": null,
+   "name": "HEALTH ADVANCE, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 22836
+  },
+  {
+   "date": "2011-09-27",
+   "exchange": null,
+   "name": "PACIFIC GOLD CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1000000
+  },
+  {
+   "date": "2011-09-23",
+   "exchange": null,
+   "name": "DARKSTAR VENTURES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 175000
+  },
+  {
+   "date": "2011-09-23",
+   "exchange": null,
+   "name": "TRELLIS EARTH PRODUCTS INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 8150000
+  },
+  {
+   "date": "2011-09-22",
+   "exchange": null,
+   "name": "HANOVER PORTFOLIO ACQUISITIONS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 812153
+  },
+  {
+   "date": "2011-09-21",
+   "exchange": null,
+   "name": "CASSIDY VENTURES INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 175000
+  },
+  {
+   "date": "2011-09-19",
+   "exchange": "New York Stock Exchange",
+   "name": "TEUCRIUM COMMODITY TRUST",
+   "numberOfShares": 10000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "CANE",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2011-09-19",
+   "exchange": "New York Stock Exchange",
+   "name": "TEUCRIUM COMMODITY TRUST",
+   "numberOfShares": 10000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "SOYB",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2011-09-19",
+   "exchange": "New York Stock Exchange",
+   "name": "TEUCRIUM COMMODITY TRUST",
+   "numberOfShares": 10000000,
+   "price": "25.00",
+   "status": "priced",
+   "symbol": "WEAT",
+   "totalSharesValue": 250000000
+  },
+  {
+   "date": "2011-09-19",
+   "exchange": null,
+   "name": "ATVROCKN",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1255000
+  },
+  {
+   "date": "2011-09-19",
+   "exchange": null,
+   "name": "EAST SHORE DISTRIBUTORS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 375500
+  },
+  {
+   "date": "2011-09-16",
+   "exchange": null,
+   "name": "BLUEARC CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "withdrawn",
+   "symbol": null,
+   "totalSharesValue": null
+  },
+  {
+   "date": "2011-09-16",
+   "exchange": null,
+   "name": "DRAGON BRIGHT MINTAI BOTANICAL TECHNOLOGY CAYMAN LTD",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 15720000
+  },
+  {
+   "date": "2011-09-14",
+   "exchange": null,
+   "name": "MASSIVE DYNAMICS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 53000
+  },
+  {
+   "date": "2011-09-13",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "POAGE BANKSHARES, INC.",
+   "numberOfShares": 2932500,
+   "price": "10.00",
+   "status": "priced",
+   "symbol": "PBSK",
+   "totalSharesValue": 29325000
+  },
+  {
+   "date": "2011-09-13",
+   "exchange": null,
+   "name": "ELITE TALENT CONSULTING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1512750
+  },
+  {
+   "date": "2011-09-13",
+   "exchange": null,
+   "name": "SAFE DYNAMICS CORP",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 75000
+  },
+  {
+   "date": "2011-09-13",
+   "exchange": null,
+   "name": "JAMES RIVER HOLDING CORP.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 450000
+  },
+  {
+   "date": "2011-09-09",
+   "exchange": null,
+   "name": "CROWN MARKETING",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 318120
+  },
+  {
+   "date": "2011-09-09",
+   "exchange": null,
+   "name": "ONLINE-REDEFINED, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "ONLI",
+   "totalSharesValue": 151000
+  },
+  {
+   "date": "2011-09-08",
+   "exchange": null,
+   "name": "SKAJAQUODA GROUP INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 20000
+  },
+  {
+   "date": "2011-09-08",
+   "exchange": null,
+   "name": "BUCKEYE OIL & GAS, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "BFSO",
+   "totalSharesValue": 5550000
+  },
+  {
+   "date": "2011-09-08",
+   "exchange": null,
+   "name": "REMMINGTON ENTERPRISES, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 24000
+  },
+  {
+   "date": "2011-09-07",
+   "exchange": "Nasdaq SmallCap Market",
+   "name": "VEREIT, INC.",
+   "numberOfShares": 8800000,
+   "price": "12.50",
+   "status": "priced",
+   "symbol": "ARCP",
+   "totalSharesValue": 110000000
+  },
+  {
+   "date": "2011-09-07",
+   "exchange": null,
+   "name": "ORGANIC PLANT HEALTH INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 4091275
+  },
+  {
+   "date": "2011-09-07",
+   "exchange": null,
+   "name": "BOOKEDBYUS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 1582000
+  },
+  {
+   "date": "2011-09-07",
+   "exchange": null,
+   "name": "SPECIALIZER INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 50000
+  },
+  {
+   "date": "2011-09-07",
+   "exchange": null,
+   "name": "NYCAMEDIA, INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 500000
+  },
+  {
+   "date": "2011-09-06",
+   "exchange": null,
+   "name": "HAVANA FURNISHINGS INC.",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 60000
+  },
+  {
+   "date": "2011-09-06",
+   "exchange": null,
+   "name": "SAN LOTUS HOLDING INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "",
+   "totalSharesValue": 98800
+  },
+  {
+   "date": "2011-09-02",
+   "exchange": null,
+   "name": "CHATAND INC",
+   "numberOfShares": null,
+   "price": null,
+   "status": "filed",
+   "symbol": "CHAT",
+   "totalSharesValue": 17207500
+  }
+ ]
+}
