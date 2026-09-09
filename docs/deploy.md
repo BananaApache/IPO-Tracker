@@ -1,6 +1,6 @@
 # Deploy checklist
 
-Three platforms: **Neon** (Postgres), **Railway or Render** (API + worker),
+Three platforms: **Neon** (Postgres), **Render** (API + worker),
 **Vercel** (frontend). Work top to bottom; each step's output feeds the next.
 
 Everything below assumes the repo is already pushed to GitHub.
@@ -11,8 +11,8 @@ Everything below assumes the repo is already pushed to GitHub.
 
 **A free Render web service sleeps.** It spins down after 15 minutes of
 inactivity and takes ~50 seconds to wake. For something people click on at an
-event that is disqualifying. Use Render **Starter** ($7/mo) or **Railway Hobby**
-($5/mo). Neon's own resume is sub-second and not the problem.
+event that is disqualifying. Use Render **Starter** ($7/mo). Neon's own resume
+is sub-second and not the problem.
 
 **Keep-warm pings are not worth it on Neon's free tier.** The arithmetic:
 
@@ -82,26 +82,6 @@ burns the budget silently.
       50-second wake after 15 minutes idle.
 - [ ] Copy the API's public URL; you need it for `CORS_ORIGINS` and Vercel.
 
-## 2b · Railway instead  *(if the trial is active)*
-
-- [ ] New project → Deploy from GitHub repo → select this repo.
-- [ ] Service 1, the API. Railway reads `railway.json`, so the Dockerfile and
-      start command are already set. Confirm:
-      - Root directory: repo root (**not** `backend/`)
-      - Health check path: `/health`
-- [ ] Service 2, the worker. Add a second service from the same repo, then
-      override the start command to `python -m backend.worker` and remove the
-      health check (a worker serves no HTTP).
-- [ ] Set the variables in §4 on **both** services.
-- [ ] Copy the API's public URL. You need it for `CORS_ORIGINS` and Vercel.
-
-### Render instead
-
-- [ ] New → Blueprint → select the repo. `render.yaml` defines both services.
-- [ ] Fill every `sync: false` variable in the dashboard (they are deliberately
-      not in the repo).
-- [ ] Change `plan: starter` to `free` only if you accept the 50-second wake.
-
 ## 3 · Vercel — frontend
 
 - [ ] New Project → import the repo.
@@ -109,7 +89,7 @@ burns the budget silently.
       project and the build will fail without it.
 - [ ] Framework preset: Next.js. Build command and output are in
       `frontend/vercel.json`.
-- [ ] One variable: `API_BASE_URL` = the Railway/Render API URL, no trailing
+- [ ] One variable: `API_BASE_URL` = the Render API URL, no trailing
       slash.
 - [ ] Copy the deployment URL, then go back and set `CORS_ORIGINS` on the API
       to `["https://your-app.vercel.app"]` and redeploy the API.
@@ -118,7 +98,7 @@ burns the budget silently.
 
 ## 4 · Environment variables
 
-### Railway / Render — API service
+### Render — API service
 
 | variable | value | notes |
 |---|---|---|
@@ -136,7 +116,7 @@ burns the budget silently.
 | `RATE_LIMIT_REQUESTS` | `60` | optional; per IP per window |
 | `RATE_LIMIT_WINDOW_SECONDS` | `60` | optional |
 
-### Railway / Render — worker service
+### Render — worker service
 
 Everything above **except** `CORS_ORIGINS` and the rate-limit pair, plus:
 
@@ -185,10 +165,11 @@ Everything above **except** `CORS_ORIGINS` and the rate-limit pair, plus:
 | | plan | monthly |
 |---|---|---|
 | Neon | Free | $0 |
-| Railway | Hobby | ~$5 |
+| Render | Starter × 2 | ~$14 |
 | Vercel | Hobby | $0 |
 | Polygon | Free | $0 |
 | Finnhub | Free | $0 |
 
-Render Starter instead of Railway is ~$7 per service, so ~$14 for API + worker.
-Railway's single $5 covers both.
+Render bills per service, so the API and the worker are ~$7 each. Dropping the
+worker to `free` is not an option — a free service sleeps, and a sleeping worker
+runs no ingest cycles.
