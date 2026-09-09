@@ -842,6 +842,9 @@ async def _amain() -> int:
                     help="strict article existence + Wikidata org verification")
     ap.add_argument("--resolve-extended", action="store_true",
                     help="Wikidata search for rule (1); queues rules (2)-(6)")
+    ap.add_argument("--resolve-products", action="store_true",
+                    help="rule (6): probe redirects out of each untreated firm's "
+                         "own name for a product/service article (review only)")
     ap.add_argument("--merge", action="store_true",
                     help="union the resolvers and apply reviewed relation verdicts")
     ap.add_argument("--refetch", action="store_true")
@@ -873,6 +876,9 @@ async def _amain() -> int:
         await resolve_articles(refetch=args.refetch, **ck)
     if args.resolve_extended:
         await resolve_articles_extended(refetch=args.refetch, **ck)
+    if args.resolve_products:
+        await resolve_articles_products(refetch=args.refetch,
+                                        cutoff_days=args.cutoff_days, **ck)
     if args.merge:
         merge_resolvers(args.cohort)
     if args.prices:
@@ -885,7 +891,8 @@ async def _amain() -> int:
     if args.build and not (args.analyse or args.regress):
         build(cutoff_days=args.cutoff_days, **ck)
     if not any((args.sample, args.resolve, args.resolve_extended, args.merge,
-                args.prices, args.build, args.analyse, args.regress)):
+                args.resolve_products, args.prices, args.build, args.analyse,
+                args.regress)):
         ap.print_help()
     return 0
 
@@ -1236,6 +1243,118 @@ REVIEWED_RELATIONS: dict[str, tuple[str | None, str]] = {
                          "coincidence only"),
     "JFrog Ltd": (None, "reject: 'DevOps' is a generic concept, not a product article"),
 }
+
+# Hand verdicts on the rule (6) redirect candidates, recorded BEFORE any
+# replication-cohort price existed -- `day1_prices_replication.json` held 3 of
+# 400 when these were written -- so the treatment revision could not have been
+# steered by the outcome. Reviewed against the paper's Exhibit A: the target must
+# be the firm, its renamed self, or its core product, and must predate listing by
+# the cutoff.
+#
+# 3 accepted of 20 candidates. The 17 rejections are why this is reviewed rather
+# than merged automatically: a redirect is strong evidence about *routing*, not
+# about subject.
+REVIEWED_PRODUCTS: dict[str, tuple[str | None, str]] = {
+    # --- recent cohort (2019-2026) ---
+    #
+    # DISCLOSURE ON ORDERING: unlike the replication verdicts above, these were
+    # reviewed when the recent cohort already had 456 of 500 prices, so the
+    # outcome was visible. They apply the criteria frozen on the blind cohort --
+    # target must be the firm, its renamed self, or its core product, and must
+    # predate listing by the cutoff -- and every candidate is listed with its
+    # verdict, accepted or not, so the selection is auditable rather than
+    # asserted. Treat the replication cohort as the clean test.
+    "SPACE EXPLORATION TECHNOLOGIES CORP": (
+        "SpaceX",
+        "accept: the firm's own article -- 'Space Exploration Technologies "
+        "Corp., doing business as SpaceX'. Created 2004-07-16, listed "
+        "2026-06-12. Rule (1), missed only because the registrant name is the "
+        "legal one"),
+    "Tremor International Ltd.": (
+        "Nexxen",
+        "accept: own article, created 2015-08-11 as 'Tremor International', "
+        "renamed Nexxen 2023. Predates the 2021-06-18 listing"),
+    "Membership Collective Group Inc.": (
+        "Soho House (club)",
+        "accept: Soho House is the firm's core service brand -- it later "
+        "renamed itself Soho House & Co. Article from 2007-04-14 against a "
+        "2021-07-15 listing. NOTE: this FAILED the automatic lead-mention gate "
+        "(no shared token), and is accepted on the same grounds the paper "
+        "accepts NYMEX Holdings -> 'New York Mercantile Exchange'. It is the "
+        "case that shows why the gate cannot be the final word"),
+    # Rejected: a person, not the firm. The paper's rules cover parent,
+    # subsidiary, predecessor, separated-from and product -- not founders.
+    "CS Disco, Inc.": (None, "reject: Kiwi Camara is the founder, a person"),
+    # Rejected: generic or coincidental token.
+    "Honest Company, Inc.": (None, "reject: 'Honesty' is moral character"),
+    "MIDWEST HOLDING INC.": (None, "reject: 'Midwestern United States' is a region"),
+    "LIZHI INC.": (None, "reject: 'Lychee' is a fruit"),
+    "VIA optronics AG": (None, "reject: matched only on 'via'; Integrated "
+                               "Micro-Electronics is an unrelated firm"),
+    "ANCHIANO THERAPEUTICS LTD.": (None, "reject: a list article, not the firm"),
+    # Rejected: article postdates the listing.
+    "Kanzhun Ltd": (None, "reject: is the firm, but 'Boss Zhipin' created "
+                          "2024, listed 2021"),
+    "Brera Holdings PLC": (None, "reject: 'Solmate' created 2024, listed 2023"),
+    "Flywire Corp": (None, "reject: disambiguation page, created 2022, listed 2021"),
+    "C3.ai, Inc.": (None, "reject: 'C3 AI' created 2023, listed 2020; the union "
+                          "resolver already reaches this article by other means"),
+    # --- replication cohort (2006-2016), reviewed blind ---
+    "RAPID7, INC.": ("Metasploit",
+                     "accept: Metasploit is Rapid7's flagship product, acquired "
+                     "2009, article from 2006-01-25, listed 2015-07-17. Rule (6), "
+                     "and the paper's own Neurometrix -> 'Quell' pattern"),
+    "FIREEYE, INC.": ("Trellix",
+                      "accept: the firm's OWN article, created 2009-01-25 as "
+                      "'FireEye' and moved to 'Trellix' in 2022; a page move "
+                      "carries its revision history, so the 2009 date is "
+                      "FireEye's own. Predates the 2013-09-20 listing"),
+    "RUBICON PROJECT, INC.": ("Magnite Inc",
+                              "accept: same pattern -- created 2010-11-16 as "
+                              "'Rubicon Project', renamed Magnite 2020. "
+                              "Predates the 2014-04-02 listing"),
+    # Rejected. Name coincidence: the firm's token appears in an unrelated
+    # article's alternate-name list, which is precisely what the lead-mention
+    # guard cannot distinguish on its own.
+    "MISTRAS GROUP, INC.": (None, "reject: 'Mystras' is a fortified town in "
+                                  "Greece; 'also known as Mistras'"),
+    "NOVAN, INC.": (None, "reject: 'Novin' is a village in Iran; 'also known "
+                          "as Novan'"),
+    "MINDBODY, INC.": (None, "reject: 'Mind-body' is a philosophy "
+                             "disambiguation page, not the company"),
+    # Rejected on a generic token that STOPWORDS does not cover.
+    "SOLTA MEDICAL INC": (None, "reject: matched only on 'medical'. Bausch "
+                                "Health acquired Solta in 2014, eight years "
+                                "after the 2006-11-10 listing"),
+    # Rejected on the cutoff, not on subject: genuinely the company's article,
+    # created 2007-05-10 against a 2007-07-20 listing -- 71 days, inside the
+    # 90-day window. The paper's endogeneity guard, working as intended.
+    "HHGREGG, INC.": (None, "reject: real article, but created 71 days before "
+                            "listing -- inside the cutoff"),
+    # Rejected: article postdates the listing, so it cannot be pre-IPO
+    # awareness whatever its subject.
+    "COLFAX CORP": (None, "reject: 'Enovis' created 2013, listed 2008"),
+    "FLUIDIGM CORP": (None, "reject: 'Standard BioTools' created 2015, listed 2011"),
+    "TEAM HEALTH HOLDINGS INC.": (None, "reject: 'TeamHealth' created 2015, "
+                                        "listed 2009"),
+    "OPNEXT INC": (None, "reject: 'Oclaro' created 2008, listed 2007"),
+    "HOME LOAN SERVICING SOLUTIONS, LTD.": (None, "reject: 'Rithm Capital' "
+                                                  "created 2023, listed 2012"),
+    "SEMLER SCIENTIFIC, INC.": (None, "reject: 'Strive Asset Management' "
+                                      "created 2025, listed 2014"),
+    # Rejected: an acquirer or parent that had no relation to the firm at IPO.
+    "BARE ESCENTUALS INC": (None, "reject: Shiseido acquired Bare Escentuals "
+                                  "in 2010, after the 2006 listing"),
+    "METALDYNE PERFORMANCE GROUP INC.": (None, "reject: Masco is not the firm; "
+                                               "no lead mention"),
+    "NORCRAFT COMPANIES, INC.": (None, "reject: Fortune Brands acquired "
+                                       "Norcraft in 2015, after listing"),
+    "SYNLOGIC, INC.": (None, "reject: AbbVie is a collaborator, not the firm"),
+    "VOCERA COMMUNICATIONS, INC.": (None, "reject: Stryker acquired Vocera in "
+                                          "2022, ten years after listing"),
+    "GALAPAGOS NV": (None, "reject: the Galapagos Islands"),
+}
+
 ARTICLES_UNION_JSON = RAW_NOTABILITY / "articles_union.json"
 
 
@@ -1281,6 +1400,17 @@ def merge_resolvers(cohort: str = "recent") -> dict:
                "rule": b.get("rule") if source in ("extended", "both") else "(1) the firm",
                "article_created": created}
 
+        # Rule (6) verdicts apply to firms with NO PRE-IPO article, which
+        # includes firms that do have one dated after the cutoff -- Rapid7's own
+        # article is from 2026 and its product article from 2006. So this runs on
+        # `rec` regardless of has_article and lets `build()` re-date it.
+        if name in REVIEWED_PRODUCTS:
+            accepted, why = REVIEWED_PRODUCTS[name]
+            rec.setdefault("notes", []).append(why)
+            if accepted:
+                rec.update(title=accepted, has_article=True,
+                           source="hand-reviewed product", rule="(6) reviewed",
+                           article_created=None)
         if name in REVIEWED_RELATIONS and not rec["has_article"]:
             accepted, why = REVIEWED_RELATIONS[name]
             rec["review_verdict"] = why
@@ -1483,6 +1613,217 @@ def regress(*, cohort: str = "recent", winsorize: bool = True,
     print("  " + ("significant at 0.05" if tr["p"] < 0.05
                   else "NOT significant at 0.05"))
     return res
+
+
+# --------------------------------------------------------------------------
+# rule (6): the firm's core product or service, via its own redirect
+# --------------------------------------------------------------------------
+
+ARTICLES_PROD_JSON = RAW_NOTABILITY / "articles_products.json"
+
+
+def _lead_mentions(lead: str, company: str) -> list[str]:
+    """Distinctive company tokens that appear in the target article's lead.
+
+    The precision guard for rule (6), and the whole reason this pass can be
+    trusted at all. A redirect tells us Wikipedia routes the company's name
+    somewhere; it does not tell us the destination is *about* the company.
+    "Portola" redirects to a town in California. Requiring the firm's own
+    distinctive token in the destination's opening paragraph separates
+    "Metasploit ... maintained by Rapid7" from that.
+    """
+    toks = {w for w in re.findall(r"[a-z0-9]+", (company or "").casefold())
+            if w not in STOPWORDS and len(w) > 2}
+    low = (lead or "").casefold()
+    return sorted(t for t in toks if t in low)
+
+
+async def resolve_articles_products(*, refetch: bool = False,
+                                    cohort: str = "recent",
+                                    cutoff_days: int = CUTOFF_DAYS) -> dict:
+    """Rule (6) candidates: where the firm's own name redirects elsewhere.
+
+    The strict resolver already requests titles with ``redirects=1``, so it
+    *saw* these targets and then discarded them on the distinctive-token guard
+    -- `Rapid7` -> `Metasploit` shares no word with "RAPID7, INC.". That guard
+    is load-bearing (it stops `Legence Corp.` -> `VF Corporation`) and cannot
+    simply be removed. This pass recovers the cases it costs, using a different
+    and much stronger signal:
+
+    **A redirect from the company's name is Wikipedia's own editorial
+    assertion about where that company is covered.** Nobody creates
+    `Rapid7` -> `Metasploit` by accident. That is exactly the paper's rule (6),
+    whose own examples defeat every name test: NYMEX Holdings ->
+    "New York Mercantile Exchange", Intersections Inc. -> "Identity Guard",
+    Neurometrix -> "Quell".
+
+    Three gates, each rejecting a specific observed failure:
+
+      * the destination's lead must contain a distinctive token of the firm
+        (`_lead_mentions`) -- "Portola Pharmaceuticals" also redirects toward a
+        Californian town;
+      * the destination must clear ``MIN_ARTICLE_WORDS``, the paper's own
+        stub rule;
+      * the destination's **first revision** is recorded, because a rule (6)
+        article is only treatment if it predates the IPO. Metasploit's article
+        (2006) predates Rapid7's 2015 listing; a product page written after the
+        listing is not pre-IPO investor awareness.
+
+    Candidates are written for review and **never auto-accepted**, matching
+    `RELATION_RULES` and the paper's hand-verification. Precision matters more
+    than recall here: a false positive flips an observation between groups
+    rather than merely adding noise.
+    """
+    import pandas as pd
+
+    from backend.http import RetryingClient
+    from research.collect.config import get_research_settings
+
+    ensure_dirs()
+    RAW_NOTABILITY.mkdir(parents=True, exist_ok=True)
+    paths = cohort_paths(cohort)
+    sfx = "" if cohort == "recent" else f"_{cohort}"
+    out_path = RAW_NOTABILITY / f"articles_products{sfx}.json"
+    if out_path.exists() and not refetch:
+        logger.info("products: using cached %s", out_path.name)
+        return json.loads(out_path.read_text())
+
+    sample = pd.read_parquet(paths["sample"])
+    # Skip only firms already in TREATMENT -- an article that predates the
+    # listing by the cutoff. Mere existence is the wrong filter and excluded the
+    # motivating case: Rapid7 has an article of its own, created 2026, eleven
+    # years AFTER its 2015 listing, so it is not pre-IPO treatment. Its product
+    # article (Metasploit, 2006) is. Firms whose own article arrived late are
+    # exactly the population rule (6) exists to rescue.
+    pre_ipo: set[str] = set()
+    if paths["union"].exists():
+        listed = {r["name"]: pd.to_datetime(r["listing_date"], errors="coerce")
+                  for _, r in sample.iterrows()}
+        for k, v in json.loads(
+                paths["union"].read_text())["companies"].items():
+            if not v.get("has_article"):
+                continue
+            created = pd.to_datetime(v.get("article_created"), errors="coerce",
+                                     utc=True)
+            listing = listed.get(k)
+            if pd.isna(created) or pd.isna(listing):
+                continue
+            if created.tz_localize(None) <= listing - timedelta(days=cutoff_days):
+                pre_ipo.add(k)
+    todo = [r["name"] for _, r in sample.iterrows() if r["name"] not in pre_ipo]
+    logger.info("products[%s]: %d companies, %d without pre-IPO treatment "
+                "to probe", cohort, len(sample), len(todo))
+
+    # variant title -> companies that proposed it
+    # `candidate_titles`, NOT `name_variants`. The latter feeds Wikidata's
+    # case-insensitive search; MediaWiki titles are case-sensitive after the
+    # first character, so the registrant's all-caps "RAPID7" is a different
+    # (nonexistent) title from "Rapid7" and the redirect is never seen.
+    # `candidate_titles` emits the title-cased form for exactly this reason.
+    proposals: dict[str, list[str]] = {}
+    for name in todo:
+        for v in candidate_titles(name):
+            proposals.setdefault(v, []).append(name)
+    titles = sorted(proposals)
+
+    settings = get_research_settings()
+    client = RetryingClient(user_agent=settings.sec_user_agent, per_second=4.0,
+                            max_retries=3, base_backoff=3.0)
+
+    # Phase 1 -- batched: which requested titles are redirects, and to where.
+    hops: dict[str, str] = {}
+    batches_ok = batches_failed = 0
+    try:
+        for i in range(0, len(titles), 50):
+            batch = titles[i:i + 50]
+            try:
+                payload = await client.get_json(WIKI_API, params={
+                    "action": "query", "titles": "|".join(batch),
+                    "redirects": 1, "format": "json"})
+            except Exception as exc:
+                logger.warning("products: batch %d failed: %s", i // 50,
+                               type(exc).__name__)
+                batches_failed += 1
+                continue
+            batches_ok += 1
+            q = payload.get("query") or {}
+            for m in q.get("redirects") or []:
+                hops[m["from"]] = m["to"]
+        logger.info("products: %d/%d batches ok, %d redirects seen",
+                    batches_ok, batches_ok + batches_failed, len(hops))
+
+        # Keep only the redirects the strict resolver could not use: a target
+        # sharing a distinctive token was already reachable by exact title.
+        interesting: dict[str, list[str]] = {}
+        for src, dst in hops.items():
+            for company in proposals.get(src, []):
+                if shares_distinctive_token(company, dst):
+                    continue
+                interesting.setdefault(dst, []).append(company)
+        logger.info("products: %d distinct targets the token guard rejected",
+                    len(interesting))
+
+        # Phase 2 -- per target: lead text, size and first revision. `rvlimit`
+        # cannot be combined with multiple titles, so this is one call each.
+        out: dict[str, dict] = {}
+        for n, (target, companies) in enumerate(sorted(interesting.items()), 1):
+            try:
+                info = await client.get_json(WIKI_API, params={
+                    "action": "query", "titles": target, "prop": "extracts",
+                    "exintro": 1, "explaintext": 1, "format": "json"})
+                page = next(iter((info.get("query") or {})
+                                 .get("pages", {}).values()), {})
+                lead = page.get("extract") or ""
+                rev = await client.get_json(WIKI_API, params={
+                    "action": "query", "titles": target, "prop": "revisions",
+                    "rvdir": "newer", "rvlimit": 1, "rvprop": "timestamp",
+                    "format": "json"})
+                rpage = next(iter((rev.get("query") or {})
+                                  .get("pages", {}).values()), {})
+                created = ((rpage.get("revisions") or [{}])[0]
+                           .get("timestamp"))
+            except Exception as exc:
+                logger.warning("products: %s failed: %s", target,
+                               type(exc).__name__)
+                continue
+            words = len(re.findall(r"[A-Za-z0-9']+", lead))
+            for company in companies:
+                hits = _lead_mentions(lead, company)
+                out.setdefault(company, {"company": company, "candidates": []})
+                out[company]["candidates"].append({
+                    "rule": "(6) core product or service, via redirect",
+                    "target": target,
+                    "article_created": created,
+                    "lead_words": words,
+                    "company_tokens_in_lead": hits,
+                    # Every gate the paper applies, evaluated but not enforced:
+                    # the verdict is a human's.
+                    "passes_lead_mention": bool(hits),
+                    "passes_min_words": words >= MIN_ARTICLE_WORDS,
+                    "lead": lead[:400],
+                })
+            if n % 25 == 0:
+                logger.info("products: %d/%d targets", n, len(interesting))
+    finally:
+        await client.aclose()
+
+    blob = {
+        "resolved_at": datetime.now(UTC).isoformat(),
+        "cohort": cohort,
+        "method": ("rule (6) candidates from redirects out of the firm's own "
+                   "name to a differently-titled article. Collected for review, "
+                   "never auto-accepted."),
+        "companies_probed": len(todo),
+        "redirects_seen": len(hops),
+        "companies": out,
+    }
+    out_path.write_text(json.dumps(blob, indent=1) + "\n")
+    strong = sum(1 for v in out.values()
+                 if any(c["passes_lead_mention"] and c["passes_min_words"]
+                        for c in v["candidates"]))
+    logger.info("products[%s]: %d companies with a candidate, %d passing both "
+                "gates -> %s", cohort, len(out), strong, out_path.name)
+    return blob
 
 
 if __name__ == "__main__":

@@ -1,0 +1,246 @@
+{
+ "resolved_at": "2026-09-09T13:39:23.850658+00:00",
+ "cohort": "recent",
+ "method": "rule (6) candidates from redirects out of the firm's own name to a differently-titled article. Collected for review, never auto-accepted.",
+ "companies_probed": 396,
+ "redirects_seen": 31,
+ "companies": {
+  "Kanzhun Ltd": {
+   "company": "Kanzhun Ltd",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Boss Zhipin",
+     "article_created": "2024-05-12T07:29:05Z",
+     "lead_words": 49,
+     "company_tokens_in_lead": [
+      "kanzhun"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Kanzhun Limited (also referred to as Kanzhun and Boss Zhipin; Chinese: \u770b\u51c6\u79d1\u6280\u6709\u9650\u516c\u53f8; pinyin: K\u00e0nzh\u01d4n K\u0113j\u00ec Y\u01d2uxi\u00e0n G\u014dngs\u012b) is a publicly listed Chinese human resources company that focuses on providing online recruitment services through its mobile app, Boss Zhipin (Chinese: BOSS\u76f4\u8058; lit. 'Boss direct hire')."
+    }
+   ]
+  },
+  "C3.ai, Inc.": {
+   "company": "C3.ai, Inc.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "C3 AI",
+     "article_created": "2023-04-10T18:14:58Z",
+     "lead_words": 78,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "C3.ai (stylized as C3 AI) is an American information technology company specializing in enterprise artificial intelligence. Based in Redwood City, California, the company was founded in 2009 by Thomas Siebel and became a public company in 2020 on the New York Stock Exchange.\nOn September 3, 2025 C3 AI announced that Stephen Ehikian, former acting administrator of the General Services Administratio"
+    },
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "C3 AI",
+     "article_created": "2023-04-10T18:14:58Z",
+     "lead_words": 78,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "C3.ai (stylized as C3 AI) is an American information technology company specializing in enterprise artificial intelligence. Based in Redwood City, California, the company was founded in 2009 by Thomas Siebel and became a public company in 2020 on the New York Stock Exchange.\nOn September 3, 2025 C3 AI announced that Stephen Ehikian, former acting administrator of the General Services Administratio"
+    }
+   ]
+  },
+  "Flywire Corp": {
+   "company": "Flywire Corp",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Fly wire",
+     "article_created": "2022-02-25T05:08:03Z",
+     "lead_words": 66,
+     "company_tokens_in_lead": [
+      "flywire"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Fly wire, Fly-wire, Flywire or Fly Wire may refer to:\n\nFlywire (company), a former unicorn startup company\nFlywire (screen), a window screen of wire gauze\nFlywire (thread), a special thread construction used in sneaker manufacturing by Nike\nFlywire (equipment), wire that isn't visible to the audience and attaches to harnesses used by riggers for wire-flying\nFly-wire (wire), an enameled wire for ci"
+    }
+   ]
+  },
+  "Honest Company, Inc.": {
+   "company": "Honest Company, Inc.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Honesty",
+     "article_created": "2003-08-28T02:19:36Z",
+     "lead_words": 105,
+     "company_tokens_in_lead": [
+      "honest"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Honesty or truthfulness is a facet of moral character that connotes positive and virtuous attributes such as integrity, truthfulness, straightforwardness (including straightforwardness of conduct: earnestness), along with the absence of lying, cheating, theft, etc. Honesty also involves being trustworthy, loyal, fair, and sincere.\nA reputation for honesty is denoted by terms like reputability and "
+    }
+   ]
+  },
+  "VIA optronics AG": {
+   "company": "VIA optronics AG",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Integrated Micro-Electronics, Inc.",
+     "article_created": "2006-08-07T13:52:47Z",
+     "lead_words": 117,
+     "company_tokens_in_lead": [
+      "via"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Integrated Micro-Electronics, Inc. (abbreviated as IMI, PSE: IMI) provides electronics manufacturing services (EMS) and power semiconductor assembly and test services (SATS) with manufacturing facilities in Asia and Europe. Its headquarters is located in Bi\u00f1an, Laguna.\nIMI is a leading global electronics manufacturing solutions expert specializing in highly reliable and quality electronics for lon"
+    }
+   ]
+  },
+  "CS Disco, Inc.": {
+   "company": "CS Disco, Inc.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Kiwi Camara",
+     "article_created": "2005-09-02T05:46:11Z",
+     "lead_words": 77,
+     "company_tokens_in_lead": [
+      "disco"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Kiwi Alejandro Danao Camara (born June 16, 1984), also known as K.A.D. Camara, is a Filipino American attorney and businessman known for being founder and former CEO of CS Disco. He also represented defendant Jammie Thomas-Rasset in the first file-sharing copyright infringement lawsuit in the U.S. brought by major record labels to be tried by a jury. Camara abruptly resigned from CS Disco in Septe"
+    }
+   ]
+  },
+  "ANCHIANO THERAPEUTICS LTD.": {
+   "company": "ANCHIANO THERAPEUTICS LTD.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "List of Israeli companies listed on the Nasdaq",
+     "article_created": "2006-07-02T17:56:22Z",
+     "lead_words": 99,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "Israel had more companies listed in 2012 on the NASDAQ stock exchange than any country outside of the United States and China. As of 2011, some sixty Israeli companies are listed on the Nasdaq. 2000 was the year that saw the most new Israeli listings on the exchange \u2013 33 companies. Through the years, many have been acquired, merged with other companies, privatized, or gone out of business. Since t"
+    }
+   ]
+  },
+  "LIZHI INC.": {
+   "company": "LIZHI INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Lychee",
+     "article_created": "2002-09-02T17:09:59Z",
+     "lead_words": 189,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "Lychees ( LIE-chee, US also  LEE-chee) are the fruit of the tree Litchi chinensis, the sole member of the genus Litchi, part of the soapberry family, Sapindaceae. They are edible, with a sweet, mildly tart flavor, and have a distinctive floral aroma often described as rose-like.\nThere are three distinct subspecies of lychee. The most common is the Indochinese lychee, found in South China, Malaysia"
+    }
+   ]
+  },
+  "MIDWEST HOLDING INC.": {
+   "company": "MIDWEST HOLDING INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Midwestern United States",
+     "article_created": "2002-10-15T02:05:03Z",
+     "lead_words": 376,
+     "company_tokens_in_lead": [
+      "midwest"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "The Midwestern United States (also referred to as the Midwest, the Heartland, the American Midwest, Middle America, or the Middle West) is one of the four census regions defined by the United States Census Bureau. It occupies the northern central part of the United States. It was officially named the North Central Region by the U.S. Census Bureau until 1984. It is between the Northeastern United S"
+    }
+   ]
+  },
+  "Tremor International Ltd.": {
+   "company": "Tremor International Ltd.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Nexxen",
+     "article_created": "2015-08-11T22:23:29Z",
+     "lead_words": 60,
+     "company_tokens_in_lead": [
+      "tremor"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Nexxen (formerly Tremor International Ltd.) is a New York-based, publicly traded online advertising company. Founded in 2007, it focuses on digital advertising, including video, mobile, native advertising, and display technology and connected TV. Its stock trades on both the Nasdaq and London Stock Exchange under the ticker symbol NEXN. The company employs over 800 people across 19 offices globall"
+    }
+   ]
+  },
+  "Membership Collective Group Inc.": {
+   "company": "Membership Collective Group Inc.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Soho House (club)",
+     "article_created": "2007-04-14T08:50:32Z",
+     "lead_words": 68,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "Soho House is an international private members\u2019 club with a focus on the media, arts and fashion industries.\nThe company operates clubs, hotels, restaurants and other venues. In 2015, it changed its name from SOHO House Group to Soho House & Co.  The original location is at 40 Greek Street, Soho, London, England. As of March 2024, Soho House operated 42 club locations worldwide, with plans to open"
+    }
+   ]
+  },
+  "Brera Holdings PLC": {
+   "company": "Brera Holdings PLC",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Solmate",
+     "article_created": "2024-03-20T21:57:27Z",
+     "lead_words": 67,
+     "company_tokens_in_lead": [
+      "brera"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Solmate is a UAE-based cryptocurrency digital asset treasury. Founded in 2022 as Brera Holdings PLC, it was originally a holding company focused on multi club ownership (MCO) in sports. With offices in Milan and Dublin, at its peak the club owned six association football clubs and one volleyball club. Traded on the Nasdaq, Brera Holdings was the world's first publicly traded multi-club sports owne"
+    }
+   ]
+  },
+  "SPACE EXPLORATION TECHNOLOGIES CORP": {
+   "company": "SPACE EXPLORATION TECHNOLOGIES CORP",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "SpaceX",
+     "article_created": "2004-07-16T17:12:15Z",
+     "lead_words": 555,
+     "company_tokens_in_lead": [
+      "exploration",
+      "space"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Space Exploration Technologies Corp., doing business as SpaceX, is an American aerospace manufacturer and provider of space transportation, telecommunications, and artificial intelligence services, headquartered at the Starbase development site in Starbase, Texas. The company operates three primary segments: Space, which develops and flies the Falcon 9, Falcon Heavy, and Starship launch vehicles, "
+    },
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "SpaceX",
+     "article_created": "2004-07-16T17:12:15Z",
+     "lead_words": 555,
+     "company_tokens_in_lead": [
+      "exploration",
+      "space"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Space Exploration Technologies Corp., doing business as SpaceX, is an American aerospace manufacturer and provider of space transportation, telecommunications, and artificial intelligence services, headquartered at the Starbase development site in Starbase, Texas. The company operates three primary segments: Space, which develops and flies the Falcon 9, Falcon Heavy, and Starship launch vehicles, "
+    }
+   ]
+  }
+ }
+}

@@ -2641,5 +2641,1703 @@
   "d1_volume": 522131790,
   "calendar_listing_date": "2026-06-12",
   "n_bars": 6
+ },
+ "SNSE": {
+  "symbol": "SNSE",
+  "bars": [],
+  "note": "no bars in the requested window",
+  "tiingo_name": null,
+  "tiingo_start": null,
+  "calendar_listing_date": "2021-02-04"
+ },
+ "BTTR": {
+  "symbol": "BTTR",
+  "first_trade_date": "2021-06-24",
+  "d1_open": 1.27,
+  "d1_close": 1.25,
+  "d1_volume": 177342,
+  "calendar_listing_date": "2021-06-29",
+  "n_bars": 11
+ },
+ "NREF": {
+  "symbol": "NREF",
+  "first_trade_date": "2020-02-07",
+  "d1_open": 19.0,
+  "d1_close": 18.8,
+  "d1_volume": 1150996,
+  "calendar_listing_date": "2020-02-07",
+  "n_bars": 6
+ },
+ "MAIR": {
+  "symbol": "MAIR",
+  "first_trade_date": "2026-04-16",
+  "d1_open": 32.0,
+  "d1_close": 31.75,
+  "d1_volume": 36831107,
+  "calendar_listing_date": "2026-04-16",
+  "n_bars": 7
+ },
+ "GMTL": {
+  "symbol": "GMTL",
+  "first_trade_date": "2026-03-23",
+  "d1_open": 16.5,
+  "d1_close": 14.31,
+  "d1_volume": 942084,
+  "calendar_listing_date": "2026-03-20",
+  "n_bars": 6
+ },
+ "BCAB": {
+  "symbol": "BCAB",
+  "first_trade_date": "2020-12-16",
+  "d1_open": 30.55,
+  "d1_close": 31.02,
+  "d1_volume": 4067535,
+  "calendar_listing_date": "2020-12-16",
+  "n_bars": 7
+ },
+ "PLTR": {
+  "symbol": "PLTR",
+  "first_trade_date": "2020-09-30",
+  "d1_open": 10.0,
+  "d1_close": 9.5,
+  "d1_volume": 338584433,
+  "calendar_listing_date": "2020-09-30",
+  "n_bars": 8
+ },
+ "GFL": {
+  "symbol": "GFL",
+  "first_trade_date": "2020-03-03",
+  "d1_open": 17.5,
+  "d1_close": 16.8,
+  "d1_volume": 14423162,
+  "calendar_listing_date": "2020-03-03",
+  "n_bars": 9
+ },
+ "CINC": {
+  "symbol": "CINC",
+  "first_trade_date": "2022-01-07",
+  "d1_open": 21.0,
+  "d1_close": 16.0,
+  "d1_volume": 2804992,
+  "calendar_listing_date": "2022-01-07",
+  "n_bars": 6
+ },
+ "CMPS": {
+  "symbol": "CMPS",
+  "first_trade_date": "2020-09-18",
+  "d1_open": 23.4,
+  "d1_close": 29.0,
+  "d1_volume": 2999363,
+  "calendar_listing_date": "2020-09-18",
+  "n_bars": 7
+ },
+ "NWGL": {
+  "symbol": "NWGL",
+  "first_trade_date": "2023-09-12",
+  "d1_open": 13.0,
+  "d1_close": 9.6,
+  "d1_volume": 1543518,
+  "calendar_listing_date": "2023-09-12",
+  "n_bars": 9
+ },
+ "CVAC": {
+  "symbol": "CVAC",
+  "first_trade_date": "2020-08-14",
+  "d1_open": 44.0,
+  "d1_close": 55.9,
+  "d1_volume": 23677714,
+  "calendar_listing_date": "2020-08-14",
+  "n_bars": 7
+ },
+ "LVTX": {
+  "symbol": "LVTX",
+  "first_trade_date": "2021-03-25",
+  "d1_open": 12.0,
+  "d1_close": 14.3,
+  "d1_volume": 2610641,
+  "calendar_listing_date": "2021-03-25",
+  "n_bars": 6
+ },
+ "SGHT": {
+  "symbol": "SGHT",
+  "first_trade_date": "2021-07-15",
+  "d1_open": 30.0,
+  "d1_close": 33.5,
+  "d1_volume": 5842401,
+  "calendar_listing_date": "2021-07-15",
+  "n_bars": 7
+ },
+ "RGNT": {
+  "symbol": "RGNT",
+  "first_trade_date": "2025-12-04",
+  "d1_open": 7.4,
+  "d1_close": 7.5,
+  "d1_volume": 334241,
+  "calendar_listing_date": "2025-12-04",
+  "n_bars": 7
+ },
+ "PATH": {
+  "symbol": "PATH",
+  "first_trade_date": "2021-04-21",
+  "d1_open": 65.5,
+  "d1_close": 69.0,
+  "d1_volume": 23791556,
+  "calendar_listing_date": "2021-04-21",
+  "n_bars": 8
+ },
+ "INIO": {
+  "symbol": "INIO",
+  "first_trade_date": "2026-06-04",
+  "d1_open": 31.0,
+  "d1_close": 33.3,
+  "d1_volume": 55350454,
+  "calendar_listing_date": "2026-06-04",
+  "n_bars": 7
+ },
+ "LIF": {
+  "symbol": "LIF",
+  "first_trade_date": "2024-06-06",
+  "d1_open": 26.0,
+  "d1_close": 27.0,
+  "d1_volume": 1044167,
+  "calendar_listing_date": "2024-06-06",
+  "n_bars": 7
+ },
+ "BOLT": {
+  "symbol": "BOLT",
+  "first_trade_date": "2021-02-05",
+  "d1_open": 26.1,
+  "d1_close": 32.15,
+  "d1_volume": 6910823,
+  "calendar_listing_date": "2021-02-05",
+  "n_bars": 6
+ },
+ "NIPG": {
+  "symbol": "NIPG",
+  "first_trade_date": "2024-07-26",
+  "d1_open": 13.11,
+  "d1_close": 9.02,
+  "d1_volume": 1072714,
+  "calendar_listing_date": "2024-07-26",
+  "n_bars": 7
+ },
+ "CABA": {
+  "symbol": "CABA",
+  "first_trade_date": "2019-10-25",
+  "d1_open": 9.0,
+  "d1_close": 10.0,
+  "d1_volume": 971526,
+  "calendar_listing_date": "2019-10-25",
+  "n_bars": 7
+ },
+ "LASE": {
+  "symbol": "LASE",
+  "first_trade_date": "2022-09-30",
+  "d1_open": 5.0,
+  "d1_close": 2.58,
+  "d1_volume": 7078051,
+  "calendar_listing_date": "2022-09-30",
+  "n_bars": 7
+ },
+ "VTEX": {
+  "symbol": "VTEX",
+  "first_trade_date": "2021-07-21",
+  "d1_open": 25.1,
+  "d1_close": 22.18,
+  "d1_volume": 10455878,
+  "calendar_listing_date": "2021-07-21",
+  "n_bars": 8
+ },
+ "GLBE": {
+  "symbol": "GLBE",
+  "first_trade_date": "2021-05-12",
+  "d1_open": 24.25,
+  "d1_close": 25.5,
+  "d1_volume": 10453599,
+  "calendar_listing_date": "2021-05-12",
+  "n_bars": 8
+ },
+ "TDUP": {
+  "symbol": "TDUP",
+  "first_trade_date": "2021-03-26",
+  "d1_open": 18.25,
+  "d1_close": 20.0,
+  "d1_volume": 4919440,
+  "calendar_listing_date": "2021-03-26",
+  "n_bars": 6
+ },
+ "SEPN": {
+  "symbol": "SEPN",
+  "first_trade_date": "2024-10-25",
+  "d1_open": 23.5,
+  "d1_close": 21.4,
+  "d1_volume": 3254992,
+  "calendar_listing_date": "2024-10-25",
+  "n_bars": 7
+ },
+ "PMNT": {
+  "symbol": "PMNT",
+  "first_trade_date": "2024-02-08",
+  "d1_open": 4.43,
+  "d1_close": 5.2,
+  "d1_volume": 378326,
+  "calendar_listing_date": "2024-02-08",
+  "n_bars": 7
+ },
+ "AZEK": {
+  "symbol": "AZEK",
+  "first_trade_date": "2020-06-12",
+  "d1_open": 27.5,
+  "d1_close": 27.15,
+  "d1_volume": 21817770,
+  "calendar_listing_date": "2020-06-12",
+  "n_bars": 7
+ },
+ "FTCI": {
+  "symbol": "FTCI",
+  "first_trade_date": "2021-04-28",
+  "d1_open": 15.21,
+  "d1_close": 14.26,
+  "d1_volume": 8837651,
+  "calendar_listing_date": "2021-04-28",
+  "n_bars": 8
+ },
+ "FA": {
+  "symbol": "FA",
+  "first_trade_date": "2021-06-23",
+  "d1_open": 19.85,
+  "d1_close": 19.7,
+  "d1_volume": 8490619,
+  "calendar_listing_date": "2021-06-23",
+  "n_bars": 8
+ },
+ "GP": {
+  "symbol": "GP",
+  "first_trade_date": "2020-08-24",
+  "d1_open": 2.14,
+  "d1_close": 3.01,
+  "d1_volume": 8606747,
+  "calendar_listing_date": "2020-08-28",
+  "n_bars": 10
+ },
+ "HUDI": {
+  "symbol": "HUDI",
+  "first_trade_date": "2021-01-22",
+  "d1_open": 9.01,
+  "d1_close": 7.13,
+  "d1_volume": 1472034,
+  "calendar_listing_date": "2021-01-22",
+  "n_bars": 7
+ },
+ "FATN": {
+  "symbol": "FATN",
+  "first_trade_date": "2025-04-08",
+  "d1_open": 6.5,
+  "d1_close": 13.0,
+  "d1_volume": 6394651,
+  "calendar_listing_date": "2025-04-08",
+  "n_bars": 8
+ },
+ "EROK": {
+  "symbol": "EROK",
+  "first_trade_date": "2026-05-14",
+  "d1_open": 23.0,
+  "d1_close": 21.84,
+  "d1_volume": 4882368,
+  "calendar_listing_date": "2026-05-14",
+  "n_bars": 7
+ },
+ "CNTA": {
+  "symbol": "CNTA",
+  "first_trade_date": "2021-05-28",
+  "d1_open": 20.25,
+  "d1_close": 21.75,
+  "d1_volume": 3830375,
+  "calendar_listing_date": "2021-05-28",
+  "n_bars": 6
+ },
+ "OLK": {
+  "symbol": "OLK",
+  "first_trade_date": "2021-03-25",
+  "d1_open": 30.1,
+  "d1_close": 36.0,
+  "d1_volume": 6251630,
+  "calendar_listing_date": "2021-03-25",
+  "n_bars": 6
+ },
+ "JCAP": {
+  "symbol": "JCAP",
+  "first_trade_date": "2025-06-26",
+  "d1_open": 19.0,
+  "d1_close": 18.54,
+  "d1_volume": 3417017,
+  "calendar_listing_date": "2025-06-26",
+  "n_bars": 6
+ },
+ "BON": {
+  "symbol": "BON",
+  "bars": [],
+  "note": "ticker now held by an entity trading only from 2025-02-27 (Bon Natural Life Ltd - Class A) -- rename or symbol reuse",
+  "tiingo_name": "Bon Natural Life Ltd - Class A",
+  "tiingo_start": "2025-02-27",
+  "calendar_listing_date": "2021-06-24"
+ },
+ "ALH": {
+  "symbol": "ALH",
+  "first_trade_date": "2025-10-09",
+  "d1_open": 24.5,
+  "d1_close": 24.82,
+  "d1_volume": 14698266,
+  "calendar_listing_date": "2025-10-09",
+  "n_bars": 7
+ },
+ "AYLA": {
+  "symbol": "AYLA",
+  "first_trade_date": "2020-05-08",
+  "d1_open": 15.66,
+  "d1_close": 15.03,
+  "d1_volume": 1728710,
+  "calendar_listing_date": "2020-05-08",
+  "n_bars": 7
+ },
+ "PLTK": {
+  "symbol": "PLTK",
+  "first_trade_date": "2021-01-15",
+  "d1_open": 33.4,
+  "d1_close": 31.62,
+  "d1_volume": 53050914,
+  "calendar_listing_date": "2021-01-15",
+  "n_bars": 6
+ },
+ "COMP": {
+  "symbol": "COMP",
+  "first_trade_date": "2021-04-01",
+  "d1_open": 21.25,
+  "d1_close": 20.15,
+  "d1_volume": 13577628,
+  "calendar_listing_date": "2021-04-01",
+  "n_bars": 6
+ },
+ "INMB": {
+  "symbol": "INMB",
+  "first_trade_date": "2019-02-04",
+  "d1_open": 8.44,
+  "d1_close": 7.99,
+  "d1_volume": 91282,
+  "calendar_listing_date": "2019-02-04",
+  "n_bars": 9
+ },
+ "ODD": {
+  "symbol": "ODD",
+  "first_trade_date": "2023-07-19",
+  "d1_open": 49.1,
+  "d1_close": 47.53,
+  "d1_volume": 6238113,
+  "calendar_listing_date": "2023-07-19",
+  "n_bars": 8
+ },
+ "EAR": {
+  "symbol": "EAR",
+  "first_trade_date": "2020-10-16",
+  "d1_open": 36.0,
+  "d1_close": 33.68,
+  "d1_volume": 6553354,
+  "calendar_listing_date": "2020-10-16",
+  "n_bars": 7
+ },
+ "TOST": {
+  "symbol": "TOST",
+  "first_trade_date": "2021-09-22",
+  "d1_open": 65.26,
+  "d1_close": 62.51,
+  "d1_volume": 14255592,
+  "calendar_listing_date": "2021-09-22",
+  "n_bars": 8
+ },
+ "SITM": {
+  "symbol": "SITM",
+  "first_trade_date": "2019-11-20",
+  "d1_open": 13.0,
+  "d1_close": 13.0,
+  "d1_volume": 100,
+  "calendar_listing_date": "2019-11-21",
+  "n_bars": 7
+ },
+ "DPC": {
+  "symbol": "DPC",
+  "first_trade_date": "2026-06-30",
+  "d1_open": 50.43,
+  "d1_close": 49.06,
+  "d1_volume": 3489591,
+  "calendar_listing_date": "2026-06-25",
+  "n_bars": 3
+ },
+ "CHNG": {
+  "symbol": "CHNG",
+  "first_trade_date": "2019-06-27",
+  "d1_open": 14.01,
+  "d1_close": 15.0,
+  "d1_volume": 18259463,
+  "calendar_listing_date": "2019-06-27",
+  "n_bars": 6
+ },
+ "SPT": {
+  "symbol": "SPT",
+  "first_trade_date": "2019-12-13",
+  "d1_open": 18.05,
+  "d1_close": 16.6,
+  "d1_volume": 5443356,
+  "calendar_listing_date": "2019-12-13",
+  "n_bars": 7
+ },
+ "HRT": {
+  "symbol": "HRT",
+  "first_trade_date": "2021-10-29",
+  "d1_open": 18.0,
+  "d1_close": 17.25,
+  "d1_volume": 8792266,
+  "calendar_listing_date": "2021-10-29",
+  "n_bars": 7
+ },
+ "MDLA": {
+  "symbol": "MDLA",
+  "first_trade_date": "2019-07-19",
+  "d1_open": 34.0,
+  "d1_close": 37.05,
+  "d1_volume": 18257424,
+  "calendar_listing_date": "2019-07-19",
+  "n_bars": 7
+ },
+ "USER": {
+  "symbol": "USER",
+  "first_trade_date": "2021-11-17",
+  "d1_open": 15.25,
+  "d1_close": 14.01,
+  "d1_volume": 5784289,
+  "calendar_listing_date": "2021-11-17",
+  "n_bars": 7
+ },
+ "WRD": {
+  "symbol": "WRD",
+  "first_trade_date": "2024-10-25",
+  "d1_open": 15.5,
+  "d1_close": 16.55,
+  "d1_volume": 1950574,
+  "calendar_listing_date": "2024-10-25",
+  "n_bars": 7
+ },
+ "RBRK": {
+  "symbol": "RBRK",
+  "first_trade_date": "2024-04-25",
+  "d1_open": 38.6,
+  "d1_close": 37.0,
+  "d1_volume": 18580399,
+  "calendar_listing_date": "2024-04-25",
+  "n_bars": 7
+ },
+ "CON": {
+  "symbol": "CON",
+  "first_trade_date": "2024-07-25",
+  "d1_open": 22.0,
+  "d1_close": 22.48,
+  "d1_volume": 5476232,
+  "calendar_listing_date": "2024-07-25",
+  "n_bars": 7
+ },
+ "TLS": {
+  "symbol": "TLS",
+  "first_trade_date": "2020-11-19",
+  "d1_open": 21.9,
+  "d1_close": 20.29,
+  "d1_volume": 9854457,
+  "calendar_listing_date": "2020-11-19",
+  "n_bars": 6
+ },
+ "XLO": {
+  "symbol": "XLO",
+  "first_trade_date": "2021-10-22",
+  "d1_open": 15.0,
+  "d1_close": 16.0,
+  "d1_volume": 1429934,
+  "calendar_listing_date": "2021-10-22",
+  "n_bars": 7
+ },
+ "PINS": {
+  "symbol": "PINS",
+  "first_trade_date": "2019-04-18",
+  "d1_open": 23.75,
+  "d1_close": 24.4,
+  "d1_volume": 87109516,
+  "calendar_listing_date": "2019-04-18",
+  "n_bars": 6
+ },
+ "KVUE": {
+  "symbol": "KVUE",
+  "first_trade_date": "2023-05-04",
+  "d1_open": 25.53,
+  "d1_close": 26.9,
+  "d1_volume": 77004186,
+  "calendar_listing_date": "2023-05-04",
+  "n_bars": 7
+ },
+ "RNA": {
+  "symbol": "RNA",
+  "bars": [],
+  "note": "ticker now held by an entity trading only from 2026-02-27 (Atrium Therapeutics Inc) -- rename or symbol reuse",
+  "tiingo_name": "Atrium Therapeutics Inc",
+  "tiingo_start": "2026-02-27",
+  "calendar_listing_date": "2020-06-12"
+ },
+ "IMRX": {
+  "symbol": "IMRX",
+  "first_trade_date": "2021-07-30",
+  "d1_open": 19.5,
+  "d1_close": 17.59,
+  "d1_volume": 942022,
+  "calendar_listing_date": "2021-07-30",
+  "n_bars": 7
+ },
+ "YJ": {
+  "symbol": "YJ",
+  "first_trade_date": "2019-05-03",
+  "d1_open": 13.5,
+  "d1_close": 14.15,
+  "d1_volume": 8759147,
+  "calendar_listing_date": "2019-05-03",
+  "n_bars": 7
+ },
+ "MIST": {
+  "symbol": "MIST",
+  "first_trade_date": "2019-05-09",
+  "d1_open": 15.61,
+  "d1_close": 15.37,
+  "d1_volume": 983985,
+  "calendar_listing_date": "2019-05-09",
+  "n_bars": 7
+ },
+ "LMRI": {
+  "symbol": "LMRI",
+  "first_trade_date": "2025-12-11",
+  "d1_open": 18.65,
+  "d1_close": 18.52,
+  "d1_volume": 7068060,
+  "calendar_listing_date": "2025-12-11",
+  "n_bars": 7
+ },
+ "ANCN": {
+  "symbol": "ANCN",
+  "first_trade_date": "2019-02-12",
+  "d1_open": 11.5,
+  "d1_close": 10.8,
+  "d1_volume": 649965,
+  "calendar_listing_date": "2019-02-12",
+  "n_bars": 8
+ },
+ "MOLN": {
+  "symbol": "MOLN",
+  "first_trade_date": "2021-06-16",
+  "d1_open": 20.0,
+  "d1_close": 19.65,
+  "d1_volume": 1938371,
+  "calendar_listing_date": "2021-06-16",
+  "n_bars": 8
+ },
+ "HSAI": {
+  "symbol": "HSAI",
+  "first_trade_date": "2023-02-09",
+  "d1_open": 23.75,
+  "d1_close": 21.05,
+  "d1_volume": 7544405,
+  "calendar_listing_date": "2023-02-09",
+  "n_bars": 7
+ },
+ "EGG": {
+  "symbol": "EGG",
+  "first_trade_date": "2025-06-18",
+  "d1_open": 8.5,
+  "d1_close": 6.53,
+  "d1_volume": 1510058,
+  "calendar_listing_date": "2025-06-18",
+  "n_bars": 7
+ },
+ "IVA": {
+  "symbol": "IVA",
+  "first_trade_date": "2020-07-10",
+  "d1_open": 15.13,
+  "d1_close": 13.42,
+  "d1_volume": 2404913,
+  "calendar_listing_date": "2020-07-10",
+  "n_bars": 7
+ },
+ "TURB": {
+  "symbol": "TURB",
+  "first_trade_date": "2023-09-22",
+  "d1_open": 6.89,
+  "d1_close": 5.01,
+  "d1_volume": 4308674,
+  "calendar_listing_date": "2023-09-22",
+  "n_bars": 7
+ },
+ "SWIM": {
+  "symbol": "SWIM",
+  "first_trade_date": "2021-04-23",
+  "d1_open": 24.7,
+  "d1_close": 27.25,
+  "d1_volume": 8264031,
+  "calendar_listing_date": "2021-04-23",
+  "n_bars": 7
+ },
+ "GENB": {
+  "symbol": "GENB",
+  "first_trade_date": "2026-02-27",
+  "d1_open": 15.0,
+  "d1_close": 12.65,
+  "d1_volume": 6218837,
+  "calendar_listing_date": "2026-02-27",
+  "n_bars": 7
+ },
+ "IINN": {
+  "symbol": "IINN",
+  "first_trade_date": "2021-07-14",
+  "d1_open": 5.0,
+  "d1_close": 4.75,
+  "d1_volume": 6621681,
+  "calendar_listing_date": "2021-07-14",
+  "n_bars": 8
+ },
+ "HG": {
+  "symbol": "HG",
+  "first_trade_date": "2023-11-10",
+  "d1_open": 15.25,
+  "d1_close": 15.0,
+  "d1_volume": 4338957,
+  "calendar_listing_date": "2023-11-10",
+  "n_bars": 7
+ },
+ "RAAS": {
+  "symbol": "RAAS",
+  "first_trade_date": "2021-02-09",
+  "d1_open": 27.0,
+  "d1_close": 48.0,
+  "d1_volume": 24928337,
+  "calendar_listing_date": "2021-02-09",
+  "n_bars": 8
+ },
+ "FDMT": {
+  "symbol": "FDMT",
+  "first_trade_date": "2020-12-11",
+  "d1_open": 40.0,
+  "d1_close": 40.5,
+  "d1_volume": 3649381,
+  "calendar_listing_date": "2020-12-11",
+  "n_bars": 7
+ },
+ "SNSC": {
+  "symbol": "SNSC",
+  "first_trade_date": "2026-08-12",
+  "d1_open": 4.4,
+  "d1_close": 3.07,
+  "d1_volume": 1532139,
+  "calendar_listing_date": "2026-08-12",
+  "n_bars": 8
+ },
+ "HTFL": {
+  "symbol": "HTFL",
+  "first_trade_date": "2025-08-08",
+  "d1_open": 28.0,
+  "d1_close": 28.75,
+  "d1_volume": 7013436,
+  "calendar_listing_date": "2025-08-08",
+  "n_bars": 7
+ },
+ "CYN": {
+  "symbol": "CYN",
+  "first_trade_date": "2021-10-20",
+  "d1_open": 8.01,
+  "d1_close": 7.4,
+  "d1_volume": 1686815,
+  "calendar_listing_date": "2021-10-20",
+  "n_bars": 8
+ },
+ "EDTK": {
+  "symbol": "EDTK",
+  "first_trade_date": "2020-07-23",
+  "d1_open": 5.35,
+  "d1_close": 4.75,
+  "d1_volume": 2374308,
+  "calendar_listing_date": "2020-07-23",
+  "n_bars": 7
+ },
+ "PAY": {
+  "symbol": "PAY",
+  "first_trade_date": "2021-05-26",
+  "d1_open": 28.76,
+  "d1_close": 28.61,
+  "d1_volume": 5508588,
+  "calendar_listing_date": "2021-05-26",
+  "n_bars": 7
+ },
+ "TXG": {
+  "symbol": "TXG",
+  "first_trade_date": "2019-09-12",
+  "d1_open": 54.0,
+  "d1_close": 52.75,
+  "d1_volume": 7326286,
+  "calendar_listing_date": "2019-09-12",
+  "n_bars": 7
+ },
+ "VIGL": {
+  "symbol": "VIGL",
+  "first_trade_date": "2022-01-07",
+  "d1_open": 12.0,
+  "d1_close": 12.65,
+  "d1_volume": 2210289,
+  "calendar_listing_date": "2022-01-07",
+  "n_bars": 6
+ },
+ "RYZB": {
+  "symbol": "RYZB",
+  "first_trade_date": "2023-09-14",
+  "d1_open": 18.0,
+  "d1_close": 18.0,
+  "d1_volume": 0,
+  "calendar_listing_date": "2023-09-15",
+  "n_bars": 8
+ },
+ "GHRS": {
+  "symbol": "GHRS",
+  "first_trade_date": "2021-06-25",
+  "d1_open": 22.0,
+  "d1_close": 19.25,
+  "d1_volume": 1650437,
+  "calendar_listing_date": "2021-06-25",
+  "n_bars": 6
+ },
+ "MLNK": {
+  "symbol": "MLNK",
+  "first_trade_date": "2021-07-27",
+  "d1_open": 3.237,
+  "d1_close": 3.237,
+  "d1_volume": 0,
+  "calendar_listing_date": "2021-07-28",
+  "n_bars": 9
+ },
+ "EM": {
+  "symbol": "EM",
+  "first_trade_date": "2021-04-01",
+  "d1_open": 10.0,
+  "d1_close": 8.54,
+  "d1_volume": 8789939,
+  "calendar_listing_date": "2021-04-01",
+  "n_bars": 6
+ },
+ "PPD": {
+  "symbol": "PPD",
+  "first_trade_date": "2020-02-06",
+  "d1_open": 31.0,
+  "d1_close": 30.0,
+  "d1_volume": 25526305,
+  "calendar_listing_date": "2020-02-06",
+  "n_bars": 7
+ },
+ "AI": {
+  "symbol": "AI",
+  "first_trade_date": "2020-12-09",
+  "d1_open": 100.0,
+  "d1_close": 92.49,
+  "d1_volume": 24805639,
+  "calendar_listing_date": "2020-12-09",
+  "n_bars": 8
+ },
+ "SKYX": {
+  "symbol": "SKYX",
+  "first_trade_date": "2022-02-07",
+  "d1_open": 0.001,
+  "d1_close": 0.001,
+  "d1_volume": 0,
+  "calendar_listing_date": "2022-02-10",
+  "n_bars": 10
+ },
+ "OBT": {
+  "symbol": "OBT",
+  "first_trade_date": "2021-08-02",
+  "d1_open": 34.0,
+  "d1_close": 34.0,
+  "d1_volume": 125,
+  "calendar_listing_date": "2021-08-05",
+  "n_bars": 10
+ },
+ "RR": {
+  "symbol": "RR",
+  "first_trade_date": "2023-11-17",
+  "d1_open": 5.0,
+  "d1_close": 5.25,
+  "d1_volume": 2056328,
+  "calendar_listing_date": "2023-11-17",
+  "n_bars": 6
+ },
+ "OZON": {
+  "symbol": "OZON",
+  "first_trade_date": "2020-11-24",
+  "d1_open": 42.3,
+  "d1_close": 40.18,
+  "d1_volume": 18009913,
+  "calendar_listing_date": "2020-11-24",
+  "n_bars": 8
+ },
+ "EXYN": {
+  "symbol": "EXYN",
+  "first_trade_date": "2026-05-15",
+  "d1_open": 6.75,
+  "d1_close": 5.2,
+  "d1_volume": 882966,
+  "calendar_listing_date": "2026-05-15",
+  "n_bars": 6
+ },
+ "SKHY": {
+  "symbol": "SKHY",
+  "first_trade_date": "2026-07-10",
+  "d1_open": 170.0,
+  "d1_close": 168.01,
+  "d1_volume": 107674700,
+  "calendar_listing_date": "2026-07-10",
+  "n_bars": 7
+ },
+ "WOOF": {
+  "symbol": "WOOF",
+  "first_trade_date": "2021-01-14",
+  "d1_open": 26.0,
+  "d1_close": 29.4,
+  "d1_volume": 52099206,
+  "calendar_listing_date": "2021-01-14",
+  "n_bars": 6
+ },
+ "PEV": {
+  "symbol": "PEV",
+  "bars": [],
+  "note": "ticker now held by an entity trading only from 2026-02-06 (Phoenix Motor Inc) -- rename or symbol reuse",
+  "tiingo_name": "Phoenix Motor Inc",
+  "tiingo_start": "2026-02-06",
+  "calendar_listing_date": "2022-06-08"
+ },
+ "GROY": {
+  "symbol": "GROY",
+  "first_trade_date": "2021-03-09",
+  "d1_open": 4.5,
+  "d1_close": 3.58,
+  "d1_volume": 3501920,
+  "calendar_listing_date": "2021-03-09",
+  "n_bars": 9
+ },
+ "GRAY": {
+  "symbol": "GRAY",
+  "bars": [],
+  "note": "no bars in the requested window",
+  "tiingo_name": "Graycliff Exploration Ltd",
+  "tiingo_start": null,
+  "calendar_listing_date": "2020-09-25"
+ },
+ "MCFE": {
+  "symbol": "MCFE",
+  "first_trade_date": "2020-10-22",
+  "d1_open": 18.6,
+  "d1_close": 18.7,
+  "d1_volume": 25260393,
+  "calendar_listing_date": "2020-10-22",
+  "n_bars": 7
+ },
+ "MANE": {
+  "symbol": "MANE",
+  "first_trade_date": "2026-02-04",
+  "d1_open": 34.0,
+  "d1_close": 37.75,
+  "d1_volume": 3321863,
+  "calendar_listing_date": "2026-02-04",
+  "n_bars": 8
+ },
+ "AUGO": {
+  "symbol": "AUGO",
+  "first_trade_date": "2025-07-16",
+  "d1_open": 24.5,
+  "d1_close": 24.25,
+  "d1_volume": 1913818,
+  "calendar_listing_date": "2025-07-16",
+  "n_bars": 8
+ },
+ "FIG": {
+  "symbol": "FIG",
+  "first_trade_date": "2025-07-31",
+  "d1_open": 85.0,
+  "d1_close": 115.5,
+  "d1_volume": 64409032,
+  "calendar_listing_date": "2025-07-31",
+  "n_bars": 7
+ },
+ "NP": {
+  "symbol": "NP",
+  "first_trade_date": "2025-10-01",
+  "d1_open": 22.5,
+  "d1_close": 24.8,
+  "d1_volume": 13033974,
+  "calendar_listing_date": "2025-10-01",
+  "n_bars": 8
+ },
+ "UBXG": {
+  "symbol": "UBXG",
+  "first_trade_date": "2024-03-28",
+  "d1_open": 5.0,
+  "d1_close": 4.1,
+  "d1_volume": 1708480,
+  "calendar_listing_date": "2024-03-28",
+  "n_bars": 6
+ },
+ "AVO": {
+  "symbol": "AVO",
+  "first_trade_date": "2020-10-01",
+  "d1_open": 12.25,
+  "d1_close": 13.8,
+  "d1_volume": 7506491,
+  "calendar_listing_date": "2020-10-01",
+  "n_bars": 7
+ },
+ "IMAB": {
+  "symbol": "IMAB",
+  "bars": [],
+  "note": "no bars in the requested window",
+  "tiingo_name": null,
+  "tiingo_start": null,
+  "calendar_listing_date": "2020-01-17"
+ },
+ "SNPO": {
+  "symbol": "SNPO",
+  "first_trade_date": "2021-07-28",
+  "d1_open": 16.0,
+  "d1_close": 16.55,
+  "d1_volume": 5977288,
+  "calendar_listing_date": "2021-07-28",
+  "n_bars": 8
+ },
+ "FUSN": {
+  "symbol": "FUSN",
+  "first_trade_date": "2020-06-26",
+  "d1_open": 18.5,
+  "d1_close": 17.0,
+  "d1_volume": 5158413,
+  "calendar_listing_date": "2020-06-26",
+  "n_bars": 6
+ },
+ "LRE": {
+  "symbol": "LRE",
+  "first_trade_date": "2023-09-27",
+  "d1_open": 7.0,
+  "d1_close": 6.2,
+  "d1_volume": 2328898,
+  "calendar_listing_date": "2023-09-27",
+  "n_bars": 8
+ },
+ "PWSC": {
+  "symbol": "PWSC",
+  "first_trade_date": "2021-07-28",
+  "d1_open": 18.5,
+  "d1_close": 18.0,
+  "d1_volume": 6601131,
+  "calendar_listing_date": "2021-07-28",
+  "n_bars": 8
+ },
+ "DT": {
+  "symbol": "DT",
+  "first_trade_date": "2019-08-01",
+  "d1_open": 25.5,
+  "d1_close": 23.85,
+  "d1_volume": 29037103,
+  "calendar_listing_date": "2019-08-01",
+  "n_bars": 7
+ },
+ "XPON": {
+  "symbol": "XPON",
+  "first_trade_date": "2022-04-01",
+  "d1_open": 7.9,
+  "d1_close": 7.93,
+  "d1_volume": 10579903,
+  "calendar_listing_date": "2022-04-01",
+  "n_bars": 7
+ },
+ "TIL": {
+  "symbol": "TIL",
+  "first_trade_date": "2021-03-19",
+  "d1_open": 27.0,
+  "d1_close": 26.44,
+  "d1_volume": 4465550,
+  "calendar_listing_date": "2021-03-19",
+  "n_bars": 7
+ },
+ "APGE": {
+  "symbol": "APGE",
+  "first_trade_date": "2023-07-14",
+  "d1_open": 21.5,
+  "d1_close": 21.23,
+  "d1_volume": 4710213,
+  "calendar_listing_date": "2023-07-14",
+  "n_bars": 7
+ },
+ "LGN": {
+  "symbol": "LGN",
+  "first_trade_date": "2025-09-12",
+  "d1_open": 27.0,
+  "d1_close": 30.5,
+  "d1_volume": 9811560,
+  "calendar_listing_date": "2025-09-12",
+  "n_bars": 7
+ },
+ "BNTX": {
+  "symbol": "BNTX",
+  "first_trade_date": "2019-10-10",
+  "d1_open": 16.5,
+  "d1_close": 14.24,
+  "d1_volume": 2805856,
+  "calendar_listing_date": "2019-10-10",
+  "n_bars": 7
+ },
+ "INBX": {
+  "symbol": "INBX",
+  "bars": [],
+  "note": "ticker now held by an entity trading only from 2024-05-29 (Inhibrx Biosciences Inc) -- rename or symbol reuse",
+  "tiingo_name": "Inhibrx Biosciences Inc",
+  "tiingo_start": "2024-05-29",
+  "calendar_listing_date": "2020-08-19"
+ },
+ "ZJK": {
+  "symbol": "ZJK",
+  "first_trade_date": "2024-09-30",
+  "d1_open": 5.5,
+  "d1_close": 5.0,
+  "d1_volume": 1090442,
+  "calendar_listing_date": "2024-09-30",
+  "n_bars": 9
+ },
+ "ALMR": {
+  "symbol": "ALMR",
+  "first_trade_date": "2026-04-17",
+  "d1_open": 22.6,
+  "d1_close": 22.0,
+  "d1_volume": 4895512,
+  "calendar_listing_date": "2026-04-17",
+  "n_bars": 7
+ },
+ "CURV": {
+  "symbol": "CURV",
+  "first_trade_date": "2021-07-01",
+  "d1_open": 23.25,
+  "d1_close": 24.15,
+  "d1_volume": 5959016,
+  "calendar_listing_date": "2021-07-01",
+  "n_bars": 6
+ },
+ "ARX": {
+  "symbol": "ARX",
+  "first_trade_date": "2025-07-24",
+  "d1_open": 28.5,
+  "d1_close": 26.5,
+  "d1_volume": 22487719,
+  "calendar_listing_date": "2025-07-24",
+  "n_bars": 7
+ },
+ "SWAV": {
+  "symbol": "SWAV",
+  "first_trade_date": "2019-03-07",
+  "d1_open": 24.8,
+  "d1_close": 30.5,
+  "d1_volume": 3162245,
+  "calendar_listing_date": "2019-03-07",
+  "n_bars": 7
+ },
+ "ZSPC": {
+  "symbol": "ZSPC",
+  "first_trade_date": "2024-12-05",
+  "d1_open": 5.8,
+  "d1_close": 22.0,
+  "d1_volume": 2651339,
+  "calendar_listing_date": "2024-12-05",
+  "n_bars": 7
+ },
+ "GSX": {
+  "symbol": "GSX",
+  "bars": [],
+  "note": "no bars in the requested window",
+  "tiingo_name": "Tradr 2X Long GS Daily ETF",
+  "tiingo_start": null,
+  "calendar_listing_date": "2019-06-06"
+ },
+ "OMSE": {
+  "symbol": "OMSE",
+  "first_trade_date": "2025-05-13",
+  "d1_open": 8.0,
+  "d1_close": 7.51,
+  "d1_volume": 1861553,
+  "calendar_listing_date": "2025-05-13",
+  "n_bars": 9
+ },
+ "MAZE": {
+  "symbol": "MAZE",
+  "first_trade_date": "2025-01-31",
+  "d1_open": 16.12,
+  "d1_close": 15.95,
+  "d1_volume": 1590822,
+  "calendar_listing_date": "2025-01-31",
+  "n_bars": 7
+ },
+ "BSY": {
+  "symbol": "BSY",
+  "first_trade_date": "2020-09-23",
+  "d1_open": 28.0,
+  "d1_close": 33.49,
+  "d1_volume": 7934441,
+  "calendar_listing_date": "2020-09-23",
+  "n_bars": 8
+ },
+ "MCW": {
+  "symbol": "MCW",
+  "first_trade_date": "2021-06-25",
+  "d1_open": 18.9,
+  "d1_close": 20.3,
+  "d1_volume": 17712016,
+  "calendar_listing_date": "2021-06-25",
+  "n_bars": 6
+ },
+ "AXLA": {
+  "symbol": "AXLA",
+  "first_trade_date": "2019-05-09",
+  "d1_open": 15.12,
+  "d1_close": 13.8,
+  "d1_volume": 1636313,
+  "calendar_listing_date": "2019-05-09",
+  "n_bars": 7
+ },
+ "RGC": {
+  "symbol": "RGC",
+  "first_trade_date": "2021-07-16",
+  "d1_open": 12.0,
+  "d1_close": 10.5,
+  "d1_volume": 956112,
+  "calendar_listing_date": "2021-07-16",
+  "n_bars": 7
+ },
+ "ABVX": {
+  "symbol": "ABVX",
+  "first_trade_date": "2023-10-20",
+  "d1_open": 11.6,
+  "d1_close": 8.3,
+  "d1_volume": 2992555,
+  "calendar_listing_date": "2023-10-20",
+  "n_bars": 7
+ },
+ "MOVE": {
+  "symbol": "MOVE",
+  "first_trade_date": "2021-03-23",
+  "d1_open": 6.0,
+  "d1_close": 6.6,
+  "d1_volume": 1617249,
+  "calendar_listing_date": "2021-03-23",
+  "n_bars": 8
+ },
+ "XPEV": {
+  "symbol": "XPEV",
+  "first_trade_date": "2020-08-27",
+  "d1_open": 23.1,
+  "d1_close": 21.22,
+  "d1_volume": 82219698,
+  "calendar_listing_date": "2020-08-27",
+  "n_bars": 7
+ },
+ "IMCR": {
+  "symbol": "IMCR",
+  "first_trade_date": "2021-02-05",
+  "d1_open": 41.0,
+  "d1_close": 43.2,
+  "d1_volume": 3308038,
+  "calendar_listing_date": "2021-02-05",
+  "n_bars": 6
+ },
+ "AIP": {
+  "symbol": "AIP",
+  "first_trade_date": "2021-10-27",
+  "d1_open": 16.51,
+  "d1_close": 18.2,
+  "d1_volume": 1860119,
+  "calendar_listing_date": "2021-10-27",
+  "n_bars": 8
+ },
+ "TIGR": {
+  "symbol": "TIGR",
+  "first_trade_date": "2019-03-20",
+  "d1_open": 8.11,
+  "d1_close": 10.92,
+  "d1_volume": 21973468,
+  "calendar_listing_date": "2019-03-20",
+  "n_bars": 8
+ },
+ "CSTL": {
+  "symbol": "CSTL",
+  "first_trade_date": "2019-07-25",
+  "d1_open": 20.0,
+  "d1_close": 21.4,
+  "d1_volume": 2156379,
+  "calendar_listing_date": "2019-07-25",
+  "n_bars": 7
+ },
+ "FROG": {
+  "symbol": "FROG",
+  "first_trade_date": "2020-09-16",
+  "d1_open": 71.27,
+  "d1_close": 64.79,
+  "d1_volume": 14577957,
+  "calendar_listing_date": "2020-09-16",
+  "n_bars": 8
+ },
+ "GNTA": {
+  "symbol": "GNTA",
+  "first_trade_date": "2021-12-15",
+  "d1_open": 10.05,
+  "d1_close": 11.0,
+  "d1_volume": 500193,
+  "calendar_listing_date": "2021-12-15",
+  "n_bars": 7
+ },
+ "SUJA": {
+  "symbol": "SUJA",
+  "first_trade_date": "2026-05-07",
+  "d1_open": 18.0,
+  "d1_close": 17.85,
+  "d1_volume": 3902855,
+  "calendar_listing_date": "2026-05-07",
+  "n_bars": 7
+ },
+ "HNGE": {
+  "symbol": "HNGE",
+  "first_trade_date": "2025-05-22",
+  "d1_open": 39.25,
+  "d1_close": 37.56,
+  "d1_volume": 9172843,
+  "calendar_listing_date": "2025-05-22",
+  "n_bars": 6
+ },
+ "DV": {
+  "symbol": "DV",
+  "first_trade_date": "2021-04-21",
+  "d1_open": 35.0,
+  "d1_close": 36.0,
+  "d1_volume": 10062366,
+  "calendar_listing_date": "2021-04-21",
+  "n_bars": 8
+ },
+ "BGIN": {
+  "symbol": "BGIN",
+  "first_trade_date": "2025-10-21",
+  "d1_open": 6.0,
+  "d1_close": 4.96,
+  "d1_volume": 3061522,
+  "calendar_listing_date": "2025-10-21",
+  "n_bars": 9
+ },
+ "CTNM": {
+  "symbol": "CTNM",
+  "first_trade_date": "2024-04-05",
+  "d1_open": 14.5,
+  "d1_close": 15.4,
+  "d1_volume": 1582494,
+  "calendar_listing_date": "2024-04-05",
+  "n_bars": 7
+ },
+ "VIA": {
+  "symbol": "VIA",
+  "first_trade_date": "2025-09-12",
+  "d1_open": 44.0,
+  "d1_close": 49.51,
+  "d1_volume": 5050635,
+  "calendar_listing_date": "2025-09-12",
+  "n_bars": 7
+ },
+ "DADA": {
+  "symbol": "DADA",
+  "first_trade_date": "2020-06-05",
+  "d1_open": 18.3,
+  "d1_close": 15.99,
+  "d1_volume": 7825932,
+  "calendar_listing_date": "2020-06-05",
+  "n_bars": 7
+ },
+ "ONTF": {
+  "symbol": "ONTF",
+  "first_trade_date": "2021-02-03",
+  "d1_open": 77.0,
+  "d1_close": 70.82,
+  "d1_volume": 7620132,
+  "calendar_listing_date": "2021-02-03",
+  "n_bars": 8
+ },
+ "APC": {
+  "symbol": "APC",
+  "first_trade_date": "2026-02-12",
+  "d1_open": 17.75,
+  "d1_close": 17.55,
+  "d1_volume": 2587909,
+  "calendar_listing_date": "2026-02-12",
+  "n_bars": 6
+ },
+ "EEIQ": {
+  "symbol": "EEIQ",
+  "first_trade_date": "2021-03-24",
+  "d1_open": 8.0,
+  "d1_close": 8.0,
+  "d1_volume": 100,
+  "calendar_listing_date": "2021-03-25",
+  "n_bars": 7
+ },
+ "TSHA": {
+  "symbol": "TSHA",
+  "first_trade_date": "2020-09-24",
+  "d1_open": 22.25,
+  "d1_close": 24.06,
+  "d1_volume": 2590075,
+  "calendar_listing_date": "2020-09-24",
+  "n_bars": 7
+ },
+ "ATAT": {
+  "symbol": "ATAT",
+  "first_trade_date": "2022-11-11",
+  "d1_open": 15.5,
+  "d1_close": 12.88,
+  "d1_volume": 1841104,
+  "calendar_listing_date": "2022-11-11",
+  "n_bars": 7
+ },
+ "WLTH": {
+  "symbol": "WLTH",
+  "first_trade_date": "2025-12-12",
+  "d1_open": 14.0,
+  "d1_close": 14.19,
+  "d1_volume": 13900410,
+  "calendar_listing_date": "2025-12-12",
+  "n_bars": 7
+ },
+ "AAPG": {
+  "symbol": "AAPG",
+  "first_trade_date": "2025-01-24",
+  "d1_open": 17.25,
+  "d1_close": 17.38,
+  "d1_volume": 2217300,
+  "calendar_listing_date": "2025-01-24",
+  "n_bars": 7
+ },
+ "APLD": {
+  "symbol": "APLD",
+  "first_trade_date": "2022-04-08",
+  "d1_open": 3.17,
+  "d1_close": 2.81,
+  "d1_volume": 46571,
+  "calendar_listing_date": "2022-04-13",
+  "n_bars": 10
+ },
+ "AVTE": {
+  "symbol": "AVTE",
+  "first_trade_date": "2021-06-30",
+  "d1_open": 28.0,
+  "d1_close": 22.83,
+  "d1_volume": 1131225,
+  "calendar_listing_date": "2021-06-30",
+  "n_bars": 7
+ },
+ "ENFN": {
+  "symbol": "ENFN",
+  "first_trade_date": "2021-10-21",
+  "d1_open": 20.0,
+  "d1_close": 19.81,
+  "d1_volume": 13258760,
+  "calendar_listing_date": "2021-10-21",
+  "n_bars": 7
+ },
+ "FISN": {
+  "symbol": "FISN",
+  "first_trade_date": "2026-06-18",
+  "d1_open": 16.0,
+  "d1_close": 14.56,
+  "d1_volume": 2778991,
+  "calendar_listing_date": "2026-06-18",
+  "n_bars": 6
+ },
+ "LESL": {
+  "symbol": "LESL",
+  "first_trade_date": "2020-10-29",
+  "d1_open": 20.6,
+  "d1_close": 21.7,
+  "d1_volume": 21354116,
+  "calendar_listing_date": "2020-10-29",
+  "n_bars": 7
+ },
+ "ZK": {
+  "symbol": "ZK",
+  "first_trade_date": "2024-05-10",
+  "d1_open": 26.0,
+  "d1_close": 28.26,
+  "d1_volume": 9709808,
+  "calendar_listing_date": "2024-05-10",
+  "n_bars": 7
+ },
+ "TDCX": {
+  "symbol": "TDCX",
+  "first_trade_date": "2021-10-01",
+  "d1_open": 20.95,
+  "d1_close": 19.07,
+  "d1_volume": 7546732,
+  "calendar_listing_date": "2021-10-01",
+  "n_bars": 7
+ },
+ "WIMI": {
+  "symbol": "WIMI",
+  "first_trade_date": "2020-04-01",
+  "d1_open": 6.0,
+  "d1_close": 5.5,
+  "d1_volume": 1624077,
+  "calendar_listing_date": "2020-04-01",
+  "n_bars": 7
+ },
+ "GNS": {
+  "symbol": "GNS",
+  "first_trade_date": "2022-04-12",
+  "d1_open": 15.11,
+  "d1_close": 30.5,
+  "d1_volume": 1196372,
+  "calendar_listing_date": "2022-04-12",
+  "n_bars": 8
+ },
+ "TUFN": {
+  "symbol": "TUFN",
+  "first_trade_date": "2019-04-11",
+  "d1_open": 18.05,
+  "d1_close": 19.1,
+  "d1_volume": 6296623,
+  "calendar_listing_date": "2019-04-11",
+  "n_bars": 6
+ },
+ "NXGL": {
+  "symbol": "NXGL",
+  "first_trade_date": "2021-12-22",
+  "d1_open": 4.4,
+  "d1_close": 3.52,
+  "d1_volume": 2330118,
+  "calendar_listing_date": "2021-12-22",
+  "n_bars": 7
+ },
+ "PRME": {
+  "symbol": "PRME",
+  "first_trade_date": "2022-10-20",
+  "d1_open": 18.97,
+  "d1_close": 15.37,
+  "d1_volume": 2779578,
+  "calendar_listing_date": "2022-10-20",
+  "n_bars": 7
+ },
+ "SPTX": {
+  "symbol": "SPTX",
+  "first_trade_date": "2026-05-01",
+  "d1_open": 21.0,
+  "d1_close": 19.84,
+  "d1_volume": 4697711,
+  "calendar_listing_date": "2026-05-01",
+  "n_bars": 7
+ },
+ "BPTS": {
+  "symbol": "BPTS",
+  "bars": [],
+  "note": "no bars in the requested window",
+  "tiingo_name": "Biophytis ADR",
+  "tiingo_start": null,
+  "calendar_listing_date": "2021-02-10"
+ },
+ "AVLN": {
+  "symbol": "AVLN",
+  "first_trade_date": "2026-04-30",
+  "d1_open": 26.0,
+  "d1_close": 29.49,
+  "d1_volume": 6511988,
+  "calendar_listing_date": "2026-04-30",
+  "n_bars": 7
+ },
+ "NOVA": {
+  "symbol": "NOVA",
+  "first_trade_date": "2019-07-22",
+  "d1_open": 0.07,
+  "d1_close": 0.07,
+  "d1_volume": 425,
+  "calendar_listing_date": "2019-07-25",
+  "n_bars": 10
+ },
+ "NRDS": {
+  "symbol": "NRDS",
+  "first_trade_date": "2021-11-04",
+  "d1_open": 23.5,
+  "d1_close": 28.3,
+  "d1_volume": 14260607,
+  "calendar_listing_date": "2021-11-04",
+  "n_bars": 7
+ },
+ "OLPX": {
+  "symbol": "OLPX",
+  "first_trade_date": "2021-09-30",
+  "d1_open": 25.0,
+  "d1_close": 24.5,
+  "d1_volume": 37102369,
+  "calendar_listing_date": "2021-09-30",
+  "n_bars": 7
+ },
+ "FBLG": {
+  "symbol": "FBLG",
+  "first_trade_date": "2024-01-31",
+  "d1_open": 30.0,
+  "d1_close": 29.1,
+  "d1_volume": 68731,
+  "calendar_listing_date": "2024-01-31",
+  "n_bars": 8
+ },
+ "NARI": {
+  "symbol": "NARI",
+  "first_trade_date": "2020-05-22",
+  "d1_open": 41.49,
+  "d1_close": 42.51,
+  "d1_volume": 6791293,
+  "calendar_listing_date": "2020-05-22",
+  "n_bars": 6
+ },
+ "SGP": {
+  "symbol": "SGP",
+  "first_trade_date": "2026-02-06",
+  "d1_open": 24.0,
+  "d1_close": 26.4,
+  "d1_volume": 1195346,
+  "calendar_listing_date": "2026-02-06",
+  "n_bars": 6
+ },
+ "LTRN": {
+  "symbol": "LTRN",
+  "first_trade_date": "2020-06-11",
+  "d1_open": 14.8,
+  "d1_close": 14.95,
+  "d1_volume": 1353172,
+  "calendar_listing_date": "2020-06-11",
+  "n_bars": 7
+ },
+ "SGTX": {
+  "symbol": "SGTX",
+  "first_trade_date": "2020-12-04",
+  "d1_open": 22.0,
+  "d1_close": 34.78,
+  "d1_volume": 2785012,
+  "calendar_listing_date": "2020-12-04",
+  "n_bars": 7
+ },
+ "SNCY": {
+  "symbol": "SNCY",
+  "first_trade_date": "2021-03-17",
+  "d1_open": 33.0,
+  "d1_close": 36.38,
+  "d1_volume": 6351482,
+  "calendar_listing_date": "2021-03-17",
+  "n_bars": 8
+ },
+ "WGLD": {
+  "symbol": "WGLD",
+  "bars": [],
+  "note": "ticker exists from 2021-02-18 but has no bars at the listing date",
+  "tiingo_name": "Wilshire wShares Enhanced Gold ETF",
+  "tiingo_start": "2021-02-18",
+  "calendar_listing_date": "2021-02-18"
+ },
+ "CIAN": {
+  "symbol": "CIAN",
+  "bars": [],
+  "note": "ticker exists from 2021-11-05 but has no bars at the listing date",
+  "tiingo_name": "Cian Plc",
+  "tiingo_start": "2021-11-05",
+  "calendar_listing_date": "2021-11-05"
+ },
+ "FNCH": {
+  "symbol": "FNCH",
+  "bars": [],
+  "note": "ticker now held by an entity trading only from 2026-05-28 (Finch Therapeutics Group Inc.) -- rename or symbol reuse",
+  "tiingo_name": "Finch Therapeutics Group Inc.",
+  "tiingo_start": "2026-05-28",
+  "calendar_listing_date": "2021-03-19"
+ },
+ "EH": {
+  "symbol": "EH",
+  "bars": [],
+  "note": "ticker exists from 2019-12-12 but has no bars at the listing date",
+  "tiingo_name": "EHang Holdings Ltd",
+  "tiingo_start": "2019-12-12",
+  "calendar_listing_date": "2019-12-12"
+ },
+ "SHIM": {
+  "symbol": "SHIM",
+  "bars": [],
+  "note": "ticker exists from 2023-11-14 but has no bars at the listing date",
+  "tiingo_name": "Shimmick Corp",
+  "tiingo_start": "2023-11-14",
+  "calendar_listing_date": "2023-11-14"
+ },
+ "ISO": {
+  "symbol": "ISO",
+  "bars": [],
+  "note": "ticker exists from 2021-10-08 but has no bars at the listing date",
+  "tiingo_name": "IsoPlexis Corp",
+  "tiingo_start": "2021-10-08",
+  "calendar_listing_date": "2021-10-08"
+ },
+ "ATC": {
+  "symbol": "ATC",
+  "bars": [],
+  "note": "ticker exists from 2021-02-04 but has no bars at the listing date",
+  "tiingo_name": "Atotech Ltd",
+  "tiingo_start": "2021-02-04",
+  "calendar_listing_date": "2021-02-04"
+ },
+ "FGI": {
+  "symbol": "FGI",
+  "bars": [],
+  "note": "ticker exists from 2022-01-25 but has no bars at the listing date",
+  "tiingo_name": "FGI Industries Ltd",
+  "tiingo_start": "2022-01-25",
+  "calendar_listing_date": "2022-01-25"
+ },
+ "TYRA": {
+  "symbol": "TYRA",
+  "bars": [],
+  "note": "ticker exists from 2021-09-15 but has no bars at the listing date",
+  "tiingo_name": "Tyra Biosciences Inc",
+  "tiingo_start": "2021-09-15",
+  "calendar_listing_date": "2021-09-15"
+ },
+ "NKTX": {
+  "symbol": "NKTX",
+  "bars": [],
+  "note": "ticker exists from 2020-07-10 but has no bars at the listing date",
+  "tiingo_name": "Nkarta Inc",
+  "tiingo_start": "2020-07-10",
+  "calendar_listing_date": "2020-07-10"
+ },
+ "AFYA": {
+  "symbol": "AFYA",
+  "bars": [],
+  "note": "ticker exists from 2019-07-19 but has no bars at the listing date",
+  "tiingo_name": "Afya Ltd - Class A",
+  "tiingo_start": "2019-07-19",
+  "calendar_listing_date": "2019-07-19"
+ },
+ "MNTK": {
+  "symbol": "MNTK",
+  "bars": [],
+  "note": "ticker exists from 2021-01-22 but has no bars at the listing date",
+  "tiingo_name": "Montauk Renewables Inc",
+  "tiingo_start": "2021-01-22",
+  "calendar_listing_date": "2021-01-22"
  }
 }

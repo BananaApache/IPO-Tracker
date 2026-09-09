@@ -1,0 +1,346 @@
+{
+ "resolved_at": "2026-09-09T13:37:23.433952+00:00",
+ "cohort": "replication",
+ "method": "rule (6) candidates from redirects out of the firm's own name to a differently-titled article. Collected for review, never auto-accepted.",
+ "companies_probed": 310,
+ "redirects_seen": 39,
+ "companies": {
+  "SYNLOGIC, INC.": {
+   "company": "SYNLOGIC, INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "AbbVie",
+     "article_created": "2012-11-17T01:27:20Z",
+     "lead_words": 85,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "AbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues.\nThe company is ranked sixth on the list of largest biomedical companies by revenue. It is ranked 77th on the Fortune 500 and 108th on the Forbes Global 2000. The name \"AbbVie\" is derived from a combination of \"Abbott\", the"
+    }
+   ]
+  },
+  "SOLTA MEDICAL INC": {
+   "company": "SOLTA MEDICAL INC",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Bausch Health",
+     "article_created": "2005-07-31T22:07:18Z",
+     "lead_words": 96,
+     "company_tokens_in_lead": [
+      "medical"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Bausch Health Companies Inc. (formerly Valeant and ICN Pharmaceuticals) is a global, diversified Canadian pharmaceutical company. Its global corporate headquarters are located in Laval, Quebec, Canada, and its U.S. headquarters are in Bridgewater, New Jersey. It develops, manufactures and markets a range of pharmaceutical products in gastroenterology, hepatology, neuroscience, dermatology, dentist"
+    }
+   ]
+  },
+  "COLFAX CORP": {
+   "company": "COLFAX CORP",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Enovis",
+     "article_created": "2013-01-04T11:35:44Z",
+     "lead_words": 56,
+     "company_tokens_in_lead": [
+      "colfax"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Enovis Corporation is a medical technology company with a focus in orthopedics. The company was founded by brothers Mitchell and Steven Rales as the Colfax Corporation in 1995. Enovis is headquartered in Dallas, Texas and is listed on the NYSE as ENOV. The company has over 8,000 employees operating at 30 sites around the world."
+    }
+   ]
+  },
+  "NORCRAFT COMPANIES, INC.": {
+   "company": "NORCRAFT COMPANIES, INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Fortune Brands Innovations",
+     "article_created": "2011-10-05T23:38:01Z",
+     "lead_words": 89,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "Fortune Brands Innovations, Inc. (or \"Fortune Brands\") is an American manufacturer of home and security products, headquartered in Deerfield, Illinois. Its portfolio of businesses and brands includes Moen and the House of Rohl; outdoor living and security products from Therma-Tru, Larson, Fiberon, Master Lock and SentrySafe; and MasterBrand Cabinets. Fortune Brands is a Fortune 500 company and par"
+    }
+   ]
+  },
+  "GALAPAGOS NV": {
+   "company": "GALAPAGOS NV",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Gal\u00e1pagos Islands",
+     "article_created": "2003-01-19T11:04:04Z",
+     "lead_words": 386,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "The Gal\u00e1pagos Islands (Spanish: Islas Gal\u00e1pagos) are an archipelago of volcanic islands in the Eastern Pacific, located around the equator, 485 nautical miles (898 km; 558 mi) west of the mainland of South America. They form the Gal\u00e1pagos Province of the Republic of Ecuador, with a population of slightly over 33,000 in 2020. The province is divided into the cantons of San Crist\u00f3bal, Santa Cruz, an"
+    }
+   ]
+  },
+  "HHGREGG, INC.": {
+   "company": "HHGREGG, INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "H. H. Gregg",
+     "article_created": "2007-05-10T03:38:12Z",
+     "lead_words": 256,
+     "company_tokens_in_lead": [
+      "hhgregg"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "H. H. Gregg, Inc. (stylized as hhgregg, HHgregg or HHGregg on its website) is an American online retailer and former retail chain of consumer electronics and home appliances in the Midwest, Northeast, and Southeast United States, that operated stores in 21 states including Alabama, Delaware, Florida, Georgia, Illinois, Indiana, Kentucky, Louisiana, Maryland, Mississippi, Missouri, New Jersey, Nort"
+    }
+   ]
+  },
+  "RUBICON PROJECT, INC.": {
+   "company": "RUBICON PROJECT, INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Magnite Inc",
+     "article_created": "2010-11-16T01:17:28Z",
+     "lead_words": 31,
+     "company_tokens_in_lead": [
+      "project",
+      "rubicon"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Magnite Inc. (formerly Rubicon Project) is an American online advertising technology firm based in Los Angeles, California. The company was formed following a merger between Rubicon Project and Telaria in 2020.\n\n"
+    }
+   ]
+  },
+  "METALDYNE PERFORMANCE GROUP INC.": {
+   "company": "METALDYNE PERFORMANCE GROUP INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Masco",
+     "article_created": "2005-09-08T14:48:11Z",
+     "lead_words": 159,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "Masco Corporation is an American manufacturer of products for the home improvement and new home construction markets. Comprising more than 20 companies, the Masco conglomerate operates nearly 60 manufacturing facilities in the United States and over 20 in other parts of the world. Since 1969 it trades on the NYSE. Under the leadership of Richard Manoogian, the company grew exponentially and subseq"
+    }
+   ]
+  },
+  "RAPID7, INC.": {
+   "company": "RAPID7, INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Metasploit",
+     "article_created": "2006-01-25T05:29:16Z",
+     "lead_words": 97,
+     "company_tokens_in_lead": [
+      "rapid7"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. It is owned by Rapid7, a Boston, Massachusetts-based security company.\nIts best-known sub-project is the open-source Metasploit Framework, a tool for developing and executing exploit code against a remote target machine.  Othe"
+    }
+   ]
+  },
+  "MINDBODY, INC.": {
+   "company": "MINDBODY, INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Mind\u2013body",
+     "article_created": "2007-09-06T07:10:39Z",
+     "lead_words": 89,
+     "company_tokens_in_lead": [
+      "mindbody"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Mind\u2013body may refer to:\n\nMind\u2013body dualism, a philosophical view that the mind and body are distinct and separate\nMind\u2013body interventions, health and fitness regimens intended to work on both physical and mental levels\nMind\u2013body problem, a philosophy of mind\nMindbody Inc., a software company\nMindbody, a term coined by William H. Poteat to designate the means by which a person encounters the world\n"
+    }
+   ]
+  },
+  "MISTRAS GROUP, INC.": {
+   "company": "MISTRAS GROUP, INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Mystras",
+     "article_created": "2003-08-19T21:00:38Z",
+     "lead_words": 181,
+     "company_tokens_in_lead": [
+      "mistras"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Mystras or Mistras (Greek: \u039c\u03c5\u03c3\u03c4\u03c1\u1fb6\u03c2/\u039c\u03b9\u03c3\u03c4\u03c1\u1fb6\u03c2), also known in the Chronicle of the Morea as Myzethras or Myzithras (\u039c\u03c5\u03b6\u03b7\u03b8\u03c1\u1fb6\u03c2), is a fortified town and a former municipality in Laconia, Peloponnese, Greece. Situated in the Taygetus range, above ancient Sparta, and below a \"Frankish\" castle, it served as the capital of the Byzantine Despotate of the Morea in the 14th and 15th centuries, experiencing a "
+    }
+   ]
+  },
+  "NOVAN, INC.": {
+   "company": "NOVAN, INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Novin",
+     "article_created": "2009-01-31T20:01:02Z",
+     "lead_words": 49,
+     "company_tokens_in_lead": [
+      "novan"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Novin (Persian: \u0646\u0648\u064a\u0646, also Romanized as Nov\u012bn, Now\u012bn, Nav\u012bn, and N\u0101win; also known as Novan) is a village in Shalyar Rural District, Uraman District, Sarvabad County, Kurdistan Province, Iran. At the 2006 census, its population was 727, in 179 families. The village is populated by Kurds."
+    }
+   ]
+  },
+  "OPNEXT INC": {
+   "company": "OPNEXT INC",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Oclaro",
+     "article_created": "2008-11-22T22:50:02Z",
+     "lead_words": 44,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "Oclaro was a US-based business manufacturing and selling optical components. Oclaro was formerly listed on the London Stock Exchange and was a constituent of the FTSE 100 Index. The company is now part of Lumentum (LITE) after it was acquired in December 2018."
+    }
+   ]
+  },
+  "HOME LOAN SERVICING SOLUTIONS, LTD.": {
+   "company": "HOME LOAN SERVICING SOLUTIONS, LTD.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Rithm Capital",
+     "article_created": "2023-12-31T08:49:46Z",
+     "lead_words": 22,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": false,
+     "lead": "Rithm Capital Corp. (Rithm)  is an American investment management company headquartered in New York that focuses on real estate and alternative investments."
+    }
+   ]
+  },
+  "BARE ESCENTUALS INC": {
+   "company": "BARE ESCENTUALS INC",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Shiseido",
+     "article_created": "2005-09-09T19:28:59Z",
+     "lead_words": 122,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "Shiseido Company, Limited (Japanese: \u682a\u5f0f\u4f1a\u793e\u8cc7\u751f\u5802, Hepburn: Kabushiki gaisha Shiseid\u014d; pronounced [\u0255ise\ua71c\u02d0do\u02d0]) is a Japanese multinational cosmetic company founded in Tokyo, Japan, in 1872. Its product categories consist of: skin care, makeup, body care, hair care, and fragrances. The company is one of the oldest cosmetic companies in the world. It is the largest cosmetic firm in Japan and the fifth la"
+    }
+   ]
+  },
+  "FLUIDIGM CORP": {
+   "company": "FLUIDIGM CORP",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Standard BioTools",
+     "article_created": "2015-02-28T21:09:51Z",
+     "lead_words": 99,
+     "company_tokens_in_lead": [
+      "fluidigm"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Standard BioTools Inc., previously known as Fluidigm Corp., is an American life science tools company that offers analytical mass cytometry systems for flow cytometry and tissue imaging, along with associated assays and reagents, as well as an automated genomic analysis instrument and a variety of microfluidic arrays, or integrated fluidic circuits (IFCs), and consumables with fully kitted reagent"
+    }
+   ]
+  },
+  "SEMLER SCIENTIFIC, INC.": {
+   "company": "SEMLER SCIENTIFIC, INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Strive Asset Management",
+     "article_created": "2025-11-11T19:09:16Z",
+     "lead_words": 54,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "Strive Asset Management is an American investment management firm founded in 2022. The firm operates mutual funds, exchange-traded products (ETPs), and wealth management services. Headquartered in Columbus, Ohio, it operates as a subsidiary of Strive Enterprises, Inc. and is registered with the U.S. Securities and Exchange Commission (SEC) as an investment adviser."
+    }
+   ]
+  },
+  "VOCERA COMMUNICATIONS, INC.": {
+   "company": "VOCERA COMMUNICATIONS, INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Stryker Corporation",
+     "article_created": "2003-11-08T12:52:19Z",
+     "lead_words": 133,
+     "company_tokens_in_lead": [],
+     "passes_lead_mention": false,
+     "passes_min_words": true,
+     "lead": "Stryker Corporation is an American multinational medical technologies corporation based in Portage, Michigan, United States. The company's products are used for medical surgery and neurotechnology (60% of 2024 revenues), which include surgical equipment, patient and caregiver safety technologies, endoscopy systems, and patient handling, emergency medical equipment, and intensive care disposable pr"
+    }
+   ]
+  },
+  "TEAM HEALTH HOLDINGS INC.": {
+   "company": "TEAM HEALTH HOLDINGS INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "TeamHealth",
+     "article_created": "2015-04-28T16:36:10Z",
+     "lead_words": 113,
+     "company_tokens_in_lead": [
+      "health",
+      "team"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "TeamHealth is a physician-led practice of 18,000 clinicians and operational leaders serving hospitals and post-acute care facilities, and provides care to nearly 30 million patients annually. Founded in 1979 and based in Knoxville, Tennessee, TeamHealth, originally a provider of emergency department services, is outsourcing physicians in emergency medicine, hospital medicine, anesthesiology, criti"
+    },
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "TeamHealth",
+     "article_created": "2015-04-28T16:36:10Z",
+     "lead_words": 113,
+     "company_tokens_in_lead": [
+      "health",
+      "team"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "TeamHealth is a physician-led practice of 18,000 clinicians and operational leaders serving hospitals and post-acute care facilities, and provides care to nearly 30 million patients annually. Founded in 1979 and based in Knoxville, Tennessee, TeamHealth, originally a provider of emergency department services, is outsourcing physicians in emergency medicine, hospital medicine, anesthesiology, criti"
+    }
+   ]
+  },
+  "FIREEYE, INC.": {
+   "company": "FIREEYE, INC.",
+   "candidates": [
+    {
+     "rule": "(6) core product or service, via redirect",
+     "target": "Trellix",
+     "article_created": "2009-01-25T10:59:02Z",
+     "lead_words": 104,
+     "company_tokens_in_lead": [
+      "fireeye"
+     ],
+     "passes_lead_mention": true,
+     "passes_min_words": true,
+     "lead": "Trellix (Musarubra US LLC, formerly FireEye and McAfee Enterprise) is a privately held cybersecurity company founded in 2022. It provides hardware, software, and services to investigate cybersecurity attacks, protect against malicious software, and analyze IT security risks.\nIn June 2021, FireEye sold its name and products business to Symphony Technology Group (STG) for $1.2 billion. STG acquired "
+    }
+   ]
+  }
+ }
+}
