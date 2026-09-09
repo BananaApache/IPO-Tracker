@@ -178,5 +178,1572 @@
   "d1_volume": 244254,
   "calendar_listing_date": "2019-11-11",
   "n_bars": 9
+ },
+ "MNR": {
+  "symbol": "MNR",
+  "first_trade_date": "2023-10-25",
+  "d1_open": 19.0,
+  "d1_close": 18.34,
+  "d1_volume": 2128341,
+  "calendar_listing_date": "2023-10-25",
+  "n_bars": 8
+ },
+ "CDRE": {
+  "symbol": "CDRE",
+  "first_trade_date": "2021-11-04",
+  "d1_open": 15.0,
+  "d1_close": 15.29,
+  "d1_volume": 1674607,
+  "calendar_listing_date": "2021-11-04",
+  "n_bars": 7
+ },
+ "MDWT": {
+  "symbol": "MDWT",
+  "first_trade_date": "2020-12-14",
+  "d1_open": 62.0,
+  "d1_close": 71.5,
+  "d1_volume": 1061,
+  "calendar_listing_date": "2020-12-17",
+  "n_bars": 9
+ },
+ "DUO": {
+  "symbol": "DUO",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "CARL": {
+  "symbol": "CARL",
+  "first_trade_date": "2025-07-23",
+  "d1_open": 15.0,
+  "d1_close": 14.5,
+  "d1_volume": 2950365,
+  "calendar_listing_date": "2025-07-23",
+  "n_bars": 8
+ },
+ "PROS": {
+  "symbol": "PROS",
+  "first_trade_date": "2019-07-25",
+  "d1_open": 16.0,
+  "d1_close": 17.07,
+  "d1_volume": 2877495,
+  "calendar_listing_date": "2019-07-25",
+  "n_bars": 7
+ },
+ "MLYS": {
+  "symbol": "MLYS",
+  "first_trade_date": "2023-02-10",
+  "d1_open": 21.1,
+  "d1_close": 18.44,
+  "d1_volume": 2707501,
+  "calendar_listing_date": "2023-02-10",
+  "n_bars": 6
+ },
+ "FRLN": {
+  "symbol": "FRLN",
+  "first_trade_date": "2020-08-07",
+  "d1_open": 18.5,
+  "d1_close": 18.0,
+  "d1_volume": 2773435,
+  "calendar_listing_date": "2020-08-07",
+  "n_bars": 7
+ },
+ "DBTX": {
+  "symbol": "DBTX",
+  "first_trade_date": "2021-02-12",
+  "d1_open": 21.2,
+  "d1_close": 18.03,
+  "d1_volume": 3887454,
+  "calendar_listing_date": "2021-02-12",
+  "n_bars": 6
+ },
+ "GRAN": {
+  "symbol": "GRAN",
+  "first_trade_date": "2025-07-01",
+  "d1_open": 5.9,
+  "d1_close": 4.6,
+  "d1_volume": 2010178,
+  "calendar_listing_date": "2025-07-01",
+  "n_bars": 8
+ },
+ "BNR": {
+  "symbol": "BNR",
+  "first_trade_date": "2020-06-12",
+  "d1_open": 22.8,
+  "d1_close": 24.63,
+  "d1_volume": 5021739,
+  "calendar_listing_date": "2020-06-12",
+  "n_bars": 7
+ },
+ "ACCD": {
+  "symbol": "ACCD",
+  "first_trade_date": "2020-07-02",
+  "d1_open": 35.0,
+  "d1_close": 29.7,
+  "d1_volume": 8507583,
+  "calendar_listing_date": "2020-07-02",
+  "n_bars": 6
+ },
+ "DDI": {
+  "symbol": "DDI",
+  "first_trade_date": "2021-08-31",
+  "d1_open": 18.0,
+  "d1_close": 17.75,
+  "d1_volume": 3816880,
+  "calendar_listing_date": "2021-08-31",
+  "n_bars": 8
+ },
+ "KVYO": {
+  "symbol": "KVYO",
+  "first_trade_date": "2023-09-20",
+  "d1_open": 36.75,
+  "d1_close": 32.76,
+  "d1_volume": 17083931,
+  "calendar_listing_date": "2023-09-20",
+  "n_bars": 8
+ },
+ "BOBS": {
+  "symbol": "BOBS",
+  "first_trade_date": "2026-02-05",
+  "d1_open": 17.0,
+  "d1_close": 17.02,
+  "d1_volume": 15447228,
+  "calendar_listing_date": "2026-02-05",
+  "n_bars": 7
+ },
+ "S": {
+  "symbol": "S",
+  "first_trade_date": "2021-06-30",
+  "d1_open": 46.0,
+  "d1_close": 42.5,
+  "d1_volume": 20587281,
+  "calendar_listing_date": "2021-06-30",
+  "n_bars": 7
+ },
+ "TTAM": {
+  "symbol": "TTAM",
+  "first_trade_date": "2025-02-07",
+  "d1_open": 16.2,
+  "d1_close": 16.7,
+  "d1_volume": 9742407,
+  "calendar_listing_date": "2025-02-07",
+  "n_bars": 6
+ },
+ "ISPR": {
+  "symbol": "ISPR",
+  "first_trade_date": "2023-04-04",
+  "d1_open": 8.53,
+  "d1_close": 7.55,
+  "d1_volume": 673269,
+  "calendar_listing_date": "2023-04-04",
+  "n_bars": 8
+ },
+ "AKYA": {
+  "symbol": "AKYA",
+  "first_trade_date": "2021-04-16",
+  "d1_open": 26.0,
+  "d1_close": 26.05,
+  "d1_volume": 3803998,
+  "calendar_listing_date": "2021-04-16",
+  "n_bars": 7
+ },
+ "NA": {
+  "symbol": "NA",
+  "first_trade_date": "2022-07-12",
+  "d1_open": 7.61,
+  "d1_close": 12.05,
+  "d1_volume": 1486813,
+  "calendar_listing_date": "2022-07-12",
+  "n_bars": 9
+ },
+ "PSN": {
+  "symbol": "PSN",
+  "first_trade_date": "2019-05-08",
+  "d1_open": 30.65,
+  "d1_close": 30.07,
+  "d1_volume": 14797342,
+  "calendar_listing_date": "2019-05-08",
+  "n_bars": 8
+ },
+ "TEM": {
+  "symbol": "TEM",
+  "first_trade_date": "2024-06-14",
+  "d1_open": 40.0,
+  "d1_close": 40.25,
+  "d1_volume": 6338891,
+  "calendar_listing_date": "2024-06-14",
+  "n_bars": 6
+ },
+ "NEXI": {
+  "symbol": "NEXI",
+  "first_trade_date": "2021-02-12",
+  "d1_open": 23.01,
+  "d1_close": 25.33,
+  "d1_volume": 3490053,
+  "calendar_listing_date": "2021-02-12",
+  "n_bars": 6
+ },
+ "LIZI": {
+  "symbol": "LIZI",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "SI": {
+  "symbol": "SI",
+  "first_trade_date": "2025-07-31",
+  "d1_open": 15.6,
+  "d1_close": 15.05,
+  "d1_volume": 1978244,
+  "calendar_listing_date": "2025-07-31",
+  "n_bars": 7
+ },
+ "COCO": {
+  "symbol": "COCO",
+  "first_trade_date": "2021-10-21",
+  "d1_open": 15.37,
+  "d1_close": 13.52,
+  "d1_volume": 9664503,
+  "calendar_listing_date": "2021-10-21",
+  "n_bars": 7
+ },
+ "BNRG": {
+  "symbol": "BNRG",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "KSPI": {
+  "symbol": "KSPI",
+  "first_trade_date": "2024-01-19",
+  "d1_open": 92.5,
+  "d1_close": 95.97,
+  "d1_volume": 3410518,
+  "calendar_listing_date": "2024-01-19",
+  "n_bars": 7
+ },
+ "ORPH": {
+  "symbol": "ORPH",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "PXDT": {
+  "symbol": "PXDT",
+  "first_trade_date": "2023-08-01",
+  "d1_open": 9.9,
+  "d1_close": 8.0,
+  "d1_volume": 720638,
+  "calendar_listing_date": "2023-08-01",
+  "n_bars": 9
+ },
+ "NRSN": {
+  "symbol": "NRSN",
+  "first_trade_date": "2021-12-09",
+  "d1_open": 4.55,
+  "d1_close": 4.04,
+  "d1_volume": 2011318,
+  "calendar_listing_date": "2021-12-09",
+  "n_bars": 7
+ },
+ "PFHC": {
+  "symbol": "PFHC",
+  "first_trade_date": "2022-05-13",
+  "d1_open": 17.6,
+  "d1_close": 18.11,
+  "d1_volume": 6325615,
+  "calendar_listing_date": "2022-05-13",
+  "n_bars": 7
+ },
+ "KNTE": {
+  "symbol": "KNTE",
+  "first_trade_date": "2020-12-03",
+  "d1_open": 40.0,
+  "d1_close": 39.03,
+  "d1_volume": 3340489,
+  "calendar_listing_date": "2020-12-03",
+  "n_bars": 7
+ },
+ "RVMD": {
+  "symbol": "RVMD",
+  "first_trade_date": "2020-02-13",
+  "d1_open": 28.21,
+  "d1_close": 28.9,
+  "d1_volume": 7317175,
+  "calendar_listing_date": "2020-02-13",
+  "n_bars": 6
+ },
+ "NXTC": {
+  "symbol": "NXTC",
+  "first_trade_date": "2019-05-09",
+  "d1_open": 15.55,
+  "d1_close": 19.9,
+  "d1_volume": 1646744,
+  "calendar_listing_date": "2019-05-09",
+  "n_bars": 7
+ },
+ "MAIA": {
+  "symbol": "MAIA",
+  "first_trade_date": "2022-07-28",
+  "d1_open": 4.1,
+  "d1_close": 4.46,
+  "d1_volume": 1548339,
+  "calendar_listing_date": "2022-07-28",
+  "n_bars": 7
+ },
+ "GMVD": {
+  "symbol": "GMVD",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "FNA": {
+  "symbol": "FNA",
+  "first_trade_date": "2021-10-15",
+  "d1_open": 19.15,
+  "d1_close": 18.71,
+  "d1_volume": 4346574,
+  "calendar_listing_date": "2021-10-15",
+  "n_bars": 7
+ },
+ "HLVX": {
+  "symbol": "HLVX",
+  "first_trade_date": "2022-04-29",
+  "d1_open": 18.76,
+  "d1_close": 19.09,
+  "d1_volume": 2337822,
+  "calendar_listing_date": "2022-04-29",
+  "n_bars": 7
+ },
+ "LUNG": {
+  "symbol": "LUNG",
+  "first_trade_date": "2020-10-01",
+  "d1_open": 40.0,
+  "d1_close": 39.31,
+  "d1_volume": 5287041,
+  "calendar_listing_date": "2020-10-01",
+  "n_bars": 7
+ },
+ "VEI": {
+  "symbol": "VEI",
+  "first_trade_date": "2021-03-18",
+  "d1_open": 13.75,
+  "d1_close": 13.5,
+  "d1_volume": 5888346,
+  "calendar_listing_date": "2021-03-18",
+  "n_bars": 7
+ },
+ "YXT": {
+  "symbol": "YXT",
+  "first_trade_date": "2024-08-16",
+  "d1_open": 11.0,
+  "d1_close": 10.02,
+  "d1_volume": 328004,
+  "calendar_listing_date": "2024-08-16",
+  "n_bars": 7
+ },
+ "CV": {
+  "symbol": "CV",
+  "first_trade_date": "2025-07-02",
+  "d1_open": 5.0,
+  "d1_close": 3.5,
+  "d1_volume": 3784425,
+  "calendar_listing_date": "2025-07-02",
+  "n_bars": 7
+ },
+ "FLYW": {
+  "symbol": "FLYW",
+  "first_trade_date": "2021-05-26",
+  "d1_open": 34.0,
+  "d1_close": 35.1,
+  "d1_volume": 7719190,
+  "calendar_listing_date": "2021-05-26",
+  "n_bars": 7
+ },
+ "VAXX": {
+  "symbol": "VAXX",
+  "first_trade_date": "2021-11-11",
+  "d1_open": 16.9,
+  "d1_close": 16.55,
+  "d1_volume": 3758306,
+  "calendar_listing_date": "2021-11-11",
+  "n_bars": 7
+ },
+ "MCBS": {
+  "symbol": "MCBS",
+  "first_trade_date": "2019-09-30",
+  "d1_open": 15.5,
+  "d1_close": 15.5,
+  "d1_volume": 72,
+  "calendar_listing_date": "2019-10-03",
+  "n_bars": 10
+ },
+ "FRBT": {
+  "symbol": "FRBT",
+  "first_trade_date": "2026-06-11",
+  "d1_open": 17.5,
+  "d1_close": 18.1,
+  "d1_volume": 2502061,
+  "calendar_listing_date": "2026-06-11",
+  "n_bars": 6
+ },
+ "GTLB": {
+  "symbol": "GTLB",
+  "first_trade_date": "2021-10-14",
+  "d1_open": 94.25,
+  "d1_close": 103.89,
+  "d1_volume": 8550870,
+  "calendar_listing_date": "2021-10-14",
+  "n_bars": 7
+ },
+ "AUVI": {
+  "symbol": "AUVI",
+  "first_trade_date": "2020-08-31",
+  "d1_open": 5.75,
+  "d1_close": 11.6,
+  "d1_volume": 7561582,
+  "calendar_listing_date": "2020-08-31",
+  "n_bars": 8
+ },
+ "VITL": {
+  "symbol": "VITL",
+  "first_trade_date": "2020-07-31",
+  "d1_open": 35.0,
+  "d1_close": 35.26,
+  "d1_volume": 5899422,
+  "calendar_listing_date": "2020-07-31",
+  "n_bars": 7
+ },
+ "PRFX": {
+  "symbol": "PRFX",
+  "first_trade_date": "2020-09-01",
+  "d1_open": 7.75,
+  "d1_close": 6.74,
+  "d1_volume": 826357,
+  "calendar_listing_date": "2020-09-01",
+  "n_bars": 8
+ },
+ "ACLX": {
+  "symbol": "ACLX",
+  "first_trade_date": "2022-02-04",
+  "d1_open": 19.0,
+  "d1_close": 16.8,
+  "d1_volume": 1093132,
+  "calendar_listing_date": "2022-02-04",
+  "n_bars": 7
+ },
+ "WHK": {
+  "symbol": "WHK",
+  "first_trade_date": "2026-06-09",
+  "d1_open": 26.15,
+  "d1_close": 26.0,
+  "d1_volume": 2798279,
+  "calendar_listing_date": "2026-06-09",
+  "n_bars": 8
+ },
+ "SOPA": {
+  "symbol": "SOPA",
+  "first_trade_date": "2021-11-09",
+  "d1_open": 15.5,
+  "d1_close": 48.3,
+  "d1_volume": 3367005,
+  "calendar_listing_date": "2021-11-09",
+  "n_bars": 9
+ },
+ "AZTR": {
+  "symbol": "AZTR",
+  "first_trade_date": "2023-06-16",
+  "d1_open": 4.26,
+  "d1_close": 4.94,
+  "d1_volume": 947911,
+  "calendar_listing_date": "2023-06-16",
+  "n_bars": 6
+ },
+ "PCOR": {
+  "symbol": "PCOR",
+  "first_trade_date": "2021-05-20",
+  "d1_open": 84.0,
+  "d1_close": 88.0,
+  "d1_volume": 8753751,
+  "calendar_listing_date": "2021-05-20",
+  "n_bars": 7
+ },
+ "HUIZ": {
+  "symbol": "HUIZ",
+  "first_trade_date": "2020-02-12",
+  "d1_open": 10.75,
+  "d1_close": 10.0,
+  "d1_volume": 2222297,
+  "calendar_listing_date": "2020-02-12",
+  "n_bars": 7
+ },
+ "AKTS": {
+  "symbol": "AKTS",
+  "first_trade_date": "2026-01-09",
+  "d1_open": 27.0,
+  "d1_close": 22.4,
+  "d1_volume": 3116975,
+  "calendar_listing_date": "2026-01-09",
+  "n_bars": 6
+ },
+ "TASK": {
+  "symbol": "TASK",
+  "first_trade_date": "2021-06-11",
+  "d1_open": 27.55,
+  "d1_close": 31.09,
+  "d1_volume": 7449713,
+  "calendar_listing_date": "2021-06-11",
+  "n_bars": 7
+ },
+ "AVDX": {
+  "symbol": "AVDX",
+  "first_trade_date": "2021-10-13",
+  "d1_open": 24.14,
+  "d1_close": 24.94,
+  "d1_volume": 13805755,
+  "calendar_listing_date": "2021-10-13",
+  "n_bars": 8
+ },
+ "RXDX": {
+  "symbol": "RXDX",
+  "first_trade_date": "2021-03-12",
+  "d1_open": 24.95,
+  "d1_close": 25.29,
+  "d1_volume": 3923856,
+  "calendar_listing_date": "2021-03-12",
+  "n_bars": 7
+ },
+ "FOIL": {
+  "symbol": "FOIL",
+  "first_trade_date": "2026-08-12",
+  "d1_open": 26.0,
+  "d1_close": 24.5,
+  "d1_volume": 397555,
+  "calendar_listing_date": "2026-08-12",
+  "n_bars": 8
+ },
+ "LDI": {
+  "symbol": "LDI",
+  "first_trade_date": "2021-02-11",
+  "d1_open": 14.0,
+  "d1_close": 22.0,
+  "d1_volume": 7896516,
+  "calendar_listing_date": "2021-02-11",
+  "n_bars": 6
+ },
+ "VRAX": {
+  "symbol": "VRAX",
+  "first_trade_date": "2022-07-21",
+  "d1_open": 20.0,
+  "d1_close": 18.2,
+  "d1_volume": 499064,
+  "calendar_listing_date": "2022-07-21",
+  "n_bars": 7
+ },
+ "SHPH": {
+  "symbol": "SHPH",
+  "first_trade_date": "2022-08-31",
+  "d1_open": 24.05,
+  "d1_close": 38.48,
+  "d1_volume": 1088251,
+  "calendar_listing_date": "2022-08-31",
+  "n_bars": 7
+ },
+ "NSRX": {
+  "symbol": "NSRX",
+  "first_trade_date": "2025-08-13",
+  "d1_open": 8.0,
+  "d1_close": 8.25,
+  "d1_volume": 286457,
+  "calendar_listing_date": "2025-08-13",
+  "n_bars": 8
+ },
+ "ACXP": {
+  "symbol": "ACXP",
+  "first_trade_date": "2021-06-25",
+  "d1_open": 5.95,
+  "d1_close": 7.89,
+  "d1_volume": 14615533,
+  "calendar_listing_date": "2021-06-25",
+  "n_bars": 6
+ },
+ "INTS": {
+  "symbol": "INTS",
+  "first_trade_date": "2023-06-30",
+  "d1_open": 5.95,
+  "d1_close": 5.96,
+  "d1_volume": 1295660,
+  "calendar_listing_date": "2023-06-30",
+  "n_bars": 6
+ },
+ "NET": {
+  "symbol": "NET",
+  "first_trade_date": "2019-09-13",
+  "d1_open": 18.0,
+  "d1_close": 18.0,
+  "d1_volume": 35972040,
+  "calendar_listing_date": "2019-09-13",
+  "n_bars": 7
+ },
+ "WEAV": {
+  "symbol": "WEAV",
+  "first_trade_date": "2021-11-11",
+  "d1_open": 21.8,
+  "d1_close": 18.79,
+  "d1_volume": 3472519,
+  "calendar_listing_date": "2021-11-11",
+  "n_bars": 7
+ },
+ "CGON": {
+  "symbol": "CGON",
+  "first_trade_date": "2024-01-25",
+  "d1_open": 29.0,
+  "d1_close": 37.17,
+  "d1_volume": 8824751,
+  "calendar_listing_date": "2024-01-25",
+  "n_bars": 7
+ },
+ "TDTH": {
+  "symbol": "TDTH",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "ZVIA": {
+  "symbol": "ZVIA",
+  "first_trade_date": "2021-07-22",
+  "d1_open": 12.5,
+  "d1_close": 13.65,
+  "d1_volume": 4666601,
+  "calendar_listing_date": "2021-07-22",
+  "n_bars": 7
+ },
+ "BAOS": {
+  "symbol": "BAOS",
+  "first_trade_date": "2021-02-08",
+  "d1_open": 8.25,
+  "d1_close": 8.86,
+  "d1_volume": 2822574,
+  "calendar_listing_date": "2021-02-08",
+  "n_bars": 8
+ },
+ "VTMX": {
+  "symbol": "VTMX",
+  "first_trade_date": "2023-06-30",
+  "d1_open": 32.0,
+  "d1_close": 32.22,
+  "d1_volume": 3471121,
+  "calendar_listing_date": "2023-06-30",
+  "n_bars": 6
+ },
+ "LVGO": {
+  "symbol": "LVGO",
+  "first_trade_date": "2019-07-25",
+  "d1_open": 40.51,
+  "d1_close": 38.1,
+  "d1_volume": 14798181,
+  "calendar_listing_date": "2019-07-25",
+  "n_bars": 7
+ },
+ "CDNL": {
+  "symbol": "CDNL",
+  "first_trade_date": "2025-12-10",
+  "d1_open": 23.0,
+  "d1_close": 23.5,
+  "d1_volume": 3595985,
+  "calendar_listing_date": "2025-12-10",
+  "n_bars": 8
+ },
+ "MNRL": {
+  "symbol": "MNRL",
+  "first_trade_date": "2019-04-18",
+  "d1_open": 20.0,
+  "d1_close": 19.92,
+  "d1_volume": 8187035,
+  "calendar_listing_date": "2019-04-18",
+  "n_bars": 6
+ },
+ "JANX": {
+  "symbol": "JANX",
+  "first_trade_date": "2021-06-11",
+  "d1_open": 34.0,
+  "d1_close": 25.15,
+  "d1_volume": 2386515,
+  "calendar_listing_date": "2021-06-11",
+  "n_bars": 7
+ },
+ "HYFM": {
+  "symbol": "HYFM",
+  "first_trade_date": "2020-12-10",
+  "d1_open": 46.0,
+  "d1_close": 51.99,
+  "d1_volume": 6655930,
+  "calendar_listing_date": "2020-12-10",
+  "n_bars": 7
+ },
+ "THRD": {
+  "symbol": "THRD",
+  "first_trade_date": "2022-09-14",
+  "d1_open": 17.0,
+  "d1_close": 17.0,
+  "d1_volume": 0,
+  "calendar_listing_date": "2022-09-15",
+  "n_bars": 8
+ },
+ "ANVS": {
+  "symbol": "ANVS",
+  "first_trade_date": "2020-01-29",
+  "d1_open": 6.63,
+  "d1_close": 9.59,
+  "d1_volume": 3386226,
+  "calendar_listing_date": "2020-01-29",
+  "n_bars": 8
+ },
+ "STDN": {
+  "symbol": "STDN",
+  "first_trade_date": "2026-07-16",
+  "d1_open": 13.5,
+  "d1_close": 12.3,
+  "d1_volume": 5654531,
+  "calendar_listing_date": "2026-07-16",
+  "n_bars": 7
+ },
+ "LMPX": {
+  "symbol": "LMPX",
+  "first_trade_date": "2019-12-05",
+  "d1_open": 5.0,
+  "d1_close": 5.36,
+  "d1_volume": 822240,
+  "calendar_listing_date": "2019-12-05",
+  "n_bars": 7
+ },
+ "WBTN": {
+  "symbol": "WBTN",
+  "first_trade_date": "2024-06-27",
+  "d1_open": 21.3,
+  "d1_close": 23.0,
+  "d1_volume": 6421313,
+  "calendar_listing_date": "2024-06-27",
+  "n_bars": 6
+ },
+ "PTVE": {
+  "symbol": "PTVE",
+  "first_trade_date": "2020-09-17",
+  "d1_open": 12.75,
+  "d1_close": 10.93,
+  "d1_volume": 14759246,
+  "calendar_listing_date": "2020-09-17",
+  "n_bars": 7
+ },
+ "ALKT": {
+  "symbol": "ALKT",
+  "first_trade_date": "2021-04-14",
+  "d1_open": 41.26,
+  "d1_close": 43.0,
+  "d1_volume": 5737366,
+  "calendar_listing_date": "2021-04-14",
+  "n_bars": 8
+ },
+ "HEPS": {
+  "symbol": "HEPS",
+  "first_trade_date": "2021-07-01",
+  "d1_open": 12.75,
+  "d1_close": 13.43,
+  "d1_volume": 13978248,
+  "calendar_listing_date": "2021-07-01",
+  "n_bars": 6
+ },
+ "ABNB": {
+  "symbol": "ABNB",
+  "first_trade_date": "2020-12-10",
+  "d1_open": 146.0,
+  "d1_close": 144.71,
+  "d1_volume": 70447537,
+  "calendar_listing_date": "2020-12-10",
+  "n_bars": 7
+ },
+ "INNV": {
+  "symbol": "INNV",
+  "first_trade_date": "2021-03-04",
+  "d1_open": 24.0,
+  "d1_close": 24.2,
+  "d1_volume": 8916127,
+  "calendar_listing_date": "2021-03-04",
+  "n_bars": 7
+ },
+ "SONM": {
+  "symbol": "SONM",
+  "first_trade_date": "2019-05-10",
+  "d1_open": 11.7,
+  "d1_close": 10.99,
+  "d1_volume": 1314999,
+  "calendar_listing_date": "2019-05-10",
+  "n_bars": 7
+ },
+ "SUMO": {
+  "symbol": "SUMO",
+  "first_trade_date": "2020-09-17",
+  "d1_open": 26.64,
+  "d1_close": 26.88,
+  "d1_volume": 16722047,
+  "calendar_listing_date": "2020-09-17",
+  "n_bars": 7
+ },
+ "RAPT": {
+  "symbol": "RAPT",
+  "first_trade_date": "2019-10-31",
+  "d1_open": 12.25,
+  "d1_close": 13.0,
+  "d1_volume": 246700,
+  "calendar_listing_date": "2019-10-31",
+  "n_bars": 7
+ },
+ "ROC": {
+  "symbol": "ROC",
+  "first_trade_date": "2026-02-20",
+  "d1_open": 6.3,
+  "d1_close": 6.16,
+  "d1_volume": 2080423,
+  "calendar_listing_date": "2026-02-20",
+  "n_bars": 7
+ },
+ "NMRA": {
+  "symbol": "NMRA",
+  "first_trade_date": "2023-09-14",
+  "d1_open": 17.0,
+  "d1_close": 17.0,
+  "d1_volume": 0,
+  "calendar_listing_date": "2023-09-15",
+  "n_bars": 8
+ },
+ "INFA": {
+  "symbol": "INFA",
+  "first_trade_date": "2021-10-27",
+  "d1_open": 27.55,
+  "d1_close": 29.0,
+  "d1_volume": 10531341,
+  "calendar_listing_date": "2021-10-27",
+  "n_bars": 8
+ },
+ "ELYM": {
+  "symbol": "ELYM",
+  "first_trade_date": "2021-08-10",
+  "d1_open": 16.25,
+  "d1_close": 15.9,
+  "d1_volume": 1522126,
+  "calendar_listing_date": "2021-08-10",
+  "n_bars": 9
+ },
+ "AOMR": {
+  "symbol": "AOMR",
+  "first_trade_date": "2021-06-17",
+  "d1_open": 18.75,
+  "d1_close": 18.65,
+  "d1_volume": 1490704,
+  "calendar_listing_date": "2021-06-17",
+  "n_bars": 7
+ },
+ "GLOO": {
+  "symbol": "GLOO",
+  "first_trade_date": "2025-11-18",
+  "d1_open": 8.0,
+  "d1_close": 8.0,
+  "d1_volume": 0,
+  "calendar_listing_date": "2025-11-19",
+  "n_bars": 8
+ },
+ "ZM": {
+  "symbol": "ZM",
+  "first_trade_date": "2019-04-18",
+  "d1_open": 65.0,
+  "d1_close": 62.0,
+  "d1_volume": 25764659,
+  "calendar_listing_date": "2019-04-18",
+  "n_bars": 6
+ },
+ "PASG": {
+  "symbol": "PASG",
+  "first_trade_date": "2020-02-28",
+  "d1_open": 22.27,
+  "d1_close": 22.2,
+  "d1_volume": 4960962,
+  "calendar_listing_date": "2020-02-28",
+  "n_bars": 7
+ },
+ "TXO": {
+  "symbol": "TXO",
+  "first_trade_date": "2023-01-27",
+  "d1_open": 22.0,
+  "d1_close": 22.0,
+  "d1_volume": 1538148,
+  "calendar_listing_date": "2023-01-27",
+  "n_bars": 7
+ },
+ "PONY": {
+  "symbol": "PONY",
+  "first_trade_date": "2024-11-27",
+  "d1_open": 15.0,
+  "d1_close": 12.0,
+  "d1_volume": 7155400,
+  "calendar_listing_date": "2024-11-27",
+  "n_bars": 7
+ },
+ "AMAM": {
+  "symbol": "AMAM",
+  "first_trade_date": "2021-06-18",
+  "d1_open": 18.0,
+  "d1_close": 17.05,
+  "d1_volume": 1499445,
+  "calendar_listing_date": "2021-06-18",
+  "n_bars": 7
+ },
+ "GOSS": {
+  "symbol": "GOSS",
+  "first_trade_date": "2019-02-08",
+  "d1_open": 19.0,
+  "d1_close": 17.94,
+  "d1_volume": 5895238,
+  "calendar_listing_date": "2019-02-08",
+  "n_bars": 6
+ },
+ "LOAR": {
+  "symbol": "LOAR",
+  "first_trade_date": "2024-04-25",
+  "d1_open": 45.0,
+  "d1_close": 48.8,
+  "d1_volume": 6965154,
+  "calendar_listing_date": "2024-04-25",
+  "n_bars": 7
+ },
+ "ARTV": {
+  "symbol": "ARTV",
+  "first_trade_date": "2024-07-19",
+  "d1_open": 16.0,
+  "d1_close": 12.0,
+  "d1_volume": 631759,
+  "calendar_listing_date": "2024-07-19",
+  "n_bars": 7
+ },
+ "INGM": {
+  "symbol": "INGM",
+  "first_trade_date": "2024-10-24",
+  "d1_open": 25.28,
+  "d1_close": 24.6,
+  "d1_volume": 7748041,
+  "calendar_listing_date": "2024-10-24",
+  "n_bars": 7
+ },
+ "AGBK": {
+  "symbol": "AGBK",
+  "first_trade_date": "2026-02-11",
+  "d1_open": 11.0,
+  "d1_close": 10.75,
+  "d1_volume": 5787971,
+  "calendar_listing_date": "2026-02-11",
+  "n_bars": 7
+ },
+ "TMCI": {
+  "symbol": "TMCI",
+  "first_trade_date": "2021-04-23",
+  "d1_open": 24.5,
+  "d1_close": 25.53,
+  "d1_volume": 5224724,
+  "calendar_listing_date": "2021-04-23",
+  "n_bars": 7
+ },
+ "CNM": {
+  "symbol": "CNM",
+  "first_trade_date": "2021-07-22",
+  "d1_open": 20.0,
+  "d1_close": 20.0,
+  "d1_volume": 100,
+  "calendar_listing_date": "2021-07-23",
+  "n_bars": 8
+ },
+ "BILL": {
+  "symbol": "BILL",
+  "first_trade_date": "2019-12-12",
+  "d1_open": 37.25,
+  "d1_close": 35.5,
+  "d1_volume": 9504551,
+  "calendar_listing_date": "2019-12-12",
+  "n_bars": 7
+ },
+ "PTLO": {
+  "symbol": "PTLO",
+  "first_trade_date": "2021-10-21",
+  "d1_open": 26.0,
+  "d1_close": 29.1,
+  "d1_volume": 16878091,
+  "calendar_listing_date": "2021-10-21",
+  "n_bars": 7
+ },
+ "ITG": {
+  "symbol": "ITG",
+  "first_trade_date": "2026-07-01",
+  "d1_open": 18.0,
+  "d1_close": 17.71,
+  "d1_volume": 4763675,
+  "calendar_listing_date": "2026-07-01",
+  "n_bars": 7
+ },
+ "CRCL": {
+  "symbol": "CRCL",
+  "first_trade_date": "2025-06-04",
+  "d1_open": 31.0,
+  "d1_close": 31.0,
+  "d1_volume": 0,
+  "calendar_listing_date": "2025-06-05",
+  "n_bars": 8
+ },
+ "CRWV": {
+  "symbol": "CRWV",
+  "first_trade_date": "2025-03-28",
+  "d1_open": 39.0,
+  "d1_close": 40.0,
+  "d1_volume": 41091102,
+  "calendar_listing_date": "2025-03-28",
+  "n_bars": 7
+ },
+ "AHL": {
+  "symbol": "AHL",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "THRX": {
+  "symbol": "THRX",
+  "first_trade_date": "2021-10-07",
+  "d1_open": 20.8,
+  "d1_close": 18.58,
+  "d1_volume": 3888746,
+  "calendar_listing_date": "2021-10-07",
+  "n_bars": 7
+ },
+ "BYND": {
+  "symbol": "BYND",
+  "first_trade_date": "2019-05-02",
+  "d1_open": 46.0,
+  "d1_close": 65.75,
+  "d1_volume": 23118966,
+  "calendar_listing_date": "2019-05-02",
+  "n_bars": 7
+ },
+ "SQFT": {
+  "symbol": "SQFT",
+  "first_trade_date": "2020-10-07",
+  "d1_open": 4.8,
+  "d1_close": 4.6,
+  "d1_volume": 30960,
+  "calendar_listing_date": "2020-10-07",
+  "n_bars": 8
+ },
+ "FHL": {
+  "symbol": "FHL",
+  "first_trade_date": "2019-03-08",
+  "d1_open": 14.76,
+  "d1_close": 15.32,
+  "d1_volume": 7250538,
+  "calendar_listing_date": "2019-03-08",
+  "n_bars": 7
+ },
+ "LFTO": {
+  "symbol": "LFTO",
+  "first_trade_date": "2026-06-04",
+  "d1_open": 25.1,
+  "d1_close": 28.45,
+  "d1_volume": 11661459,
+  "calendar_listing_date": "2026-06-04",
+  "n_bars": 7
+ },
+ "SOLY": {
+  "symbol": "SOLY",
+  "first_trade_date": "2019-02-19",
+  "d1_open": 4.8,
+  "d1_close": 4.87,
+  "d1_volume": 161072,
+  "calendar_listing_date": "2019-02-19",
+  "n_bars": 9
+ },
+ "CPNG": {
+  "symbol": "CPNG",
+  "first_trade_date": "2021-03-11",
+  "d1_open": 63.5,
+  "d1_close": 49.25,
+  "d1_volume": 91584120,
+  "calendar_listing_date": "2021-03-11",
+  "n_bars": 7
+ },
+ "DRCT": {
+  "symbol": "DRCT",
+  "first_trade_date": "2022-02-11",
+  "d1_open": 4.3,
+  "d1_close": 3.0,
+  "d1_volume": 2922976,
+  "calendar_listing_date": "2022-02-11",
+  "n_bars": 6
+ },
+ "DH": {
+  "symbol": "DH",
+  "first_trade_date": "2021-09-15",
+  "d1_open": 37.25,
+  "d1_close": 43.29,
+  "d1_volume": 7843447,
+  "calendar_listing_date": "2021-09-15",
+  "n_bars": 8
+ },
+ "RRBI": {
+  "symbol": "RRBI",
+  "first_trade_date": "2019-05-03",
+  "d1_open": 55.0,
+  "d1_close": 50.25,
+  "d1_volume": 149929,
+  "calendar_listing_date": "2019-05-03",
+  "n_bars": 7
+ },
+ "OM": {
+  "symbol": "OM",
+  "first_trade_date": "2020-09-15",
+  "d1_open": 52.0,
+  "d1_close": 60.68,
+  "d1_volume": 5329905,
+  "calendar_listing_date": "2020-09-15",
+  "n_bars": 9
+ },
+ "MSW": {
+  "symbol": "MSW",
+  "first_trade_date": "2024-11-22",
+  "d1_open": 5.65,
+  "d1_close": 5.59,
+  "d1_volume": 658008,
+  "calendar_listing_date": "2024-11-22",
+  "n_bars": 6
+ },
+ "LEGN": {
+  "symbol": "LEGN",
+  "first_trade_date": "2020-06-05",
+  "d1_open": 37.0,
+  "d1_close": 37.0,
+  "d1_volume": 8606276,
+  "calendar_listing_date": "2020-06-05",
+  "n_bars": 7
+ },
+ "PBLS": {
+  "symbol": "PBLS",
+  "first_trade_date": "2026-06-10",
+  "d1_open": 33.35,
+  "d1_close": 31.6,
+  "d1_volume": 5496700,
+  "calendar_listing_date": "2026-06-10",
+  "n_bars": 7
+ },
+ "JAMF": {
+  "symbol": "JAMF",
+  "first_trade_date": "2020-07-22",
+  "d1_open": 46.0,
+  "d1_close": 39.2,
+  "d1_volume": 22417509,
+  "calendar_listing_date": "2020-07-22",
+  "n_bars": 8
+ },
+ "IPHA": {
+  "symbol": "IPHA",
+  "first_trade_date": "2019-10-17",
+  "d1_open": 5.61,
+  "d1_close": 6.05,
+  "d1_volume": 827443,
+  "calendar_listing_date": "2019-10-17",
+  "n_bars": 7
+ },
+ "AZYO": {
+  "symbol": "AZYO",
+  "first_trade_date": "2020-10-08",
+  "d1_open": 17.32,
+  "d1_close": 14.5,
+  "d1_volume": 2043801,
+  "calendar_listing_date": "2020-10-08",
+  "n_bars": 7
+ },
+ "IGMS": {
+  "symbol": "IGMS",
+  "first_trade_date": "2019-09-18",
+  "d1_open": 18.31,
+  "d1_close": 24.3,
+  "d1_volume": 1751314,
+  "calendar_listing_date": "2019-09-18",
+  "n_bars": 8
+ },
+ "JL": {
+  "symbol": "JL",
+  "first_trade_date": "2024-01-24",
+  "d1_open": 7.5,
+  "d1_close": 7.44,
+  "d1_volume": 1349884,
+  "calendar_listing_date": "2024-01-24",
+  "n_bars": 8
+ },
+ "AVDR": {
+  "symbol": "AVDR",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "UBER": {
+  "symbol": "UBER",
+  "first_trade_date": "2019-05-10",
+  "d1_open": 42.0,
+  "d1_close": 41.57,
+  "d1_volume": 186322536,
+  "calendar_listing_date": "2019-05-10",
+  "n_bars": 7
+ },
+ "ROLR": {
+  "symbol": "ROLR",
+  "first_trade_date": "2024-10-23",
+  "d1_open": 7.0,
+  "d1_close": 7.79,
+  "d1_volume": 266881,
+  "calendar_listing_date": "2024-10-23",
+  "n_bars": 8
+ },
+ "RANI": {
+  "symbol": "RANI",
+  "first_trade_date": "2021-07-30",
+  "d1_open": 11.26,
+  "d1_close": 11.0,
+  "d1_volume": 971419,
+  "calendar_listing_date": "2021-07-30",
+  "n_bars": 7
+ },
+ "PFHD": {
+  "symbol": "PFHD",
+  "first_trade_date": "2020-02-03",
+  "d1_open": 19.75,
+  "d1_close": 19.75,
+  "d1_volume": 1200,
+  "calendar_listing_date": "2020-02-07",
+  "n_bars": 10
+ },
+ "ANRO": {
+  "symbol": "ANRO",
+  "first_trade_date": "2024-02-02",
+  "d1_open": 22.0,
+  "d1_close": 20.7,
+  "d1_volume": 2386547,
+  "calendar_listing_date": "2024-02-02",
+  "n_bars": 7
+ },
+ "HNST": {
+  "symbol": "HNST",
+  "first_trade_date": "2021-05-04",
+  "d1_open": 16.0,
+  "d1_close": 16.0,
+  "d1_volume": 100,
+  "calendar_listing_date": "2021-05-05",
+  "n_bars": 9
+ },
+ "BXDC": {
+  "symbol": "BXDC",
+  "first_trade_date": "2026-05-14",
+  "d1_open": 20.0,
+  "d1_close": 19.81,
+  "d1_volume": 10206338,
+  "calendar_listing_date": "2026-05-14",
+  "n_bars": 7
+ },
+ "LIME": {
+  "symbol": "LIME",
+  "first_trade_date": "2026-07-01",
+  "d1_open": 27.0,
+  "d1_close": 26.0,
+  "d1_volume": 3688300,
+  "calendar_listing_date": "2026-07-01",
+  "n_bars": 7
+ },
+ "CAI": {
+  "symbol": "CAI",
+  "first_trade_date": "2025-06-18",
+  "d1_open": 27.0,
+  "d1_close": 28.0,
+  "d1_volume": 15347884,
+  "calendar_listing_date": "2025-06-18",
+  "n_bars": 7
+ },
+ "EBET": {
+  "symbol": "EBET",
+  "first_trade_date": "2021-04-15",
+  "d1_open": 21.0,
+  "d1_close": 36.42,
+  "d1_volume": 6126185,
+  "calendar_listing_date": "2021-04-15",
+  "n_bars": 7
+ },
+ "LCLN": {
+  "symbol": "LCLN",
+  "first_trade_date": "2026-05-20",
+  "d1_open": 22.51,
+  "d1_close": 22.52,
+  "d1_volume": 8736220,
+  "calendar_listing_date": "2026-05-20",
+  "n_bars": 7
+ },
+ "SGMT": {
+  "symbol": "SGMT",
+  "first_trade_date": "2023-07-14",
+  "d1_open": 15.5,
+  "d1_close": 15.95,
+  "d1_volume": 1552137,
+  "calendar_listing_date": "2023-07-14",
+  "n_bars": 7
+ },
+ "CSQR": {
+  "symbol": "CSQR",
+  "first_trade_date": "2026-07-16",
+  "d1_open": 20.9,
+  "d1_close": 20.67,
+  "d1_volume": 11308564,
+  "calendar_listing_date": "2026-07-16",
+  "n_bars": 7
+ },
+ "SQSP": {
+  "symbol": "SQSP",
+  "first_trade_date": "2021-05-19",
+  "d1_open": 48.0,
+  "d1_close": 43.65,
+  "d1_volume": 5471014,
+  "calendar_listing_date": "2021-05-19",
+  "n_bars": 8
+ },
+ "GO": {
+  "symbol": "GO",
+  "first_trade_date": "2019-06-20",
+  "d1_open": 31.0,
+  "d1_close": 28.51,
+  "d1_volume": 13395468,
+  "calendar_listing_date": "2019-06-20",
+  "n_bars": 7
+ },
+ "VINP": {
+  "symbol": "VINP",
+  "first_trade_date": "2021-01-28",
+  "d1_open": 17.7,
+  "d1_close": 16.9,
+  "d1_volume": 5935085,
+  "calendar_listing_date": "2021-01-28",
+  "n_bars": 7
+ },
+ "FLY": {
+  "symbol": "FLY",
+  "first_trade_date": "2025-08-07",
+  "d1_open": 70.0,
+  "d1_close": 60.35,
+  "d1_volume": 30556621,
+  "calendar_listing_date": "2025-08-07",
+  "n_bars": 7
+ },
+ "PXMD": {
+  "symbol": "PXMD",
+  "first_trade_date": "2022-08-26",
+  "d1_open": 6.5,
+  "d1_close": 4.91,
+  "d1_volume": 8433953,
+  "calendar_listing_date": "2022-08-26",
+  "n_bars": 6
+ },
+ "AGRI": {
+  "symbol": "AGRI",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "LYRA": {
+  "symbol": "LYRA",
+  "first_trade_date": "2020-05-01",
+  "d1_open": 21.0,
+  "d1_close": 18.56,
+  "d1_volume": 1738727,
+  "calendar_listing_date": "2020-05-01",
+  "n_bars": 7
+ },
+ "EROC": {
+  "symbol": "EROC",
+  "first_trade_date": "2026-06-10",
+  "d1_open": 20.1,
+  "d1_close": 18.75,
+  "d1_volume": 18069208,
+  "calendar_listing_date": "2026-06-10",
+  "n_bars": 7
+ },
+ "CHWY": {
+  "symbol": "CHWY",
+  "first_trade_date": "2019-06-14",
+  "d1_open": 36.0,
+  "d1_close": 34.99,
+  "d1_volume": 69671354,
+  "calendar_listing_date": "2019-06-14",
+  "n_bars": 7
+ },
+ "CRBG": {
+  "symbol": "CRBG",
+  "first_trade_date": "2022-09-15",
+  "d1_open": 20.5,
+  "d1_close": 20.73,
+  "d1_volume": 21174767,
+  "calendar_listing_date": "2022-09-15",
+  "n_bars": 7
+ },
+ "YB": {
+  "symbol": "YB",
+  "first_trade_date": "2025-04-30",
+  "d1_open": 21.66,
+  "d1_close": 15.96,
+  "d1_volume": 1101370,
+  "calendar_listing_date": "2025-04-30",
+  "n_bars": 8
+ },
+ "VOYG": {
+  "symbol": "VOYG",
+  "first_trade_date": "2025-06-11",
+  "d1_open": 69.75,
+  "d1_close": 56.48,
+  "d1_volume": 23157119,
+  "calendar_listing_date": "2025-06-11",
+  "n_bars": 7
+ },
+ "APP": {
+  "symbol": "APP",
+  "first_trade_date": "2021-04-15",
+  "d1_open": 70.0,
+  "d1_close": 65.2,
+  "d1_volume": 11444403,
+  "calendar_listing_date": "2021-04-15",
+  "n_bars": 7
+ },
+ "ALGS": {
+  "symbol": "ALGS",
+  "first_trade_date": "2020-10-16",
+  "d1_open": 17.4,
+  "d1_close": 14.85,
+  "d1_volume": 2761351,
+  "calendar_listing_date": "2020-10-16",
+  "n_bars": 7
+ },
+ "OCDX": {
+  "symbol": "OCDX",
+  "first_trade_date": "2021-01-28",
+  "d1_open": 15.5,
+  "d1_close": 16.1,
+  "d1_volume": 15094117,
+  "calendar_listing_date": "2021-01-28",
+  "n_bars": 7
+ },
+ "NTSK": {
+  "symbol": "NTSK",
+  "first_trade_date": "2025-09-18",
+  "d1_open": 23.0,
+  "d1_close": 22.49,
+  "d1_volume": 33905511,
+  "calendar_listing_date": "2025-09-18",
+  "n_bars": 7
+ },
+ "GAN": {
+  "symbol": "GAN",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "DOCN": {
+  "symbol": "DOCN",
+  "first_trade_date": "2021-03-24",
+  "d1_open": 41.5,
+  "d1_close": 42.5,
+  "d1_volume": 9034600,
+  "calendar_listing_date": "2021-03-24",
+  "n_bars": 7
+ },
+ "BLSH": {
+  "symbol": "BLSH",
+  "first_trade_date": "2025-08-13",
+  "d1_open": 90.0,
+  "d1_close": 68.0,
+  "d1_volume": 58207639,
+  "calendar_listing_date": "2025-08-13",
+  "n_bars": 8
+ },
+ "XM": {
+  "symbol": "XM",
+  "first_trade_date": "2021-01-28",
+  "d1_open": 41.85,
+  "d1_close": 45.5,
+  "d1_volume": 25468626,
+  "calendar_listing_date": "2021-01-28",
+  "n_bars": 7
+ },
+ "BIOA": {
+  "symbol": "BIOA",
+  "first_trade_date": "2024-09-26",
+  "d1_open": 22.5,
+  "d1_close": 18.31,
+  "d1_volume": 4620933,
+  "calendar_listing_date": "2024-09-26",
+  "n_bars": 7
+ },
+ "AFIB": {
+  "symbol": "AFIB",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "TPTX": {
+  "symbol": "TPTX",
+  "first_trade_date": "2019-04-17",
+  "d1_open": 24.25,
+  "d1_close": 28.9,
+  "d1_volume": 3159667,
+  "calendar_listing_date": "2019-04-17",
+  "n_bars": 7
+ },
+ "EWCZ": {
+  "symbol": "EWCZ",
+  "first_trade_date": "2021-08-05",
+  "d1_open": 19.0,
+  "d1_close": 21.39,
+  "d1_volume": 4567486,
+  "calendar_listing_date": "2021-08-05",
+  "n_bars": 7
+ },
+ "ANNX": {
+  "symbol": "ANNX",
+  "first_trade_date": "2020-07-24",
+  "d1_open": 17.4,
+  "d1_close": 17.76,
+  "d1_volume": 4914006,
+  "calendar_listing_date": "2020-07-24",
+  "n_bars": 7
+ },
+ "NTRB": {
+  "symbol": "NTRB",
+  "first_trade_date": "2021-09-27",
+  "d1_open": 7.28,
+  "d1_close": 6.5,
+  "d1_volume": 919,
+  "calendar_listing_date": "2021-10-01",
+  "n_bars": 11
+ },
+ "LU": {
+  "symbol": "LU",
+  "first_trade_date": "2020-10-30",
+  "d1_open": 11.6,
+  "d1_close": 12.85,
+  "d1_volume": 33657872,
+  "calendar_listing_date": "2020-10-30",
+  "n_bars": 7
+ },
+ "SIND": {
+  "symbol": "SIND",
+  "first_trade_date": "2026-06-29",
+  "d1_open": 12.0,
+  "d1_close": 12.0,
+  "d1_volume": 341100,
+  "calendar_listing_date": "2026-06-26",
+  "n_bars": 5
+ },
+ "UPC": {
+  "symbol": "UPC",
+  "first_trade_date": "2021-03-23",
+  "d1_open": 5.26,
+  "d1_close": 4.75,
+  "d1_volume": 2055715,
+  "calendar_listing_date": "2021-03-23",
+  "n_bars": 8
  }
 }
