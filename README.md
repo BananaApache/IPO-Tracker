@@ -23,8 +23,20 @@ listed, measure attention retrospectively, and cross-reference it against
 post-listing price.
 
 **Short answer.** Attention does not accumulate before a filing — it is *created*
-by the filing. The most defensible finding is not about attention at all: it is
-that the public S-1 is the wrong event date to anchor on.
+by the filing. Public attention multiplies at the listing in **27 of 27**
+companies measured (median 3.1×, p = 1.5 × 10⁻⁸) and replicates on Reddit and X,
+while nothing detectable moves during the years beforehand. Two findings fall out
+of that: the run-up everyone assumes is there is not measurable in any of four
+corpora, and the public S-1 — the event date this project's own deployed pipeline
+anchors on — is the wrong date, because every company had already filed
+confidentially.
+
+**What this study does not show.** Whether having a Wikipedia page *predicts*
+IPO underpricing. That question is here, pre-registered and honestly reported,
+and it comes back a null at n=290 with a confidence interval wide enough to
+contain the published effect and its opposite. It is not tuned until it agrees
+with the literature. See
+[Underpricing: two nulls](#underpricing-two-nulls-and-why-the-literature-disagrees).
 
 Full method, every source verdict and all limitations:
 **[`research/README.md`](research/README.md)**. Reproduce with
@@ -65,9 +77,10 @@ available retrospectively, which is exactly what a retrospective study needs.
 
 ## The sample is biased, and here is how much
 
-A census of every US IPO 2019–2026 (**4,131 records**, 2,958 priced, 431
+A census of every US IPO 2019–2026 (**4,132 records**, 2,959 priced, 431
 withdrawn) exists mainly so the hand-picked watchlist can be *shown* to be
-unrepresentative rather than disclaimed as such.
+unrepresentative rather than disclaimed as such. The same collector was later
+extended back to 2006 for the replication cohort, giving 8,488 records in all.
 
 ![Watchlist versus the full IPO population](docs/images/cohort-comparison.png)
 
@@ -82,17 +95,63 @@ against widely reported figures of roughly 610 and 400.
 
 ---
 
-## Attention rises at the listing, not before it
+## The effect: attention multiplies at the listing
 
-Three independent instruments, different corpora, different failure modes:
+The one relationship in this project that is large, unanimous and robust.
+
+For each company, listing-month Wikipedia pageviews are divided by that
+company's **own** baseline — the median of months −13 to −2 relative to its
+public S-1, so the denominator ends before the filing and cannot contain the
+spike it scales. This is the Da/Engelberg/Gao (2011) abnormal-attention
+construction. Cross-company levels are meaningless here (SpaceX draws 81,000
+views/month before anyone files anything), so every company is compared only
+against itself.
+
+![Abnormal Wikipedia attention in the listing month](docs/images/abnormal-attention.png)
+
+**All 27 companies with a usable baseline rose. Median 3.08×, IQR 1.65–4.72×,
+sign test p = 1.5 × 10⁻⁸.** The weakest case, Duolingo, still rose 1.15×;
+Snowflake rose 22×.
+
+Unanimity is the part worth stating, and it survives every filter:
+
+| baseline floor | companies | rose | median | sign test |
+|---|---|---|---|---|
+| none | 27 | **27/27** | 3.08× | p = 1.5e-08 |
+| ≥ 500 views/mo | 25 | **25/25** | 2.64× | p = 6.0e-08 |
+| ≥ 5,000 views/mo | 21 | **21/21** | 1.97× | p = 9.5e-07 |
+| ≥ 10,000 views/mo | 16 | **16/16** | 1.85× | p = 3.1e-05 |
+
+The ladder exists because a ratio is only as good as its denominator, and two
+denominators here are not trustworthy: Wikipedia's pageview API reports traffic
+by **title**, not by article, so a company whose page was renamed late reads with
+an implausibly small baseline. Peloton shows 3 views/month before its filing
+because that era's traffic sits under the old title. Those rows inflate the
+ratio, so they are flagged in orange in the figure and dropped at the first rung
+— and the result does not depend on them. The effect gets *smaller* as the
+sample gets cleaner, which is the direction an artifact does not move in.
+
+Two more gates matter. A month before the article existed is recorded as absent,
+never as zero, so "the article was created at the IPO" can never be read as
+"attention rose at the IPO". And the baseline requires at least six valid months,
+which is why 27 of 39 companies qualify rather than all of them.
+
+### The same effect in two other corpora
+
+Different platforms, different failure modes, same direction:
 
 | instrument | usable | rose after listing | test |
 |---|---|---|---|
-| Wikipedia pageviews, DRS-anchored | 20 companies | 18/20 into the public window | p < 0.001 |
-| X posts, 90-day windows | 20 pairs | **20/20** | 8/8 exact pairs, p = 0.008 |
+| Wikipedia, listing-month abnormal attention | 27 companies | **27/27** | p = 1.5 × 10⁻⁸ |
+| X posts, 90-day windows | 25 pairs | 20/25 established | 0 reverse |
 | Reddit posts, 90-day windows | 11 pairs | **11/11** | p = 0.001 |
 
 ![X chatter before filing versus after listing](docs/images/windows-twitter.png)
+
+The X row is counted conservatively: most counts are right-censored, so a pair
+is only scored when the post-listing **lower bound** strictly exceeds the
+pre-filing **upper bound**. Twenty pairs clear that; five are indeterminate;
+**none** run the other way. Nothing is imputed to fill a censored count.
 
 Firefly Aerospace and Tempus AI had **exactly zero** pre-filing posts matching
 `"<company>" IPO`; Circle, Firefly and Arm had exactly zero on Reddit. Across
@@ -100,9 +159,10 @@ four instruments the pre-filing period is close to empty — NYT is zero in 63% 
 months more than six months before the S-1, and an earlier pass over 1,004,502
 Hacker News items found meaningful discussion for 1 of 166 candidates.
 
-That is a real finding, and it is also nearly a tautology: attention rises when a
-company starts trading. The question with content was the run-up, and that is
-where every instrument is weakest.
+So the effect is real and it replicates across corpora. It is also close to a
+tautology: attention rises when a company starts trading. The question with
+actual content is whether attention moves *before* that — and the answer there is
+no, which is the next section.
 
 ### No detectable leakage during the confidential window
 
@@ -123,7 +183,7 @@ more famous — which is plausibly *why* it filed.
 
 ---
 
-## Underpricing: a null, and a lesson about small samples
+## Underpricing: two nulls, and why the literature disagrees
 
 Does pre-listing attention predict first-day underpricing? Following Da,
 Engelberg & Gao (2011), attention is measured **strictly before the offer price
@@ -148,9 +208,83 @@ is that this design cannot tell the difference. Detecting ρ = 0.28 at 80% power
 needs **n ≈ 97**. Deal size correlates at only +0.11, so whatever signal exists
 is not merely company size.
 
-A follow-on study is in progress that switches the treatment from pageview
-*levels* to article *existence*, which is determinable for every company and
-lifts the eligible population to 1,169.
+### And the same question with a bigger sample says nothing at all
+
+A follow-on study switches the treatment from pageview *levels* to article
+*existence*, which is determinable for every company and lifts the eligible
+population to 1,169. That removes the sample-size objection — and the answer gets
+*weaker*, not stronger.
+
+At 224 of a planned 500 (collection is paced against Tiingo's hourly allocation):
+
+| group | n | median underpricing |
+|---|---|---|
+| had a Wikipedia article before filing | 43 | 12.6% |
+| no prior article | 181 | 10.7% |
+
+Mann-Whitney **p = 0.84**, rank-biserial **−0.02**. The 1.9-point median gap is
+noise, and inside deal-size strata the sign does not even hold: +15.8pp in
+$50–200M, −0.3pp in $200M–1B, −11.1pp above $1B.
+
+So two different operationalisations of "Wikipedia attention" disagree about the
+*direction* of any effect — pageview levels lean positive but cannot exclude
+zero, article existence is flat.
+
+### The published literature finds the effect, and its design is better than mine
+
+*Investor Awareness or Information Asymmetry? Wikipedia and IPO Underpricing*
+(The Financial Review, 10.1111/fire.12276) tests exactly the question above on
+**974 US IPOs, 2006–2016**, of which **330 (34%)** had a pre-IPO Wikipedia
+article, and finds that firms with an article show **significantly higher
+underpricing and offer price revisions**. It survives controls for Google search
+volume, news coverage, retail trading intensity, social media activity,
+propensity score matching and an instrumental variable. Underpricing is defined
+identically to the measure used here — offer price to first close.
+
+**The disagreement is a design gap, not a contradiction, and my design is the
+weaker one.** Four differences, in descending order of how much they matter:
+
+**1. My treatment variable is too narrow, which biases toward zero.** The paper's
+Exhibit A assigns an article to an IPO when it is titled with the firm, its
+*parent*, a *major subsidiary*, a *predecessor*, a company it *separated from*,
+**or its core product or service** — with manual verification. Examples they
+count: Hertz Global Holdings → "The Hertz Corporation", NYMEX Holdings → "New
+York Mercantile Exchange", Neurometrix → "Quell" (its product), Intersections →
+"Identity Guard" (its service).
+
+My resolver attempts **only the firm's own name** and then rejects anything
+Wikidata does not type as an organisation. It therefore discarded at least four
+cases the paper would count: GitLab (article typed as software), Couchbase
+("Couchbase Server"), Verve Therapeutics ("Verve PCSK9-inhibitor"), Olaplex
+("brand"). It never even attempts parent, subsidiary or predecessor titles, so
+the false-negative count is **bounded below by 4 and unmeasured above**.
+Misclassifying treated firms as controls attenuates a binary treatment effect
+toward zero — which was flagged as a known conservative bias when the resolver
+was built, and is the most likely reason this study sees nothing.
+
+My article rate is **22%** against their **34%**, consistent with that.
+
+**2. No controls.** They run OLS with controls, PSM and IV. This runs a raw
+Mann-Whitney plus a crude split by deal-size bucket. A raw rank test on an
+unbalanced sample can easily miss what a controlled regression finds.
+
+**3. Different era.** 2006–2016 versus 2019–2026. More than half of this period's
+priced listings are SPACs, excluded here by necessity; the 2021 bubble is a
+third of the remainder.
+
+**4. Endogeneity is worse now.** 316 of their 330 articles (96%) predate SEC
+registration, and they show few are created near the S-1. Only 75% of the
+articles found here predate listing minus 90 days — articles get created *at*
+IPO time far more often in this period, which is why the cutoff exists.
+
+**So the honest reading is that this project's null is a failure of its own
+measurement, not evidence against the effect.** Two things to note, though: the
+paper's own evidence for the *information asymmetry* channel is weak — integer
+offer prices and the share of numbers in Wikipedia articles are both
+insignificant — so the mechanism it supports is investor **awareness**. And
+fixing the resolver here is a real, bounded piece of work: implement the
+remaining five matching rules and hand-verify, which is what would make this
+sample comparable.
 
 ---
 
@@ -440,13 +574,20 @@ The study is a separate track, not a phase of the platform:
 | R4 | EDGAR event timeline (DRS, Form D, comment letters) | done |
 | R5 | Attention: Wikipedia, NYT, X and Reddit windows | done |
 | R6 | Underpricing vs abnormal attention | done — a null at n=35 |
-| R7 | Notability (article existence) vs underpricing, n≈500 | **prices collecting** |
+| R7 | Notability (article existence) vs underpricing, n≈500 | **prices collecting** — flat at n=224, p = 0.84 |
+| R7b | Widen the article resolver to the published matching rules | not started — the likely cause of R7's null |
 | R8 | Withdrawn-company control group | not started |
 
-R8 is the highest-value work outstanding: 431 withdrawn issuers are already in
-the census and Wikipedia is keyless and unmetered, so it costs nothing but time
-and it is what would turn the leakage null from "not detected" into "tested
-against a control".
+R8 is the highest-value work outstanding for the attention question: 431
+withdrawn issuers are already in the census and Wikipedia is keyless and
+unmetered, so it costs nothing but time and it is what would turn the leakage
+null from "not detected" into "tested against a control".
+
+R7b matters more for the underpricing question. The published result on this
+exact question uses six article-matching rules (firm, parent, subsidiary,
+predecessor, separated-from, core product) with manual verification; this
+resolver attempts only the firm's own name, which discards known-treated firms
+and pushes a binary treatment effect toward zero.
 
 ---
 

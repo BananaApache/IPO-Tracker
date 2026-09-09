@@ -52,6 +52,7 @@ def main() -> int:
     logger.info("per-company panel: %s", company)
 
     jobs = [
+        ("abnormal-attention", lambda: figures.plot_abnormal_attention()),
         ("cohort-comparison", lambda: figures.plot_cohort_comparison()),
         ("company-panels", lambda: figures.plot_company(company)),
         ("relative-time-drs", lambda: figures.plot_relative_time(

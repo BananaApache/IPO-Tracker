@@ -71,7 +71,45 @@ FIG_POST = FIGURES / "post_listing.parquet"
 FIG_WINDOWS = FIGURES / "twitter_windows.parquet"
 FIG_REDDIT_WINDOWS = FIGURES / "reddit_windows.parquet"
 FIG_UNDERPRICING = FIGURES / "underpricing.parquet"
+FIG_ABNORMAL = FIGURES / "abnormal_attention.parquet"
 FIG_MANIFEST = FIGURES / "manifest.json"
+
+
+def _sign_test(successes: int, n: int) -> float:
+    """Exact two-sided binomial sign test against p=0.5.
+
+    Hand-rolled with `math.comb` so the module keeps its only statistical
+    dependency on the stdlib -- the same reason `_mann_whitney` and
+    `_ols_cluster` in `collect.notability` are hand-rolled. Exact rather than
+    normal-approximated because n here is 11 to 27, where the approximation is
+    not trustworthy.
+    """
+    from math import comb
+
+    if n <= 0:
+        return float("nan")
+    tail = sum(comb(n, k) for k in range(successes, n + 1)) / 2 ** n
+    return min(1.0, 2 * tail)
+
+
+def read_frame(path, *required: str) -> pd.DataFrame:
+    """Read a figure frame, refusing one that predates the current schema.
+
+    A Jupyter kernel holding a stale `research.figures` can rebuild a frame with
+    old code and overwrite a wide parquet with a narrow one; that happened once
+    and the plot failed far from the cause with a bare KeyError. Naming the
+    columns a plot needs turns that into a message that says what to re-run.
+    """
+    if not path.exists():
+        raise FileNotFoundError(
+            f"{path.name} has not been built. Run research.figures.build_frames().")
+    df = pd.read_parquet(path)
+    missing = [c for c in required if c not in df.columns]
+    if missing:
+        raise KeyError(
+            f"{path.name} is missing {missing} -- it was written by an older "
+            f"version of build_frames(). Restart the kernel and rebuild.")
+    return df
 
 
 def _style() -> None:
@@ -521,6 +559,85 @@ def build_underpricing_frame() -> pd.DataFrame:
     return df
 
 
+def build_abnormal_attention_frame() -> pd.DataFrame:
+    """Figure 6: abnormal Wikipedia attention in the listing month.
+
+    The construction is Da/Engelberg/Gao (2011): an event-window value divided
+    by the company's **own** prior baseline, so a company is only ever compared
+    against itself. Cross-company levels are meaningless here -- SpaceX draws
+    81,000 views a month before anyone files anything -- and a ratio to own
+    baseline is the only form in which the 27 companies are comparable.
+
+    Two choices that decide the result, both fixed before it was computed:
+
+      * The baseline is the **median** of months -13..-2 relative to the S-1,
+        and it ends a full month *before* the public filing. A mean baseline
+        would absorb the very spike being measured whenever a company leaked
+        early; ending at -2 keeps filing-week coverage out of the denominator.
+      * Only ``views_valid`` months count, so a month before the article existed
+        is absent rather than zero. That gate is what stops "the article was
+        created at the IPO" from being read as "attention rose at the IPO".
+
+    ``baseline_reliable`` flags the case this frame cannot fix. Pageview history
+    follows the *title*, not the article, so a company whose page was moved to
+    its current title late reads with an implausibly small denominator: Peloton
+    shows 3 views/month before its filing because the traffic of that era sits
+    under the old title. Such rows inflate the ratio, so the README reports the
+    result at a ladder of baseline floors and the figure marks them.
+    """
+    from research.collect.edgar_events import EVENTS_PARQUET
+
+    wiki = pd.read_parquet(WIKI_PARQUET)
+    wiki = wiki[wiki["views_valid"].notna()].copy()
+    wiki["month_start"] = pd.PeriodIndex(wiki["month"], freq="M").to_timestamp()
+
+    ev = pd.read_parquet(EVENTS_PARQUET)[["company", "s1_first", "pricing_first",
+                                          "drs_first"]]
+    for src, dst in (("s1_first", "s1_date"), ("pricing_first", "listing_date"),
+                     ("drs_first", "drs_date")):
+        ev[dst] = pd.to_datetime(ev[src], errors="coerce")
+    wiki = wiki.merge(ev[["company", "s1_date", "listing_date", "drs_date"]],
+                      on="company", how="inner", validate="many_to_one")
+
+    rows = []
+    for company, grp in wiki.groupby("company", sort=True):
+        s1 = grp["s1_date"].iloc[0]
+        listing = grp["listing_date"].iloc[0]
+        if pd.isna(s1) or pd.isna(listing):
+            continue
+        base = grp[(grp["month_start"] < s1 - pd.DateOffset(months=1))
+                   & (grp["month_start"] >= s1 - pd.DateOffset(months=13))]
+        event = grp[grp["month_start"]
+                    == listing.to_period("M").to_timestamp()]["views_valid"]
+        # Six valid baseline months is the floor for a median worth dividing by.
+        if len(base) < 6 or event.empty:
+            continue
+        baseline = float(base["views_valid"].median())
+        listing_views = float(event.iloc[0])
+        rows.append({
+            "company": company,
+            "title": grp["title"].iloc[0],
+            "s1_date": s1,
+            "listing_date": listing,
+            "drs_date": grp["drs_date"].iloc[0],
+            "baseline_median_views": baseline,
+            "baseline_months": int(len(base)),
+            "listing_month_views": listing_views,
+            # clip(1) only guards a zero denominator; every retained row has a
+            # positive baseline, so it never silently rescales a real ratio.
+            "abnormal_ratio": round(listing_views / max(baseline, 1.0), 4),
+            "rose": bool(listing_views > baseline),
+            "baseline_reliable": bool(baseline >= 500),
+            "title_history_inherited": bool(
+                grp["title_history_inherited"].iloc[0]),
+        })
+
+    df = pd.DataFrame(rows).sort_values("abnormal_ratio", ascending=False)
+    df = df.reset_index(drop=True)
+    df.to_parquet(FIG_ABNORMAL, index=False)
+    return df
+
+
 def build_frames() -> dict[str, int]:
     """Build every figure frame and record what went into them."""
     ensure_dirs()
@@ -532,6 +649,7 @@ def build_frames() -> dict[str, int]:
         "company_panels": len(build_panel_frame()),
         "relative_time": len(build_relative_frame()),
         "post_listing": len(build_post_listing_frame()),
+        "abnormal_attention": len(build_abnormal_attention_frame()),
     }
     FIG_MANIFEST.write_text(json.dumps({
         "built_at": pd.Timestamp.now(tz="UTC").isoformat(),
@@ -1042,6 +1160,71 @@ def plot_underpricing():
         f"significance. This is underpowered by construction — see the README.",
     ]
     fig.text(0.01, -0.19, "\n".join(caption), fontsize=8, color=INK_SOFT,
+             ha="left", linespacing=1.5)
+    fig.tight_layout()
+    return fig
+
+
+def plot_abnormal_attention():
+    """Figure 6 -- the effect, one bar per company, ranked.
+
+    A ranked bar chart rather than a scatter or a distribution: the claim is
+    *unanimity*, and unanimity is a property you can only read off a chart where
+    every company appears individually and the null sits on a single line. A box
+    plot of the same numbers would show a median above 1 while hiding whether
+    any company fell below it.
+
+    The x-axis is log-scaled because the ratios span 1.15x to 22x. On a linear
+    axis Snowflake compresses the other 26 companies into the left margin, and
+    the question is not who is largest -- it is whether anyone is below 1.0.
+    """
+    _style()
+    df = read_frame(FIG_ABNORMAL, "company", "abnormal_ratio", "rose",
+                    "baseline_reliable")
+    df = df.sort_values("abnormal_ratio")
+
+    fig, ax = plt.subplots(figsize=(9, 8.2))
+    y = range(len(df))
+    # Orange marks the rows whose denominator the frame distrusts (pageview
+    # history follows the title, not the article). They are drawn, not dropped:
+    # the result holds without them and the reader should be able to see that.
+    colors = [BLUE if ok else ORANGE for ok in df["baseline_reliable"]]
+    ax.barh(list(y), df["abnormal_ratio"], color=colors, height=0.72)
+
+    ax.axvline(1.0, color=INK, linewidth=1.1, zorder=3)
+    ax.text(1.02, len(df) - 0.4, "no change", fontsize=8, color=INK,
+            ha="left", va="top")
+
+    ax.set_yticks(list(y))
+    ax.set_yticklabels(df["company"], fontsize=8)
+    ax.set_xscale("log")
+    ax.set_xlim(0.9, 30)
+    ax.set_xticks([1, 2, 3, 5, 10, 20])
+    ax.set_xticklabels(["1x", "2x", "3x", "5x", "10x", "20x"])
+    ax.set_xlabel("listing-month pageviews / own pre-filing baseline (log scale)")
+    ax.set_title("Figure 6 — abnormal Wikipedia attention in the listing month",
+                 loc="left")
+    ax.xaxis.grid(True)
+    ax.set_axisbelow(True)
+
+    n = len(df)
+    rose = int(df["rose"].sum())
+    reliable = df[df["baseline_reliable"]]
+    caption = [
+        f"n={n} companies with >= 6 valid baseline months. "
+        f"{rose}/{n} rose. Sign test p={_sign_test(rose, n):.1e}.",
+        f"Median {df['abnormal_ratio'].median():.2f}x "
+        f"(IQR {df['abnormal_ratio'].quantile(0.25):.2f}x–"
+        f"{df['abnormal_ratio'].quantile(0.75):.2f}x). Restricted to the "
+        f"{len(reliable)} companies with a baseline of >= 500 views/month "
+        f"(blue), still {int(reliable['rose'].sum())}/{len(reliable)}, "
+        f"median {reliable['abnormal_ratio'].median():.2f}x.",
+        "Baseline is the median of months -13..-2 relative to the public S-1, so "
+        "it ends before the filing and cannot contain the spike it scales.",
+        "Orange = baseline the frame distrusts: the article was moved to its "
+        "current title late, so early traffic sits under the old title.",
+    ]
+    fig.text(0.01, -0.10, "\n".join(caption), fontsize=8, color=INK_SOFT,
              ha="left", linespacing=1.5)
     fig.tight_layout()
     return fig

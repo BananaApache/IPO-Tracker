@@ -1,13 +1,14 @@
 {
-  "built_at": "2026-09-08T23:07:33.078097+00:00",
+  "built_at": "2026-09-09T02:48:36.748043+00:00",
   "rows": {
     "twitter_windows": 25,
     "reddit_windows": 11,
     "underpricing": 38,
-    "cohort_comparison": 15,
+    "cohort_comparison": 28,
     "company_panels": 6581,
     "relative_time": 5017,
-    "post_listing": 1131
+    "post_listing": 1131,
+    "abnormal_attention": 27
   },
   "note": "Plotting reads only these files. Regenerate with the network off."
 }

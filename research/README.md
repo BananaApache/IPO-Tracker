@@ -820,9 +820,18 @@ account-wide, not per-endpoint: `/v1/open-close`, `/v2/aggs/grouped` and
 
 | instrument | usable | rose | test |
 |---|---|---|---|
-| Wikipedia, DRS-anchored | 20 companies | 18/20 into the public window | p < 0.001 |
-| X windows | 20 pairs with direction established | **20/20** | 8/8 exact, p = 0.008 |
+| Wikipedia, listing-month abnormal attention | 27 companies | **27/27** | p = 1.5e-08 |
+| Wikipedia, DRS-anchored windows | 20 companies | 18/20 into the public window | p < 0.001 |
+| X windows | 25 comparable pairs | 20/25 established, **0 reverse** | 8/8 exact, p = 0.008 |
 | Reddit windows | 11 complete pairs | **11/11** | p = 0.001 |
+
+The first row is the strongest form of the result and the one the root README
+leads with: each company's listing-month pageviews over its own median for months
+−13..−2 relative to the S-1, so the baseline ends before the filing. Unanimous,
+and still unanimous at every baseline floor from 0 to 10,000 views/month — the
+ratio falls from 3.08× to 1.85× as noisy denominators drop out, which is the
+direction a small-denominator artifact does not move in. Frame:
+`data/figures/abnormal_attention.parquet`; figure: `plot_abnormal_attention()`.
 
 Three sources with different corpora, different failure modes and different query
 operators all say the listing is the attention event. That convergence is worth
