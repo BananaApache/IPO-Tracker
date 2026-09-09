@@ -1745,5 +1745,136 @@
   "d1_volume": 2055715,
   "calendar_listing_date": "2021-03-23",
   "n_bars": 8
+ },
+ "DTC": {
+  "symbol": "DTC",
+  "bars": [],
+  "note": "no bars returned"
+ },
+ "PYXS": {
+  "symbol": "PYXS",
+  "first_trade_date": "2021-10-08",
+  "d1_open": 19.0,
+  "d1_close": 13.2,
+  "d1_volume": 4247985,
+  "calendar_listing_date": "2021-10-08",
+  "n_bars": 7
+ },
+ "ANTA": {
+  "symbol": "ANTA",
+  "first_trade_date": "2025-05-13",
+  "d1_open": 12.8,
+  "d1_close": 12.8,
+  "d1_volume": 0,
+  "calendar_listing_date": "2025-05-14",
+  "n_bars": 9
+ },
+ "IMNM": {
+  "symbol": "IMNM",
+  "first_trade_date": "2020-10-02",
+  "d1_open": 15.66,
+  "d1_close": 13.45,
+  "d1_volume": 508693,
+  "calendar_listing_date": "2020-10-02",
+  "n_bars": 7
+ },
+ "ZIP": {
+  "symbol": "ZIP",
+  "first_trade_date": "2021-05-26",
+  "d1_open": 20.0,
+  "d1_close": 21.1,
+  "d1_volume": 16606297,
+  "calendar_listing_date": "2021-05-26",
+  "n_bars": 7
+ },
+ "BZ": {
+  "symbol": "BZ",
+  "first_trade_date": "2021-06-11",
+  "d1_open": 33.5,
+  "d1_close": 37.2,
+  "d1_volume": 16812432,
+  "calendar_listing_date": "2021-06-11",
+  "n_bars": 7
+ },
+ "NTST": {
+  "symbol": "NTST",
+  "first_trade_date": "2020-08-13",
+  "d1_open": 18.0,
+  "d1_close": 17.75,
+  "d1_volume": 4357453,
+  "calendar_listing_date": "2020-08-13",
+  "n_bars": 7
+ },
+ "ONEW": {
+  "symbol": "ONEW",
+  "first_trade_date": "2020-02-07",
+  "d1_open": 15.02,
+  "d1_close": 15.14,
+  "d1_volume": 1431044,
+  "calendar_listing_date": "2020-02-07",
+  "n_bars": 6
+ },
+ "ASIC": {
+  "symbol": "ASIC",
+  "first_trade_date": "2025-06-11",
+  "d1_open": 23.65,
+  "d1_close": 24.68,
+  "d1_volume": 3079277,
+  "calendar_listing_date": "2025-06-11",
+  "n_bars": 7
+ },
+ "KRUS": {
+  "symbol": "KRUS",
+  "first_trade_date": "2019-08-01",
+  "d1_open": 14.89,
+  "d1_close": 19.61,
+  "d1_volume": 1854199,
+  "calendar_listing_date": "2019-08-01",
+  "n_bars": 7
+ },
+ "IBTA": {
+  "symbol": "IBTA",
+  "first_trade_date": "2024-04-18",
+  "d1_open": 117.0,
+  "d1_close": 103.25,
+  "d1_volume": 4177215,
+  "calendar_listing_date": "2024-04-18",
+  "n_bars": 7
+ },
+ "SNDL": {
+  "symbol": "SNDL",
+  "first_trade_date": "2019-08-01",
+  "d1_open": 13.02,
+  "d1_close": 8.48,
+  "d1_volume": 9314399,
+  "calendar_listing_date": "2019-08-01",
+  "n_bars": 7
+ },
+ "ROOT": {
+  "symbol": "ROOT",
+  "first_trade_date": "2020-10-28",
+  "d1_open": 26.0,
+  "d1_close": 27.0,
+  "d1_volume": 15889977,
+  "calendar_listing_date": "2020-10-28",
+  "n_bars": 8
+ },
+ "IHS": {
+  "symbol": "IHS",
+  "first_trade_date": "2021-10-14",
+  "d1_open": 17.65,
+  "d1_close": 17.0,
+  "d1_volume": 10701961,
+  "calendar_listing_date": "2021-10-14",
+  "n_bars": 7
+ },
+ "RENT": {
+  "symbol": "RENT",
+  "first_trade_date": "2021-10-27",
+  "d1_open": 23.0,
+  "d1_close": 19.29,
+  "d1_volume": 9179064,
+  "calendar_listing_date": "2021-10-27",
+  "n_bars": 8
  }
 }
