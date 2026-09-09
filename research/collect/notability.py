@@ -651,6 +651,14 @@ async def collect_prices(*, batch: int = 0, per_hour: int = TIINGO_PER_HOUR,
                              "tiingo_start": (meta or {}).get("startDate"),
                              "calendar_listing_date": listing.isoformat()}
                 fetched += 1
+                # Flushed here too. This branch counts as a fetch and costs up
+                # to two calls, and on the 2006-2016 cohort it is the COMMON
+                # case, not the rare one -- ticker reuse and renames are
+                # everywhere. Falling through to the flush below only on a
+                # successful fetch meant a long run of reused tickers persisted
+                # nothing until the next hit, so an interrupted run re-spent an
+                # hour of quota rediagnosing symbols it had already diagnosed.
+                paths["prices"].write_text(json.dumps(have, indent=1) + "\n")
                 logger.info("%-24s %s: %s", row["name"][:24], sym, note[:60])
                 continue
             bars = sorted(bars, key=lambda b: b["date"])
