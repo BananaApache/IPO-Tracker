@@ -1,0 +1,47 @@
+{
+ "CNVO": {
+  "symbol": "CNVO",
+  "bars": [],
+  "note": "no bars in the requested window",
+  "tiingo_name": "Convio Inc",
+  "tiingo_start": null,
+  "tiingo_end": null,
+  "calendar_listing_date": "2010-04-29"
+ },
+ "MPG": {
+  "symbol": "MPG",
+  "bars": [],
+  "note": "ticker now held by an entity trading only from 2025-10-27 (LEVERAGE SHARES 2X LONG MP DAILY ETF ) -- rename or symbol reuse",
+  "tiingo_name": "LEVERAGE SHARES 2X LONG MP DAILY ETF ",
+  "tiingo_start": "2025-10-27",
+  "tiingo_end": "2026-09-09",
+  "calendar_listing_date": "2014-12-12"
+ },
+ "MOMO": {
+  "symbol": "MOMO",
+  "first_trade_date": "2014-12-15",
+  "d1_open": 15.21,
+  "d1_close": 14.46,
+  "d1_volume": 2894916,
+  "calendar_listing_date": "2014-12-11",
+  "n_bars": 5
+ },
+ "TRLA": {
+  "symbol": "TRLA",
+  "first_trade_date": "2012-09-20",
+  "d1_open": 22.1,
+  "d1_close": 24.0,
+  "d1_volume": 11034100,
+  "calendar_listing_date": "2012-09-20",
+  "n_bars": 7
+ },
+ "SGM": {
+  "symbol": "SGM",
+  "first_trade_date": "2013-10-10",
+  "d1_open": 17.18,
+  "d1_close": 18.25,
+  "d1_volume": 3568700,
+  "calendar_listing_date": "2013-10-10",
+  "n_bars": 7
+ }
+}

@@ -807,6 +807,18 @@ def build(*, cutoff_days: int = CUTOFF_DAYS, cohort: str = "recent"):
     logger.info("notability[%s]: treatment from %s", cohort, arts_path.name)
     prices = (json.loads(paths["prices"].read_text())
               if paths["prices"].exists() else {})
+    # The paper's stub rule, measured on the revision as of the cutoff date
+    # rather than today's article. Optional: absent, treatment falls back to
+    # creation date alone and the log says so.
+    sfx_al = "" if cohort == "recent" else f"_{cohort}"
+    at_listing_path = RAW_NOTABILITY / f"article_at_listing{sfx_al}.json"
+    at_listing = (json.loads(at_listing_path.read_text())["companies"]
+                  if at_listing_path.exists() else {})
+    if not at_listing:
+        logger.warning("notability[%s]: no %s -- treatment rests on the article's "
+                       "creation date alone, so a page that was a REDIRECT at the "
+                       "cutoff still counts. Run --check-at-listing.",
+                       cohort, at_listing_path.name)
 
     rows = []
     for _, r in sample.iterrows():
@@ -817,6 +829,15 @@ def build(*, cutoff_days: int = CUTOFF_DAYS, cohort: str = "recent"):
         cutoff = listing - pd.Timedelta(days=cutoff_days)
         has = bool(art.get("has_article"))
         pre_existing = bool(has and pd.notna(created) and created <= cutoff)
+        # Creation date says a page existed; it does not say the page was an
+        # article. Bullish's title was a redirect at its cutoff date. The paper
+        # zeroes exactly this case (their Allot Communications example), so a
+        # firm failing the stub rule leaves treatment even though its creation
+        # date qualifies.
+        al = at_listing.get(r["name"])
+        stub_ok = None if al is None else bool(al.get("passes_stub_rule"))
+        if pre_existing and stub_ok is False:
+            pre_existing = False
         d1_close, offer = px.get("d1_close"), float(r["offer_price"])
         rows.append({
             "company": r["name"], "symbol": r["symbol"],
@@ -836,7 +857,14 @@ def build(*, cutoff_days: int = CUTOFF_DAYS, cohort: str = "recent"):
             # The treatment variable. `has_article` alone would count an article
             # created BY the IPO as prior notability.
             "notable_pre_ipo": pre_existing,
-            "article_after_cutoff": bool(has and not pre_existing),
+            "article_after_cutoff": bool(has and pd.notna(created)
+                                         and created > cutoff),
+            # The stub rule's own columns, so its cost is auditable rather than
+            # folded invisibly into the indicator.
+            "stub_rule_checked": stub_ok is not None,
+            "passes_stub_rule": stub_ok,
+            "words_at_cutoff": (al or {}).get("words"),
+            "redirect_at_cutoff": (al or {}).get("is_redirect"),
         })
     df = pd.DataFrame(rows)
     df.to_parquet(paths["out"], index=False)
@@ -902,6 +930,9 @@ async def _amain() -> int:
     ap.add_argument("--resolve-products", action="store_true",
                     help="rule (6): probe redirects out of each untreated firm's "
                          "own name for a product/service article (review only)")
+    ap.add_argument("--check-at-listing", action="store_true",
+                    help="the paper's stub rule evaluated on the revision as of "
+                         "the cutoff date, not today's article")
     ap.add_argument("--merge", action="store_true",
                     help="union the resolvers and apply reviewed relation verdicts")
     ap.add_argument("--refetch", action="store_true")
@@ -938,6 +969,9 @@ async def _amain() -> int:
                                         cutoff_days=args.cutoff_days, **ck)
     if args.merge:
         merge_resolvers(args.cohort)
+    if args.check_at_listing:
+        await check_article_at_listing(
+            refetch=args.refetch, cutoff_days=args.cutoff_days, **ck)
     if args.prices:
         await collect_prices(batch=args.batch, per_hour=args.per_hour, **ck)
     if args.analyse:
@@ -948,8 +982,8 @@ async def _amain() -> int:
     if args.build and not (args.analyse or args.regress):
         build(cutoff_days=args.cutoff_days, **ck)
     if not any((args.sample, args.resolve, args.resolve_extended, args.merge,
-                args.resolve_products, args.prices, args.build, args.analyse,
-                args.regress)):
+                args.resolve_products, args.check_at_listing, args.prices,
+                args.build, args.analyse, args.regress)):
         ap.print_help()
     return 0
 
@@ -1893,6 +1927,166 @@ async def resolve_articles_products(*, refetch: bool = False,
                         for c in v["candidates"]))
     logger.info("products[%s]: %d companies with a candidate, %d passing both "
                 "gates -> %s", cohort, len(out), strong, out_path.name)
+    return blob
+
+
+# --------------------------------------------------------------------------
+# the paper's stub rule, evaluated AS OF the cutoff date rather than today
+# --------------------------------------------------------------------------
+
+
+def _wikitext_words(text: str) -> int:
+    """Rough main-body word count for a wikitext revision.
+
+    Deliberately crude and deliberately generous: templates, refs, tables and
+    file links are stripped, and what is left is counted. The gate it feeds is
+    30 words, so the question is only ever "is this a stub or a real article",
+    which does not need a parser. Being generous keeps the rule conservative --
+    it errs toward KEEPING a firm in treatment, which is the direction that
+    works against the hypothesis.
+    """
+    t = text or ""
+    t = re.sub(r"<ref[^>]*>.*?</ref>", " ", t, flags=re.S | re.I)
+    t = re.sub(r"<ref[^>]*/>", " ", t, flags=re.I)
+    t = re.sub(r"<!--.*?-->", " ", t, flags=re.S)
+    t = re.sub(r"\{\|.*?\|\}", " ", t, flags=re.S)        # tables
+    t = re.sub(r"\{\{[^{}]*\}\}", " ", t)                 # templates, one pass
+    t = re.sub(r"\{\{[^{}]*\}\}", " ", t)                 # nested, one more
+    t = re.sub(r"\[\[(?:File|Image|Category):[^\]]*\]\]", " ", t, flags=re.I)
+    t = re.sub(r"\[\[[^\]|]*\|([^\]]*)\]\]", r"\1", t)   # piped links -> label
+    t = re.sub(r"\[\[([^\]]*)\]\]", r"\1", t)
+    t = re.sub(r"</?[^>]+>", " ", t)
+    t = re.sub(r"^[=*#:;].*$", " ", t, flags=re.M)         # headings, list markup
+    t = re.sub(r"'{2,}", "", t)
+    return len(re.findall(r"[A-Za-z0-9'\u2019-]+", t))
+
+
+IS_REDIRECT = re.compile(r"^\s*#\s*redirect", re.I)
+
+
+async def check_article_at_listing(*, refetch: bool = False,
+                                   cohort: str = "recent",
+                                   cutoff_days: int = CUTOFF_DAYS) -> dict:
+    """Was the article a real article on the date treatment claims it was?
+
+    The paper's Exhibit A: "For firms with a Wikipedia article prior to the
+    first-trading day lacking content or with less than 30 words in the main
+    body, we set the Wikipedia indicator equal to zero." Their example is Allot
+    Communications -- article created 2005-12-09, IPO 2006-11-15, but the page
+    was a **redirect to "Allotment"** and got no real revision until 2007-09-17.
+    Creation date alone would have scored it treated.
+
+    Until now this module checked the word count of the article as it stands
+    **today**, which is the wrong revision by up to twenty years. An article that
+    is 4,000 words now may have been a one-line stub at the IPO.
+
+    Measured at the **cutoff date** (listing minus `cutoff_days`), not the
+    listing date the paper uses. That is this module's own, stricter claim: the
+    treatment indicator asserts a substantive article existed that long before
+    trading, so that is the date the assertion should be tested on. Recorded per
+    firm rather than folded silently into the indicator, so the cost of the rule
+    is visible.
+    """
+    import pandas as pd
+
+    from backend.http import RetryingClient
+    from research.collect.config import get_research_settings
+
+    ensure_dirs()
+    RAW_NOTABILITY.mkdir(parents=True, exist_ok=True)
+    paths = cohort_paths(cohort)
+    sfx = "" if cohort == "recent" else f"_{cohort}"
+    out_path = RAW_NOTABILITY / f"article_at_listing{sfx}.json"
+    if out_path.exists() and not refetch:
+        logger.info("at-listing: using cached %s", out_path.name)
+        return json.loads(out_path.read_text())
+    if not paths["union"].exists():
+        raise SystemExit(f"run --merge for cohort {cohort!r} first")
+
+    union = json.loads(paths["union"].read_text())["companies"]
+    sample = pd.read_parquet(paths["sample"])
+    listed = {r["name"]: pd.to_datetime(r["listing_date"], errors="coerce")
+              for _, r in sample.iterrows()}
+
+    todo = [(n, v["title"], listed.get(n)) for n, v in union.items()
+            if v.get("has_article") and v.get("title")
+            and pd.notna(listed.get(n))]
+    logger.info("at-listing[%s]: %d firms with an article to date-check",
+                cohort, len(todo))
+
+    settings = get_research_settings()
+    client = RetryingClient(user_agent=settings.sec_user_agent, per_second=4.0,
+                            max_retries=3, base_backoff=3.0)
+    out: dict[str, dict] = {}
+    try:
+        for i, (name, title, listing) in enumerate(todo, 1):
+            asof = (listing - timedelta(days=cutoff_days)).date().isoformat()
+            try:
+                # rvdir=older with rvstart gives the LAST revision at or before
+                # that instant -- the article as a reader saw it then.
+                payload = await client.get_json(WIKI_API, params={
+                    "action": "query", "prop": "revisions", "titles": title,
+                    "rvlimit": 1, "rvdir": "older",
+                    "rvstart": f"{asof}T23:59:59Z",
+                    "rvprop": "timestamp|ids|size|content",
+                    "rvslots": "main", "format": "json"})
+            except Exception as exc:
+                logger.warning("at-listing: %s failed: %s", title,
+                               type(exc).__name__)
+                continue
+            page = next(iter((payload.get("query") or {})
+                             .get("pages", {}).values()), {})
+            revs = page.get("revisions") or []
+            if not revs:
+                # No revision at or before the cutoff: the article did not exist
+                # yet. The creation-date gate should already have caught this;
+                # recorded so a disagreement between the two is visible.
+                out[name] = {"company": name, "title": title, "asof": asof,
+                             "existed": False, "words": 0, "bytes": 0,
+                             "is_redirect": False,
+                             "passes_stub_rule": False,
+                             "note": "no revision at or before the cutoff date"}
+            else:
+                rev = revs[0]
+                text = (((rev.get("slots") or {}).get("main") or {})
+                        .get("*")) or rev.get("*") or ""
+                redirect = bool(IS_REDIRECT.match(text))
+                words = 0 if redirect else _wikitext_words(text)
+                out[name] = {
+                    "company": name, "title": title, "asof": asof,
+                    "existed": True,
+                    "revision_timestamp": rev.get("timestamp"),
+                    "revid": rev.get("revid"),
+                    "bytes": rev.get("size"),
+                    "words": words,
+                    "is_redirect": redirect,
+                    "passes_stub_rule": (not redirect
+                                         and words >= MIN_ARTICLE_WORDS),
+                    "note": ("redirect page at the cutoff date" if redirect
+                             else None),
+                }
+            if i % 25 == 0:
+                logger.info("at-listing: %d/%d", i, len(todo))
+    finally:
+        await client.aclose()
+
+    fails = [v for v in out.values() if not v["passes_stub_rule"]]
+    blob = {
+        "checked_at": datetime.now(UTC).isoformat(),
+        "cohort": cohort,
+        "cutoff_days": cutoff_days,
+        "min_words": MIN_ARTICLE_WORDS,
+        "method": ("last revision at or before listing minus cutoff_days; "
+                   "redirects and bodies under min_words fail the paper's "
+                   "stub rule"),
+        "n_checked": len(out),
+        "n_failing_stub_rule": len(fails),
+        "companies": out,
+    }
+    out_path.write_text(json.dumps(blob, indent=1) + "\n")
+    logger.info("at-listing[%s]: %d checked, %d fail the stub rule "
+                "(%d redirects) -> %s", cohort, len(out), len(fails),
+                sum(1 for v in fails if v.get("is_redirect")), out_path.name)
     return blob
 
 
