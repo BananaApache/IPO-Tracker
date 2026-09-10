@@ -1,7 +1,11 @@
 {
   "registered_at": "2026-09-09T02:16:53.756964+00:00",
-  "amended_at": "2026-09-10T02:09:34.740035+00:00",
-  "amendment": "Corrected two factual claims about the published study after reading its internet appendix: the clustering it uses for underpricing, and its control set. Neither changes the estimand, the treatment definition or the primary estimate.",
+  "amended_at": "2026-09-10T02:20:28.706450+00:00",
+  "amendments": [
+    "Corrected two factual claims about the published study after reading its internet appendix: the clustering it uses for underpricing, and its control set.",
+    "Added the paper's stub rule, evaluated on the article revision as of the cutoff date rather than today's article.",
+    "Added a day-1 exactness restriction: the dependent variable is offer-to-first-close, so rows whose earliest available bar is not the listing day are excluded. Dates only, blind to outcome and treatment."
+  ],
   "spec": {
     "dependent": "underpricing = d1_close / offer_price - 1",
     "treatment": "notable_pre_ipo (1 if a Wikipedia article existed before listing minus CUTOFF_DAYS, else 0)",
@@ -14,6 +18,7 @@
     "standard_errors": "clustered by offering year-quarter (one-way). The published study clusters two-way by Fama-French 48 industry and year for underpricing; industry is unavailable here, so this does NOT match and the standard errors are not directly comparable",
     "winsorization": "underpricing winsorised at the 1st and 99th percentiles; the raw-sample result is reported alongside, and neither is chosen after the fact",
     "primary_estimate": "the coefficient on notable_pre_ipo",
+    "sample_restriction": "rows where the first available price bar falls on the listing date (day1_gap_days == 0)",
     "one_sided": false,
     "not_reproducible_from_this_data": [
       "offer price revision (no filed ranges join to priced rows)",

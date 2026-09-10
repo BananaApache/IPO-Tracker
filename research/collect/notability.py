@@ -785,6 +785,24 @@ def _mann_whitney(a, b) -> dict:
             "p": float(min(p, 1.0)), "rank_biserial": float(rb)}
 
 
+def _day1_gap(first_trade, listing) -> int | None:
+    """Calendar days between the first bar returned and the census listing date.
+
+    0 means the bar is the listing day. Negative means the ticker was already
+    trading, which in the 2006-2016 cohort usually means symbol reuse rather
+    than an early listing. Positive means the provider's coverage starts after
+    the IPO, so the "day-1" close is really day 2, 3 or later.
+    """
+    import pandas as pd
+
+    if not first_trade or listing is None:
+        return None
+    a, b = pd.to_datetime(first_trade, errors="coerce"), pd.to_datetime(listing, errors="coerce")
+    if pd.isna(a) or pd.isna(b):
+        return None
+    return int((a - b).days)
+
+
 def build(*, cutoff_days: int = CUTOFF_DAYS, cohort: str = "recent"):
     """Join sample + articles + prices into the analysis table.
 
@@ -849,6 +867,16 @@ def build(*, cutoff_days: int = CUTOFF_DAYS, cohort: str = "recent"):
             "d1_open": px.get("d1_open"), "d1_close": d1_close,
             "first_trade_date": px.get("first_trade_date"),
             "underpricing": (d1_close / offer - 1) if d1_close else None,
+            # Whether `d1_close` is genuinely the FIRST trading day's close.
+            # Tiingo's window is listing-5..listing+10 and `bars[0]` is taken
+            # from it, which fails two ways in this era: coverage that starts
+            # late (MOMO listed 2014-12-11, first bar 2014-12-15, so its
+            # "underpricing" is a three-day return) and tickers already trading
+            # before the IPO under a previous owner (bar[0] predates the
+            # listing, and belongs to a different company). Dates only -- this
+            # never looks at underpricing or treatment.
+            "day1_gap_days": _day1_gap(px.get("first_trade_date"),
+                                       r["listing_date"]),
             "opening_pop": (px["d1_open"] / offer - 1) if px.get("d1_open") else None,
             "has_article": has,
             "article_title": art.get("title"),
@@ -946,6 +974,9 @@ async def _amain() -> int:
     ap.add_argument("--regress", action="store_true",
                     help="the pre-registered OLS: treatment plus controls, "
                          "year-quarter clustered SEs")
+    ap.add_argument("--all-day1", action="store_true",
+                    help="keep rows whose first bar is not the listing day "
+                         "(default drops them)")
     ap.add_argument("--no-winsorize", action="store_true",
                     help="report the raw sample instead of 1/99 winsorised")
     ap.add_argument("--cutoff-days", type=int, default=CUTOFF_DAYS,
@@ -978,7 +1009,7 @@ async def _amain() -> int:
         analyse(cutoff_days=args.cutoff_days, **ck)
     if args.regress:
         regress(cohort=args.cohort, winsorize=not args.no_winsorize,
-                cutoff_days=args.cutoff_days)
+                cutoff_days=args.cutoff_days, exact_day1=not args.all_day1)
     if args.build and not (args.analyse or args.regress):
         build(cutoff_days=args.cutoff_days, **ck)
     if not any((args.sample, args.resolve, args.resolve_extended, args.merge,
@@ -1579,6 +1610,16 @@ SPEC = {
                      "the raw-sample result is reported alongside, and neither "
                      "is chosen after the fact",
     "primary_estimate": "the coefficient on notable_pre_ipo",
+    # Amendment. The dependent variable is offer price to FIRST close, so a row
+    # whose first available bar is not the listing day measures a different
+    # quantity: MOMO listed 2014-12-11 and its earliest Tiingo bar is
+    # 2014-12-15, a three-day return. 29 of 456 recent rows were affected, 11 of
+    # them tickers already trading before the IPO under a previous owner. The
+    # filter reads DATES ONLY and is blind to underpricing and to treatment, so
+    # it cannot select on the outcome; the unfiltered sample is reported
+    # alongside via --all-day1.
+    "sample_restriction": "rows where the first available price bar falls on the "
+                          "listing date (day1_gap_days == 0)",
     "one_sided": False,
     "not_reproducible_from_this_data": [
         "offer price revision (no filed ranges join to priced rows)",
@@ -1639,7 +1680,7 @@ def _ols_cluster(y, X, clusters, names):
 
 
 def regress(*, cohort: str = "recent", winsorize: bool = True,
-            cutoff_days: int = CUTOFF_DAYS) -> dict:
+            cutoff_days: int = CUTOFF_DAYS, exact_day1: bool = True) -> dict:
     """The pre-registered specification. Prints a coefficient table.
 
     Reports the conditional estimate alongside the raw group difference, because
@@ -1659,6 +1700,18 @@ def regress(*, cohort: str = "recent", winsorize: bool = True,
 
     d = build(cutoff_days=cutoff_days, cohort=cohort)
     d = d.dropna(subset=["underpricing", "deal_usd", "offer_price"]).copy()
+    # Restrict to rows whose first bar IS the listing day. The dependent
+    # variable is defined as offer price to FIRST close, so a row whose first
+    # available bar is three days late measures a different quantity. Amendment
+    # to the frozen spec, disclosed in the prereg: the filter reads dates only
+    # and is blind to underpricing and to treatment, so it cannot select on the
+    # outcome. `--all-day1` reports the unfiltered sample alongside.
+    n_before = len(d)
+    if exact_day1 and "day1_gap_days" in d.columns:
+        d = d[d["day1_gap_days"] == 0].copy()
+        if len(d) < n_before:
+            print(f"  day-1 filter: dropped {n_before - len(d)} of {n_before} rows "
+                  f"whose first bar was not the listing day")
     d = d[(d["deal_usd"] > 0) & (d["offer_price"] > 0)]
     if len(d) < 30:
         print(f"only {len(d)} usable rows for cohort {cohort!r}; "
