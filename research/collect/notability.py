@@ -985,6 +985,8 @@ async def _amain() -> int:
     ap.add_argument("--per-hour", type=int, default=TIINGO_PER_HOUR)
     ap.add_argument("--build", action="store_true")
     ap.add_argument("--analyse", action="store_true")
+    ap.add_argument("--attrition", action="store_true",
+                    help="who fell out of the sample, and do they differ")
     ap.add_argument("--regress", action="store_true",
                     help="the pre-registered OLS: treatment plus controls, "
                          "year-quarter clustered SEs")
@@ -1019,6 +1021,8 @@ async def _amain() -> int:
             refetch=args.refetch, cutoff_days=args.cutoff_days, **ck)
     if args.prices:
         await collect_prices(batch=args.batch, per_hour=args.per_hour, **ck)
+    if args.attrition:
+        attrition_report(args.cohort, cutoff_days=args.cutoff_days)
     if args.analyse:
         analyse(cutoff_days=args.cutoff_days, **ck)
     if args.regress:
@@ -1028,7 +1032,7 @@ async def _amain() -> int:
         build(cutoff_days=args.cutoff_days, **ck)
     if not any((args.sample, args.resolve, args.resolve_extended, args.merge,
                 args.resolve_products, args.check_at_listing, args.prices,
-                args.build, args.analyse, args.regress)):
+                args.build, args.analyse, args.regress, args.attrition)):
         ap.print_help()
     return 0
 
@@ -2155,6 +2159,81 @@ async def check_article_at_listing(*, refetch: bool = False,
                 "(%d redirects) -> %s", cohort, len(out), len(fails),
                 sum(1 for v in fails if v.get("is_redirect")), out_path.name)
     return blob
+
+
+def attrition_report(cohort: str = "recent", *, cutoff_days: int = CUTOFF_DAYS):
+    """Who fell out of the sample, and are they different from who stayed?
+
+    Every row that never reaches the regression is a chance for the estimate to
+    be biased rather than merely imprecise, and the losses here are not random.
+    In the 2006-2016 cohort the provider 404s companies that no longer exist --
+    Helicos BioSciences (bankrupt 2012) and Global Geophysical Services (Chapter
+    11, 2014) are both simply absent -- so the surviving sample tilts toward
+    firms that made it. That is survivorship bias, and it bites hardest in
+    exactly this window.
+
+    It matters for the coefficient, not just the sample size: if failed firms
+    are both less likely to have had an article and different in underpricing,
+    dropping them moves the estimate in a direction that cannot be signed from
+    the retained data alone. So the comparison is reported rather than assumed
+    away.
+
+    Three exit routes, each counted separately because they mean different
+    things: never fetched (a 404 or a transport failure, uncached), fetched but
+    no bars (real absence at the listing date), and priced but excluded by the
+    day-1 filter.
+    """
+    import numpy as np
+    import pandas as pd
+
+    paths = cohort_paths(cohort)
+    sample = pd.read_parquet(paths["sample"])
+    prices = (json.loads(paths["prices"].read_text())
+              if paths["prices"].exists() else {})
+    df = build(cutoff_days=cutoff_days, cohort=cohort)
+
+    sym = sample["symbol"].astype(str)
+    have_price = {k for k, v in prices.items()
+                  if isinstance(v, dict) and v.get("d1_close") is not None}
+    attempted = set(prices)
+
+    sample = sample.assign(
+        state=np.where(~sym.isin(attempted), "never fetched",
+               np.where(~sym.isin(have_price), "no bars at listing", "priced")))
+    gap = df.set_index("company")["day1_gap_days"].to_dict()
+    sample["state"] = [
+        "dropped by day-1 filter"
+        if st == "priced" and gap.get(nm) not in (0, None) else st
+        for st, nm in zip(sample["state"], sample["name"])]
+
+    treated = set(df[df["notable_pre_ipo"]]["company"])
+    sample["treated"] = sample["name"].isin(treated)
+
+    print(f"=== cohort {cohort}: where the {len(sample)} sampled firms went ===\n")
+    print(f"  {'state':26}{'n':>5}{'share':>8}{'med year':>10}"
+          f"{'med deal $M':>13}{'article %':>11}")
+    print("  " + "-" * 73)
+    for st, g in sample.groupby("state", sort=False):
+        print(f"  {st:26}{len(g):>5}{100*len(g)/len(sample):>7.1f}%"
+              f"{g['year'].median():>10.0f}"
+              f"{g['deal_usd'].median()/1e6:>13.1f}"
+              f"{100*g['treated'].mean():>10.1f}%")
+    kept = sample[sample["state"] == "priced"]
+    lost = sample[sample["state"] != "priced"]
+    if len(lost) and len(kept):
+        print(f"\n  kept {len(kept)} vs lost {len(lost)}:")
+        print(f"    median deal   ${kept['deal_usd'].median()/1e6:,.1f}M vs "
+              f"${lost['deal_usd'].median()/1e6:,.1f}M")
+        print(f"    median year    {kept['year'].median():.0f} vs "
+              f"{lost['year'].median():.0f}")
+        print(f"    article rate   {100*kept['treated'].mean():.1f}% vs "
+              f"{100*lost['treated'].mean():.1f}%")
+        d_art = 100 * (kept["treated"].mean() - lost["treated"].mean())
+        print(f"\n  The article-rate gap is the one that biases the coefficient: "
+              f"{d_art:+.1f}pp.")
+        print("  A large gap means attrition is correlated with treatment, so the "
+              "\n  surviving sample is not a random subset of the cohort.")
+    return sample
 
 
 if __name__ == "__main__":
