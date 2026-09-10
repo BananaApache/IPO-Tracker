@@ -2,731 +2,283 @@
 
 Two things live in this repository:
 
-1. **A research study** on whether attention accumulates around a company
-   *before* it goes public, and whether it predicts anything about the listing.
-   That is the work below, in [`research/`](research/).
-2. **The deployed pipeline** the study grew out of — SEC EDGAR ingestion, entity
+1. **A research study** on whether online attention affects IPO underpricing —
+   in [`research/`](research/) and [`thesis/`](thesis/).
+2. **The deployed pipeline** it grew out of — SEC EDGAR ingestion, entity
    resolution against pre-ticker issuers, a FastAPI backend and a Next.js
-   dashboard. That starts at [The platform](#the-platform).
+   dashboard. Starts at [The platform](#the-platform).
 
-> Neither half is a stock recommender. They measure what was filed, what was
-> said, and what happened next. Nothing here tells you what to buy.
+> Neither half is a stock recommender. Nothing here tells you what to buy.
 
 ---
 
 # The study
 
-**Question.** The deployed pipeline detects an issuer when it files an S-1, so a
-well-known private company is invisible during the years when attention
-supposedly accumulates. This inverts that: start from companies known to have
-listed, measure attention retrospectively, and cross-reference it against
-post-listing price.
+## The question
 
-**Short answer.** Attention does not accumulate before a filing — it is *created*
-by the filing. Public attention multiplies at the listing in **27 of 27**
-companies measured (median 3.1×, p = 1.5 × 10⁻⁸) and replicates on Reddit and X,
-while nothing detectable moves during the years beforehand. Two findings fall out
-of that: the run-up everyone assumes is there is not measurable in any of four
-corpora, and the public S-1 — the event date this project's own deployed pipeline
-anchors on — is the wrong date, because every company had already filed
-confidentially.
+Does attention on **any** online platform move IPO underpricing — the first-day
+pop between the offer price and the first close?
 
-**What this study does not show.** Whether having a Wikipedia page *predicts*
-IPO underpricing. That question is here, pre-registered and honestly reported,
-and it comes back a null at n=290 with a confidence interval wide enough to
-contain the published effect and its opposite. It is not tuned until it agrees
-with the literature. See
-[Underpricing: two nulls](#underpricing-two-nulls-and-why-the-literature-disagrees).
+The plan was to test whichever platform gave usable data. Four were tried, in
+order.
 
-Full method, every source verdict and all limitations:
-**[`research/README.md`](research/README.md)**. Reproduce with
-[`research/notebooks/02_analysis.ipynb`](research/notebooks/02_analysis.ipynb) —
-it runs offline from committed data.
+## The platform search
 
----
+| Platform | Outcome |
+|---|---|
+| **News (GNews, NYT)** | GNews grants 30 days of history and strips article payloads. NYT works but is **zero in 63% of months** more than six months before a filing. |
+| **Reddit** | `redditapis.com` has no date-range parameter at all — one page of `sort=new` spanned 2.17 days. Unauthenticated endpoints return `403`. Usable only for coarse before/after windows. |
+| **X (Twitter)** | Counts are **right-censored**, and pagination is newest-first, so a monthly count read **0 for Figma** — the most-discussed design tool on the platform — because the budget ran out before reaching the window. |
+| **Hacker News** | A sweep of 1,004,502 items found meaningful discussion for **1 of 166** candidates. |
+| **Wikipedia** | Keyless, absolute, deterministic, complete back to 2015. **The only instrument with coverage good enough to test the question.** |
 
-## The finding that holds up
+Reddit and X were still good enough to *replicate* the attention-spike finding
+below. None of them could support the underpricing test. Wikipedia could.
 
-Under the JOBS Act an emerging growth company files a **confidential** draft
-registration statement (DRS) before its public S-1, and EDGAR exposes it only
-once the company actually goes public.
+## The finding
 
-**Every one of the 39 watchlist companies that filed a US registration statement
-had filed it confidentially first** — a median of **96 days** earlier, and up to
-**1,408 days**. For 4 of 39, the confidential filing falls outside even a
-24-month pre-S-1 window.
+**Companies that already had a Wikipedia article before going public are more
+underpriced — roughly 5 percentage points more.**
 
-![Per-company attention and price, with all three filing events marked](docs/images/company-panels.png)
+| | n | mean underpricing |
+|---|---:|---:|
+| had an article before listing | 128 | **+22.6%** |
+| no prior article | 401 | **+17.1%** |
+| **difference** | | **+5.5 pp** |
 
-StubHub is the clearest case: it filed confidentially in November 2021 and did
-not file publicly until March 2025 — **1,229 days**. Any study treating the
-public S-1 as "the start of the IPO process" is mismeasuring its event date,
-because the company was already in registration when the pre-filing window
-supposedly began. That includes this project's own deployed pipeline.
+529 US IPOs, 2014–2024. SE 3.26, t = 1.70, **p = 0.091**, 95% CI
+[−0.9, +11.9] pp. The estimate is stable across every treatment of the hard
+matches (+4.6 to +5.6 pp).
 
-This is a count of filings in EDGAR: no sampling inference, no scraper, no
-contested statistic, and reproducible offline from committed data. The selection
-bias even runs in its favour — the watchlist skews large, and large companies are
-*less* likely to qualify as emerging growth companies, so 39/39 is conservative.
+An earlier, noisier in-repo cohort points the same way: at n=456 the median gap
+is +8.8pp (17.1% vs 8.3%) with a controlled estimate of **+3.6pp (SE 8.18)**.
+Two independent samples, both positive, converging on roughly +4 to +6 pp.
 
-Note the asymmetry: DRS is **useless to the deployed pipeline**, which detects
-issuers in real time and cannot see a filing that is not yet public. It is only
-available retrospectively, which is exactly what a retrospective study needs.
+**Three caveats travel with that number, and the claim is only honest with
+them:**
 
----
+- The confidence interval **includes zero**. p = 0.091 clears 10%, not 5%.
+- The gap **does not survive controls**. Add VC backing and offer size and the
+  coefficient falls to +0.6pp (p = 0.86) — those two variables absorb it
+  entirely. So this is a difference between two groups, not evidence that
+  Wikipedia *causes* anything.
+- Four platforms were tried before this one. Searching across instruments
+  weakens a p = 0.09; adjusted for the search it is not close to significant.
 
-## The sample is biased, and here is how much
+Full method and every robustness check: [`thesis/`](thesis/) and
+[`thesis/data/out/RESULTS.md`](thesis/data/out/RESULTS.md).
 
-A census of every US IPO 2019–2026 (**4,132 records**, 2,959 priced, 431
-withdrawn) exists mainly so the hand-picked watchlist can be *shown* to be
-unrepresentative rather than disclaimed as such. The same collector was later
-extended back to 2006 for the replication cohort, giving 8,488 records in all.
+## Why Wikipedia was the right instrument: attention multiplies at the listing
 
-![Watchlist versus the full IPO population](docs/images/cohort-comparison.png)
-
-The watchlist is **68% billion-dollar deals against a population that is 3.6%**,
-and contains not one company from the two smallest deal-size buckets — which are
-62% of all priced IPOs. A list of "companies everyone remembers going public" is
-close to a list of the largest offerings.
-
-The census is validated against an independent number rather than trusted: a
-crude SPAC split gives 596 SPAC-like versus 448 operating listings for 2021,
-against widely reported figures of roughly 610 and 400.
-
----
-
-## The effect: attention multiplies at the listing
-
-The one relationship in this project that is large, unanimous and robust.
+The strongest relationship in the project, and the reason article existence is a
+sensible treatment at all.
 
 For each company, listing-month Wikipedia pageviews are divided by that
 company's **own** baseline — the median of months −13 to −2 relative to its
-public S-1, so the denominator ends before the filing and cannot contain the
-spike it scales. This is the Da/Engelberg/Gao (2011) abnormal-attention
-construction. Cross-company levels are meaningless here (SpaceX draws 81,000
-views/month before anyone files anything), so every company is compared only
-against itself.
+public S-1, so the denominator ends before the filing. Cross-company levels are
+meaningless (SpaceX draws 81,000 views/month before anyone files anything), so
+every company is compared only against itself.
 
 ![Abnormal Wikipedia attention in the listing month](docs/images/abnormal-attention.png)
 
-**All 27 companies with a usable baseline rose. Median 3.08×, IQR 1.65–4.72×,
-sign test p = 1.5 × 10⁻⁸.** The weakest case, Duolingo, still rose 1.15×;
-Snowflake rose 22×.
-
-Unanimity is the part worth stating, and it survives every filter:
+**All 27 companies with a usable baseline rose. Median 3.08×, sign test
+p = 1.5 × 10⁻⁸.** The weakest case, Duolingo, still rose 1.15×; Snowflake rose
+22×. It survives every filter, and the effect gets *smaller* as the sample gets
+cleaner — the direction an artifact does not move in.
 
 | baseline floor | companies | rose | median | sign test |
 |---|---|---|---|---|
 | none | 27 | **27/27** | 3.08× | p = 1.5e-08 |
-| ≥ 500 views/mo | 25 | **25/25** | 2.64× | p = 6.0e-08 |
 | ≥ 5,000 views/mo | 21 | **21/21** | 1.97× | p = 9.5e-07 |
 | ≥ 10,000 views/mo | 16 | **16/16** | 1.85× | p = 3.1e-05 |
 
-The ladder exists because a ratio is only as good as its denominator, and two
-denominators here are not trustworthy: Wikipedia's pageview API reports traffic
-by **title**, not by article, so a company whose page was renamed late reads with
-an implausibly small baseline. Peloton shows 3 views/month before its filing
-because that era's traffic sits under the old title. Those rows inflate the
-ratio, so they are flagged in orange in the figure and dropped at the first rung
-— and the result does not depend on them. The effect gets *smaller* as the
-sample gets cleaner, which is the direction an artifact does not move in.
-
-Two more gates matter. A month before the article existed is recorded as absent,
-never as zero, so "the article was created at the IPO" can never be read as
-"attention rose at the IPO". And the baseline requires at least six valid months,
-which is why 27 of 39 companies qualify rather than all of them.
-
-### The same effect in two other corpora
-
-Different platforms, different failure modes, same direction:
+And it replicates on the other two platforms:
 
 | instrument | usable | rose after listing | test |
 |---|---|---|---|
-| Wikipedia, listing-month abnormal attention | 27 companies | **27/27** | p = 1.5 × 10⁻⁸ |
-| X posts, 90-day windows | 25 pairs | 20/25 established | 0 reverse |
+| Wikipedia | 27 companies | **27/27** | p = 1.5 × 10⁻⁸ |
+| X posts, 90-day windows | 25 pairs | 20/25, **0 reverse** | censored-safe |
 | Reddit posts, 90-day windows | 11 pairs | **11/11** | p = 0.001 |
 
-![X chatter before filing versus after listing](docs/images/windows-twitter.png)
+Attention is *created* by the listing, not accumulated before it. Nothing
+detectable moves in the years beforehand.
 
-The X row is counted conservatively: most counts are right-censored, so a pair
-is only scored when the post-listing **lower bound** strictly exceeds the
-pre-filing **upper bound**. Twenty pairs clear that; five are indeterminate;
-**none** run the other way. Nothing is imputed to fill a censored count.
+## The other finding that holds up: everyone filed confidentially first
 
-Firefly Aerospace and Tempus AI had **exactly zero** pre-filing posts matching
-`"<company>" IPO`; Circle, Firefly and Arm had exactly zero on Reddit. Across
-four instruments the pre-filing period is close to empty — NYT is zero in 63% of
-months more than six months before the S-1, and an earlier pass over 1,004,502
-Hacker News items found meaningful discussion for 1 of 166 candidates.
+Under the JOBS Act an emerging growth company files a **confidential** draft
+registration statement before its public S-1, and EDGAR exposes it only once the
+company goes public.
 
-So the effect is real and it replicates across corpora. It is also close to a
-tautology: attention rises when a company starts trading. The question with
-actual content is whether attention moves *before* that — and the answer there is
-no, which is the next section.
+**All 39 watchlist companies that filed a US registration statement had filed it
+confidentially first** — a median of **96 days** earlier, up to **1,408**.
+StubHub filed confidentially in November 2021 and publicly in March 2025:
+**1,229 days**.
 
-### No detectable leakage during the confidential window
+Any study treating the public S-1 as "the start of the IPO process" is
+mismeasuring its event date — including this project's own deployed pipeline.
+This is a count of filings in EDGAR: no sampling inference, no contested
+statistic.
 
-The sharpest testable hypothesis the study generated: does attention move while
-the registration is secret?
+Anchored on the confidential filing, **14 of 20 companies rose into the
+confidential window (p = 0.115)** — not significant. The public filing is the
+attention event.
 
-![Wikipedia attention in relative time, anchored on the confidential DRS](docs/images/relative-time-drs.png)
+## The sample is biased, and here is how much
 
-Anchored on the DRS and restricted to the 20 companies with all three windows,
-median Wikipedia views per month go 21,260 → 27,986 → 54,194 across
-baseline / confidential / public. **14 of 20 rose into the confidential window
-(p = 0.115)** — not significant. 18 of 20 rose into the public window
-(p < 0.001).
+A census of every US IPO 2019–2026 (**4,132 records**) exists so the hand-picked
+watchlist can be *shown* unrepresentative rather than disclaimed as such.
 
-So the public filing is the attention event. And even had the confidential rise
-been significant, it would be equally consistent with a company simply becoming
-more famous — which is plausibly *why* it filed.
+![Watchlist versus the full IPO population](docs/images/cohort-comparison.png)
 
----
-
-## Underpricing: two nulls, and why the literature disagrees
-
-Does pre-listing attention predict first-day underpricing? Following Da,
-Engelberg & Gao (2011), attention is measured **strictly before the offer price
-is set** and expressed as *abnormal* attention — the event window over each
-company's own baseline, which controls for fame.
-
-![Abnormal pre-listing attention versus first-day underpricing](docs/images/underpricing.png)
-
-| n | Spearman ρ | 95% CI | threshold |
-|---|---|---|---|
-| 12 | +0.517 | [−0.080, +0.841] | 0.576 |
-| **35** | **+0.282** | [−0.057, +0.562] | 0.333 |
-
-**The estimate nearly halved when the sample grew.** The n=12 version was
-inflated by small-sample noise; written up as "ρ ≈ 0.52, just short of
-significance" it would have been a false positive dressed as near-evidence. The
-smaller estimate is the more credible one — ρ ≈ 0.28 sits squarely in the
-published range for attention effects, where 0.52 did not.
-
-The interval contains zero *and* contains a strong effect, so the honest reading
-is that this design cannot tell the difference. Detecting ρ = 0.28 at 80% power
-needs **n ≈ 97**. Deal size correlates at only +0.11, so whatever signal exists
-is not merely company size.
-
-### And the same question with a bigger sample: a positive lean, still imprecise
-
-A follow-on study switches the treatment from pageview *levels* to article
-*existence*, which is determinable for every company and lifts the eligible
-population well past the 39-company watchlist. Price collection for that cohort
-is now complete: **456 of 500** have a day-1 price.
-
-| group | n | median underpricing | mean |
-|---|---|---|---|
-| had a Wikipedia article before listing | 101 | **17.1%** | 27.6% |
-| no prior article | 355 | **8.3%** | 24.6% |
-
-Mann-Whitney **z = +1.511, p = 0.131**, rank-biserial **+0.098** — a treated firm
-outranks a control firm in 54.9% of the 35,855 pairs, against 50% under the null.
-The pre-registered OLS puts the conditional estimate at **+3.58pp (SE 8.18,
-p = 0.66)**.
-
-Not significant, and one caveat has to travel with the raw gap: most of the
-+8.8pp median difference is **deal-size composition**, not the article. Inside
-strata the sign does not hold — −4.0pp in $50–200M, −2.1pp in $200M–1B, +3.1pp
-above $1B, and the +40.1pp in the sub-$50M bucket rests on **3 treated firms**.
-That is exactly why the controlled estimate (+3.6pp) is well below the raw one
-(+8.8pp), and why the OLS is the primary test rather than the rank test.
-
-What changed with the data, and worth recording because it cuts against the
-earlier write-up: at **n = 290** this comparison had p = 0.97 and the statistics
-contradicted each other — the median said treated firms were higher, the mean and
-the OLS coefficient said lower. At **n = 456** the median, mean and coefficient
-all agree in sign, in the paper's direction. An earlier version of this section
-reported "p = 0.84, rank-biserial −0.02" at n = 224 and concluded the two
-operationalisations disagreed about direction. They no longer do: pageview levels
-lean positive (ρ = +0.282) and so does article existence. Neither excludes zero.
-
-### The published literature finds the effect, and its design is better than mine
-
-*Investor Awareness or Information Asymmetry? Wikipedia and IPO Underpricing*
-(The Financial Review, 10.1111/fire.12276) tests exactly the question above on
-**974 US IPOs, 2006–2016**, of which **330 (34%)** had a pre-IPO Wikipedia
-article, and finds that firms with an article show **significantly higher
-underpricing and offer price revisions**. Underpricing is defined identically to
-the measure used here — offer price to first close.
-
-Its specification, read off the internet appendix: **OLS**, `Wikipedia` as a
-binary regressor, controls for `VC`, `top_tier` (underwriter reputation),
-`overhang`, `pos_EPS`, `log_sales`, `nasdaq15`, `tech`, `log_age` and `log_news`,
-year fixed effects, and standard errors clustered two-way by **Fama-French 48
-industry and year**. n = 974, adjusted R² = 0.140, and the coefficient on
-`Wikipedia` is **+5.222pp with a standard error of 2.344** (t = 2.23).
-
-An earlier version of this section also credited the paper with controls for
-Google search volume, retail trading intensity and social media activity, plus
-propensity score matching and an instrumental variable. Only news coverage
-(`log_news`) appears anywhere in the appendix; the rest may be in the main text,
-which is not in hand, so the claim is withdrawn rather than restated.
-
-**The disagreement is precision, not sign.** Running the paper's estimator on
-this data gives a coefficient in the same region as theirs; what differs is the
-error bar around it.
-
-| | the paper | here |
-|---|---|---|
-| coefficient on an article | **+5.22pp** | **+3.58pp** |
-| standard error | **2.34pp** | **8.18pp** |
-| t | 2.23 | 0.44 |
-| n | 974 | 456 |
-| R² | 0.140 (adj.) | 0.043 |
-
-Their +5.22pp sits inside this study's 95% interval of **[−12.5, +19.6]pp**. So
-this is not evidence against the paper; it is an interval too wide to separate
-their effect from zero. The standard error is **3.5× theirs**, and that gap is
-the whole result.
-
-Two things close it, and neither is treatment measurement:
-
-**1. Their controls, which this data cannot build.** `top_tier` (+5.83) and `VC`
-(+6.47) carry their largest coefficients, and their nine controls reach an
-adjusted R² of 0.140 against 0.043 here. Underwriter tier needs 424B4 cover
-parsing; VC backing, firm age and sales need paid sources. Residual variance is
-what the standard error is made of.
-
-**2. Sample size.** 456 against 974, and this cohort is the noisier era: more
-than half of 2019–2026 priced listings are SPACs, excluded by necessity, and the
-2021 bubble is a third of the remainder.
-
-**Treatment measurement was the expected culprit and turned out not to be.** The
-paper's Exhibit A counts an article titled with the firm, its *parent*, a *major
-subsidiary*, a *predecessor*, a company it *separated from*, **or its core
-product or service**, hand-verified. This resolver originally attempted only the
-firm's own name, so rule (6) was implemented and probed properly —
-`resolve_articles_products()`, keyed on redirects out of the firm's own name.
-
-It produced 33 candidates and **6 accepted after hand review, three per cohort**:
-Rapid7 → Metasploit (its product, 2006 article against a 2015 listing), FireEye →
-Trellix and Rubicon Project → Magnite (own articles under later names), plus
-SpaceX, Tremor → Nexxen and Membership Collective → Soho House. Treatment moved
-89 → 92 in the replication cohort and 104 → 107 in the recent one, and the
-coefficient moved +3.4pp → +3.6pp.
-
-So the recall gap was real, bounded, and small. An earlier version of this
-section called the null "a failure of its own measurement"; that guess was
-testable and it was wrong.
-
-**Two corrections to what this section used to claim.** It said this study runs
-"a raw Mann-Whitney plus a crude split by deal-size bucket" and no controlled
-regression — the pre-registered OLS now runs, and is the primary estimate. And it
-read the paper's "96% of articles predate SEC registration" as evidence that
-articles are created nearer the IPO today. Exhibit A dissolves that: their 96% is
-measured among firms that *had* a pre-IPO article at all, while firms whose
-article came later are simply coded zero. The two figures have different
-denominators and never disagreed.
-
-**One difference that remains open and is disclosed rather than closed.** Their
-underpricing standard errors are clustered two-way by Fama-French 48 industry and
-year; this clusters one-way by offering year-quarter, because SIC industry is not
-recoverable for delisted 2006–16 tickers. The standard errors are therefore not
-strictly comparable. The pre-registration records this rather than papering over
-it — an earlier version of that file claimed the clustering matched, which it
-does not.
-
-Worth noting on mechanism: the paper's own evidence for the *information
-asymmetry* channel is weak — integer offer prices and the share of numbers in
-Wikipedia articles are both insignificant — so what it supports is investor
-**awareness**.
-
----
-
-## What the sources actually delivered
-
-Every source was measured before being designed around, and the measurements are
-committed in `research/data/source_probe.json`. **Three of seven did not
-survive:**
-
-| source | verdict |
-|---|---|
-| **GNews** | free tier grants **30 days** of history and strips article payloads — dropped rather than half-used |
-| **redditapis.com** | no date-range parameter at all; one page of `sort=new` spanned **2.17 days** |
-| **Finnhub candles** | `403` on this key |
-| **NYT Article Search** | works, but every fielded `fq` query returns 0, so precision rests on quoted phrases alone |
-| **Polygon** | licensed, but a **rolling 730-day** entitlement, account-wide across every endpoint |
-| **Tiingo** | all 39 companies back to 2019, and agrees with Polygon to **$0.0000** over 1,131 overlapping sessions |
-| **Wikipedia pageviews** | keyless, absolute, deterministic, 2015→today |
-
-Four price providers were tried before one worked. Two traps worth recording:
-Alpha Vantage's `apikey=demo` serves `outputsize=full` while the real free key
-does not, so probing with the demo key makes the tier look more capable than it
-is; and Dukascopy was **rejected on licensing** — its own client library states
-it is "not affiliated, endorsed, or vetted by Dukascopy Bank SA".
+The watchlist is **68% billion-dollar deals against a population that is 3.6%**,
+and contains nothing from the two smallest deal-size buckets — 62% of all priced
+IPOs. "Companies everyone remembers going public" is close to "the largest
+offerings."
 
 ## Things that were nearly published and were not
 
-The measurement work is the most defensible output, and several results were
-caught by construction rather than luck:
-
-- An **8-A anchor** that invented four date disagreements, because an 8-A
-  registers a security class before trading starts — Roblox filed one 2020-12-03
-  and first traded 2021-03-10.
+- An **8-A anchor** that invented four date disagreements — an 8-A registers a
+  security class before trading starts.
 - A Wikipedia title whose traffic belonged to a **Max Factory action-figure
   line** (`figma`), and another to a **Chinese county** (Huize).
-- A Reddit sweep that would have reported SpaceX's pre-filing count as **0** when
-  it had never looked that far back.
-- An X monthly count that read **0 for Figma** — the most-discussed design tool
-  on the platform — because pagination is newest-first and the budget ran out
-  before reaching the window.
+- A Reddit sweep that would have reported SpaceX's pre-filing count as **0**
+  when it had never looked that far back.
+- A price panel with a standard deviation of **249pp** — impossible for
+  first-day returns — caused by Yahoo's split history being incomplete for
+  micro-caps.
 
----
+Prior work on this exact question: *Wikipedia and IPO Underpricing*,
+The Financial Review, [10.1111/fire.12276](https://doi.org/10.1111/fire.12276),
+which finds +5.22pp on 974 US IPOs 2006–2016.
 
 ---
 
 # The platform
 
-The deployed pipeline the study grew out of: SEC EDGAR ingestion, prospectus
-extraction, entity resolution against **pre-ticker** issuers (the hard part —
-these companies have no symbol to search for yet), a FastAPI backend, and a
-Next.js dashboard.
+SEC EDGAR ingestion, prospectus extraction, entity resolution against
+**pre-ticker** issuers (the hard part — no symbol to search for yet), a FastAPI
+backend and a Next.js dashboard.
 
-It scores each issuer on two independent axes — **hype** (social mention volume
-and velocity, z-scored across the active cohort) and **quality** (revenue
-growth, margin, leverage, underwriter tier from the filings) — and two views fall
-out of the pair: **Hidden Gems** (quality without attention) and **Overheated**
-(attention without fundamental support).
+It scores each issuer on two axes — **hype** (mention volume and velocity,
+z-scored across the active cohort) and **quality** (revenue growth, margin,
+leverage, underwriter tier) — giving **Hidden Gems** (quality without attention)
+and **Overheated** (attention without support).
 
 ## Scope and data handling
 
-This is a personal, **non-commercial** learning project. It is not a product, it
-is not monetised, it has no users other than its author, and nothing it produces
-is sold or served to third parties.
+A personal, **non-commercial** learning project. Not a product, not monetised,
+no users other than its author.
 
-**Read-only.** The system consumes public data and writes nothing back. It does
-not post, comment, vote, message, follow, or modify anything on any external
-platform. There is no code path that issues a write to a social API — the source
-adapter interface exposes a single method, `fetch(since) -> list[RawMention]`.
-
-**Usernames are never stored.** Social authors are persisted only as
-`mentions.author_hash`, a SHA-256 salted with a value held outside the database
-(`MENTION_HASH_SALT`). The raw username is discarded at ingestion and never
-written to disk or logged. The only supported use of the hash is counting
-*distinct* authors per issuer per day, so that ten posts from one account are not
-mistaken for ten people talking. The system does not profile users, infer user
-characteristics, build user-level histories, or attempt re-identification.
-
-**90-day retention on raw content.** Individual `mentions` rows — title, excerpt,
-URL, author hash — are deleted 90 days after `posted_at` by a scheduled sweep.
-The daily aggregates in `mention_daily` (counts and distinct-author totals)
-persist, because the long-run signal lives there. This is what keeps the project
-a metrics pipeline rather than an archive of other people's posts. The policy is
-recorded in the database itself as a `COMMENT ON TABLE`, so it survives a
-`pg_dump` and is visible to anyone auditing the schema.
-
-**Aggregate analysis only.** The unit of analysis is the *issuer*, never the
-person. Posts are counted and their engagement is summed; they are not
-republished. Stored excerpts exist so a human reviewer can audit whether a
-company-name match was correct, which is the review queue's entire purpose.
-
-**Identified, rate-limited traffic.** Every outbound request carries a
-descriptive `User-Agent` with a real contact address, and each source's rate
-limit is enforced in one place with exponential backoff. SEC EDGAR is capped at
-its published 10 requests/second.
+- **Read-only.** The source adapter interface exposes one method,
+  `fetch(since) -> list[RawMention]`. There is no code path that writes to any
+  external platform.
+- **Usernames are never stored.** Authors persist only as
+  `mentions.author_hash`, SHA-256 salted with a value held outside the database.
+  The raw username is discarded at ingestion. The only supported use is counting
+  *distinct* authors per issuer per day.
+- **90-day retention on raw content.** Individual `mentions` rows are deleted 90
+  days after `posted_at`; daily aggregates persist. Recorded in the database as
+  a `COMMENT ON TABLE` so it survives a `pg_dump`.
+- **Aggregate analysis only.** The unit of analysis is the issuer, never the
+  person.
+- **Identified, rate-limited traffic.** Descriptive `User-Agent` with a real
+  contact address; SEC EDGAR capped at its published 10 req/s.
 
 ### Sources
 
 | Source | Auth | Status |
 |---|---|---|
-| SEC EDGAR | none required; identified `User-Agent` | in use |
-| Hacker News (Algolia) | none required | in use |
-| GDELT (DOC 2.0) | none required | adapter written, live fetch blocked — see below |
-| Reddit | OAuth, keyed | adapter built, inactive until credentials are set |
+| SEC EDGAR | none; identified `User-Agent` | in use |
+| Hacker News (Algolia) | none | in use |
+| GDELT (DOC 2.0) | none | adapter written, live fetch blocked |
+| Reddit | OAuth, keyed | built, inactive until credentials are set |
 
-> **GDELT caveat, stated rather than hidden:** the adapter is written to the
-> documented DOC 2.0 `artlist` schema and its transform is unit-tested, but it
-> has never received a live response. Every request from this machine returned
-> `429` over ~10 minutes, including single requests after 150 seconds of
-> silence, while GDELT's `summary` endpoint returned `200` — so the host is
-> reachable and this is not our request rate. The field *mapping* is therefore
-> documented-but-unconfirmed. It is not counted as a working source.
+> **GDELT caveat:** the adapter matches the documented DOC 2.0 schema and its
+> transform is unit-tested, but it has never received a live response — every
+> request returned `429` while GDELT's `summary` endpoint returned `200`. The
+> field mapping is documented-but-unconfirmed, and it is not counted as working.
 
-**Reddit goes through OAuth or not at all.** The adapter authenticates against
-`oauth.reddit.com` with a `client_credentials` bearer token. That grant carries
-no user context, so it cannot post, vote, or message — read-only by
-construction rather than by discipline. It sits behind the same
-`SourceAdapter` interface as every other source and is subject to the same
-author hashing and 90-day retention.
-
-It is registered **only** when `REDDIT_CLIENT_ID` and `REDDIT_CLIENT_SECRET`
-are both set. An unconfigured deployment issues no request to `reddit.com`.
-
-Unauthenticated endpoints are not an alternative. Measured from a residential
-IP with a descriptive `User-Agent`: `reddit.com/search.json` → `403`,
-`/r/*/new.json` → `403`, `old.reddit.com/search.json` → `302` to a block page.
-Reddit closed that access, so an adapter built on it would contribute zero
-mentions permanently. Details in [`docs/sources.md`](docs/sources.md).
-
----
+**Reddit goes through OAuth or not at all** — `client_credentials` carries no
+user context, so it cannot post, vote or message. Registered only when both
+`REDDIT_CLIENT_ID` and `REDDIT_CLIENT_SECRET` are set. Unauthenticated
+endpoints are not an alternative: `search.json` → `403`, `/r/*/new.json` →
+`403`, `old.reddit.com` → `302` to a block page.
 
 ## What was measured
 
-Three accuracy figures, each from a hand-labelled set scored **before** any
-tuning. The caveats are part of the result.
+Each figure from a hand-labelled set scored **before** any tuning.
 
 | | | measured on |
 |---|---|---|
-| **Prospectus extraction** | **75%** price accuracy | 12 held-out filings, scored once before tuning. Reads 92% after fixing what that run exposed — on a set that is no longer clean. |
-| **Entity resolution** | **0.70** precision | 100 sampled matches from 1,004,502 Hacker News items. Substring matching over the same corpus is 4.3% precise. |
-| **Event detection** | **0.99** recall | 160 of 162 priced IPOs on Finnhub's independent calendar, from SEC filings alone. Precision 0.79. |
+| **Prospectus extraction** | **75%** price accuracy | 12 held-out filings, scored once before tuning |
+| **Entity resolution** | **0.70** precision | 100 sampled matches from 1,004,502 HN items |
+| **Event detection** | **0.99** recall | 160 of 162 priced IPOs on an independent calendar |
 
-**Recall for entity resolution is unbounded between 0.11 and 0.84.** A 40-item
-reject sample against 161,013 candidates cannot narrow it, so no single recall
+Recall for entity resolution is unbounded between 0.11 and 0.84, so no single
 number is quoted.
 
-### The sample size is the binding constraint
+**The event study is a null.** Only **6 of 188** confirmed listings have matched
+attention within 14 days of listing, so 96–98% of the sample sits at zero. The
+30-day `p = 0.048` rests on 6 observations and is not a finding.
 
-The event study tests whether attention around a listing predicts
-underperformance from the opening price. It needs attention data on *both* sides
-of the listing date and a return horizon after it, and joint availability is
-small:
+One result there *is* well powered and is not about attention: **buying at the
+opening price lost money at the median over every horizon** — −8.5% at 30 days,
+−15.9% at 60, −15.7% at 90, with 63–68% of listings negative.
 
-| attention corpus | 30-day | 60-day | 90-day |
-|---|---|---|---|
-| 90 days | 24 | 9 | **0** |
-| 210 days — the ceiling | 74 | 59 | 25 |
-
-That zero was **structural, not unlucky**: a 90-day return needs a listing at
-least 90 days old, and attention ±14 days around it then falls before a 90-day
-corpus begins. Past 210 days the constraint stops being attention and becomes
-EDGAR depth.
-
-### The event study: a null result
-
-Does elevated attention around a listing predict underperformance from the
-opening price? **No usable relationship — the attention axis is too sparse to
-test the thesis.** Window (±14 days), horizons, metric and test were all fixed
-before the data was seen.
-
-| horizon | n | with attention | Spearman ρ | p | median return |
-|---|---|---|---|---|---|
-| 30 days | 171 | **6** | 0.151 | 0.048 | −8.5% |
-| 60 days | 157 | 4 | 0.133 | 0.099 | −15.9% |
-| 90 days | 112 | 2 | 0.083 | 0.418 | −15.7% |
-
-Only **6 of 188** confirmed listings have any matched attention within 14 days of
-listing, so 96–98% of the sample sits at zero. A rank correlation over a variable
-that is zero almost everywhere is decided by a handful of points: the 30-day
-`p = 0.048` rests on **6 observations** and is not a finding. Its sign is also
-opposite the hypothesis — the discussed listings did *better*.
-
-**One result here is well powered, and it is not about attention:** buying at the
-opening price lost money at the median over every horizon — −8.5% at 30 days,
-−15.9% at 60, −15.7% at 90, with 63–68% of listings negative. A descriptive fact
-about this window, not a test of the thesis.
-
-Reproduce with `python -m backend.study`. Returns are derived from the stored bar
-series on read, never cached.
-
-### Two findings that changed the project
-
-**97% of matched attention belongs to companies that already trade.** Across 90
-days of Hacker News, only 42 mentions attached to a pre-IPO issuer — all of them
-one company. The supportable claim is narrow: *Hacker News is the wrong venue
-for this cohort.* Retail pre-IPO discussion lives on Reddit, which is gated
-behind a pending API approval.
-
-**An absence-based filter excluded 195 of 199 real listing events.** It defined
-an IPO candidate as an issuer with no ticker — and a company acquires a ticker
-precisely *by* completing the event being observed. See
-[`docs/form-type-vs-event.md`](docs/form-type-vs-event.md), which collects three
-separate bugs with that one root cause.
+**Two findings that changed the project:** 97% of matched attention belongs to
+companies that already trade; and an absence-based filter excluded 195 of 199
+real listing events, because a company acquires a ticker precisely *by*
+completing the event being observed.
 
 Full write-ups: [extraction](docs/extraction-eval.md) ·
 [matching](docs/matching.md) · [event study](docs/event-study-design.md)
-
----
-
-## Architecture
-
-Three processes and one database. The API never computes anything expensive; the
-worker never serves a request.
-
-```mermaid
-flowchart LR
-    EDGAR[SEC EDGAR]:::ext
-    HN[Hacker News]:::ext
-    GDELT[GDELT]:::ext
-
-    subgraph W["worker process (APScheduler)"]
-        ING[ingest: filings, mentions]
-        EXT[extract: cover-page terms]
-        SCORE[score: nightly rollup]
-    end
-
-    DB[(Postgres 17)]
-
-    subgraph A["api process (FastAPI)"]
-        API["/api/v1"]
-    end
-
-    NEXT[Next.js server components]:::ui
-
-    EDGAR --> ING
-    HN --> ING
-    GDELT --> ING
-    ING --> EXT --> DB
-    ING --> DB
-    DB --> SCORE --> DB
-    DB --> API --> NEXT
-
-    classDef ext fill:#eef,stroke:#88a
-    classDef ui fill:#efe,stroke:#8a8
-```
-
-**Why the worker is a separate process.** Ingestion spends most of its wall-clock
-asleep against a rate limiter, and a crash while parsing a 3 MB prospectus should
-not take request-serving down with it. They share only the database.
-
-**Why scores are precomputed.** A hype score is cohort-relative — a z-score needs
-every peer's mention volume — so computing it per request would scan the cohort
-on every page load, and two users hitting the same page would see different
-numbers.
-
-**Why the frontend has no direct database access.** Next.js server components
-call FastAPI over HTTP. That keeps one implementation of every query and one
-place where authorisation will live, rather than two.
-
-**Idempotency is structural.** No watermarks, no "already processed" bookkeeping.
-The poller re-reads a rolling window and leans on `filings.accession_no` and
-`mentions(source, source_uid)` being UNIQUE. That is what makes the worker safe
-to restart mid-run or leave off for a week.
-
----
 
 ## Status
 
 | Phase | Scope | State |
 |---|---|---|
-| 0 | Skeleton: schema, migrations, `/health` | done |
-| 1 | Vertical slice: `GET /api/v1/issuers` → Next.js list | **current** |
-| 2a | EDGAR ingestion worker (issuers + filings) | done |
-| 2b | Prospectus extraction (underwriters, price range) | done |
-| 3a | Retention sweep, adapter interface, HN + GDELT | done |
-| 3b | Entity resolution + matching evaluation | done |
+| 0 | Schema, migrations, `/health` | done |
+| 1 | `GET /api/v1/issuers` → Next.js list | **current** |
+| 2a/2b | EDGAR ingestion; prospectus extraction | done |
+| 3a/3b | Retention sweep, adapters; entity resolution | done |
 | 4 | Scoring | **next** |
-| 5 | Dashboard | not started |
-| 6 | Hardening + deploy | not started |
-
-The study is a separate track, not a phase of the platform:
-
-| | Scope | State |
-|---|---|---|
-| R1 | Source capability probe — what each provider actually delivers | done |
-| R2 | Tier A census: every US IPO 2019–2026 | done |
-| R3 | Tier B watchlist, verified against EDGAR | done |
-| R4 | EDGAR event timeline (DRS, Form D, comment letters) | done |
-| R5 | Attention: Wikipedia, NYT, X and Reddit windows | done |
-| R6 | Underpricing vs abnormal attention | done — a null at n=35 |
-| R7 | Notability (article existence) vs underpricing, n≈500 | **prices collecting** — flat at n=224, p = 0.84 |
-| R7b | Widen the article resolver to the published matching rules | not started — the likely cause of R7's null |
-| R8 | Withdrawn-company control group | not started |
-
-R8 is the highest-value work outstanding for the attention question: 431
-withdrawn issuers are already in the census and Wikipedia is keyless and
-unmetered, so it costs nothing but time and it is what would turn the leakage
-null from "not detected" into "tested against a control".
-
-R7b matters more for the underpricing question. The published result on this
-exact question uses six article-matching rules (firm, parent, subsidiary,
-predecessor, separated-from, core product) with manual verification; this
-resolver attempts only the firm's own name, which discards known-treated firms
-and pushes a binary treatment effect toward zero.
-
----
+| 5–6 | Dashboard; hardening + deploy | not started |
 
 ## Stack
 
 **Backend** — Python 3.13, FastAPI, `asyncpg` with hand-written SQL (no ORM),
-numbered `.sql` migrations applied by `backend/migrate.py`, `pydantic-settings`
-for config. Workers run as a separate process (Phase 2).
-
-**Frontend** — Next.js 16 App Router, TypeScript, Tailwind (wired up in Phase 1).
-
+numbered `.sql` migrations via `backend/migrate.py`, `pydantic-settings`.
+**Frontend** — Next.js 16 App Router, TypeScript, Tailwind.
 **Infra** — Postgres 17 in a container locally, Neon when deployed.
-
----
 
 ## Setup
 
-### 1. Configure
-
 ```bash
-cp .env.example .env
-# edit POSTGRES_PASSWORD
-```
-
-`.env` is gitignored. It configures both the Postgres container and the app —
-`docker-compose.yml` passes the `POSTGRES_*` vars to the image, and
-`backend/config.py` reads the same names via `pydantic-settings`. Compose
-overrides `POSTGRES_HOST=db` for the containers; the value in `.env` is the one
-your host machine uses.
-
-### 2. Run
-
-```bash
+cp .env.example .env      # edit POSTGRES_PASSWORD
 docker compose up --build
 ```
 
-That starts three things in order:
-
-1. **`db`** — Postgres 17, with a healthcheck so nothing talks to it early.
-2. **`migrate`** — one-shot, applies pending migrations, exits 0.
-3. **`api`** — FastAPI on `:8000`, gated on `migrate` completing successfully.
-4. **`worker`** — EDGAR ingestion on a schedule, in its own process.
-
-### 3. Verify
+That starts `db` (Postgres 17, healthchecked) → `migrate` (one-shot, exits 0) →
+`api` (FastAPI on `:8000`) and `worker` (EDGAR ingestion, own process).
 
 ```bash
-curl -s localhost:8000/health | jq
+curl -s localhost:8000/health | jq      # 200 means a real DB round-trip
+uv run python -m backend.seed           # ten real SEC registrants
 ```
 
-```json
-{
-  "status": "healthy",
-  "database": "connected",
-  "db_time": "2026-09-05T18:22:41.113204Z",
-  "db_version": "17.11"
-}
-```
+The health timestamp comes from `SELECT now()` inside Postgres, not the API
+process, so a 200 means a connection was borrowed and a query ran. Unreachable
+database returns `503`. Interactive docs: <http://localhost:8000/docs>
 
-The timestamp comes from `SELECT now()` inside Postgres, not from the API
-process — so a 200 here means a connection was actually borrowed from the pool
-and a query actually ran. If the database is unreachable the endpoint returns
-`503`.
-
-Interactive API docs: <http://localhost:8000/docs>
-
-### 4. Load the starter issuers
+Dashboard:
 
 ```bash
-uv run python -m backend.seed
+cd frontend && cp .env.example .env.local && npm install && npm run dev
 ```
-
-Ten real SEC registrants, pulled from EDGAR — see `backend/seed.py` for the
-exact provenance of every field. Re-running it is safe; it upserts on `cik`.
-Phase 2 replaces this with the EDGAR ingestion worker.
-
-```bash
-curl -s "localhost:8000/api/v1/issuers?limit=3" | jq
-```
-
-### 5. Run the dashboard
-
-```bash
-cd frontend
-cp .env.example .env.local
-npm install
-npm run dev          # http://localhost:3000
-```
-
----
 
 ## API
 
-Versioned under `/api/v1`. Every list endpoint uses **cursor pagination** and
+Versioned under `/api/v1`. Every list endpoint uses cursor pagination and
 returns `{ "data": [...], "meta": { "next_cursor": ... } }`.
 
 ```
@@ -736,8 +288,6 @@ GET  /api/v1/review/queue        low-confidence matches awaiting a human
 POST /api/v1/review/{mention_id} confirm or reject a proposed match
 ```
 
----
-
 ## Ingestion
 
 ```bash
@@ -745,71 +295,20 @@ uv run python -m backend.worker --once   # one pass
 uv run python -m backend.worker          # schedule and stay up
 ```
 
-The worker polls EDGAR's daily indexes for `S-1`, `S-1/A`, `F-1`, `F-1/A`, and
-`424B4`, then upserts `issuers` and `filings`.
+Polls EDGAR's daily indexes for `S-1`, `S-1/A`, `F-1`, `F-1/A` and `424B4`, then
+upserts `issuers` and `filings`.
 
-**Idempotency is structural.** There is no watermark and no "already processed"
-bookkeeping. Each run re-reads a rolling window of daily indexes
-(`SEC_LOOKBACK_DAYS`, default 7) and leans on two constraints: `accession_no` is
-UNIQUE, so a re-read inserts nothing, and `cik` is UNIQUE, so the issuer upsert
-merges. The worker is therefore safe to restart mid-run or leave off for a week —
-it catches up on its own, and a second run reports `filings(+0/skip 67)`.
+**Idempotency is structural.** No watermark, no "already processed" bookkeeping.
+Each run re-reads a rolling window (`SEC_LOOKBACK_DAYS`, default 7) and leans on
+two constraints: `accession_no` is UNIQUE so a re-read inserts nothing, and
+`cik` is UNIQUE so the issuer upsert merges. Safe to restart mid-run or leave
+off for a week.
 
-**Status only moves forward.** `filed → priced → listed`, enforced with
-`array_position` in the upsert. Without that ladder, the sliding lookback window
-would drag a priced issuer back to `filed` every time it re-read an old
-amendment. `withdrawn` is set by hand and never overwritten by ingestion.
-
-**Rate limiting lives in one place.** Every sec.gov request goes through
-`backend/sec/client.py`, which spaces them with a lock rather than a token
-bucket — a bucket permits a burst, and a burst is what trips SEC's throttle even
-when the average rate is legal. Default 6 req/s against a published ceiling of
-10. Retries are exponential with jitter and honour `Retry-After`.
-
-**Offering terms are extracted, with provenance.** Newly-inserted filings get
-their prospectus cover parsed for a price and a syndicate. Every value carries
-`extraction_confidence`, `extraction_method` (the rule that fired, or the reason
-nothing was written) and `price_disclosure` — which separates *"the issuer has
-not set a range yet"* from *"we could not read it"*. Those are different facts
-and Phase 4 needs to tell them apart.
-
-Measured against 32 hand-labelled filings: **92% price accuracy and 1.00
-underwriter precision on a held-out set** — see `docs/extraction-eval.md`, which
-also reports the pre-tuning number (75%), the one remaining failure, and why a
-7% price fill rate across the live corpus is the correct outcome rather than
-something to tune away.
-
-**A 403 from EDGAR is ambiguous.** A missing daily index (weekend, holiday,
-future date) returns 403 — the same status as being throttled. Rather than guess
-dates and interpret the result, the poller reads the quarter's `index.json` to
-learn which daily indexes actually exist, and requests only those. A 403 whose
-body contains `Undeclared Automated Tool` is raised as a distinct
-misconfiguration error, because no amount of retrying fixes a rejected
-`User-Agent`.
-
-`meta.next_cursor` is `null` on the last page — test for its presence rather
-than counting rows against `limit`.
-
-The cursor is opaque on purpose (base64 of a small JSON blob, carrying nothing
-that is not already in the response). Clients that cannot read it cannot depend
-on its shape, which leaves the sort key free to change. It also records which
-sort produced it, so replaying a cursor against a different `sort` is a `400`
-rather than a silently wrong page.
-
-Pagination is **keyset**, not `LIMIT/OFFSET`: the query jumps straight to the
-last row's position on the sort index, so page cost is constant and a
-concurrent insert cannot shift a page the reader has already passed.
-
-`sort` currently accepts only `filed_at`. `hype`, `quality`, and `gem` read from
-`scores`, which the worker does not populate until Phase 4; offering them now
-would return an arbitrary order that looked authoritative. Asking for one gets a
-`422` naming the valid values.
-
----
+**Status only moves forward** — `filed → priced → listed`, enforced with
+`array_position` in the upsert, so the sliding lookback cannot drag a priced
+issuer back to `filed`.
 
 ## Running without containers
-
-The app is a normal Python project; only Postgres needs to come from somewhere.
 
 ```bash
 uv sync
@@ -818,131 +317,73 @@ uv run python -m backend.migrate   # apply schema
 uv run fastapi dev                 # serve on :8000 with reload
 ```
 
-`uv run fastapi dev` needs no path argument because the entrypoint is declared
-under `[tool.fastapi]` in `pyproject.toml`.
-
----
+No path argument needed — the entrypoint is declared under `[tool.fastapi]` in
+`pyproject.toml`.
 
 ## Migrations
 
-Plain SQL in `migrations/`, named `NNN_description.sql`, applied in numeric
-order by `backend/migrate.py`.
+Plain SQL in `migrations/`, `NNN_description.sql`, applied in numeric order by
+`backend/migrate.py`. Each applied file is recorded in `schema_migrations` with
+a SHA-256 of its contents, enforcing three rules:
 
-```bash
-uv run python -m backend.migrate
-```
+- **Never edit an applied migration** — the checksum catches it and refuses.
+- **Never backfill a lower number** — the result would be a schema no fresh
+  database could reproduce.
+- **One transaction per migration** — Postgres has transactional DDL, so a
+  half-failed migration leaves nothing behind.
 
-Tests need local Postgres settings, and refuse to run otherwise:
+Concurrent runners are serialized with a session advisory lock.
+
+Tests need local Postgres settings and refuse to run otherwise:
 
 ```bash
 POSTGRES_HOST=localhost POSTGRES_USER=ipo POSTGRES_PASSWORD=local_dev_password \
 POSTGRES_DB=ipo POSTGRES_SSLMODE=prefer uv run pytest tests/ -q
 ```
 
-The guard exists because the suite reads `.env`, so once `.env` was filled in
+That guard exists because the suite reads `.env`, so once `.env` was filled in
 for the deploy, `pytest` began opening transactions against production. Every
 test rolls back, so nothing was lost — but that was luck, not design.
 
-The runner records each applied file in a `schema_migrations` table along with a
-SHA-256 of its contents, and enforces three rules:
-
-- **Never edit an applied migration.** The checksum comparison catches it and
-  refuses to continue, because at that point the file and the live schema
-  describe different databases. Write a new numbered file instead.
-- **Never backfill a lower number.** If `003` is applied and `002` shows up
-  pending, the runner stops — applying it would produce a schema that no fresh
-  database could reproduce.
-- **One transaction per migration.** Postgres has transactional DDL, so a
-  migration that fails halfway leaves nothing behind.
-
-Concurrent runners are serialized with a session advisory lock, so a compose
-restart that starts two of them cannot double-apply.
-
----
-
 ## Schema
 
-Ten tables in `migrations/001_initial_schema.sql`. Two decisions there are
-load-bearing and worth stating up front:
+Ten tables in `migrations/001_initial_schema.sql`. Two load-bearing decisions:
 
-**`mentions.issuer_id` is nullable.** A mention that could not be resolved to an
-issuer is *kept*, with a `match_confidence` and a `needs_review` flag, rather
-than dropped. Entity resolution against pre-ticker companies is genuinely hard —
-"Circle", "Figure", and "Rivian" are ordinary words, brand names, and ticker-like
-strings all at once — so the pipeline is built to be audited. Discarding the
-misses would make precision unmeasurable.
+**`mentions.issuer_id` is nullable.** An unresolved mention is *kept*, with a
+`match_confidence` and a `needs_review` flag, rather than dropped. "Circle",
+"Figure" and "Rivian" are ordinary words, brand names and ticker-like strings at
+once, so the pipeline is built to be audited — discarding misses would make
+precision unmeasurable.
 
-**`scores` is precomputed.** The worker writes one snapshot per issuer per day;
-the API only ever reads it. Scoring is a cohort-relative operation (a z-score
-needs every peer's mention volume), so computing it per request would mean
-scanning the cohort on every page load, and two users hitting the same page would
-see different numbers.
+**`scores` is precomputed.** One snapshot per issuer per day; the API only
+reads. Scoring is cohort-relative (a z-score needs every peer's volume), so
+computing per request would scan the cohort on every page load.
 
-Money and ratios are `NUMERIC`, never floating point. Status/kind/role columns
-are `TEXT` + `CHECK` rather than Postgres `ENUM`, so a later migration can change
-the allowed set with an ordinary `ALTER TABLE`.
-
----
+Money and ratios are `NUMERIC`, never float. Status/kind/role columns are
+`TEXT` + `CHECK` rather than `ENUM`, so a later migration can change the allowed
+set with an ordinary `ALTER TABLE`.
 
 ## Layout
 
 ```
 migrations/          numbered .sql, applied in order
-  001_initial_schema.sql
 backend/
-  main.py            FastAPI app, lifespan (opens/closes the pool), CORS
-  config.py          pydantic-settings; builds the DSN
-  db.py              asyncpg pool, and the Depends wiring routes use
+  main.py            FastAPI app, lifespan, CORS
+  config.py db.py    settings + DSN; asyncpg pool and Depends wiring
   pagination.py      opaque cursor encode/decode
   normalize.py       company-name normalisation for entity resolution
-  migrate.py         migration runner
-  seed.py            ten real EDGAR registrants, with provenance
-  worker.py          APScheduler process; --once for a single pass
-  http.py            shared rate limiting + retry (one limiter per source)
-  sources/
-    base.py          RawMention + the SourceAdapter protocol
-    hackernews.py    Algolia API, keyless
-    gdelt.py         DOC 2.0 API, keyless
-  sec/
-    client.py        the only place that talks to sec.gov: rate limit + backoff
-    index.py         daily-index discovery and parsing
-    submissions.py   per-issuer company metadata
-  extract/
-    text.py          HTML -> text, and locating the cover page
-    prospectus.py    price + underwriter rules, all able to give up
-    underwriters.py  curated bank dictionary
-  match/
-    aliases.py       alias generation per issuer
-    matcher.py       candidate -> scored match -> threshold
-    common_words.py  ordinary English words, bundled not read from the host
-  ingest/
-    edgar.py         idempotent upserts into issuers + filings
-    social.py        fetch, match, persist
-    offerings.py     persists extracted terms with provenance
-    retention.py     the 90-day sweep
-tests/
-  fixtures/          hand-labelled validation sets (dev + held-out)
-  evaluate_extraction.py
-  api/
-    health.py        GET /health
-    issuers.py       GET /api/v1/issuers
-  Dockerfile
-frontend/
-  app/page.tsx       Server Component: renders the issuer table
-  app/error.tsx      Client Component: error boundary (see the note inside)
-  lib/api.ts         typed client for the FastAPI backend
-research/            the study -- see research/README.md
-  collect/           one module per source; every one resumable and cached
-  figures.py         figure frames, then plots that read only those frames
-  render_figures.py  regenerates the PNGs in docs/images/ for this README
-  notebooks/         01 collection, 02 analysis (runs offline)
-  tests/             64 tests, own pytest root (no database)
-                     Separate from the deployed pipeline: writes files, not the
-                     database, and its dependencies are a group the deployed
-                     image does not install.
+  migrate.py seed.py worker.py http.py
+  sources/           RawMention + SourceAdapter; hackernews, gdelt
+  sec/               the only place that talks to sec.gov
+  extract/           HTML -> text, cover-page location, price + underwriters
+  match/             alias generation, scored matching, bundled common words
+  ingest/            idempotent upserts, social, offerings, 90-day retention
+tests/               hand-labelled validation sets (dev + held-out)
+frontend/            Next.js App Router; server-rendered issuer table
+research/            the attention study -- see research/README.md
+thesis/              the underpricing study -- see thesis/README.md
 docker-compose.yml   db + migrate + api
-.env.example         committed; .env is not
 ```
 
-The pre-FastAPI Django/Celery version of this project lives in git history at
-commit `81691fc` and earlier.
+The pre-FastAPI Django/Celery version lives in git history at commit `81691fc`
+and earlier.
