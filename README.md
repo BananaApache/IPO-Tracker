@@ -208,27 +208,38 @@ is that this design cannot tell the difference. Detecting ρ = 0.28 at 80% power
 needs **n ≈ 97**. Deal size correlates at only +0.11, so whatever signal exists
 is not merely company size.
 
-### And the same question with a bigger sample says nothing at all
+### And the same question with a bigger sample: a positive lean, still imprecise
 
 A follow-on study switches the treatment from pageview *levels* to article
 *existence*, which is determinable for every company and lifts the eligible
-population to 1,169. That removes the sample-size objection — and the answer gets
-*weaker*, not stronger.
+population well past the 39-company watchlist. Price collection for that cohort
+is now complete: **456 of 500** have a day-1 price.
 
-At 224 of a planned 500 (collection is paced against Tiingo's hourly allocation):
+| group | n | median underpricing | mean |
+|---|---|---|---|
+| had a Wikipedia article before listing | 101 | **17.1%** | 27.6% |
+| no prior article | 355 | **8.3%** | 24.6% |
 
-| group | n | median underpricing |
-|---|---|---|
-| had a Wikipedia article before filing | 43 | 12.6% |
-| no prior article | 181 | 10.7% |
+Mann-Whitney **z = +1.511, p = 0.131**, rank-biserial **+0.098** — a treated firm
+outranks a control firm in 54.9% of the 35,855 pairs, against 50% under the null.
+The pre-registered OLS puts the conditional estimate at **+3.58pp (SE 8.18,
+p = 0.66)**.
 
-Mann-Whitney **p = 0.84**, rank-biserial **−0.02**. The 1.9-point median gap is
-noise, and inside deal-size strata the sign does not even hold: +15.8pp in
-$50–200M, −0.3pp in $200M–1B, −11.1pp above $1B.
+Not significant, and one caveat has to travel with the raw gap: most of the
++8.8pp median difference is **deal-size composition**, not the article. Inside
+strata the sign does not hold — −4.0pp in $50–200M, −2.1pp in $200M–1B, +3.1pp
+above $1B, and the +40.1pp in the sub-$50M bucket rests on **3 treated firms**.
+That is exactly why the controlled estimate (+3.6pp) is well below the raw one
+(+8.8pp), and why the OLS is the primary test rather than the rank test.
 
-So two different operationalisations of "Wikipedia attention" disagree about the
-*direction* of any effect — pageview levels lean positive but cannot exclude
-zero, article existence is flat.
+What changed with the data, and worth recording because it cuts against the
+earlier write-up: at **n = 290** this comparison had p = 0.97 and the statistics
+contradicted each other — the median said treated firms were higher, the mean and
+the OLS coefficient said lower. At **n = 456** the median, mean and coefficient
+all agree in sign, in the paper's direction. An earlier version of this section
+reported "p = 0.84, rank-biserial −0.02" at n = 224 and concluded the two
+operationalisations disagreed about direction. They no longer do: pageview levels
+lean positive (ρ = +0.282) and so does article existence. Neither excludes zero.
 
 ### The published literature finds the effect, and its design is better than mine
 
@@ -236,55 +247,90 @@ zero, article existence is flat.
 (The Financial Review, 10.1111/fire.12276) tests exactly the question above on
 **974 US IPOs, 2006–2016**, of which **330 (34%)** had a pre-IPO Wikipedia
 article, and finds that firms with an article show **significantly higher
-underpricing and offer price revisions**. It survives controls for Google search
-volume, news coverage, retail trading intensity, social media activity,
-propensity score matching and an instrumental variable. Underpricing is defined
-identically to the measure used here — offer price to first close.
+underpricing and offer price revisions**. Underpricing is defined identically to
+the measure used here — offer price to first close.
 
-**The disagreement is a design gap, not a contradiction, and my design is the
-weaker one.** Four differences, in descending order of how much they matter:
+Its specification, read off the internet appendix: **OLS**, `Wikipedia` as a
+binary regressor, controls for `VC`, `top_tier` (underwriter reputation),
+`overhang`, `pos_EPS`, `log_sales`, `nasdaq15`, `tech`, `log_age` and `log_news`,
+year fixed effects, and standard errors clustered two-way by **Fama-French 48
+industry and year**. n = 974, adjusted R² = 0.140, and the coefficient on
+`Wikipedia` is **+5.222pp with a standard error of 2.344** (t = 2.23).
 
-**1. My treatment variable is too narrow, which biases toward zero.** The paper's
-Exhibit A assigns an article to an IPO when it is titled with the firm, its
-*parent*, a *major subsidiary*, a *predecessor*, a company it *separated from*,
-**or its core product or service** — with manual verification. Examples they
-count: Hertz Global Holdings → "The Hertz Corporation", NYMEX Holdings → "New
-York Mercantile Exchange", Neurometrix → "Quell" (its product), Intersections →
-"Identity Guard" (its service).
+An earlier version of this section also credited the paper with controls for
+Google search volume, retail trading intensity and social media activity, plus
+propensity score matching and an instrumental variable. Only news coverage
+(`log_news`) appears anywhere in the appendix; the rest may be in the main text,
+which is not in hand, so the claim is withdrawn rather than restated.
 
-My resolver attempts **only the firm's own name** and then rejects anything
-Wikidata does not type as an organisation. It therefore discarded at least four
-cases the paper would count: GitLab (article typed as software), Couchbase
-("Couchbase Server"), Verve Therapeutics ("Verve PCSK9-inhibitor"), Olaplex
-("brand"). It never even attempts parent, subsidiary or predecessor titles, so
-the false-negative count is **bounded below by 4 and unmeasured above**.
-Misclassifying treated firms as controls attenuates a binary treatment effect
-toward zero — which was flagged as a known conservative bias when the resolver
-was built, and is the most likely reason this study sees nothing.
+**The disagreement is precision, not sign.** Running the paper's estimator on
+this data gives a coefficient in the same region as theirs; what differs is the
+error bar around it.
 
-My article rate is **22%** against their **34%**, consistent with that.
+| | the paper | here |
+|---|---|---|
+| coefficient on an article | **+5.22pp** | **+3.58pp** |
+| standard error | **2.34pp** | **8.18pp** |
+| t | 2.23 | 0.44 |
+| n | 974 | 456 |
+| R² | 0.140 (adj.) | 0.043 |
 
-**2. No controls.** They run OLS with controls, PSM and IV. This runs a raw
-Mann-Whitney plus a crude split by deal-size bucket. A raw rank test on an
-unbalanced sample can easily miss what a controlled regression finds.
+Their +5.22pp sits inside this study's 95% interval of **[−12.5, +19.6]pp**. So
+this is not evidence against the paper; it is an interval too wide to separate
+their effect from zero. The standard error is **3.5× theirs**, and that gap is
+the whole result.
 
-**3. Different era.** 2006–2016 versus 2019–2026. More than half of this period's
-priced listings are SPACs, excluded here by necessity; the 2021 bubble is a
-third of the remainder.
+Two things close it, and neither is treatment measurement:
 
-**4. Endogeneity is worse now.** 316 of their 330 articles (96%) predate SEC
-registration, and they show few are created near the S-1. Only 75% of the
-articles found here predate listing minus 90 days — articles get created *at*
-IPO time far more often in this period, which is why the cutoff exists.
+**1. Their controls, which this data cannot build.** `top_tier` (+5.83) and `VC`
+(+6.47) carry their largest coefficients, and their nine controls reach an
+adjusted R² of 0.140 against 0.043 here. Underwriter tier needs 424B4 cover
+parsing; VC backing, firm age and sales need paid sources. Residual variance is
+what the standard error is made of.
 
-**So the honest reading is that this project's null is a failure of its own
-measurement, not evidence against the effect.** Two things to note, though: the
-paper's own evidence for the *information asymmetry* channel is weak — integer
-offer prices and the share of numbers in Wikipedia articles are both
-insignificant — so the mechanism it supports is investor **awareness**. And
-fixing the resolver here is a real, bounded piece of work: implement the
-remaining five matching rules and hand-verify, which is what would make this
-sample comparable.
+**2. Sample size.** 456 against 974, and this cohort is the noisier era: more
+than half of 2019–2026 priced listings are SPACs, excluded by necessity, and the
+2021 bubble is a third of the remainder.
+
+**Treatment measurement was the expected culprit and turned out not to be.** The
+paper's Exhibit A counts an article titled with the firm, its *parent*, a *major
+subsidiary*, a *predecessor*, a company it *separated from*, **or its core
+product or service**, hand-verified. This resolver originally attempted only the
+firm's own name, so rule (6) was implemented and probed properly —
+`resolve_articles_products()`, keyed on redirects out of the firm's own name.
+
+It produced 33 candidates and **6 accepted after hand review, three per cohort**:
+Rapid7 → Metasploit (its product, 2006 article against a 2015 listing), FireEye →
+Trellix and Rubicon Project → Magnite (own articles under later names), plus
+SpaceX, Tremor → Nexxen and Membership Collective → Soho House. Treatment moved
+89 → 92 in the replication cohort and 104 → 107 in the recent one, and the
+coefficient moved +3.4pp → +3.6pp.
+
+So the recall gap was real, bounded, and small. An earlier version of this
+section called the null "a failure of its own measurement"; that guess was
+testable and it was wrong.
+
+**Two corrections to what this section used to claim.** It said this study runs
+"a raw Mann-Whitney plus a crude split by deal-size bucket" and no controlled
+regression — the pre-registered OLS now runs, and is the primary estimate. And it
+read the paper's "96% of articles predate SEC registration" as evidence that
+articles are created nearer the IPO today. Exhibit A dissolves that: their 96% is
+measured among firms that *had* a pre-IPO article at all, while firms whose
+article came later are simply coded zero. The two figures have different
+denominators and never disagreed.
+
+**One difference that remains open and is disclosed rather than closed.** Their
+underpricing standard errors are clustered two-way by Fama-French 48 industry and
+year; this clusters one-way by offering year-quarter, because SIC industry is not
+recoverable for delisted 2006–16 tickers. The standard errors are therefore not
+strictly comparable. The pre-registration records this rather than papering over
+it — an earlier version of that file claimed the clustering matched, which it
+does not.
+
+Worth noting on mechanism: the paper's own evidence for the *information
+asymmetry* channel is weak — integer offer prices and the share of numbers in
+Wikipedia articles are both insignificant — so what it supports is investor
+**awareness**.
 
 ---
 

@@ -67,6 +67,10 @@ NOTABILITY_PARQUET = DATA / "notability.parquet"
 # Eligibility, fixed before any outcome is observed.
 MIN_OFFER_PRICE = 5.0
 CUTOFF_DAYS = 90
+# Consecutive unexplained empty price responses before a run gives up. Low on
+# purpose: the cause is almost always the daily allowance, and every further
+# request would cache a false negative.
+SUSPECT_ABORT = 5
 
 # Two cohorts, because the study and the published result it is compared against
 # share **zero tickers**: the paper covers 2006-2016 and the census as first
@@ -546,6 +550,7 @@ async def collect_prices(*, batch: int = 0, per_hour: int = TIINGO_PER_HOUR,
     todo = [r for _, r in sample.iterrows() if str(r["symbol"]) not in have]
     if batch:
         todo = todo[:batch]
+    suspect = 0
     logger.info("prices: %d cached, %d to fetch", len(have), len(todo))
 
     # Quota is per CLOCK HOUR, so pacing is done against the hour boundary, not
@@ -638,6 +643,12 @@ async def collect_prices(*, batch: int = 0, per_hour: int = TIINGO_PER_HOUR,
                         params={"token": token})
                 except Exception:
                     pass
+                m_start = (str(meta["startDate"])[:10]
+                           if isinstance(meta, dict) and meta.get("startDate")
+                           else None)
+                m_end = (str(meta["endDate"])[:10]
+                         if isinstance(meta, dict) and meta.get("endDate")
+                         else None)
                 if isinstance(meta, dict) and meta.get("startDate"):
                     if str(meta["startDate"])[:10] > listing.isoformat():
                         note = (f"ticker now held by an entity trading only from "
@@ -646,9 +657,46 @@ async def collect_prices(*, batch: int = 0, per_hour: int = TIINGO_PER_HOUR,
                     else:
                         note = (f"ticker exists from {str(meta['startDate'])[:10]} "
                                 f"but has no bars at the listing date")
+                # An empty array from a ticker whose own metadata says it HAS
+                # data covering this window is not a fact about the ticker. It
+                # is the free tier's daily unique-symbol allowance being spent:
+                # Tiingo answers HTTP 200 with `[]` rather than 429, so nothing
+                # in the transport layer notices.
+                #
+                # This cost a 400-company cohort once. The recent cohort spent
+                # ~490 symbols earlier in the same UTC day, and every one of the
+                # 364 replication tickers that followed was cached as "no bars
+                # at the listing date" -- FOXF, GSM and VTTI among them, all of
+                # which return 7 bars on a retry the next UTC day. A cached
+                # false negative is worse than an error: the re-run skips it.
+                #
+                # So the anomaly is neither cached nor counted, and a run of
+                # them aborts the collection. Ten more hours of `[]` is the
+                # worst available outcome.
+                start_ok = (m_start is not None
+                            and m_start <= (listing + timedelta(days=10)).isoformat())
+                end_ok = (m_end is None
+                          or m_end >= (listing - timedelta(days=5)).isoformat())
+                if start_ok and end_ok:
+                    suspect += 1
+                    logger.warning(
+                        "prices: %s returned NO bars though Tiingo reports data "
+                        "from %s to %s covering the window -- not cached "
+                        "(suspect %d/%d)", sym, m_start, m_end, suspect,
+                        SUSPECT_ABORT)
+                    if suspect >= SUSPECT_ABORT:
+                        logger.error(
+                            "prices: %d consecutive unexplained empty responses. "
+                            "The daily unique-symbol allowance is the usual "
+                            "cause; it resets at UTC midnight. Aborting rather "
+                            "than caching false negatives.", suspect)
+                        break
+                    continue
+                suspect = 0
                 have[sym] = {"symbol": sym, "bars": [], "note": note,
                              "tiingo_name": (meta or {}).get("name"),
                              "tiingo_start": (meta or {}).get("startDate"),
+                             "tiingo_end": (meta or {}).get("endDate"),
                              "calendar_listing_date": listing.isoformat()}
                 fetched += 1
                 # Flushed here too. This branch counts as a fetch and costs up
@@ -661,6 +709,7 @@ async def collect_prices(*, batch: int = 0, per_hour: int = TIINGO_PER_HOUR,
                 paths["prices"].write_text(json.dumps(have, indent=1) + "\n")
                 logger.info("%-24s %s: %s", row["name"][:24], sym, note[:60])
                 continue
+            suspect = 0
             bars = sorted(bars, key=lambda b: b["date"])
             first = bars[0]
             have[sym] = {"symbol": sym, "first_trade_date": first["date"][:10],
@@ -1480,8 +1529,18 @@ SPEC = {
                  "listing minus CUTOFF_DAYS, else 0)",
     "controls": ["log(deal_usd)", "log(offer_price)",
                  "offering-year fixed effects", "exchange fixed effects"],
-    "standard_errors": "clustered by offering year-quarter, matching the "
-                       "published study's stated clustering",
+    # Corrected after reading the paper's internet appendix. Its UNDERPRICING
+    # regressions cluster two-way by Fama-French (1997) 48-industry and year;
+    # offering year-quarter is what its POST-IPO performance table uses, and an
+    # earlier version of this spec claimed the wrong one matched. Two-way
+    # industry clustering is not reachable here because SIC industry is itself
+    # on the not-reproducible list below, so the difference is disclosed rather
+    # than closed.
+    "standard_errors": "clustered by offering year-quarter (one-way). The "
+                       "published study clusters two-way by Fama-French 48 "
+                       "industry and year for underpricing; industry is "
+                       "unavailable here, so this does NOT match and the "
+                       "standard errors are not directly comparable",
     "winsorization": "underpricing winsorised at the 1st and 99th percentiles; "
                      "the raw-sample result is reported alongside, and neither "
                      "is chosen after the fact",
@@ -1492,7 +1551,10 @@ SPEC = {
         "SIC industry (delisted 2006-16 tickers absent from company_tickers.json)",
         "underwriter rank (needs 424B4 cover parsing)",
         "firm age, VC backing (need paid sources)",
-        "propensity score matching and the instrumental variable",
+        "the paper's full control set: VC backing, underwriter tier "
+        "(top_tier), share overhang, positive EPS, log sales, firm age, tech "
+        "dummy and prior-15-day Nasdaq return -- these carry its largest "
+        "coefficients (top_tier +5.83, VC +6.47) and most of its R2 of 0.140",
         "analyst following and institutional ownership (I/B/E/S, 13F)",
     ],
 }

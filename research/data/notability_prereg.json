@@ -1,5 +1,7 @@
 {
   "registered_at": "2026-09-09T02:16:53.756964+00:00",
+  "amended_at": "2026-09-10T02:09:34.740035+00:00",
+  "amendment": "Corrected two factual claims about the published study after reading its internet appendix: the clustering it uses for underpricing, and its control set. Neither changes the estimand, the treatment definition or the primary estimate.",
   "spec": {
     "dependent": "underpricing = d1_close / offer_price - 1",
     "treatment": "notable_pre_ipo (1 if a Wikipedia article existed before listing minus CUTOFF_DAYS, else 0)",
@@ -9,7 +11,7 @@
       "offering-year fixed effects",
       "exchange fixed effects"
     ],
-    "standard_errors": "clustered by offering year-quarter, matching the published study's stated clustering",
+    "standard_errors": "clustered by offering year-quarter (one-way). The published study clusters two-way by Fama-French 48 industry and year for underpricing; industry is unavailable here, so this does NOT match and the standard errors are not directly comparable",
     "winsorization": "underpricing winsorised at the 1st and 99th percentiles; the raw-sample result is reported alongside, and neither is chosen after the fact",
     "primary_estimate": "the coefficient on notable_pre_ipo",
     "one_sided": false,
@@ -18,7 +20,7 @@
       "SIC industry (delisted 2006-16 tickers absent from company_tickers.json)",
       "underwriter rank (needs 424B4 cover parsing)",
       "firm age, VC backing (need paid sources)",
-      "propensity score matching and the instrumental variable",
+      "the paper's full control set: VC backing, underwriter tier (top_tier), share overhang, positive EPS, log sales, firm age, tech dummy and prior-15-day Nasdaq return -- these carry its largest coefficients (top_tier +5.83, VC +6.47) and most of its R2 of 0.140",
       "analyst following and institutional ownership (I/B/E/S, 13F)"
     ]
   }
