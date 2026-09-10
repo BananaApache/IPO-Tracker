@@ -123,6 +123,20 @@ def is_spac(name: str, symbol: str, offer: float) -> tuple[bool, str]:
         return True, "name contains 'acquisition'"
     if re.fullmatch(r"[A-Z]{3,4}U", (symbol or "").upper()):
         return True, "unit-ticker pattern"
+    # The pre-2010 convention separates the unit marker: JKA-U, TTY.U, GFN-U.
+    # Seven of these reached the 2006-2016 sample, among them General Finance
+    # Corp and Community Bankers Trust -- both blank-check vehicles. They cause
+    # no harm in that run because Tiingo carries no unit tickers and they 404
+    # out, but relying on a provider's coverage gap to enforce an eligibility
+    # rule is not a rule.
+    #
+    # Deliberately NOT extended to the era's $6 and $8 offer prices. That was
+    # the first guess and it is wrong: OpGen, Recro Pharma, VisionChina and
+    # Internet Brands all priced at $6-$8 and are ordinary operating companies.
+    # Low offer prices are small-cap pricing in that period, not a SPAC tell;
+    # only the $10.00 point is, and it is already handled in `eligible`.
+    if re.fullmatch(r"[A-Z]{2,4}[-.]U", (symbol or "").upper()):
+        return True, "unit-ticker pattern (separated)"
     return False, ""
 
 
