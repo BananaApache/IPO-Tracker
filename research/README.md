@@ -22,6 +22,23 @@ uv run --group research python -m research.collect.prices --priority 1
 uv run --group research python -m research.collect.twitter --recompute # free; paid to collect
 ```
 
+### The underpricing arm
+
+[`underpricing/`](underpricing/) is a second, larger cohort built entirely from
+free sources — Jay Ritter's IPO universe, EDGAR 424B prospectus covers for offer
+prices, Yahoo for first-day closes, and a validated Wikipedia article matcher.
+It answers the question this module's Tier B cohort was too small to settle, and
+it is where the **+5.5pp** result lives.
+
+```bash
+uv run --group research python research/underpricing/build_panel.py   # crawl, resumable
+```
+
+Code lives in `research/underpricing/`; its data lives with everything else
+under `research/data/underpricing/`. `raw/` and `cache/` there are gitignored on
+size — the rest of `research/data/` is committed as usual. See
+[`underpricing/README.md`](underpricing/README.md).
+
 The research dependencies are a separate group. The deployed image runs
 `uv sync --locked --no-dev`, which does not install them, so the API and worker
 do not gain a pandas dependency for the sake of a notebook.

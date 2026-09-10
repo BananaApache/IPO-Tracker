@@ -1,0 +1,32 @@
+[23:17:26] universe: 1998 IPOs (2014-2024, non-ADR, non-SPAC)
+[23:17:32] CIK resolved: 1899/1998 (95%)
+[23:18:05]   prices 250/1998
+[23:18:47]   prices 500/1998
+[23:19:30]   prices 750/1998
+[23:20:13]   prices 1000/1998
+[23:20:55]   prices 1250/1998
+[23:21:38]   prices 1500/1998
+[23:22:21]   prices 1750/1998
+[23:23:03] first-day close: 1061/1998 (53%)
+[23:23:20]   offers 100/1061
+[23:23:43]   offers 200/1061
+[23:24:08]   offers 300/1061
+[23:24:31]   offers 400/1061
+[23:24:56]   offers 500/1061
+[23:25:22]   offers 600/1061
+[23:25:47]   offers 700/1061
+[23:26:12]   offers 800/1061
+[23:26:38]   offers 900/1061
+[23:27:04]   offers 1000/1061
+[23:27:19] offer price parsed: 899/1061 (85%)
+[23:31:35]   wiki 100/899
+[23:34:02]   wiki 200/899
+[23:36:30]   wiki 300/899
+[23:39:13]   wiki 400/899
+[23:41:39]   wiki 500/899
+[23:44:23]   wiki 600/899
+[23:46:41]   wiki 700/899
+[23:49:17]   wiki 800/899
+[23:51:31] WROTE /Users/daniel/Documents/coding_stuff/IPOTracker/thesis/data/out/panel.json with 899 rows
+[23:51:31] wiki: accept=235 ambiguous=131 api_error=6
+[23:51:31] wiki==1 among accepted: 135

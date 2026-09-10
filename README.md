@@ -3,7 +3,7 @@
 Two things live in this repository:
 
 1. **A research study** on whether online attention affects IPO underpricing —
-   in [`research/`](research/) and [`thesis/`](thesis/).
+   in [`research/`](research/).
 2. **The deployed pipeline** it grew out of — SEC EDGAR ingestion, entity
    resolution against pre-ticker issuers, a FastAPI backend and a Next.js
    dashboard. Starts at [The platform](#the-platform).
@@ -65,8 +65,9 @@ them:**
 - Four platforms were tried before this one. Searching across instruments
   weakens a p = 0.09; adjusted for the search it is not close to significant.
 
-Full method and every robustness check: [`thesis/`](thesis/) and
-[`thesis/data/out/RESULTS.md`](thesis/data/out/RESULTS.md).
+Full method and every robustness check:
+[`research/underpricing/`](research/underpricing/) and its
+[RESULTS.md](research/data/underpricing/out/RESULTS.md).
 
 ## Why Wikipedia was the right instrument: attention multiplies at the listing
 
@@ -380,8 +381,13 @@ backend/
   ingest/            idempotent upserts, social, offerings, 90-day retention
 tests/               hand-labelled validation sets (dev + held-out)
 frontend/            Next.js App Router; server-rendered issuer table
-research/            the attention study -- see research/README.md
-thesis/              the underpricing study -- see thesis/README.md
+research/            the study -- see research/README.md
+  collect/           one module per source: wikipedia, nyt, reddit, twitter,
+                     edgar, prices, census
+  underpricing/      the Wikipedia-vs-underpricing arm: pipeline, crawler,
+                     three notebooks
+  data/              committed outputs; data/underpricing/{raw,cache} ignored
+  figures.py         figure frames, then plots that read only those frames
 docker-compose.yml   db + migrate + api
 ```
 
